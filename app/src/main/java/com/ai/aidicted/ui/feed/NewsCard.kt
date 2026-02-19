@@ -119,14 +119,14 @@ fun NewsCard(
         if (article.source != null) {
             Box(
                 modifier = Modifier
-                    .padding(start = 20.dp, top = 56.dp)
+                    .padding(start = 20.dp, top = 100.dp) // Increased top padding to avoid overlap
                     .align(Alignment.TopStart)
             ) {
                 Surface(
                     shape = RoundedCornerShape(24.dp),
-                    color = Color.White.copy(alpha = 0.15f),
-                    border = null,
-                    tonalElevation = 0.dp
+                    color = NeonCyan.copy(alpha = 0.15f), // Highlighted background
+                    border = androidx.compose.foundation.BorderStroke(1.dp, NeonCyan.copy(alpha = 0.5f)), // Highlighted border
+                    tonalElevation = 4.dp
                 ) {
                     Box(
                         modifier = Modifier.padding(horizontal = 14.dp, vertical = 7.dp)
@@ -136,9 +136,9 @@ fun NewsCard(
                             style = MaterialTheme.typography.labelSmall.copy(
                                 letterSpacing = 1.5.sp,
                                 fontWeight = FontWeight.Bold,
-                                fontSize = 10.sp
+                                fontSize = 11.sp
                             ),
-                            color = Color.White.copy(alpha = 0.95f)
+                            color = NeonCyan // Highlighted text color
                         )
                     }
                 }

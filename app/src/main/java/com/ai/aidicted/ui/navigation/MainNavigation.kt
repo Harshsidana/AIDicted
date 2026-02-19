@@ -10,9 +10,11 @@ import androidx.compose.foundation.shape.RoundedCornerShape
 import androidx.compose.material.icons.Icons
 import androidx.compose.material.icons.filled.Favorite
 import androidx.compose.material.icons.filled.Home
+import androidx.compose.material.icons.filled.Info
 import androidx.compose.material.icons.filled.Search
 import androidx.compose.material.icons.outlined.FavoriteBorder
 import androidx.compose.material.icons.outlined.Home
+import androidx.compose.material.icons.outlined.Info
 import androidx.compose.material.icons.outlined.Search
 import androidx.compose.material3.*
 import androidx.compose.runtime.*
@@ -29,6 +31,7 @@ import androidx.compose.ui.text.font.FontWeight
 import androidx.compose.ui.unit.Dp
 import androidx.compose.ui.unit.dp
 import androidx.compose.ui.unit.sp
+import com.ai.aidicted.ui.contact.ContactScreen
 import com.ai.aidicted.ui.favorites.FavoritesScreen
 import com.ai.aidicted.ui.feed.NewsFeedScreen
 import com.ai.aidicted.ui.search.SearchScreen
@@ -46,6 +49,7 @@ sealed class BottomNavItem(
     data object Feed : BottomNavItem("feed", "Feed", Icons.Filled.Home, Icons.Outlined.Home)
     data object Favorites : BottomNavItem("favorites", "Saved", Icons.Filled.Favorite, Icons.Outlined.FavoriteBorder)
     data object Search : BottomNavItem("search", "Search", Icons.Filled.Search, Icons.Outlined.Search)
+    data object Contact : BottomNavItem("contact", "Contact", Icons.Filled.Info, Icons.Outlined.Info)
 }
 
 @Composable
@@ -54,7 +58,12 @@ fun MainNavigation(
     onDeepLinkConsumed: () -> Unit = {}
 ) {
     var selectedTab by remember { mutableIntStateOf(0) }
-    val items = listOf(BottomNavItem.Feed, BottomNavItem.Favorites, BottomNavItem.Search)
+    val items = listOf(
+        BottomNavItem.Feed,
+        BottomNavItem.Favorites,
+        BottomNavItem.Search,
+        BottomNavItem.Contact
+    )
     val density = LocalDensity.current
     var navBarHeightDp by remember { mutableStateOf(0.dp) }
 
@@ -76,6 +85,7 @@ fun MainNavigation(
                     )
                     1 -> FavoritesScreen()
                     2 -> SearchScreen()
+                    3 -> ContactScreen()
                 }
             }
         }
@@ -85,7 +95,7 @@ fun MainNavigation(
             modifier = Modifier
                 .align(Alignment.BottomCenter)
                 .navigationBarsPadding()
-                .padding(horizontal = 48.dp, vertical = 16.dp)
+                .padding(horizontal = 24.dp, vertical = 16.dp)
                 .onGloballyPositioned { coordinates ->
                     with(density) {
                         navBarHeightDp = coordinates.size.height.toDp() + 16.dp // plus the vertical padding
