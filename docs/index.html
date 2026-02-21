@@ -1,0 +1,269 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="description"
+        content="AIDicted - Stay ahead with curated AI news from TechCrunch, The Verge, Wired, MIT Tech Review, and more.">
+    <meta property="og:title" content="AIDicted — AI News in Seconds">
+    <meta property="og:description"
+        content="Curated AI updates, delivered in bite-sized cards. No fluff, just the future.">
+    <title>AIDicted — AI News in Seconds</title>
+    <link rel="icon"
+        href="data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'><text y='.9em' font-size='90'>⚡</text></svg>">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700;800;900&display=swap"
+        rel="stylesheet">
+    <link rel="stylesheet" href="assets/css/style.css">
+</head>
+
+<body>
+
+    <!-- Ambient background -->
+    <div class="bg-ambient">
+        <div class="orb orb-1"></div>
+        <div class="orb orb-2"></div>
+        <div class="orb orb-3"></div>
+    </div>
+
+    <!-- Navbar -->
+    <nav class="navbar" id="navbar">
+        <div class="container nav-inner">
+            <a href="#" class="logo" onclick="showSection('home')">AI<span class="logo-accent">dicted</span><span
+                    class="logo-dot">.</span></a>
+            <ul class="nav-links" id="navLinks">
+                <li><a href="#" class="nav-link active" data-section="home" onclick="showSection('home')">Feed</a></li>
+                <li><a href="#" class="nav-link" data-section="search" onclick="showSection('search')">Search</a></li>
+                <li><a href="#" class="nav-link" data-section="favorites" onclick="showSection('favorites')">Saved</a>
+                </li>
+                <li><a href="#" class="nav-link" data-section="contact" onclick="showSection('contact')">Contact</a>
+                </li>
+            </ul>
+            <button class="hamburger" id="hamburger" onclick="toggleMenu()">
+                <span></span><span></span><span></span>
+            </button>
+        </div>
+    </nav>
+
+    <!-- ===== HOME / FEED SECTION ===== -->
+    <section id="section-home" class="section active">
+
+        <!-- Hero Banner -->
+        <div class="hero">
+            <div class="container hero-inner">
+                <div class="hero-text">
+                    <span class="badge pulse">🔴 LIVE AI NEWS</span>
+                    <h1>Your daily dose of <span class="gradient-text">AI intelligence</span></h1>
+                    <p class="hero-sub">Curated from TechCrunch, The Verge, Wired, MIT Technology Review & more. No
+                        fluff, just the future.</p>
+                    <div class="hero-stats">
+                        <div class="stat"><span id="articleCount">—</span><small>Articles</small></div>
+                        <div class="stat-divider"></div>
+                        <div class="stat"><span>6</span><small>Sources</small></div>
+                        <div class="stat-divider"></div>
+                        <div class="stat"><span id="savedCount">0</span><small>Saved</small></div>
+                    </div>
+                </div>
+                <div class="hero-sources">
+                    <div class="source-bubbles">
+                        <span class="source-pill tc">TechCrunch</span>
+                        <span class="source-pill verge">The Verge</span>
+                        <span class="source-pill wired">Wired</span>
+                        <span class="source-pill mit">MIT Tech</span>
+                        <span class="source-pill ars">Ars Technica</span>
+                        <span class="source-pill vb">VentureBeat</span>
+                    </div>
+                </div>
+            </div>
+        </div>
+
+        <!-- Filter Bar -->
+        <div class="filter-bar">
+            <div class="container filter-inner">
+                <div class="filter-chips" id="filterChips">
+                    <button class="chip active" data-filter="all" onclick="filterBySource(this, 'all')">All</button>
+                    <button class="chip" data-filter="TechCrunch"
+                        onclick="filterBySource(this, 'TechCrunch')">TechCrunch</button>
+                    <button class="chip" data-filter="The Verge" onclick="filterBySource(this, 'The Verge')">The
+                        Verge</button>
+                    <button class="chip" data-filter="Wired" onclick="filterBySource(this, 'Wired')">Wired</button>
+                    <button class="chip" data-filter="MIT Tech Review"
+                        onclick="filterBySource(this, 'MIT Tech Review')">MIT Tech Review</button>
+                    <button class="chip" data-filter="Ars Technica" onclick="filterBySource(this, 'Ars Technica')">Ars
+                        Technica</button>
+                    <button class="chip" data-filter="VentureBeat"
+                        onclick="filterBySource(this, 'VentureBeat')">VentureBeat</button>
+                </div>
+                <button class="refresh-btn" onclick="loadNews()" title="Refresh">
+                    <svg id="refreshIcon" width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor"
+                        stroke-width="2">
+                        <polyline points="23 4 23 10 17 10"></polyline>
+                        <polyline points="1 20 1 14 7 14"></polyline>
+                        <path d="M3.51 9a9 9 0 0 1 14.85-3.36L23 10M1 14l4.64 4.36A9 9 0 0 0 20.49 15"></path>
+                    </svg>
+                </button>
+            </div>
+        </div>
+
+        <!-- Loading State -->
+        <div class="container" id="loadingState">
+            <div class="loader-wrap">
+                <div class="loader-ring"></div>
+                <p class="loader-text">Fetching AI news from 6 sources…</p>
+            </div>
+        </div>
+
+        <!-- Error State -->
+        <div class="container" id="errorState" style="display:none;">
+            <div class="error-wrap">
+                <span class="error-icon">⚡</span>
+                <h3>Something went wrong</h3>
+                <p>Couldn't fetch news. Please try again.</p>
+                <button class="btn btn-primary" onclick="loadNews()">Retry</button>
+            </div>
+        </div>
+
+        <!-- News Grid -->
+        <div class="container">
+            <div class="news-grid" id="newsGrid"></div>
+        </div>
+
+        <!-- Progress Bar (top) -->
+        <div class="top-progress" id="topProgress"></div>
+    </section>
+
+    <!-- ===== SEARCH SECTION ===== -->
+    <section id="section-search" class="section">
+        <div class="container">
+            <div class="section-header-block">
+                <h2>Search <span class="gradient-text">AI News</span></h2>
+                <p>Find articles across all sources</p>
+            </div>
+            <div class="search-box">
+                <svg class="search-icon" width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor"
+                    stroke-width="2">
+                    <circle cx="11" cy="11" r="8"></circle>
+                    <line x1="21" y1="21" x2="16.65" y2="16.65"></line>
+                </svg>
+                <input type="text" id="searchInput" class="search-input"
+                    placeholder="Search for GPT, Gemini, robotics, ethics…" oninput="performSearch(this.value)"
+                    autocomplete="off">
+                <button class="search-clear" id="searchClear" onclick="clearSearch()" style="display:none">✕</button>
+            </div>
+            <p id="searchResultsCount" class="results-count" style="display:none;"></p>
+            <div class="news-grid" id="searchGrid"></div>
+            <div class="empty-state" id="searchEmpty" style="display:none;">
+                <span>�</span>
+                <h3>No results found</h3>
+                <p>Try searching for "OpenAI", "Gemini", "robotics" or "LLM".</p>
+            </div>
+            <div class="empty-state" id="searchPlaceholder">
+                <span>🧠</span>
+                <h3>Search anything AI</h3>
+                <p>Type above to search across all fetched articles.</p>
+            </div>
+        </div>
+    </section>
+
+    <!-- ===== FAVORITES SECTION ===== -->
+    <section id="section-favorites" class="section">
+        <div class="container">
+            <div class="section-header-block">
+                <h2>Saved <span class="gradient-text">Articles</span></h2>
+                <p>Your personally curated reading list</p>
+            </div>
+            <div class="news-grid" id="favoritesGrid"></div>
+            <div class="empty-state" id="favoritesEmpty">
+                <span>🤍</span>
+                <h3>Nothing saved yet</h3>
+                <p>Tap the bookmark icon on any article to save it here.</p>
+            </div>
+        </div>
+    </section>
+
+    <!-- ===== CONTACT SECTION ===== -->
+    <section id="section-contact" class="section">
+        <div class="container">
+            <div class="section-header-block">
+                <h2>Contact <span class="gradient-text">Us</span></h2>
+                <p>We'd love to hear your feedback or questions about AIDicted.</p>
+            </div>
+            <div class="contact-grid">
+                <a href="mailto:harsh.sidana@gmail.com" class="contact-card">
+                    <div class="contact-icon">✉️</div>
+                    <h3>Email Support</h3>
+                    <span>harsh.sidana@gmail.com</span>
+                </a>
+                <a href="tel:+917982427827" class="contact-card">
+                    <div class="contact-icon">📞</div>
+                    <h3>Phone Support</h3>
+                    <span>+91 79824 27827</span>
+                </a>
+            </div>
+
+            <div class="about-card">
+                <h3>About AIDicted</h3>
+                <p>AIDicted is a beautifully designed Android app that curates the latest AI news from the world's best
+                    tech publications. With swipeable cards, search, offline mode, and zero ads — it's the cleanest way
+                    to stay informed about artificial intelligence.</p>
+                <div class="about-stats">
+                    <div class="about-stat"><strong>6</strong><span>Live Sources</span></div>
+                    <div class="about-stat"><strong>50+</strong><span>Articles Daily</span></div>
+                    <div class="about-stat"><strong>0</strong><span>Ads</span></div>
+                </div>
+                <a href="https://play.google.com/store" class="btn btn-primary btn-full" target="_blank">
+                    Download on Google Play
+                </a>
+            </div>
+        </div>
+    </section>
+
+    <!-- ===== ARTICLE MODAL ===== -->
+    <div class="modal-overlay" id="modalOverlay" onclick="closeModal()"></div>
+    <div class="article-modal" id="articleModal">
+        <button class="modal-close" onclick="closeModal()">✕</button>
+        <div class="modal-image-wrap">
+            <img id="modalImage" src="" alt="" class="modal-image">
+            <div class="modal-image-gradient"></div>
+        </div>
+        <div class="modal-body">
+            <div class="modal-meta">
+                <span class="modal-source" id="modalSource"></span>
+                <span class="modal-time" id="modalTime"></span>
+            </div>
+            <h2 class="modal-title" id="modalTitle"></h2>
+            <p class="modal-summary" id="modalSummary"></p>
+            <div class="modal-actions">
+                <a id="modalReadMore" href="#" target="_blank" rel="noopener" class="btn btn-primary">Read Full Article
+                    ↗</a>
+                <button id="modalSaveBtn" class="btn btn-save" onclick="toggleFavoriteFromModal()">🤍 Save</button>
+            </div>
+        </div>
+    </div>
+
+    <!-- Toast Notification -->
+    <div class="toast" id="toast"></div>
+
+    <!-- Footer -->
+    <footer>
+        <div class="container footer-inner">
+            <div class="footer-brand">
+                <span class="logo">AI<span class="logo-accent">dicted</span><span class="logo-dot">.</span></span>
+                <p>Curated AI news for the curious mind.</p>
+            </div>
+            <div class="footer-links">
+                <a href="#" onclick="showSection('home')">Feed</a>
+                <a href="#" onclick="showSection('search')">Search</a>
+                <a href="#" onclick="showSection('favorites')">Saved</a>
+                <a href="#" onclick="showSection('contact')">Contact</a>
+            </div>
+            <p class="footer-copy">&copy; 2026 AIDicted v1.1.0</p>
+        </div>
+    </footer>
+
+    <script src="assets/js/script.js"></script>
+</body>
+
+</html>
