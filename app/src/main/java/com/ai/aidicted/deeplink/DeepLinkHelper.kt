@@ -7,12 +7,13 @@ import android.net.Uri
  * Utility for creating and parsing deep links.
  *
  * Supported formats:
- *   - https://aidicted.app/article/{articleId}
+ *   - https://aidicted.in/article/{articleId}
+ *   - https://www.aidicted.in/article/{articleId}
  *   - aidicted://article/{articleId}
  */
 object DeepLinkHelper {
 
-    private const val HTTPS_HOST = "aidicted.app"
+    private val HTTPS_HOSTS = setOf("aidicted.in", "www.aidicted.in")
     private const val CUSTOM_SCHEME = "aidicted"
     private const val ARTICLE_PATH = "article"
 
@@ -23,10 +24,10 @@ object DeepLinkHelper {
 
     /**
      * Build a shareable deep link URL for an article.
-     * Uses the custom scheme for automatic app opening without manual setup.
+     * Uses the real website URL so it works in browser and opens app via App Links.
      */
     fun buildArticleDeepLink(articleId: String): String {
-        return "$CUSTOM_SCHEME://$ARTICLE_PATH/${Uri.encode(articleId)}"
+        return "https://aidicted.in/article/${Uri.encode(articleId)}"
     }
 
     /**
@@ -45,8 +46,8 @@ object DeepLinkHelper {
         val data: Uri = intent?.data ?: return null
 
         return when {
-            // https://aidicted.app/article/{id}
-            (data.scheme == "https" || data.scheme == "http") && data.host == HTTPS_HOST -> {
+            // https://aidicted.in/article/{id}  or  https://www.aidicted.in/article/{id}
+            (data.scheme == "https" || data.scheme == "http") && data.host in HTTPS_HOSTS -> {
                 val segments = data.pathSegments
                 if (segments.size >= 2 && segments[0] == ARTICLE_PATH) {
                     segments[1]

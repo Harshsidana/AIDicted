@@ -1,0 +1,12 @@
+[
+  {
+    "relation": ["delegate_permission/common.handle_all_urls"],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "com.ai.aidicted",
+      "sha256_cert_fingerprints": [
+        "3A:76:09:AE:EA:EF:D8:C2:46:CE:6B:DB:08:9B:B0:45:24:49:F9:6F:29:C7:6F:71:85:A4:FB:A4:DE:AF:C7:9D"
+      ]
+    }
+  }
+]
