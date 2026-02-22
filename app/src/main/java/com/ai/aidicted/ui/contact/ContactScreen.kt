@@ -96,10 +96,10 @@ fun ContactScreen() {
             ContactCard(
                 icon = Icons.Default.Email,
                 title = "Email Support",
-                subtitle = "harsh.sidana@gmail.com",
+                subtitle = "info@aidicted.in",
                 onClick = {
                     val intent = Intent(Intent.ACTION_SENDTO).apply {
-                        data = Uri.parse("mailto:harsh.sidana@gmail.com")
+                        data = Uri.parse("mailto:info@aidicted.in")
                         putExtra(Intent.EXTRA_SUBJECT, "AIDicted Feedback")
                     }
                     context.startActivity(Intent.createChooser(intent, "Send Email"))
