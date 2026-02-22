@@ -1,3 +1,10 @@
+## All /article/* paths serve the smart deep-link redirect page
+[[redirects]]
+  from = "/article/*"
+  to = "/article.html"
+  status = 200          # 200 = rewrite (URL stays as /article/xyz in browser)
+
+## Serve .well-known correctly for Android App Links verification
 [[redirects]]
   from = "/.well-known/*"
   to = "/.well-known/:splat"
