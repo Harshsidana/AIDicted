@@ -16,10 +16,16 @@ const RSS_FEEDS = [
 ];
 
 // ---- CORS Proxy Strategy: try in order until one works ----
-// rss2json returns pre-parsed JSON; the other two return raw XML we parse ourselves.
+// rss2json returns pre-parsed JSON; the others return raw XML we parse ourselves.
 const RSS2JSON = 'https://api.rss2json.com/v1/api.json?rss_url=';
-const CORSPROXY = 'https://corsproxy.io/?';           // returns raw RSS text
+const CORSPROXY = 'https://corsproxy.io/?';             // returns raw RSS text
 const ALLORIGINS = 'https://api.allorigins.win/get?url='; // returns { contents: "..." }
+const RSSBRIDGE = 'https://rss-proxy.vercel.app/api?url='; // 4th fallback
+
+// ---- Cache config ----
+const CACHE_KEY = 'aidicted_articles_cache';
+const CACHE_TS_KEY = 'aidicted_cache_time';
+const CACHE_TTL_MS = 30 * 60 * 1000; // 30 minutes
 
 // ---- State ----
 let allArticles = [];
@@ -150,36 +156,89 @@ function parseRssXml(xmlText, sourceName) {
 
 // ========== FETCH ALL FEEDS ==========
 
+// ========== STATIC JSON LOADER (primary — served from Firebase, no CORS) ==========
+
+async function loadFromStaticJson() {
+    try {
+        const res = await fetchWithTimeout('/data/articles.json');
+        if (!res.ok) return null;
+        const data = await res.json();
+        if (!Array.isArray(data.articles) || data.articles.length === 0) return null;
+        console.log(`[static-json] ✓ ${data.articles.length} articles (fetched at ${data.fetchedAt})`);
+        return data.articles;
+    } catch (e) {
+        console.warn('[static-json] ✗', e.message);
+        return null;
+    }
+}
+
+// ========== FETCH ALL FEEDS ==========
+
 async function loadNews() {
     const loadingEl = document.getElementById('loadingState');
-    loadingEl.style.display = 'block';
-    document.getElementById('errorState').style.display = 'none';
-    document.getElementById('newsGrid').innerHTML = '';
     setRefreshSpinning(true);
 
+    // ---- Show cached articles instantly (stale-while-revalidate) ----
+    const cached = loadFromCache();
+    if (cached && cached.length > 0) {
+        allArticles = cached;
+        filteredArticles = [...allArticles];
+        loadingEl.style.display = 'none';
+        document.getElementById('errorState').style.display = 'none';
+        document.getElementById('articleCount').textContent = allArticles.length;
+        document.getElementById('savedCount').textContent = favorites.length;
+        renderNewsGrid('newsGrid', filteredArticles);
+        updateProgress();
+        // If cache is fresh, skip network fetch
+        const cacheAge = Date.now() - (parseInt(localStorage.getItem(CACHE_TS_KEY) || '0', 10));
+        if (cacheAge < CACHE_TTL_MS) {
+            setRefreshSpinning(false);
+            return;
+        }
+        // Otherwise refresh in background (no loading spinner shown)
+    } else {
+        // No cache — show loading spinner
+        loadingEl.style.display = 'block';
+        document.getElementById('errorState').style.display = 'none';
+        document.getElementById('newsGrid').innerHTML = '';
+    }
+
     try {
-        const results = await Promise.allSettled(
-            RSS_FEEDS.map(feed => fetchFeed(feed.url, feed.name))
-        );
+        // ---- Strategy 0: Static pre-fetched JSON (GitHub Actions, most reliable) ----
+        let freshArticles = await loadFromStaticJson();
+        let usedStaticJson = false;
 
-        allArticles = [];
-        results.forEach(result => {
-            if (result.status === 'fulfilled') {
-                allArticles.push(...result.value);
-            } else {
-                console.warn('Feed failed:', result.reason);
+        if (freshArticles && freshArticles.length > 0) {
+            usedStaticJson = true;
+            console.log('[loadNews] Using static JSON');
+        } else {
+            // ---- Fallback: CORS proxies (client-side RSS fetching) ----
+            console.log('[loadNews] Static JSON empty/failed — trying CORS proxies...');
+            const results = await Promise.allSettled(
+                RSS_FEEDS.map(feed => fetchFeed(feed.url, feed.name))
+            );
+            freshArticles = [];
+            results.forEach(result => {
+                if (result.status === 'fulfilled' && result.value.length > 0) {
+                    freshArticles.push(...result.value);
+                } else if (result.status === 'rejected') {
+                    console.warn('Feed failed:', result.reason);
+                }
+            });
+        }
+
+        if (freshArticles.length === 0) {
+            // Network totally failed — if we already showed cache, keep it silently
+            if (allArticles.length === 0) {
+                loadingEl.style.display = 'none';
+                document.getElementById('errorState').style.display = 'block';
             }
-        });
-
-        if (allArticles.length === 0) {
-            loadingEl.style.display = 'none';
-            document.getElementById('errorState').style.display = 'block';
             return;
         }
 
         // Deduplicate by title prefix
         const seen = new Set();
-        allArticles = allArticles.filter(a => {
+        allArticles = freshArticles.filter(a => {
             const key = a.title.toLowerCase().slice(0, 60);
             if (seen.has(key)) return false;
             seen.add(key);
@@ -189,7 +248,12 @@ async function loadNews() {
         // Sort by date descending and cap at 60
         allArticles.sort((a, b) => new Date(b.publishedAt) - new Date(a.publishedAt));
         allArticles = allArticles.slice(0, 60);
-        filteredArticles = [...allArticles];
+        filteredArticles = activeFilter === 'all'
+            ? [...allArticles]
+            : allArticles.filter(a => a.source === activeFilter);
+
+        // Save to cache for next visit
+        saveToCache(allArticles);
 
         loadingEl.style.display = 'none';
         document.getElementById('articleCount').textContent = allArticles.length;
@@ -200,15 +264,32 @@ async function loadNews() {
 
     } catch (err) {
         console.error('loadNews error:', err);
-        loadingEl.style.display = 'none';
-        document.getElementById('errorState').style.display = 'block';
+        if (allArticles.length === 0) {
+            loadingEl.style.display = 'none';
+            document.getElementById('errorState').style.display = 'block';
+        }
     } finally {
         setRefreshSpinning(false);
     }
 }
 
+// ---- Cache helpers ----
+function saveToCache(articles) {
+    try {
+        localStorage.setItem(CACHE_KEY, JSON.stringify(articles));
+        localStorage.setItem(CACHE_TS_KEY, Date.now().toString());
+    } catch (e) { console.warn('Cache write failed:', e); }
+}
+
+function loadFromCache() {
+    try {
+        const raw = localStorage.getItem(CACHE_KEY);
+        return raw ? JSON.parse(raw) : null;
+    } catch (e) { return null; }
+}
+
 // ---- AbortController helper (proper fetch timeout) ----
-function fetchWithTimeout(url, timeoutMs = 15000) {
+function fetchWithTimeout(url, timeoutMs = 12000) {
     const ctrl = new AbortController();
     const id = setTimeout(() => ctrl.abort(), timeoutMs);
     return fetch(url, { signal: ctrl.signal }).finally(() => clearTimeout(id));
@@ -256,6 +337,27 @@ async function fetchFeed(feedUrl, name) {
             }
         }
     } catch (e) { console.warn(`[allorigins] ✗ ${name}:`, e.message); }
+
+    // ---- Strategy 4: rss-proxy (additional fallback) ----
+    try {
+        const url = `${RSSBRIDGE}${encodeURIComponent(feedUrl)}`;
+        const res = await fetchWithTimeout(url);
+        if (res.ok) {
+            const text = await res.text();
+            // Could be JSON or XML
+            let articles = [];
+            try {
+                const json = JSON.parse(text);
+                if (Array.isArray(json.items)) articles = parseRss2JsonResponse(json, name);
+            } catch {
+                articles = parseRssXml(text, name);
+            }
+            if (articles.length > 0) {
+                console.log(`[rssbridge] ✓ ${name}: ${articles.length} items`);
+                return articles;
+            }
+        }
+    } catch (e) { console.warn(`[rssbridge] ✗ ${name}:`, e.message); }
 
     console.error(`[fetchFeed] All proxies failed for ${name}`);
     return [];
