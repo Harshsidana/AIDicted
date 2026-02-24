@@ -1,7 +1,34 @@
 {
-  "fetchedAt": "2026-02-24T22:41:52.101Z",
+  "fetchedAt": "2026-02-24T23:40:14.652Z",
   "count": 60,
   "articles": [
+    {
+      "id": "dkypaz",
+      "title": "Spanish ‘soonicorn’ Multiverse Computing releases free compressed AI model",
+      "summary": "Spanish startup Multiverse Computing has released a new version of its HyperNova 60B model on Hugging Face that, it says, bests Mistral's model.",
+      "imageUrl": "https://images.unsplash.com/photo-1485827404703-89b55fcc595e?w=800&q=80",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/02/24/spanish-soonicorn-multiverse-computing-releases-free-compressed-ai-model/",
+      "publishedAt": "2026-02-24T23:32:00.000Z"
+    },
+    {
+      "id": "n5o19d",
+      "title": "Uber engineers built an AI version of their boss",
+      "summary": "Uber CEO Dara Khosrowshahi said the company’s employees have gone all in on AI, going so far as to build a chatbot of him that they use to practice their pitches.",
+      "imageUrl": "https://images.unsplash.com/photo-1531746790095-6c10a4031c5f?w=800&q=80",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/02/24/uber-engineers-built-ai-version-of-boss-dara-khosrowshahi/",
+      "publishedAt": "2026-02-24T23:09:28.000Z"
+    },
+    {
+      "id": "z6gx3y",
+      "title": "OpenAI defeats xAI’s trade secrets lawsuit",
+      "summary": "OpenAI won a victory Tuesday in one of its legal battles with xAI, which involved allegations of poaching and theft of trade secrets. The former company's motion to dismiss the lawsuit was granted on Tuesday with leave to amend, meaning xAI has the option to refile with modified claims. In the ruling, US District Judge Rita F. Lin wrote that \"xAI does not point to any misconduct by OpenAI\" in its current claims. \"Instead, it points to eight former xAI employees who left for OpenAI at around the…",
+      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25739950/247386_Elon_Musk_Open_AI_CVirginia.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "source": "The Verge",
+      "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/884049/openai-elon-musk-xai-trade-secrets-lawsuit",
+      "publishedAt": "2026-02-24T23:05:28.000Z"
+    },
     {
       "id": "pklnwn",
       "title": "Just pull a string to turn these tile patterns into useful 3D structures",
@@ -273,15 +300,6 @@
       "publishedAt": "2026-02-23T20:22:55.000Z"
     },
     {
-      "id": "68n9ve",
-      "title": "Anthropic accuses Chinese AI labs of mining Claude as US debates AI chip exports",
-      "summary": "Anthropic accuses DeepSeek, Moonshot, and MiniMax of using 24,000 fake accounts to distill Claude’s AI capabilities, as U.S. officials debate export controls aimed at slowing China’s AI progress.",
-      "imageUrl": "https://images.unsplash.com/photo-1676299081847-824916de030a?w=800&q=80",
-      "source": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/02/23/anthropic-accuses-chinese-ai-labs-of-mining-claude-as-us-debates-ai-chip-exports/",
-      "publishedAt": "2026-02-23T19:57:27.000Z"
-    },
-    {
       "id": "wd40wo",
       "title": "‘Uncanny Valley’: AI Researcher Resignations, Bots Hiring Humans, and Evie Magazine’s Party",
       "summary": "This episode of Uncanny Valley covers the people resigning from AI companies and the humans getting hired by AI agents. Plus, we attend a soiree thrown by a conservative women's magazine.",
@@ -289,15 +307,6 @@
       "source": "Wired",
       "sourceUrl": "https://www.wired.com/story/uncanny-valley-podcast-ai-researcher-resignations-bots-hiring-humans-evie-magazines-party/",
       "publishedAt": "2026-02-23T19:28:13.000Z"
-    },
-    {
-      "id": "hn5aur",
-      "title": "Google’s Cloud AI leads on the three frontiers of model capability",
-      "summary": "AI models are pushing against three frontiers at once: raw intelligence, response time, and a third quality you might call \"extensibility.\"",
-      "imageUrl": "https://images.unsplash.com/photo-1620712943543-bcc4688e7485?w=800&q=80",
-      "source": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/02/23/googles-cloud-ai-lead-on-the-three-frontiers-of-model-capability/",
-      "publishedAt": "2026-02-23T19:18:42.000Z"
     },
     {
       "id": "z8q9oq",
@@ -334,15 +343,6 @@
       "source": "Wired",
       "sourceUrl": "https://www.wired.com/story/how-to-hide-google-ai-overviews-from-your-search-results/",
       "publishedAt": "2026-02-22T11:00:00.000Z"
-    },
-    {
-      "id": "c5mu08",
-      "title": "Suspect in Tumbler Ridge school shooting described violent scenarios to ChatGPT",
-      "summary": "The suspect in the mass shooting at Tumbler Ridge, British Columbia, Jesse Van Rootselaar, was raising alarms among employees at OpenAI months before the shooting took place. This past June, Jesse had conversations with ChatGPT involving descriptions of gun violence that triggered the chatbot's automated review system. Several employees raised concerns that her posts could be a precursor to real-world violence and encouraged company leaders to contact the authorities, but they ultimately…",
-      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/02/gettyimages-2260625085.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "source": "The Verge",
-      "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/882814/tumbler-ridge-school-shooting-chatgpt",
-      "publishedAt": "2026-02-21T15:22:57.000Z"
     },
     {
       "id": "dzvh46",
