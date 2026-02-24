@@ -1,7 +1,52 @@
 {
-  "fetchedAt": "2026-02-24T16:10:06.389Z",
+  "fetchedAt": "2026-02-24T20:50:53.793Z",
   "count": 60,
   "articles": [
+    {
+      "id": "x8hu2h",
+      "title": "Google adds a way to create automated workflows to Opal",
+      "summary": "Google is adding a new feature to Opal to create automated workflows",
+      "imageUrl": "https://images.unsplash.com/photo-1620712943543-bcc4688e7485?w=800&q=80",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/02/24/google-adds-a-way-to-create-automated-workflows-to-opal/",
+      "publishedAt": "2026-02-24T19:00:00.000Z"
+    },
+    {
+      "id": "yctwcd",
+      "title": "Seedance 2.0 might be gen AI video’s next big hope, but it’s still slop",
+      "summary": "When Irish filmmaker Ruairi Robinson began uploading a series of short clips created with Seedance 2.0 - TikTok developer ByteDance's newest video generation model - it was hard to deny that the footage was much more impressive than what we've seen from other gen AI outfits. The clips' star (a digital duplicate of Tom Cruise) looked a lot like the real thing as it fought Brad Pitt, humanoid robots, and zombies. And the characters moved with a complex fluidity almost passing for choreography and…",
+      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/02/ai-label-8.png?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "source": "The Verge",
+      "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/883615/seedance-bytedance-tom-cruise-brad-pitt-jia-zhangke",
+      "publishedAt": "2026-02-24T18:30:00.000Z"
+    },
+    {
+      "id": "sgox5q",
+      "title": "OpenAI COO says ‘we have not yet really seen AI penetrate enterprise business processes’",
+      "summary": "There is a lot of talk around AI agents taking over business processes and claiming that \"SaaS is dead.\" While these predictions have moved SaaS stocks at times, they haven't really come true.",
+      "imageUrl": "https://images.unsplash.com/photo-1531746790095-6c10a4031c5f?w=800&q=80",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/02/24/openai-coo-says-we-have-not-yet-really-seen-ai-penetrate-enterprise-business-processes/",
+      "publishedAt": "2026-02-24T17:44:34.000Z"
+    },
+    {
+      "id": "i2dzch",
+      "title": "Music generator ProducerAI joins Google Labs",
+      "summary": "Wyclef Jean used Google's AI music tools on his new song \"Back in Abu Dhabi.\"",
+      "imageUrl": "https://images.unsplash.com/photo-1676299081847-824916de030a?w=800&q=80",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/02/24/music-generator-producerai-joins-google-labs/",
+      "publishedAt": "2026-02-24T16:57:21.000Z"
+    },
+    {
+      "id": "9gkvwv",
+      "title": "Anthropic’s Claude Cowork is plugging AI into more boring enterprise stuff",
+      "summary": "On Tuesday, Anthropic announced updates to its Claude Cowork platform that allow the AI to help with a wider range of office tasks. Claude Cowork can now connect with several popular office apps, including Google Workspace, Docusign, and WordPress. New pre-built plug-ins can also automate tasks in a range of fields, including HR, design, engineering, and finance. Additionally, according to Anthropic, \"Claude can now also handle multi-step tasks end-to-end across Excel and PowerPoint,\" passing…",
+      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/01/STK269_ANTHROPIC_2_D.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "source": "The Verge",
+      "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/883707/anthropic-claude-cowork-updates",
+      "publishedAt": "2026-02-24T16:43:56.000Z"
+    },
     {
       "id": "hgkab5",
       "title": "Meta strikes up to $100B AMD chip deal as it chases ‘personal superintelligence’",
@@ -30,10 +75,10 @@
       "publishedAt": "2026-02-24T15:00:00.000Z"
     },
     {
-      "id": "hjcull",
-      "title": "Anthropic launches new push for enterprise agents with plugins for finance, engineering, and design",
+      "id": "9t6pia",
+      "title": "Anthropic launches new push for enterprise agents with plug-ins for finance, engineering, and design",
       "summary": "It's a major opportunity to grow Anthropic’s enterprise client base — and a significant threat to SaaS products currently performing those functions.",
-      "imageUrl": "https://images.unsplash.com/photo-1676299081847-824916de030a?w=800&q=80",
+      "imageUrl": "https://images.unsplash.com/photo-1550751827-4bd374c3f58b?w=800&q=80",
       "source": "TechCrunch",
       "sourceUrl": "https://techcrunch.com/2026/02/24/anthropic-launches-new-push-for-enterprise-agents-with-plugins-for-finance-engineering-and-design/",
       "publishedAt": "2026-02-24T14:45:55.000Z"
@@ -51,7 +96,7 @@
       "id": "j4ig9b",
       "title": "New Relic launches new AI agent platform and OpenTelemetry tools",
       "summary": "New Relic is giving enterprises more observability tools, letting them create and manage AI agents, and better integrate OTel data streams.",
-      "imageUrl": "https://images.unsplash.com/photo-1485827404703-89b55fcc595e?w=800&q=80",
+      "imageUrl": "https://images.unsplash.com/photo-1550751827-4bd374c3f58b?w=800&q=80",
       "source": "TechCrunch",
       "sourceUrl": "https://techcrunch.com/2026/02/24/new-relic-launches-new-ai-agent-platform-and-opentelemetry-tools/",
       "publishedAt": "2026-02-24T14:00:00.000Z"
@@ -165,8 +210,8 @@
       "publishedAt": "2026-02-23T19:57:27.000Z"
     },
     {
-      "id": "dvl842",
-      "title": "Uncanny Valley: AI Researchers’ Resignations, Bots Hiring Humans, Evie Magazine’s Party",
+      "id": "wd40wo",
+      "title": "‘Uncanny Valley’: AI Researcher Resignations, Bots Hiring Humans, and Evie Magazine’s Party",
       "summary": "This episode of Uncanny Valley covers the people resigning from AI companies and the humans getting hired by AI agents. Plus, we attend a soiree thrown by a conservative women's magazine.",
       "imageUrl": "https://media.wired.com/photos/69975f400310f6e896b9919b/master/pass/Uncanny-Valley-Podcast-Business-2234015878.jpg",
       "source": "Wired",
@@ -201,15 +246,6 @@
       "publishedAt": "2026-02-23T18:11:08.000Z"
     },
     {
-      "id": "9v0wih",
-      "title": "Guide Labs debuts a new kind of interpretable LLM",
-      "summary": "The company open sourced an 8-billion-parameter LLM, Steerling-8B, trained with a new architecture designed to make its actions easily interpretable.",
-      "imageUrl": "https://images.unsplash.com/photo-1655720828018-edd2daec9349?w=800&q=80",
-      "source": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/02/23/guide-labs-debuts-a-new-kind-of-interpretable-llm/",
-      "publishedAt": "2026-02-23T17:53:28.000Z"
-    },
-    {
       "id": "1huv5v",
       "title": "The human work behind humanoid robots is being hidden",
       "summary": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here. In January, Nvidia’s Jensen Huang, the head of the world’s most valuable company, proclaimed that we are entering the era of physical AI, when artificial intelligence will move beyond language and chatbots…",
@@ -217,24 +253,6 @@
       "source": "MIT Tech Review",
       "sourceUrl": "https://www.technologyreview.com/2026/02/23/1133508/the-human-work-behind-humanoid-robots-is-being-hidden/",
       "publishedAt": "2026-02-23T17:05:00.000Z"
-    },
-    {
-      "id": "d5ywfi",
-      "title": "Particle’s AI news app listens to podcasts for interesting clips so you you don’t have to",
-      "summary": "AI news app Particle can now pull in key moments from podcasts, letting readers instantly play short, relevant clips alongside related stories.",
-      "imageUrl": "https://images.unsplash.com/photo-1485827404703-89b55fcc595e?w=800&q=80",
-      "source": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/02/23/particles-ai-news-app-listens-to-podcasts-for-interesting-clips-so-you-you-dont-have-to/",
-      "publishedAt": "2026-02-23T16:55:40.000Z"
-    },
-    {
-      "id": "it4l98",
-      "title": "Spotify rolls out AI-powered Prompted Playlists to the UK and other markets",
-      "summary": "Spotify continues to test its AI-powered “Prompted Playlist” feature, now rolling out the tool to Premium subscribers in the U.K., Ireland, Australia, and Sweden.",
-      "imageUrl": "https://images.unsplash.com/photo-1485827404703-89b55fcc595e?w=800&q=80",
-      "source": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/02/23/spotify-ai-prompted-playlists-uk-markets/",
-      "publishedAt": "2026-02-23T16:50:36.000Z"
     },
     {
       "id": "z8q9oq",
@@ -300,15 +318,6 @@
       "publishedAt": "2026-02-21T15:22:57.000Z"
     },
     {
-      "id": "lh2udx",
-      "title": "Trump is making coal plants even dirtier as AI demands more energy",
-      "summary": "Kingston Fossil Plant, a 1.4-gigawatt coal-fired power plant located in Roane County, just outside Kingston, Tennessee on the shore of Watts Bar Lake. | Photo: Getty Images The Trump administration just tossed out Biden-era restrictions on mercury and other toxic pollutants from power plants. It's repealing Mercury and Air Toxics Standards (MATS) just as electricity demand in the US ticks up with the buildout of new AI data centers. Those standards are particularly impactful when it comes to…",
-      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/02/gettyimages-1140674387.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "source": "The Verge",
-      "sourceUrl": "https://www.theverge.com/science/882288/trump-ai-data-center-power-plant-pollution-mercury-mats",
-      "publishedAt": "2026-02-20T20:18:34.000Z"
-    },
-    {
       "id": "y67yvy",
       "title": "Exclusive eBook: The great Al hype correction of 2025",
       "summary": "2025 was a year of reckoning, including how the heads of the top AI companies made promises they couldn’t keep. In this exclusive subscriber-only eBook, you’ll learn more about why we may need to readjust our expectations. This story is part of the Hype Correction package.by Will Douglas Heaven December 15, 2025 Table of Contents:…",
@@ -325,15 +334,6 @@
       "source": "Wired",
       "sourceUrl": "https://www.wired.com/story/backchannel-anthropic-dispute-with-the-pentagon/",
       "publishedAt": "2026-02-20T17:00:00.000Z"
-    },
-    {
-      "id": "7gs1vy",
-      "title": "Amazon blames human employees for an AI coding agent’s mistake",
-      "summary": "Amazon Web Services suffered a 13-hour outage to one system in December as a result of its AI coding assistant Kiro's actions, according to the Financial Times. Numerous unnamed Amazon employees told the FT that AI agent Kiro was responsible for the December incident affecting an AWS service in parts of mainland China. People familiar with the matter said the tool chose to \"delete and recreate the environment\" it was working on, which caused the outage. While Kiro normally requires sign-off from…",
-      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/02/STKB371_AMAZON_WEB_SERVICES_A.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "source": "The Verge",
-      "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/882005/amazon-blames-human-employees-for-an-ai-coding-agents-mistake",
-      "publishedAt": "2026-02-20T16:52:48.000Z"
     },
     {
       "id": "ikng1o",
