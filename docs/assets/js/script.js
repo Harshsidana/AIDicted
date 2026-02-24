@@ -25,7 +25,7 @@ const RSSBRIDGE = 'https://rss-proxy.vercel.app/api?url='; // 4th fallback
 // ---- Cache config ----
 const CACHE_KEY = 'aidicted_articles_cache';
 const CACHE_TS_KEY = 'aidicted_cache_time';
-const CACHE_TTL_MS = 30 * 60 * 1000; // 30 minutes
+const CACHE_TTL_MS = 15 * 60 * 1000; // 15 minutes (GH Actions runs every 30 min)
 
 // ---- State ----
 let allArticles = [];
@@ -160,7 +160,7 @@ function parseRssXml(xmlText, sourceName) {
 
 async function loadFromStaticJson() {
     try {
-        const res = await fetchWithTimeout('/data/articles.json');
+        const res = await fetchWithTimeout(`/data/articles.json?v=${Date.now()}`);
         if (!res.ok) return null;
         const data = await res.json();
         if (!Array.isArray(data.articles) || data.articles.length === 0) return null;

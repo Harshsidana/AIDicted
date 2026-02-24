@@ -16,3 +16,9 @@
   [headers.values]
     Content-Type = "application/json"
     Access-Control-Allow-Origin = "*"
+
+## Prevent caching of the dynamically-updated articles feed
+[[headers]]
+  for = "/data/articles.json"
+  [headers.values]
+    Cache-Control = "no-cache, no-store, must-revalidate"
