@@ -1,7 +1,43 @@
 {
-  "fetchedAt": "2026-02-24T13:51:47.763Z",
+  "fetchedAt": "2026-02-24T14:59:18.194Z",
   "count": 60,
   "articles": [
+    {
+      "id": "hjcull",
+      "title": "Anthropic launches new push for enterprise agents with plugins for finance, engineering, and design",
+      "summary": "It's a major opportunity to grow Anthropic’s enterprise client base — and a significant threat to SaaS products currently performing those functions.",
+      "imageUrl": "https://images.unsplash.com/photo-1676299081847-824916de030a?w=800&q=80",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/02/24/anthropic-launches-new-push-for-enterprise-agents-with-plugins-for-finance-engineering-and-design/",
+      "publishedAt": "2026-02-24T14:45:55.000Z"
+    },
+    {
+      "id": "t8atfc",
+      "title": "How Claude Code Claude Codes",
+      "summary": "Claude Code is a developer tool for developers. And yet, over the last year and especially the last few months, the team at Anthropic has seen a huge number of people, across industries and disciplines, figure out how to access their terminal so that they could build new stuff too. Few AI products have found true product-market fit the way Claude Code has. But how did that happen? And are we ever going to get out of the terminal? Verge subscribers, don't forget you get exclusive access to…",
+      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/02/VRG_VST_0224_Site.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "source": "The Verge",
+      "sourceUrl": "https://www.theverge.com/podcast/883604/claude-code-ai-future-creator-privacy-vergecast",
+      "publishedAt": "2026-02-24T14:20:35.000Z"
+    },
+    {
+      "id": "j4ig9b",
+      "title": "New Relic launches new AI agent platform and OpenTelemetry tools",
+      "summary": "New Relic is giving enterprises more observability tools, letting them create and manage AI agents, and better integrate OTel data streams.",
+      "imageUrl": "https://images.unsplash.com/photo-1485827404703-89b55fcc595e?w=800&q=80",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/02/24/new-relic-launches-new-ai-agent-platform-and-opentelemetry-tools/",
+      "publishedAt": "2026-02-24T14:00:00.000Z"
+    },
+    {
+      "id": "8fa7op",
+      "title": "This Chainsmokers-approved AI music producer is joining Google",
+      "summary": "ProducerAI, an AI-powered music-making platform, is joining Google. As part of the deal, Google will fold ProducerAI under the Labs umbrella and power the tool with a preview version of its new Lyria 3 music-making AI model. ProducerAI is a music-making platform that allows users to work with an AI agent to generate sounds, workshop lyrics, remix songs, and even create new instruments based on a prompt. The platform launched in July 2025 as a successor to the AI music-making tool Riffusion, and…",
+      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/01/STK467_AI_MUSIC_CVirginia_C.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "source": "The Verge",
+      "sourceUrl": "https://www.theverge.com/tech/883307/google-producerai-deal-music",
+      "publishedAt": "2026-02-24T14:00:00.000Z"
+    },
     {
       "id": "5c9099",
       "title": "The Download: radioactive rhinos, and the rise and rise of peptides",
@@ -12,10 +48,10 @@
       "publishedAt": "2026-02-24T13:10:00.000Z"
     },
     {
-      "id": "7xfnyn",
-      "title": "Nimble Way raises $47M to give AI agents access to real-time web data",
+      "id": "tpsh9a",
+      "title": "Nimble raises $47M to give AI agents access to real-time web data",
       "summary": "Nimble uses AI agents to search the web, verify and validate the results, and then clean and structure the information into neat tables that can then be queried like a database.",
-      "imageUrl": "https://images.unsplash.com/photo-1676299081847-824916de030a?w=800&q=80",
+      "imageUrl": "https://images.unsplash.com/photo-1550751827-4bd374c3f58b?w=800&q=80",
       "source": "TechCrunch",
       "sourceUrl": "https://techcrunch.com/2026/02/24/nimble-way-raises-47m-to-give-ai-agents-better-cleaner-data/",
       "publishedAt": "2026-02-24T13:00:00.000Z"
@@ -246,24 +282,6 @@
       "publishedAt": "2026-02-22T22:15:30.000Z"
     },
     {
-      "id": "hnnloj",
-      "title": "All the important news from the ongoing India AI Impact Summit",
-      "summary": "India is hosting a four-day AI Summit this week that will be attended by executives from major AI labs and Big Tech, including OpenAI, Anthropic, Nvidia, Microsoft, Google, and Cloudflare, as well as heads of state.",
-      "imageUrl": "https://images.unsplash.com/photo-1655720828018-edd2daec9349?w=800&q=80",
-      "source": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/02/22/all-the-important-news-from-the-ongoing-india-ai-summit/",
-      "publishedAt": "2026-02-22T17:00:00.000Z"
-    },
-    {
-      "id": "8pri0p",
-      "title": "6 days left to lock in the lowest TechCrunch Disrupt 2026 rates",
-      "summary": "Super Early Bird pricing for TechCrunch Disrupt 2026 ends February 27 at 11:59 p.m. PT. That means you have just 6 days left to secure up to $680 of ticket savings.",
-      "imageUrl": "https://images.unsplash.com/photo-1655720828018-edd2daec9349?w=800&q=80",
-      "source": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/02/22/6-days-left-to-lock-in-the-lowest-techcrunch-disrupt-2026-rates/",
-      "publishedAt": "2026-02-22T15:00:00.000Z"
-    },
-    {
       "id": "z5hxfl",
       "title": "How to Hide Google’s AI Overviews From Your Search Results",
       "summary": "You can avoid Google’s AI summaries in your search results by simply adjusting your query. Or just switch search engines altogether.",
@@ -318,15 +336,6 @@
       "publishedAt": "2026-02-20T16:52:48.000Z"
     },
     {
-      "id": "3fa9wb",
-      "title": "OpenAI’s first ChatGPT gadget could be a smart speaker with a camera",
-      "summary": "OpenAI's first hardware release will be a smart speaker with a camera that will probably cost between $200 and $300, according to The Information. The device will be able to recognize things like \"items on a nearby table or conversations people are having in the vicinity,\" The Information says, and it will have a Face ID-like facial recognition system so that people can purchase things. OpenAI acquired Jony Ive's hardware company last May in a deal worth nearly $6.5 billion. Details about their…",
-      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/02/STK155_OPEN_AI_4_CVirginia_A.png?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "source": "The Verge",
-      "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/882077/openai-chatgpt-smart-speaker-camera-glasses-lamp",
-      "publishedAt": "2026-02-20T16:52:03.000Z"
-    },
-    {
       "id": "ikng1o",
       "title": "The Download: Microsoft’s online reality check, and the worrying rise in measles cases",
       "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. Microsoft has a new plan to prove what’s real and what’s AI online AI-enabled deception now permeates our online lives. There are the high-profile cases you may easily spot. Other times, it slips…",
@@ -361,15 +370,6 @@
       "source": "MIT Tech Review",
       "sourceUrl": "https://www.technologyreview.com/2026/02/20/1132629/job-titles-future-breast-biomechanic/",
       "publishedAt": "2026-02-20T11:00:00.000Z"
-    },
-    {
-      "id": "i3p4bn",
-      "title": "The Pitt has a sharp take on AI",
-      "summary": "Each episode of HBO's The Pitt features some degree of medical trauma that almost makes the hospital drama feel like a horror series. Some patients are dealing with gnarly lacerations while others are fighting off vicious blood infections that could rob them of their limbs, and the chaos of working in an emergency room often leaves The Pitt's central characters shaken. But as alarming as many of The Pitt's more gore-forward moments can be, what's even more unsettling is the show's slow-burning…",
-      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/02/sepideh-moafi-1.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "source": "The Verge",
-      "sourceUrl": "https://www.theverge.com/entertainment/881016/hbo-the-pitt-generative-ai-charting",
-      "publishedAt": "2026-02-19T23:15:00.000Z"
     },
     {
       "id": "tjprcd",
