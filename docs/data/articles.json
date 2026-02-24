@@ -1,7 +1,97 @@
 {
-  "fetchedAt": "2026-02-24T21:43:43.658Z",
+  "fetchedAt": "2026-02-24T22:41:52.101Z",
   "count": 60,
   "articles": [
+    {
+      "id": "pklnwn",
+      "title": "Just pull a string to turn these tile patterns into useful 3D structures",
+      "summary": "MIT researchers have developed a new method for designing 3D structures that can spring up from a flat sheet of interconnected tiles with a single pull of a string. The technique could be used to make foldable bike helmets and medical devices, emergency shelters and field hospitals for disaster zones, and much more. Mina Konaković…",
+      "imageUrl": "https://images.unsplash.com/photo-1526374965328-7f61d4dc18c5?w=800&q=80",
+      "source": "MIT Tech Review",
+      "sourceUrl": "https://www.technologyreview.com/2026/02/24/1132074/just-pull-a-string-to-turn-these-tile-patterns-into-useful-3d-structures/",
+      "publishedAt": "2026-02-24T22:00:00.000Z"
+    },
+    {
+      "id": "fwme",
+      "title": "A retinal reboot for amblyopia",
+      "summary": "In the vision disorder amblyopia (or “lazy eye”), impaired vision in one eye early in life causes neural connections in the brain’s visual system to shift toward supporting the other eye, leaving the amblyopic eye less capable even if the original impairment is corrected. Current interventions don’t work after infancy and early childhood, when the…",
+      "imageUrl": "https://images.unsplash.com/photo-1676299081847-824916de030a?w=800&q=80",
+      "source": "MIT Tech Review",
+      "sourceUrl": "https://www.technologyreview.com/2026/02/24/1132077/a-retinal-reboot-for-amblyopia/",
+      "publishedAt": "2026-02-24T22:00:00.000Z"
+    },
+    {
+      "id": "a48bft",
+      "title": "A new way to rejuvenate the immune system",
+      "summary": "As people age, their immune function weakens. Owing to shrinkage of the thymus, where T cells normally mature and diversify, populations of these immune cells become smaller and can’t react to pathogens as quickly. But researchers at MIT and the Broad Institute have now found a way to overcome that decline by temporarily programming cells…",
+      "imageUrl": "https://images.unsplash.com/photo-1655720828018-edd2daec9349?w=800&q=80",
+      "source": "MIT Tech Review",
+      "sourceUrl": "https://www.technologyreview.com/2026/02/24/1132080/a-new-way-to-rejuvenate-the-immune-system/",
+      "publishedAt": "2026-02-24T22:00:00.000Z"
+    },
+    {
+      "id": "huyn37",
+      "title": "A I-designed proteins may help spot cancer",
+      "summary": "Researchers at MIT and Microsoft have used artificial intelligence to create molecular sensors that could detect early signs of cancer via a urine test. The researchers developed an AI model to design short proteins that are targeted by enzymes called proteases, which are overactive in cancer cells. Nanoparticles coated with these proteins, called peptides, can…",
+      "imageUrl": "https://images.unsplash.com/photo-1676299081847-824916de030a?w=800&q=80",
+      "source": "MIT Tech Review",
+      "sourceUrl": "https://www.technologyreview.com/2026/02/24/1132083/a-i-designed-proteins-may-help-spot-cancer/",
+      "publishedAt": "2026-02-24T22:00:00.000Z"
+    },
+    {
+      "id": "nt15h",
+      "title": "Reformulated antibodies could be injected for easier treatment",
+      "summary": "Antibody treatments for cancer and other diseases are typically delivered intravenously, requiring patients to go to a hospital and potentially spend hours receiving infusions. Now Professor Patrick Doyle and his colleagues have taken a major step toward reformulating antibodies so that they can be injected with a standard syringe, making treatment easier and more accessible. …",
+      "imageUrl": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=800&q=80",
+      "source": "MIT Tech Review",
+      "sourceUrl": "https://www.technologyreview.com/2026/02/24/1132086/reformulated-antibodies-could-be-injected-for-easier-treatment/",
+      "publishedAt": "2026-02-24T22:00:00.000Z"
+    },
+    {
+      "id": "1ka5nj",
+      "title": "Vine-inspired robot fingers can reach out and grab someone",
+      "summary": "In the horticultural world, some vines are especially grabby. As they grow, the woody tendrils can wrap around obstacles with enough force to pull down fences and trees. Inspired by vines’ twisty tenacity, engineers at MIT and Stanford University have developed a robotic gripper that can snake around and lift a variety of objects and…",
+      "imageUrl": "https://images.unsplash.com/photo-1485827404703-89b55fcc595e?w=800&q=80",
+      "source": "MIT Tech Review",
+      "sourceUrl": "https://www.technologyreview.com/2026/02/24/1132089/vine-inspired-robot-fingers-can-reach-out-and-grab-someone/",
+      "publishedAt": "2026-02-24T22:00:00.000Z"
+    },
+    {
+      "id": "571ec1",
+      "title": "Recent books from the MIT community",
+      "summary": "Launching from the Lab: Building a Deep-Tech StartupBy Lita Nelsen ’64, SM ’66, SM ’79, former director of the MIT Technology Licensing Office, and Maureen StancikBoyce, SM ’91, SM ’93, PhD ’95, with Sophie Hagerty MIT PRESS, 2026, $35 Empty Vessel: The Story of the Global Economy in One BargeBy Ian Kumekawa, lecturer in historyPENGUIN RANDOM…",
+      "imageUrl": "https://images.unsplash.com/photo-1531746790095-6c10a4031c5f?w=800&q=80",
+      "source": "MIT Tech Review",
+      "sourceUrl": "https://www.technologyreview.com/2026/02/24/1132091/recent-books-from-the-mit-community-27/",
+      "publishedAt": "2026-02-24T22:00:00.000Z"
+    },
+    {
+      "id": "koc0mn",
+      "title": "A boost for manufacturing",
+      "summary": "Several years ago, Suzanne Berger was visiting a manufacturing facility in Ohio, talking to workers on the shop floor, when a machinist offered a thought that could serve as her current credo. “Technology takes a step forward—workers take a step forward too,” the employee said. Berger, to explain, is an MIT political scientist who for…",
+      "imageUrl": "https://images.unsplash.com/photo-1550751827-4bd374c3f58b?w=800&q=80",
+      "source": "MIT Tech Review",
+      "sourceUrl": "https://www.technologyreview.com/2026/02/24/1132163/a-boost-for-manufacturing/",
+      "publishedAt": "2026-02-24T22:00:00.000Z"
+    },
+    {
+      "id": "b754rw",
+      "title": "Using big data for good",
+      "summary": "A photogenic green-eyed Russian Blue named Petra might just be the world’s most sequenced cat. Petra was rescued from an animal shelter in Reno, Nevada, by Charlie Lieu, MBA ’05, SM ’05, a data whiz, serial entrepreneur, investor, and cofounder of Darwin’s Ark, a community science nonprofit focused on pet genetics. Since becoming Lieu’s furry…",
+      "imageUrl": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=800&q=80",
+      "source": "MIT Tech Review",
+      "sourceUrl": "https://www.technologyreview.com/2026/02/24/1132172/using-big-data-for-good/",
+      "publishedAt": "2026-02-24T22:00:00.000Z"
+    },
+    {
+      "id": "s6hmfr",
+      "title": "Innovation on the move",
+      "summary": "The Massachusetts Bay Trans­portation Authority moves hundreds of thousands of people across Greater Boston each day—thanks to a vast system of buses, trains, and ferries that depends on coordination among thousands of employees. In this storied transit system, history runs deep: The Green Line still passes through the country’s oldest subway tunnels, built beneath the…",
+      "imageUrl": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=800&q=80",
+      "source": "MIT Tech Review",
+      "sourceUrl": "https://www.technologyreview.com/2026/02/24/1132181/innovation-on-the-move/",
+      "publishedAt": "2026-02-24T22:00:00.000Z"
+    },
     {
       "id": "p9njoa",
       "title": "Anthropic won’t budge as Pentagon escalates AI dispute",
@@ -120,15 +210,6 @@
       "publishedAt": "2026-02-24T14:00:00.000Z"
     },
     {
-      "id": "5c9099",
-      "title": "The Download: radioactive rhinos, and the rise and rise of peptides",
-      "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. Why conservationists are making rhinos radioactive Every year, poachers shoot hundreds of rhinos, fishing crews haul millions of sharks out of protected seas, and smugglers carry countless animals and plants across borders. This…",
-      "imageUrl": "https://images.unsplash.com/photo-1485827404703-89b55fcc595e?w=800&q=80",
-      "source": "MIT Tech Review",
-      "sourceUrl": "https://www.technologyreview.com/2026/02/24/1133567/the-download-radioactive-rhinos-and-the-rise-and-rise-of-peptides/",
-      "publishedAt": "2026-02-24T13:10:00.000Z"
-    },
-    {
       "id": "tpsh9a",
       "title": "Nimble raises $47M to give AI agents access to real-time web data",
       "summary": "Nimble uses AI agents to search the web, verify and validate the results, and then clean and structure the information into neat tables that can then be queried like a database.",
@@ -153,24 +234,6 @@
       "imageUrl": "https://media.wired.com/photos/699ce8c3a73685f300e29029/master/pass/Book-Excerpt-AI-Will-Never-Be-Conscious-Culture-1472259484.jpg",
       "source": "Wired",
       "sourceUrl": "https://www.wired.com/story/book-excerpt-a-world-appears-michael-pollan/",
-      "publishedAt": "2026-02-24T11:00:00.000Z"
-    },
-    {
-      "id": "4g62y5",
-      "title": "We’re putting more stuff into space than ever. Here’s what’s up there.",
-      "summary": "Earth’s a medium-size rock with some water on top, enveloped by gases that keep everything that lives here alive. Just at the edge of that envelope begins a thin but dense layer of human-built, high-tech stuff. People started putting gear up there in 1957, and now it’s a real habit. Telescopes look up and out…",
-      "imageUrl": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=800&q=80",
-      "source": "MIT Tech Review",
-      "sourceUrl": "https://www.technologyreview.com/2026/02/24/1132755/anthroposphere-putting-more-stuff-into-space-than-ever/",
-      "publishedAt": "2026-02-24T11:00:00.000Z"
-    },
-    {
-      "id": "k3hc0u",
-      "title": "Why conservationists are making rhinos radioactive",
-      "summary": "Every year, poachers shoot hundreds of rhinos, fishing crews haul millions of sharks out of protected seas, and smugglers carry countless animals and plants across borders. This illegal activity is incredibly hard to disrupt, since it’s backed by sophisticated criminal networks and the perpetrators know that their chances of being caught are slim. With an…",
-      "imageUrl": "https://images.unsplash.com/photo-1620712943543-bcc4688e7485?w=800&q=80",
-      "source": "MIT Tech Review",
-      "sourceUrl": "https://www.technologyreview.com/2026/02/24/1132760/conservationists-making-rhinos-radioactive/",
       "publishedAt": "2026-02-24T11:00:00.000Z"
     },
     {
@@ -237,24 +300,6 @@
       "publishedAt": "2026-02-23T19:18:42.000Z"
     },
     {
-      "id": "ojjlvc",
-      "title": "Peptides are everywhere. Here’s what you need to know.",
-      "summary": "MIT Technology Review Explains: Let our writers untangle the complex, messy world of technology to help you understand what’s coming next. You can read more from the series here. Want to lose weight? Get shredded? Stay mentally sharp? A wellness influencer might tell you to take peptides, the latest cure-all in the alternative medicine arsenal.…",
-      "imageUrl": "https://images.unsplash.com/photo-1531746790095-6c10a4031c5f?w=800&q=80",
-      "source": "MIT Tech Review",
-      "sourceUrl": "https://www.technologyreview.com/2026/02/23/1133522/peptides-are-everywhere-heres-what-you-need-to-know/",
-      "publishedAt": "2026-02-23T18:52:40.000Z"
-    },
-    {
-      "id": "1huv5v",
-      "title": "The human work behind humanoid robots is being hidden",
-      "summary": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here. In January, Nvidia’s Jensen Huang, the head of the world’s most valuable company, proclaimed that we are entering the era of physical AI, when artificial intelligence will move beyond language and chatbots…",
-      "imageUrl": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=800&q=80",
-      "source": "MIT Tech Review",
-      "sourceUrl": "https://www.technologyreview.com/2026/02/23/1133508/the-human-work-behind-humanoid-robots-is-being-hidden/",
-      "publishedAt": "2026-02-23T17:05:00.000Z"
-    },
-    {
       "id": "z8q9oq",
       "title": "Does Big Tech actually care about fighting AI slop?",
       "summary": "Progress towards reliable deepfake labelling tech is sluggish, despite all the “help” from AI providers. | Image: Cath Virginia / The Verge, Getty Images As 2025 drew to a close, Instagram head Adam Mosseri ended the year by doom-posting about AI. \"Authenticity is becoming infinitely reproducible,\" Mosseri lamented. \"Everything that made creators matter - the ability to be real, to connect, to have a voice that couldn't be faked - is now accessible to anyone with the right tools.\" But people,…",
@@ -264,15 +309,6 @@
       "publishedAt": "2026-02-23T16:00:00.000Z"
     },
     {
-      "id": "qu2e6f",
-      "title": "The Download: Chicago’s surveillance network, and building better bras",
-      "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. Inside Chicago’s surveillance panopticon Chicago has tens of thousands of surveillance cameras—up to 45,000, by some estimates. That’s among the highest numbers per capita in the US. Chicago boasts one of the largest…",
-      "imageUrl": "https://images.unsplash.com/photo-1485827404703-89b55fcc595e?w=800&q=80",
-      "source": "MIT Tech Review",
-      "sourceUrl": "https://www.technologyreview.com/2026/02/23/1133495/the-download-chicagos-surveillance-network-and-building-better-bras/",
-      "publishedAt": "2026-02-23T13:10:00.000Z"
-    },
-    {
       "id": "guc710",
       "title": "How many AIs does it take to read a PDF?",
       "summary": "Image: Kristen Radtke / The Verge Last November, the House Oversight Committee had just released 20,000 pages of documents from the estate of Jeffrey Epstein, and Luke Igel and some friends were clicking around, trying to follow the threads of conversation through garbled email threads and a PDF viewer that was, frankly, \"gross.\" In the coming months, the Department of Justice would release its own batches of files, more than three million of them - again, all PDFs. This was a problem. While the…",
@@ -280,15 +316,6 @@
       "source": "The Verge",
       "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/882891/ai-pdf-parsing-failure",
       "publishedAt": "2026-02-23T11:00:00.000Z"
-    },
-    {
-      "id": "xu6n4j",
-      "title": "Inside Chicago’s surveillance panopticon",
-      "summary": "Early on the morning of September 2, 2024, a Chicago Transit Authority Blue Line train was the scene of a random and horrific mass shooting. Four people were shot and killed on a westbound train as it approached the suburb of Forest Park. The police swiftly activated a digital dragnet—a surveillance network that connects thousands…",
-      "imageUrl": "https://images.unsplash.com/photo-1635070041078-e363dbe005cb?w=800&q=80",
-      "source": "MIT Tech Review",
-      "sourceUrl": "https://www.technologyreview.com/2026/02/23/1132740/inside-chicago-surveillance-panopticon/",
-      "publishedAt": "2026-02-23T10:00:00.000Z"
     },
     {
       "id": "sqy3ua",
@@ -318,15 +345,6 @@
       "publishedAt": "2026-02-21T15:22:57.000Z"
     },
     {
-      "id": "y67yvy",
-      "title": "Exclusive eBook: The great Al hype correction of 2025",
-      "summary": "2025 was a year of reckoning, including how the heads of the top AI companies made promises they couldn’t keep. In this exclusive subscriber-only eBook, you’ll learn more about why we may need to readjust our expectations. This story is part of the Hype Correction package.by Will Douglas Heaven December 15, 2025 Table of Contents:…",
-      "imageUrl": "https://images.unsplash.com/photo-1531746790095-6c10a4031c5f?w=800&q=80",
-      "source": "MIT Tech Review",
-      "sourceUrl": "https://www.technologyreview.com/2026/02/20/1133368/exclusive-ebook-the-great-al-hype-correction-of-2025/",
-      "publishedAt": "2026-02-20T18:46:07.000Z"
-    },
-    {
       "id": "dzvh46",
       "title": "AI Safety Meets the War Machine",
       "summary": "Anthropic doesn’t want its AI used in autonomous weapons or government surveillance. Those carve-outs could cost it a major military contract.",
@@ -334,15 +352,6 @@
       "source": "Wired",
       "sourceUrl": "https://www.wired.com/story/backchannel-anthropic-dispute-with-the-pentagon/",
       "publishedAt": "2026-02-20T17:00:00.000Z"
-    },
-    {
-      "id": "ikng1o",
-      "title": "The Download: Microsoft’s online reality check, and the worrying rise in measles cases",
-      "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. Microsoft has a new plan to prove what’s real and what’s AI online AI-enabled deception now permeates our online lives. There are the high-profile cases you may easily spot. Other times, it slips…",
-      "imageUrl": "https://images.unsplash.com/photo-1635070041078-e363dbe005cb?w=800&q=80",
-      "source": "MIT Tech Review",
-      "sourceUrl": "https://www.technologyreview.com/2026/02/20/1133396/the-download-microsofts-online-reality-check-and-the-worrying-rise-in-measles-cases/",
-      "publishedAt": "2026-02-20T13:10:00.000Z"
     },
     {
       "id": "yo4fxk",
@@ -360,15 +369,6 @@
       "imageUrl": "https://media.wired.com/photos/698f5635e3c699eb787a610a/master/pass/NSFW%20doppelgangers%20copy.jpg",
       "source": "Wired",
       "sourceUrl": "https://www.wired.com/story/the-search-engine-for-onlyfans-models-who-look-like-your-crush/",
-      "publishedAt": "2026-02-20T11:00:00.000Z"
-    },
-    {
-      "id": "hniwh9",
-      "title": "Job titles of the future: Breast biomechanic",
-      "summary": "Twenty years ago, Joanna Wakefield-Scurr was having persistent pain in her breasts. Her doctor couldn’t diagnose the cause but said a good, supportive bra could help. A professor of biomechanics, Wakefield-Scurr thought she could do a little research and find a science-backed option. Two decades later, she’s still looking. Wakefield-Scurr now leads an 18-person team…",
-      "imageUrl": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=800&q=80",
-      "source": "MIT Tech Review",
-      "sourceUrl": "https://www.technologyreview.com/2026/02/20/1132629/job-titles-future-breast-biomechanic/",
       "publishedAt": "2026-02-20T11:00:00.000Z"
     },
     {
