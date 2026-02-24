@@ -1,0 +1,546 @@
+{
+  "fetchedAt": "2026-02-24T03:41:55.943Z",
+  "count": 60,
+  "articles": [
+    {
+      "id": "mws904",
+      "title": "A Meta AI security researcher said an OpenClaw agent ran amok on her inbox",
+      "summary": "The viral X post from an AI security researcher reads like satire. But it's really a word of warning about what can go wrong when handing tasks to an AI agent.",
+      "imageUrl": "https://images.unsplash.com/photo-1485827404703-89b55fcc595e?w=800&q=80",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/02/23/a-meta-ai-security-researcher-said-an-openclaw-agent-ran-amok-on-her-inbox/",
+      "publishedAt": "2026-02-24T00:57:14.000Z"
+    },
+    {
+      "id": "jeaih4",
+      "title": "With AI, investor loyalty is (almost) dead: At least a dozen OpenAI VCs now also back Anthropic",
+      "summary": "While some dual investors are understandable, others were more shocking, and signal the disregard of a longstanding ethical conflict-of-interest rule.",
+      "imageUrl": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=800&q=80",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/02/23/with-ai-investor-loyalty-is-almost-dead-at-least-a-dozen-openai-vcs-now-also-back-anthropic/",
+      "publishedAt": "2026-02-23T21:46:41.000Z"
+    },
+    {
+      "id": "uiiidv",
+      "title": "Anthropic accuses DeepSeek and other Chinese firms of using Claude to train their AI",
+      "summary": "Anthropic claims DeepSeek and two other Chinese AI companies misused its Claude AI model in an attempt to improve their own products. In an announcement on Monday, Anthropic says the \"industrial-scale campaigns\" involved the creation of around 24,000 fraudulent accounts and more than 16 million exchanges with Claude, as reported earlier by The Wall Street Journal. The three companies - DeepSeek, MiniMax, and Moonshot - are accused of \"distilling\" Claude, or training a smaller AI model based on a",
+      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/01/STK269_ANTHROPIC_2_C.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "source": "The Verge",
+      "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/883243/anthropic-claude-deepseek-china-ai-distillation",
+      "publishedAt": "2026-02-23T20:22:55.000Z"
+    },
+    {
+      "id": "68n9ve",
+      "title": "Anthropic accuses Chinese AI labs of mining Claude as US debates AI chip exports",
+      "summary": "Anthropic accuses DeepSeek, Moonshot, and MiniMax of using 24,000 fake accounts to distill Claude’s AI capabilities, as U.S. officials debate export controls aimed at slowing China’s AI progress.",
+      "imageUrl": "https://images.unsplash.com/photo-1676299081847-824916de030a?w=800&q=80",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/02/23/anthropic-accuses-chinese-ai-labs-of-mining-claude-as-us-debates-ai-chip-exports/",
+      "publishedAt": "2026-02-23T19:57:27.000Z"
+    },
+    {
+      "id": "dvl842",
+      "title": "Uncanny Valley: AI Researchers’ Resignations, Bots Hiring Humans, Evie Magazine’s Party",
+      "summary": "This episode of Uncanny Valley covers the people resigning from AI companies and the humans getting hired by AI agents. Plus, we attend a soiree thrown by a conservative women's magazine.",
+      "imageUrl": "https://media.wired.com/photos/69975f400310f6e896b9919b/master/pass/Uncanny-Valley-Podcast-Business-2234015878.jpg",
+      "source": "Wired",
+      "sourceUrl": "https://www.wired.com/story/uncanny-valley-podcast-ai-researcher-resignations-bots-hiring-humans-evie-magazines-party/",
+      "publishedAt": "2026-02-23T19:28:13.000Z"
+    },
+    {
+      "id": "hn5aur",
+      "title": "Google’s Cloud AI leads on the three frontiers of model capability",
+      "summary": "AI models are pushing against three frontiers at once: raw intelligence, response time, and a third quality you might call \"extensibility.\"",
+      "imageUrl": "https://images.unsplash.com/photo-1620712943543-bcc4688e7485?w=800&q=80",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/02/23/googles-cloud-ai-lead-on-the-three-frontiers-of-model-capability/",
+      "publishedAt": "2026-02-23T19:18:42.000Z"
+    },
+    {
+      "id": "ojjlvc",
+      "title": "Peptides are everywhere. Here’s what you need to know.",
+      "summary": "MIT Technology Review Explains: Let our writers untangle the complex, messy world of technology to help you understand what’s coming next. You can read more from the series here. Want to lose weight? Get shredded? Stay mentally sharp? A wellness influencer might tell you to take peptides, the latest cure-all in the alternative medicine arsenal.&#8230;",
+      "imageUrl": "https://images.unsplash.com/photo-1531746790095-6c10a4031c5f?w=800&q=80",
+      "source": "MIT Tech Review",
+      "sourceUrl": "https://www.technologyreview.com/2026/02/23/1133522/peptides-are-everywhere-heres-what-you-need-to-know/",
+      "publishedAt": "2026-02-23T18:52:40.000Z"
+    },
+    {
+      "id": "oepdqr",
+      "title": "OpenAI calls in the consultants for its enterprise push",
+      "summary": "OpenAI is partnering with four consulting giants in an effort to see more adoption of its OpenAI Frontier AI agent platform.",
+      "imageUrl": "https://images.unsplash.com/photo-1620712943543-bcc4688e7485?w=800&q=80",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/02/23/openai-calls-in-the-consultants-for-its-enterprise-push/",
+      "publishedAt": "2026-02-23T18:11:08.000Z"
+    },
+    {
+      "id": "9v0wih",
+      "title": "Guide Labs debuts a new kind of interpretable LLM",
+      "summary": "The company open sourced an 8-billion-parameter LLM, Steerling-8B, trained with a new architecture designed to make its actions easily interpretable.",
+      "imageUrl": "https://images.unsplash.com/photo-1655720828018-edd2daec9349?w=800&q=80",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/02/23/guide-labs-debuts-a-new-kind-of-interpretable-llm/",
+      "publishedAt": "2026-02-23T17:53:28.000Z"
+    },
+    {
+      "id": "1huv5v",
+      "title": "The human work behind humanoid robots is being hidden",
+      "summary": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here. In January, Nvidia’s Jensen Huang, the head of the world’s most valuable company, proclaimed that we are entering the era of physical AI, when artificial intelligence will move beyond language and chatbots&#8230;",
+      "imageUrl": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=800&q=80",
+      "source": "MIT Tech Review",
+      "sourceUrl": "https://www.technologyreview.com/2026/02/23/1133508/the-human-work-behind-humanoid-robots-is-being-hidden/",
+      "publishedAt": "2026-02-23T17:05:00.000Z"
+    },
+    {
+      "id": "d5ywfi",
+      "title": "Particle’s AI news app listens to podcasts for interesting clips so you you don’t have to",
+      "summary": "AI news app Particle can now pull in key moments from podcasts, letting readers instantly play short, relevant clips alongside related stories.",
+      "imageUrl": "https://images.unsplash.com/photo-1485827404703-89b55fcc595e?w=800&q=80",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/02/23/particles-ai-news-app-listens-to-podcasts-for-interesting-clips-so-you-you-dont-have-to/",
+      "publishedAt": "2026-02-23T16:55:40.000Z"
+    },
+    {
+      "id": "it4l98",
+      "title": "Spotify rolls out AI-powered Prompted Playlists to the UK and other markets",
+      "summary": "Spotify continues to test its AI-powered “Prompted Playlist” feature, now rolling out the tool to Premium subscribers in the U.K., Ireland, Australia, and Sweden.",
+      "imageUrl": "https://images.unsplash.com/photo-1485827404703-89b55fcc595e?w=800&q=80",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/02/23/spotify-ai-prompted-playlists-uk-markets/",
+      "publishedAt": "2026-02-23T16:50:36.000Z"
+    },
+    {
+      "id": "z8q9oq",
+      "title": "Does Big Tech actually care about fighting AI slop?",
+      "summary": "Progress towards reliable deepfake labelling tech is sluggish, despite all the “help” from AI providers. | Image: Cath Virginia / The Verge, Getty Images As 2025 drew to a close, Instagram head Adam Mosseri ended the year by doom-posting about AI. \"Authenticity is becoming infinitely reproducible,\" Mosseri lamented. \"Everything that made creators matter - the ability to be real, to connect, to have a voice that couldn't be faked - is now accessible to anyone with the right tools.\" But people, Mo",
+      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/05/STKS511_AI_SLOP_A.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "source": "The Verge",
+      "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/882956/ai-deepfake-detection-labels-c2pa-instagram-youtube",
+      "publishedAt": "2026-02-23T16:00:00.000Z"
+    },
+    {
+      "id": "erdzul",
+      "title": "5 days left to lock in the lowest TechCrunch Disrupt 2026 ticket rates",
+      "summary": "Five days to save up to $680 on your TechCrunch Disrupt 2026 ticket. These lowest rates of the year disappear on February 27 at 11:59 p.m. PT.",
+      "imageUrl": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=800&q=80",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/02/23/5-days-left-to-lock-in-the-lowest-techcrunch-disrupt-2026-ticket-rates/",
+      "publishedAt": "2026-02-23T15:00:00.000Z"
+    },
+    {
+      "id": "x2bj2x",
+      "title": "How AI agents could destroy the economy",
+      "summary": "Citrini Research imagines a report from two years in the future, in which unemployment has doubled and the total value of the stock market has fallen by more than a third.",
+      "imageUrl": "https://images.unsplash.com/photo-1676299081847-824916de030a?w=800&q=80",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/02/23/how-ai-agents-could-destroy-the-economy/",
+      "publishedAt": "2026-02-23T14:44:03.000Z"
+    },
+    {
+      "id": "fxult3",
+      "title": "Defense Secretary summons Anthropic’s Amodei over military use of Claude",
+      "summary": "Defense Secretary Pete Hegseth has summoned Anthropic CEO Dario Amodei to the Pentagon for a tense discussion over the military's use of Claude. Hegseth has threatened to designate Anthropic a \"supply chain risk.\"",
+      "imageUrl": "https://images.unsplash.com/photo-1526374965328-7f61d4dc18c5?w=800&q=80",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/02/23/defense-secretary-summons-anthropics-amodei-over-military-use-of-claude/",
+      "publishedAt": "2026-02-23T14:19:10.000Z"
+    },
+    {
+      "id": "qu2e6f",
+      "title": "The Download: Chicago’s surveillance network, and building better bras",
+      "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. Inside Chicago’s surveillance panopticon Chicago has tens of thousands of surveillance cameras—up to 45,000, by some estimates. That’s among the highest numbers per capita in the US. Chicago boasts one of the largest&#8230;",
+      "imageUrl": "https://images.unsplash.com/photo-1485827404703-89b55fcc595e?w=800&q=80",
+      "source": "MIT Tech Review",
+      "sourceUrl": "https://www.technologyreview.com/2026/02/23/1133495/the-download-chicagos-surveillance-network-and-building-better-bras/",
+      "publishedAt": "2026-02-23T13:10:00.000Z"
+    },
+    {
+      "id": "guc710",
+      "title": "How many AIs does it take to read a PDF?",
+      "summary": "Image: Kristen Radtke / The Verge Last November, the House Oversight Committee had just released 20,000 pages of documents from the estate of Jeffrey Epstein, and Luke Igel and some friends were clicking around, trying to follow the threads of conversation through garbled email threads and a PDF viewer that was, frankly, \"gross.\" In the coming months, the Department of Justice would release its own batches of files, more than three million of them - again, all PDFs. This was a problem. While the",
+      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/02/PDFs-AI-still.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "source": "The Verge",
+      "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/882891/ai-pdf-parsing-failure",
+      "publishedAt": "2026-02-23T11:00:00.000Z"
+    },
+    {
+      "id": "xu6n4j",
+      "title": "Inside Chicago’s surveillance panopticon",
+      "summary": "Early on the morning of September 2, 2024, a Chicago Transit Authority Blue Line train was the scene of a random and horrific mass shooting. Four people were shot and killed on a westbound train as it approached the suburb of Forest Park.&#160; The police swiftly activated a digital dragnet—a surveillance network that connects thousands&#8230;",
+      "imageUrl": "https://images.unsplash.com/photo-1635070041078-e363dbe005cb?w=800&q=80",
+      "source": "MIT Tech Review",
+      "sourceUrl": "https://www.technologyreview.com/2026/02/23/1132740/inside-chicago-surveillance-panopticon/",
+      "publishedAt": "2026-02-23T10:00:00.000Z"
+    },
+    {
+      "id": "sqy3ua",
+      "title": "Samsung is adding Perplexity to Galaxy AI",
+      "summary": "I wish I could talk to my Plex server… | Image: Samsung. In addition to summoning Bixby or Gemini, Galaxy S26 users will be able to call on Perplexity by saying \"hey, Plex.\" The integration of Perplexity into Galaxy AI is just one element of the company's embrace of a \"multi-agent ecosystem.\" Often, people will use different AI agents for different tasks, depending on where their strengths lie. So Samsung is opening up the ability to integrate different agents into the OS. Hey, Plex isn't just s",
+      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/02/Samsung-Mobile-Galaxy-AI-Perplexity-AI-Agent-Expansion-of-Galaxy-AI_main1.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "source": "The Verge",
+      "sourceUrl": "https://www.theverge.com/tech/882921/samsung-is-adding-perplexity-to-galaxy-ai",
+      "publishedAt": "2026-02-22T22:15:30.000Z"
+    },
+    {
+      "id": "hnnloj",
+      "title": "All the important news from the ongoing India AI Impact Summit",
+      "summary": "India is hosting a four-day AI Summit this week that will be attended by executives from major AI labs and Big Tech, including OpenAI, Anthropic, Nvidia, Microsoft, Google, and Cloudflare, as well as heads of state.",
+      "imageUrl": "https://images.unsplash.com/photo-1655720828018-edd2daec9349?w=800&q=80",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/02/22/all-the-important-news-from-the-ongoing-india-ai-summit/",
+      "publishedAt": "2026-02-22T17:00:00.000Z"
+    },
+    {
+      "id": "8pri0p",
+      "title": "6 days left to lock in the lowest TechCrunch Disrupt 2026 rates",
+      "summary": "Super Early Bird pricing for TechCrunch Disrupt 2026 ends February 27 at 11:59 p.m. PT. That means you have just 6 days left to secure up to $680 of ticket savings.",
+      "imageUrl": "https://images.unsplash.com/photo-1655720828018-edd2daec9349?w=800&q=80",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/02/22/6-days-left-to-lock-in-the-lowest-techcrunch-disrupt-2026-rates/",
+      "publishedAt": "2026-02-22T15:00:00.000Z"
+    },
+    {
+      "id": "z5hxfl",
+      "title": "How to Hide Google’s AI Overviews From Your Search Results",
+      "summary": "You can avoid Google’s AI summaries in your search results by simply adjusting your query. Or just switch search engines altogether.",
+      "imageUrl": "https://media.wired.com/photos/699879d490ce1a01f1ba1ac0/master/pass/GettyImages-2250413446.jpg",
+      "source": "Wired",
+      "sourceUrl": "https://www.wired.com/story/how-to-hide-google-ai-overviews-from-your-search-results/",
+      "publishedAt": "2026-02-22T11:00:00.000Z"
+    },
+    {
+      "id": "gshzx7",
+      "title": "Sam Altman would like to remind you that humans use a lot of energy, too",
+      "summary": "\"It also takes a lot of energy to train a human.\"",
+      "imageUrl": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=800&q=80",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/02/21/sam-altman-would-like-remind-you-that-humans-use-a-lot-of-energy-too/",
+      "publishedAt": "2026-02-21T21:38:01.000Z"
+    },
+    {
+      "id": "b4tle6",
+      "title": "Microsoft’s new gaming CEO vows not to flood the ecosystem with ‘endless AI slop’",
+      "summary": "Is Microsoft's gaming division doubling down on AI?",
+      "imageUrl": "https://images.unsplash.com/photo-1655720828018-edd2daec9349?w=800&q=80",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/02/21/microsofts-new-gaming-ceo-vows-not-to-flood-the-ecosystem-with-endless-ai-slop/",
+      "publishedAt": "2026-02-21T17:41:27.000Z"
+    },
+    {
+      "id": "c5mu08",
+      "title": "Suspect in Tumbler Ridge school shooting described violent scenarios to ChatGPT",
+      "summary": "The suspect in the mass shooting at Tumbler Ridge, British Columbia, Jesse Van Rootselaar, was raising alarms among employees at OpenAI months before the shooting took place. This past June, Jesse had conversations with ChatGPT involving descriptions of gun violence that triggered the chatbot's automated review system. Several employees raised concerns that her posts could be a precursor to real-world violence and encouraged company leaders to contact the authorities, but they ultimately decline",
+      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/02/gettyimages-2260625085.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "source": "The Verge",
+      "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/882814/tumbler-ridge-school-shooting-chatgpt",
+      "publishedAt": "2026-02-21T15:22:57.000Z"
+    },
+    {
+      "id": "lh2udx",
+      "title": "Trump is making coal plants even dirtier as AI demands more energy",
+      "summary": "Kingston Fossil Plant, a 1.4-gigawatt coal-fired power plant located in Roane County, just outside Kingston, Tennessee on the shore of Watts Bar Lake. | Photo: Getty Images The Trump administration just tossed out Biden-era restrictions on mercury and other toxic pollutants from power plants. It's repealing Mercury and Air Toxics Standards (MATS) just as electricity demand in the US ticks up with the buildout of new AI data centers. Those standards are particularly impactful when it comes to pol",
+      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/02/gettyimages-1140674387.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "source": "The Verge",
+      "sourceUrl": "https://www.theverge.com/science/882288/trump-ai-data-center-power-plant-pollution-mercury-mats",
+      "publishedAt": "2026-02-20T20:18:34.000Z"
+    },
+    {
+      "id": "y67yvy",
+      "title": "Exclusive eBook: The great Al hype correction of 2025",
+      "summary": "2025 was a year of reckoning, including how the heads of the top AI companies made promises they couldn’t keep. In this exclusive subscriber-only eBook, you&#8217;ll learn more about why we may need to readjust our expectations. This story is part of the Hype Correction package.by Will Douglas Heaven December 15, 2025 Table of Contents:&#8230;",
+      "imageUrl": "https://images.unsplash.com/photo-1531746790095-6c10a4031c5f?w=800&q=80",
+      "source": "MIT Tech Review",
+      "sourceUrl": "https://www.technologyreview.com/2026/02/20/1133368/exclusive-ebook-the-great-al-hype-correction-of-2025/",
+      "publishedAt": "2026-02-20T18:46:07.000Z"
+    },
+    {
+      "id": "dzvh46",
+      "title": "AI Safety Meets the War Machine",
+      "summary": "Anthropic doesn’t want its AI used in autonomous weapons or government surveillance. Those carve-outs could cost it a major military contract.",
+      "imageUrl": "https://media.wired.com/photos/6994edaec3ca16022bd2b3d5/master/pass/Backchannel-Anthropic-vs-Pentagon-Business--2221448096.jpg",
+      "source": "Wired",
+      "sourceUrl": "https://www.wired.com/story/backchannel-anthropic-dispute-with-the-pentagon/",
+      "publishedAt": "2026-02-20T17:00:00.000Z"
+    },
+    {
+      "id": "xl1rhp",
+      "title": "Amazon blames human employees for an AI coding agent&#8217;s mistake",
+      "summary": "Amazon Web Services suffered a 13-hour outage to one system in December as a result of its AI coding assistant Kiro's actions, according to the Financial Times. Numerous unnamed Amazon employees told the FT that AI agent Kiro was responsible for the December incident affecting an AWS service in parts of mainland China. People familiar with the matter said the tool chose to \"delete and recreate the environment\" it was working on, which caused the outage. While Kiro normally requires sign-off from",
+      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/02/STKB371_AMAZON_WEB_SERVICES_A.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "source": "The Verge",
+      "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/882005/amazon-blames-human-employees-for-an-ai-coding-agents-mistake",
+      "publishedAt": "2026-02-20T16:52:48.000Z"
+    },
+    {
+      "id": "dennee",
+      "title": "OpenAI&#8217;s first ChatGPT gadget could be a smart speaker with a camera",
+      "summary": "OpenAI's first hardware release will be a smart speaker with a camera that will probably cost between $200 and $300, according to The Information. The device will be able to recognize things like \"items on a nearby table or conversations people are having in the vicinity,\" The Information says, and it will have a Face ID-like facial recognition system so that people can purchase things. OpenAI acquired Jony Ive's hardware company last May in a deal worth nearly $6.5 billion. Details about their ",
+      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/02/STK155_OPEN_AI_4_CVirginia_A.png?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "source": "The Verge",
+      "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/882077/openai-chatgpt-smart-speaker-camera-glasses-lamp",
+      "publishedAt": "2026-02-20T16:52:03.000Z"
+    },
+    {
+      "id": "ikng1o",
+      "title": "The Download: Microsoft’s online reality check, and the worrying rise in measles cases",
+      "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. Microsoft has a new plan to prove what’s real and what’s AI online AI-enabled deception now permeates our online lives. There are the high-profile cases you may easily spot. Other times, it slips&#8230;",
+      "imageUrl": "https://images.unsplash.com/photo-1635070041078-e363dbe005cb?w=800&q=80",
+      "source": "MIT Tech Review",
+      "sourceUrl": "https://www.technologyreview.com/2026/02/20/1133396/the-download-microsofts-online-reality-check-and-the-worrying-rise-in-measles-cases/",
+      "publishedAt": "2026-02-20T13:10:00.000Z"
+    },
+    {
+      "id": "yo4fxk",
+      "title": "Could AI Data Centers Be Moved to Outer Space?",
+      "summary": "Massive data centers for generative AI are bad for the Earth. How about launching them into orbit?",
+      "imageUrl": "https://media.wired.com/photos/69977b3aacabb32f3cbd37c7/master/pass/sci-space-data-1648725322.jpg",
+      "source": "Wired",
+      "sourceUrl": "https://www.wired.com/story/could-we-put-ai-data-centers-in-space/",
+      "publishedAt": "2026-02-20T12:00:00.000Z"
+    },
+    {
+      "id": "n61k50",
+      "title": "The Search Engine for OnlyFans Models Who Look Like Your Crush",
+      "summary": "Presearch’s “Doppelgänger” is trying to help people discover adult creators rather than use nonconsensual deepfakes.",
+      "imageUrl": "https://media.wired.com/photos/698f5635e3c699eb787a610a/master/pass/NSFW%20doppelgangers%20copy.jpg",
+      "source": "Wired",
+      "sourceUrl": "https://www.wired.com/story/the-search-engine-for-onlyfans-models-who-look-like-your-crush/",
+      "publishedAt": "2026-02-20T11:00:00.000Z"
+    },
+    {
+      "id": "hniwh9",
+      "title": "Job titles of the future: Breast biomechanic",
+      "summary": "Twenty years ago, Joanna Wakefield-Scurr was having persistent pain in her breasts. Her doctor couldn’t diagnose the cause but said a good, supportive bra could help. A professor of biomechanics, Wakefield-Scurr thought she could do a little research and find a science-backed option. Two decades later, she’s still looking. Wakefield-Scurr now leads an 18-person team&#8230;",
+      "imageUrl": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=800&q=80",
+      "source": "MIT Tech Review",
+      "sourceUrl": "https://www.technologyreview.com/2026/02/20/1132629/job-titles-future-breast-biomechanic/",
+      "publishedAt": "2026-02-20T11:00:00.000Z"
+    },
+    {
+      "id": "u0bm7j",
+      "title": "Community service",
+      "summary": "The bird is a beautiful silver-gray, and as she dies twitching in the lasernet I’m grateful for two things: First, that she didn’t make a sound. Second, that this will be the very last time.&#160; They’re called corpse doves—because the darkest part of their gray plumage surrounds the lighter part, giving the impression that skeleton&#8230;",
+      "imageUrl": "https://images.unsplash.com/photo-1676299081847-824916de030a?w=800&q=80",
+      "source": "MIT Tech Review",
+      "sourceUrl": "https://www.technologyreview.com/2026/02/20/1132640/community-service-science-fiction-story/",
+      "publishedAt": "2026-02-20T11:00:00.000Z"
+    },
+    {
+      "id": "8wd8s0",
+      "title": "Measles cases are rising. Other vaccine-preventable infections could be next.",
+      "summary": "There’s a measles outbreak happening close to where I live. Since the start of this year, 34 cases have been confirmed in Enfield, a northern borough of London. Most of those affected are children under the age of 11. One in five have needed hospital treatment. It’s another worrying development for an incredibly contagious and potentially&#8230;",
+      "imageUrl": "https://images.unsplash.com/photo-1526374965328-7f61d4dc18c5?w=800&q=80",
+      "source": "MIT Tech Review",
+      "sourceUrl": "https://www.technologyreview.com/2026/02/20/1133365/measles-cases-rising-vaccine-preventable-infections-mumps-hepatitis-b/",
+      "publishedAt": "2026-02-20T10:00:00.000Z"
+    },
+    {
+      "id": "i3p4bn",
+      "title": "The Pitt has a sharp take on AI",
+      "summary": "Each episode of HBO's The Pitt features some degree of medical trauma that almost makes the hospital drama feel like a horror series. Some patients are dealing with gnarly lacerations while others are fighting off vicious blood infections that could rob them of their limbs, and the chaos of working in an emergency room often leaves The Pitt's central characters shaken. But as alarming as many of The Pitt's more gore-forward moments can be, what's even more unsettling is the show's slow-burning s",
+      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/02/sepideh-moafi-1.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "source": "The Verge",
+      "sourceUrl": "https://www.theverge.com/entertainment/881016/hbo-the-pitt-generative-ai-charting",
+      "publishedAt": "2026-02-19T23:15:00.000Z"
+    },
+    {
+      "id": "tjprcd",
+      "title": "Code Metal Raises $125 Million to Rewrite the Defense Industry’s Code With AI",
+      "summary": "The Boston startup uses AI to translate and verify legacy software for defense contractors, arguing modernization can’t come at the cost of new bugs.",
+      "imageUrl": "https://media.wired.com/photos/6996574c8ea1d07fab1e3328/master/pass/Buzzy-Startup-Business-Code-Metal-10-30-25-30.jpg",
+      "source": "Wired",
+      "sourceUrl": "https://www.wired.com/story/vibe-coding-startup-code-metal-raises-series-b-fundraising/",
+      "publishedAt": "2026-02-19T19:30:00.000Z"
+    },
+    {
+      "id": "p2q2tw",
+      "title": "Perplexity’s Retreat From Ads Signals a Bigger Strategic Shift",
+      "summary": "The AI search startup once predicted advertising would be a massive business. Now it's betting on a smaller, more valuable audience.",
+      "imageUrl": "https://media.wired.com/photos/69965f376756d23c38f59511/master/pass/Model-Behavior-Perplexity-Puts-Its-Google-Killer-Era-Behind-It-Business-2243356910.jpg",
+      "source": "Wired",
+      "sourceUrl": "https://www.wired.com/story/perplexity-ads-shift-search-google/",
+      "publishedAt": "2026-02-19T19:12:38.000Z"
+    },
+    {
+      "id": "d0ifg0",
+      "title": "The AI security nightmare is here and it looks suspiciously like lobster",
+      "summary": "A hacker tricked a popular AI coding tool into installing OpenClaw - the viral, open-source AI agent OpenClaw that \"actually does things\" - absolutely everywhere. Funny as a stunt, but a sign of what to come as more and more people let autonomous software use their computers on their behalf. The hacker took advantage of a vulnerability in Cline, an open-source AI coding agent popular among developers, that security researcher Adnan Khan had surfaced just days earlier as a proof of concept. Simpl",
+      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/02/STKB382_OPEN_CLAW_B_a2aa40.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "source": "The Verge",
+      "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/881574/cline-openclaw-prompt-injection-hack",
+      "publishedAt": "2026-02-19T18:58:56.000Z"
+    },
+    {
+      "id": "a30wdc",
+      "title": "Microsoft has a new plan to prove what’s real and what’s AI online",
+      "summary": "AI-enabled deception now permeates our online lives. There are the high-profile cases you may easily spot, like when White House officials recently shared a manipulated image of a protester in Minnesota and then mocked those asking about it. Other times, it slips quietly into social media feeds and racks up views, like the videos that&#8230;",
+      "imageUrl": "https://images.unsplash.com/photo-1485827404703-89b55fcc595e?w=800&q=80",
+      "source": "MIT Tech Review",
+      "sourceUrl": "https://www.technologyreview.com/2026/02/19/1133360/microsoft-has-a-new-plan-to-prove-whats-real-and-whats-ai-online/",
+      "publishedAt": "2026-02-19T16:00:00.000Z"
+    },
+    {
+      "id": "v2dcob",
+      "title": "This AI Tool Will Tell You to Stop Slacking Off",
+      "summary": "Fomi watches you work, then scolds you when your attention wanders. It’s helpful, but there are privacy issues to consider.",
+      "imageUrl": "https://media.wired.com/photos/698e3b44562628202887fe7c/master/pass/gear-ai-motivator-654455754.jpg",
+      "source": "Wired",
+      "sourceUrl": "https://www.wired.com/story/fomi-ai-will-tell-you-to-stop-slacking-off/",
+      "publishedAt": "2026-02-19T10:30:00.000Z"
+    },
+    {
+      "id": "44jt3o",
+      "title": "This Defense Company Made AI Agents That Blow Things Up",
+      "summary": "Scout AI is using technology borrowed from the AI industry to power lethal weapons—and recently demonstrated its explosive potential.",
+      "imageUrl": "https://media.wired.com/photos/6994c7c32ce5fe7768592c57/master/pass/AI-Lab-Scout-AI-Using-AI-Agents-To-Blow-Things-Up-Business.jpg",
+      "source": "Wired",
+      "sourceUrl": "https://www.wired.com/story/ai-lab-scout-ai-is-using-ai-agents-to-blow-things-up/",
+      "publishedAt": "2026-02-18T19:47:15.000Z"
+    },
+    {
+      "id": "glin0x",
+      "title": "Nvidia’s Deal With Meta Signals a New Era in Computing Power",
+      "summary": "The days of tech giants buying up discrete chips are over. AI companies now need GPUs, CPUs, and everything in between.",
+      "imageUrl": "https://media.wired.com/photos/6995c9dbe2d77b4473bee16f/master/pass/GettyImages-2261773850.jpg",
+      "source": "Wired",
+      "sourceUrl": "https://www.wired.com/story/nvidias-deal-with-meta-signals-a-new-era-in-computing-power/",
+      "publishedAt": "2026-02-18T19:24:55.000Z"
+    },
+    {
+      "id": "hax5kw",
+      "title": "Password managers' promise that they can't see your vaults isn't always true",
+      "summary": "Contrary to what password managers say, a server compromise can mean game over.",
+      "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2022/07/password-login-1000x648.jpeg",
+      "source": "Ars Technica",
+      "sourceUrl": "https://arstechnica.com/security/2026/02/password-managers-promise-that-they-cant-see-your-vaults-isnt-always-true/",
+      "publishedAt": "2026-02-17T20:43:01.000Z"
+    },
+    {
+      "id": "qjz2gd",
+      "title": "Most VMware users still \"actively reducing their VMware footprint,\" survey finds",
+      "summary": "Broadcom's \"strategy was never to keep every customer,\" CloudBolt report says.",
+      "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2026/02/GettyImages-2188662122-1024x648.jpg",
+      "source": "Ars Technica",
+      "sourceUrl": "https://arstechnica.com/information-technology/2026/02/most-vmware-users-still-actively-reducing-their-vmware-footprint-survey-finds/",
+      "publishedAt": "2026-02-17T18:38:10.000Z"
+    },
+    {
+      "id": "5z09hy",
+      "title": "Retraction: After a routine code rejection, an AI agent published a hit piece on someone by name",
+      "summary": "This story has been retracted",
+      "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2026/02/gatekeeping-in-open-source-terminal-1152x648.jpg",
+      "source": "Ars Technica",
+      "sourceUrl": "https://arstechnica.com/ai/2026/02/after-a-routine-code-rejection-an-ai-agent-published-a-hit-piece-on-someone-by-name/",
+      "publishedAt": "2026-02-13T19:40:21.000Z"
+    },
+    {
+      "id": "dkpiby",
+      "title": "OpenAI sidesteps Nvidia with unusually fast coding model on plate-sized chips",
+      "summary": "OpenAI's new GPT‑5.3‑Codex‑Spark is 15 times faster at coding than its predecessor.",
+      "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2026/02/GettyImages-2225076517_resize-1152x648.jpg",
+      "source": "Ars Technica",
+      "sourceUrl": "https://arstechnica.com/ai/2026/02/openai-sidesteps-nvidia-with-unusually-fast-coding-model-on-plate-sized-chips/",
+      "publishedAt": "2026-02-12T22:56:02.000Z"
+    },
+    {
+      "id": "oz2et4",
+      "title": "Attackers prompted Gemini over 100,000 times while trying to clone it, Google says",
+      "summary": "Distillation technique lets copycats mimic Gemini at a fraction of the development cost.",
+      "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2023/12/gemini_header-1152x648.jpg",
+      "source": "Ars Technica",
+      "sourceUrl": "https://arstechnica.com/ai/2026/02/attackers-prompted-gemini-over-100000-times-while-trying-to-clone-it-google-says/",
+      "publishedAt": "2026-02-12T19:42:08.000Z"
+    },
+    {
+      "id": "s10oyx",
+      "title": "Once-hobbled Lumma Stealer is back with lures that are hard to resist",
+      "summary": "ClickFix bait, combined with advanced Castleloader malware, is installing Lumma \"at scale.\"",
+      "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2023/07/exploit-vulnerability-security.jpg",
+      "source": "Ars Technica",
+      "sourceUrl": "https://arstechnica.com/security/2026/02/once-hobbled-lumma-stealer-is-back-with-lures-that-are-hard-to-resist/",
+      "publishedAt": "2026-02-11T22:11:40.000Z"
+    },
+    {
+      "id": "4jtrsv",
+      "title": "OpenAI researcher quits over ChatGPT ads, warns of \"Facebook\" path",
+      "summary": "Zoë Hitzig resigned on the same day OpenAI began testing ads in its chatbot.",
+      "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2026/02/open-ai-monkey-ad-1152x648.jpg",
+      "source": "Ars Technica",
+      "sourceUrl": "https://arstechnica.com/information-technology/2026/02/openai-researcher-quits-over-fears-that-chatgpt-ads-could-manipulate-users/",
+      "publishedAt": "2026-02-11T20:44:19.000Z"
+    },
+    {
+      "id": "n88nim",
+      "title": "Sixteen Claude AI agents working together created a new C compiler",
+      "summary": "The $20,000 experiment compiled a Linux kernel but needed deep human management.",
+      "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2026/01/coding_robots_agents-1152x648.jpg",
+      "source": "Ars Technica",
+      "sourceUrl": "https://arstechnica.com/ai/2026/02/sixteen-claude-ai-agents-working-together-created-a-new-c-compiler/",
+      "publishedAt": "2026-02-06T23:40:58.000Z"
+    },
+    {
+      "id": "efnd1i",
+      "title": "Malicious packages for dYdX cryptocurrency exchange empties user wallets",
+      "summary": "Incident is at least the third time the exchange has been targeted by thieves.",
+      "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2026/02/cryptocurrency-theft-heist-1152x648.jpg",
+      "source": "Ars Technica",
+      "sourceUrl": "https://arstechnica.com/security/2026/02/malicious-packages-for-dydx-cryptocurrency-exchange-empties-user-wallets/",
+      "publishedAt": "2026-02-06T22:16:51.000Z"
+    },
+    {
+      "id": "67ofvl",
+      "title": "AI companies want you to stop chatting with bots and start managing them",
+      "summary": "Claude Opus 4.6 and OpenAI Frontier pitch a future of supervising AI agents.",
+      "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2025/05/lazy_workers-1-1152x648.jpg",
+      "source": "Ars Technica",
+      "sourceUrl": "https://arstechnica.com/information-technology/2026/02/ai-companies-want-you-to-stop-chatting-with-bots-and-start-managing-them/",
+      "publishedAt": "2026-02-05T22:47:54.000Z"
+    },
+    {
+      "id": "672pdv",
+      "title": "OpenAI is hoppin' mad about Anthropic's new Super Bowl TV ads",
+      "summary": "Sam Altman calls AI competitor \"dishonest\" and \"authoritarian\" in lengthy post on X.",
+      "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2026/02/anthropic_ad_2-1152x648.jpg",
+      "source": "Ars Technica",
+      "sourceUrl": "https://arstechnica.com/information-technology/2026/02/openai-is-hoppin-mad-about-anthropics-new-super-bowl-tv-ads/",
+      "publishedAt": "2026-02-05T17:46:59.000Z"
+    },
+    {
+      "id": "yizi7l",
+      "title": "Increase of AI bots on the Internet sparks arms race",
+      "summary": "Publishers are rolling out more aggressive defenses.",
+      "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2024/06/botai-1152x648.jpg",
+      "source": "Ars Technica",
+      "sourceUrl": "https://arstechnica.com/ai/2026/02/increase-of-ai-bots-on-the-internet-sparks-arms-race/",
+      "publishedAt": "2026-02-05T14:21:20.000Z"
+    },
+    {
+      "id": "hb1v7d",
+      "title": "Microsoft releases urgent Office patch. Russian-state hackers pounce.",
+      "summary": "The window to patch vulnerabilities is shrinking rapidly.",
+      "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2024/01/russia-state-hacking.jpg",
+      "source": "Ars Technica",
+      "sourceUrl": "https://arstechnica.com/security/2026/02/russian-state-hackers-exploit-office-vulnerability-to-infect-computers/",
+      "publishedAt": "2026-02-04T23:08:04.000Z"
+    },
+    {
+      "id": "4wzdfc",
+      "title": "Should AI chatbots have ads? Anthropic says no.",
+      "summary": "ChatGPT competitor comes out swinging with Super Bowl ad mocking AI product pitches.",
+      "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2026/02/claude-no-ads-1152x648.png",
+      "source": "Ars Technica",
+      "sourceUrl": "https://arstechnica.com/ai/2026/02/should-ai-chatbots-have-ads-anthropic-says-no/",
+      "publishedAt": "2026-02-04T21:15:07.000Z"
+    },
+    {
+      "id": "r8i9ph",
+      "title": "So yeah, I vibe-coded a log colorizer—and I feel good about it",
+      "summary": "Some semi-unhinged musings on where LLMs fit into my life—and how I'll keep using them.",
+      "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2026/01/lee-romance-violence-anything-1152x648.jpg",
+      "source": "Ars Technica",
+      "sourceUrl": "https://arstechnica.com/features/2026/02/so-yeah-i-vibe-coded-a-log-colorizer-and-i-feel-good-about-it/",
+      "publishedAt": "2026-02-04T12:00:37.000Z"
+    }
+  ]
+}
