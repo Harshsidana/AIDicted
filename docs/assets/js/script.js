@@ -68,7 +68,7 @@ function parseRss2JsonResponse(data, sourceName) {
         .map(item => {
             // Summary: strip HTML, truncate
             const rawDesc = item.description || item.content || '';
-            const summary = cleanHtml(rawDesc).slice(0, 500)
+            const summary = truncate(cleanHtml(rawDesc), 500)
                 || `Read the full article from ${sourceName}.`;
 
             // Image: rss2json exposes item.thumbnail or image in content
@@ -122,7 +122,7 @@ function parseRssXml(xmlText, sourceName) {
 
             const descEl = item.querySelector('description, summary, encoded');
             const rawDesc = descEl?.textContent || '';
-            const summary = cleanHtml(rawDesc).slice(0, 500) || `Read the full article from ${sourceName}.`;
+            const summary = truncate(cleanHtml(rawDesc), 500) || `Read the full article from ${sourceName}.`;
 
             const pubDateEl = item.querySelector('pubDate, published, updated');
             const pubDateStr = pubDateEl?.textContent?.trim() || '';
@@ -638,13 +638,31 @@ function formatRelativeTime(isoString) {
     }
 }
 
-function cleanHtml(html) {
-    return html
-        .replace(/<[^>]*>/g, '')
+function decodeHtmlEntities(str) {
+    return (str || '')
+        // Named entities
         .replace(/&amp;/g, '&').replace(/&lt;/g, '<').replace(/&gt;/g, '>')
-        .replace(/&quot;/g, '"').replace(/&#39;/g, "'").replace(/&nbsp;/g, ' ')
-        .replace(/&mdash;/g, '—').replace(/&ndash;/g, '–').replace(/&hellip;/g, '…')
-        .replace(/\s+/g, ' ').trim();
+        .replace(/&quot;/g, '"').replace(/&#39;/g, "'").replace(/&apos;/g, "'")
+        .replace(/&nbsp;/g, ' ').replace(/&mdash;/g, '—').replace(/&ndash;/g, '–')
+        .replace(/&hellip;/g, '…').replace(/&lsquo;/g, "'").replace(/&rsquo;/g, "'")
+        .replace(/&ldquo;/g, '"').replace(/&rdquo;/g, '"').replace(/&copy;/g, '©')
+        // Decimal numeric entities e.g. &#8230;
+        .replace(/&#(\d+);/g, (_, code) => String.fromCodePoint(parseInt(code, 10)))
+        // Hex numeric entities e.g. &#x2026;
+        .replace(/&#x([\da-fA-F]+);/g, (_, code) => String.fromCodePoint(parseInt(code, 16)));
+}
+
+function cleanHtml(html) {
+    return decodeHtmlEntities(
+        (html || '').replace(/<[^>]*>/g, '')  // strip tags first
+    ).replace(/\s+/g, ' ').trim();
+}
+
+// Truncate at word boundary and append ellipsis if needed
+function truncate(text, maxLen) {
+    if (!text || text.length <= maxLen) return text;
+    const cut = text.lastIndexOf(' ', maxLen);
+    return (cut > maxLen * 0.7 ? text.slice(0, cut) : text.slice(0, maxLen)).trimEnd() + '…';
 }
 
 function cleanTitle(title) {
