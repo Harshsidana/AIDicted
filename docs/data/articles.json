@@ -1,7 +1,34 @@
 {
-  "fetchedAt": "2026-02-24T23:40:14.652Z",
+  "fetchedAt": "2026-02-25T02:50:50.227Z",
   "count": 60,
   "articles": [
+    {
+      "id": "bg3agw",
+      "title": "India’s AI boom pushes firms to trade near-term revenue for users",
+      "summary": "ChatGPT and rivals are testing whether India's massive AI user boom can translate into paying customers as free offers wind down.",
+      "imageUrl": "https://images.unsplash.com/photo-1635070041078-e363dbe005cb?w=800&q=80",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/02/24/india-ai-boom-pushes-firms-to-trade-near-term-revenue-for-users/",
+      "publishedAt": "2026-02-25T02:00:00.000Z"
+    },
+    {
+      "id": "a98q7h",
+      "title": "Pete Hegseth’s Pentagon AI bro squad includes a former Uber executive and a private equity billionaire",
+      "summary": "U.S. Secretary of Defense Pete Hegseth (L) walks with Emil Michael (R), Under Secretary of Defense (Research & Engineering, while touring an exhibit of Multi-Domain Autonomous systems at the Pentagon July 16, 2025 in Arlington, Virginia. | Win McNamee/Getty Images. Hello and welcome to Regulator, a newsletter for Verge subscribers covering the broligarchs, the influencers, and the (potentially conscious) artificial intelligence models scrambling for power in Washington. If you're not a…",
+      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/02/gettyimages-2225411614.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "source": "The Verge",
+      "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/884165/pentagon-anthropic-emil-michael-steve-feinberg",
+      "publishedAt": "2026-02-25T01:59:00.000Z"
+    },
+    {
+      "id": "aknp0r",
+      "title": "Nvidia challenger AI chip startup MatX raised $500M",
+      "summary": "The startup was founded by former Google TPU engineers in 2023.",
+      "imageUrl": "https://images.unsplash.com/photo-1531746790095-6c10a4031c5f?w=800&q=80",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/02/24/nvidia-challenger-ai-chip-startup-matx-raised-500m/",
+      "publishedAt": "2026-02-25T00:45:47.000Z"
+    },
     {
       "id": "dkypaz",
       "title": "Spanish ‘soonicorn’ Multiverse Computing releases free compressed AI model",
@@ -273,24 +300,6 @@
       "publishedAt": "2026-02-24T07:39:27.000Z"
     },
     {
-      "id": "mws904",
-      "title": "A Meta AI security researcher said an OpenClaw agent ran amok on her inbox",
-      "summary": "The viral X post from an AI security researcher reads like satire. But it's really a word of warning about what can go wrong when handing tasks to an AI agent.",
-      "imageUrl": "https://images.unsplash.com/photo-1485827404703-89b55fcc595e?w=800&q=80",
-      "source": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/02/23/a-meta-ai-security-researcher-said-an-openclaw-agent-ran-amok-on-her-inbox/",
-      "publishedAt": "2026-02-24T00:57:14.000Z"
-    },
-    {
-      "id": "jeaih4",
-      "title": "With AI, investor loyalty is (almost) dead: At least a dozen OpenAI VCs now also back Anthropic",
-      "summary": "While some dual investors are understandable, others were more shocking, and signal the disregard of a longstanding ethical conflict-of-interest rule.",
-      "imageUrl": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=800&q=80",
-      "source": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/02/23/with-ai-investor-loyalty-is-almost-dead-at-least-a-dozen-openai-vcs-now-also-back-anthropic/",
-      "publishedAt": "2026-02-23T21:46:41.000Z"
-    },
-    {
       "id": "uiiidv",
       "title": "Anthropic accuses DeepSeek and other Chinese firms of using Claude to train their AI",
       "summary": "Anthropic claims DeepSeek and two other Chinese AI companies misused its Claude AI model in an attempt to improve their own products. In an announcement on Monday, Anthropic says the \"industrial-scale campaigns\" involved the creation of around 24,000 fraudulent accounts and more than 16 million exchanges with Claude, as reported earlier by The Wall Street Journal. The three companies - DeepSeek, MiniMax, and Moonshot - are accused of \"distilling\" Claude, or training a smaller AI model based on a…",
@@ -325,15 +334,6 @@
       "source": "The Verge",
       "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/882891/ai-pdf-parsing-failure",
       "publishedAt": "2026-02-23T11:00:00.000Z"
-    },
-    {
-      "id": "sqy3ua",
-      "title": "Samsung is adding Perplexity to Galaxy AI",
-      "summary": "I wish I could talk to my Plex server… | Image: Samsung. In addition to summoning Bixby or Gemini, Galaxy S26 users will be able to call on Perplexity by saying \"hey, Plex.\" The integration of Perplexity into Galaxy AI is just one element of the company's embrace of a \"multi-agent ecosystem.\" Often, people will use different AI agents for different tasks, depending on where their strengths lie. So Samsung is opening up the ability to integrate different agents into the OS. Hey, Plex isn't just…",
-      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/02/Samsung-Mobile-Galaxy-AI-Perplexity-AI-Agent-Expansion-of-Galaxy-AI_main1.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "source": "The Verge",
-      "sourceUrl": "https://www.theverge.com/tech/882921/samsung-is-adding-perplexity-to-galaxy-ai",
-      "publishedAt": "2026-02-22T22:15:30.000Z"
     },
     {
       "id": "z5hxfl",
