@@ -1,15 +1,285 @@
 {
-  "fetchedAt": "2026-02-25T10:29:57.583Z",
+  "fetchedAt": "2026-02-26T03:56:57.835Z",
   "count": 60,
   "articles": [
     {
-      "id": "bg3agw",
-      "title": "India’s AI boom pushes firms to trade near-term revenue for users",
-      "summary": "ChatGPT and rivals are testing whether India's massive AI user boom can translate into paying customers as free offers wind down.",
+      "id": "ramt5w",
+      "title": "Salesforce CEO Marc Benioff: This isn’t our first SaaSpocalypse",
+      "summary": "Salesforce reported a solid year-end earnings and then pulled out all the stops to ward off more talk of the death of its business to AI.",
+      "imageUrl": "https://images.unsplash.com/photo-1620712943543-bcc4688e7485?w=800&q=80",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/02/25/salesforce-ceo-marc-benioff-this-isnt-our-first-saaspocalypse/",
+      "publishedAt": "2026-02-26T01:59:12.000Z"
+    },
+    {
+      "id": "kt5ewb",
+      "title": "Gushwork bets on AI search for customer leads — and early results are emerging",
+      "summary": "Gushwork has raised $9 million in a seed round led by SIG and Lightspeed. The startup has seen early customer traction from AI search tools like ChatGPT.",
+      "imageUrl": "https://images.unsplash.com/photo-1550751827-4bd374c3f58b?w=800&q=80",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/02/25/gushwork-bets-on-ai-search-for-customer-leads-and-early-results-are-emerging/",
+      "publishedAt": "2026-02-26T00:00:00.000Z"
+    },
+    {
+      "id": "u1lp3k",
+      "title": "Anthropic acquires computer-use AI startup Vercept after Meta poached one of its founders",
+      "summary": "Seattle-based Vercept developed complex agentic tools, including a computer-use agent that could complete tasks inside applications like a person with a laptop would.",
+      "imageUrl": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=800&q=80",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/02/25/anthropic-acquires-vercept-ai-startup-agents-computer-use-founders-investors/",
+      "publishedAt": "2026-02-25T23:49:19.000Z"
+    },
+    {
+      "id": "9zdcax",
+      "title": "Nvidia has another record quarter amid record capex spends",
+      "summary": "\"The demand for tokens in the world has gone completely exponential,\" Nvidia CEO Jensen Huang said about the company's earnings.",
+      "imageUrl": "https://images.unsplash.com/photo-1531746790095-6c10a4031c5f?w=800&q=80",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/02/25/nvidia-earnings-record-capex-spend-ai/",
+      "publishedAt": "2026-02-25T23:04:42.000Z"
+    },
+    {
+      "id": "ru7r3j",
+      "title": "Roundtables: Why 2026 Is the Year for Sodium-Ion Batteries",
+      "summary": "Listen to the session or watch below Sodium-based batteries could be a cheaper, safer alternative to lithium-ion, and the technology is finally making its way into cars—and energy storage arrays on the grid. Sodium-ion batteries are one of MIT Technology Review’s 10 Breakthrough Technologies of 2026 list, and this subscriber-only discussion explains why. Watch a…",
+      "imageUrl": "https://images.unsplash.com/photo-1531746790095-6c10a4031c5f?w=800&q=80",
+      "source": "MIT Tech Review",
+      "sourceUrl": "https://www.technologyreview.com/2026/02/25/1132873/roundtables-why-2026-is-the-year-for-sodium-ion-batteries/",
+      "publishedAt": "2026-02-25T21:15:27.000Z"
+    },
+    {
+      "id": "22nr1k",
+      "title": "The White House wants AI companies to cover rate hikes. Most have already said they would.",
+      "summary": "Many hyperscalers have already made public commitments to cover electricity cost increases.",
+      "imageUrl": "https://images.unsplash.com/photo-1655720828018-edd2daec9349?w=800&q=80",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/02/25/the-white-house-wants-ai-companies-to-cover-rate-hikes-most-have-already-said-they-would/",
+      "publishedAt": "2026-02-25T20:42:14.000Z"
+    },
+    {
+      "id": "iknqzj",
+      "title": "Trump claims tech companies will sign deals next week to pay for their own power supply",
+      "summary": "President Donald Trump tried to quell Americans' concerns about rising electricity costs during his State of the Union speech - and now we're learning that the deals he promised could land next week. Trump claimed that he's negotiated a \"rate payer protection pledge\" with major tech companies, which would see them build out or pay for new electricity generation for their data centers. Leaders from Amazon, Google, Meta, Microsoft, xAI, Oracle and OpenAI are expected to attend a March 4th event to…",
+      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/02/STK466_ELECTION_2024_CVirginia_E.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "source": "The Verge",
+      "sourceUrl": "https://www.theverge.com/science/884191/ai-data-center-energy-state-of-the-union-trump",
+      "publishedAt": "2026-02-25T20:37:25.000Z"
+    },
+    {
+      "id": "tmpew3",
+      "title": "Alphabet-owned robotics software company Intrinsic joins Google",
+      "summary": "Nearly five years after graduating into an independent Alphabet company, Intrinsic is moving under Google's domain.",
+      "imageUrl": "https://images.unsplash.com/photo-1531746790095-6c10a4031c5f?w=800&q=80",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/02/25/alphabet-owned-robotics-software-company-intrinsic-joins-google/",
+      "publishedAt": "2026-02-25T20:00:00.000Z"
+    },
+    {
+      "id": "i9u7jl",
+      "title": "Riley Walz, the Jester of Silicon Valley, Is Joining OpenAI",
+      "summary": "The software engineer is famous for his online stunts. Now he’s joining the company behind ChatGPT to work on new ways for humans to use AI systems.",
+      "imageUrl": "https://media.wired.com/photos/699e0e94458686361c3c0d25/master/pass/OpenAI-Hires-Riley-Walz-Business-2236469090.jpg",
+      "source": "Wired",
+      "sourceUrl": "https://www.wired.com/story/openai-hires-riley-walz/",
+      "publishedAt": "2026-02-25T19:59:26.000Z"
+    },
+    {
+      "id": "x5950r",
+      "title": "Google and Samsung just launched the AI features Apple couldn’t with Siri",
+      "summary": "Google just announced that Gemini will soon be able to take care of some multistep tasks on your phone, like ordering food or hailing a car, starting first with the Pixel 10, Pixel 10 Pro, and the just-announced Samsung Galaxy S26 phones. It all sounds a bit like features Apple announced for Siri way back at the 2024 Worldwide Developers Conference - before Apple delayed those planned features in March 2025 and which still aren't released. Onstage, Sameer Samat, Google's president of Android,…",
+      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/02/lcimg-6fdca68e-7b7c-4906-b67b-32a94211dc36.jpeg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "source": "The Verge",
+      "sourceUrl": "https://www.theverge.com/tech/884703/google-samsung-galaxy-s26-gemini-apple-siri",
+      "publishedAt": "2026-02-25T19:56:55.000Z"
+    },
+    {
+      "id": "khohu4",
+      "title": "Wearable startup CUDIS launches a new health ring line with an AI-fueled ‘coach’",
+      "summary": "The wearable incentivizes healthy behavior with points that can be redeemed for health products.",
+      "imageUrl": "https://images.unsplash.com/photo-1676299081847-824916de030a?w=800&q=80",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/02/25/wearable-startup-cudis-launches-a-new-health-ring-line-with-an-ai-fueled-coach/",
+      "publishedAt": "2026-02-25T19:10:04.000Z"
+    },
+    {
+      "id": "fzx6er",
+      "title": "The public opposition to AI infrastructure is heating up",
+      "summary": "Public backlash over the data center boom is leading to a variety of draconian policies — including bans on new construction.",
+      "imageUrl": "https://images.unsplash.com/photo-1655720828018-edd2daec9349?w=800&q=80",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/02/25/the-public-opposition-to-ai-infrastructure-is-heating-up/",
+      "publishedAt": "2026-02-25T19:03:34.000Z"
+    },
+    {
+      "id": "xndv4d",
+      "title": "OpenClaw Users Are Allegedly Bypassing Anti-Bot Systems",
+      "summary": "An open source project called Scrapling is gaining traction with AI agent users who want their bots to scrape sites without permission.",
+      "imageUrl": "https://media.wired.com/photos/699de3a0e46e4fa7442b798a/master/pass/AI-Lab-OpenClaw-Users-Are-Attempting-to-Scrape-Sites-with-Anti-Bot-Protections-Business.jpg",
+      "source": "Wired",
+      "sourceUrl": "https://www.wired.com/story/openclaw-users-bypass-anti-bot-systems-cloudflare-scrapling/",
+      "publishedAt": "2026-02-25T19:00:00.000Z"
+    },
+    {
+      "id": "3rfhzj",
+      "title": "Gemini can now automate some multi-step tasks on Android",
+      "summary": "Gemini on Android will be able to automate tasks involving rideshare requests, or grocery or food delivery, says Google.",
+      "imageUrl": "https://images.unsplash.com/photo-1485827404703-89b55fcc595e?w=800&q=80",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/02/25/gemini-can-now-automate-some-multi-step-tasks-on-android/",
+      "publishedAt": "2026-02-25T18:00:00.000Z"
+    },
+    {
+      "id": "3xhu2c",
+      "title": "Google Gemini can book an Uber or order food for you on Pixel 10 and Galaxy S26",
+      "summary": "Gemini can now prep a rideshare or grocery order, though you’ll have to submit the order yourself. | Image: Google Google's Gemini AI is getting one step closer to being more like an actual assistant. Starting with some Pixel 10 phones and the Samsung Galaxy S26 series, Gemini will be able to hail an Uber or put together a DoorDash order on its own. It's called task automation, and it starts with a prompt to Gemini - something like \"Get me an Uber to the Palace of Fine Arts.\" Gemini then…",
+      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/02/1.-Gemini-with-task-Automation.png?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "source": "The Verge",
+      "sourceUrl": "https://www.theverge.com/tech/884210/google-gemini-samsung-s26-pixel-10-uber",
+      "publishedAt": "2026-02-25T18:00:00.000Z"
+    },
+    {
+      "id": "xz543o",
+      "title": "Gemini Can Now Book You an Uber or Order a DoorDash Meal on Your Phone. Here’s How It Works",
+      "summary": "Starting with the Samsung Galaxy S26, Google’s Gemini can automate tasks in popular mobile apps. We got a live demo of the new feature in action.",
+      "imageUrl": "https://media.wired.com/photos/699e2d79d54c22d6c9a6a418/master/pass/Google%20Gemini%20Automation%20on%20Galaxy%20S26%20SOURCE%20Julian%20Chokkattu(2).jpg",
+      "source": "Wired",
+      "sourceUrl": "https://www.wired.com/story/google-gemini-task-automation-galaxy-s26-uber-doordash/",
+      "publishedAt": "2026-02-25T18:00:00.000Z"
+    },
+    {
+      "id": "3wh5ce",
+      "title": "OpenAI COO says ads will be ‘an iterative process’",
+      "summary": "COO Brad Lightcap noted that ads can add to the product experience of users if they are done right. He urged to give OpenAI a few months to see how the company fares in rolling out the product.",
       "imageUrl": "https://images.unsplash.com/photo-1635070041078-e363dbe005cb?w=800&q=80",
       "source": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/02/24/india-ai-boom-pushes-firms-to-trade-near-term-revenue-for-users/",
-      "publishedAt": "2026-02-25T02:00:00.000Z"
+      "sourceUrl": "https://techcrunch.com/2026/02/25/openai-coo-says-ads-will-be-an-iterative-process/",
+      "publishedAt": "2026-02-25T17:37:37.000Z"
+    },
+    {
+      "id": "dvdng4",
+      "title": "OpenClaw creator’s advice to AI builders is to be more playful and allow yourself time to improve",
+      "summary": "Peter Steinberger talks about the creation of his viral AI agent OpenClaw and how being more \"playful\" makes for a better way to learn AI coding.",
+      "imageUrl": "https://images.unsplash.com/photo-1655720828018-edd2daec9349?w=800&q=80",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/02/25/openclaw-creators-advice-to-ai-builders-is-to-be-more-playful-and-allow-yourself-time-to-improve/",
+      "publishedAt": "2026-02-25T16:54:46.000Z"
+    },
+    {
+      "id": "m26m2q",
+      "title": "Have hard-won scaling lessons to share? Take the stage at TechCrunch Founder Summit 2026",
+      "summary": "Apply to speak at TechCrunch Founder Summit 2026 by April 17 for a chance to lead a roundtable or breakout session for 1,000 founders and investors. If you’ve built, backed, or operated inside high-growth startups, your experience could shape how the next wave of founders scales.",
+      "imageUrl": "https://images.unsplash.com/photo-1620712943543-bcc4688e7485?w=800&q=80",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/02/25/have-hard-won-scaling-lessons-to-share-take-the-stage-at-techcrunch-founder-summit/",
+      "publishedAt": "2026-02-25T16:00:00.000Z"
+    },
+    {
+      "id": "uximcb",
+      "title": "About 12% of US teens turn to AI for emotional support or advice",
+      "summary": "General-purpose tools like ChatGPT, Claude, and Grok are not designed for this use, making mental health professionals wary.",
+      "imageUrl": "https://images.unsplash.com/photo-1676299081847-824916de030a?w=800&q=80",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/02/25/about-12-of-u-s-teens-turn-to-ai-for-emotional-support-or-advice/",
+      "publishedAt": "2026-02-25T15:52:03.000Z"
+    },
+    {
+      "id": "do6mw6",
+      "title": "Amazon’s AGI lab leader is leaving",
+      "summary": "After less than two years at Amazon, David Luan, the head of Amazon's San Francisco AI lab, is departing the company. Luan announced the update in a post on LinkedIn on Tuesday, saying, \"I'll be leaving Amazon at the end of this week to cook up something new.\" He added that, \"There's incredible work to be done at Amazon and opportunities for me to take on more areas. But with AGI so close, I decided to spend 100% of my time on teaching AI systems brand new capabilities.\" The loss of a top AI…",
+      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/23935560/acastro_STK103__03.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "source": "The Verge",
+      "sourceUrl": "https://www.theverge.com/tech/884372/amazon-agi-lab-leader-david-luan-departure",
+      "publishedAt": "2026-02-25T15:24:39.000Z"
+    },
+    {
+      "id": "l03ldh",
+      "title": "3 days left: Save up to $680 on your TechCrunch Disrupt 2026 ticket",
+      "summary": "Just 3 days left to save up to $680 on your TechCrunch Disrupt 2026 ticket. Offer ends on Friday, February 27 at 11:59 p.m. PT. Don't miss unparalleled, curated networking and valuable insights from 250+ tech leaders, and discover 300+ breakout innovations. Register now.",
+      "imageUrl": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=800&q=80",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/02/25/3-days-left-save-up-to-680-on-your-techcrunch-disrupt-2026-ticket/",
+      "publishedAt": "2026-02-25T15:00:00.000Z"
+    },
+    {
+      "id": "5nm90c",
+      "title": "US tells diplomats to lobby against foreign data sovereignty laws",
+      "summary": "The Trump administration has ordered U.S. diplomats to lobby against countries' attempts to regulate how American tech companies handle foreigners' data.",
+      "imageUrl": "https://images.unsplash.com/photo-1655720828018-edd2daec9349?w=800&q=80",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/02/25/us-tells-diplomats-to-lobby-against-foreign-data-sovereignty-laws/",
+      "publishedAt": "2026-02-25T14:56:52.000Z"
+    },
+    {
+      "id": "whgmjb",
+      "title": "Does Anthropic think Claude is alive? Define ‘alive’",
+      "summary": "Over the past several weeks, as more and more Anthropic executives do interviews on a publicity blitz for Claude, one thing has gotten increasingly clear: Anthropic sure seems to think Claude is alive in some way, shape, or form. \"Alive\" is obviously a loaded term; the more frequently used word is \"conscious.\" If you ask Anthropic if the company thinks Claude is alive, the company will flatly deny it, but stop short of saying the models aren't conscious. Kyle Fish, who leads model welfare…",
+      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/11/STKS522_AGI_B.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "source": "The Verge",
+      "sourceUrl": "https://www.theverge.com/report/883769/anthropic-claude-conscious-alive-moral-patient-constitution",
+      "publishedAt": "2026-02-25T14:24:30.000Z"
+    },
+    {
+      "id": "1s0ml1",
+      "title": "You can now make Alexa’s AI personality more friendly, blunt, or chilled out",
+      "summary": "That Brief option sounds great for people like me who find cheerful chatbots to be creepy or unsettling. | Image: Amazon Amazon is giving you more control over how Alexa behaves during conversations and responses. Three \"personality style\" presets are launching today for Alexa Plus users in the US that allow you to make the AI-powered voice assistant more concise, cheerful, or relaxed, depending on your personal preferences. \"Alexa's personality is one of the things customers tell us they love…",
+      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/02/Alexa-Plus-personality-updates.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "source": "The Verge",
+      "sourceUrl": "https://www.theverge.com/tech/884269/amazon-alexa-plus-personality-styles-availability",
+      "publishedAt": "2026-02-25T14:00:00.000Z"
+    },
+    {
+      "id": "puj0fj",
+      "title": "Adobe’s new AI video editing tool stitches clips into a first draft",
+      "summary": "Quick Cut aims to help you spend less time staring at a blank editing timeline. | Image: Adobe Adobe is launching a new Firefly tool that helps video editors to focus on storytelling by creating a first cut to refine and build around. The Quick Cut feature is launching in beta today for Firefly's video editor, allowing users to automatically assemble clips together based on text prompts and simple creator inputs. \"Quick Cut empowers creators to upload their own b-roll or generate new footage and…",
+      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/02/Adobe-Quick-Cut-hero.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "source": "The Verge",
+      "sourceUrl": "https://www.theverge.com/tech/884285/adobe-firefly-ai-video-editing-quick-cut",
+      "publishedAt": "2026-02-25T14:00:00.000Z"
+    },
+    {
+      "id": "sxr99z",
+      "title": "The Download: introducing the Crime issue",
+      "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. Introducing: the Crime issue Technology has long made crime and its prosecution a game of cat and mouse. But those same new technologies that have allowed crime to outpace law have also reenergized…",
+      "imageUrl": "https://images.unsplash.com/photo-1655720828018-edd2daec9349?w=800&q=80",
+      "source": "MIT Tech Review",
+      "sourceUrl": "https://www.technologyreview.com/2026/02/25/1133653/the-download-introducing-the-crime-issue/",
+      "publishedAt": "2026-02-25T13:10:00.000Z"
+    },
+    {
+      "id": "ee7lg4",
+      "title": "Talk to Your Own Personal Isaac Newton With Ailias’s Hologram Avatars",
+      "summary": "If you've ever wanted to bounce ideas off your favorite historical figure, Ailias gives you the chance.",
+      "imageUrl": "https://media.wired.com/photos/69966b47cef96ab79e7301c1/master/pass/COMP%202%20WITH%20FRAME%20VERSION%201.jpg",
+      "source": "Wired",
+      "sourceUrl": "https://www.wired.com/story/ailias-hologram-avatars/",
+      "publishedAt": "2026-02-25T12:00:00.000Z"
+    },
+    {
+      "id": "hx99zo",
+      "title": "Listen to Earth’s rumbling, secret soundtrack",
+      "summary": "The boom of a calving glacier. The crackling rumble of a wildfire. The roar of a surging storm front. They’re the noises of the living Earth, music of this one particular sphere and clues to the true nature of these dramatic events. But as loud as all these things are, they emit even more acoustic…",
+      "imageUrl": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=800&q=80",
+      "source": "MIT Tech Review",
+      "sourceUrl": "https://www.technologyreview.com/2026/02/25/1132829/listen-earths-rumbling-secret-soundtrack/",
+      "publishedAt": "2026-02-25T11:00:00.000Z"
+    },
+    {
+      "id": "1pl31t",
+      "title": "3 things Juliet Beauchamp is into right now",
+      "summary": "The only reality show that matters The Real Housewives of Salt Lake City is one of the best shows on television right now. Not one of the best reality TV shows, but one of the best TV shows, period. Chronicling a shifting group of wealthy women in and around Salt Lake, the show has featured…",
+      "imageUrl": "https://images.unsplash.com/photo-1550751827-4bd374c3f58b?w=800&q=80",
+      "source": "MIT Tech Review",
+      "sourceUrl": "https://www.technologyreview.com/2026/02/25/1132836/3-things-juliet-beauchamp/",
+      "publishedAt": "2026-02-25T11:00:00.000Z"
+    },
+    {
+      "id": "dql1si",
+      "title": "Now is a good time for doing crime",
+      "summary": "Eons ago, in 2012, I had a weird experience. My iPhone suddenly shut down. When I restarted it, I found it was totally reset—clean, like a new device. This was the early days of iOS, so I wasn’t too concerned until I went to connect it to my computer to restore it from a backup.…",
+      "imageUrl": "https://images.unsplash.com/photo-1550751827-4bd374c3f58b?w=800&q=80",
+      "source": "MIT Tech Review",
+      "sourceUrl": "https://www.technologyreview.com/2026/02/25/1132840/editors-letter-march-2026/",
+      "publishedAt": "2026-02-25T11:00:00.000Z"
     },
     {
       "id": "a98q7h",
@@ -19,33 +289,6 @@
       "source": "The Verge",
       "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/884165/pentagon-anthropic-emil-michael-steve-feinberg",
       "publishedAt": "2026-02-25T01:59:00.000Z"
-    },
-    {
-      "id": "aknp0r",
-      "title": "Nvidia challenger AI chip startup MatX raised $500M",
-      "summary": "The startup was founded by former Google TPU engineers in 2023.",
-      "imageUrl": "https://images.unsplash.com/photo-1531746790095-6c10a4031c5f?w=800&q=80",
-      "source": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/02/24/nvidia-challenger-ai-chip-startup-matx-raised-500m/",
-      "publishedAt": "2026-02-25T00:45:47.000Z"
-    },
-    {
-      "id": "dkypaz",
-      "title": "Spanish ‘soonicorn’ Multiverse Computing releases free compressed AI model",
-      "summary": "Spanish startup Multiverse Computing has released a new version of its HyperNova 60B model on Hugging Face that, it says, bests Mistral's model.",
-      "imageUrl": "https://images.unsplash.com/photo-1485827404703-89b55fcc595e?w=800&q=80",
-      "source": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/02/24/spanish-soonicorn-multiverse-computing-releases-free-compressed-ai-model/",
-      "publishedAt": "2026-02-24T23:32:00.000Z"
-    },
-    {
-      "id": "n5o19d",
-      "title": "Uber engineers built an AI version of their boss",
-      "summary": "Uber CEO Dara Khosrowshahi said the company’s employees have gone all in on AI, going so far as to build a chatbot of him that they use to practice their pitches.",
-      "imageUrl": "https://images.unsplash.com/photo-1531746790095-6c10a4031c5f?w=800&q=80",
-      "source": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/02/24/uber-engineers-built-ai-version-of-boss-dara-khosrowshahi/",
-      "publishedAt": "2026-02-24T23:09:28.000Z"
     },
     {
       "id": "z6gx3y",
@@ -102,69 +345,6 @@
       "publishedAt": "2026-02-24T22:00:00.000Z"
     },
     {
-      "id": "1ka5nj",
-      "title": "Vine-inspired robot fingers can reach out and grab someone",
-      "summary": "In the horticultural world, some vines are especially grabby. As they grow, the woody tendrils can wrap around obstacles with enough force to pull down fences and trees. Inspired by vines’ twisty tenacity, engineers at MIT and Stanford University have developed a robotic gripper that can snake around and lift a variety of objects and…",
-      "imageUrl": "https://images.unsplash.com/photo-1485827404703-89b55fcc595e?w=800&q=80",
-      "source": "MIT Tech Review",
-      "sourceUrl": "https://www.technologyreview.com/2026/02/24/1132089/vine-inspired-robot-fingers-can-reach-out-and-grab-someone/",
-      "publishedAt": "2026-02-24T22:00:00.000Z"
-    },
-    {
-      "id": "571ec1",
-      "title": "Recent books from the MIT community",
-      "summary": "Launching from the Lab: Building a Deep-Tech StartupBy Lita Nelsen ’64, SM ’66, SM ’79, former director of the MIT Technology Licensing Office, and Maureen StancikBoyce, SM ’91, SM ’93, PhD ’95, with Sophie Hagerty MIT PRESS, 2026, $35 Empty Vessel: The Story of the Global Economy in One BargeBy Ian Kumekawa, lecturer in historyPENGUIN RANDOM…",
-      "imageUrl": "https://images.unsplash.com/photo-1531746790095-6c10a4031c5f?w=800&q=80",
-      "source": "MIT Tech Review",
-      "sourceUrl": "https://www.technologyreview.com/2026/02/24/1132091/recent-books-from-the-mit-community-27/",
-      "publishedAt": "2026-02-24T22:00:00.000Z"
-    },
-    {
-      "id": "koc0mn",
-      "title": "A boost for manufacturing",
-      "summary": "Several years ago, Suzanne Berger was visiting a manufacturing facility in Ohio, talking to workers on the shop floor, when a machinist offered a thought that could serve as her current credo. “Technology takes a step forward—workers take a step forward too,” the employee said. Berger, to explain, is an MIT political scientist who for…",
-      "imageUrl": "https://images.unsplash.com/photo-1550751827-4bd374c3f58b?w=800&q=80",
-      "source": "MIT Tech Review",
-      "sourceUrl": "https://www.technologyreview.com/2026/02/24/1132163/a-boost-for-manufacturing/",
-      "publishedAt": "2026-02-24T22:00:00.000Z"
-    },
-    {
-      "id": "b754rw",
-      "title": "Using big data for good",
-      "summary": "A photogenic green-eyed Russian Blue named Petra might just be the world’s most sequenced cat. Petra was rescued from an animal shelter in Reno, Nevada, by Charlie Lieu, MBA ’05, SM ’05, a data whiz, serial entrepreneur, investor, and cofounder of Darwin’s Ark, a community science nonprofit focused on pet genetics. Since becoming Lieu’s furry…",
-      "imageUrl": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=800&q=80",
-      "source": "MIT Tech Review",
-      "sourceUrl": "https://www.technologyreview.com/2026/02/24/1132172/using-big-data-for-good/",
-      "publishedAt": "2026-02-24T22:00:00.000Z"
-    },
-    {
-      "id": "s6hmfr",
-      "title": "Innovation on the move",
-      "summary": "The Massachusetts Bay Trans­portation Authority moves hundreds of thousands of people across Greater Boston each day—thanks to a vast system of buses, trains, and ferries that depends on coordination among thousands of employees. In this storied transit system, history runs deep: The Green Line still passes through the country’s oldest subway tunnels, built beneath the…",
-      "imageUrl": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=800&q=80",
-      "source": "MIT Tech Review",
-      "sourceUrl": "https://www.technologyreview.com/2026/02/24/1132181/innovation-on-the-move/",
-      "publishedAt": "2026-02-24T22:00:00.000Z"
-    },
-    {
-      "id": "p9njoa",
-      "title": "Anthropic won’t budge as Pentagon escalates AI dispute",
-      "summary": "The Pentagon has given Anthropic until Friday to loosen AI guardrails or face potential penalties, escalating a high-stakes dispute that raises questions about government leverage, vendor dependence, and investor confidence in defense tech.",
-      "imageUrl": "https://images.unsplash.com/photo-1655720828018-edd2daec9349?w=800&q=80",
-      "source": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/02/24/anthropic-wont-budge-as-pentagon-escalates-ai-dispute/",
-      "publishedAt": "2026-02-24T21:18:45.000Z"
-    },
-    {
-      "id": "x8hu2h",
-      "title": "Google adds a way to create automated workflows to Opal",
-      "summary": "The company said that a new agent being introduced in Opal will allow users to create mini-apps that can let them plan and execute tasks using text prompts.",
-      "imageUrl": "https://images.unsplash.com/photo-1620712943543-bcc4688e7485?w=800&q=80",
-      "source": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/02/24/google-adds-a-way-to-create-automated-workflows-to-opal/",
-      "publishedAt": "2026-02-24T19:00:00.000Z"
-    },
-    {
       "id": "yctwcd",
       "title": "Seedance 2.0 might be gen AI video’s next big hope, but it’s still slop",
       "summary": "When Irish filmmaker Ruairi Robinson began uploading a series of short clips created with Seedance 2.0 - TikTok developer ByteDance's newest video generation model - it was hard to deny that the footage was much more impressive than what we've seen from other gen AI outfits. The clips' star (a digital duplicate of Tom Cruise) looked a lot like the real thing as it fought Brad Pitt, humanoid robots, and zombies. And the characters moved with a complex fluidity almost passing for choreography and…",
@@ -172,114 +352,6 @@
       "source": "The Verge",
       "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/883615/seedance-bytedance-tom-cruise-brad-pitt-jia-zhangke",
       "publishedAt": "2026-02-24T18:30:00.000Z"
-    },
-    {
-      "id": "sgox5q",
-      "title": "OpenAI COO says ‘we have not yet really seen AI penetrate enterprise business processes’",
-      "summary": "There is a lot of talk around AI agents taking over business processes and claiming that \"SaaS is dead.\" While these predictions have moved SaaS stocks at times, they haven't really come true.",
-      "imageUrl": "https://images.unsplash.com/photo-1531746790095-6c10a4031c5f?w=800&q=80",
-      "source": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/02/24/openai-coo-says-we-have-not-yet-really-seen-ai-penetrate-enterprise-business-processes/",
-      "publishedAt": "2026-02-24T17:44:34.000Z"
-    },
-    {
-      "id": "i2dzch",
-      "title": "Music generator ProducerAI joins Google Labs",
-      "summary": "Wyclef Jean used Google's AI music tools on his new song \"Back in Abu Dhabi.\"",
-      "imageUrl": "https://images.unsplash.com/photo-1676299081847-824916de030a?w=800&q=80",
-      "source": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/02/24/music-generator-producerai-joins-google-labs/",
-      "publishedAt": "2026-02-24T16:57:21.000Z"
-    },
-    {
-      "id": "9gkvwv",
-      "title": "Anthropic’s Claude Cowork is plugging AI into more boring enterprise stuff",
-      "summary": "On Tuesday, Anthropic announced updates to its Claude Cowork platform that allow the AI to help with a wider range of office tasks. Claude Cowork can now connect with several popular office apps, including Google Workspace, Docusign, and WordPress. New pre-built plug-ins can also automate tasks in a range of fields, including HR, design, engineering, and finance. Additionally, according to Anthropic, \"Claude can now also handle multi-step tasks end-to-end across Excel and PowerPoint,\" passing…",
-      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/01/STK269_ANTHROPIC_2_D.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "source": "The Verge",
-      "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/883707/anthropic-claude-cowork-updates",
-      "publishedAt": "2026-02-24T16:43:56.000Z"
-    },
-    {
-      "id": "hgkab5",
-      "title": "Meta strikes up to $100B AMD chip deal as it chases ‘personal superintelligence’",
-      "summary": "Meta is buying billions of dollars in AMD AI chips in a multiyear deal tied to a 160 million-share warrant, deepening its push to diversify beyond Nvidia and expand data center capacity.",
-      "imageUrl": "https://images.unsplash.com/photo-1676299081847-824916de030a?w=800&q=80",
-      "source": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/02/24/meta-strikes-up-to-100b-amd-chip-deal-as-it-chases-personal-superintelligence/",
-      "publishedAt": "2026-02-24T15:15:16.000Z"
-    },
-    {
-      "id": "ju6dh8",
-      "title": "Oura launches a proprietary AI model focused on women’s health",
-      "summary": "The model supports questions spanning the full reproductive health spectrum, from early menstrual cycles through menopause.",
-      "imageUrl": "https://images.unsplash.com/photo-1485827404703-89b55fcc595e?w=800&q=80",
-      "source": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/02/24/oura-launches-a-proprietary-ai-model-focused-on-womens-health/",
-      "publishedAt": "2026-02-24T15:08:01.000Z"
-    },
-    {
-      "id": "9dwj5t",
-      "title": "Final 4 days to save up to $680 on your TechCrunch Disrupt 2026 pass",
-      "summary": "Just 4 days left before savings of up to $680 on your TechCrunch Disrupt 2026 pass end on February 27 at 11:59 p.m. PT. Register to save at one of the most anticipated tech events of the year.",
-      "imageUrl": "https://images.unsplash.com/photo-1635070041078-e363dbe005cb?w=800&q=80",
-      "source": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/02/24/final-4-days-to-save-up-to-680-on-your-techcrunch-disrupt-2026-pass/",
-      "publishedAt": "2026-02-24T15:00:00.000Z"
-    },
-    {
-      "id": "9t6pia",
-      "title": "Anthropic launches new push for enterprise agents with plug-ins for finance, engineering, and design",
-      "summary": "It's a major opportunity to grow Anthropic’s enterprise client base — and a significant threat to SaaS products currently performing those functions.",
-      "imageUrl": "https://images.unsplash.com/photo-1550751827-4bd374c3f58b?w=800&q=80",
-      "source": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/02/24/anthropic-launches-new-push-for-enterprise-agents-with-plugins-for-finance-engineering-and-design/",
-      "publishedAt": "2026-02-24T14:45:55.000Z"
-    },
-    {
-      "id": "t8atfc",
-      "title": "How Claude Code Claude Codes",
-      "summary": "Claude Code is a developer tool for developers. And yet, over the last year and especially the last few months, the team at Anthropic has seen a huge number of people, across industries and disciplines, figure out how to access their terminal so that they could build new stuff too. Few AI products have found true product-market fit the way Claude Code has. But how did that happen? And are we ever going to get out of the terminal? Verge subscribers, don't forget you get exclusive access to…",
-      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/02/VRG_VST_0224_Site.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "source": "The Verge",
-      "sourceUrl": "https://www.theverge.com/podcast/883604/claude-code-ai-future-creator-privacy-vergecast",
-      "publishedAt": "2026-02-24T14:20:35.000Z"
-    },
-    {
-      "id": "j4ig9b",
-      "title": "New Relic launches new AI agent platform and OpenTelemetry tools",
-      "summary": "New Relic is giving enterprises more observability tools, letting them create and manage AI agents, and better integrate OTel data streams.",
-      "imageUrl": "https://images.unsplash.com/photo-1550751827-4bd374c3f58b?w=800&q=80",
-      "source": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/02/24/new-relic-launches-new-ai-agent-platform-and-opentelemetry-tools/",
-      "publishedAt": "2026-02-24T14:00:00.000Z"
-    },
-    {
-      "id": "8fa7op",
-      "title": "This Chainsmokers-approved AI music producer is joining Google",
-      "summary": "ProducerAI, an AI-powered music-making platform, is joining Google. As part of the deal, Google will fold ProducerAI under the Labs umbrella and power the tool with a preview version of its new Lyria 3 music-making AI model. ProducerAI is a music-making platform that allows users to work with an AI agent to generate sounds, workshop lyrics, remix songs, and even create new instruments based on a prompt. The platform launched in July 2025 as a successor to the AI music-making tool Riffusion, and…",
-      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/01/STK467_AI_MUSIC_CVirginia_C.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "source": "The Verge",
-      "sourceUrl": "https://www.theverge.com/tech/883307/google-producerai-deal-music",
-      "publishedAt": "2026-02-24T14:00:00.000Z"
-    },
-    {
-      "id": "tpsh9a",
-      "title": "Nimble raises $47M to give AI agents access to real-time web data",
-      "summary": "Nimble uses AI agents to search the web, verify and validate the results, and then clean and structure the information into neat tables that can then be queried like a database.",
-      "imageUrl": "https://images.unsplash.com/photo-1550751827-4bd374c3f58b?w=800&q=80",
-      "source": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/02/24/nimble-way-raises-47m-to-give-ai-agents-better-cleaner-data/",
-      "publishedAt": "2026-02-24T13:00:00.000Z"
-    },
-    {
-      "id": "2tkok2",
-      "title": "Inside Anthropic’s existential negotiations with the Pentagon",
-      "summary": "Anthropic's weekslong battle with the Department of Defense has played out over social media posts, admonishing public statements, and direct quotes from unnamed Pentagon officials to the news media. But the future of the $380 billion AI startup comes down to just three words: \"any lawful use.\" The new terms, which OpenAI and xAI have reportedly already agreed to, would give the US military carte blanche to use services for mass surveillance and lethal autonomous weapons, AI that has full power…",
-      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/02/268367_dod_and_anthropics_public_fight_over_lethal_autonomous_weapons_a_mass_surveillance_CVirginia.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "source": "The Verge",
-      "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/883456/anthropic-pentagon-department-of-defense-negotiations",
-      "publishedAt": "2026-02-24T11:00:00.000Z"
     },
     {
       "id": "ac534n",
@@ -291,24 +363,6 @@
       "publishedAt": "2026-02-24T11:00:00.000Z"
     },
     {
-      "id": "hklfm",
-      "title": "Canva acquires startups working on animation and marketing",
-      "summary": "With the new acquisitions, the company wants to bolster its position as a marketing solution by potentially adding video creation and more granular measurement.",
-      "imageUrl": "https://images.unsplash.com/photo-1531746790095-6c10a4031c5f?w=800&q=80",
-      "source": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/02/23/canva-acquires-startups-working-on-animation-and-marketing/",
-      "publishedAt": "2026-02-24T07:39:27.000Z"
-    },
-    {
-      "id": "uiiidv",
-      "title": "Anthropic accuses DeepSeek and other Chinese firms of using Claude to train their AI",
-      "summary": "Anthropic claims DeepSeek and two other Chinese AI companies misused its Claude AI model in an attempt to improve their own products. In an announcement on Monday, Anthropic says the \"industrial-scale campaigns\" involved the creation of around 24,000 fraudulent accounts and more than 16 million exchanges with Claude, as reported earlier by The Wall Street Journal. The three companies - DeepSeek, MiniMax, and Moonshot - are accused of \"distilling\" Claude, or training a smaller AI model based on a…",
-      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/01/STK269_ANTHROPIC_2_C.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "source": "The Verge",
-      "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/883243/anthropic-claude-deepseek-china-ai-distillation",
-      "publishedAt": "2026-02-23T20:22:55.000Z"
-    },
-    {
       "id": "wd40wo",
       "title": "‘Uncanny Valley’: AI Researcher Resignations, Bots Hiring Humans, and Evie Magazine’s Party",
       "summary": "This episode of Uncanny Valley covers the people resigning from AI companies and the humans getting hired by AI agents. Plus, we attend a soiree thrown by a conservative women's magazine.",
@@ -316,24 +370,6 @@
       "source": "Wired",
       "sourceUrl": "https://www.wired.com/story/uncanny-valley-podcast-ai-researcher-resignations-bots-hiring-humans-evie-magazines-party/",
       "publishedAt": "2026-02-23T19:28:13.000Z"
-    },
-    {
-      "id": "z8q9oq",
-      "title": "Does Big Tech actually care about fighting AI slop?",
-      "summary": "Progress towards reliable deepfake labelling tech is sluggish, despite all the “help” from AI providers. | Image: Cath Virginia / The Verge, Getty Images As 2025 drew to a close, Instagram head Adam Mosseri ended the year by doom-posting about AI. \"Authenticity is becoming infinitely reproducible,\" Mosseri lamented. \"Everything that made creators matter - the ability to be real, to connect, to have a voice that couldn't be faked - is now accessible to anyone with the right tools.\" But people,…",
-      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/05/STKS511_AI_SLOP_A.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "source": "The Verge",
-      "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/882956/ai-deepfake-detection-labels-c2pa-instagram-youtube",
-      "publishedAt": "2026-02-23T16:00:00.000Z"
-    },
-    {
-      "id": "guc710",
-      "title": "How many AIs does it take to read a PDF?",
-      "summary": "Image: Kristen Radtke / The Verge Last November, the House Oversight Committee had just released 20,000 pages of documents from the estate of Jeffrey Epstein, and Luke Igel and some friends were clicking around, trying to follow the threads of conversation through garbled email threads and a PDF viewer that was, frankly, \"gross.\" In the coming months, the Department of Justice would release its own batches of files, more than three million of them - again, all PDFs. This was a problem. While the…",
-      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/02/PDFs-AI-still.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "source": "The Verge",
-      "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/882891/ai-pdf-parsing-failure",
-      "publishedAt": "2026-02-23T11:00:00.000Z"
     },
     {
       "id": "z5hxfl",
@@ -370,42 +406,6 @@
       "source": "Wired",
       "sourceUrl": "https://www.wired.com/story/the-search-engine-for-onlyfans-models-who-look-like-your-crush/",
       "publishedAt": "2026-02-20T11:00:00.000Z"
-    },
-    {
-      "id": "tjprcd",
-      "title": "Code Metal Raises $125 Million to Rewrite the Defense Industry’s Code With AI",
-      "summary": "The Boston startup uses AI to translate and verify legacy software for defense contractors, arguing modernization can’t come at the cost of new bugs.",
-      "imageUrl": "https://media.wired.com/photos/6996574c8ea1d07fab1e3328/master/pass/Buzzy-Startup-Business-Code-Metal-10-30-25-30.jpg",
-      "source": "Wired",
-      "sourceUrl": "https://www.wired.com/story/vibe-coding-startup-code-metal-raises-series-b-fundraising/",
-      "publishedAt": "2026-02-19T19:30:00.000Z"
-    },
-    {
-      "id": "p2q2tw",
-      "title": "Perplexity’s Retreat From Ads Signals a Bigger Strategic Shift",
-      "summary": "The AI search startup once predicted advertising would be a massive business. Now it's betting on a smaller, more valuable audience.",
-      "imageUrl": "https://media.wired.com/photos/69965f376756d23c38f59511/master/pass/Model-Behavior-Perplexity-Puts-Its-Google-Killer-Era-Behind-It-Business-2243356910.jpg",
-      "source": "Wired",
-      "sourceUrl": "https://www.wired.com/story/perplexity-ads-shift-search-google/",
-      "publishedAt": "2026-02-19T19:12:38.000Z"
-    },
-    {
-      "id": "v2dcob",
-      "title": "This AI Tool Will Tell You to Stop Slacking Off",
-      "summary": "Fomi watches you work, then scolds you when your attention wanders. It’s helpful, but there are privacy issues to consider.",
-      "imageUrl": "https://media.wired.com/photos/698e3b44562628202887fe7c/master/pass/gear-ai-motivator-654455754.jpg",
-      "source": "Wired",
-      "sourceUrl": "https://www.wired.com/story/fomi-ai-will-tell-you-to-stop-slacking-off/",
-      "publishedAt": "2026-02-19T10:30:00.000Z"
-    },
-    {
-      "id": "44jt3o",
-      "title": "This Defense Company Made AI Agents That Blow Things Up",
-      "summary": "Scout AI is using technology borrowed from the AI industry to power lethal weapons—and recently demonstrated its explosive potential.",
-      "imageUrl": "https://media.wired.com/photos/6994c7c32ce5fe7768592c57/master/pass/AI-Lab-Scout-AI-Using-AI-Agents-To-Blow-Things-Up-Business.jpg",
-      "source": "Wired",
-      "sourceUrl": "https://www.wired.com/story/ai-lab-scout-ai-is-using-ai-agents-to-blow-things-up/",
-      "publishedAt": "2026-02-18T19:47:15.000Z"
     },
     {
       "id": "hax5kw",
