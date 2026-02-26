@@ -1,7 +1,34 @@
 {
-  "fetchedAt": "2026-02-26T19:03:19.221Z",
+  "fetchedAt": "2026-02-26T20:03:36.329Z",
   "count": 60,
   "articles": [
+    {
+      "id": "4yndrt",
+      "title": "Sophia Space raises $10M seed to demo novel space computers",
+      "summary": "The company's modular computer tiles offer a new vision for space data centers.",
+      "imageUrl": "https://images.unsplash.com/photo-1635070041078-e363dbe005cb?w=800&q=80",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/02/26/sophia-space-raises-10m-seed-to-demo-novel-space-computers/",
+      "publishedAt": "2026-02-26T19:55:20.000Z"
+    },
+    {
+      "id": "6z34wn",
+      "title": "Mistral AI inks a deal with global consulting giant Accenture",
+      "summary": "Mistral AI lands a partnership with Accenture, the consultant that has also recently announced partnerships with rivals OpenAI and Anthropic.",
+      "imageUrl": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=800&q=80",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/02/26/mistral-ai-inks-a-deal-with-global-consulting-giant-accenture/",
+      "publishedAt": "2026-02-26T19:17:27.000Z"
+    },
+    {
+      "id": "i0oq6e",
+      "title": "Are You ‘Agentic’ Enough for the AI Era?",
+      "summary": "Silicon Valley built AI coding agents that can handle most of the grunt work. Now, the most valuable skill in tech is deciding what they should do.",
+      "imageUrl": "https://media.wired.com/photos/699e27a9d54c22d6c9a6a40c/master/pass/Model-Behavior-Are-You-Agentic-Enough-For-AI-Era-Business.jpg",
+      "source": "Wired",
+      "sourceUrl": "https://www.wired.com/story/silicon-valley-agentic-individuals-future-of-work/",
+      "publishedAt": "2026-02-26T19:00:00.000Z"
+    },
     {
       "id": "b9agoa",
       "title": "Read AI launches an email-based ‘digital twin’ to help you with schedules and answers",
@@ -255,24 +282,6 @@
       "publishedAt": "2026-02-25T19:56:55.000Z"
     },
     {
-      "id": "khohu4",
-      "title": "Wearable startup CUDIS launches a new health ring line with an AI-fueled ‘coach’",
-      "summary": "The wearable incentivizes healthy behavior with points that can be redeemed for health products.",
-      "imageUrl": "https://images.unsplash.com/photo-1676299081847-824916de030a?w=800&q=80",
-      "source": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/02/25/wearable-startup-cudis-launches-a-new-health-ring-line-with-an-ai-fueled-coach/",
-      "publishedAt": "2026-02-25T19:10:04.000Z"
-    },
-    {
-      "id": "fzx6er",
-      "title": "The public opposition to AI infrastructure is heating up",
-      "summary": "Public backlash over the data center boom is leading to a variety of draconian policies — including bans on new construction.",
-      "imageUrl": "https://images.unsplash.com/photo-1655720828018-edd2daec9349?w=800&q=80",
-      "source": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/02/25/the-public-opposition-to-ai-infrastructure-is-heating-up/",
-      "publishedAt": "2026-02-25T19:03:34.000Z"
-    },
-    {
       "id": "xndv4d",
       "title": "OpenClaw Users Are Allegedly Bypassing Anti-Bot Systems",
       "summary": "An open source project called Scrapling is gaining traction with AI agent users who want their bots to scrape sites without permission.",
@@ -406,15 +415,6 @@
       "source": "Wired",
       "sourceUrl": "https://www.wired.com/story/how-to-hide-google-ai-overviews-from-your-search-results/",
       "publishedAt": "2026-02-22T11:00:00.000Z"
-    },
-    {
-      "id": "dzvh46",
-      "title": "AI Safety Meets the War Machine",
-      "summary": "Anthropic doesn’t want its AI used in autonomous weapons or government surveillance. Those carve-outs could cost it a major military contract.",
-      "imageUrl": "https://media.wired.com/photos/6994edaec3ca16022bd2b3d5/master/pass/Backchannel-Anthropic-vs-Pentagon-Business--2221448096.jpg",
-      "source": "Wired",
-      "sourceUrl": "https://www.wired.com/story/backchannel-anthropic-dispute-with-the-pentagon/",
-      "publishedAt": "2026-02-20T17:00:00.000Z"
     },
     {
       "id": "hax5kw",
