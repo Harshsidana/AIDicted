@@ -1,7 +1,52 @@
 {
-  "fetchedAt": "2026-02-26T14:55:25.958Z",
+  "fetchedAt": "2026-02-26T16:01:17.972Z",
   "count": 60,
   "articles": [
+    {
+      "id": "y74a5h",
+      "title": "Google launches Nano Banana 2 model with faster image generation",
+      "summary": "Google is making Nano Banana 2 a default model in Gemini app and in AI mode",
+      "imageUrl": "https://images.unsplash.com/photo-1635070041078-e363dbe005cb?w=800&q=80",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/02/26/google-launches-nano-banana-2-model-with-faster-image-generation/",
+      "publishedAt": "2026-02-26T16:00:00.000Z"
+    },
+    {
+      "id": "9rq3bh",
+      "title": "Google’s Nano Banana 2 brings advanced AI image tools to free users",
+      "summary": "The image generational capabilities of Nano Banana 2 seem comparable to the Pro model. | Image: Google / The Verge Google is bringing a more powerful version of its Nano Banana AI image model to free users. Nano Banana 2 (also known as Gemini 3.1 Flash Image) is rolling out today across the Gemini app and other Google AI platforms, making knowledge and rendering features that were previously exclusive to Nano Banana Pro available for everyone. Google says the update aims to bring \"high-speed…",
+      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/02/Google-nano-banana-2-image-comparison.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "source": "The Verge",
+      "sourceUrl": "https://www.theverge.com/tech/885275/google-nano-banana-2-ai-image-model-gemini-launch",
+      "publishedAt": "2026-02-26T16:00:00.000Z"
+    },
+    {
+      "id": "es72tt",
+      "title": "OpenAI Announces Major Expansion of London Office",
+      "summary": "The San Francisco-based AI lab is growing its research team in London. The move puts it in direct competition with Google DeepMind for top research talent in the UK.",
+      "imageUrl": "https://media.wired.com/photos/69a057d7b6ac674187e8a148/master/pass/GettyImages-2153471578.jpg",
+      "source": "Wired",
+      "sourceUrl": "https://www.wired.com/story/openai-expands-london-office-major-research-hub/",
+      "publishedAt": "2026-02-26T15:56:01.000Z"
+    },
+    {
+      "id": "f4ps3d",
+      "title": "Finding value with AI and Industry 5.0 transformation",
+      "summary": "For years, Industry 4.0 transformation has centered on the convergence of intelligent technologies like AI, cloud, the internet of things, robotics, and digital twins. Industry 5.0 marks a pivotal shift from integrating emerging technologies to orchestrating them at scale. With Industry 5.0, the purpose of this interconnected web of technologies is more nuanced: to augment…",
+      "imageUrl": "https://images.unsplash.com/photo-1531746790095-6c10a4031c5f?w=800&q=80",
+      "source": "MIT Tech Review",
+      "sourceUrl": "https://www.technologyreview.com/2026/02/26/1133707/finding-value-with-ai-and-industry-5-0-transformation/",
+      "publishedAt": "2026-02-26T15:00:59.000Z"
+    },
+    {
+      "id": "ignq73",
+      "title": "2 days left: Lock in the best discounts for TechCrunch Disrupt 2026",
+      "summary": "Register now to secure discounts of up to $680 on your TechCrunch Disrupt 2026 pass. Offer ends tomorrow, February 27, at 11:59 p.m. PT.",
+      "imageUrl": "https://images.unsplash.com/photo-1526374965328-7f61d4dc18c5?w=800&q=80",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/02/26/2-days-left-lock-in-the-best-discounts-for-techcrunch-disrupt-2026/",
+      "publishedAt": "2026-02-26T15:00:00.000Z"
+    },
     {
       "id": "prko0a",
       "title": "Anthropic gives its retired Claude AI a Substack",
@@ -246,24 +291,6 @@
       "publishedAt": "2026-02-25T17:37:37.000Z"
     },
     {
-      "id": "dvdng4",
-      "title": "OpenClaw creator’s advice to AI builders is to be more playful and allow yourself time to improve",
-      "summary": "Peter Steinberger talks about the creation of his viral AI agent OpenClaw and how being more \"playful\" makes for a better way to learn AI coding.",
-      "imageUrl": "https://images.unsplash.com/photo-1655720828018-edd2daec9349?w=800&q=80",
-      "source": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/02/25/openclaw-creators-advice-to-ai-builders-is-to-be-more-playful-and-allow-yourself-time-to-improve/",
-      "publishedAt": "2026-02-25T16:54:46.000Z"
-    },
-    {
-      "id": "m26m2q",
-      "title": "Have hard-won scaling lessons to share? Take the stage at TechCrunch Founder Summit 2026",
-      "summary": "Apply to speak at TechCrunch Founder Summit 2026 by April 17 for a chance to lead a roundtable or breakout session for 1,000 founders and investors. If you’ve built, backed, or operated inside high-growth startups, your experience could shape how the next wave of founders scales.",
-      "imageUrl": "https://images.unsplash.com/photo-1620712943543-bcc4688e7485?w=800&q=80",
-      "source": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/02/25/have-hard-won-scaling-lessons-to-share-take-the-stage-at-techcrunch-founder-summit/",
-      "publishedAt": "2026-02-25T16:00:00.000Z"
-    },
-    {
       "id": "do6mw6",
       "title": "Amazon’s AGI lab leader is leaving",
       "summary": "After less than two years at Amazon, David Luan, the head of Amazon's San Francisco AI lab, is departing the company. Luan announced the update in a post on LinkedIn on Tuesday, saying, \"I'll be leaving Amazon at the end of this week to cook up something new.\" He added that, \"There's incredible work to be done at Amazon and opportunities for me to take on more areas. But with AGI so close, I decided to spend 100% of my time on teaching AI systems brand new capabilities.\" The loss of a top AI…",
@@ -288,15 +315,6 @@
       "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/02/Alexa-Plus-personality-updates.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
       "source": "The Verge",
       "sourceUrl": "https://www.theverge.com/tech/884269/amazon-alexa-plus-personality-styles-availability",
-      "publishedAt": "2026-02-25T14:00:00.000Z"
-    },
-    {
-      "id": "puj0fj",
-      "title": "Adobe’s new AI video editing tool stitches clips into a first draft",
-      "summary": "Quick Cut aims to help you spend less time staring at a blank editing timeline. | Image: Adobe Adobe is launching a new Firefly tool that helps video editors to focus on storytelling by creating a first cut to refine and build around. The Quick Cut feature is launching in beta today for Firefly's video editor, allowing users to automatically assemble clips together based on text prompts and simple creator inputs. \"Quick Cut empowers creators to upload their own b-roll or generate new footage and…",
-      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/02/Adobe-Quick-Cut-hero.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "source": "The Verge",
-      "sourceUrl": "https://www.theverge.com/tech/884285/adobe-firefly-ai-video-editing-quick-cut",
       "publishedAt": "2026-02-25T14:00:00.000Z"
     },
     {
@@ -354,15 +372,6 @@
       "publishedAt": "2026-02-24T22:00:00.000Z"
     },
     {
-      "id": "fwme",
-      "title": "A retinal reboot for amblyopia",
-      "summary": "In the vision disorder amblyopia (or “lazy eye”), impaired vision in one eye early in life causes neural connections in the brain’s visual system to shift toward supporting the other eye, leaving the amblyopic eye less capable even if the original impairment is corrected. Current interventions don’t work after infancy and early childhood, when the…",
-      "imageUrl": "https://images.unsplash.com/photo-1676299081847-824916de030a?w=800&q=80",
-      "source": "MIT Tech Review",
-      "sourceUrl": "https://www.technologyreview.com/2026/02/24/1132077/a-retinal-reboot-for-amblyopia/",
-      "publishedAt": "2026-02-24T22:00:00.000Z"
-    },
-    {
       "id": "ac534n",
       "title": "AI Will Never Be Conscious",
       "summary": "In his new book, A World Appears, Michael Pollan argues that artificial intelligence can do many things—it just can’t be a person.",
@@ -397,15 +406,6 @@
       "source": "Wired",
       "sourceUrl": "https://www.wired.com/story/backchannel-anthropic-dispute-with-the-pentagon/",
       "publishedAt": "2026-02-20T17:00:00.000Z"
-    },
-    {
-      "id": "yo4fxk",
-      "title": "Could AI Data Centers Be Moved to Outer Space?",
-      "summary": "Massive data centers for generative AI are bad for the Earth. How about launching them into orbit?",
-      "imageUrl": "https://media.wired.com/photos/69977b3aacabb32f3cbd37c7/master/pass/sci-space-data-1648725322.jpg",
-      "source": "Wired",
-      "sourceUrl": "https://www.wired.com/story/could-we-put-ai-data-centers-in-space/",
-      "publishedAt": "2026-02-20T12:00:00.000Z"
     },
     {
       "id": "hax5kw",
