@@ -1,11 +1,29 @@
 {
-  "fetchedAt": "2026-02-26T16:01:17.972Z",
+  "fetchedAt": "2026-02-26T17:37:38.374Z",
   "count": 60,
   "articles": [
     {
+      "id": "f959n1",
+      "title": "Read AI launches a email based ‘digital twin’ to help you with schedules and answers",
+      "summary": "Read AI is launching Ada, which can reply with your availability and extract answers from the company knowledge base and the web.",
+      "imageUrl": "https://images.unsplash.com/photo-1531746790095-6c10a4031c5f?w=800&q=80",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/02/26/read-ai-launches-a-email-based-digital-twin-to-help-you-with-schedules-and-answers/",
+      "publishedAt": "2026-02-26T17:00:00.000Z"
+    },
+    {
+      "id": "k7sn0u",
+      "title": "Bumble adds AI-powered photo feedback and profile guidance tools",
+      "summary": "Bumble and other popular dating apps, like Match Group's Tinder and Hinge, have all embraced AI-powered features.",
+      "imageUrl": "https://images.unsplash.com/photo-1635070041078-e363dbe005cb?w=800&q=80",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/02/26/bumble-adds-ai-powered-photo-feedback-and-profile-guidance-tools/",
+      "publishedAt": "2026-02-26T16:38:59.000Z"
+    },
+    {
       "id": "y74a5h",
       "title": "Google launches Nano Banana 2 model with faster image generation",
-      "summary": "Google is making Nano Banana 2 a default model in Gemini app and in AI mode",
+      "summary": "Google is making Nano Banana 2 a default model in Gemini app and in AI mode.",
       "imageUrl": "https://images.unsplash.com/photo-1635070041078-e363dbe005cb?w=800&q=80",
       "source": "TechCrunch",
       "sourceUrl": "https://techcrunch.com/2026/02/26/google-launches-nano-banana-2-model-with-faster-image-generation/",
@@ -28,6 +46,15 @@
       "source": "Wired",
       "sourceUrl": "https://www.wired.com/story/openai-expands-london-office-major-research-hub/",
       "publishedAt": "2026-02-26T15:56:01.000Z"
+    },
+    {
+      "id": "602c7e",
+      "title": "New AirSnitch attack breaks Wi-Fi encryption in homes, offices, and enterprises",
+      "summary": "That guest network you set up for your neighbors may not be as secure as you think.",
+      "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2025/06/wi-fi-1152x648-1751309982.jpg",
+      "source": "Ars Technica",
+      "sourceUrl": "https://arstechnica.com/security/2026/02/new-airsnitch-attack-breaks-wi-fi-encryption-in-homes-offices-and-enterprises/",
+      "publishedAt": "2026-02-26T15:45:18.000Z"
     },
     {
       "id": "f4ps3d",
@@ -66,21 +93,21 @@
       "publishedAt": "2026-02-26T14:00:00.000Z"
     },
     {
-      "id": "q4quai",
-      "title": "Exhibit in Boston’s startup ecosystem at TechCrunch Founder Summit 2026",
-      "summary": "On June 9, 1,000+ founders, investors, and decision-makers will gather for TechCrunch Founder Summit 2026. This isn’t just foot traffic. It’s a full day of concentrated deal flow. An exhibit table turns that energy into measurable growth. You don’t need more awareness. You need customers, capital, and strategic partners. Secure your exhibit table and put your startup at the center of the startup universe. Why exhibiting drives real growth Direct access to buyers: […]",
-      "imageUrl": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=800&q=80",
-      "source": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/02/26/exhibit-in-bostons-startup-ecosystem-at-techcrunch-founder-summit-2026/",
-      "publishedAt": "2026-02-26T14:00:00.000Z"
-    },
-    {
       "id": "4ffc47",
       "title": "Figma partners with OpenAI to bake in support for Codex",
       "summary": "Figma is integrating OpenAI's coding assistant Codex a week after it announced a similar integration with Anthropic's Claude Code.",
       "imageUrl": "https://images.unsplash.com/photo-1531746790095-6c10a4031c5f?w=800&q=80",
       "source": "TechCrunch",
       "sourceUrl": "https://techcrunch.com/2026/02/26/figma-partners-with-openai-to-bake-in-support-for-codex/",
+      "publishedAt": "2026-02-26T14:00:00.000Z"
+    },
+    {
+      "id": "q4quai",
+      "title": "Exhibit in Boston’s startup ecosystem at TechCrunch Founder Summit 2026",
+      "summary": "On June 9, over 1,000 founders, investors, and decision-makers will gather for TechCrunch Founder Summit 2026. This isn’t just foot traffic. It’s a full day of concentrated deal flow.",
+      "imageUrl": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=800&q=80",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/02/26/exhibit-in-bostons-startup-ecosystem-at-techcrunch-founder-summit-2026/",
       "publishedAt": "2026-02-26T14:00:00.000Z"
     },
     {
@@ -255,15 +282,6 @@
       "publishedAt": "2026-02-25T19:00:00.000Z"
     },
     {
-      "id": "3rfhzj",
-      "title": "Gemini can now automate some multi-step tasks on Android",
-      "summary": "Gemini on Android will be able to automate tasks involving rideshare requests, or grocery or food delivery, says Google.",
-      "imageUrl": "https://images.unsplash.com/photo-1485827404703-89b55fcc595e?w=800&q=80",
-      "source": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/02/25/gemini-can-now-automate-some-multi-step-tasks-on-android/",
-      "publishedAt": "2026-02-25T18:00:00.000Z"
-    },
-    {
       "id": "3xhu2c",
       "title": "Google Gemini can book an Uber or order food for you on Pixel 10 and Galaxy S26",
       "summary": "Gemini can now prep a rideshare or grocery order, though you’ll have to submit the order yourself. | Image: Google Google's Gemini AI is getting one step closer to being more like an actual assistant. Starting with some Pixel 10 phones and the Samsung Galaxy S26 series, Gemini will be able to hail an Uber or put together a DoorDash order on its own. It's called task automation, and it starts with a prompt to Gemini - something like \"Get me an Uber to the Palace of Fine Arts.\" Gemini then…",
@@ -280,15 +298,6 @@
       "source": "Wired",
       "sourceUrl": "https://www.wired.com/story/google-gemini-task-automation-galaxy-s26-uber-doordash/",
       "publishedAt": "2026-02-25T18:00:00.000Z"
-    },
-    {
-      "id": "3wh5ce",
-      "title": "OpenAI COO says ads will be ‘an iterative process’",
-      "summary": "COO Brad Lightcap noted that ads can add to the product experience of users if they are done right. He urged to give OpenAI a few months to see how the company fares in rolling out the product.",
-      "imageUrl": "https://images.unsplash.com/photo-1635070041078-e363dbe005cb?w=800&q=80",
-      "source": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/02/25/openai-coo-says-ads-will-be-an-iterative-process/",
-      "publishedAt": "2026-02-25T17:37:37.000Z"
     },
     {
       "id": "do6mw6",
@@ -532,15 +541,6 @@
       "source": "Ars Technica",
       "sourceUrl": "https://arstechnica.com/ai/2026/02/should-ai-chatbots-have-ads-anthropic-says-no/",
       "publishedAt": "2026-02-04T21:15:07.000Z"
-    },
-    {
-      "id": "r8i9ph",
-      "title": "So yeah, I vibe-coded a log colorizer—and I feel good about it",
-      "summary": "Some semi-unhinged musings on where LLMs fit into my life—and how I'll keep using them.",
-      "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2026/01/lee-romance-violence-anything-1152x648.jpg",
-      "source": "Ars Technica",
-      "sourceUrl": "https://arstechnica.com/features/2026/02/so-yeah-i-vibe-coded-a-log-colorizer-and-i-feel-good-about-it/",
-      "publishedAt": "2026-02-04T12:00:37.000Z"
     }
   ]
 }
