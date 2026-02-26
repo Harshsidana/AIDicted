@@ -1,7 +1,34 @@
 {
-  "fetchedAt": "2026-02-26T11:24:13.566Z",
+  "fetchedAt": "2026-02-26T13:51:11.378Z",
   "count": 60,
   "articles": [
+    {
+      "id": "c691dr",
+      "title": "The Download: how America lost its lead in the hunt for alien life, and ambitious battery claims",
+      "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. America was winning the race to find Martian life. Then China jumped in. In July 2024, NASA’s Perseverance rover came across a peculiar rocky outcrop on Mars covered in strange spots. On Earth,…",
+      "imageUrl": "https://images.unsplash.com/photo-1676299081847-824916de030a?w=800&q=80",
+      "source": "MIT Tech Review",
+      "sourceUrl": "https://www.technologyreview.com/2026/02/26/1133734/the-download-how-america-lost-its-lead-in-the-hunt-for-alien-life-and-ambitious-battery-claims/",
+      "publishedAt": "2026-02-26T13:10:00.000Z"
+    },
+    {
+      "id": "rbe5yd",
+      "title": "Burger King will use AI to check if employees say ‘please’ and ‘thank you’",
+      "summary": "Burger King is launching an AI chatbot that will live in the headsets used by employees. The voice-enabled chatbot, called \"Patty,\" is part of an overarching BK Assistant platform that will not only assist employees with meal preparation but also evaluate their interactions with customers for \"friendliness.\" Thibault Roux, Burger King's chief digital officer, tells The Verge that the company compiled information from franchisees and guests on how to measure friendliness, resulting in the fast…",
+      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/02/BK-Assistant-Image-2.png?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "source": "The Verge",
+      "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/884911/burger-king-ai-assistant-patty",
+      "publishedAt": "2026-02-26T13:00:00.000Z"
+    },
+    {
+      "id": "xksq1g",
+      "title": "Who’s Your Daddy? A Chatbot",
+      "summary": "More people are turning to AI to explore their BDSM fantasies, but some in the community feel it’s a cop-out.",
+      "imageUrl": "https://media.wired.com/photos/699f4ee997fb9fb360b2f5ae/master/pass/culture_ai_dom_chatbot.jpg",
+      "source": "Wired",
+      "sourceUrl": "https://www.wired.com/story/whos-your-daddy-a-chatbot/",
+      "publishedAt": "2026-02-26T12:00:00.000Z"
+    },
     {
       "id": "oep2i4",
       "title": "Google takes control of ‘Android of robotics’ project in quest for physical AI",
@@ -10,6 +37,15 @@
       "source": "The Verge",
       "sourceUrl": "https://www.theverge.com/tech/885113/google-swallows-ai-robotics-moonshot-intrinsic",
       "publishedAt": "2026-02-26T11:06:33.000Z"
+    },
+    {
+      "id": "81aon2",
+      "title": "This company claims a battery breakthrough. Now they need to prove it.",
+      "summary": "When a company claims to have created what’s essentially the holy grail of batteries, there are bound to be some questions. Interest has been swirling since Donut Lab, a Finnish company, announced last month that it had a new solid-state battery technology, one that was ready for large-scale production. The company said its batteries can…",
+      "imageUrl": "https://images.unsplash.com/photo-1526374965328-7f61d4dc18c5?w=800&q=80",
+      "source": "MIT Tech Review",
+      "sourceUrl": "https://www.technologyreview.com/2026/02/26/1133722/solid-state-batteries-donut-lab/",
+      "publishedAt": "2026-02-26T11:00:00.000Z"
     },
     {
       "id": "4kltt8",
@@ -309,15 +345,6 @@
       "publishedAt": "2026-02-25T01:59:00.000Z"
     },
     {
-      "id": "z6gx3y",
-      "title": "OpenAI defeats xAI’s trade secrets lawsuit",
-      "summary": "OpenAI won a victory Tuesday in one of its legal battles with xAI, which involved allegations of poaching and theft of trade secrets. The former company's motion to dismiss the lawsuit was granted on Tuesday with leave to amend, meaning xAI has the option to refile with modified claims. In the ruling, US District Judge Rita F. Lin wrote that \"xAI does not point to any misconduct by OpenAI\" in its current claims. \"Instead, it points to eight former xAI employees who left for OpenAI at around the…",
-      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25739950/247386_Elon_Musk_Open_AI_CVirginia.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "source": "The Verge",
-      "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/884049/openai-elon-musk-xai-trade-secrets-lawsuit",
-      "publishedAt": "2026-02-24T23:05:28.000Z"
-    },
-    {
       "id": "pklnwn",
       "title": "Just pull a string to turn these tile patterns into useful 3D structures",
       "summary": "MIT researchers have developed a new method for designing 3D structures that can spring up from a flat sheet of interconnected tiles with a single pull of a string. The technique could be used to make foldable bike helmets and medical devices, emergency shelters and field hospitals for disaster zones, and much more. Mina Konaković…",
@@ -333,24 +360,6 @@
       "imageUrl": "https://images.unsplash.com/photo-1676299081847-824916de030a?w=800&q=80",
       "source": "MIT Tech Review",
       "sourceUrl": "https://www.technologyreview.com/2026/02/24/1132077/a-retinal-reboot-for-amblyopia/",
-      "publishedAt": "2026-02-24T22:00:00.000Z"
-    },
-    {
-      "id": "a48bft",
-      "title": "A new way to rejuvenate the immune system",
-      "summary": "As people age, their immune function weakens. Owing to shrinkage of the thymus, where T cells normally mature and diversify, populations of these immune cells become smaller and can’t react to pathogens as quickly. But researchers at MIT and the Broad Institute have now found a way to overcome that decline by temporarily programming cells…",
-      "imageUrl": "https://images.unsplash.com/photo-1655720828018-edd2daec9349?w=800&q=80",
-      "source": "MIT Tech Review",
-      "sourceUrl": "https://www.technologyreview.com/2026/02/24/1132080/a-new-way-to-rejuvenate-the-immune-system/",
-      "publishedAt": "2026-02-24T22:00:00.000Z"
-    },
-    {
-      "id": "huyn37",
-      "title": "A I-designed proteins may help spot cancer",
-      "summary": "Researchers at MIT and Microsoft have used artificial intelligence to create molecular sensors that could detect early signs of cancer via a urine test. The researchers developed an AI model to design short proteins that are targeted by enzymes called proteases, which are overactive in cancer cells. Nanoparticles coated with these proteins, called peptides, can…",
-      "imageUrl": "https://images.unsplash.com/photo-1676299081847-824916de030a?w=800&q=80",
-      "source": "MIT Tech Review",
-      "sourceUrl": "https://www.technologyreview.com/2026/02/24/1132083/a-i-designed-proteins-may-help-spot-cancer/",
       "publishedAt": "2026-02-24T22:00:00.000Z"
     },
     {
@@ -397,15 +406,6 @@
       "source": "Wired",
       "sourceUrl": "https://www.wired.com/story/could-we-put-ai-data-centers-in-space/",
       "publishedAt": "2026-02-20T12:00:00.000Z"
-    },
-    {
-      "id": "n61k50",
-      "title": "The Search Engine for OnlyFans Models Who Look Like Your Crush",
-      "summary": "Presearch’s “Doppelgänger” is trying to help people discover adult creators rather than use nonconsensual deepfakes.",
-      "imageUrl": "https://media.wired.com/photos/698f5635e3c699eb787a610a/master/pass/NSFW%20doppelgangers%20copy.jpg",
-      "source": "Wired",
-      "sourceUrl": "https://www.wired.com/story/the-search-engine-for-onlyfans-models-who-look-like-your-crush/",
-      "publishedAt": "2026-02-20T11:00:00.000Z"
     },
     {
       "id": "hax5kw",
