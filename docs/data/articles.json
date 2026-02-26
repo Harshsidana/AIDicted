@@ -1,7 +1,25 @@
 {
-  "fetchedAt": "2026-02-26T10:02:44.063Z",
+  "fetchedAt": "2026-02-26T11:24:13.566Z",
   "count": 60,
   "articles": [
+    {
+      "id": "oep2i4",
+      "title": "Google takes control of ‘Android of robotics’ project in quest for physical AI",
+      "summary": "Google is folding Alphabet's AI robotics \"moonshot,\" Intrinsic, into the company after five years as an independent unit. The move marks a strategic shift as Google doubles down on physical AI and pulls experimental projects closer to its core business. Intrinsic \"graduated\" into an independent company inside Alphabet's Other Bets division in 2021, a portfolio of high-risk, speculative ventures that also includes robotaxi firm Waymo and healthcare company Verily. It pitches itself as an…",
+      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/02/unnamed.webp?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "source": "The Verge",
+      "sourceUrl": "https://www.theverge.com/tech/885113/google-swallows-ai-robotics-moonshot-intrinsic",
+      "publishedAt": "2026-02-26T11:06:33.000Z"
+    },
+    {
+      "id": "4kltt8",
+      "title": "America was winning the race to find Martian life. Then China jumped in.",
+      "summary": "To most people, rocks are just rocks. To geologists, they are much, much more: crystal-filled time capsules with the power to reveal the state of the planet at the very moment they were forged. For decades, NASA had been on a time capsule hunt like none other—one across Mars. Its rovers have journeyed around a…",
+      "imageUrl": "https://images.unsplash.com/photo-1550751827-4bd374c3f58b?w=800&q=80",
+      "source": "MIT Tech Review",
+      "sourceUrl": "https://www.technologyreview.com/2026/02/26/1133584/america-china-mars-sample-return-space-race-nasa/",
+      "publishedAt": "2026-02-26T10:00:00.000Z"
+    },
     {
       "id": "ramt5w",
       "title": "Salesforce CEO Marc Benioff: This isn’t our first SaaSpocalypse",
@@ -334,24 +352,6 @@
       "source": "MIT Tech Review",
       "sourceUrl": "https://www.technologyreview.com/2026/02/24/1132083/a-i-designed-proteins-may-help-spot-cancer/",
       "publishedAt": "2026-02-24T22:00:00.000Z"
-    },
-    {
-      "id": "nt15h",
-      "title": "Reformulated antibodies could be injected for easier treatment",
-      "summary": "Antibody treatments for cancer and other diseases are typically delivered intravenously, requiring patients to go to a hospital and potentially spend hours receiving infusions. Now Professor Patrick Doyle and his colleagues have taken a major step toward reformulating antibodies so that they can be injected with a standard syringe, making treatment easier and more accessible. …",
-      "imageUrl": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=800&q=80",
-      "source": "MIT Tech Review",
-      "sourceUrl": "https://www.technologyreview.com/2026/02/24/1132086/reformulated-antibodies-could-be-injected-for-easier-treatment/",
-      "publishedAt": "2026-02-24T22:00:00.000Z"
-    },
-    {
-      "id": "yctwcd",
-      "title": "Seedance 2.0 might be gen AI video’s next big hope, but it’s still slop",
-      "summary": "When Irish filmmaker Ruairi Robinson began uploading a series of short clips created with Seedance 2.0 - TikTok developer ByteDance's newest video generation model - it was hard to deny that the footage was much more impressive than what we've seen from other gen AI outfits. The clips' star (a digital duplicate of Tom Cruise) looked a lot like the real thing as it fought Brad Pitt, humanoid robots, and zombies. And the characters moved with a complex fluidity almost passing for choreography and…",
-      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/02/ai-label-8.png?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "source": "The Verge",
-      "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/883615/seedance-bytedance-tom-cruise-brad-pitt-jia-zhangke",
-      "publishedAt": "2026-02-24T18:30:00.000Z"
     },
     {
       "id": "ac534n",
