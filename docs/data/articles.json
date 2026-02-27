@@ -1,7 +1,16 @@
 {
-  "fetchedAt": "2026-02-27T09:09:25.141Z",
+  "fetchedAt": "2026-02-27T11:07:25.285Z",
   "count": 60,
   "articles": [
+    {
+      "id": "nm2ows",
+      "title": "AI is rewiring how the world’s best Go players think",
+      "summary": "Burrowed in the alleys of Hongik-dong, a hushed residential neighborhood in eastern Seoul, is a faded stone-tiled building stamped “Korea Baduk Association,” the governing body for professional Go. The game is an ancient one, with sacred stature in South Korea. But inside the building, rooms once filled with the soft clatter of hands dipping into…",
+      "imageUrl": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=800&q=80",
+      "source": "MIT Tech Review",
+      "sourceUrl": "https://www.technologyreview.com/2026/02/27/1133624/ai-is-rewiring-how-the-worlds-best-go-players-think/",
+      "publishedAt": "2026-02-27T10:00:00.000Z"
+    },
     {
       "id": "ucxhmo",
       "title": "Hands-On With Nano Banana 2, the Latest Version of Google’s AI Image Generator",
@@ -406,15 +415,6 @@
       "source": "MIT Tech Review",
       "sourceUrl": "https://www.technologyreview.com/2026/02/25/1132840/editors-letter-march-2026/",
       "publishedAt": "2026-02-25T11:00:00.000Z"
-    },
-    {
-      "id": "pklnwn",
-      "title": "Just pull a string to turn these tile patterns into useful 3D structures",
-      "summary": "MIT researchers have developed a new method for designing 3D structures that can spring up from a flat sheet of interconnected tiles with a single pull of a string. The technique could be used to make foldable bike helmets and medical devices, emergency shelters and field hospitals for disaster zones, and much more. Mina Konaković…",
-      "imageUrl": "https://images.unsplash.com/photo-1526374965328-7f61d4dc18c5?w=800&q=80",
-      "source": "MIT Tech Review",
-      "sourceUrl": "https://www.technologyreview.com/2026/02/24/1132074/just-pull-a-string-to-turn-these-tile-patterns-into-useful-3d-structures/",
-      "publishedAt": "2026-02-24T22:00:00.000Z"
     },
     {
       "id": "hax5kw",
