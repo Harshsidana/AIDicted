@@ -1,7 +1,70 @@
 {
-  "fetchedAt": "2026-02-26T21:57:51.468Z",
+  "fetchedAt": "2026-02-27T02:44:01.666Z",
   "count": 60,
   "articles": [
+    {
+      "id": "ucxhmo",
+      "title": "Hands-On With Nano Banana 2, the Latest Version of Google’s AI Image Generator",
+      "summary": "Google’s latest image model, Nano Banana 2, is a powerful AI photo editor that punctures reality. Well, sometimes.",
+      "imageUrl": "https://media.wired.com/photos/69a070265fd6da9c76c63408/master/pass/Aspect%20Ratio.jpg",
+      "source": "Wired",
+      "sourceUrl": "https://www.wired.com/story/google-nano-banana-2-ai-image-generator-hands-on/",
+      "publishedAt": "2026-02-27T00:01:10.000Z"
+    },
+    {
+      "id": "yw3fj5",
+      "title": "Jack Dorsey just halved the size of Block’s employee base — and he says your company is next",
+      "summary": "Jack Dorsey has long been an open admirer of Elon Musk. Now, it seems, he may have been taking notes.",
+      "imageUrl": "https://images.unsplash.com/photo-1531746790095-6c10a4031c5f?w=800&q=80",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/02/26/jack-dorsey-block-layoffs-4000-halved-employees-your-company-is-next/",
+      "publishedAt": "2026-02-26T23:43:32.000Z"
+    },
+    {
+      "id": "q2msda",
+      "title": "Anthropic refuses Pentagon’s new terms, standing firm on lethal autonomous weapons and mass surveillance",
+      "summary": "Less than 24 hours before the deadline in an ultimatum issued by the Pentagon, Anthropic has refused the Department of Defense's demands for unrestricted access to its AI. It's the culmination of a dramatic exchange of public statements, social media posts, and behind-the-scenes negotiations, coming down to Defense Secretary Pete Hegseth's desire to renegotiate all AI labs' current contracts with the military. But Anthropic, so far, has refused to back down from its two current red lines: no…",
+      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25469941/STK202_DARIO_AMODEI_CVIRGINIA_D.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "source": "The Verge",
+      "sourceUrl": "https://www.theverge.com/news/885773/anthropic-department-of-defense-dod-pentagon-refusal-terms-hegseth-dario-amodei",
+      "publishedAt": "2026-02-26T23:22:44.000Z"
+    },
+    {
+      "id": "5uair9",
+      "title": "‘Uncanny Valley’: Pentagon vs. ‘Woke’ Anthropic, Agentic vs. Mimetic, and Trump vs. State of the Union",
+      "summary": "Our hosts unpack the news of the week, starting with the ongoing feud between Anthropic and the Pentagon. Plus: All you need to know about TAT-8 and undersea cables.",
+      "imageUrl": "https://media.wired.com/photos/699f61371e8ef8a5fdf2a3b3/master/pass/Uncanny-Valley-Podcast-Anthropic-Pentagon-Politics-2262730524.jpg",
+      "source": "Wired",
+      "sourceUrl": "https://www.wired.com/story/uncanny-valley-podcast-pentagon-anthropic-agentic-mimetic-trump-state-of-the-union/",
+      "publishedAt": "2026-02-26T23:20:36.000Z"
+    },
+    {
+      "id": "gy9flp",
+      "title": "Anthropic CEO stands firm as Pentagon deadline looms",
+      "summary": "Anthropic CEO Dario Amodei said Thursday that he \"cannot in good conscience accede\" to the Pentagon's demands to give the military unrestricted access to its AI systems.",
+      "imageUrl": "https://images.unsplash.com/photo-1526374965328-7f61d4dc18c5?w=800&q=80",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/02/26/anthropic-ceo-stands-firm-as-pentagon-deadline-looms/",
+      "publishedAt": "2026-02-26T23:19:06.000Z"
+    },
+    {
+      "id": "1hxqrn",
+      "title": "Microsoft’s Copilot Tasks AI uses its own computer to get things done",
+      "summary": "Microsoft is previewing a new AI system, Copilot Tasks, that it says is designed to take care of busywork for you in the background, the company announced on Thursday. The feature takes the load off your device using its own cloud-based computer and browser, allowing it to handle a variety of jobs ranging from scheduling appointments to generating study plans while you do something else. As noted by Microsoft, you can describe what you need to Copilot Tasks using natural language, and assign…",
+      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25357668/STK259_MICROSOFT_COPILOT_2__C.png?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "source": "The Verge",
+      "sourceUrl": "https://www.theverge.com/tech/885741/microsoft-copilot-tasks-ai",
+      "publishedAt": "2026-02-26T22:56:09.000Z"
+    },
+    {
+      "id": "b3ojlu",
+      "title": "Jack Dorsey’s Block cuts nearly half of its staff in AI gamble",
+      "summary": "Jack Dorsey's Block, the financial tech company that runs Square and the Cash app, is cutting its workforce by \"nearly half\" and axing more than 4,000 jobs. The company will shrink from more than 10,000 people to less than 6,000, Dorsey says in a post on X. And the reason why? AI. \"We're not making this decision because we're in trouble,\" Dorsey says. \"Our business is strong. Gross profit continues to grow, we continue to serve more and more customers, and profitability is improving. But…",
+      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/02/gettyimages-1233275044.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "source": "The Verge",
+      "sourceUrl": "https://www.theverge.com/tech/885710/jack-dorsey-block-layoffs-job-cuts-ai",
+      "publishedAt": "2026-02-26T22:11:13.000Z"
+    },
     {
       "id": "6bhwe0",
       "title": "This AI Agent Is Designed to Not Go Rogue",
@@ -246,15 +309,6 @@
       "publishedAt": "2026-02-25T23:49:19.000Z"
     },
     {
-      "id": "9zdcax",
-      "title": "Nvidia has another record quarter amid record capex spends",
-      "summary": "\"The demand for tokens in the world has gone completely exponential,\" Nvidia CEO Jensen Huang said about the company's earnings.",
-      "imageUrl": "https://images.unsplash.com/photo-1531746790095-6c10a4031c5f?w=800&q=80",
-      "source": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/02/25/nvidia-earnings-record-capex-spend-ai/",
-      "publishedAt": "2026-02-25T23:04:42.000Z"
-    },
-    {
       "id": "ru7r3j",
       "title": "Roundtables: Why 2026 Is the Year for Sodium-Ion Batteries",
       "summary": "Listen to the session or watch below Sodium-based batteries could be a cheaper, safer alternative to lithium-ion, and the technology is finally making its way into cars—and energy storage arrays on the grid. Sodium-ion batteries are one of MIT Technology Review’s 10 Breakthrough Technologies of 2026 list, and this subscriber-only discussion explains why. Watch a…",
@@ -262,15 +316,6 @@
       "source": "MIT Tech Review",
       "sourceUrl": "https://www.technologyreview.com/2026/02/25/1132873/roundtables-why-2026-is-the-year-for-sodium-ion-batteries/",
       "publishedAt": "2026-02-25T21:15:27.000Z"
-    },
-    {
-      "id": "22nr1k",
-      "title": "The White House wants AI companies to cover rate hikes. Most have already said they would.",
-      "summary": "Many hyperscalers have already made public commitments to cover electricity cost increases.",
-      "imageUrl": "https://images.unsplash.com/photo-1655720828018-edd2daec9349?w=800&q=80",
-      "source": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/02/25/the-white-house-wants-ai-companies-to-cover-rate-hikes-most-have-already-said-they-would/",
-      "publishedAt": "2026-02-25T20:42:14.000Z"
     },
     {
       "id": "iknqzj",
@@ -327,33 +372,6 @@
       "publishedAt": "2026-02-25T18:00:00.000Z"
     },
     {
-      "id": "do6mw6",
-      "title": "Amazon’s AGI lab leader is leaving",
-      "summary": "After less than two years at Amazon, David Luan, the head of Amazon's San Francisco AI lab, is departing the company. Luan announced the update in a post on LinkedIn on Tuesday, saying, \"I'll be leaving Amazon at the end of this week to cook up something new.\" He added that, \"There's incredible work to be done at Amazon and opportunities for me to take on more areas. But with AGI so close, I decided to spend 100% of my time on teaching AI systems brand new capabilities.\" The loss of a top AI…",
-      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/23935560/acastro_STK103__03.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "source": "The Verge",
-      "sourceUrl": "https://www.theverge.com/tech/884372/amazon-agi-lab-leader-david-luan-departure",
-      "publishedAt": "2026-02-25T15:24:39.000Z"
-    },
-    {
-      "id": "whgmjb",
-      "title": "Does Anthropic think Claude is alive? Define ‘alive’",
-      "summary": "Over the past several weeks, as more and more Anthropic executives do interviews on a publicity blitz for Claude, one thing has gotten increasingly clear: Anthropic sure seems to think Claude is alive in some way, shape, or form. \"Alive\" is obviously a loaded term; the more frequently used word is \"conscious.\" If you ask Anthropic if the company thinks Claude is alive, the company will flatly deny it, but stop short of saying the models aren't conscious. Kyle Fish, who leads model welfare…",
-      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/11/STKS522_AGI_B.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "source": "The Verge",
-      "sourceUrl": "https://www.theverge.com/report/883769/anthropic-claude-conscious-alive-moral-patient-constitution",
-      "publishedAt": "2026-02-25T14:24:30.000Z"
-    },
-    {
-      "id": "1s0ml1",
-      "title": "You can now make Alexa’s AI personality more friendly, blunt, or chilled out",
-      "summary": "That Brief option sounds great for people like me who find cheerful chatbots to be creepy or unsettling. | Image: Amazon Amazon is giving you more control over how Alexa behaves during conversations and responses. Three \"personality style\" presets are launching today for Alexa Plus users in the US that allow you to make the AI-powered voice assistant more concise, cheerful, or relaxed, depending on your personal preferences. \"Alexa's personality is one of the things customers tell us they love…",
-      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/02/Alexa-Plus-personality-updates.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "source": "The Verge",
-      "sourceUrl": "https://www.theverge.com/tech/884269/amazon-alexa-plus-personality-styles-availability",
-      "publishedAt": "2026-02-25T14:00:00.000Z"
-    },
-    {
       "id": "sxr99z",
       "title": "The Download: introducing the Crime issue",
       "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. Introducing: the Crime issue Technology has long made crime and its prosecution a game of cat and mouse. But those same new technologies that have allowed crime to outpace law have also reenergized…",
@@ -361,15 +379,6 @@
       "source": "MIT Tech Review",
       "sourceUrl": "https://www.technologyreview.com/2026/02/25/1133653/the-download-introducing-the-crime-issue/",
       "publishedAt": "2026-02-25T13:10:00.000Z"
-    },
-    {
-      "id": "ee7lg4",
-      "title": "Talk to Your Own Personal Isaac Newton With Ailias’s Hologram Avatars",
-      "summary": "If you've ever wanted to bounce ideas off your favorite historical figure, Ailias gives you the chance.",
-      "imageUrl": "https://media.wired.com/photos/69966b47cef96ab79e7301c1/master/pass/COMP%202%20WITH%20FRAME%20VERSION%201.jpg",
-      "source": "Wired",
-      "sourceUrl": "https://www.wired.com/story/ailias-hologram-avatars/",
-      "publishedAt": "2026-02-25T12:00:00.000Z"
     },
     {
       "id": "hx99zo",
@@ -406,15 +415,6 @@
       "source": "MIT Tech Review",
       "sourceUrl": "https://www.technologyreview.com/2026/02/24/1132074/just-pull-a-string-to-turn-these-tile-patterns-into-useful-3d-structures/",
       "publishedAt": "2026-02-24T22:00:00.000Z"
-    },
-    {
-      "id": "ac534n",
-      "title": "AI Will Never Be Conscious",
-      "summary": "In his new book, A World Appears, Michael Pollan argues that artificial intelligence can do many things—it just can’t be a person.",
-      "imageUrl": "https://media.wired.com/photos/699ce8c3a73685f300e29029/master/pass/Book-Excerpt-AI-Will-Never-Be-Conscious-Culture-1472259484.jpg",
-      "source": "Wired",
-      "sourceUrl": "https://www.wired.com/story/book-excerpt-a-world-appears-michael-pollan/",
-      "publishedAt": "2026-02-24T11:00:00.000Z"
     },
     {
       "id": "hax5kw",
