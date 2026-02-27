@@ -1,7 +1,25 @@
 {
-  "fetchedAt": "2026-02-27T11:56:01.544Z",
+  "fetchedAt": "2026-02-27T13:18:10.182Z",
   "count": 60,
   "articles": [
+    {
+      "id": "4io2u9",
+      "title": "The Download: how AI is shaking up Go, and a cybersecurity mystery",
+      "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. AI is rewiring how the world’s best Go players think Ten years ago AlphaGo, Google DeepMind’s AI program, stunned the world by defeating the South Korean Go player Lee Sedol. And in the…",
+      "imageUrl": "https://images.unsplash.com/photo-1531746790095-6c10a4031c5f?w=800&q=80",
+      "source": "MIT Tech Review",
+      "sourceUrl": "https://www.technologyreview.com/2026/02/27/1133754/the-download-how-ai-is-shaking-up-go-and-a-cybersecurity-mystery/",
+      "publishedAt": "2026-02-27T13:10:00.000Z"
+    },
+    {
+      "id": "oq4v09",
+      "title": "Huxe Will Give You a Personalized, Daily Audio Summary Powered by AI",
+      "summary": "The app reads your email inbox and your meeting calendar, then gives you a short audio summary. It can help you spend less time scrolling, but of course, there are privacy drawbacks to consider.",
+      "imageUrl": "https://images.unsplash.com/photo-1550751827-4bd374c3f58b?w=800&q=80",
+      "source": "Wired",
+      "sourceUrl": "https://www.wired.com/story/huxe-personalized-daily-audio-podcasts-powered-by-ai/",
+      "publishedAt": "2026-02-27T12:00:00.000Z"
+    },
     {
       "id": "nm2ows",
       "title": "AI is rewiring how the world’s best Go players think",
@@ -372,15 +390,6 @@
       "publishedAt": "2026-02-25T18:00:00.000Z"
     },
     {
-      "id": "xz543o",
-      "title": "Gemini Can Now Book You an Uber or Order a DoorDash Meal on Your Phone. Here’s How It Works",
-      "summary": "Starting with the Samsung Galaxy S26, Google’s Gemini can automate tasks in popular mobile apps. We got a live demo of the new feature in action.",
-      "imageUrl": "https://media.wired.com/photos/699e2d79d54c22d6c9a6a418/master/pass/Google%20Gemini%20Automation%20on%20Galaxy%20S26%20SOURCE%20Julian%20Chokkattu(2).jpg",
-      "source": "Wired",
-      "sourceUrl": "https://www.wired.com/story/google-gemini-task-automation-galaxy-s26-uber-doordash/",
-      "publishedAt": "2026-02-25T18:00:00.000Z"
-    },
-    {
       "id": "sxr99z",
       "title": "The Download: introducing the Crime issue",
       "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. Introducing: the Crime issue Technology has long made crime and its prosecution a game of cat and mouse. But those same new technologies that have allowed crime to outpace law have also reenergized…",
@@ -405,15 +414,6 @@
       "imageUrl": "https://images.unsplash.com/photo-1550751827-4bd374c3f58b?w=800&q=80",
       "source": "MIT Tech Review",
       "sourceUrl": "https://www.technologyreview.com/2026/02/25/1132836/3-things-juliet-beauchamp/",
-      "publishedAt": "2026-02-25T11:00:00.000Z"
-    },
-    {
-      "id": "dql1si",
-      "title": "Now is a good time for doing crime",
-      "summary": "Eons ago, in 2012, I had a weird experience. My iPhone suddenly shut down. When I restarted it, I found it was totally reset—clean, like a new device. This was the early days of iOS, so I wasn’t too concerned until I went to connect it to my computer to restore it from a backup.…",
-      "imageUrl": "https://images.unsplash.com/photo-1550751827-4bd374c3f58b?w=800&q=80",
-      "source": "MIT Tech Review",
-      "sourceUrl": "https://www.technologyreview.com/2026/02/25/1132840/editors-letter-march-2026/",
       "publishedAt": "2026-02-25T11:00:00.000Z"
     },
     {
