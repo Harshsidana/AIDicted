@@ -1,7 +1,43 @@
 {
-  "fetchedAt": "2026-02-27T16:02:36.435Z",
+  "fetchedAt": "2026-02-27T17:06:21.706Z",
   "count": 60,
   "articles": [
+    {
+      "id": "s4cf8n",
+      "title": "Perplexity’s new Computer is another bet that users need many AI models",
+      "summary": "Perplexity Computer, in the company’s words, \"unifies every current AI capability into a single system.\"",
+      "imageUrl": "https://images.unsplash.com/photo-1531746790095-6c10a4031c5f?w=800&q=80",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/02/27/perplexitys-new-computer-is-another-bet-that-users-need-many-ai-models/",
+      "publishedAt": "2026-02-27T17:00:55.000Z"
+    },
+    {
+      "id": "s7ume7",
+      "title": "Employees at Google and OpenAI support Anthropic’s Pentagon stand in open letter",
+      "summary": "While Anthropic has an existing partnership with the Pentagon, the AI company has remained firm that its technology not be used for mass domestic surveillance or fully autonomous weaponry.",
+      "imageUrl": "https://images.unsplash.com/photo-1676299081847-824916de030a?w=800&q=80",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/02/27/employees-at-google-and-openai-support-anthropics-pentagon-stand-in-open-letter/",
+      "publishedAt": "2026-02-27T16:23:58.000Z"
+    },
+    {
+      "id": "rfxn7q",
+      "title": "We don’t have to have unsupervised killer robots",
+      "summary": "It's the day of the Pentagon's looming ultimatum for Anthropic: allow the US military unchecked access to its technology, including for mass surveillance and fully autonomous lethal weapons, or potentially be designated a \"supply chain risk\" and potentially lose hundreds of billions of dollars in contracts. Amid the intensifying public statements and threats, tech workers across the industry are looking at their own companies' government and military contracts wondering what kind of future…",
+      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/12/STK432_Government__CVirginia_D.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "source": "The Verge",
+      "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/885963/anthropic-dod-pentagon-tech-workers-ai-labs-react",
+      "publishedAt": "2026-02-27T16:18:26.000Z"
+    },
+    {
+      "id": "3do2l2",
+      "title": "Wall Street Has AI Psychosis",
+      "summary": "A “thought experiment” about the impacts of AI sent stocks tumbling earlier this week. It’s probably going to keep happening.",
+      "imageUrl": "https://media.wired.com/photos/69a099a68b4e433f4999c9c4/master/pass/Backchannel-Wall-Street-Has-AI-Psychosis-Business-2207816119.jpg",
+      "source": "Wired",
+      "sourceUrl": "https://www.wired.com/story/wall-street-has-ai-psychosis/",
+      "publishedAt": "2026-02-27T16:00:00.000Z"
+    },
     {
       "id": "i66dz0",
       "title": "The Galaxy S26 is a photography nightmare",
@@ -51,7 +87,7 @@
       "id": "oq4v09",
       "title": "Huxe Will Give You a Personalized, Daily Audio Summary Powered by AI",
       "summary": "The app reads your email inbox and your meeting calendar, then gives you a short audio summary. It can help you spend less time scrolling, but of course, there are privacy drawbacks to consider.",
-      "imageUrl": "https://images.unsplash.com/photo-1550751827-4bd374c3f58b?w=800&q=80",
+      "imageUrl": "https://media.wired.com/photos/69a150e9d3084ff8755b5f8e/master/pass/Audio-Summary-Powered-by-AI-Gear-2204531017.jpg",
       "source": "Wired",
       "sourceUrl": "https://www.wired.com/story/huxe-personalized-daily-audio-podcasts-powered-by-ai/",
       "publishedAt": "2026-02-27T12:00:00.000Z"
@@ -282,15 +318,6 @@
       "publishedAt": "2026-02-26T14:00:00.000Z"
     },
     {
-      "id": "a2sjk8",
-      "title": "Trace raises $3M to solve the AI agent adoption problem in enterprise",
-      "summary": "Trace is launching with $3 million in seed funding, including investment from Y Combinator, Zeno Ventures, Transpose Platform Management, Goodwater Capital, Formosa Capital, and WeFunder.",
-      "imageUrl": "https://images.unsplash.com/photo-1620712943543-bcc4688e7485?w=800&q=80",
-      "source": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/02/26/trace-raises-3-million-to-solve-the-agent-adoption-problem/",
-      "publishedAt": "2026-02-26T14:00:00.000Z"
-    },
-    {
       "id": "c691dr",
       "title": "The Download: how America lost its lead in the hunt for alien life, and ambitious battery claims",
       "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. America was winning the race to find Martian life. Then China jumped in. In July 2024, NASA’s Perseverance rover came across a peculiar rocky outcrop on Mars covered in strange spots. On Earth,…",
@@ -345,15 +372,6 @@
       "publishedAt": "2026-02-26T10:00:00.000Z"
     },
     {
-      "id": "ramt5w",
-      "title": "Salesforce CEO Marc Benioff: This isn’t our first SaaSpocalypse",
-      "summary": "Salesforce reported a solid year-end earnings and then pulled out all the stops to ward off more talk of the death of its business to AI.",
-      "imageUrl": "https://images.unsplash.com/photo-1620712943543-bcc4688e7485?w=800&q=80",
-      "source": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/02/25/salesforce-ceo-marc-benioff-this-isnt-our-first-saaspocalypse/",
-      "publishedAt": "2026-02-26T01:59:12.000Z"
-    },
-    {
       "id": "ru7r3j",
       "title": "Roundtables: Why 2026 Is the Year for Sodium-Ion Batteries",
       "summary": "Listen to the session or watch below Sodium-based batteries could be a cheaper, safer alternative to lithium-ion, and the technology is finally making its way into cars—and energy storage arrays on the grid. Sodium-ion batteries are one of MIT Technology Review’s 10 Breakthrough Technologies of 2026 list, and this subscriber-only discussion explains why. Watch a…",
@@ -363,15 +381,6 @@
       "publishedAt": "2026-02-25T21:15:27.000Z"
     },
     {
-      "id": "iknqzj",
-      "title": "Trump claims tech companies will sign deals next week to pay for their own power supply",
-      "summary": "President Donald Trump tried to quell Americans' concerns about rising electricity costs during his State of the Union speech - and now we're learning that the deals he promised could land next week. Trump claimed that he's negotiated a \"rate payer protection pledge\" with major tech companies, which would see them build out or pay for new electricity generation for their data centers. Leaders from Amazon, Google, Meta, Microsoft, xAI, Oracle and OpenAI are expected to attend a March 4th event to…",
-      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/02/STK466_ELECTION_2024_CVirginia_E.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "source": "The Verge",
-      "sourceUrl": "https://www.theverge.com/science/884191/ai-data-center-energy-state-of-the-union-trump",
-      "publishedAt": "2026-02-25T20:37:25.000Z"
-    },
-    {
       "id": "i9u7jl",
       "title": "Riley Walz, the Jester of Silicon Valley, Is Joining OpenAI",
       "summary": "The software engineer is famous for his online stunts. Now he’s joining the company behind ChatGPT to work on new ways for humans to use AI systems.",
@@ -379,15 +388,6 @@
       "source": "Wired",
       "sourceUrl": "https://www.wired.com/story/openai-hires-riley-walz/",
       "publishedAt": "2026-02-25T19:59:26.000Z"
-    },
-    {
-      "id": "xndv4d",
-      "title": "OpenClaw Users Are Allegedly Bypassing Anti-Bot Systems",
-      "summary": "An open source project called Scrapling is gaining traction with AI agent users who want their bots to scrape sites without permission.",
-      "imageUrl": "https://media.wired.com/photos/699de3a0e46e4fa7442b798a/master/pass/AI-Lab-OpenClaw-Users-Are-Attempting-to-Scrape-Sites-with-Anti-Bot-Protections-Business.jpg",
-      "source": "Wired",
-      "sourceUrl": "https://www.wired.com/story/openclaw-users-bypass-anti-bot-systems-cloudflare-scrapling/",
-      "publishedAt": "2026-02-25T19:00:00.000Z"
     },
     {
       "id": "sxr99z",
