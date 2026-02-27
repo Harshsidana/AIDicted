@@ -1,7 +1,70 @@
 {
-  "fetchedAt": "2026-02-27T17:06:21.706Z",
+  "fetchedAt": "2026-02-27T19:55:55.870Z",
   "count": 60,
   "articles": [
+    {
+      "id": "yegwwn",
+      "title": "Musk bashes OpenAI in deposition, saying ‘nobody committed suicide because of Grok’",
+      "summary": "In his lawsuit against OpenAI, Musk touted xAI safety compared with ChatGPT. A few months later, xAI's Grok flooded X with non-consensual nude images.",
+      "imageUrl": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=800&q=80",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/02/27/musk-bashes-openai-in-deposition-saying-nobody-committed-suicide-because-of-grok/",
+      "publishedAt": "2026-02-27T19:42:00.000Z"
+    },
+    {
+      "id": "ydmuno",
+      "title": "Anthropic vs. the Pentagon: What’s actually at stake?",
+      "summary": "Anthropic and the Pentagon are clashing over AI use in autonomous weapons and surveillance, raising high-stakes questions about national security, corporate control, and who sets the rules for military AI.",
+      "imageUrl": "https://images.unsplash.com/photo-1620712943543-bcc4688e7485?w=800&q=80",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/02/27/anthropic-vs-the-pentagon-whats-actually-at-stake/",
+      "publishedAt": "2026-02-27T19:11:04.000Z"
+    },
+    {
+      "id": "9xlyjh",
+      "title": "OpenAI Fires an Employee for Prediction Market Insider Trading",
+      "summary": "Prediction markets like Polymarket and Kalshi are big business, and some Big Tech employees are testing boundaries by making trades based on insider knowledge.",
+      "imageUrl": "https://media.wired.com/photos/69a0b01c157af8f83feddf9b/master/pass/OpenAI-Employee-Fired-Insider-Trading-Business-2210029299.jpg",
+      "source": "Wired",
+      "sourceUrl": "https://www.wired.com/story/openai-fires-employee-insider-trading-polymarket-kalshi/",
+      "publishedAt": "2026-02-27T19:07:28.000Z"
+    },
+    {
+      "id": "so79a0",
+      "title": "ChatGPT reaches 900M weekly active users",
+      "summary": "OpenAI shared the new numbers as part of its announcement that it has raised $110 billion in private funding.",
+      "imageUrl": "https://images.unsplash.com/photo-1485827404703-89b55fcc595e?w=800&q=80",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/02/27/chatgpt-reaches-900m-weekly-active-users/",
+      "publishedAt": "2026-02-27T18:25:51.000Z"
+    },
+    {
+      "id": "kwiyo2",
+      "title": "Who’s really running AI? Inside the billion-dollar battle over regulation with Alex Bores",
+      "summary": "The Pentagon is playing chicken with Anthropic over who gets to control how the military uses AI while communities across the country are blocking data center construction. As the AI debate has been flattened to “doomers versus boomers,” one state legislator is attempting to walk a middle road. On this episode of TechCrunch’s Equity podcast, Rebecca Bellan sits down with Alex Bores, a New York State Assemblymember and candidate for U.S. Congress. Bores sponsored New York’s […]",
+      "imageUrl": "https://images.unsplash.com/photo-1485827404703-89b55fcc595e?w=800&q=80",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/podcast/whos-really-running-ai-inside-the-billion-dollar-battle-over-regulation-with-alex-bores/",
+      "publishedAt": "2026-02-27T17:35:50.000Z"
+    },
+    {
+      "id": "6srx94",
+      "title": "AI music generator Suno hits 2M paid subscribers and $300M in annual recurring revenue",
+      "summary": "Suno lets users create music using natural language prompts, making it possible for people with little experience to generate audio with little effort.",
+      "imageUrl": "https://images.unsplash.com/photo-1531746790095-6c10a4031c5f?w=800&q=80",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/02/27/ai-music-generator-suno-hits-2-million-paid-subscribers-and-300m-in-annual-recurring-revenue/",
+      "publishedAt": "2026-02-27T17:22:02.000Z"
+    },
+    {
+      "id": "3q89xh",
+      "title": "AI vs. the Pentagon: killer robots, mass surveillance, and red lines",
+      "summary": "WASHINGTON, DC - JANUARY 29: U.S. Secretary of War Pete Hegseth (C) speaks during a meeting of the Cabinet as U.S. President Donald Trump (L) and U.S. Commerce Secretary Howard Lutnick (R) listen in the Cabinet Room of the White House on January 29, 2026 in Washington, DC. President Trump is holding the meeting as the Senate plans to hold a vote on a spending package to avoid another government shutdown, however Democrats are holding out for a deal to consider funding for the Department of…",
+      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/02/gettyimages-2258899592.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "source": "The Verge",
+      "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/886082/ai-vs-the-pentagon-killer-robots-mass-surveillance-and-red-lines",
+      "publishedAt": "2026-02-27T17:16:53.000Z"
+    },
     {
       "id": "s4cf8n",
       "title": "Perplexity’s new Computer is another bet that users need many AI models",
@@ -228,24 +291,6 @@
       "publishedAt": "2026-02-26T17:00:00.000Z"
     },
     {
-      "id": "k7sn0u",
-      "title": "Bumble adds AI-powered photo feedback and profile guidance tools",
-      "summary": "Bumble and other popular dating apps, like Match Group's Tinder and Hinge, have all embraced AI-powered features.",
-      "imageUrl": "https://images.unsplash.com/photo-1635070041078-e363dbe005cb?w=800&q=80",
-      "source": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/02/26/bumble-adds-ai-powered-photo-feedback-and-profile-guidance-tools/",
-      "publishedAt": "2026-02-26T16:38:59.000Z"
-    },
-    {
-      "id": "y74a5h",
-      "title": "Google launches Nano Banana 2 model with faster image generation",
-      "summary": "Google is making Nano Banana 2 a default model in Gemini app and in AI mode.",
-      "imageUrl": "https://images.unsplash.com/photo-1635070041078-e363dbe005cb?w=800&q=80",
-      "source": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/02/26/google-launches-nano-banana-2-model-with-faster-image-generation/",
-      "publishedAt": "2026-02-26T16:00:00.000Z"
-    },
-    {
       "id": "9rq3bh",
       "title": "Google’s Nano Banana 2 brings advanced AI image tools to free users",
       "summary": "The image generational capabilities of Nano Banana 2 seem comparable to the Pro model. | Image: Google / The Verge Google is bringing a more powerful version of its Nano Banana AI image model to free users. Nano Banana 2 (also known as Gemini 3.1 Flash Image) is rolling out today across the Gemini app and other Google AI platforms, making knowledge and rendering features that were previously exclusive to Nano Banana Pro available for everyone. Google says the update aims to bring \"high-speed…",
@@ -282,15 +327,6 @@
       "publishedAt": "2026-02-26T15:00:59.000Z"
     },
     {
-      "id": "ignq73",
-      "title": "2 days left: Lock in the best discounts for TechCrunch Disrupt 2026",
-      "summary": "Register now to secure discounts of up to $680 on your TechCrunch Disrupt 2026 pass. Offer ends tomorrow, February 27, at 11:59 p.m. PT.",
-      "imageUrl": "https://images.unsplash.com/photo-1526374965328-7f61d4dc18c5?w=800&q=80",
-      "source": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/02/26/2-days-left-lock-in-the-best-discounts-for-techcrunch-disrupt-2026/",
-      "publishedAt": "2026-02-26T15:00:00.000Z"
-    },
-    {
       "id": "prko0a",
       "title": "Anthropic gives its retired Claude AI a Substack",
       "summary": "In January, Anthropic \"retired\" Claude 3 Opus, which at one time was the company's most powerful AI model. Today, it's back - and writing on Substack. The newsletter, called Claude's Corner, will give Opus 3 space to publish its \"musings, insights, or creative works,\" Anthropic said in a blog post. The model will post weekly for at least the next three months. Anthropic staff will review and publish each entry, though the company stressed it \"won't edit\" Claude's posts and that there would be a…",
@@ -298,24 +334,6 @@
       "source": "The Verge",
       "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/885200/anthropic-retired-claude-given-a-substack",
       "publishedAt": "2026-02-26T14:21:05.000Z"
-    },
-    {
-      "id": "q4quai",
-      "title": "Exhibit in Boston’s startup ecosystem at TechCrunch Founder Summit 2026",
-      "summary": "On June 9, over 1,000 founders, investors, and decision-makers will gather for TechCrunch Founder Summit 2026. This isn’t just foot traffic. It’s a full day of concentrated deal flow.",
-      "imageUrl": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=800&q=80",
-      "source": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/02/26/exhibit-in-bostons-startup-ecosystem-at-techcrunch-founder-summit-2026/",
-      "publishedAt": "2026-02-26T14:00:00.000Z"
-    },
-    {
-      "id": "4ffc47",
-      "title": "Figma partners with OpenAI to bake in support for Codex",
-      "summary": "Figma is integrating OpenAI's coding assistant Codex a week after it announced a similar integration with Anthropic's Claude Code.",
-      "imageUrl": "https://images.unsplash.com/photo-1531746790095-6c10a4031c5f?w=800&q=80",
-      "source": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/02/26/figma-partners-with-openai-to-bake-in-support-for-codex/",
-      "publishedAt": "2026-02-26T14:00:00.000Z"
     },
     {
       "id": "c691dr",
@@ -345,15 +363,6 @@
       "publishedAt": "2026-02-26T12:00:00.000Z"
     },
     {
-      "id": "oep2i4",
-      "title": "Google takes control of ‘Android of robotics’ project in quest for physical AI",
-      "summary": "Google is folding Alphabet's AI robotics \"moonshot,\" Intrinsic, into the company after five years as an independent unit. The move marks a strategic shift as Google doubles down on physical AI and pulls experimental projects closer to its core business. Intrinsic \"graduated\" into an independent company inside Alphabet's Other Bets division in 2021, a portfolio of high-risk, speculative ventures that also includes robotaxi firm Waymo and healthcare company Verily. It pitches itself as an…",
-      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/02/unnamed.webp?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "source": "The Verge",
-      "sourceUrl": "https://www.theverge.com/tech/885113/google-swallows-ai-robotics-moonshot-intrinsic",
-      "publishedAt": "2026-02-26T11:06:33.000Z"
-    },
-    {
       "id": "81aon2",
       "title": "This company claims a battery breakthrough. Now they need to prove it.",
       "summary": "When a company claims to have created what’s essentially the holy grail of batteries, there are bound to be some questions. Interest has been swirling since Donut Lab, a Finnish company, announced last month that it had a new solid-state battery technology, one that was ready for large-scale production. The company said its batteries can…",
@@ -379,15 +388,6 @@
       "source": "MIT Tech Review",
       "sourceUrl": "https://www.technologyreview.com/2026/02/25/1132873/roundtables-why-2026-is-the-year-for-sodium-ion-batteries/",
       "publishedAt": "2026-02-25T21:15:27.000Z"
-    },
-    {
-      "id": "i9u7jl",
-      "title": "Riley Walz, the Jester of Silicon Valley, Is Joining OpenAI",
-      "summary": "The software engineer is famous for his online stunts. Now he’s joining the company behind ChatGPT to work on new ways for humans to use AI systems.",
-      "imageUrl": "https://media.wired.com/photos/699e0e94458686361c3c0d25/master/pass/OpenAI-Hires-Riley-Walz-Business-2236469090.jpg",
-      "source": "Wired",
-      "sourceUrl": "https://www.wired.com/story/openai-hires-riley-walz/",
-      "publishedAt": "2026-02-25T19:59:26.000Z"
     },
     {
       "id": "sxr99z",
