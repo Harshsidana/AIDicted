@@ -1,7 +1,25 @@
 {
-  "fetchedAt": "2026-02-28T19:45:41.684Z",
+  "fetchedAt": "2026-02-28T21:29:36.673Z",
   "count": 60,
   "articles": [
+    {
+      "id": "b8eubx",
+      "title": "Anthropic’s Claude rises to No. 2 in the App Store following Pentagon dispute",
+      "summary": "Anthropic’s chatbot Claude seems to have benefited from the attention around the company’s fraught negotiations with the Pentagon.",
+      "imageUrl": "https://images.unsplash.com/photo-1550751827-4bd374c3f58b?w=800&q=80",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/02/28/anthropics-claude-rises-to-no-2-in-the-app-store-following-pentagon-dispute/",
+      "publishedAt": "2026-02-28T21:05:06.000Z"
+    },
+    {
+      "id": "ry6fly",
+      "title": "The billion-dollar infrastructure deals powering the AI boom",
+      "summary": "Here's everything we know about the biggest AI infrastructure projects, including major spending from Meta, Oracle, Microsoft, Google, and OpenAI.",
+      "imageUrl": "https://images.unsplash.com/photo-1676299081847-824916de030a?w=800&q=80",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/02/28/billion-dollar-infrastructure-deals-ai-boom-data-centers-openai-oracle-nvidia-microsoft-google-meta/",
+      "publishedAt": "2026-02-28T20:41:55.000Z"
+    },
     {
       "id": "mjleda",
       "title": "OpenAI’s Sam Altman announces Pentagon deal with ‘technical safeguards’",
@@ -309,15 +327,6 @@
       "publishedAt": "2026-02-26T20:54:51.000Z"
     },
     {
-      "id": "k8prvf",
-      "title": "So, we’re getting Prada Meta AI glasses, right?",
-      "summary": "Mark Zuckerberg was at Prada's fashion week event in Milan, leaving everyone to wonder if we're getting Meta AI glasses under the Prada brand.",
-      "imageUrl": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=800&q=80",
-      "source": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/02/26/so-were-getting-prada-meta-ai-glasses-right/",
-      "publishedAt": "2026-02-26T20:11:55.000Z"
-    },
-    {
       "id": "e8qmsh",
       "title": "How Chinese AI Chatbots Censor Themselves",
       "summary": "Researchers from Stanford and Princeton found that Chinese AI models are more likely than their Western counterparts to dodge political questions or deliver inaccurate answers.",
@@ -325,15 +334,6 @@
       "source": "Wired",
       "sourceUrl": "https://www.wired.com/story/made-in-china-how-chinese-ai-chatbots-censor-themselves/",
       "publishedAt": "2026-02-26T20:08:08.000Z"
-    },
-    {
-      "id": "4yndrt",
-      "title": "Sophia Space raises $10M seed to demo novel space computers",
-      "summary": "The company's modular computer tiles offer a new vision for space data centers.",
-      "imageUrl": "https://images.unsplash.com/photo-1635070041078-e363dbe005cb?w=800&q=80",
-      "source": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/02/26/sophia-space-raises-10m-seed-to-demo-novel-space-computers/",
-      "publishedAt": "2026-02-26T19:55:20.000Z"
     },
     {
       "id": "i0oq6e",
