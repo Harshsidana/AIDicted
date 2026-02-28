@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-02-28T04:20:34.380Z",
+  "fetchedAt": "2026-02-28T05:09:11.488Z",
   "count": 60,
   "articles": [
     {
@@ -12,15 +12,6 @@
       "publishedAt": "2026-02-28T03:30:41.000Z"
     },
     {
-      "id": "icz9b0",
-      "title": "Defense secretary Pete Hegseth designates Anthropic a supply chain risk",
-      "summary": "US President Donald Trump (R) looks on as US Secretary of Defense Pete Hegseth speaks to the press following US military actions in Venezuela | AFP via Getty Images Nearly two hours after President Donald Trump announced on Truth Social that he was banning Anthropic products from the federal government, Secretary of Defense Pete Hegseth took it one step further and announced that he was now designating the AI company as a \"supply-chain risk,\" which Anthropic says it is willing to challenge in…",
-      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/02/gettyimages-2253879905.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "source": "The Verge",
-      "sourceUrl": "https://www.theverge.com/policy/886632/pentagon-designates-anthropic-supply-chain-risk-ai-standoff",
-      "publishedAt": "2026-02-28T02:19:16.000Z"
-    },
-    {
       "id": "jjj2x3",
       "title": "Google quantum-proofs HTTPS by squeezing 2.5kB of data into 64-byte space",
       "summary": "Merkle Tree Certificate support is already in Chrome. Soon, it will be everywhere.",
@@ -28,6 +19,15 @@
       "source": "Ars Technica",
       "sourceUrl": "https://arstechnica.com/security/2026/02/google-is-using-clever-math-to-quantum-proof-https-certificates/",
       "publishedAt": "2026-02-28T01:26:41.000Z"
+    },
+    {
+      "id": "icz9b0",
+      "title": "Defense secretary Pete Hegseth designates Anthropic a supply chain risk",
+      "summary": "US President Donald Trump (R) looks on as US Secretary of Defense Pete Hegseth speaks to the press following US military actions in Venezuela | AFP via Getty Images Nearly two hours after President Donald Trump announced on Truth Social that he was banning Anthropic products from the federal government, Secretary of Defense Pete Hegseth took it one step further and announced that he was now designating the AI company as a \"supply-chain risk\". The decision could immediately impact numerous major…",
+      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/02/gettyimages-2253879905.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "source": "The Verge",
+      "sourceUrl": "https://www.theverge.com/policy/886632/pentagon-designates-anthropic-supply-chain-risk-ai-standoff",
+      "publishedAt": "2026-02-27T23:06:02.000Z"
     },
     {
       "id": "nzk9wd",
