@@ -1,7 +1,16 @@
 {
-  "fetchedAt": "2026-02-28T15:31:11.559Z",
+  "fetchedAt": "2026-02-28T17:27:45.621Z",
   "count": 60,
   "articles": [
+    {
+      "id": "mjleda",
+      "title": "OpenAI’s Sam Altman announces Pentagon deal with ‘technical safeguards’",
+      "summary": "OpenAI's CEO claims its new defense contract includes protections addressing the same issues that became a flashpoint for Anthropic.",
+      "imageUrl": "https://images.unsplash.com/photo-1550751827-4bd374c3f58b?w=800&q=80",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/02/28/openais-sam-altman-announces-pentagon-deal-with-technical-safeguards/",
+      "publishedAt": "2026-02-28T16:17:36.000Z"
+    },
     {
       "id": "xluoc4",
       "title": "Anthropic Hits Back After US Military Labels It a ‘Supply Chain Risk’",
@@ -325,15 +334,6 @@
       "source": "TechCrunch",
       "sourceUrl": "https://techcrunch.com/2026/02/26/sophia-space-raises-10m-seed-to-demo-novel-space-computers/",
       "publishedAt": "2026-02-26T19:55:20.000Z"
-    },
-    {
-      "id": "6z34wn",
-      "title": "Mistral AI inks a deal with global consulting giant Accenture",
-      "summary": "Mistral AI lands a partnership with Accenture, the consultant that has also recently announced partnerships with rivals OpenAI and Anthropic.",
-      "imageUrl": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=800&q=80",
-      "source": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/02/26/mistral-ai-inks-a-deal-with-global-consulting-giant-accenture/",
-      "publishedAt": "2026-02-26T19:17:27.000Z"
     },
     {
       "id": "i0oq6e",
