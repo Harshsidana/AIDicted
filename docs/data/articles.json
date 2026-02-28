@@ -1,7 +1,43 @@
 {
-  "fetchedAt": "2026-02-27T20:38:24.591Z",
+  "fetchedAt": "2026-02-27T22:33:11.133Z",
   "count": 60,
   "articles": [
+    {
+      "id": "rw42dg",
+      "title": "President Trump orders federal agencies to stop using Anthropic after Pentagon dispute",
+      "summary": "\"We don't need it, we don't want it, and will not do business with them again,\" the president wrote in the post.",
+      "imageUrl": "https://images.unsplash.com/photo-1526374965328-7f61d4dc18c5?w=800&q=80",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/02/27/president-trump-orders-federal-agencies-to-stop-using-anthropic-after-pentagon-dispute/",
+      "publishedAt": "2026-02-27T21:53:14.000Z"
+    },
+    {
+      "id": "9fdr0y",
+      "title": "MIT Technology Review is a 2026 ASME finalist in reporting",
+      "summary": "The American Society of Magazine Editors has named MIT Technology Review as a finalist for a 2026 National Magazine Award in the reporting category. The shortlisted story—“We did the math on AI’s energy footprint. Here’s the story you haven’t heard”—is part of the publication’s Power Hungry package on AI’s energy burden. AI is often described…",
+      "imageUrl": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=800&q=80",
+      "source": "MIT Tech Review",
+      "sourceUrl": "https://www.technologyreview.com/2026/02/27/1133769/asme-finalist-reporting/",
+      "publishedAt": "2026-02-27T21:41:31.000Z"
+    },
+    {
+      "id": "9aoewc",
+      "title": "Trump Moves to Ban Anthropic From the US Government",
+      "summary": "President Donald Trump’s sudden order comes after the Defense Department pressured Anthropic to drop restrictions on how its AI can be used by the military.",
+      "imageUrl": "https://media.wired.com/photos/69a0a09c6c9d7076f06f28c6/master/pass/Pentagon-Goes-Nuclear-on-Anthropic-Business-2261852583.jpg",
+      "source": "Wired",
+      "sourceUrl": "https://www.wired.com/story/trump-moves-to-ban-anthropic-from-the-us-government/",
+      "publishedAt": "2026-02-27T21:36:31.000Z"
+    },
+    {
+      "id": "gmtz5u",
+      "title": "Trump orders federal agencies to drop Anthropic’s AI",
+      "summary": "On Friday afternoon, Donald Trump posted on Truth Social, accusing Anthropic, the AI company behind Claude, of attempting to \"STRONG-ARM\" the Pentagon and directing federal agencies to \"IMMEDIATELY CEASE\" use of its products. At issue is Anthropic CEO Dario Amodei's refusal of an updated agreement with the US military agreeing to \"any lawful use\" of Anthropic's technology, as Defense Secretary Pete Hegseth mandated in a January memo, to the frustration of many tech workers across the industry.…",
+      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/02/STK466_ELECTION_2024_CVirginia_E.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "source": "The Verge",
+      "sourceUrl": "https://www.theverge.com/policy/886489/pentagon-anthropic-trump-dod",
+      "publishedAt": "2026-02-27T21:30:47.000Z"
+    },
     {
       "id": "yegwwn",
       "title": "Musk bashes OpenAI in deposition, saying ‘nobody committed suicide because of Grok’",
@@ -86,7 +122,7 @@
     {
       "id": "rfxn7q",
       "title": "We don’t have to have unsupervised killer robots",
-      "summary": "It's the day of the Pentagon's looming ultimatum for Anthropic: allow the US military unchecked access to its technology, including for mass surveillance and fully autonomous lethal weapons, or potentially be designated a \"supply chain risk\" and potentially lose hundreds of billions of dollars in contracts. Amid the intensifying public statements and threats, tech workers across the industry are looking at their own companies' government and military contracts wondering what kind of future…",
+      "summary": "It's the day of the Pentagon's looming ultimatum for Anthropic: allow the US military unchecked access to its technology, including for mass surveillance and fully autonomous lethal weapons, or potentially be designated a \"supply chain risk\" and potentially lose hundreds of billions of dollars in contracts. Amid the intensifying public statements and threats, tech workers across the industry are looking at their own companies' government and military contracts, wondering what kind of future…",
       "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/12/STK432_Government__CVirginia_D.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
       "source": "The Verge",
       "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/885963/anthropic-dod-pentagon-tech-workers-ai-labs-react",
@@ -282,15 +318,6 @@
       "publishedAt": "2026-02-26T19:00:00.000Z"
     },
     {
-      "id": "b9agoa",
-      "title": "Read AI launches an email-based ‘digital twin’ to help you with schedules and answers",
-      "summary": "Read AI is launching Ada, which can reply with your availability and extract answers from the company knowledge base and the web.",
-      "imageUrl": "https://images.unsplash.com/photo-1526374965328-7f61d4dc18c5?w=800&q=80",
-      "source": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/02/26/read-ai-launches-an-email-based-digital-twin-to-help-you-with-schedules-and-answers/",
-      "publishedAt": "2026-02-26T17:00:00.000Z"
-    },
-    {
       "id": "9rq3bh",
       "title": "Google’s Nano Banana 2 brings advanced AI image tools to free users",
       "summary": "The image generational capabilities of Nano Banana 2 seem comparable to the Pro model. | Image: Google / The Verge Google is bringing a more powerful version of its Nano Banana AI image model to free users. Nano Banana 2 (also known as Gemini 3.1 Flash Image) is rolling out today across the Gemini app and other Google AI platforms, making knowledge and rendering features that were previously exclusive to Nano Banana Pro available for everyone. Google says the update aims to bring \"high-speed…",
@@ -345,24 +372,6 @@
       "publishedAt": "2026-02-26T13:10:00.000Z"
     },
     {
-      "id": "rbe5yd",
-      "title": "Burger King will use AI to check if employees say ‘please’ and ‘thank you’",
-      "summary": "Burger King is launching an AI chatbot that will live in the headsets used by employees. The voice-enabled chatbot, called \"Patty,\" is part of an overarching BK Assistant platform that will not only assist employees with meal preparation but also evaluate their interactions with customers for \"friendliness.\" Thibault Roux, Burger King's chief digital officer, tells The Verge that the company compiled information from franchisees and guests on how to measure friendliness, resulting in the fast…",
-      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/02/BK-Assistant-Image-2.png?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "source": "The Verge",
-      "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/884911/burger-king-ai-assistant-patty",
-      "publishedAt": "2026-02-26T13:00:00.000Z"
-    },
-    {
-      "id": "xksq1g",
-      "title": "Who’s Your Daddy? A Chatbot",
-      "summary": "More people are turning to AI to explore their BDSM fantasies, but some in the community feel it’s a cop-out.",
-      "imageUrl": "https://media.wired.com/photos/699f4ee997fb9fb360b2f5ae/master/pass/culture_ai_dom_chatbot.jpg",
-      "source": "Wired",
-      "sourceUrl": "https://www.wired.com/story/whos-your-daddy-a-chatbot/",
-      "publishedAt": "2026-02-26T12:00:00.000Z"
-    },
-    {
       "id": "81aon2",
       "title": "This company claims a battery breakthrough. Now they need to prove it.",
       "summary": "When a company claims to have created what’s essentially the holy grail of batteries, there are bound to be some questions. Interest has been swirling since Donut Lab, a Finnish company, announced last month that it had a new solid-state battery technology, one that was ready for large-scale production. The company said its batteries can…",
@@ -405,15 +414,6 @@
       "imageUrl": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=800&q=80",
       "source": "MIT Tech Review",
       "sourceUrl": "https://www.technologyreview.com/2026/02/25/1132829/listen-earths-rumbling-secret-soundtrack/",
-      "publishedAt": "2026-02-25T11:00:00.000Z"
-    },
-    {
-      "id": "1pl31t",
-      "title": "3 things Juliet Beauchamp is into right now",
-      "summary": "The only reality show that matters The Real Housewives of Salt Lake City is one of the best shows on television right now. Not one of the best reality TV shows, but one of the best TV shows, period. Chronicling a shifting group of wealthy women in and around Salt Lake, the show has featured…",
-      "imageUrl": "https://images.unsplash.com/photo-1550751827-4bd374c3f58b?w=800&q=80",
-      "source": "MIT Tech Review",
-      "sourceUrl": "https://www.technologyreview.com/2026/02/25/1132836/3-things-juliet-beauchamp/",
       "publishedAt": "2026-02-25T11:00:00.000Z"
     },
     {
