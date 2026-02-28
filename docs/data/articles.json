@@ -1,14 +1,32 @@
 {
-  "fetchedAt": "2026-02-27T22:33:11.133Z",
+  "fetchedAt": "2026-02-28T02:33:05.042Z",
   "count": 60,
   "articles": [
     {
-      "id": "rw42dg",
-      "title": "President Trump orders federal agencies to stop using Anthropic after Pentagon dispute",
+      "id": "icz9b0",
+      "title": "Defense secretary Pete Hegseth designates Anthropic a supply chain risk",
+      "summary": "US President Donald Trump (R) looks on as US Secretary of Defense Pete Hegseth speaks to the press following US military actions in Venezuela | AFP via Getty Images Nearly two hours after President Donald Trump announced on Truth Social that he was banning Anthropic products from the federal government, Secretary of Defense Pete Hegseth took it one step further and announced that he was now designating the AI company as a \"supply-chain risk,\" which Anthropic says it is willing to challenge in…",
+      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/02/gettyimages-2253879905.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "source": "The Verge",
+      "sourceUrl": "https://www.theverge.com/policy/886632/pentagon-designates-anthropic-supply-chain-risk-ai-standoff",
+      "publishedAt": "2026-02-28T02:19:16.000Z"
+    },
+    {
+      "id": "jjj2x3",
+      "title": "Google quantum-proofs HTTPS by squeezing 2.5kB of data into 64-byte space",
+      "summary": "Merkle Tree Certificate support is already in Chrome. Soon, it will be everywhere.",
+      "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2025/06/https-1152x648.jpg",
+      "source": "Ars Technica",
+      "sourceUrl": "https://arstechnica.com/security/2026/02/google-is-using-clever-math-to-quantum-proof-https-certificates/",
+      "publishedAt": "2026-02-28T01:26:41.000Z"
+    },
+    {
+      "id": "nzk9wd",
+      "title": "Pentagon moves to designate Anthropic as a supply-chain risk",
       "summary": "\"We don't need it, we don't want it, and will not do business with them again,\" the president wrote in the post.",
-      "imageUrl": "https://images.unsplash.com/photo-1526374965328-7f61d4dc18c5?w=800&q=80",
+      "imageUrl": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=800&q=80",
       "source": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/02/27/president-trump-orders-federal-agencies-to-stop-using-anthropic-after-pentagon-dispute/",
+      "sourceUrl": "https://techcrunch.com/2026/02/27/pentagon-moves-to-designate-anthropic-as-a-supply-chain-risk/",
       "publishedAt": "2026-02-27T21:53:14.000Z"
     },
     {
@@ -354,15 +372,6 @@
       "publishedAt": "2026-02-26T15:00:59.000Z"
     },
     {
-      "id": "prko0a",
-      "title": "Anthropic gives its retired Claude AI a Substack",
-      "summary": "In January, Anthropic \"retired\" Claude 3 Opus, which at one time was the company's most powerful AI model. Today, it's back - and writing on Substack. The newsletter, called Claude's Corner, will give Opus 3 space to publish its \"musings, insights, or creative works,\" Anthropic said in a blog post. The model will post weekly for at least the next three months. Anthropic staff will review and publish each entry, though the company stressed it \"won't edit\" Claude's posts and that there would be a…",
-      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/01/STKB364_CLAUDE_2_C_96d15c.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "source": "The Verge",
-      "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/885200/anthropic-retired-claude-given-a-substack",
-      "publishedAt": "2026-02-26T14:21:05.000Z"
-    },
-    {
       "id": "c691dr",
       "title": "The Download: how America lost its lead in the hunt for alien life, and ambitious battery claims",
       "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. America was winning the race to find Martian life. Then China jumped in. In July 2024, NASA’s Perseverance rover came across a peculiar rocky outcrop on Mars covered in strange spots. On Earth,…",
@@ -532,15 +541,6 @@
       "source": "Ars Technica",
       "sourceUrl": "https://arstechnica.com/security/2026/02/russian-state-hackers-exploit-office-vulnerability-to-infect-computers/",
       "publishedAt": "2026-02-04T23:08:04.000Z"
-    },
-    {
-      "id": "4wzdfc",
-      "title": "Should AI chatbots have ads? Anthropic says no.",
-      "summary": "ChatGPT competitor comes out swinging with Super Bowl ad mocking AI product pitches.",
-      "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2026/02/claude-no-ads-1152x648.png",
-      "source": "Ars Technica",
-      "sourceUrl": "https://arstechnica.com/ai/2026/02/should-ai-chatbots-have-ads-anthropic-says-no/",
-      "publishedAt": "2026-02-04T21:15:07.000Z"
     }
   ]
 }
