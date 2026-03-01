@@ -1,7 +1,34 @@
 {
-  "fetchedAt": "2026-03-01T11:46:50.749Z",
+  "fetchedAt": "2026-03-01T17:30:06.083Z",
   "count": 60,
   "articles": [
+    {
+      "id": "9b3f7x",
+      "title": "OpenAI reveals more details about its agreement with the Pentagon",
+      "summary": "By CEO Sam Altman’s own admission, OpenAI’s deal with the Department of Defense was “definitely rushed,” and “the optics don’t look good.”",
+      "imageUrl": "https://images.unsplash.com/photo-1550751827-4bd374c3f58b?w=800&q=80",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/03/01/openai-shares-more-details-about-its-agreement-with-the-pentagon/",
+      "publishedAt": "2026-03-01T16:30:10.000Z"
+    },
+    {
+      "id": "d54imw",
+      "title": "Anthropic’s Claude rises to No. 1 in the App Store following Pentagon dispute",
+      "summary": "Anthropic’s chatbot Claude seems to have benefited from the attention around the company’s fraught negotiations with the Pentagon.",
+      "imageUrl": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=800&q=80",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/03/01/anthropics-claude-rises-to-no-2-in-the-app-store-following-pentagon-dispute/",
+      "publishedAt": "2026-03-01T14:48:58.000Z"
+    },
+    {
+      "id": "yjwzfa",
+      "title": "SaaS in, SaaS out: Here’s what’s driving the SaaSpocalypse",
+      "summary": "What's behind the SaaSpocalypse? It simply seems a new supreme has risen.",
+      "imageUrl": "https://images.unsplash.com/photo-1550751827-4bd374c3f58b?w=800&q=80",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/03/01/saas-in-saas-out-heres-whats-driving-the-saaspocalypse/",
+      "publishedAt": "2026-03-01T14:00:00.000Z"
+    },
     {
       "id": "qfbwpz",
       "title": "The trap Anthropic built for itself",
@@ -10,15 +37,6 @@
       "source": "TechCrunch",
       "sourceUrl": "https://techcrunch.com/2026/02/28/the-trap-anthropic-built-for-itself/",
       "publishedAt": "2026-03-01T00:08:58.000Z"
-    },
-    {
-      "id": "b8eubx",
-      "title": "Anthropic’s Claude rises to No. 2 in the App Store following Pentagon dispute",
-      "summary": "Anthropic’s chatbot Claude seems to have benefited from the attention around the company’s fraught negotiations with the Pentagon.",
-      "imageUrl": "https://images.unsplash.com/photo-1550751827-4bd374c3f58b?w=800&q=80",
-      "source": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/02/28/anthropics-claude-rises-to-no-2-in-the-app-store-following-pentagon-dispute/",
-      "publishedAt": "2026-02-28T21:05:06.000Z"
     },
     {
       "id": "ry6fly",
@@ -228,15 +246,6 @@
       "publishedAt": "2026-02-27T14:55:16.000Z"
     },
     {
-      "id": "frpsin",
-      "title": "OpenAI raises $110B in one of the largest private funding rounds in history",
-      "summary": "The new funding consists of a $50 billion investment from Amazon as well as $30 billion each from Nvidia and SoftBank, against a $730 billion valuation.",
-      "imageUrl": "https://images.unsplash.com/photo-1635070041078-e363dbe005cb?w=800&q=80",
-      "source": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/02/27/openai-raises-110b-in-one-of-the-largest-private-funding-rounds-in-history/",
-      "publishedAt": "2026-02-27T14:13:01.000Z"
-    },
-    {
       "id": "4io2u9",
       "title": "The Download: how AI is shaking up Go, and a cybersecurity mystery",
       "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. AI is rewiring how the world’s best Go players think Ten years ago AlphaGo, Google DeepMind’s AI program, stunned the world by defeating the South Korean Go player Lee Sedol. And in the…",
@@ -271,15 +280,6 @@
       "source": "Wired",
       "sourceUrl": "https://www.wired.com/story/google-nano-banana-2-ai-image-generator-hands-on/",
       "publishedAt": "2026-02-27T00:01:10.000Z"
-    },
-    {
-      "id": "yw3fj5",
-      "title": "Jack Dorsey just halved the size of Block’s employee base — and he says your company is next",
-      "summary": "Jack Dorsey has long been an open admirer of Elon Musk. Now, it seems, he may have been taking notes.",
-      "imageUrl": "https://images.unsplash.com/photo-1531746790095-6c10a4031c5f?w=800&q=80",
-      "source": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/02/26/jack-dorsey-block-layoffs-4000-halved-employees-your-company-is-next/",
-      "publishedAt": "2026-02-26T23:43:32.000Z"
     },
     {
       "id": "q2msda",
