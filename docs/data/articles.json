@@ -1,7 +1,16 @@
 {
-  "fetchedAt": "2026-02-28T23:50:11.557Z",
+  "fetchedAt": "2026-03-01T06:08:21.087Z",
   "count": 60,
   "articles": [
+    {
+      "id": "qfbwpz",
+      "title": "The trap Anthropic built for itself",
+      "summary": "Anthropic, OpenAI, Google DeepMind and others have long promised to govern themselves responsibly. Now, in the absence of rules, there's not a lot to protect them.",
+      "imageUrl": "https://images.unsplash.com/photo-1676299081847-824916de030a?w=800&q=80",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/02/28/the-trap-anthropic-built-for-itself/",
+      "publishedAt": "2026-03-01T00:08:58.000Z"
+    },
     {
       "id": "b8eubx",
       "title": "Anthropic’s Claude rises to No. 2 in the App Store following Pentagon dispute",
@@ -289,15 +298,6 @@
       "source": "Wired",
       "sourceUrl": "https://www.wired.com/story/uncanny-valley-podcast-pentagon-anthropic-agentic-mimetic-trump-state-of-the-union/",
       "publishedAt": "2026-02-26T23:20:36.000Z"
-    },
-    {
-      "id": "gy9flp",
-      "title": "Anthropic CEO stands firm as Pentagon deadline looms",
-      "summary": "Anthropic CEO Dario Amodei said Thursday that he \"cannot in good conscience accede\" to the Pentagon's demands to give the military unrestricted access to its AI systems.",
-      "imageUrl": "https://images.unsplash.com/photo-1526374965328-7f61d4dc18c5?w=800&q=80",
-      "source": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/02/26/anthropic-ceo-stands-firm-as-pentagon-deadline-looms/",
-      "publishedAt": "2026-02-26T23:19:06.000Z"
     },
     {
       "id": "1hxqrn",
