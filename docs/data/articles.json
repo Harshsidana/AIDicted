@@ -1,7 +1,16 @@
 {
-  "fetchedAt": "2026-03-02T09:10:55.780Z",
+  "fetchedAt": "2026-03-02T11:10:37.828Z",
   "count": 60,
   "articles": [
+    {
+      "id": "ncmz6y",
+      "title": "The Data Centers Have Arrived at the Edge of the Arctic Circle",
+      "summary": "As AI labs gorge themselves on compute, data center operators are flooding north in search of cheap and plentiful energy.",
+      "imageUrl": "https://media.wired.com/photos/699f79c89c1839834b2d7742/master/pass/Arctic-Circle-Next-Frontier-In-AI-Infrastructure-Wars-Business-2163338735.jpg",
+      "source": "Wired",
+      "sourceUrl": "https://www.wired.com/story/ai-supremacy-data-center-expansion-arctic-circle/",
+      "publishedAt": "2026-03-02T10:00:00.000Z"
+    },
     {
       "id": "ei7eq4",
       "title": "A robot arm with puppy dog eyes is just one of Lenovo’s new desktop AI concepts",
@@ -343,15 +352,6 @@
       "source": "Wired",
       "sourceUrl": "https://www.wired.com/story/made-in-china-how-chinese-ai-chatbots-censor-themselves/",
       "publishedAt": "2026-02-26T20:08:08.000Z"
-    },
-    {
-      "id": "i0oq6e",
-      "title": "Are You ‘Agentic’ Enough for the AI Era?",
-      "summary": "Silicon Valley built AI coding agents that can handle most of the grunt work. Now, the most valuable skill in tech is deciding what they should do.",
-      "imageUrl": "https://media.wired.com/photos/699e27a9d54c22d6c9a6a40c/master/pass/Model-Behavior-Are-You-Agentic-Enough-For-AI-Era-Business.jpg",
-      "source": "Wired",
-      "sourceUrl": "https://www.wired.com/story/silicon-valley-agentic-individuals-future-of-work/",
-      "publishedAt": "2026-02-26T19:00:00.000Z"
     },
     {
       "id": "crqumk",
