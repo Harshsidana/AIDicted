@@ -1,11 +1,20 @@
 {
-  "fetchedAt": "2026-03-02T11:55:31.218Z",
+  "fetchedAt": "2026-03-02T13:18:55.605Z",
   "count": 60,
   "articles": [
     {
+      "id": "5jqruo",
+      "title": "I checked out one of the biggest anti-AI protests ever",
+      "summary": "Pull the plug! Pull the plug! Stop the slop! Stop the slop! For a few hours this Saturday, February 28, I watched as a couple hundred anti-AI protesters marched through London’s King’s Cross tech hub, home to the UK headquarters of OpenAI, Meta and Google DeepMind, chanting slogans and waving signs. The march was organized…",
+      "imageUrl": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=800&q=80",
+      "source": "MIT Tech Review",
+      "sourceUrl": "https://www.technologyreview.com/2026/03/02/1133814/i-checked-out-londons-biggest-ever-anti-ai-protest/",
+      "publishedAt": "2026-03-02T12:55:20.000Z"
+    },
+    {
       "id": "ncmz6y",
       "title": "The Data Centers Have Arrived at the Edge of the Arctic Circle",
-      "summary": "As AI labs gorge themselves on compute, data center operators are flooding north in search of cheap and plentiful energy.",
+      "summary": "As AI labs gorge themselves on compute, data center operators have headed north in search of cheap and plentiful energy.",
       "imageUrl": "https://media.wired.com/photos/699f79c89c1839834b2d7742/master/pass/Arctic-Circle-Next-Frontier-In-AI-Infrastructure-Wars-Business-2163338735.jpg",
       "source": "Wired",
       "sourceUrl": "https://www.wired.com/story/ai-supremacy-data-center-expansion-arctic-circle/",
@@ -415,15 +424,6 @@
       "source": "MIT Tech Review",
       "sourceUrl": "https://www.technologyreview.com/2026/02/25/1133653/the-download-introducing-the-crime-issue/",
       "publishedAt": "2026-02-25T13:10:00.000Z"
-    },
-    {
-      "id": "hx99zo",
-      "title": "Listen to Earth’s rumbling, secret soundtrack",
-      "summary": "The boom of a calving glacier. The crackling rumble of a wildfire. The roar of a surging storm front. They’re the noises of the living Earth, music of this one particular sphere and clues to the true nature of these dramatic events. But as loud as all these things are, they emit even more acoustic…",
-      "imageUrl": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=800&q=80",
-      "source": "MIT Tech Review",
-      "sourceUrl": "https://www.technologyreview.com/2026/02/25/1132829/listen-earths-rumbling-secret-soundtrack/",
-      "publishedAt": "2026-02-25T11:00:00.000Z"
     },
     {
       "id": "hax5kw",
