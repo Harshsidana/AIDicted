@@ -1,11 +1,38 @@
 {
-  "fetchedAt": "2026-03-02T13:18:55.605Z",
+  "fetchedAt": "2026-03-02T15:09:48.485Z",
   "count": 60,
   "articles": [
     {
+      "id": "tlhlh",
+      "title": "How OpenAI caved to the Pentagon on AI surveillance",
+      "summary": "On Friday evening, amidst fallout from a standoff between the Department of Defense and Anthropic, OpenAI CEO Sam Altman announced that his own company had successfully negotiated new terms with the Pentagon. The US government had just moved to blacklist Anthropic for standing firm on two red lines for military use: no mass surveillance of Americans and no lethal autonomous weapons (or AI systems with the power to kill targets without human oversight). Altman, however, implied that he'd found a…",
+      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/06/STKS515_CYBER_WARFARE_D.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "source": "The Verge",
+      "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/887309/openai-anthropic-dod-military-pentagon-contract-sam-altman-hegseth",
+      "publishedAt": "2026-03-02T14:22:18.000Z"
+    },
+    {
+      "id": "kjhv90",
+      "title": "Anthropic’s Claude reports widespread outage",
+      "summary": "Anthropic's AI chatbot Claude experienced widespread service disruptions on Monday morning, with thousands of users reporting issues accessing the bot.",
+      "imageUrl": "https://images.unsplash.com/photo-1526374965328-7f61d4dc18c5?w=800&q=80",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/03/02/anthropics-claude-reports-widespread-outage/",
+      "publishedAt": "2026-03-02T13:31:49.000Z"
+    },
+    {
+      "id": "g3eewp",
+      "title": "The Download: protesting AI, and what’s floating in space",
+      "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. I checked out one of the biggest anti-AI protests ever Pull the plug! Pull the plug! Stop the slop! Stop the slop! For a few hours this Saturday, February 28, I watched as…",
+      "imageUrl": "https://images.unsplash.com/photo-1635070041078-e363dbe005cb?w=800&q=80",
+      "source": "MIT Tech Review",
+      "sourceUrl": "https://www.technologyreview.com/2026/03/02/1133811/the-download-protesting-ai-and-whats-floating-in-space/",
+      "publishedAt": "2026-03-02T13:20:00.000Z"
+    },
+    {
       "id": "5jqruo",
       "title": "I checked out one of the biggest anti-AI protests ever",
-      "summary": "Pull the plug! Pull the plug! Stop the slop! Stop the slop! For a few hours this Saturday, February 28, I watched as a couple hundred anti-AI protesters marched through London’s King’s Cross tech hub, home to the UK headquarters of OpenAI, Meta and Google DeepMind, chanting slogans and waving signs. The march was organized…",
+      "summary": "Pull the plug! Pull the plug! Stop the slop! Stop the slop! For a few hours this Saturday, February 28, I watched as a couple of hundred anti-AI protesters marched through London’s King’s Cross tech hub, home to the UK headquarters of OpenAI, Meta, and Google DeepMind, chanting slogans and waving signs. The march was…",
       "imageUrl": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=800&q=80",
       "source": "MIT Tech Review",
       "sourceUrl": "https://www.technologyreview.com/2026/03/02/1133814/i-checked-out-londons-biggest-ever-anti-ai-protest/",
@@ -228,15 +255,6 @@
       "publishedAt": "2026-02-27T17:00:55.000Z"
     },
     {
-      "id": "s7ume7",
-      "title": "Employees at Google and OpenAI support Anthropic’s Pentagon stand in open letter",
-      "summary": "While Anthropic has an existing partnership with the Pentagon, the AI company has remained firm that its technology not be used for mass domestic surveillance or fully autonomous weaponry.",
-      "imageUrl": "https://images.unsplash.com/photo-1676299081847-824916de030a?w=800&q=80",
-      "source": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/02/27/employees-at-google-and-openai-support-anthropics-pentagon-stand-in-open-letter/",
-      "publishedAt": "2026-02-27T16:23:58.000Z"
-    },
-    {
       "id": "rfxn7q",
       "title": "We don’t have to have unsupervised killer robots",
       "summary": "It's the day of the Pentagon's looming ultimatum for Anthropic: allow the US military unchecked access to its technology, including for mass surveillance and fully autonomous lethal weapons, or potentially be designated a \"supply chain risk\" and potentially lose hundreds of billions of dollars in contracts. Amid the intensifying public statements and threats, tech workers across the industry are looking at their own companies' government and military contracts, wondering what kind of future…",
@@ -336,15 +354,6 @@
       "publishedAt": "2026-02-26T22:56:09.000Z"
     },
     {
-      "id": "b3ojlu",
-      "title": "Jack Dorsey’s Block cuts nearly half of its staff in AI gamble",
-      "summary": "Jack Dorsey's Block, the financial tech company that runs Square and the Cash app, is cutting its workforce by \"nearly half\" and axing more than 4,000 jobs. The company will shrink from more than 10,000 people to less than 6,000, Dorsey says in a post on X. And the reason why? AI. \"We're not making this decision because we're in trouble,\" Dorsey says. \"Our business is strong. Gross profit continues to grow, we continue to serve more and more customers, and profitability is improving. But…",
-      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/02/gettyimages-1233275044.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "source": "The Verge",
-      "sourceUrl": "https://www.theverge.com/tech/885710/jack-dorsey-block-layoffs-job-cuts-ai",
-      "publishedAt": "2026-02-26T22:11:13.000Z"
-    },
-    {
       "id": "6bhwe0",
       "title": "This AI Agent Is Designed to Not Go Rogue",
       "summary": "The new open source project IronCurtain uses a unique method to secure and constrain AI assistant agents before they flip your digital life upside down.",
@@ -415,15 +424,6 @@
       "source": "MIT Tech Review",
       "sourceUrl": "https://www.technologyreview.com/2026/02/25/1132873/roundtables-why-2026-is-the-year-for-sodium-ion-batteries/",
       "publishedAt": "2026-02-25T21:15:27.000Z"
-    },
-    {
-      "id": "sxr99z",
-      "title": "The Download: introducing the Crime issue",
-      "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. Introducing: the Crime issue Technology has long made crime and its prosecution a game of cat and mouse. But those same new technologies that have allowed crime to outpace law have also reenergized…",
-      "imageUrl": "https://images.unsplash.com/photo-1655720828018-edd2daec9349?w=800&q=80",
-      "source": "MIT Tech Review",
-      "sourceUrl": "https://www.technologyreview.com/2026/02/25/1133653/the-download-introducing-the-crime-issue/",
-      "publishedAt": "2026-02-25T13:10:00.000Z"
     },
     {
       "id": "hax5kw",
