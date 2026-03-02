@@ -1,7 +1,16 @@
 {
-  "fetchedAt": "2026-03-02T20:00:12.863Z",
+  "fetchedAt": "2026-03-02T20:50:49.265Z",
   "count": 60,
   "articles": [
+    {
+      "id": "sk5bei",
+      "title": "Apple might use Google servers to store data for its upgraded AI Siri",
+      "summary": "Apple has asked Google to look into \"setting up servers\" for a new version of Siri that's Gemini-powered and meets Apple's privacy requirements, The Information reports. Apple had already announced in January that Google's Gemini AI models would help power the upgraded version of Siri it delayed last year, but The Information's report indicates Apple might lean even more on Google so it can catch up in AI. The original partnership announcement said that \"the next generation of Apple Foundation…",
+      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25697396/STK071_APPLE_M.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "source": "The Verge",
+      "sourceUrl": "https://www.theverge.com/tech/887802/apple-ai-siri-google-servers",
+      "publishedAt": "2026-03-02T20:22:33.000Z"
+    },
     {
       "id": "r72qgt",
       "title": "Users are ditching ChatGPT for Claude. Here’s how to make the switch",
@@ -30,10 +39,10 @@
       "publishedAt": "2026-03-02T17:29:42.000Z"
     },
     {
-      "id": "90dzbu",
-      "title": "Tech workers urge DOD, Congress to withdraw Anthropic label as a supply chain risk",
-      "summary": "Tech workers have signed an open letter urging the Department of War to withdraw its designation of Anthropic as a \"supply chain risk\" and instead to settle the matter quietly.",
-      "imageUrl": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=800&q=80",
+      "id": "k7c7nx",
+      "title": "Tech workers urge DOD, Congress to withdraw Anthropic label as a supply-chain risk",
+      "summary": "Tech workers have signed an open letter urging the Department of Defense to withdraw its designation of Anthropic as a \"supply chain risk\" and instead to settle the matter quietly.",
+      "imageUrl": "https://images.unsplash.com/photo-1531746790095-6c10a4031c5f?w=800&q=80",
       "source": "TechCrunch",
       "sourceUrl": "https://techcrunch.com/2026/03/02/tech-workers-urge-dod-congress-to-withdraw-anthropic-label-as-a-supply-chain-risk/",
       "publishedAt": "2026-03-02T17:18:34.000Z"
@@ -307,15 +316,6 @@
       "source": "The Verge",
       "sourceUrl": "https://www.theverge.com/podcast/885942/samsung-galaxy-s26-ai-camera-nightmare-vergecast",
       "publishedAt": "2026-02-27T15:15:52.000Z"
-    },
-    {
-      "id": "3epjk8",
-      "title": "OpenAI snags $110 billion in investments from Amazon, Nvidia, and Softbank",
-      "summary": "OpenAI has closed another round of funding, totalling $110 billion being newly committed to the maker of ChatGPT, which it says has more than 900 million weekly active users and over 50 million consumer subscribers. Amazon is investing $50 billion and striking a deal that includes plans for custom models and more. Nvidia and SoftBank are each contributing $30 billion, as well, even as the Wall Street Journal notes that Nvidia's previous $100 billion investment plan is \"on ice.\" This marks…",
-      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/12/STK201_SAM_ALTMAN_CVIRGINIA_D.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "source": "The Verge",
-      "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/885958/openai-amazon-nvidia-softback-110-billion-investment",
-      "publishedAt": "2026-02-27T14:55:16.000Z"
     },
     {
       "id": "4io2u9",
