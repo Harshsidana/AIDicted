@@ -1,7 +1,52 @@
 {
-  "fetchedAt": "2026-03-02T16:05:32.569Z",
+  "fetchedAt": "2026-03-02T19:22:07.876Z",
   "count": 60,
   "articles": [
+    {
+      "id": "r72qgt",
+      "title": "Users are ditching ChatGPT for Claude. Here’s how to make the switch",
+      "summary": "Following controversies surrounding ChatGPT, many users are ditching the AI chatbot for Claude instead. Here's how to make the switch.",
+      "imageUrl": "https://images.unsplash.com/photo-1676299081847-824916de030a?w=800&q=80",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/03/02/users-are-ditching-chatgpt-for-claude-heres-how-to-make-the-switch/",
+      "publishedAt": "2026-03-02T18:42:11.000Z"
+    },
+    {
+      "id": "2vpuro",
+      "title": "AI-generated art can’t be copyrighted after Supreme Court declines to review the rule",
+      "summary": "The US Supreme Court has declined to hear a case over whether AI-generated art can obtain a copyright, as reported earlier by Reuters. The Monday decision comes after Stephen Thaler, a computer scientist from Missouri, appealed a court's decision to uphold a ruling that found AI-generated art can't be copyrighted. In 2019, the US Copyright Office rejected Thaler's request to copyright an image, called A Recent Entrance to Paradise, on behalf of an algorithm he created. The Copyright Office…",
+      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25301215/STK463_SCOTUS_B.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "source": "The Verge",
+      "sourceUrl": "https://www.theverge.com/policy/887678/supreme-court-ai-art-copyright",
+      "publishedAt": "2026-03-02T17:58:05.000Z"
+    },
+    {
+      "id": "ocr2zp",
+      "title": "OpenAI’s “compromise” with the Pentagon is what Anthropic feared",
+      "summary": "On February 28, OpenAI announced it had reached a deal that will allow the US military to use its technologies in classified settings. CEO Sam Altman said the negotiations, which the company began pursuing only after the Pentagon’s public reprimand of Anthropic, were “definitely rushed.” In its announcements, OpenAI took great pains to say that…",
+      "imageUrl": "https://images.unsplash.com/photo-1531746790095-6c10a4031c5f?w=800&q=80",
+      "source": "MIT Tech Review",
+      "sourceUrl": "https://www.technologyreview.com/2026/03/02/1133850/openais-compromise-with-the-pentagon-is-what-anthropic-feared/",
+      "publishedAt": "2026-03-02T17:29:42.000Z"
+    },
+    {
+      "id": "90dzbu",
+      "title": "Tech workers urge DOD, Congress to withdraw Anthropic label as a supply chain risk",
+      "summary": "Tech workers have signed an open letter urging the Department of War to withdraw its designation of Anthropic as a \"supply chain risk\" and instead to settle the matter quietly.",
+      "imageUrl": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=800&q=80",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/03/02/tech-workers-urge-dod-congress-to-withdraw-anthropic-label-as-a-supply-chain-risk/",
+      "publishedAt": "2026-03-02T17:18:34.000Z"
+    },
+    {
+      "id": "b7lljn",
+      "title": "Nvidia’s spending $4 billion on photonics to stay ahead of the curve in AI",
+      "summary": "Nvidia announced on Monday that it's investing $2 billion each into Lumentum and Coherent, which are both developing photonics technology for data centers, like optical transceivers, circuit switches, and lasers, which are used to move data at high speeds over long distances. Their tech could improve energy efficiency, data transfer speeds, and bandwidth in future AI data centers, after Nvidia already capitalized on its 2020 acquisition of the network hardware company Mellanox to beef up NVLink…",
+      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/06/STK083_NVIDIA_2.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "source": "The Verge",
+      "sourceUrl": "https://www.theverge.com/tech/887635/nvidia-ai-photonics-lumentum-coherent",
+      "publishedAt": "2026-03-02T16:56:49.000Z"
+    },
     {
       "id": "5tluj3",
       "title": "A married founder duo’s company, 14.ai, is replacing customer support teams at startups",
@@ -73,6 +118,15 @@
       "source": "TechCrunch",
       "sourceUrl": "https://techcrunch.com/2026/03/01/google-looks-to-tackle-longstanding-rcs-spam-in-india-but-not-alone/",
       "publishedAt": "2026-03-01T17:30:00.000Z"
+    },
+    {
+      "id": "foq6vy",
+      "title": "Investors spill what they aren’t looking for anymore in AI SaaS companies",
+      "summary": "TechCrunch spoke with VCs to learn what investors aren't looking for in AI SaaS startups anymore.",
+      "imageUrl": "https://images.unsplash.com/photo-1550751827-4bd374c3f58b?w=800&q=80",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/03/01/investors-spill-what-they-arent-looking-for-anymore-in-ai-saas-companies/",
+      "publishedAt": "2026-03-01T17:00:00.000Z"
     },
     {
       "id": "9b3f7x",
@@ -219,33 +273,6 @@
       "publishedAt": "2026-02-27T19:07:28.000Z"
     },
     {
-      "id": "so79a0",
-      "title": "ChatGPT reaches 900M weekly active users",
-      "summary": "OpenAI shared the new numbers as part of its announcement that it has raised $110 billion in private funding.",
-      "imageUrl": "https://images.unsplash.com/photo-1485827404703-89b55fcc595e?w=800&q=80",
-      "source": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/02/27/chatgpt-reaches-900m-weekly-active-users/",
-      "publishedAt": "2026-02-27T18:25:51.000Z"
-    },
-    {
-      "id": "kwiyo2",
-      "title": "Who’s really running AI? Inside the billion-dollar battle over regulation with Alex Bores",
-      "summary": "The Pentagon is playing chicken with Anthropic over who gets to control how the military uses AI while communities across the country are blocking data center construction. As the AI debate has been flattened to “doomers versus boomers,” one state legislator is attempting to walk a middle road. On this episode of TechCrunch’s Equity podcast, Rebecca Bellan sits down with Alex Bores, a New York State Assemblymember and candidate for U.S. Congress. Bores sponsored New York’s […]",
-      "imageUrl": "https://images.unsplash.com/photo-1485827404703-89b55fcc595e?w=800&q=80",
-      "source": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/podcast/whos-really-running-ai-inside-the-billion-dollar-battle-over-regulation-with-alex-bores/",
-      "publishedAt": "2026-02-27T17:35:50.000Z"
-    },
-    {
-      "id": "6srx94",
-      "title": "AI music generator Suno hits 2M paid subscribers and $300M in annual recurring revenue",
-      "summary": "Suno lets users create music using natural language prompts, making it possible for people with little experience to generate audio with little effort.",
-      "imageUrl": "https://images.unsplash.com/photo-1531746790095-6c10a4031c5f?w=800&q=80",
-      "source": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/02/27/ai-music-generator-suno-hits-2-million-paid-subscribers-and-300m-in-annual-recurring-revenue/",
-      "publishedAt": "2026-02-27T17:22:02.000Z"
-    },
-    {
       "id": "3q89xh",
       "title": "AI vs. the Pentagon: killer robots, mass surveillance, and red lines",
       "summary": "WASHINGTON, DC - JANUARY 29: U.S. Secretary of War Pete Hegseth (C) speaks during a meeting of the Cabinet as U.S. President Donald Trump (L) and U.S. Commerce Secretary Howard Lutnick (R) listen in the Cabinet Room of the White House on January 29, 2026 in Washington, DC. President Trump is holding the meeting as the Senate plans to hold a vote on a spending package to avoid another government shutdown, however Democrats are holding out for a deal to consider funding for the Department of…",
@@ -327,15 +354,6 @@
       "publishedAt": "2026-02-27T00:01:10.000Z"
     },
     {
-      "id": "q2msda",
-      "title": "Anthropic refuses Pentagon’s new terms, standing firm on lethal autonomous weapons and mass surveillance",
-      "summary": "Less than 24 hours before the deadline in an ultimatum issued by the Pentagon, Anthropic has refused the Department of Defense's demands for unrestricted access to its AI. It's the culmination of a dramatic exchange of public statements, social media posts, and behind-the-scenes negotiations, coming down to Defense Secretary Pete Hegseth's desire to renegotiate all AI labs' current contracts with the military. But Anthropic, so far, has refused to back down from its two current red lines: no…",
-      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25469941/STK202_DARIO_AMODEI_CVIRGINIA_D.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "source": "The Verge",
-      "sourceUrl": "https://www.theverge.com/news/885773/anthropic-department-of-defense-dod-pentagon-refusal-terms-hegseth-dario-amodei",
-      "publishedAt": "2026-02-26T23:22:44.000Z"
-    },
-    {
       "id": "5uair9",
       "title": "‘Uncanny Valley’: Pentagon vs. ‘Woke’ Anthropic, Agentic vs. Mimetic, and Trump vs. State of the Union",
       "summary": "Our hosts unpack the news of the week, starting with the ongoing feud between Anthropic and the Pentagon. Plus: All you need to know about TAT-8 and undersea cables.",
@@ -343,15 +361,6 @@
       "source": "Wired",
       "sourceUrl": "https://www.wired.com/story/uncanny-valley-podcast-pentagon-anthropic-agentic-mimetic-trump-state-of-the-union/",
       "publishedAt": "2026-02-26T23:20:36.000Z"
-    },
-    {
-      "id": "1hxqrn",
-      "title": "Microsoft’s Copilot Tasks AI uses its own computer to get things done",
-      "summary": "Microsoft is previewing a new AI system, Copilot Tasks, that it says is designed to take care of busywork for you in the background, the company announced on Thursday. The feature takes the load off your device using its own cloud-based computer and browser, allowing it to handle a variety of jobs ranging from scheduling appointments to generating study plans while you do something else. As noted by Microsoft, you can describe what you need to Copilot Tasks using natural language, and assign…",
-      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25357668/STK259_MICROSOFT_COPILOT_2__C.png?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "source": "The Verge",
-      "sourceUrl": "https://www.theverge.com/tech/885741/microsoft-copilot-tasks-ai",
-      "publishedAt": "2026-02-26T22:56:09.000Z"
     },
     {
       "id": "6bhwe0",
@@ -415,15 +424,6 @@
       "source": "MIT Tech Review",
       "sourceUrl": "https://www.technologyreview.com/2026/02/26/1133584/america-china-mars-sample-return-space-race-nasa/",
       "publishedAt": "2026-02-26T10:00:00.000Z"
-    },
-    {
-      "id": "ru7r3j",
-      "title": "Roundtables: Why 2026 Is the Year for Sodium-Ion Batteries",
-      "summary": "Listen to the session or watch below Sodium-based batteries could be a cheaper, safer alternative to lithium-ion, and the technology is finally making its way into cars—and energy storage arrays on the grid. Sodium-ion batteries are one of MIT Technology Review’s 10 Breakthrough Technologies of 2026 list, and this subscriber-only discussion explains why. Watch a…",
-      "imageUrl": "https://images.unsplash.com/photo-1531746790095-6c10a4031c5f?w=800&q=80",
-      "source": "MIT Tech Review",
-      "sourceUrl": "https://www.technologyreview.com/2026/02/25/1132873/roundtables-why-2026-is-the-year-for-sodium-ion-batteries/",
-      "publishedAt": "2026-02-25T21:15:27.000Z"
     },
     {
       "id": "hax5kw",
