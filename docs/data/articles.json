@@ -1,7 +1,25 @@
 {
-  "fetchedAt": "2026-03-03T11:56:12.744Z",
+  "fetchedAt": "2026-03-03T14:12:02.861Z",
   "count": 60,
   "articles": [
+    {
+      "id": "pli75z",
+      "title": "The Download: The startup that says it can stop lightning, and inside OpenAI’s Pentagon deal",
+      "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. This startup claims it can stop lightning and prevent catastrophic wildfires Startup Skyward Wildfire says it can prevent catastrophic fires by stopping the lightning strikes that ignite them. So far, it hasn’t publicly…",
+      "imageUrl": "https://images.unsplash.com/photo-1676299081847-824916de030a?w=800&q=80",
+      "source": "MIT Tech Review",
+      "sourceUrl": "https://www.technologyreview.com/2026/03/03/1133900/the-download-the-startup-that-says-it-can-stop-lightning-and-inside-openais-pentagon-deal/",
+      "publishedAt": "2026-03-03T13:30:00.000Z"
+    },
+    {
+      "id": "2jphmw",
+      "title": "LLMs can unmask pseudonymous users at scale with surprising accuracy",
+      "summary": "Pseudonymity has never been perfect for preserving privacy. Soon it may be pointless.",
+      "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2026/03/unmask-deanymize-privacy-1152x648.jpg",
+      "source": "Ars Technica",
+      "sourceUrl": "https://arstechnica.com/security/2026/03/llms-can-unmask-pseudonymous-users-at-scale-with-surprising-accuracy/",
+      "publishedAt": "2026-03-03T12:30:24.000Z"
+    },
     {
       "id": "bln30j",
       "title": "This startup claims it can stop lightning and prevent catastrophic wildfires",
@@ -417,15 +435,6 @@
       "publishedAt": "2026-02-26T13:10:00.000Z"
     },
     {
-      "id": "81aon2",
-      "title": "This company claims a battery breakthrough. Now they need to prove it.",
-      "summary": "When a company claims to have created what’s essentially the holy grail of batteries, there are bound to be some questions. Interest has been swirling since Donut Lab, a Finnish company, announced last month that it had a new solid-state battery technology, one that was ready for large-scale production. The company said its batteries can…",
-      "imageUrl": "https://images.unsplash.com/photo-1526374965328-7f61d4dc18c5?w=800&q=80",
-      "source": "MIT Tech Review",
-      "sourceUrl": "https://www.technologyreview.com/2026/02/26/1133722/solid-state-batteries-donut-lab/",
-      "publishedAt": "2026-02-26T11:00:00.000Z"
-    },
-    {
       "id": "hax5kw",
       "title": "Password managers' promise that they can't see your vaults isn't always true",
       "summary": "Contrary to what password managers say, a server compromise can mean game over.",
@@ -532,15 +541,6 @@
       "source": "Ars Technica",
       "sourceUrl": "https://arstechnica.com/ai/2026/02/increase-of-ai-bots-on-the-internet-sparks-arms-race/",
       "publishedAt": "2026-02-05T14:21:20.000Z"
-    },
-    {
-      "id": "hb1v7d",
-      "title": "Microsoft releases urgent Office patch. Russian-state hackers pounce.",
-      "summary": "The window to patch vulnerabilities is shrinking rapidly.",
-      "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2024/01/russia-state-hacking.jpg",
-      "source": "Ars Technica",
-      "sourceUrl": "https://arstechnica.com/security/2026/02/russian-state-hackers-exploit-office-vulnerability-to-infect-computers/",
-      "publishedAt": "2026-02-04T23:08:04.000Z"
     }
   ]
 }
