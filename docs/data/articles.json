@@ -1,7 +1,61 @@
 {
-  "fetchedAt": "2026-03-02T20:50:49.265Z",
+  "fetchedAt": "2026-03-03T02:49:48.243Z",
   "count": 60,
   "articles": [
+    {
+      "id": "4nu1so",
+      "title": "Cursor has reportedly surpassed $2B in annualized revenue",
+      "summary": "The four-year-old startup saw its revenue run rate double over the past three months, according to one Bloomberg source.",
+      "imageUrl": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=800&q=80",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/03/02/cursor-has-reportedly-surpassed-2b-in-annualized-revenue/",
+      "publishedAt": "2026-03-03T01:53:59.000Z"
+    },
+    {
+      "id": "lisp8c",
+      "title": "What Is That Mysterious Metallic Device US Chief Design Officer Joe Gebbia Is Using?",
+      "summary": "Gebbia was reportedly spotted at a San Francisco coffee shop using an unidentified pair of earbuds with a circular disc that looks similar to the device seen in a recent OpenAI hoax ad.",
+      "imageUrl": "https://media.wired.com/photos/69a61e4e7c1057ec63585309/master/pass/Gear_JoeGebbia_GettyImages-1183210213.jpg",
+      "source": "Wired",
+      "sourceUrl": "https://www.wired.com/story/joe-gebbia-mystery-metallic-device/",
+      "publishedAt": "2026-03-03T01:06:01.000Z"
+    },
+    {
+      "id": "4ejlwn",
+      "title": "This AI Agent Is Ready to Serve, Mid-Phone Call",
+      "summary": "Deutsche Telekom, the German cell provider—which holds a majority stake in T-Mobile—is partnering with ElevenLabs to enable an AI assistant on all of its network’s calls in Germany. No app required.",
+      "imageUrl": "https://media.wired.com/photos/69a60357f5e4bf87e63fb28e/master/pass/sec-telecom-2259493480.jpg",
+      "source": "Wired",
+      "sourceUrl": "https://www.wired.com/story/deutsche-telekom-elevenlabs-ai-phone-calls-mwc-2026/",
+      "publishedAt": "2026-03-03T00:25:44.000Z"
+    },
+    {
+      "id": "2dpidb",
+      "title": "ChatGPT uninstalls surged by 295% after DoD deal",
+      "summary": "Many consumers ditched ChatGPT's app after news of its DoD deal went live, while Claude's downloads grew.",
+      "imageUrl": "https://images.unsplash.com/photo-1550751827-4bd374c3f58b?w=800&q=80",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/03/02/chatgpt-uninstalls-surged-by-295-after-dod-deal/",
+      "publishedAt": "2026-03-03T00:03:37.000Z"
+    },
+    {
+      "id": "ypjrk3",
+      "title": "No one has a good plan for how AI companies should work with the government",
+      "summary": "As OpenAI transitions from a wildly successful consumer startup into a piece of national security infrastructure, the company seems unequipped to manage its new responsibilities.",
+      "imageUrl": "https://images.unsplash.com/photo-1676299081847-824916de030a?w=800&q=80",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/03/02/openai-anthropic-department-of-defense-war-hegseth-ai-companies-work-with-us-government/",
+      "publishedAt": "2026-03-02T22:59:10.000Z"
+    },
+    {
+      "id": "dz8s8o",
+      "title": "Anthropic upgrades Claude’s memory to attract AI switchers",
+      "summary": "Anthropic is making it easier to switch to its Claude AI from other chatbots with an update that brings Claude's memory feature to users on the free plan, along with a new prompt and dedicated tool for importing data from other chatbots. These upgrades could allow users who have been using rivals like OpenAI's ChatGPT or Google's Gemini to quickly copy the data their preferred AI has collected on them and bring it over to Anthropic's chatbot. That way, they don't have to \"start over\" teaching…",
+      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/04/STK269_ANTHROPIC_A.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "source": "The Verge",
+      "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/887885/anthropic-claude-memory-upgrades-importing",
+      "publishedAt": "2026-03-02T22:29:46.000Z"
+    },
     {
       "id": "sk5bei",
       "title": "Apple might use Google servers to store data for its upgraded AI Siri",
@@ -12,10 +66,10 @@
       "publishedAt": "2026-03-02T20:22:33.000Z"
     },
     {
-      "id": "r72qgt",
-      "title": "Users are ditching ChatGPT for Claude. Here’s how to make the switch",
+      "id": "vlba9v",
+      "title": "Users are ditching ChatGPT for Claude — here’s how to make the switch",
       "summary": "Following controversies surrounding ChatGPT, many users are ditching the AI chatbot for Claude instead. Here's how to make the switch.",
-      "imageUrl": "https://images.unsplash.com/photo-1676299081847-824916de030a?w=800&q=80",
+      "imageUrl": "https://images.unsplash.com/photo-1526374965328-7f61d4dc18c5?w=800&q=80",
       "source": "TechCrunch",
       "sourceUrl": "https://techcrunch.com/2026/03/02/users-are-ditching-chatgpt-for-claude-heres-how-to-make-the-switch/",
       "publishedAt": "2026-03-02T18:42:11.000Z"
@@ -93,10 +147,10 @@
       "publishedAt": "2026-03-02T13:20:00.000Z"
     },
     {
-      "id": "5jqruo",
-      "title": "I checked out one of the biggest anti-AI protests ever",
+      "id": "c2phqe",
+      "title": "I checked out one of the biggest anti-AI protests yet",
       "summary": "Pull the plug! Pull the plug! Stop the slop! Stop the slop! For a few hours this Saturday, February 28, I watched as a couple of hundred anti-AI protesters marched through London’s King’s Cross tech hub, home to the UK headquarters of OpenAI, Meta, and Google DeepMind, chanting slogans and waving signs. The march was…",
-      "imageUrl": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=800&q=80",
+      "imageUrl": "https://images.unsplash.com/photo-1526374965328-7f61d4dc18c5?w=800&q=80",
       "source": "MIT Tech Review",
       "sourceUrl": "https://www.technologyreview.com/2026/03/02/1133814/i-checked-out-londons-biggest-ever-anti-ai-protest/",
       "publishedAt": "2026-03-02T12:55:20.000Z"
@@ -219,15 +273,6 @@
       "publishedAt": "2026-02-28T01:26:41.000Z"
     },
     {
-      "id": "nzk9wd",
-      "title": "Pentagon moves to designate Anthropic as a supply-chain risk",
-      "summary": "\"We don't need it, we don't want it, and will not do business with them again,\" the president wrote in the post.",
-      "imageUrl": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=800&q=80",
-      "source": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/02/27/pentagon-moves-to-designate-anthropic-as-a-supply-chain-risk/",
-      "publishedAt": "2026-02-27T21:53:14.000Z"
-    },
-    {
       "id": "9fdr0y",
       "title": "MIT Technology Review is a 2026 ASME finalist in reporting",
       "summary": "The American Society of Magazine Editors has named MIT Technology Review as a finalist for a 2026 National Magazine Award in the reporting category. The shortlisted story—“We did the math on AI’s energy footprint. Here’s the story you haven’t heard”—is part of the publication’s Power Hungry package on AI’s energy burden. AI is often described…",
@@ -253,24 +298,6 @@
       "source": "The Verge",
       "sourceUrl": "https://www.theverge.com/policy/886489/pentagon-anthropic-trump-dod",
       "publishedAt": "2026-02-27T21:30:47.000Z"
-    },
-    {
-      "id": "yegwwn",
-      "title": "Musk bashes OpenAI in deposition, saying ‘nobody committed suicide because of Grok’",
-      "summary": "In his lawsuit against OpenAI, Musk touted xAI safety compared with ChatGPT. A few months later, xAI's Grok flooded X with nonconsensual nude images.",
-      "imageUrl": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=800&q=80",
-      "source": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/02/27/musk-bashes-openai-in-deposition-saying-nobody-committed-suicide-because-of-grok/",
-      "publishedAt": "2026-02-27T19:42:00.000Z"
-    },
-    {
-      "id": "ydmuno",
-      "title": "Anthropic vs. the Pentagon: What’s actually at stake?",
-      "summary": "Anthropic and the Pentagon are clashing over AI use in autonomous weapons and surveillance, raising high-stakes questions about national security, corporate control, and who sets the rules for military AI.",
-      "imageUrl": "https://images.unsplash.com/photo-1620712943543-bcc4688e7485?w=800&q=80",
-      "source": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/02/27/anthropic-vs-the-pentagon-whats-actually-at-stake/",
-      "publishedAt": "2026-02-27T19:11:04.000Z"
     },
     {
       "id": "9xlyjh",
@@ -307,15 +334,6 @@
       "source": "Wired",
       "sourceUrl": "https://www.wired.com/story/wall-street-has-ai-psychosis/",
       "publishedAt": "2026-02-27T16:00:00.000Z"
-    },
-    {
-      "id": "i66dz0",
-      "title": "The Galaxy S26 is a photography nightmare",
-      "summary": "In many ways, Samsung's new phones are fairly normal upgrades. The S26 lines come with some useful new things - particularly the Privacy Display on the S26 Ultra, which looks like an extremely cool bit of tech and a really useful new feature - and a lot of iterative year-over-year changes. The new camera features, on the other hand, are neither of those things. They're something worse. Something scarier. Verge subscribers, don't forget you get exclusive access to ad-free Vergecast wherever you…",
-      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/02/VRG_VST_0227_Site.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "source": "The Verge",
-      "sourceUrl": "https://www.theverge.com/podcast/885942/samsung-galaxy-s26-ai-camera-nightmare-vergecast",
-      "publishedAt": "2026-02-27T15:15:52.000Z"
     },
     {
       "id": "4io2u9",
@@ -361,24 +379,6 @@
       "source": "Wired",
       "sourceUrl": "https://www.wired.com/story/uncanny-valley-podcast-pentagon-anthropic-agentic-mimetic-trump-state-of-the-union/",
       "publishedAt": "2026-02-26T23:20:36.000Z"
-    },
-    {
-      "id": "6bhwe0",
-      "title": "This AI Agent Is Designed to Not Go Rogue",
-      "summary": "The new open source project IronCurtain uses a unique method to secure and constrain AI assistant agents before they flip your digital life upside down.",
-      "imageUrl": "https://media.wired.com/photos/699f52078d98995524482b3a/master/pass/IronCurtain%20copy.jpg",
-      "source": "Wired",
-      "sourceUrl": "https://www.wired.com/story/ironcurtain-ai-agent-security/",
-      "publishedAt": "2026-02-26T20:54:51.000Z"
-    },
-    {
-      "id": "e8qmsh",
-      "title": "How Chinese AI Chatbots Censor Themselves",
-      "summary": "Researchers from Stanford and Princeton found that Chinese AI models are more likely than their Western counterparts to dodge political questions or deliver inaccurate answers.",
-      "imageUrl": "https://media.wired.com/photos/69a098f6eee135a5a2a133c5/master/pass/Made-In-China-Chinese-LLMs-Censored-Business-.jpg",
-      "source": "Wired",
-      "sourceUrl": "https://www.wired.com/story/made-in-china-how-chinese-ai-chatbots-censor-themselves/",
-      "publishedAt": "2026-02-26T20:08:08.000Z"
     },
     {
       "id": "crqumk",
