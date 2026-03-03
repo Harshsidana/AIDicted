@@ -1,7 +1,34 @@
 {
-  "fetchedAt": "2026-03-03T18:07:42.813Z",
+  "fetchedAt": "2026-03-03T19:59:33.971Z",
   "count": 60,
   "articles": [
+    {
+      "id": "ja36th",
+      "title": "Google’s latest Pixel drop allows Gemini to order groceries for you and more",
+      "summary": "Google is adding several new features to Pixel phones with its latest March update, including the ability for its Gemini AI assistant to do things for you, like order groceries or book a ride. This feature, which was first shown off during Samsung's Unpacked event last week, is rolling out now to the Pixel 10, Pixel 10 Pro, and Pixel 10 Pro XL. With Gemini's new agentic feature, you can ask the assistant to complete work on your behalf inside \"select\" apps, including Uber and Grubhub. It will…",
+      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/08/257917_Google_Pixel_10_review_AJohnson_0007.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "source": "The Verge",
+      "sourceUrl": "https://www.theverge.com/tech/888295/google-gemini-pixel-drop-march-2026",
+      "publishedAt": "2026-03-03T19:00:00.000Z"
+    },
+    {
+      "id": "3gjv4s",
+      "title": "X says it will suspend creators from revenue-sharing program for unlabeled AI posts of ‘armed conflict’",
+      "summary": "Creators who break the rules will get a three-month suspension, and if they continue to violate the policy, they'll be permanently banned.",
+      "imageUrl": "https://images.unsplash.com/photo-1526374965328-7f61d4dc18c5?w=800&q=80",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/03/03/x-says-it-will-suspend-creators-from-revenue-sharing-program-for-unlabeled-ai-posts-of-armed-conflict/",
+      "publishedAt": "2026-03-03T18:27:47.000Z"
+    },
+    {
+      "id": "ptr71n",
+      "title": "How the experts figure out what’s real in the age of deepfakes",
+      "summary": "You can help fight the spread of fake news by following these newsroom tips. | Image: Cath Virginia / The Verge, Getty Images In the days that followed the US and Israel's joint military strike on Iran on Saturday, floods of images and videos that supposedly document the war have appeared online. Some are old or depict unrelated conflicts, are made or manipulated with AI, and in some cases, are actually taken from military-themed video games like War Thunder. With misinformation spreading like…",
+      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/06/STKS515_CYBER_WARFARE_B.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "source": "The Verge",
+      "sourceUrl": "https://www.theverge.com/tech/888303/photo-video-fake-news-verification-nyt-bellingway",
+      "publishedAt": "2026-03-03T18:22:12.000Z"
+    },
     {
       "id": "mpok6y",
       "title": "MIT Technology Review Insiders Panel",
@@ -291,15 +318,6 @@
       "publishedAt": "2026-02-28T20:41:55.000Z"
     },
     {
-      "id": "mjleda",
-      "title": "OpenAI’s Sam Altman announces Pentagon deal with ‘technical safeguards’",
-      "summary": "OpenAI's CEO claims its new defense contract includes protections addressing the same issues that became a flashpoint for Anthropic.",
-      "imageUrl": "https://images.unsplash.com/photo-1550751827-4bd374c3f58b?w=800&q=80",
-      "source": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/02/28/openais-sam-altman-announces-pentagon-deal-with-technical-safeguards/",
-      "publishedAt": "2026-02-28T16:17:36.000Z"
-    },
-    {
       "id": "xluoc4",
       "title": "Anthropic Hits Back After US Military Labels It a ‘Supply Chain Risk’",
       "summary": "Anthropic says it would be “legally unsound” for the Pentagon to blacklist its technology after talks over military use of its artificial intelligence models broke down.",
@@ -307,15 +325,6 @@
       "source": "Wired",
       "sourceUrl": "https://www.wired.com/story/anthropic-supply-chain-risk-shockwaves-silicon-valley/",
       "publishedAt": "2026-02-28T03:30:41.000Z"
-    },
-    {
-      "id": "icz9b0",
-      "title": "Defense secretary Pete Hegseth designates Anthropic a supply chain risk",
-      "summary": "US President Donald Trump (R) looks on as US Secretary of Defense Pete Hegseth speaks to the press following US military actions in Venezuela | AFP via Getty Images Nearly two hours after President Donald Trump announced on Truth Social that he was banning Anthropic products from the federal government, Secretary of Defense Pete Hegseth took it one step further and announced that he was now designating the AI company as a \"supply-chain risk,\" which Anthropic says it is willing to challenge in…",
-      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/02/gettyimages-2253879905.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "source": "The Verge",
-      "sourceUrl": "https://www.theverge.com/policy/886632/pentagon-designates-anthropic-supply-chain-risk-ai-standoff",
-      "publishedAt": "2026-02-28T02:19:16.000Z"
     },
     {
       "id": "uo2cn5",
@@ -343,15 +352,6 @@
       "source": "Wired",
       "sourceUrl": "https://www.wired.com/story/trump-moves-to-ban-anthropic-from-the-us-government/",
       "publishedAt": "2026-02-27T21:36:31.000Z"
-    },
-    {
-      "id": "gmtz5u",
-      "title": "Trump orders federal agencies to drop Anthropic’s AI",
-      "summary": "On Friday afternoon, Donald Trump posted on Truth Social, accusing Anthropic, the AI company behind Claude, of attempting to \"STRONG-ARM\" the Pentagon and directing federal agencies to \"IMMEDIATELY CEASE\" use of its products. At issue is Anthropic CEO Dario Amodei's refusal of an updated agreement with the US military agreeing to \"any lawful use\" of Anthropic's technology, as Defense Secretary Pete Hegseth mandated in a January memo, to the frustration of many tech workers across the industry.…",
-      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/02/STK466_ELECTION_2024_CVirginia_E.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "source": "The Verge",
-      "sourceUrl": "https://www.theverge.com/policy/886489/pentagon-anthropic-trump-dod",
-      "publishedAt": "2026-02-27T21:30:47.000Z"
     },
     {
       "id": "9xlyjh",
