@@ -1,7 +1,52 @@
 {
-  "fetchedAt": "2026-03-04T13:15:02.346Z",
+  "fetchedAt": "2026-03-04T15:07:24.924Z",
   "count": 60,
   "articles": [
+    {
+      "id": "naid6j",
+      "title": "Father sues Google, claiming Gemini chatbot drove son into fatal delusion",
+      "summary": "A father is suing Google and Alphabet, alleging its Gemini chatbot reinforced his son’s delusional belief it was his AI wife and coached him toward suicide and a planned airport attack.",
+      "imageUrl": "https://images.unsplash.com/photo-1526374965328-7f61d4dc18c5?w=800&q=80",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/03/04/father-sues-google-claiming-gemini-chatbot-drove-son-into-fatal-delusion/",
+      "publishedAt": "2026-03-04T14:58:36.000Z"
+    },
+    {
+      "id": "anrr89",
+      "title": "AI is now part of the culture wars — and real wars",
+      "summary": "US Defense Secretary Pete Hegseth takes questions during a press conference on US military action in Iran, at the Pentagon in Washington, DC, on March 2, 2026. | Brendan Smialowsky/AFP via Getty Images Hello and welcome to Regulator, the newsletter for Verge subscribers that goes inside Washington's increasingly existential clashes between tech and politics. If this was forwarded to you, can I interest you in a full-fledged subscription to The Verge for only $40 a year? You'll get so much more…",
+      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/03/gettyimages-2263868498.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "source": "The Verge",
+      "sourceUrl": "https://www.theverge.com/column/888907/ai-culture-war-iran-pentagon-anthropic",
+      "publishedAt": "2026-03-04T14:15:03.000Z"
+    },
+    {
+      "id": "gp2qkr",
+      "title": "One startup’s pitch to provide more reliable AI answers: crowdsource the chatbots",
+      "summary": "CollectivIQ looks to give users more accurate answers to their AI queries by showing them responses that pull information from ChatGPT, Gemini, Claude, Grok — and up to 10 other models — all at the same time.",
+      "imageUrl": "https://images.unsplash.com/photo-1676299081847-824916de030a?w=800&q=80",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/03/04/one-startups-pitch-to-provide-more-reliable-ai-answers-crowdsource-the-chatbots/",
+      "publishedAt": "2026-03-04T14:00:00.000Z"
+    },
+    {
+      "id": "l9v5qu",
+      "title": "Bridging the operational AI gap",
+      "summary": "The transformational potential of AI is already well established. Enterprise use cases are building momentum and organizations are transitioning from pilot projects to AI in production. Companies are no longer just talking about AI; they are redirecting budgets and resources to make it happen. Many are already experimenting with agentic AI, which promises new levels…",
+      "imageUrl": "https://images.unsplash.com/photo-1655720828018-edd2daec9349?w=800&q=80",
+      "source": "MIT Tech Review",
+      "sourceUrl": "https://www.technologyreview.com/2026/03/04/1133642/bridging-the-operational-ai-gap/",
+      "publishedAt": "2026-03-04T14:00:00.000Z"
+    },
+    {
+      "id": "92ho83",
+      "title": "The Download: Earth’s rumblings, and AI for strikes on Iran",
+      "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. Listen to Earth’s rumbling, secret soundtrack The boom of a calving glacier. The crackling rumble of a wildfire. The roar of a surging storm front. They’re the noises of the living…",
+      "imageUrl": "https://images.unsplash.com/photo-1526374965328-7f61d4dc18c5?w=800&q=80",
+      "source": "MIT Tech Review",
+      "sourceUrl": "https://www.technologyreview.com/2026/03/04/1133942/the-download-earths-rumblings-and-ai-for-strikes-on-iran/",
+      "publishedAt": "2026-03-04T13:12:00.000Z"
+    },
     {
       "id": "7h8vkp",
       "title": "Raycast’s Glaze is an all-in-one vibe coding app platform",
@@ -48,8 +93,8 @@
       "publishedAt": "2026-03-03T23:16:36.000Z"
     },
     {
-      "id": "yoc30b",
-      "title": "Downdetector, Speedtest sold to IT service provider Accenture in $1.2B deal",
+      "id": "qmksig",
+      "title": "Downdetector, Speedtest sold to IT service-provider Accenture in $1.2B deal",
       "summary": "Accenture plans to buy Ookla, which also includes RootMetrics and Ekahau.",
       "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2026/03/GettyImages-1795499144-1152x648.jpg",
       "source": "Ars Technica",
@@ -264,15 +309,6 @@
       "publishedAt": "2026-03-02T17:18:34.000Z"
     },
     {
-      "id": "b7lljn",
-      "title": "Nvidia’s spending $4 billion on photonics to stay ahead of the curve in AI",
-      "summary": "Nvidia announced on Monday that it's investing $2 billion each into Lumentum and Coherent, which are both developing photonics technology for data centers, like optical transceivers, circuit switches, and lasers, which are used to move data at high speeds over long distances. Their tech could improve energy efficiency, data transfer speeds, and bandwidth in future AI data centers, after Nvidia already capitalized on its 2020 acquisition of the network hardware company Mellanox to beef up NVLink…",
-      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/06/STK083_NVIDIA_2.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "source": "The Verge",
-      "sourceUrl": "https://www.theverge.com/tech/887635/nvidia-ai-photonics-lumentum-coherent",
-      "publishedAt": "2026-03-02T16:56:49.000Z"
-    },
-    {
       "id": "5tluj3",
       "title": "A married founder duo’s company, 14.ai, is replacing customer support teams at startups",
       "summary": "14.ai also launched a consumer brand to understand how much AI can handle customer support tasks.",
@@ -280,15 +316,6 @@
       "source": "TechCrunch",
       "sourceUrl": "https://techcrunch.com/2026/03/02/a-married-founder-duos-company-14-ai-is-replacing-customer-support-teams-at-startups/",
       "publishedAt": "2026-03-02T15:14:36.000Z"
-    },
-    {
-      "id": "kjhv90",
-      "title": "Anthropic’s Claude reports widespread outage",
-      "summary": "Anthropic's AI chatbot Claude experienced widespread service disruptions on Monday morning, with thousands of users reporting issues accessing the bot.",
-      "imageUrl": "https://images.unsplash.com/photo-1526374965328-7f61d4dc18c5?w=800&q=80",
-      "source": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/03/02/anthropics-claude-reports-widespread-outage/",
-      "publishedAt": "2026-03-02T13:31:49.000Z"
     },
     {
       "id": "g3eewp",
@@ -316,15 +343,6 @@
       "source": "Wired",
       "sourceUrl": "https://www.wired.com/story/ai-supremacy-data-center-expansion-arctic-circle/",
       "publishedAt": "2026-03-02T10:00:00.000Z"
-    },
-    {
-      "id": "mtpky9",
-      "title": "Google looks to tackle longstanding RCS spam in India — but not alone",
-      "summary": "Google is integrating carrier-level filtering into RCS in India through a partnership with Airtel to strengthen protections against spam.",
-      "imageUrl": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=800&q=80",
-      "source": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/03/01/google-looks-to-tackle-longstanding-rcs-spam-in-india-but-not-alone/",
-      "publishedAt": "2026-03-01T17:30:00.000Z"
     },
     {
       "id": "xluoc4",
@@ -399,15 +417,6 @@
       "publishedAt": "2026-02-27T12:00:00.000Z"
     },
     {
-      "id": "nm2ows",
-      "title": "AI is rewiring how the world’s best Go players think",
-      "summary": "Burrowed in the alleys of Hongik-dong, a hushed residential neighborhood in eastern Seoul, is a faded stone-tiled building stamped “Korea Baduk Association,” the governing body for professional Go. The game is an ancient one, with sacred stature in South Korea. But inside the building, rooms once filled with the soft clatter of hands dipping into…",
-      "imageUrl": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=800&q=80",
-      "source": "MIT Tech Review",
-      "sourceUrl": "https://www.technologyreview.com/2026/02/27/1133624/ai-is-rewiring-how-the-worlds-best-go-players-think/",
-      "publishedAt": "2026-02-27T10:00:00.000Z"
-    },
-    {
       "id": "ucxhmo",
       "title": "Hands-On With Nano Banana 2, the Latest Version of Google’s AI Image Generator",
       "summary": "Google’s latest image model, Nano Banana 2, is a powerful AI photo editor that punctures reality. Well, sometimes.",
@@ -433,15 +442,6 @@
       "source": "Ars Technica",
       "sourceUrl": "https://arstechnica.com/security/2026/02/new-airsnitch-attack-breaks-wi-fi-encryption-in-homes-offices-and-enterprises/",
       "publishedAt": "2026-02-26T15:45:18.000Z"
-    },
-    {
-      "id": "f4ps3d",
-      "title": "Finding value with AI and Industry 5.0 transformation",
-      "summary": "For years, Industry 4.0 transformation has centered on the convergence of intelligent technologies like AI, cloud, the internet of things, robotics, and digital twins. Industry 5.0 marks a pivotal shift from integrating emerging technologies to orchestrating them at scale. With Industry 5.0, the purpose of this interconnected web of technologies is more nuanced: to augment…",
-      "imageUrl": "https://images.unsplash.com/photo-1531746790095-6c10a4031c5f?w=800&q=80",
-      "source": "MIT Tech Review",
-      "sourceUrl": "https://www.technologyreview.com/2026/02/26/1133707/finding-value-with-ai-and-industry-5-0-transformation/",
-      "publishedAt": "2026-02-26T15:00:59.000Z"
     },
     {
       "id": "hax5kw",
