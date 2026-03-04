@@ -1,7 +1,43 @@
 {
-  "fetchedAt": "2026-03-04T17:11:07.488Z",
+  "fetchedAt": "2026-03-04T19:22:31.834Z",
   "count": 60,
   "articles": [
+    {
+      "id": "1jhfim",
+      "title": "Google’s AI-powered workspace is now available to more users in Search",
+      "summary": "Google is bringing Canvas to everyone in the US using AI Mode in Search. The feature opens up a dedicated workspace within its AI-powered search tool, allowing it to use the latest information from Search to organize plans, develop tools, and draft documents in a panel alongside your chat. Though Google initially launched Canvas inside its Gemini app as a way to create documents and code in real-time, it later tested the feature in AI Mode - but only for visualizing travel plans. Now, you can…",
+      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/03/Canvas-in-AI-Mode-scholarship-tracker.png?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "source": "The Verge",
+      "sourceUrl": "https://www.theverge.com/tech/889339/google-canvas-ai-mode-search-us-launch",
+      "publishedAt": "2026-03-04T18:57:01.000Z"
+    },
+    {
+      "id": "9068mp",
+      "title": "Google’s Gemini rolls out Canvas in AI Mode to all US users",
+      "summary": "Canvas in AI Mode is available to U.S. users in English for creating plans, projects, apps, and more.",
+      "imageUrl": "https://images.unsplash.com/photo-1676299081847-824916de030a?w=800&q=80",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/03/04/googles-gemini-rolls-out-canvas-in-ai-mode-to-all-us-users/",
+      "publishedAt": "2026-03-04T18:50:58.000Z"
+    },
+    {
+      "id": "dexr2r",
+      "title": "Decagon completes first tender offer at $4.5B valuation",
+      "summary": "The AI-powered customer support startup is the latest example of a fast-growing, young company that's providing employee liquidity.",
+      "imageUrl": "https://images.unsplash.com/photo-1635070041078-e363dbe005cb?w=800&q=80",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/03/04/decagon-completes-first-tender-offer-at-4-5b-valuation/",
+      "publishedAt": "2026-03-04T18:32:53.000Z"
+    },
+    {
+      "id": "kb8tks",
+      "title": "The US military is still using Claude — but defense-tech clients are fleeing",
+      "summary": "As the U.S. continues its aerial attack on Iran, Anthropic models are being used for many targeting decisions.",
+      "imageUrl": "https://images.unsplash.com/photo-1676299081847-824916de030a?w=800&q=80",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/03/04/the-us-military-is-still-using-claude-but-defense-tech-clients-are-fleeing/",
+      "publishedAt": "2026-03-04T17:20:01.000Z"
+    },
     {
       "id": "yqs1tf",
       "title": "Google faces wrongful death lawsuit after Gemini allegedly ‘coached’ man to die by suicide",
@@ -30,10 +66,10 @@
       "publishedAt": "2026-03-04T14:15:03.000Z"
     },
     {
-      "id": "gp2qkr",
-      "title": "One startup’s pitch to provide more reliable AI answers: crowdsource the chatbots",
+      "id": "jrkxyj",
+      "title": "One startup’s pitch to provide more reliable AI answers: Crowdsource the chatbots",
       "summary": "CollectivIQ looks to give users more accurate answers to their AI queries by showing them responses that pull information from ChatGPT, Gemini, Claude, Grok — and up to 10 other models — all at the same time.",
-      "imageUrl": "https://images.unsplash.com/photo-1676299081847-824916de030a?w=800&q=80",
+      "imageUrl": "https://images.unsplash.com/photo-1635070041078-e363dbe005cb?w=800&q=80",
       "source": "TechCrunch",
       "sourceUrl": "https://techcrunch.com/2026/03/04/one-startups-pitch-to-provide-more-reliable-ai-answers-crowdsource-the-chatbots/",
       "publishedAt": "2026-03-04T14:00:00.000Z"
@@ -273,24 +309,6 @@
       "publishedAt": "2026-03-02T22:29:46.000Z"
     },
     {
-      "id": "sk5bei",
-      "title": "Apple might use Google servers to store data for its upgraded AI Siri",
-      "summary": "Apple has asked Google to look into \"setting up servers\" for a new version of Siri that's Gemini-powered and meets Apple's privacy requirements, The Information reports. Apple had already announced in January that Google's Gemini AI models would help power the upgraded version of Siri it delayed last year, but The Information's report indicates Apple might lean even more on Google so it can catch up in AI. The original partnership announcement said that \"the next generation of Apple Foundation…",
-      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25697396/STK071_APPLE_M.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "source": "The Verge",
-      "sourceUrl": "https://www.theverge.com/tech/887802/apple-ai-siri-google-servers",
-      "publishedAt": "2026-03-02T20:22:33.000Z"
-    },
-    {
-      "id": "vlba9v",
-      "title": "Users are ditching ChatGPT for Claude — here’s how to make the switch",
-      "summary": "Following controversies surrounding ChatGPT, many users are ditching the AI chatbot for Claude instead. Here's how to make the switch.",
-      "imageUrl": "https://images.unsplash.com/photo-1526374965328-7f61d4dc18c5?w=800&q=80",
-      "source": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/03/02/users-are-ditching-chatgpt-for-claude-heres-how-to-make-the-switch/",
-      "publishedAt": "2026-03-02T18:42:11.000Z"
-    },
-    {
       "id": "ocr2zp",
       "title": "OpenAI’s “compromise” with the Pentagon is what Anthropic feared",
       "summary": "On February 28, OpenAI announced it had reached a deal that will allow the US military to use its technologies in classified settings. CEO Sam Altman said the negotiations, which the company began pursuing only after the Pentagon’s public reprimand of Anthropic, were “definitely rushed.” In its announcements, OpenAI took great pains to say that…",
@@ -298,24 +316,6 @@
       "source": "MIT Tech Review",
       "sourceUrl": "https://www.technologyreview.com/2026/03/02/1133850/openais-compromise-with-the-pentagon-is-what-anthropic-feared/",
       "publishedAt": "2026-03-02T17:29:42.000Z"
-    },
-    {
-      "id": "k7c7nx",
-      "title": "Tech workers urge DOD, Congress to withdraw Anthropic label as a supply-chain risk",
-      "summary": "Tech workers have signed an open letter urging the Department of Defense to withdraw its designation of Anthropic as a \"supply chain risk\" and instead to settle the matter quietly.",
-      "imageUrl": "https://images.unsplash.com/photo-1531746790095-6c10a4031c5f?w=800&q=80",
-      "source": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/03/02/tech-workers-urge-dod-congress-to-withdraw-anthropic-label-as-a-supply-chain-risk/",
-      "publishedAt": "2026-03-02T17:18:34.000Z"
-    },
-    {
-      "id": "5tluj3",
-      "title": "A married founder duo’s company, 14.ai, is replacing customer support teams at startups",
-      "summary": "14.ai also launched a consumer brand to understand how much AI can handle customer support tasks.",
-      "imageUrl": "https://images.unsplash.com/photo-1620712943543-bcc4688e7485?w=800&q=80",
-      "source": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/03/02/a-married-founder-duos-company-14-ai-is-replacing-customer-support-teams-at-startups/",
-      "publishedAt": "2026-03-02T15:14:36.000Z"
     },
     {
       "id": "g3eewp",
