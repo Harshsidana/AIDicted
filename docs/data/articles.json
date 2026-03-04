@@ -1,7 +1,16 @@
 {
-  "fetchedAt": "2026-03-03T23:35:27.031Z",
+  "fetchedAt": "2026-03-04T02:42:41.038Z",
   "count": 60,
   "articles": [
+    {
+      "id": "mah8sh",
+      "title": "Why AI startups are selling the same equity at two different prices",
+      "summary": "Some AI founders are using a novel valuation mechanism to manufacture unicorn status.",
+      "imageUrl": "https://images.unsplash.com/photo-1676299081847-824916de030a?w=800&q=80",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/03/03/why-ai-startups-are-selling-the-same-equity-at-two-different-prices/",
+      "publishedAt": "2026-03-04T00:31:25.000Z"
+    },
     {
       "id": "kp53aq",
       "title": "Alibaba’s Qwen tech lead steps down after major AI push",
@@ -316,15 +325,6 @@
       "source": "TechCrunch",
       "sourceUrl": "https://techcrunch.com/2026/03/01/investors-spill-what-they-arent-looking-for-anymore-in-ai-saas-companies/",
       "publishedAt": "2026-03-01T17:00:00.000Z"
-    },
-    {
-      "id": "9b3f7x",
-      "title": "OpenAI reveals more details about its agreement with the Pentagon",
-      "summary": "By CEO Sam Altman’s own admission, OpenAI’s deal with the Department of Defense was “definitely rushed,” and “the optics don’t look good.”",
-      "imageUrl": "https://images.unsplash.com/photo-1550751827-4bd374c3f58b?w=800&q=80",
-      "source": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/03/01/openai-shares-more-details-about-its-agreement-with-the-pentagon/",
-      "publishedAt": "2026-03-01T16:30:10.000Z"
     },
     {
       "id": "xluoc4",
