@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-03-04T19:22:31.834Z",
+  "fetchedAt": "2026-03-04T20:00:20.489Z",
   "count": 60,
   "articles": [
     {
@@ -264,24 +264,6 @@
       "publishedAt": "2026-03-03T01:53:59.000Z"
     },
     {
-      "id": "lisp8c",
-      "title": "What Is That Mysterious Metallic Device US Chief Design Officer Joe Gebbia Is Using?",
-      "summary": "Gebbia was reportedly spotted at a San Francisco coffee shop using an unidentified pair of earbuds with a circular disc that looks similar to the device seen in a recent OpenAI hoax ad.",
-      "imageUrl": "https://media.wired.com/photos/69a61e4e7c1057ec63585309/master/pass/Gear_JoeGebbia_GettyImages-1183210213.jpg",
-      "source": "Wired",
-      "sourceUrl": "https://www.wired.com/story/joe-gebbia-mystery-metallic-device/",
-      "publishedAt": "2026-03-03T01:06:01.000Z"
-    },
-    {
-      "id": "us26i8",
-      "title": "Summon This AI Agent by Speaking Its Wake Word Mid-Phone Call",
-      "summary": "Deutsche Telekom, the German cell provider—which holds a majority stake in T-Mobile—is partnering with ElevenLabs to enable an AI assistant on all of its network’s calls in Germany. No app required.",
-      "imageUrl": "https://media.wired.com/photos/69a60357f5e4bf87e63fb28e/master/pass/sec-telecom-2259493480.jpg",
-      "source": "Wired",
-      "sourceUrl": "https://www.wired.com/story/deutsche-telekom-elevenlabs-ai-phone-calls-mwc-2026/",
-      "publishedAt": "2026-03-03T00:25:44.000Z"
-    },
-    {
       "id": "2dpidb",
       "title": "ChatGPT uninstalls surged by 295% after DoD deal",
       "summary": "Many consumers ditched ChatGPT's app after news of its DoD deal went live, while Claude's downloads grew.",
@@ -336,24 +318,6 @@
       "publishedAt": "2026-03-02T12:55:20.000Z"
     },
     {
-      "id": "ncmz6y",
-      "title": "The Data Centers Have Arrived at the Edge of the Arctic Circle",
-      "summary": "As AI labs gorge themselves on compute, data center operators have headed north in search of cheap and plentiful energy.",
-      "imageUrl": "https://media.wired.com/photos/699f79c89c1839834b2d7742/master/pass/Arctic-Circle-Next-Frontier-In-AI-Infrastructure-Wars-Business-2163338735.jpg",
-      "source": "Wired",
-      "sourceUrl": "https://www.wired.com/story/ai-supremacy-data-center-expansion-arctic-circle/",
-      "publishedAt": "2026-03-02T10:00:00.000Z"
-    },
-    {
-      "id": "xluoc4",
-      "title": "Anthropic Hits Back After US Military Labels It a ‘Supply Chain Risk’",
-      "summary": "Anthropic says it would be “legally unsound” for the Pentagon to blacklist its technology after talks over military use of its artificial intelligence models broke down.",
-      "imageUrl": "https://media.wired.com/photos/69a23b028618f79c55732aa9/master/pass/Anthropic-Supply-Chain-Risk-Business-2261589216.jpg",
-      "source": "Wired",
-      "sourceUrl": "https://www.wired.com/story/anthropic-supply-chain-risk-shockwaves-silicon-valley/",
-      "publishedAt": "2026-02-28T03:30:41.000Z"
-    },
-    {
       "id": "uo2cn5",
       "title": "Google quantum-proofs HTTPS by squeezing 15kB of data into 700-byte space",
       "summary": "Merkle Tree Certificate support is already in Chrome. Soon, it will be everywhere.",
@@ -381,24 +345,6 @@
       "publishedAt": "2026-02-27T21:36:31.000Z"
     },
     {
-      "id": "9xlyjh",
-      "title": "OpenAI Fires an Employee for Prediction Market Insider Trading",
-      "summary": "Prediction markets like Polymarket and Kalshi are big business, and some Big Tech employees are testing boundaries by making trades based on insider knowledge.",
-      "imageUrl": "https://media.wired.com/photos/69a0b01c157af8f83feddf9b/master/pass/OpenAI-Employee-Fired-Insider-Trading-Business-2210029299.jpg",
-      "source": "Wired",
-      "sourceUrl": "https://www.wired.com/story/openai-fires-employee-insider-trading-polymarket-kalshi/",
-      "publishedAt": "2026-02-27T19:07:28.000Z"
-    },
-    {
-      "id": "3do2l2",
-      "title": "Wall Street Has AI Psychosis",
-      "summary": "A “thought experiment” about the impacts of AI sent stocks tumbling earlier this week. It’s probably going to keep happening.",
-      "imageUrl": "https://media.wired.com/photos/69a099a68b4e433f4999c9c4/master/pass/Backchannel-Wall-Street-Has-AI-Psychosis-Business-2207816119.jpg",
-      "source": "Wired",
-      "sourceUrl": "https://www.wired.com/story/wall-street-has-ai-psychosis/",
-      "publishedAt": "2026-02-27T16:00:00.000Z"
-    },
-    {
       "id": "4io2u9",
       "title": "The Download: how AI is shaking up Go, and a cybersecurity mystery",
       "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. AI is rewiring how the world’s best Go players think Ten years ago AlphaGo, Google DeepMind’s AI program, stunned the world by defeating the South Korean Go player Lee Sedol. And in the…",
@@ -424,15 +370,6 @@
       "source": "Wired",
       "sourceUrl": "https://www.wired.com/story/google-nano-banana-2-ai-image-generator-hands-on/",
       "publishedAt": "2026-02-27T00:01:10.000Z"
-    },
-    {
-      "id": "5uair9",
-      "title": "‘Uncanny Valley’: Pentagon vs. ‘Woke’ Anthropic, Agentic vs. Mimetic, and Trump vs. State of the Union",
-      "summary": "Our hosts unpack the news of the week, starting with the ongoing feud between Anthropic and the Pentagon. Plus: All you need to know about TAT-8 and undersea cables.",
-      "imageUrl": "https://media.wired.com/photos/699f61371e8ef8a5fdf2a3b3/master/pass/Uncanny-Valley-Podcast-Anthropic-Pentagon-Politics-2262730524.jpg",
-      "source": "Wired",
-      "sourceUrl": "https://www.wired.com/story/uncanny-valley-podcast-pentagon-anthropic-agentic-mimetic-trump-state-of-the-union/",
-      "publishedAt": "2026-02-26T23:20:36.000Z"
     },
     {
       "id": "crqumk",
@@ -541,6 +478,69 @@
       "source": "Ars Technica",
       "sourceUrl": "https://arstechnica.com/information-technology/2026/02/openai-is-hoppin-mad-about-anthropics-new-super-bowl-tv-ads/",
       "publishedAt": "2026-02-05T17:46:59.000Z"
+    },
+    {
+      "id": "mu7fna",
+      "title": "Railway secures $100 million to challenge AWS with AI-native cloud infrastructure",
+      "summary": "Railway, a San Francisco-based cloud platform that has quietly amassed two million developers without spending a dollar on marketing, announced Thursday that it raised $100 million in a Series B funding round, as surging demand for artificial intelligence applications exposes the limitations of legacy cloud infrastructure.TQ Ventures led the round, with participation from FPV Ventures, Redpoint, and Unusual Ventures. The investment values Railway as one of the most significant infrastructure…",
+      "imageUrl": "https://images.ctfassets.net/jdtwqhzvc2n1/5RLyQIpBeVXxv0RpcXZxWQ/fd9680c6d82acd8208ac341fc575f5fb/nuneybits_Vector_art_of_a_sleek_bullet_train_bursting_from_a_cl_32a805aa-272c-4b34-ac16-cf20508b7ff4.webp?w=300&q=30",
+      "source": "VentureBeat",
+      "sourceUrl": "https://venturebeat.com/infrastructure/railway-secures-usd100-million-to-challenge-aws-with-ai-native-cloud",
+      "publishedAt": "2026-01-22T14:00:00.000Z"
+    },
+    {
+      "id": "cebvn8",
+      "title": "Claude Code costs up to $200 a month. Goose does the same thing for free.",
+      "summary": "The artificial intelligence coding revolution comes with a catch: it's expensive.Claude Code, Anthropic's terminal-based AI agent that can write, debug, and deploy code autonomously, has captured the imagination of software developers worldwide. But its pricing — ranging from $20 to $200 per month depending on usage — has sparked a growing rebellion among the very programmers it aims to serve.Now, a free alternative is gaining traction. Goose, an open-source AI agent developed by Block (the…",
+      "imageUrl": "https://images.ctfassets.net/jdtwqhzvc2n1/1U9H8GLIqoGqKpitVfgw3T/ba56292f99409eca709dac0b176ec245/nuneybits_Vector_art_of_white_goose_silhouette_flying_through_c_8100d5a7-9e36-4ed6-a188-016470e1d0e1.webp?w=300&q=30",
+      "source": "VentureBeat",
+      "sourceUrl": "https://venturebeat.com/infrastructure/claude-code-costs-up-to-usd200-a-month-goose-does-the-same-thing-for-free",
+      "publishedAt": "2026-01-19T14:00:00.000Z"
+    },
+    {
+      "id": "r8kdee",
+      "title": "Listen Labs raises $69M after viral billboard hiring stunt to scale AI customer interviews",
+      "summary": "Alfred Wahlforss was running out of options. His startup, Listen Labs, needed to hire over 100 engineers, but competing against Mark Zuckerberg's $100 million offers seemed impossible. So he spent $5,000 — a fifth of his marketing budget — on a billboard in San Francisco displaying what looked like gibberish: five strings of random numbers.The numbers were actually AI tokens. Decoded, they led to a coding challenge: build an algorithm to act as a digital bouncer at Berghain, the Berlin nightclub…",
+      "imageUrl": "https://images.ctfassets.net/jdtwqhzvc2n1/4gD12ThOmNHZuosqC4xCTz/277b1e8968da602108a29fae2eaca440/nuneybits_Vector_art_of_billboard_with_cryptic_code_dbe5b0ff-7644-45e6-a1ca-4a5dceeff986.webp?w=300&q=30",
+      "source": "VentureBeat",
+      "sourceUrl": "https://venturebeat.com/technology/listen-labs-raises-usd69m-after-viral-billboard-hiring-stunt-to-scale-ai",
+      "publishedAt": "2026-01-16T14:01:00.000Z"
+    },
+    {
+      "id": "7iwkkc",
+      "title": "Salesforce rolls out new Slackbot AI agent as it battles Microsoft and Google in workplace AI",
+      "summary": "Salesforce on Tuesday launched an entirely rebuilt version of Slackbot, the company's workplace assistant, transforming it from a simple notification tool into what executives describe as a fully powered AI agent capable of searching enterprise data, drafting documents, and taking action on behalf of employees.The new Slackbot, now generally available to Business+ and Enterprise+ customers, is Salesforce's most aggressive move yet to position Slack at the center of the emerging \"agentic AI\"…",
+      "imageUrl": "https://images.ctfassets.net/jdtwqhzvc2n1/4Xrcg14GLKFlwSEnuEzxyS/21c85d29d03c4c974076475c009e3b38/nuneybits_Vector_art_of_chat_bubbles_on_a_computer_screen_in_th_5018a7ea-3496-4103-8453-7ba1b129189a.webp?w=300&q=30",
+      "source": "VentureBeat",
+      "sourceUrl": "https://venturebeat.com/technology/salesforce-rolls-out-new-slackbot-ai-agent-as-it-battles-microsoft-and",
+      "publishedAt": "2026-01-13T13:00:00.000Z"
+    },
+    {
+      "id": "4zai7e",
+      "title": "Anthropic launches Cowork, a Claude Desktop agent that works in your files — no coding required",
+      "summary": "Anthropic released Cowork on Monday, a new AI agent capability that extends the power of its wildly successful Claude Code tool to non-technical users — and according to company insiders, the team built the entire feature in approximately a week and a half, largely using Claude Code itself.The launch marks a major inflection point in the race to deliver practical AI agents to mainstream users, positioning Anthropic to compete not just with OpenAI and Google in conversational AI, but with…",
+      "imageUrl": "https://images.ctfassets.net/jdtwqhzvc2n1/wHv1Wez7Ps9wYVYAo9fwT/14b41f606dbf1f5b17994be510407449/nuneybits_Hyper-realistic_image_of_a_retro_computer_with_a_glos_61ffb6e2-7c33-4d45-85f7-69c28693b3ec.webp?w=300&q=30",
+      "source": "VentureBeat",
+      "sourceUrl": "https://venturebeat.com/technology/anthropic-launches-cowork-a-claude-desktop-agent-that-works-in-your-files-no",
+      "publishedAt": "2026-01-12T11:30:00.000Z"
+    },
+    {
+      "id": "yc5ua8",
+      "title": "Nous Research's NousCoder-14B is an open-source coding model landing right in the Claude Code moment",
+      "summary": "Nous Research, the open-source artificial intelligence startup backed by crypto venture firm Paradigm, released a new competitive programming model on Monday that it says matches or exceeds several larger proprietary systems — trained in just four days using 48 of Nvidia's latest B200 graphics processors.The model, called NousCoder-14B, is another entry in a crowded field of AI coding assistants, but arrives at a particularly charged moment: Claude Code, the agentic programming tool from rival…",
+      "imageUrl": "https://images.ctfassets.net/jdtwqhzvc2n1/66Tw6dMGGoSZZOK6XB6gm6/0fafc7520898e26c88edf1de9e74e863/nuneybits_Vector_art_of_radiant_skull_emitting_code_beams_deep__17d19acc-0af7-41ad-ac28-16f09ef5234b.webp?w=300&q=30",
+      "source": "VentureBeat",
+      "sourceUrl": "https://venturebeat.com/technology/nous-researchs-nouscoder-14b-is-an-open-source-coding-model-landing-right-in",
+      "publishedAt": "2026-01-07T20:00:00.000Z"
+    },
+    {
+      "id": "i2g44f",
+      "title": "The creator of Claude Code just revealed his workflow, and developers are losing their minds",
+      "summary": "When the creator of the world's most advanced coding agent speaks, Silicon Valley doesn't just listen — it takes notes.For the past week, the engineering community has been dissecting a thread on X from Boris Cherny, the creator and head of Claude Code at Anthropic. What began as a casual sharing of his personal terminal setup has spiraled into a viral manifesto on the future of software development, with industry insiders calling it a watershed moment for the startup.\"If you're not reading the…",
+      "imageUrl": "https://images.ctfassets.net/jdtwqhzvc2n1/6VsJWNsStTR57q9vFd5L08/a0d88b4dcbd1e9ba77fd72a9c55988d9/nuneybits_Vector_art_of_programmer_conducting_robot_orchestra_i_908157a9-d44f-4bce-b390-5913b88dad27.webp?w=300&q=30",
+      "source": "VentureBeat",
+      "sourceUrl": "https://venturebeat.com/technology/the-creator-of-claude-code-just-revealed-his-workflow-and-developers-are",
+      "publishedAt": "2026-01-05T07:45:00.000Z"
     }
   ]
 }
