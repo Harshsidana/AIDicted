@@ -1,7 +1,34 @@
 {
-  "fetchedAt": "2026-03-05T08:02:14.668Z",
+  "fetchedAt": "2026-03-05T11:57:40.522Z",
   "count": 60,
   "articles": [
+    {
+      "id": "qpkn75",
+      "title": "Anthropic makes last-ditch effort to salvage deal with Pentagon after blowup",
+      "summary": "Anthropic CEO Dario Amodei is reportedly back at the negotiating table with the Department of Defense in an attempt to salvage the company's relationship with the US military and prevent it from being iced out of defense work for being a \"supply chain risk.\" Talks between the two parties imploded on Friday after weeks of bitter public feuding over the startup's refusal to grant the Pentagon unrestricted access to its AI, with rivals like OpenAI rushing to fill the void. Amodei is in talks with…",
+      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/03/STK202_DARIO_AMODEI_CVIRGINIA_D.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "source": "The Verge",
+      "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/889782/anthropic-pentagon-discussions-ai-deal",
+      "publishedAt": "2026-03-05T11:46:46.000Z"
+    },
+    {
+      "id": "77qwr3",
+      "title": "How much wildfire prevention is too much?",
+      "summary": "The race to prevent the worst wildfires has been an increasingly high-tech one. Companies are proposing AI fire detection systems and drones that can stamp out early blazes. And now, one Canadian startup says it’s going after lightning. Lightning-sparked fires can be a big deal: The Canadian wildfires of 2023 generated nearly 500 million metric…",
+      "imageUrl": "https://images.unsplash.com/photo-1550751827-4bd374c3f58b?w=800&q=80",
+      "source": "MIT Tech Review",
+      "sourceUrl": "https://www.technologyreview.com/2026/03/05/1133960/wildfire-prevention-limits/",
+      "publishedAt": "2026-03-05T11:00:00.000Z"
+    },
+    {
+      "id": "u1ygwq",
+      "title": "Online harassment is entering its AI era",
+      "summary": "Scott Shambaugh didn’t think twice when he denied an AI agent’s request to contribute to matplotlib, a software library that he helps manage. Like many open-source projects, matplotlib has been overwhelmed by a glut of AI code contributions, and so Shambaugh and his fellow maintainers have instituted a policy that all AI-written code must be…",
+      "imageUrl": "https://images.unsplash.com/photo-1620712943543-bcc4688e7485?w=800&q=80",
+      "source": "MIT Tech Review",
+      "sourceUrl": "https://www.technologyreview.com/2026/03/05/1133962/online-harassment-is-entering-its-ai-era/",
+      "publishedAt": "2026-03-05T10:00:00.000Z"
+    },
     {
       "id": "9xlw28",
       "title": "Jensen Huang says Nvidia is pulling back from OpenAI and Anthropic, but his explanation raises more questions than it answers",
@@ -282,15 +309,6 @@
       "publishedAt": "2026-03-03T15:53:10.000Z"
     },
     {
-      "id": "q1pw8j",
-      "title": "Xiaomi, unlike Google and Samsung, thinks camera hardware comes first",
-      "summary": "Xiaomi’s new Leica Leitzphone has new hardware tricks including continuous zoom and a LOFIC sensor. | Photo: Dominic Preston / The Verge When it launched the 17 and 17 Ultra in Europe on Saturday, Xiaomi bucked an industry trend: it didn't really talk about AI all that much. And it really didn't talk about AI when it showed off the two phones' cameras, including a special edition 17 Ultra co-created with Leica. According to Angus Ng, the company's director of communications and public relations,…",
-      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/02/leica-leitzphone-xiaomi-17-ultra-07.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "source": "The Verge",
-      "sourceUrl": "https://www.theverge.com/tech/888082/xiaomi-unlike-google-and-samsung-thinks-camera-hardware-comes-first",
-      "publishedAt": "2026-03-03T14:34:29.000Z"
-    },
-    {
       "id": "pli75z",
       "title": "The Download: The startup that says it can stop lightning, and inside OpenAI’s Pentagon deal",
       "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. This startup claims it can stop lightning and prevent catastrophic wildfires Startup Skyward Wildfire says it can prevent catastrophic fires by stopping the lightning strikes that ignite them. So far, it hasn’t publicly…",
@@ -390,15 +408,6 @@
       "publishedAt": "2026-02-28T01:26:41.000Z"
     },
     {
-      "id": "9fdr0y",
-      "title": "MIT Technology Review is a 2026 ASME finalist in reporting",
-      "summary": "The American Society of Magazine Editors has named MIT Technology Review as a finalist for a 2026 National Magazine Award in the reporting category. The shortlisted story—“We did the math on AI’s energy footprint. Here’s the story you haven’t heard”—is part of the publication’s Power Hungry package on AI’s energy burden. AI is often described…",
-      "imageUrl": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=800&q=80",
-      "source": "MIT Tech Review",
-      "sourceUrl": "https://www.technologyreview.com/2026/02/27/1133769/asme-finalist-reporting/",
-      "publishedAt": "2026-02-27T21:41:31.000Z"
-    },
-    {
       "id": "9aoewc",
       "title": "Trump Moves to Ban Anthropic From the US Government",
       "summary": "President Donald Trump’s sudden order comes after the Defense Department pressured Anthropic to drop restrictions on how its AI can be used by the military.",
@@ -424,15 +433,6 @@
       "source": "Wired",
       "sourceUrl": "https://www.wired.com/story/wall-street-has-ai-psychosis/",
       "publishedAt": "2026-02-27T16:00:00.000Z"
-    },
-    {
-      "id": "4io2u9",
-      "title": "The Download: how AI is shaking up Go, and a cybersecurity mystery",
-      "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. AI is rewiring how the world’s best Go players think Ten years ago AlphaGo, Google DeepMind’s AI program, stunned the world by defeating the South Korean Go player Lee Sedol. And in the…",
-      "imageUrl": "https://images.unsplash.com/photo-1531746790095-6c10a4031c5f?w=800&q=80",
-      "source": "MIT Tech Review",
-      "sourceUrl": "https://www.technologyreview.com/2026/02/27/1133754/the-download-how-ai-is-shaking-up-go-and-a-cybersecurity-mystery/",
-      "publishedAt": "2026-02-27T13:10:00.000Z"
     },
     {
       "id": "crqumk",
