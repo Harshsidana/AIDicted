@@ -1,7 +1,25 @@
 {
-  "fetchedAt": "2026-03-05T11:57:40.522Z",
+  "fetchedAt": "2026-03-05T13:21:34.568Z",
   "count": 60,
   "articles": [
+    {
+      "id": "ixuzc6",
+      "title": "How 1,000+ customer calls shaped a breakout enterprise AI startup",
+      "summary": "On this episode of Build Mode, David Park joins Isabelle Johannessen to discuss how he and his team are intentionally iterating, fundraising, and scaling Narada.",
+      "imageUrl": "https://images.unsplash.com/photo-1526374965328-7f61d4dc18c5?w=800&q=80",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/03/05/how-1000-customer-calls-shaped-a-breakout-enterprise-ai-startup/",
+      "publishedAt": "2026-03-05T13:15:00.000Z"
+    },
+    {
+      "id": "qwcmk9",
+      "title": "Lio raises $30M from Andreessen Horowitz and others to automate enterprise procurement",
+      "summary": "AI procurement startup Lio announced a $30 million Series A in a round led by Andreessen Horowitz.",
+      "imageUrl": "https://images.unsplash.com/photo-1485827404703-89b55fcc595e?w=800&q=80",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/03/05/lio-ai-series-a-a16z-30m-raise-automate-enterprise-procurement/",
+      "publishedAt": "2026-03-05T13:00:00.000Z"
+    },
     {
       "id": "qpkn75",
       "title": "Anthropic makes last-ditch effort to salvage deal with Pentagon after blowup",
@@ -264,15 +282,6 @@
       "publishedAt": "2026-03-03T20:20:56.000Z"
     },
     {
-      "id": "xrrjnr",
-      "title": "Claude Code rolls out a voice mode capability",
-      "summary": "Anthropic is stepping up its game in the AI coding space with the rollout of Voice Mode in Claude Code.",
-      "imageUrl": "https://images.unsplash.com/photo-1550751827-4bd374c3f58b?w=800&q=80",
-      "source": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/03/03/claude-code-rolls-out-a-voice-mode-capability/",
-      "publishedAt": "2026-03-03T20:02:10.000Z"
-    },
-    {
       "id": "ja36th",
       "title": "Google’s latest Pixel drop allows Gemini to order groceries for you and more",
       "summary": "Google is adding several new features to Pixel phones with its latest March update, including the ability for its Gemini AI assistant to do things for you, like order groceries or book a ride. This feature, which was first shown off during Samsung's Unpacked event last week, is rolling out now to the Pixel 10, Pixel 10 Pro, and Pixel 10 Pro XL. With Gemini's new agentic feature, you can ask the assistant to complete work on your behalf inside \"select\" apps, including Uber and Grubhub. It will…",
@@ -280,15 +289,6 @@
       "source": "The Verge",
       "sourceUrl": "https://www.theverge.com/tech/888295/google-gemini-pixel-drop-march-2026",
       "publishedAt": "2026-03-03T19:00:00.000Z"
-    },
-    {
-      "id": "3gjv4s",
-      "title": "X says it will suspend creators from revenue-sharing program for unlabeled AI posts of ‘armed conflict’",
-      "summary": "Creators who break the rules will get a three-month suspension, and if they continue to violate the policy, they'll be permanently banned.",
-      "imageUrl": "https://images.unsplash.com/photo-1526374965328-7f61d4dc18c5?w=800&q=80",
-      "source": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/03/03/x-says-it-will-suspend-creators-from-revenue-sharing-program-for-unlabeled-ai-posts-of-armed-conflict/",
-      "publishedAt": "2026-03-03T18:27:47.000Z"
     },
     {
       "id": "ptr71n",
