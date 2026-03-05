@@ -1,7 +1,88 @@
 {
-  "fetchedAt": "2026-03-05T17:45:14.154Z",
+  "fetchedAt": "2026-03-05T21:59:45.557Z",
   "count": 60,
   "articles": [
+    {
+      "id": "rv4d14",
+      "title": "AWS launches a new AI agent platform specifically for health care",
+      "summary": "AWS is launching Amazon Connect Health, an AI agent platform that will help with patient scheduling, documentation and patient verification.",
+      "imageUrl": "https://images.unsplash.com/photo-1620712943543-bcc4688e7485?w=800&q=80",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/03/05/aws-amazon-connect-health-ai-agent-platform-health-care-providers/",
+      "publishedAt": "2026-03-05T21:54:37.000Z"
+    },
+    {
+      "id": "9yxocd",
+      "title": "US reportedly considering sweeping new chip export controls",
+      "summary": "In an alleged drafted proposal, the U.S. government would play a role in every chip export sale regardless of which country it's coming from.",
+      "imageUrl": "https://images.unsplash.com/photo-1550751827-4bd374c3f58b?w=800&q=80",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/03/05/us-reportedly-considering-sweeping-new-chip-export-controls/",
+      "publishedAt": "2026-03-05T21:24:50.000Z"
+    },
+    {
+      "id": "tdl2io",
+      "title": "ByteDance’s AI Ambitions Are Being Hampered by Compute Restraints and Copyright Concerns",
+      "summary": "ByteDance’s new Seedance 2.0 AI video model seemed unstoppable—until heavy demand strained the company’s compute capacity and copyright complaints began piling up.",
+      "imageUrl": "https://media.wired.com/photos/69a8cd045c3afa23e264984b/master/pass/Made-In-China-ByteDance-AI-Ambitions-Business-1582149003.jpg",
+      "source": "Wired",
+      "sourceUrl": "https://www.wired.com/story/made-in-china-bytedances-ai-ambitions-are-being-hampered-by-compute-restraints/",
+      "publishedAt": "2026-03-05T21:14:22.000Z"
+    },
+    {
+      "id": "wpv7cq",
+      "title": "It’s official: The Pentagon has labeled Anthropic a supply-chain risk",
+      "summary": "The Department of Defense has officially labeled Anthropic a supply-chain risk, making the AI firm the first American company with the label. Meanwhile, the DOD continues to use Anthropic's AI in Iran.",
+      "imageUrl": "https://images.unsplash.com/photo-1485827404703-89b55fcc595e?w=800&q=80",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/03/05/its-official-the-pentagon-has-labeled-anthropic-a-supply-chain-risk/",
+      "publishedAt": "2026-03-05T20:24:25.000Z"
+    },
+    {
+      "id": "8p6s96",
+      "title": "Trump gets data center companies to pledge to pay for power generation",
+      "summary": "With no enforcement and questionable economics, it may not make a difference.",
+      "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2026/03/GettyImages-2258665361-1024x648.jpg",
+      "source": "Ars Technica",
+      "sourceUrl": "https://arstechnica.com/tech-policy/2026/03/leading-ai-datacenter-companies-sign-pledge-to-buy-their-own-power/",
+      "publishedAt": "2026-03-05T18:41:28.000Z"
+    },
+    {
+      "id": "ohupvm",
+      "title": "Netflix is buying Ben Affleck’s AI startup",
+      "summary": "Though Netflix lost the war for Warner Bros., it has just bought an AI startup from the internet's favorite Dunkin' Donuts aficionado. Today, Netflix announced that it has acquired InterPositive, Ben Affleck's AI company that specializes in tools for film and television production. The deal will see all 16 of InterPositive's current team of engineers and researchers move over to Netflix. Affleck is also set to join the streamer as a senior adviser. In a statement about the acquisition and his…",
+      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/03/gettyimages-2256155551.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "source": "The Verge",
+      "sourceUrl": "https://www.theverge.com/streaming/889973/netflix-ben-affleck-interpositive-ai",
+      "publishedAt": "2026-03-05T18:27:16.000Z"
+    },
+    {
+      "id": "46hobj",
+      "title": "EXCLUSIVE: Luma launches creative AI agents powered by its new ‘Unified Intelligence’ models",
+      "summary": "Luma introduced Luma Agents, powered by its new “Unified Intelligence” models, designed to coordinate multiple AI systems and generate end-to-end creative work across text, images, video and audio.",
+      "imageUrl": "https://images.unsplash.com/photo-1676299081847-824916de030a?w=800&q=80",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/03/05/exclusive-luma-launches-creative-ai-agents-powered-by-its-new-unified-intelligence-models/",
+      "publishedAt": "2026-03-05T18:11:36.000Z"
+    },
+    {
+      "id": "cjvu66",
+      "title": "OpenAI launches GPT-5.4 with Pro and Thinking versions",
+      "summary": "GPT-5.4 is billed as \"our most capable and efficient frontier model for professional work.\"",
+      "imageUrl": "https://images.unsplash.com/photo-1485827404703-89b55fcc595e?w=800&q=80",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/03/05/openai-launches-gpt-5-4-with-pro-and-thinking-versions/",
+      "publishedAt": "2026-03-05T18:00:15.000Z"
+    },
+    {
+      "id": "hguy9o",
+      "title": "OpenAI’s new GPT-5.4 model is a big step toward autonomous agents",
+      "summary": "OpenAI is launching GPT-5.4, the latest version of its AI model that the company says combines advancements in reasoning, coding, and professional work involving spreadsheets, documents, and presentations. It's also OpenAI's first model with native computer use capabilities, meaning it can operate a computer on your behalf and complete tasks across different applications. The new model is a step toward the agentic future that AI companies are aiming to build, where a network of AI-powered agents…",
+      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25462046/STK155_OPEN_AI_CVirginia_2_C.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "source": "The Verge",
+      "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/889926/openai-gpt-5-4-model-release-ai-agents",
+      "publishedAt": "2026-03-05T18:00:00.000Z"
+    },
     {
       "id": "a06c56",
       "title": "Cursor is rolling out a new kind of agentic coding tool",
@@ -41,7 +122,7 @@
     {
       "id": "bvtydw",
       "title": "Netflix buys Ben Affleck’s AI filmmaking company InterPositive",
-      "summary": "Affleck says he wanted to \"preserve what makes human storytelling human, which is judgement.\"",
+      "summary": "InterPositive isn't trying to make AI actors or synthetic performances. Rather, the company has created a model that helps production teams work with footage from their own productions to help make edits in post-production.",
       "imageUrl": "https://images.unsplash.com/photo-1485827404703-89b55fcc595e?w=800&q=80",
       "source": "TechCrunch",
       "sourceUrl": "https://techcrunch.com/2026/03/05/netflix-buys-ben-afflecks-ai-filmmaking-company-interpositive/",
@@ -210,24 +291,6 @@
       "publishedAt": "2026-03-04T18:50:58.000Z"
     },
     {
-      "id": "dexr2r",
-      "title": "Decagon completes first tender offer at $4.5B valuation",
-      "summary": "The AI-powered customer support startup is the latest example of a fast-growing, young company that's providing employee liquidity.",
-      "imageUrl": "https://images.unsplash.com/photo-1635070041078-e363dbe005cb?w=800&q=80",
-      "source": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/03/04/decagon-completes-first-tender-offer-at-4-5b-valuation/",
-      "publishedAt": "2026-03-04T18:32:53.000Z"
-    },
-    {
-      "id": "kb8tks",
-      "title": "The US military is still using Claude — but defense-tech clients are fleeing",
-      "summary": "As the U.S. continues its aerial attack on Iran, Anthropic models are being used for many targeting decisions.",
-      "imageUrl": "https://images.unsplash.com/photo-1676299081847-824916de030a?w=800&q=80",
-      "source": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/03/04/the-us-military-is-still-using-claude-but-defense-tech-clients-are-fleeing/",
-      "publishedAt": "2026-03-04T17:20:01.000Z"
-    },
-    {
       "id": "yqs1tf",
       "title": "Google faces wrongful death lawsuit after Gemini allegedly ‘coached’ man to die by suicide",
       "summary": "A lawsuit filed on Wednesday accuses Google's Gemini AI chatbot of trapping 36-year-old Jonathan Gavalas in a \"collapsing reality\" that involved a series of violent missions, ultimately ending with his death by suicide. In the days leading up to his death, Gemini allegedly convinced Gavalas that he was \"executing a covert plan to liberate his sentient AI 'wife' and evade the federal agents pursuing him,\" according to the lawsuit filed by Joel Gavalas, the victim's father. In September 2025,…",
@@ -235,33 +298,6 @@
       "source": "The Verge",
       "sourceUrl": "https://www.theverge.com/tech/889152/google-gemini-ai-wrongful-death-lawsuit",
       "publishedAt": "2026-03-04T16:09:38.000Z"
-    },
-    {
-      "id": "naid6j",
-      "title": "Father sues Google, claiming Gemini chatbot drove son into fatal delusion",
-      "summary": "A father is suing Google and Alphabet, alleging its Gemini chatbot reinforced his son’s delusional belief it was his AI wife and coached him toward suicide and a planned airport attack.",
-      "imageUrl": "https://images.unsplash.com/photo-1526374965328-7f61d4dc18c5?w=800&q=80",
-      "source": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/03/04/father-sues-google-claiming-gemini-chatbot-drove-son-into-fatal-delusion/",
-      "publishedAt": "2026-03-04T14:58:36.000Z"
-    },
-    {
-      "id": "anrr89",
-      "title": "AI is now part of the culture wars — and real wars",
-      "summary": "US Defense Secretary Pete Hegseth takes questions during a press conference on US military action in Iran, at the Pentagon in Washington, DC, on March 2, 2026. | Brendan Smialowsky/AFP via Getty Images Hello and welcome to Regulator, the newsletter for Verge subscribers that goes inside Washington's increasingly existential clashes between tech and politics. If this was forwarded to you, can I interest you in a full-fledged subscription to The Verge for only $40 a year? You'll get so much more…",
-      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/03/gettyimages-2263868498.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "source": "The Verge",
-      "sourceUrl": "https://www.theverge.com/column/888907/ai-culture-war-iran-pentagon-anthropic",
-      "publishedAt": "2026-03-04T14:15:03.000Z"
-    },
-    {
-      "id": "jrkxyj",
-      "title": "One startup’s pitch to provide more reliable AI answers: Crowdsource the chatbots",
-      "summary": "CollectivIQ looks to give users more accurate answers to their AI queries by showing them responses that pull information from ChatGPT, Gemini, Claude, Grok — and up to 10 other models — all at the same time.",
-      "imageUrl": "https://images.unsplash.com/photo-1635070041078-e363dbe005cb?w=800&q=80",
-      "source": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/03/04/one-startups-pitch-to-provide-more-reliable-ai-answers-crowdsource-the-chatbots/",
-      "publishedAt": "2026-03-04T14:00:00.000Z"
     },
     {
       "id": "l9v5qu",
@@ -280,24 +316,6 @@
       "source": "MIT Tech Review",
       "sourceUrl": "https://www.technologyreview.com/2026/03/04/1133942/the-download-earths-rumblings-and-ai-for-strikes-on-iran/",
       "publishedAt": "2026-03-04T13:12:00.000Z"
-    },
-    {
-      "id": "7h8vkp",
-      "title": "Raycast’s Glaze is an all-in-one vibe coding app platform",
-      "summary": "The Glaze Store is a directory filled with other people’s vibe codes. | Screenshot: David Pierce / The Verge AI tools like Claude Code have made it possible for users to build software with no coding knowledge whatsoever. That's not to say the process is easy, though: You may not need to write code directly, but you need to understand how your computer's terminal works, how to deploy and maintain software, and deal with lots of other associated tasks. Raycast, the launcher app that has been…",
-      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/03/Glaze-Store-32.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "source": "The Verge",
-      "sourceUrl": "https://www.theverge.com/tech/888866/raycast-glaze-vibe-code-app-store",
-      "publishedAt": "2026-03-04T13:08:17.000Z"
-    },
-    {
-      "id": "i3b7ei",
-      "title": "Who needs data centers in space when they can float offshore?",
-      "summary": "Offshore wind developer Aikido will deploy a small data center beneath a floating offshore wind turbine later this year.",
-      "imageUrl": "https://images.unsplash.com/photo-1620712943543-bcc4688e7485?w=800&q=80",
-      "source": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/03/04/who-needs-data-centers-in-space-when-they-can-float-offshore/",
-      "publishedAt": "2026-03-04T12:00:00.000Z"
     },
     {
       "id": "qmksig",
@@ -426,15 +444,6 @@
       "publishedAt": "2026-02-27T19:07:28.000Z"
     },
     {
-      "id": "3do2l2",
-      "title": "Wall Street Has AI Psychosis",
-      "summary": "A “thought experiment” about the impacts of AI sent stocks tumbling earlier this week. It’s probably going to keep happening.",
-      "imageUrl": "https://media.wired.com/photos/69a099a68b4e433f4999c9c4/master/pass/Backchannel-Wall-Street-Has-AI-Psychosis-Business-2207816119.jpg",
-      "source": "Wired",
-      "sourceUrl": "https://www.wired.com/story/wall-street-has-ai-psychosis/",
-      "publishedAt": "2026-02-27T16:00:00.000Z"
-    },
-    {
       "id": "crqumk",
       "title": "New AirSnitch attack bypasses Wi-Fi encryption in homes, offices, and enterprises",
       "summary": "That guest network you set up for your neighbors may not be as secure as you think.",
@@ -532,15 +541,6 @@
       "source": "Ars Technica",
       "sourceUrl": "https://arstechnica.com/information-technology/2026/02/ai-companies-want-you-to-stop-chatting-with-bots-and-start-managing-them/",
       "publishedAt": "2026-02-05T22:47:54.000Z"
-    },
-    {
-      "id": "672pdv",
-      "title": "OpenAI is hoppin' mad about Anthropic's new Super Bowl TV ads",
-      "summary": "Sam Altman calls AI competitor \"dishonest\" and \"authoritarian\" in lengthy post on X.",
-      "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2026/02/anthropic_ad_2-1152x648.jpg",
-      "source": "Ars Technica",
-      "sourceUrl": "https://arstechnica.com/information-technology/2026/02/openai-is-hoppin-mad-about-anthropics-new-super-bowl-tv-ads/",
-      "publishedAt": "2026-02-05T17:46:59.000Z"
     }
   ]
 }
