@@ -1,7 +1,34 @@
 {
-  "fetchedAt": "2026-03-04T22:40:17.230Z",
+  "fetchedAt": "2026-03-05T02:45:37.028Z",
   "count": 60,
   "articles": [
+    {
+      "id": "9xlw28",
+      "title": "Jensen Huang says Nvidia is pulling back from OpenAI and Anthropic, but his explanation raises more questions than it answers",
+      "summary": "Nvidia CEO Jensen Huang said Wednesday that his company's investments in OpenAI and Anthropic will likely be its last — but his explanation may not tell the whole story.",
+      "imageUrl": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=800&q=80",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/03/04/jensen-huang-says-nvidia-is-pulling-back-from-openai-and-anthropic-but-his-explanation-raises-more-questions-than-it-answers/",
+      "publishedAt": "2026-03-05T01:08:28.000Z"
+    },
+    {
+      "id": "bni8l",
+      "title": "Seven tech giants signed Trump’s pledge to keep electricity costs from spiking around data centers",
+      "summary": "Trump summoned tech leaders to the White House on Wednesday, March 4, 2026 to sign pledges committing their companies to foot the electricity bill for energy-hungry data centers. | Photo: Getty Images Leaders from Google, Meta, Microsoft, Oracle, OpenAI, Amazon, and xAI met with President Donald Trump today to sign a \"rate payer protection pledge.\" It's one way they're responding to growing bipartisan concerns about electricity rates rising as tech companies and the Trump administration rush to…",
+      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/03/gettyimages-2264235364.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "source": "The Verge",
+      "sourceUrl": "https://www.theverge.com/news/889578/data-center-power-pledge-white-house-google-meta-microsoft",
+      "publishedAt": "2026-03-05T00:17:37.000Z"
+    },
+    {
+      "id": "i04y8z",
+      "title": "Grammarly Is Offering ‘Expert’ AI Reviews From Your Favorite Authors—Dead or Alive",
+      "summary": "The tool, offered by the recently-rebranded company Superhuman, gives feedback based on the work of famous dead and living writers—without their permission.",
+      "imageUrl": "https://media.wired.com/photos/69a72224fed0d8b129f5a806/master/pass/Grammarly-Making-LLMs-Based-on-Dead-Academics-Culture-1473977398.jpg",
+      "source": "Wired",
+      "sourceUrl": "https://www.wired.com/story/grammarly-is-offering-expert-ai-reviews-from-your-favorite-authors-dead-or-alive/",
+      "publishedAt": "2026-03-04T22:56:37.000Z"
+    },
     {
       "id": "6apre3",
       "title": "Anthropic CEO Dario Amodei calls OpenAI’s messaging around military deal ‘straight up lies,’ report says",
@@ -264,15 +291,6 @@
       "publishedAt": "2026-03-03T14:34:29.000Z"
     },
     {
-      "id": "2xiozu",
-      "title": "Why is SpaceX going public?",
-      "summary": "I am excited about the SpaceX IPO for all the reasons investors shouldn't be. Maybe it'll be a real marquee moment for Silicon Valley, but I see the potential for a shitshow. After all, more than a decade ago, Musk said that SpaceX going public before going to Mars would be bad for the company. Are private markets tapped out on cash to fund SpaceX ambitions? Elon Musk has been very clear about his feelings on publicly traded companies. Specifically: He doesn't like them! \"I am hesitant to foist…",
-      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/03/Stock_musk_space.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "source": "The Verge",
-      "sourceUrl": "https://www.theverge.com/tech/887899/spacex-ipo-risks-ai",
-      "publishedAt": "2026-03-03T14:30:00.000Z"
-    },
-    {
       "id": "pli75z",
       "title": "The Download: The startup that says it can stop lightning, and inside OpenAI’s Pentagon deal",
       "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. This startup claims it can stop lightning and prevent catastrophic wildfires Startup Skyward Wildfire says it can prevent catastrophic fires by stopping the lightning strikes that ignite them. So far, it hasn’t publicly…",
@@ -298,15 +316,6 @@
       "source": "MIT Tech Review",
       "sourceUrl": "https://www.technologyreview.com/2026/03/03/1133848/this-startup-claims-it-can-stop-lightning-and-prevent-catastrophic-wildfires/",
       "publishedAt": "2026-03-03T10:00:00.000Z"
-    },
-    {
-      "id": "4nu1so",
-      "title": "Cursor has reportedly surpassed $2B in annualized revenue",
-      "summary": "The four-year-old startup saw its revenue run rate double over the past three months, according to one Bloomberg source.",
-      "imageUrl": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=800&q=80",
-      "source": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/03/02/cursor-has-reportedly-surpassed-2b-in-annualized-revenue/",
-      "publishedAt": "2026-03-03T01:53:59.000Z"
     },
     {
       "id": "lisp8c",
@@ -424,15 +433,6 @@
       "source": "MIT Tech Review",
       "sourceUrl": "https://www.technologyreview.com/2026/02/27/1133754/the-download-how-ai-is-shaking-up-go-and-a-cybersecurity-mystery/",
       "publishedAt": "2026-02-27T13:10:00.000Z"
-    },
-    {
-      "id": "oq4v09",
-      "title": "Huxe Will Give You a Personalized, Daily Audio Summary Powered by AI",
-      "summary": "The app reads your email inbox and your meeting calendar, then gives you a short audio summary. It can help you spend less time scrolling, but of course, there are privacy drawbacks to consider.",
-      "imageUrl": "https://media.wired.com/photos/69a150e9d3084ff8755b5f8e/master/pass/Audio-Summary-Powered-by-AI-Gear-2204531017.jpg",
-      "source": "Wired",
-      "sourceUrl": "https://www.wired.com/story/huxe-personalized-daily-audio-podcasts-powered-by-ai/",
-      "publishedAt": "2026-02-27T12:00:00.000Z"
     },
     {
       "id": "crqumk",
