@@ -1,7 +1,16 @@
 {
-  "fetchedAt": "2026-03-05T14:25:37.090Z",
+  "fetchedAt": "2026-03-05T15:28:35.869Z",
   "count": 60,
   "articles": [
+    {
+      "id": "3mi09b",
+      "title": "The Download: an AI agent’s hit piece, and preventing lightning",
+      "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. Online harassment is entering its AI era Scott Shambaugh didn’t think twice when he denied an AI agent’s request to contribute to matplotlib, a software library he helps manage. Then things…",
+      "imageUrl": "https://images.unsplash.com/photo-1531746790095-6c10a4031c5f?w=800&q=80",
+      "source": "MIT Tech Review",
+      "sourceUrl": "https://www.technologyreview.com/2026/03/05/1133968/the-download-ai-agent-hit-piece-preventing-lightning/",
+      "publishedAt": "2026-03-05T14:28:46.000Z"
+    },
     {
       "id": "3mfg47",
       "title": "Apple Music adds optional labels for AI songs and visuals",
@@ -370,15 +379,6 @@
       "source": "MIT Tech Review",
       "sourceUrl": "https://www.technologyreview.com/2026/03/02/1133811/the-download-protesting-ai-and-whats-floating-in-space/",
       "publishedAt": "2026-03-02T13:20:00.000Z"
-    },
-    {
-      "id": "c2phqe",
-      "title": "I checked out one of the biggest anti-AI protests yet",
-      "summary": "Pull the plug! Pull the plug! Stop the slop! Stop the slop! For a few hours this Saturday, February 28, I watched as a couple of hundred anti-AI protesters marched through London’s King’s Cross tech hub, home to the UK headquarters of OpenAI, Meta, and Google DeepMind, chanting slogans and waving signs. The march was…",
-      "imageUrl": "https://images.unsplash.com/photo-1526374965328-7f61d4dc18c5?w=800&q=80",
-      "source": "MIT Tech Review",
-      "sourceUrl": "https://www.technologyreview.com/2026/03/02/1133814/i-checked-out-londons-biggest-ever-anti-ai-protest/",
-      "publishedAt": "2026-03-02T12:55:20.000Z"
     },
     {
       "id": "ncmz6y",
