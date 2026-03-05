@@ -1,7 +1,52 @@
 {
-  "fetchedAt": "2026-03-05T15:28:35.869Z",
+  "fetchedAt": "2026-03-05T17:45:14.154Z",
   "count": 60,
   "articles": [
+    {
+      "id": "a06c56",
+      "title": "Cursor is rolling out a new kind of agentic coding tool",
+      "summary": "Called Automations, the new system gives users a way to automatically launch agents within their coding environment, triggered by a new addition to the codebase, a Slack message, or a simple timer.",
+      "imageUrl": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=800&q=80",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/03/05/cursor-is-rolling-out-a-new-system-for-agentic-coding/",
+      "publishedAt": "2026-03-05T17:00:00.000Z"
+    },
+    {
+      "id": "6w9b9x",
+      "title": "Meta sued over AI smart glasses’ privacy concerns, after workers reviewed nudity, sex, and other footage",
+      "summary": "Lawyers say Meta's marketing materials promised privacy and user control over sharing footage. But an investigation found that subcontractors are reviewing footage from customers' glasses.",
+      "imageUrl": "https://images.unsplash.com/photo-1635070041078-e363dbe005cb?w=800&q=80",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/03/05/meta-sued-over-ai-smartglasses-privacy-concerns-after-workers-reviewed-nudity-sex-and-other-footage/",
+      "publishedAt": "2026-03-05T16:50:20.000Z"
+    },
+    {
+      "id": "wom0bn",
+      "title": "Anthropic CEO Dario Amodei could still be trying to make a deal with Pentagon",
+      "summary": "Anthropic's $200 million contract with the Department of Defense broke down due to disagreements over giving the military unrestricted access to its AI.",
+      "imageUrl": "https://images.unsplash.com/photo-1635070041078-e363dbe005cb?w=800&q=80",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/03/05/anthropic-ceo-dario-amodei-could-still-be-trying-to-make-a-deal-with-pentagon/",
+      "publishedAt": "2026-03-05T16:45:51.000Z"
+    },
+    {
+      "id": "g2a4ut",
+      "title": "Meta’s AI glasses reportedly send sensitive footage to human reviewers in Kenya",
+      "summary": "Meta's AI-powered smart glasses could be sending sensitive footage to human reviewers in Nairobi, Kenya, according to an investigation by the Swedish outlets Svenska Dagbladet and G&ouml;teborgs-Posten. The report, which was published last week, claims Meta contractors in Kenya have seen videos captured with the smart glasses that show \"bathroom visits, sex and other intimate moments.\" So far, at least one proposed class action lawsuit accusing Meta of violating false advertising and privacy…",
+      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/09/Verge-Ray-ban-Meta-Gen2-Stills-6.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "source": "The Verge",
+      "sourceUrl": "https://www.theverge.com/tech/889637/meta-ai-smart-glasses-human-reviewers-kenya",
+      "publishedAt": "2026-03-05T16:37:52.000Z"
+    },
+    {
+      "id": "bvtydw",
+      "title": "Netflix buys Ben Affleck’s AI filmmaking company InterPositive",
+      "summary": "Affleck says he wanted to \"preserve what makes human storytelling human, which is judgement.\"",
+      "imageUrl": "https://images.unsplash.com/photo-1485827404703-89b55fcc595e?w=800&q=80",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/03/05/netflix-buys-ben-afflecks-ai-filmmaking-company-interpositive/",
+      "publishedAt": "2026-03-05T16:19:57.000Z"
+    },
     {
       "id": "3mi09b",
       "title": "The Download: an AI agent’s hit piece, and preventing lightning",
@@ -255,33 +300,6 @@
       "publishedAt": "2026-03-04T12:00:00.000Z"
     },
     {
-      "id": "oy2o8b",
-      "title": "Inside the secret meeting that led to the AI political resistance",
-      "summary": "From left: Randi Weingarten, Steve Bannon, and Ralph Nader. | Image: Cath Virginia / The Verge, Getty Images In early January, a group of 90 or so political, community and thought leaders gathered in a New Orleans Marriott for a secret conference on artificial intelligence - so secret, in fact, that no one knew who else had been invited until they walked into the room. Church leaders and conservative academics were sitting next to labor union representatives. Progressive power brokers who'd…",
-      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/03/268379_The_AI_political_resistance_movement_has_arrived_CVirginia2.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "source": "The Verge",
-      "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/888841/pro-human-ai-declaration-fli",
-      "publishedAt": "2026-03-04T11:00:00.000Z"
-    },
-    {
-      "id": "mah8sh",
-      "title": "Why AI startups are selling the same equity at two different prices",
-      "summary": "Some AI founders are using a novel valuation mechanism to manufacture unicorn status.",
-      "imageUrl": "https://images.unsplash.com/photo-1676299081847-824916de030a?w=800&q=80",
-      "source": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/03/03/why-ai-startups-are-selling-the-same-equity-at-two-different-prices/",
-      "publishedAt": "2026-03-04T00:31:25.000Z"
-    },
-    {
-      "id": "kp53aq",
-      "title": "Alibaba’s Qwen tech lead steps down after major AI push",
-      "summary": "Reactions rippled through Alibaba's Qwen team after tech lead Junyang Lin stepped down following a major model launch.",
-      "imageUrl": "https://images.unsplash.com/photo-1531746790095-6c10a4031c5f?w=800&q=80",
-      "source": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/03/03/alibabas-qwen-tech-lead-steps-down-after-major-ai-push/",
-      "publishedAt": "2026-03-03T23:16:36.000Z"
-    },
-    {
       "id": "qmksig",
       "title": "Downdetector, Speedtest sold to IT service-provider Accenture in $1.2B deal",
       "summary": "Accenture plans to buy Ookla, which also includes RootMetrics and Ekahau.",
@@ -289,24 +307,6 @@
       "source": "Ars Technica",
       "sourceUrl": "https://arstechnica.com/information-technology/2026/03/downdetector-speedtest-sold-to-it-service-provider-accenture-in-1-2b-deal/",
       "publishedAt": "2026-03-03T22:20:06.000Z"
-    },
-    {
-      "id": "p1ymod",
-      "title": "AI companies are spending millions to thwart this former tech exec’s congressional bid",
-      "summary": "A tech billionaire-backed super PAC is spending $125 million to undercut candidates pushing for AI regulation. New York's Alex Bores, a former tech executive himself, is one of them.",
-      "imageUrl": "https://images.unsplash.com/photo-1531746790095-6c10a4031c5f?w=800&q=80",
-      "source": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/03/03/ai-companies-are-spending-millions-to-thwart-this-former-tech-execs-congressional-bid/",
-      "publishedAt": "2026-03-03T21:44:09.000Z"
-    },
-    {
-      "id": "1cz4q3",
-      "title": "ChatGPT’s new GPT-5.3 Instant model will stop telling you to calm down",
-      "summary": "The company says the new model will reduce the \"cringe\" that's been annoying its users for months.",
-      "imageUrl": "https://images.unsplash.com/photo-1485827404703-89b55fcc595e?w=800&q=80",
-      "source": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/03/03/chatgpts-new-gpt-5-3-instant-model-will-stop-telling-you-to-calm-down/",
-      "publishedAt": "2026-03-03T20:20:56.000Z"
     },
     {
       "id": "mpok6y",
