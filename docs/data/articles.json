@@ -1,11 +1,56 @@
 {
-  "fetchedAt": "2026-03-05T21:59:45.557Z",
+  "fetchedAt": "2026-03-06T03:14:14.110Z",
   "count": 60,
   "articles": [
     {
-      "id": "rv4d14",
-      "title": "AWS launches a new AI agent platform specifically for health care",
-      "summary": "AWS is launching Amazon Connect Health, an AI agent platform that will help with patient scheduling, documentation and patient verification.",
+      "id": "3ijshs",
+      "title": "Anthropic to challenge DOD’s supply-chain label in court",
+      "summary": "Anthropic CEO Dario Amodei said he plans to challenge the Department of Defense's designation of the AI firm as a supply-chain risk. He claims most Anthropic customers are unaffected by the label.",
+      "imageUrl": "https://images.unsplash.com/photo-1635070041078-e363dbe005cb?w=800&q=80",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/03/05/anthropic-to-challenge-dods-supply-chain-label-in-court/",
+      "publishedAt": "2026-03-06T01:28:54.000Z"
+    },
+    {
+      "id": "flrqyh",
+      "title": "DiligenceSquared uses AI, voice agents to make M&A research affordable",
+      "summary": "Instead of relying on expensive management consultants, the startup uses AI voice agents to conduct interviews with customers of the companies the PE firms are considering buying.",
+      "imageUrl": "https://images.unsplash.com/photo-1531746790095-6c10a4031c5f?w=800&q=80",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/03/05/diligencesquared-uses-ai-voice-agents-to-make-ma-research-affordable/",
+      "publishedAt": "2026-03-05T23:14:04.000Z"
+    },
+    {
+      "id": "85i3jg",
+      "title": "The Pentagon formally labels Anthropic a supply-chain risk",
+      "summary": "US Defense Secretary Pete Hegseth speaks during a press conference on US military action in Iran, at the Pentagon in Washington, DC, on March 2, 2026. | Brendan Smialowski/AFP via Getty Images View Link After weeks of failed negotiations, public ultimatums, and lawsuit threats, the Defense Department has formally labeled Anthropic a \"supply-chain risk\", escalating its fight with the AI company over their acceptable use policies and potentially bringing their fight to court. The decision, first…",
+      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/03/gettyimages-2263863571.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "source": "The Verge",
+      "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/890347/pentagon-anthropic-supply-chain-risk",
+      "publishedAt": "2026-03-05T23:02:22.000Z"
+    },
+    {
+      "id": "4t2get",
+      "title": "‘Uncanny Valley’: Iran War in the AI Era, Prediction Market Ethics, and Paramount Beats Netflix",
+      "summary": "In this episode, our hosts unpack the ongoing conflict in the Middle East, particularly as the AI industry has been entrenching itself with the Department of Defense.",
+      "imageUrl": "https://media.wired.com/photos/69a8b38b4d0db9b1303572a9/master/pass/Uncanny-Valley-Iran-Politics-2264385014.jpg",
+      "source": "Wired",
+      "sourceUrl": "https://www.wired.com/story/uncanny-valley-podcast-iran-war-artificial-intelligence-prediction-markets-paramount-warner-bros/",
+      "publishedAt": "2026-03-05T22:17:54.000Z"
+    },
+    {
+      "id": "e4ibwy",
+      "title": "OpenAI Had Banned Military Use. The Pentagon Tested Its Models Through Microsoft Anyway",
+      "summary": "Sources allege the Defense Department experimented with Microsoft’s version of OpenAI technology before the ChatGPT-maker lifted its prohibition on military applications.",
+      "imageUrl": "https://media.wired.com/photos/69a887d2900eb391be83a12d/master/pass/Model-Behavior-AI-Companies-Cant-Negotiate-With-Pentagon-Business.jpg",
+      "source": "Wired",
+      "sourceUrl": "https://www.wired.com/story/openai-defense-department-ban-military-use-microsoft/",
+      "publishedAt": "2026-03-05T22:00:00.000Z"
+    },
+    {
+      "id": "mphz4",
+      "title": "AWS launches a new AI agent platform specifically for healthcare",
+      "summary": "AWS is launching Amazon Connect Health, an AI agent platform that will help with patient scheduling, documentation, and patient verification.",
       "imageUrl": "https://images.unsplash.com/photo-1620712943543-bcc4688e7485?w=800&q=80",
       "source": "TechCrunch",
       "sourceUrl": "https://techcrunch.com/2026/03/05/aws-amazon-connect-health-ai-agent-platform-health-care-providers/",
@@ -255,15 +300,6 @@
       "publishedAt": "2026-03-04T22:00:03.000Z"
     },
     {
-      "id": "rb97fo",
-      "title": "Apple Music to add Transparency Tags to distinguish AI music, says report",
-      "summary": "The label or distributor has to opt in to tagging their music as AI, so it's unclear how effective this intervention will be.",
-      "imageUrl": "https://images.unsplash.com/photo-1485827404703-89b55fcc595e?w=800&q=80",
-      "source": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/03/04/apple-music-to-add-transparency-tags-to-distinguish-ai-music-says-report/",
-      "publishedAt": "2026-03-04T21:43:58.000Z"
-    },
-    {
       "id": "xpzvyj",
       "title": "NotebookLM can now summarize research in ‘cinematic’ video overviews",
       "summary": "Google's NotebookLM can now turn users' research and notes into fully animated \"cinematic\" videos, going a step further than the original video overview feature Google introduced last year. Previously, video overviews could only generate narrated slideshows, but the upgraded video overview feature uses a combination of Google's AI models, \"including Gemini 3, Nano Banana Pro and Veo 3,\" to generate animated visuals based on the content of users' notes. Google says Gemini \"determines the best…",
@@ -280,24 +316,6 @@
       "source": "The Verge",
       "sourceUrl": "https://www.theverge.com/tech/889339/google-canvas-ai-mode-search-us-launch",
       "publishedAt": "2026-03-04T18:57:01.000Z"
-    },
-    {
-      "id": "89f31o",
-      "title": "Google Search rolls out Gemini’s Canvas in AI Mode to all US users",
-      "summary": "Canvas in AI Mode is available to U.S. users in English for creating plans, projects, apps, and more.",
-      "imageUrl": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=800&q=80",
-      "source": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/03/04/https-techcrunch-com-2026-03-04-google-search-rolls-out-geminis-canvas-in-ai-mode-to-all-us-users/",
-      "publishedAt": "2026-03-04T18:50:58.000Z"
-    },
-    {
-      "id": "yqs1tf",
-      "title": "Google faces wrongful death lawsuit after Gemini allegedly ‘coached’ man to die by suicide",
-      "summary": "A lawsuit filed on Wednesday accuses Google's Gemini AI chatbot of trapping 36-year-old Jonathan Gavalas in a \"collapsing reality\" that involved a series of violent missions, ultimately ending with his death by suicide. In the days leading up to his death, Gemini allegedly convinced Gavalas that he was \"executing a covert plan to liberate his sentient AI 'wife' and evade the federal agents pursuing him,\" according to the lawsuit filed by Joel Gavalas, the victim's father. In September 2025,…",
-      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/09/STK_414_AI_CHATBOT_R2_CVirginia_D.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "source": "The Verge",
-      "sourceUrl": "https://www.theverge.com/tech/889152/google-gemini-ai-wrongful-death-lawsuit",
-      "publishedAt": "2026-03-04T16:09:38.000Z"
     },
     {
       "id": "l9v5qu",
@@ -424,24 +442,6 @@
       "source": "Ars Technica",
       "sourceUrl": "https://arstechnica.com/security/2026/02/google-is-using-clever-math-to-quantum-proof-https-certificates/",
       "publishedAt": "2026-02-28T01:26:41.000Z"
-    },
-    {
-      "id": "9aoewc",
-      "title": "Trump Moves to Ban Anthropic From the US Government",
-      "summary": "President Donald Trump’s sudden order comes after the Defense Department pressured Anthropic to drop restrictions on how its AI can be used by the military.",
-      "imageUrl": "https://media.wired.com/photos/69a0a09c6c9d7076f06f28c6/master/pass/Pentagon-Goes-Nuclear-on-Anthropic-Business-2261852583.jpg",
-      "source": "Wired",
-      "sourceUrl": "https://www.wired.com/story/trump-moves-to-ban-anthropic-from-the-us-government/",
-      "publishedAt": "2026-02-27T21:36:31.000Z"
-    },
-    {
-      "id": "9xlyjh",
-      "title": "OpenAI Fires an Employee for Prediction Market Insider Trading",
-      "summary": "Prediction markets like Polymarket and Kalshi are big business, and some Big Tech employees are testing boundaries by making trades based on insider knowledge.",
-      "imageUrl": "https://media.wired.com/photos/69a0b01c157af8f83feddf9b/master/pass/OpenAI-Employee-Fired-Insider-Trading-Business-2210029299.jpg",
-      "source": "Wired",
-      "sourceUrl": "https://www.wired.com/story/openai-fires-employee-insider-trading-polymarket-kalshi/",
-      "publishedAt": "2026-02-27T19:07:28.000Z"
     },
     {
       "id": "crqumk",
