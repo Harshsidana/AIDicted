@@ -1,7 +1,61 @@
 {
-  "fetchedAt": "2026-03-06T18:02:22.643Z",
+  "fetchedAt": "2026-03-06T20:43:00.089Z",
   "count": 60,
   "articles": [
+    {
+      "id": "yont5v",
+      "title": "Microsoft, Google, Amazon say Anthropic Claude remains available to non-defense customers",
+      "summary": "Trump's Department of War feud with Anthropic won't impact other companies that are using Claude via Microsoft and Google products.",
+      "imageUrl": "https://images.unsplash.com/photo-1526374965328-7f61d4dc18c5?w=800&q=80",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/03/06/microsoft-anthropic-claude-remains-available-to-customers-except-the-defense-department/",
+      "publishedAt": "2026-03-06T19:50:10.000Z"
+    },
+    {
+      "id": "usx076",
+      "title": "Feds take notice of iOS vulnerabilities exploited under mysterious circumstances",
+      "summary": "The long, strange trip of a large assembly of advanced iOS exploits.",
+      "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2026/03/iphone-14-1152x648.jpg",
+      "source": "Ars Technica",
+      "sourceUrl": "https://arstechnica.com/security/2026/03/cisa-adds-3-ios-flaws-to-its-catalog-of-known-exploited-vulnerabilities/",
+      "publishedAt": "2026-03-06T19:41:33.000Z"
+    },
+    {
+      "id": "qjzhtf",
+      "title": "Is the Pentagon allowed to surveil Americans with AI?",
+      "summary": "The ongoing public feud between the Department of Defense and the AI company Anthropic has raised a deep and still unanswered question: Does the law actually allow the US government to conduct mass surveillance on Americans? Surprisingly, the answer is not straightforward. More than a decade after Edward Snowden exposed the NSA’s collection of bulk…",
+      "imageUrl": "https://images.unsplash.com/photo-1676299081847-824916de030a?w=800&q=80",
+      "source": "MIT Tech Review",
+      "sourceUrl": "https://www.technologyreview.com/2026/03/06/1134012/is-the-pentagon-allowed-to-surveil-americans-with-ai/",
+      "publishedAt": "2026-03-06T19:21:22.000Z"
+    },
+    {
+      "id": "up4ri0",
+      "title": "The AI Doc is an overwrought hype piece for doomers and accelerationists alike",
+      "summary": "Co-director Daniel Roher. | Image: Focus Features We are in the thick of a massive push to incorporate generative AI into almost every aspect of our lives, but it is still easy to be confused about what it is and how it works. It doesn't help that many of gen AI's proponents and detractors both speak about it with a feverish hyperbole that comes across like fantastical ad copy. And the rate at which AI firms release new iterations of their products can make it hard to keep track of what's going…",
+      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/03/Screenshot-2026-03-06-at-1.32.13%E2%80%AFPM.png?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "source": "The Verge",
+      "sourceUrl": "https://www.theverge.com/entertainment/890806/the-ai-doc-or-how-i-became-an-apocaloptimist-review",
+      "publishedAt": "2026-03-06T19:05:00.000Z"
+    },
+    {
+      "id": "30jszr",
+      "title": "Anthropic’s Claude found 22 vulnerabilities in Firefox over two weeks",
+      "summary": "In a recent security partnership with Mozilla, Anthropic found 22 separate vulnerabilities in Firefox — 14 of them classified as \"high-severity.\"",
+      "imageUrl": "https://images.unsplash.com/photo-1550751827-4bd374c3f58b?w=800&q=80",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/03/06/anthropics-claude-found-22-vulnerabilities-in-firefox-over-two-weeks/",
+      "publishedAt": "2026-03-06T19:00:22.000Z"
+    },
+    {
+      "id": "7z76sj",
+      "title": "Anthropic’s Pentagon deal is a cautionary tale for startups chasing federal contracts",
+      "summary": "The Pentagon has officially designated Anthropic a supply-chain risk after the two failed to agree on how much control the military should have over its AI models, including its use in autonomous weapons and mass domestic surveillance. As Anthropic’s $200 million contract fell apart, the DoD turned to OpenAI instead, which accepted and then watched ChatGPT uninstalls surge 295%. As the stakes keep rising, the question remains: how much unrestricted […]",
+      "imageUrl": "https://images.unsplash.com/photo-1635070041078-e363dbe005cb?w=800&q=80",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/video/anthropics-pentagon-deal-is-a-cautionary-tale-for-startups-chasing-federal-contracts/",
+      "publishedAt": "2026-03-06T18:09:11.000Z"
+    },
     {
       "id": "muof8j",
       "title": "Anthropic vs. the Pentagon, the SaaSpocalypse, and why competitions is good, actually",
@@ -210,24 +264,6 @@
       "publishedAt": "2026-03-05T17:00:00.000Z"
     },
     {
-      "id": "6w9b9x",
-      "title": "Meta sued over AI smart glasses’ privacy concerns, after workers reviewed nudity, sex, and other footage",
-      "summary": "Lawyers say Meta's marketing materials promised privacy and user control over sharing footage. But an investigation found that subcontractors are reviewing footage from customers' glasses.",
-      "imageUrl": "https://images.unsplash.com/photo-1635070041078-e363dbe005cb?w=800&q=80",
-      "source": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/03/05/meta-sued-over-ai-smartglasses-privacy-concerns-after-workers-reviewed-nudity-sex-and-other-footage/",
-      "publishedAt": "2026-03-05T16:50:20.000Z"
-    },
-    {
-      "id": "wom0bn",
-      "title": "Anthropic CEO Dario Amodei could still be trying to make a deal with Pentagon",
-      "summary": "Anthropic's $200 million contract with the Department of Defense broke down due to disagreements over giving the military unrestricted access to its AI.",
-      "imageUrl": "https://images.unsplash.com/photo-1635070041078-e363dbe005cb?w=800&q=80",
-      "source": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/03/05/anthropic-ceo-dario-amodei-could-still-be-trying-to-make-a-deal-with-pentagon/",
-      "publishedAt": "2026-03-05T16:45:51.000Z"
-    },
-    {
       "id": "g2a4ut",
       "title": "Meta’s AI glasses reportedly send sensitive footage to human reviewers in Kenya",
       "summary": "Meta's AI-powered smart glasses could be sending sensitive footage to human reviewers in Nairobi, Kenya, according to an investigation by the Swedish outlets Svenska Dagbladet and G&ouml;teborgs-Posten. The report, which was published last week, claims Meta contractors in Kenya have seen videos captured with the smart glasses that show \"bathroom visits, sex and other intimate moments.\" So far, at least one proposed class action lawsuit accusing Meta of violating false advertising and privacy…",
@@ -235,15 +271,6 @@
       "source": "The Verge",
       "sourceUrl": "https://www.theverge.com/tech/889637/meta-ai-smart-glasses-human-reviewers-kenya",
       "publishedAt": "2026-03-05T16:37:52.000Z"
-    },
-    {
-      "id": "bvtydw",
-      "title": "Netflix buys Ben Affleck’s AI filmmaking company InterPositive",
-      "summary": "InterPositive isn't trying to make AI actors or synthetic performances. Rather, the company has created a model that helps production teams work with footage from their own productions to help make edits in post-production.",
-      "imageUrl": "https://images.unsplash.com/photo-1485827404703-89b55fcc595e?w=800&q=80",
-      "source": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/03/05/netflix-buys-ben-afflecks-ai-filmmaking-company-interpositive/",
-      "publishedAt": "2026-03-05T16:19:57.000Z"
     },
     {
       "id": "3mi09b",
@@ -345,15 +372,6 @@
       "publishedAt": "2026-03-04T20:32:42.000Z"
     },
     {
-      "id": "1jhfim",
-      "title": "Google’s AI-powered workspace is now available to more users in Search",
-      "summary": "Google is bringing Canvas to everyone in the US using AI Mode in Search. The feature opens up a dedicated workspace within its AI-powered search tool, allowing it to use the latest information from Search to organize plans, develop tools, and draft documents in a panel alongside your chat. Though Google initially launched Canvas inside its Gemini app as a way to create documents and code in real-time, it later tested the feature in AI Mode - but only for visualizing travel plans. Now, you can…",
-      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/03/Canvas-in-AI-Mode-scholarship-tracker.png?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "source": "The Verge",
-      "sourceUrl": "https://www.theverge.com/tech/889339/google-canvas-ai-mode-search-us-launch",
-      "publishedAt": "2026-03-04T18:57:01.000Z"
-    },
-    {
       "id": "l9v5qu",
       "title": "Bridging the operational AI gap",
       "summary": "The transformational potential of AI is already well established. Enterprise use cases are building momentum and organizations are transitioning from pilot projects to AI in production. Companies are no longer just talking about AI; they are redirecting budgets and resources to make it happen. Many are already experimenting with agentic AI, which promises new levels…",
@@ -433,15 +451,6 @@
       "source": "Wired",
       "sourceUrl": "https://www.wired.com/story/deutsche-telekom-elevenlabs-ai-phone-calls-mwc-2026/",
       "publishedAt": "2026-03-03T00:25:44.000Z"
-    },
-    {
-      "id": "ocr2zp",
-      "title": "OpenAI’s “compromise” with the Pentagon is what Anthropic feared",
-      "summary": "On February 28, OpenAI announced it had reached a deal that will allow the US military to use its technologies in classified settings. CEO Sam Altman said the negotiations, which the company began pursuing only after the Pentagon’s public reprimand of Anthropic, were “definitely rushed.” In its announcements, OpenAI took great pains to say that…",
-      "imageUrl": "https://images.unsplash.com/photo-1531746790095-6c10a4031c5f?w=800&q=80",
-      "source": "MIT Tech Review",
-      "sourceUrl": "https://www.technologyreview.com/2026/03/02/1133850/openais-compromise-with-the-pentagon-is-what-anthropic-feared/",
-      "publishedAt": "2026-03-02T17:29:42.000Z"
     },
     {
       "id": "uo2cn5",
@@ -532,15 +541,6 @@
       "source": "Ars Technica",
       "sourceUrl": "https://arstechnica.com/ai/2026/02/sixteen-claude-ai-agents-working-together-created-a-new-c-compiler/",
       "publishedAt": "2026-02-06T23:40:58.000Z"
-    },
-    {
-      "id": "efnd1i",
-      "title": "Malicious packages for dYdX cryptocurrency exchange empties user wallets",
-      "summary": "Incident is at least the third time the exchange has been targeted by thieves.",
-      "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2026/02/cryptocurrency-theft-heist-1152x648.jpg",
-      "source": "Ars Technica",
-      "sourceUrl": "https://arstechnica.com/security/2026/02/malicious-packages-for-dydx-cryptocurrency-exchange-empties-user-wallets/",
-      "publishedAt": "2026-02-06T22:16:51.000Z"
     }
   ]
 }
