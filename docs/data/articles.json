@@ -1,7 +1,16 @@
 {
-  "fetchedAt": "2026-03-06T20:43:00.089Z",
+  "fetchedAt": "2026-03-06T23:35:15.647Z",
   "count": 60,
   "articles": [
+    {
+      "id": "ppcy39",
+      "title": "Grammarly is using our identities without permission",
+      "summary": "Grammarly's \"expert review\" feature offers to give users writing advice \"inspired by\" subject matter experts, including recently deceased professors, as Wired reported on Wednesday. When I tried the feature out myself, I found some experts that came as a surprise for a different reason - one of them was my boss. The AI-generated feedback included comments that appeared to be from The Verge's editor-in-chief, Nilay Patel, as well as editor-at-large David Pierce and senior editors Sean Hollister…",
+      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/03/grammr-crop.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "source": "The Verge",
+      "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/890921/grammarly-ai-expert-reviews",
+      "publishedAt": "2026-03-06T20:58:24.000Z"
+    },
     {
       "id": "yont5v",
       "title": "Microsoft, Google, Amazon say Anthropic Claude remains available to non-defense customers",
@@ -361,15 +370,6 @@
       "source": "Wired",
       "sourceUrl": "https://www.wired.com/story/ai-model-military-use-smack-technologies/",
       "publishedAt": "2026-03-04T22:00:03.000Z"
-    },
-    {
-      "id": "xpzvyj",
-      "title": "NotebookLM can now summarize research in ‘cinematic’ video overviews",
-      "summary": "Google's NotebookLM can now turn users' research and notes into fully animated \"cinematic\" videos, going a step further than the original video overview feature Google introduced last year. Previously, video overviews could only generate narrated slideshows, but the upgraded video overview feature uses a combination of Google's AI models, \"including Gemini 3, Nano Banana Pro and Veo 3,\" to generate animated visuals based on the content of users' notes. Google says Gemini \"determines the best…",
-      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/03/STK093_Google_02.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "source": "The Verge",
-      "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/889475/notebooklm-can-now-summarize-research-in-cinematic-video-overviews",
-      "publishedAt": "2026-03-04T20:32:42.000Z"
     },
     {
       "id": "l9v5qu",
