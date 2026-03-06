@@ -1,7 +1,16 @@
 {
-  "fetchedAt": "2026-03-06T11:03:30.644Z",
+  "fetchedAt": "2026-03-06T11:53:03.662Z",
   "count": 60,
   "articles": [
+    {
+      "id": "61iaji",
+      "title": "Why Is Alexa+ So Bad?",
+      "summary": "I stuck Amazon’s Echo Show 15 and its Alexa+ AI assistant in my kitchen for a month. Things have not gone well.",
+      "imageUrl": "https://media.wired.com/photos/69aa27d5d871d7f0e8562540/master/pass/Gear_Echo15_GettyImages-1343644732.jpg",
+      "source": "Wired",
+      "sourceUrl": "https://www.wired.com/story/why-is-amazon-alexa-plus-so-bad/",
+      "publishedAt": "2026-03-06T11:00:00.000Z"
+    },
     {
       "id": "47xqpc",
       "title": "Jack Dorsey Is Ready to Explain the Block Layoffs",
@@ -424,15 +433,6 @@
       "source": "MIT Tech Review",
       "sourceUrl": "https://www.technologyreview.com/2026/03/02/1133811/the-download-protesting-ai-and-whats-floating-in-space/",
       "publishedAt": "2026-03-02T13:20:00.000Z"
-    },
-    {
-      "id": "ncmz6y",
-      "title": "The Data Centers Have Arrived at the Edge of the Arctic Circle",
-      "summary": "As AI labs gorge themselves on compute, data center operators have headed north in search of cheap and plentiful energy.",
-      "imageUrl": "https://media.wired.com/photos/699f79c89c1839834b2d7742/master/pass/Arctic-Circle-Next-Frontier-In-AI-Infrastructure-Wars-Business-2163338735.jpg",
-      "source": "Wired",
-      "sourceUrl": "https://www.wired.com/story/ai-supremacy-data-center-expansion-arctic-circle/",
-      "publishedAt": "2026-03-02T10:00:00.000Z"
     },
     {
       "id": "uo2cn5",
