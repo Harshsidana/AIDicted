@@ -1,7 +1,16 @@
 {
-  "fetchedAt": "2026-03-06T15:06:20.429Z",
+  "fetchedAt": "2026-03-06T17:08:06.155Z",
   "count": 60,
   "articles": [
+    {
+      "id": "9olpsg",
+      "title": "City Detect, which uses AI to help cities stay safe and clean, raises $13M Series A",
+      "summary": "City Detect, a company that helps local governments prevent urban decay, is in at least 17 cities so far, including Dallas and Miami.",
+      "imageUrl": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=800&q=80",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/03/06/city-detect-uses-ai-to-help-cities-stay-safe-and-clean/",
+      "publishedAt": "2026-03-06T14:00:00.000Z"
+    },
     {
       "id": "ouua5o",
       "title": "After Europe, WhatsApp will let rival AI companies offer chatbots in Brazil",
@@ -109,6 +118,15 @@
       "source": "Wired",
       "sourceUrl": "https://www.wired.com/story/made-in-china-bytedances-ai-ambitions-are-being-hampered-by-compute-restraints/",
       "publishedAt": "2026-03-05T21:14:22.000Z"
+    },
+    {
+      "id": "cn3q0l",
+      "title": "Amazon appears to be down, with over 20,000 reported problems",
+      "summary": "Problems viewing products and checking out.",
+      "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2024/10/GettyImages-535059003-1024x648.jpg",
+      "source": "Ars Technica",
+      "sourceUrl": "https://arstechnica.com/gadgets/2026/03/amazon-appears-to-be-down-with-over-20000-reported-problems/",
+      "publishedAt": "2026-03-05T21:06:05.000Z"
     },
     {
       "id": "wpv7cq",
@@ -280,15 +298,6 @@
       "source": "MIT Tech Review",
       "sourceUrl": "https://www.technologyreview.com/2026/03/05/1133962/online-harassment-is-entering-its-ai-era/",
       "publishedAt": "2026-03-05T10:00:00.000Z"
-    },
-    {
-      "id": "9xlw28",
-      "title": "Jensen Huang says Nvidia is pulling back from OpenAI and Anthropic, but his explanation raises more questions than it answers",
-      "summary": "Nvidia CEO Jensen Huang said Wednesday that his company's investments in OpenAI and Anthropic will likely be its last — but his explanation may not tell the whole story.",
-      "imageUrl": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=800&q=80",
-      "source": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/03/04/jensen-huang-says-nvidia-is-pulling-back-from-openai-and-anthropic-but-his-explanation-raises-more-questions-than-it-answers/",
-      "publishedAt": "2026-03-05T01:08:28.000Z"
     },
     {
       "id": "bni8l",
@@ -532,15 +541,6 @@
       "source": "Ars Technica",
       "sourceUrl": "https://arstechnica.com/security/2026/02/malicious-packages-for-dydx-cryptocurrency-exchange-empties-user-wallets/",
       "publishedAt": "2026-02-06T22:16:51.000Z"
-    },
-    {
-      "id": "67ofvl",
-      "title": "AI companies want you to stop chatting with bots and start managing them",
-      "summary": "Claude Opus 4.6 and OpenAI Frontier pitch a future of supervising AI agents.",
-      "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2025/05/lazy_workers-1-1152x648.jpg",
-      "source": "Ars Technica",
-      "sourceUrl": "https://arstechnica.com/information-technology/2026/02/ai-companies-want-you-to-stop-chatting-with-bots-and-start-managing-them/",
-      "publishedAt": "2026-02-05T22:47:54.000Z"
     }
   ]
 }
