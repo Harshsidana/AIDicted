@@ -1,7 +1,25 @@
 {
-  "fetchedAt": "2026-03-06T17:08:06.155Z",
+  "fetchedAt": "2026-03-06T18:02:22.643Z",
   "count": 60,
   "articles": [
+    {
+      "id": "muof8j",
+      "title": "Anthropic vs. the Pentagon, the SaaSpocalypse, and why competitions is good, actually",
+      "summary": "The Pentagon has officially designated Anthropic a supply-chain risk after the two failed to agree on how much control the military should have over its AI models, including its use in autonomous weapons and mass domestic surveillance. As Anthropic’s $200 million contract fell apart, the DoD turned to OpenAI instead, which accepted and then watched ChatGPT uninstalls surge 295%. As the stakes keep rising, the question remains: how much unrestricted […]",
+      "imageUrl": "https://images.unsplash.com/photo-1526374965328-7f61d4dc18c5?w=800&q=80",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/podcast/anthropic-vs-the-pentagon-the-saaspocalypse-and-why-competitions-is-good-actually/",
+      "publishedAt": "2026-03-06T18:01:38.000Z"
+    },
+    {
+      "id": "xcbjly",
+      "title": "Claude’s consumer growth surge continues after Pentagon deal debacle",
+      "summary": "Claude's app is now seeing more new installs than ChatGPT and is growing its daily active users.",
+      "imageUrl": "https://images.unsplash.com/photo-1550751827-4bd374c3f58b?w=800&q=80",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/03/06/claudes-consumer-growth-surge-continues-after-pentagon-deal-debacle/",
+      "publishedAt": "2026-03-06T17:56:07.000Z"
+    },
     {
       "id": "9olpsg",
       "title": "City Detect, which uses AI to help cities stay safe and clean, raises $13M Series A",
@@ -253,24 +271,6 @@
       "source": "The Verge",
       "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/889395/ai-agents-unmask-anonymous-online-accounts",
       "publishedAt": "2026-03-05T13:30:00.000Z"
-    },
-    {
-      "id": "ixuzc6",
-      "title": "How 1,000+ customer calls shaped a breakout enterprise AI startup",
-      "summary": "On this episode of Build Mode, David Park joins Isabelle Johannessen to discuss how he and his team are intentionally iterating, fundraising, and scaling Narada.",
-      "imageUrl": "https://images.unsplash.com/photo-1526374965328-7f61d4dc18c5?w=800&q=80",
-      "source": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/03/05/how-1000-customer-calls-shaped-a-breakout-enterprise-ai-startup/",
-      "publishedAt": "2026-03-05T13:15:00.000Z"
-    },
-    {
-      "id": "qwcmk9",
-      "title": "Lio raises $30M from Andreessen Horowitz and others to automate enterprise procurement",
-      "summary": "AI procurement startup Lio announced a $30 million Series A in a round led by Andreessen Horowitz.",
-      "imageUrl": "https://images.unsplash.com/photo-1485827404703-89b55fcc595e?w=800&q=80",
-      "source": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/03/05/lio-ai-series-a-a16z-30m-raise-automate-enterprise-procurement/",
-      "publishedAt": "2026-03-05T13:00:00.000Z"
     },
     {
       "id": "qpkn75",
