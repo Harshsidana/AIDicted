@@ -1,7 +1,16 @@
 {
-  "fetchedAt": "2026-03-06T09:04:45.332Z",
+  "fetchedAt": "2026-03-06T10:03:51.544Z",
   "count": 60,
   "articles": [
+    {
+      "id": "47xqpc",
+      "title": "Jack Dorsey Is Ready to Explain the Block Layoffs",
+      "summary": "In an exclusive interview with WIRED, Block’s cofounder and CEO says he axed 40 percent of his workforce so that he can rebuild the company “as an intelligence.”",
+      "imageUrl": "https://media.wired.com/photos/69aa3519fd9d3f6311038e57/master/pass/Big-Interview-Jack-Dorsey-Business-2001060765.jpg",
+      "source": "Wired",
+      "sourceUrl": "https://www.wired.com/story/jack-dorsey-explains-block-layoffs/",
+      "publishedAt": "2026-03-06T10:00:00.000Z"
+    },
     {
       "id": "3ijshs",
       "title": "Anthropic to challenge DOD’s supply-chain label in court",
@@ -23,7 +32,7 @@
     {
       "id": "85i3jg",
       "title": "The Pentagon formally labels Anthropic a supply-chain risk",
-      "summary": "US Defense Secretary Pete Hegseth speaks during a press conference on US military action in Iran, at the Pentagon in Washington, DC, on March 2, 2026. | Brendan Smialowski/AFP via Getty Images View Link After weeks of failed negotiations, public ultimatums, and lawsuit threats, the Defense Department has formally labeled Anthropic a \"supply-chain risk\", escalating its fight with the AI company over their acceptable use policies and potentially bringing their fight to court. The decision, first…",
+      "summary": "US Defense Secretary Pete Hegseth speaks during a press conference on US military action in Iran, at the Pentagon in Washington, DC, on March 2, 2026. | Brendan Smialowski/AFP via Getty Images After weeks of failed negotiations, public ultimatums, and lawsuit threats, the Defense Department has formally labeled Anthropic a \"supply-chain risk\", escalating its fight with the AI company over their acceptable use policies and potentially bringing their fight to court. The decision, first reported by…",
       "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/03/gettyimages-2263863571.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
       "source": "The Verge",
       "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/890347/pentagon-anthropic-supply-chain-risk",
@@ -424,15 +433,6 @@
       "source": "Wired",
       "sourceUrl": "https://www.wired.com/story/ai-supremacy-data-center-expansion-arctic-circle/",
       "publishedAt": "2026-03-02T10:00:00.000Z"
-    },
-    {
-      "id": "xluoc4",
-      "title": "Anthropic Hits Back After US Military Labels It a ‘Supply Chain Risk’",
-      "summary": "Anthropic says it would be “legally unsound” for the Pentagon to blacklist its technology after talks over military use of its artificial intelligence models broke down.",
-      "imageUrl": "https://media.wired.com/photos/69a23b028618f79c55732aa9/master/pass/Anthropic-Supply-Chain-Risk-Business-2261589216.jpg",
-      "source": "Wired",
-      "sourceUrl": "https://www.wired.com/story/anthropic-supply-chain-risk-shockwaves-silicon-valley/",
-      "publishedAt": "2026-02-28T03:30:41.000Z"
     },
     {
       "id": "uo2cn5",
