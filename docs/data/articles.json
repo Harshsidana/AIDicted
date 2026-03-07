@@ -1,7 +1,16 @@
 {
-  "fetchedAt": "2026-03-06T23:35:15.647Z",
+  "fetchedAt": "2026-03-07T04:26:43.488Z",
   "count": 60,
   "articles": [
+    {
+      "id": "xzajbb",
+      "title": "This Jammer Wants to Block Always-Listening AI Wearables. It Probably Won’t Work",
+      "summary": "Deveillance’s Spectre I, developed by a recent Harvard grad, wants to give people control over the always-on wearables surrounding their lives. The problem? Physics.",
+      "imageUrl": "https://media.wired.com/photos/69a9ed524d78fe1b285c59c4/master/pass/Gear_Spectre_2.jpg",
+      "source": "Wired",
+      "sourceUrl": "https://www.wired.com/story/deveillance-spectre-i/",
+      "publishedAt": "2026-03-06T23:45:14.000Z"
+    },
     {
       "id": "ppcy39",
       "title": "Grammarly is using our identities without permission",
@@ -442,15 +451,6 @@
       "source": "Wired",
       "sourceUrl": "https://www.wired.com/story/joe-gebbia-mystery-metallic-device/",
       "publishedAt": "2026-03-03T01:06:01.000Z"
-    },
-    {
-      "id": "us26i8",
-      "title": "Summon This AI Agent by Speaking Its Wake Word Mid-Phone Call",
-      "summary": "Deutsche Telekom, the German cell provider—which holds a majority stake in T-Mobile—is partnering with ElevenLabs to enable an AI assistant on all of its network’s calls in Germany. No app required.",
-      "imageUrl": "https://media.wired.com/photos/69a60357f5e4bf87e63fb28e/master/pass/sec-telecom-2259493480.jpg",
-      "source": "Wired",
-      "sourceUrl": "https://www.wired.com/story/deutsche-telekom-elevenlabs-ai-phone-calls-mwc-2026/",
-      "publishedAt": "2026-03-03T00:25:44.000Z"
     },
     {
       "id": "uo2cn5",
