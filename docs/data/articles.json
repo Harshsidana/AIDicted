@@ -1,7 +1,16 @@
 {
-  "fetchedAt": "2026-03-07T16:37:35.682Z",
+  "fetchedAt": "2026-03-07T17:50:32.926Z",
   "count": 60,
   "articles": [
+    {
+      "id": "lk2jvd",
+      "title": "OpenAI delays ChatGPT’s ‘adult mode’ again",
+      "summary": "The feature, which will give verified adult users access to erotica and other adult content, had already been delayed from December.",
+      "imageUrl": "https://images.unsplash.com/photo-1655720828018-edd2daec9349?w=800&q=80",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/03/07/openai-delays-chatgpts-adult-mode-again/",
+      "publishedAt": "2026-03-07T17:28:41.000Z"
+    },
     {
       "id": "snmd1e",
       "title": "The OpenClaw superfan meetup serves optimism and lobster",
@@ -280,15 +289,6 @@
       "source": "The Verge",
       "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/889926/openai-gpt-5-4-model-release-ai-agents",
       "publishedAt": "2026-03-05T18:00:00.000Z"
-    },
-    {
-      "id": "a06c56",
-      "title": "Cursor is rolling out a new kind of agentic coding tool",
-      "summary": "Called Automations, the new system gives users a way to automatically launch agents within their coding environment, triggered by a new addition to the codebase, a Slack message, or a simple timer.",
-      "imageUrl": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=800&q=80",
-      "source": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/03/05/cursor-is-rolling-out-a-new-system-for-agentic-coding/",
-      "publishedAt": "2026-03-05T17:00:00.000Z"
     },
     {
       "id": "g2a4ut",
