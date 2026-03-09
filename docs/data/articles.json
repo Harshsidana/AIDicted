@@ -1,7 +1,16 @@
 {
-  "fetchedAt": "2026-03-09T21:40:45.424Z",
+  "fetchedAt": "2026-03-09T22:37:47.451Z",
   "count": 60,
   "articles": [
+    {
+      "id": "c0aexo",
+      "title": "Apple smart home display rumors now point to a fall launch with iOS 27",
+      "summary": "The rumored \"HomePod with a screen\" we've heard so much about was reportedly lined up for launch in 2025, and then this spring, and now, according to the latest updates, it's on the shelf until this fall. Leaker Kosutami posted as much on X last week, and today, Bloomberg reporter Mark Gurman followed up with similar information, saying its robot arm-equipped cousin is now planned for launch in 2027. According to Gurman, the J490 smart home display / HomePad is waiting for Apple to finish work…",
+      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/11/STKB377_APPLE_HOME_APP_A.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "source": "The Verge",
+      "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/891723/apple-homepad-delay-rumor",
+      "publishedAt": "2026-03-09T22:26:50.000Z"
+    },
     {
       "id": "w5ik9v",
       "title": "OpenAI and Google employees rush to Anthropic’s defense in DOD lawsuit",
@@ -14,7 +23,7 @@
     {
       "id": "wrf4xo",
       "title": "Anthropic Claims Pentagon Feud Could Cost It Billions",
-      "summary": "Executives at the AI startup say companies paused deal talks after the Trump administration labeled it a supply-chain risk, warning the fallout could cause a major revenue hit.",
+      "summary": "Executives at the AI startup say companies paused deal talks after the Trump administration labeled it a supply-chain risk, warning that the fallout could cause a major revenue hit.",
       "imageUrl": "https://media.wired.com/photos/69af1b724c895b3ad54af4cd/master/pass/Anthropic-Claims-Business-Is-in-Peril-Business-2235057484.jpg",
       "source": "Wired",
       "sourceUrl": "https://www.wired.com/story/anthropic-claims-business-is-in-peril-due-to-supply-chain-risk-designation/",
@@ -379,15 +388,6 @@
       "source": "The Verge",
       "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/889926/openai-gpt-5-4-model-release-ai-agents",
       "publishedAt": "2026-03-05T18:00:00.000Z"
-    },
-    {
-      "id": "g2a4ut",
-      "title": "Meta’s AI glasses reportedly send sensitive footage to human reviewers in Kenya",
-      "summary": "Meta's AI-powered smart glasses could be sending sensitive footage to human reviewers in Nairobi, Kenya, according to an investigation by the Swedish outlets Svenska Dagbladet and G&ouml;teborgs-Posten. The report, which was published last week, claims Meta contractors in Kenya have seen videos captured with the smart glasses that show \"bathroom visits, sex and other intimate moments.\" So far, at least one proposed class action lawsuit accusing Meta of violating false advertising and privacy…",
-      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/09/Verge-Ray-ban-Meta-Gen2-Stills-6.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "source": "The Verge",
-      "sourceUrl": "https://www.theverge.com/tech/889637/meta-ai-smart-glasses-human-reviewers-kenya",
-      "publishedAt": "2026-03-05T16:37:52.000Z"
     },
     {
       "id": "3mi09b",
