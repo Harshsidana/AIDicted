@@ -1,7 +1,25 @@
 {
-  "fetchedAt": "2026-03-09T16:05:17.681Z",
+  "fetchedAt": "2026-03-09T17:26:35.887Z",
   "count": 60,
   "articles": [
+    {
+      "id": "p9k2ey",
+      "title": "Anthropic sues Defense Department over supply chain risk designation",
+      "summary": "Anthropic filed suit against the Department of Defense on Monday after the agency labeled it a supply chain risk. The complaint calls the DOD's actions \"unprecedented and unlawful.\"",
+      "imageUrl": "https://images.unsplash.com/photo-1676299081847-824916de030a?w=800&q=80",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/03/09/anthropic-sues-defense-department-over-supply-chain-risk-designation/",
+      "publishedAt": "2026-03-09T17:25:40.000Z"
+    },
+    {
+      "id": "a19jcy",
+      "title": "Anthropic is suing the Department of Defense",
+      "summary": "Anthropic has sued the US government over its designation as a supply-chain risk, the latest move in a weekslong battle between it and the Pentagon over the acceptable use cases for its military AI tech. The suit, filed in a California district court, accuses the Trump administration of illegally punishing the company for setting \"red lines\" on mass domestic surveillance and fully autonomous weapons. \"The federal government retaliated against a leading frontier AI developer for adhering to its…",
+      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/03/STKS515_CYBER_WARFARE2_B.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "source": "The Verge",
+      "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/891377/anthropic-dod-lawsuit",
+      "publishedAt": "2026-03-09T16:37:42.000Z"
+    },
     {
       "id": "b7t0wt",
       "title": "Qualcomm’s partnership with Neura Robotics is just the beginning",
@@ -12,17 +30,8 @@
       "publishedAt": "2026-03-09T15:58:11.000Z"
     },
     {
-      "id": "p9k2ey",
-      "title": "Anthropic sues Defense Department over supply chain risk designation",
-      "summary": "Anthropic filed suit against the Department of Defense on Monday after the agency labeled it a supply chain risk. The complaint calls the DOD's actions \"unprecedented and unlawful.\"",
-      "imageUrl": "https://images.unsplash.com/photo-1676299081847-824916de030a?w=800&q=80",
-      "source": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/03/09/anthropic-sues-defense-department-over-supply-chain-risk-designation/",
-      "publishedAt": "2026-03-09T15:39:36.000Z"
-    },
-    {
-      "id": "5ulde4",
-      "title": "Anthropic Sues Department of Defense Over Supply-Chain Risk Designation",
+      "id": "1onp7r",
+      "title": "Anthropic Sues Department of Defense Over Supply-Chain-Risk Designation",
       "summary": "The Claude chatbot developer says the Trump administration overstepped by escalating a contract dispute into a federal ban on the company’s technology.",
       "imageUrl": "https://media.wired.com/photos/69a77e0879e62d2329a1659f/master/pass/Anthropic-Sues-DOD-Business-2261514586.jpg",
       "source": "Wired",
@@ -32,7 +41,7 @@
     {
       "id": "d97n4i",
       "title": "X says you can block Grok from editing your photos",
-      "summary": "Pay attention to that small print about tagging @Grok, this new toggle has disappointing limitations. | Image by The Verge / xAI X has introduced a new feature that makes it slightly harder for other users to manipulate your uploaded images with the Grok chatbot. As reported by Social Media Today and verified by The Verge, a new toggle within the image upload settings on the X iOS appsays it can \"block modifications by Grok\" when enabled. But it doesn't actually prevent Grok from editing your…",
+      "summary": "Pay attention to that small print about tagging @Grok, this new toggle has disappointing limitations. | Image by The Verge / xAI X has introduced a new feature that makes it slightly harder for other users to manipulate your uploaded images with the Grok chatbot. As reported by Social Media Today and verified by The Verge, a new toggle within the image upload settings on the X iOS app says it can \"block modifications by Grok\" when enabled. But it doesn't actually prevent Grok from editing your…",
       "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/03/Grok-block-edit-options-hed.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
       "source": "The Verge",
       "sourceUrl": "https://www.theverge.com/tech/891352/x-grok-xai-edit-blocker-photo-toggle",
@@ -379,15 +388,6 @@
       "source": "The Verge",
       "sourceUrl": "https://www.theverge.com/tech/889836/apple-music-ai-transparency-tags-launch",
       "publishedAt": "2026-03-05T14:00:00.000Z"
-    },
-    {
-      "id": "h2ie1k",
-      "title": "AI tools can unmask anonymous accounts",
-      "summary": "Do you have a Reddit alt, secret X, finsta, or Glassdoor account you trash your boss with? AI might have just made it a lot easier to unmask you. That's the conclusion of a recently published study, which hints at some uncomfortable consequences for staying private online - even if it's not quite time to hold a funeral for anonymity just yet. The finding, which has not been peer reviewed, comes from researchers at ETH Zurich, Anthropic, and the Machine Learning Alignment and Theory Scholars…",
-      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/03/STK419_DEEPFAKE_3_CVIRGINIA_C.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "source": "The Verge",
-      "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/889395/ai-agents-unmask-anonymous-online-accounts",
-      "publishedAt": "2026-03-05T13:30:00.000Z"
     },
     {
       "id": "77qwr3",
