@@ -1,7 +1,88 @@
 {
-  "fetchedAt": "2026-03-09T11:58:16.346Z",
+  "fetchedAt": "2026-03-09T16:05:17.681Z",
   "count": 60,
   "articles": [
+    {
+      "id": "b7t0wt",
+      "title": "Qualcomm’s partnership with Neura Robotics is just the beginning",
+      "summary": "Neura Robotics is going to build new robots on top of Qualcomm's new IQ10 processors that were released at CES.",
+      "imageUrl": "https://images.unsplash.com/photo-1531746790095-6c10a4031c5f?w=800&q=80",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/03/09/qualcomms-partnership-with-neura-robotics-is-just-the-beginning/",
+      "publishedAt": "2026-03-09T15:58:11.000Z"
+    },
+    {
+      "id": "p9k2ey",
+      "title": "Anthropic sues Defense Department over supply chain risk designation",
+      "summary": "Anthropic filed suit against the Department of Defense on Monday after the agency labeled it a supply chain risk. The complaint calls the DOD's actions \"unprecedented and unlawful.\"",
+      "imageUrl": "https://images.unsplash.com/photo-1676299081847-824916de030a?w=800&q=80",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/03/09/anthropic-sues-defense-department-over-supply-chain-risk-designation/",
+      "publishedAt": "2026-03-09T15:39:36.000Z"
+    },
+    {
+      "id": "5ulde4",
+      "title": "Anthropic Sues Department of Defense Over Supply-Chain Risk Designation",
+      "summary": "The Claude chatbot developer says the Trump administration overstepped by escalating a contract dispute into a federal ban on the company’s technology.",
+      "imageUrl": "https://media.wired.com/photos/69a77e0879e62d2329a1659f/master/pass/Anthropic-Sues-DOD-Business-2261514586.jpg",
+      "source": "Wired",
+      "sourceUrl": "https://www.wired.com/story/anthropic-sues-department-of-defense-over-supply-chain-risk-designation/",
+      "publishedAt": "2026-03-09T15:29:57.000Z"
+    },
+    {
+      "id": "d97n4i",
+      "title": "X says you can block Grok from editing your photos",
+      "summary": "Pay attention to that small print about tagging @Grok, this new toggle has disappointing limitations. | Image by The Verge / xAI X has introduced a new feature that makes it slightly harder for other users to manipulate your uploaded images with the Grok chatbot. As reported by Social Media Today and verified by The Verge, a new toggle within the image upload settings on the X iOS appsays it can \"block modifications by Grok\" when enabled. But it doesn't actually prevent Grok from editing your…",
+      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/03/Grok-block-edit-options-hed.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "source": "The Verge",
+      "sourceUrl": "https://www.theverge.com/tech/891352/x-grok-xai-edit-blocker-photo-toggle",
+      "publishedAt": "2026-03-09T15:24:03.000Z"
+    },
+    {
+      "id": "48htnh",
+      "title": "How AI is turning the Iran conflict into theater",
+      "summary": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here. “Anyone wanna host a get together in SF and pull this up on a 100 inch TV?” The author of that post on X was referring to an online intelligence dashboard following…",
+      "imageUrl": "https://images.unsplash.com/photo-1620712943543-bcc4688e7485?w=800&q=80",
+      "source": "MIT Tech Review",
+      "sourceUrl": "https://www.technologyreview.com/2026/03/09/1134063/how-ai-is-turning-the-iran-conflict-into-theater/",
+      "publishedAt": "2026-03-09T15:11:01.000Z"
+    },
+    {
+      "id": "vgs3a2",
+      "title": "Sandberg, Clegg join Nscale board as this ‘Stargate Norway’ startup hits $14.6B valuation",
+      "summary": "Nvidia-backed British AI infrastructure startup Nscale has raised another megaround of $2 billion.",
+      "imageUrl": "https://images.unsplash.com/photo-1620712943543-bcc4688e7485?w=800&q=80",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/03/09/sandberg-clegg-join-nscale-board-as-this-stargate-norway-startup-hits-14-6b-valuation/",
+      "publishedAt": "2026-03-09T15:09:35.000Z"
+    },
+    {
+      "id": "9l3bzr",
+      "title": "The usability imperative for securing digital asset devices",
+      "summary": "When Tony Fadell started working on the iPod, usability often trumped security. The result was an iterative process. Every time someone would find a security weakness or a way to hack the device, the development group would iterate to add measures and fix the issues. Yet, flaws would frequently be found, and the secure design…",
+      "imageUrl": "https://images.unsplash.com/photo-1620712943543-bcc4688e7485?w=800&q=80",
+      "source": "MIT Tech Review",
+      "sourceUrl": "https://www.technologyreview.com/2026/03/09/1132352/the-usability-imperative-for-securing-digital-asset-devices/",
+      "publishedAt": "2026-03-09T14:00:00.000Z"
+    },
+    {
+      "id": "sk7q50",
+      "title": "The Download: murky AI surveillance laws, and the White House cracks down on defiant labs",
+      "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. Is the Pentagon allowed to surveil Americans with AI? The ongoing public feud between the Department of Defense and the AI company Anthropic has raised a deep and still unanswered question:…",
+      "imageUrl": "https://images.unsplash.com/photo-1620712943543-bcc4688e7485?w=800&q=80",
+      "source": "MIT Tech Review",
+      "sourceUrl": "https://www.technologyreview.com/2026/03/09/1134050/the-download-ai-surveillance-laws-white-house-cracks-down-defiant-labs/",
+      "publishedAt": "2026-03-09T13:57:44.000Z"
+    },
+    {
+      "id": "tf7er",
+      "title": "Feeld Was a Dating App for the Freaks. Now Some People Call It ‘Normie Hell’",
+      "summary": "The app that catered to unconventional kinks is gaining steam among daters with vanilla preferences—and some aren’t happy about it.",
+      "imageUrl": "https://media.wired.com/photos/69a0a29cb6ac674187e8acce/master/pass/Vanillas-Have-Gentrified-Feeld-Culture-145853219.jpg",
+      "source": "Wired",
+      "sourceUrl": "https://www.wired.com/story/feeld-was-a-dating-app-for-the-freaks-now-some-people-call-it-normie-hell/",
+      "publishedAt": "2026-03-09T13:00:00.000Z"
+    },
     {
       "id": "jab3an",
       "title": "Can AI Kill the Venture Capitalist?",
@@ -10,15 +91,6 @@
       "source": "Wired",
       "sourceUrl": "https://www.wired.com/story/ai-kill-venture-capital/",
       "publishedAt": "2026-03-09T09:00:00.000Z"
-    },
-    {
-      "id": "lxp5dl",
-      "title": "Ring’s Jamie Siminoff has been trying to calm privacy fears since the Super Bowl, but his answers may not help",
-      "summary": "The facial recognition question is where things get more tangled.",
-      "imageUrl": "https://images.unsplash.com/photo-1526374965328-7f61d4dc18c5?w=800&q=80",
-      "source": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/03/08/rings-jamie-siminoff-has-been-trying-to-calm-privacy-fears-since-the-super-bowl-but-his-answers-may-not-help/",
-      "publishedAt": "2026-03-09T04:35:06.000Z"
     },
     {
       "id": "m3hs61",
@@ -183,24 +255,6 @@
       "publishedAt": "2026-03-06T17:56:07.000Z"
     },
     {
-      "id": "9olpsg",
-      "title": "City Detect, which uses AI to help cities stay safe and clean, raises $13M Series A",
-      "summary": "City Detect, a company that helps local governments prevent urban decay, is in at least 17 cities so far, including Dallas and Miami.",
-      "imageUrl": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=800&q=80",
-      "source": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/03/06/city-detect-uses-ai-to-help-cities-stay-safe-and-clean/",
-      "publishedAt": "2026-03-06T14:00:00.000Z"
-    },
-    {
-      "id": "ouua5o",
-      "title": "After Europe, WhatsApp will let rival AI companies offer chatbots in Brazil",
-      "summary": "Meta is now allowing rival AI companies to provide their chatbots on WhatsApp to Brazilian users for a fee, a day after the company confirmed a similar decision for users in Europe.",
-      "imageUrl": "https://images.unsplash.com/photo-1550751827-4bd374c3f58b?w=800&q=80",
-      "source": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/03/06/after-europe-whatsapp-will-let-rival-ai-companies-offer-chatbots-in-brazil/",
-      "publishedAt": "2026-03-06T13:20:43.000Z"
-    },
-    {
       "id": "s97w3y",
       "title": "The Download: 10 things that matter in AI, plus Anthropic’s plan to sue the Pentagon",
       "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. Coming soon: our 10 Things That Matter in AI Right Now For years, MIT Technology Review’s newsroom has been ahead of the curve, tracking the developments in AI that matter and…",
@@ -336,15 +390,6 @@
       "publishedAt": "2026-03-05T13:30:00.000Z"
     },
     {
-      "id": "qpkn75",
-      "title": "Anthropic makes last-ditch effort to salvage deal with Pentagon after blowup",
-      "summary": "Anthropic CEO Dario Amodei is reportedly back at the negotiating table with the Department of Defense in an attempt to salvage the company's relationship with the US military and prevent it from being iced out of defense work for being a \"supply chain risk.\" Talks between the two parties imploded on Friday after weeks of bitter public feuding over the startup's refusal to grant the Pentagon unrestricted access to its AI, with rivals like OpenAI rushing to fill the void. Amodei is in talks with…",
-      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/03/STK202_DARIO_AMODEI_CVIRGINIA_D.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "source": "The Verge",
-      "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/889782/anthropic-pentagon-discussions-ai-deal",
-      "publishedAt": "2026-03-05T11:46:46.000Z"
-    },
-    {
       "id": "77qwr3",
       "title": "How much wildfire prevention is too much?",
       "summary": "The race to prevent the worst wildfires has been an increasingly high-tech one. Companies are proposing AI fire detection systems and drones that can stamp out early blazes. And now, one Canadian startup says it’s going after lightning. Lightning-sparked fires can be a big deal: The Canadian wildfires of 2023 generated nearly 500 million metric…",
@@ -370,24 +415,6 @@
       "source": "Wired",
       "sourceUrl": "https://www.wired.com/story/grammarly-is-offering-expert-ai-reviews-from-your-favorite-authors-dead-or-alive/",
       "publishedAt": "2026-03-04T22:56:37.000Z"
-    },
-    {
-      "id": "6bp2",
-      "title": "Big Tech Signs White House Data Center Pledge With Good Optics and Little Substance",
-      "summary": "“Data centers … they need some PR help,”President Donald Trump said at the event.",
-      "imageUrl": "https://media.wired.com/photos/69a87016c7816c1e1584e8ee/master/pass/Big-Tech-Signs-Nonbinding-White-House-Pledge-To-Protect-Consumers-From-Data-Centers-Science-2250991059.jpg",
-      "source": "Wired",
-      "sourceUrl": "https://www.wired.com/story/big-tech-signs-white-house-data-center-pledge-with-good-optics-not-much-substance/",
-      "publishedAt": "2026-03-04T22:13:27.000Z"
-    },
-    {
-      "id": "hxpnf3",
-      "title": "What AI Models for War Actually Look Like",
-      "summary": "While companies like Anthropic debate limits on military uses of AI, Smack Technologies is training models to plan battlefield operations.",
-      "imageUrl": "https://media.wired.com/photos/69a77468e7752c1bc32fe076/master/pass/AI-Lab-Autonomous-Weapons-Business-2.jpg",
-      "source": "Wired",
-      "sourceUrl": "https://www.wired.com/story/ai-model-military-use-smack-technologies/",
-      "publishedAt": "2026-03-04T22:00:03.000Z"
     },
     {
       "id": "l9v5qu",
@@ -417,24 +444,6 @@
       "publishedAt": "2026-03-03T22:20:06.000Z"
     },
     {
-      "id": "mpok6y",
-      "title": "MIT Technology Review Insiders Panel",
-      "summary": "Read the full article from MIT Tech Review.",
-      "imageUrl": "https://images.unsplash.com/photo-1620712943543-bcc4688e7485?w=800&q=80",
-      "source": "MIT Tech Review",
-      "sourceUrl": "https://www.technologyreview.com/2026/03/03/1133907/mit-technology-review-insiders-panel-2/",
-      "publishedAt": "2026-03-03T15:53:10.000Z"
-    },
-    {
-      "id": "pli75z",
-      "title": "The Download: The startup that says it can stop lightning, and inside OpenAI’s Pentagon deal",
-      "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. This startup claims it can stop lightning and prevent catastrophic wildfires Startup Skyward Wildfire says it can prevent catastrophic fires by stopping the lightning strikes that ignite them. So far, it hasn’t publicly…",
-      "imageUrl": "https://images.unsplash.com/photo-1676299081847-824916de030a?w=800&q=80",
-      "source": "MIT Tech Review",
-      "sourceUrl": "https://www.technologyreview.com/2026/03/03/1133900/the-download-the-startup-that-says-it-can-stop-lightning-and-inside-openais-pentagon-deal/",
-      "publishedAt": "2026-03-03T13:30:00.000Z"
-    },
-    {
       "id": "2jphmw",
       "title": "LLMs can unmask pseudonymous users at scale with surprising accuracy",
       "summary": "Pseudonymity has never been perfect for preserving privacy. Soon it may be pointless.",
@@ -442,15 +451,6 @@
       "source": "Ars Technica",
       "sourceUrl": "https://arstechnica.com/security/2026/03/llms-can-unmask-pseudonymous-users-at-scale-with-surprising-accuracy/",
       "publishedAt": "2026-03-03T12:30:24.000Z"
-    },
-    {
-      "id": "bln30j",
-      "title": "This startup claims it can stop lightning and prevent catastrophic wildfires",
-      "summary": "On June 1, 2023, as a sweltering heat wave baked Quebec, thousands of lightning strikes flashed across the province, setting off more than 120 wildfires. The blazes ripped through parched forests and withered grasslands, burned for weeks, and compounded what was rapidly turning into Canada’s worst fire year on record. In the end, nearly 7,000…",
-      "imageUrl": "https://images.unsplash.com/photo-1635070041078-e363dbe005cb?w=800&q=80",
-      "source": "MIT Tech Review",
-      "sourceUrl": "https://www.technologyreview.com/2026/03/03/1133848/this-startup-claims-it-can-stop-lightning-and-prevent-catastrophic-wildfires/",
-      "publishedAt": "2026-03-03T10:00:00.000Z"
     },
     {
       "id": "uo2cn5",
