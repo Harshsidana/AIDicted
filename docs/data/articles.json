@@ -1,7 +1,16 @@
 {
-  "fetchedAt": "2026-03-09T08:56:08.363Z",
+  "fetchedAt": "2026-03-09T10:02:29.438Z",
   "count": 60,
   "articles": [
+    {
+      "id": "jab3an",
+      "title": "Can AI Kill the Venture Capitalist?",
+      "summary": "VCs are betting that artificial intelligence will disrupt nearly every industry in the world. Are they prepared for it to disrupt their own?",
+      "imageUrl": "https://media.wired.com/photos/69ab52106bb4a5ea9482a549/master/pass/Can-AI-Kill-Venture-Capitalists-Business.jpg",
+      "source": "Wired",
+      "sourceUrl": "https://www.wired.com/story/ai-kill-venture-capital/",
+      "publishedAt": "2026-03-09T09:00:00.000Z"
+    },
     {
       "id": "lxp5dl",
       "title": "Ring’s Jamie Siminoff has been trying to calm privacy fears since the Super Bowl, but his answers may not help",
@@ -442,15 +451,6 @@
       "source": "MIT Tech Review",
       "sourceUrl": "https://www.technologyreview.com/2026/03/03/1133848/this-startup-claims-it-can-stop-lightning-and-prevent-catastrophic-wildfires/",
       "publishedAt": "2026-03-03T10:00:00.000Z"
-    },
-    {
-      "id": "lisp8c",
-      "title": "What Is That Mysterious Metallic Device US Chief Design Officer Joe Gebbia Is Using?",
-      "summary": "Gebbia was reportedly spotted at a San Francisco coffee shop using an unidentified pair of earbuds with a circular disc that looks similar to the device seen in a recent OpenAI hoax ad.",
-      "imageUrl": "https://media.wired.com/photos/69a61e4e7c1057ec63585309/master/pass/Gear_JoeGebbia_GettyImages-1183210213.jpg",
-      "source": "Wired",
-      "sourceUrl": "https://www.wired.com/story/joe-gebbia-mystery-metallic-device/",
-      "publishedAt": "2026-03-03T01:06:01.000Z"
     },
     {
       "id": "uo2cn5",
