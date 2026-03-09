@@ -1,12 +1,39 @@
 {
-  "fetchedAt": "2026-03-09T17:26:35.887Z",
+  "fetchedAt": "2026-03-09T20:49:24.112Z",
   "count": 60,
   "articles": [
     {
-      "id": "p9k2ey",
-      "title": "Anthropic sues Defense Department over supply chain risk designation",
+      "id": "x63p84",
+      "title": "OpenAI and Google Workers File Amicus Brief in Support of Anthropic Against the US Government",
+      "summary": "Google DeepMind chief scientist Jeff Dean is among the AI researchers and engineers rushing to Anthropic's defense.",
+      "imageUrl": "https://media.wired.com/photos/69af06ccc120eecf3f401e44/master/pass/OpenAI-Google-Employees-Support-Anthropic-Business-2185274983.jpg",
+      "source": "Wired",
+      "sourceUrl": "https://www.wired.com/story/openai-deepmind-employees-file-amicus-brief-anthropic-dod-lawsuit/",
+      "publishedAt": "2026-03-09T20:38:12.000Z"
+    },
+    {
+      "id": "60t9ua",
+      "title": "Anthropic launches code review tool to check flood of AI-generated code",
+      "summary": "Anthropic launched Code Review in Claude Code, a multi-agent system that automatically analyzes AI-generated code, flags logic errors, and helps enterprise developers manage the growing volume of code produced with AI.",
+      "imageUrl": "https://images.unsplash.com/photo-1550751827-4bd374c3f58b?w=800&q=80",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/03/09/anthropic-launches-code-review-tool-to-check-flood-of-ai-generated-code/",
+      "publishedAt": "2026-03-09T19:41:34.000Z"
+    },
+    {
+      "id": "htt6rr",
+      "title": "OpenAI acquires Promptfoo to secure its AI agents",
+      "summary": "This deal underscores how frontier labs are scrambling to prove their technology can be used safely in critical business operations.",
+      "imageUrl": "https://images.unsplash.com/photo-1620712943543-bcc4688e7485?w=800&q=80",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/03/09/openai-acquires-promptfoo-to-secure-its-ai-agents/",
+      "publishedAt": "2026-03-09T17:49:04.000Z"
+    },
+    {
+      "id": "kx6vn7",
+      "title": "Anthropic sues Defense Department over supply-chain risk designation",
       "summary": "Anthropic filed suit against the Department of Defense on Monday after the agency labeled it a supply chain risk. The complaint calls the DOD's actions \"unprecedented and unlawful.\"",
-      "imageUrl": "https://images.unsplash.com/photo-1676299081847-824916de030a?w=800&q=80",
+      "imageUrl": "https://images.unsplash.com/photo-1655720828018-edd2daec9349?w=800&q=80",
       "source": "TechCrunch",
       "sourceUrl": "https://techcrunch.com/2026/03/09/anthropic-sues-defense-department-over-supply-chain-risk-designation/",
       "publishedAt": "2026-03-09T17:25:40.000Z"
@@ -122,7 +149,7 @@
     {
       "id": "5etxi1",
       "title": "A roadmap for AI, if anyone will listen",
-      "summary": "The Pro-Human Declaration was finalized before last week's Pentagon-Anthropic standoff, but the collision of the two events wasn’t lost on anyone involved.",
+      "summary": "The Pro-Human AI Declaration was finalized before last week's Pentagon-Anthropic standoff, but the collision of the two events wasn’t lost on anyone involved.",
       "imageUrl": "https://images.unsplash.com/photo-1676299081847-824916de030a?w=800&q=80",
       "source": "TechCrunch",
       "sourceUrl": "https://techcrunch.com/2026/03/07/a-roadmap-for-ai-if-anyone-will-listen/",
@@ -140,7 +167,7 @@
     {
       "id": "dg67w0",
       "title": "Grammarly’s ‘expert review’ is just missing the actual experts",
-      "summary": "A recently-added feature in Grammarly purports to improve users’ writing with help from the world's great writers and thinkers — and some tech journalists, too.",
+      "summary": "A recently added feature in Grammarly purports to improve users’ writing with help from the world's great writers and thinkers — and some tech journalists, too.",
       "imageUrl": "https://images.unsplash.com/photo-1550751827-4bd374c3f58b?w=800&q=80",
       "source": "TechCrunch",
       "sourceUrl": "https://techcrunch.com/2026/03/07/grammarlys-expert-review-is-just-missing-the-actual-experts/",
@@ -244,24 +271,6 @@
       "source": "TechCrunch",
       "sourceUrl": "https://techcrunch.com/video/anthropics-pentagon-deal-is-a-cautionary-tale-for-startups-chasing-federal-contracts/",
       "publishedAt": "2026-03-06T18:09:11.000Z"
-    },
-    {
-      "id": "muof8j",
-      "title": "Anthropic vs. the Pentagon, the SaaSpocalypse, and why competitions is good, actually",
-      "summary": "The Pentagon has officially designated Anthropic a supply-chain risk after the two failed to agree on how much control the military should have over its AI models, including its use in autonomous weapons and mass domestic surveillance. As Anthropic’s $200 million contract fell apart, the DoD turned to OpenAI instead, which accepted and then watched ChatGPT uninstalls surge 295%. As the stakes keep rising, the question remains: how much unrestricted […]",
-      "imageUrl": "https://images.unsplash.com/photo-1526374965328-7f61d4dc18c5?w=800&q=80",
-      "source": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/podcast/anthropic-vs-the-pentagon-the-saaspocalypse-and-why-competitions-is-good-actually/",
-      "publishedAt": "2026-03-06T18:01:38.000Z"
-    },
-    {
-      "id": "xcbjly",
-      "title": "Claude’s consumer growth surge continues after Pentagon deal debacle",
-      "summary": "Claude's app is now seeing more new installs than ChatGPT and is growing its daily active users.",
-      "imageUrl": "https://images.unsplash.com/photo-1550751827-4bd374c3f58b?w=800&q=80",
-      "source": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/03/06/claudes-consumer-growth-surge-continues-after-pentagon-deal-debacle/",
-      "publishedAt": "2026-03-06T17:56:07.000Z"
     },
     {
       "id": "s97w3y",
@@ -406,15 +415,6 @@
       "source": "MIT Tech Review",
       "sourceUrl": "https://www.technologyreview.com/2026/03/05/1133962/online-harassment-is-entering-its-ai-era/",
       "publishedAt": "2026-03-05T10:00:00.000Z"
-    },
-    {
-      "id": "i04y8z",
-      "title": "Grammarly Is Offering ‘Expert’ AI Reviews From Your Favorite Authors—Dead or Alive",
-      "summary": "The tool, offered by the recently-rebranded company Superhuman, gives feedback based on the work of famous dead and living writers—without their permission.",
-      "imageUrl": "https://media.wired.com/photos/69a72224fed0d8b129f5a806/master/pass/Grammarly-Making-LLMs-Based-on-Dead-Academics-Culture-1473977398.jpg",
-      "source": "Wired",
-      "sourceUrl": "https://www.wired.com/story/grammarly-is-offering-expert-ai-reviews-from-your-favorite-authors-dead-or-alive/",
-      "publishedAt": "2026-03-04T22:56:37.000Z"
     },
     {
       "id": "l9v5qu",
