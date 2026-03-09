@@ -1,7 +1,34 @@
 {
-  "fetchedAt": "2026-03-09T20:49:24.112Z",
+  "fetchedAt": "2026-03-09T21:40:45.424Z",
   "count": 60,
   "articles": [
+    {
+      "id": "w5ik9v",
+      "title": "OpenAI and Google employees rush to Anthropic’s defense in DOD lawsuit",
+      "summary": "More than 30 OpenAI and Google DeepMind employees signed onto a statement supporting Anthropic's lawsuit against the Defense Department after the agency labeled the AI firm a supply-chain risk, according to court filings.",
+      "imageUrl": "https://images.unsplash.com/photo-1620712943543-bcc4688e7485?w=800&q=80",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/03/09/openai-and-google-employees-rush-to-anthropics-defense-in-dod-lawsuit/",
+      "publishedAt": "2026-03-09T21:15:17.000Z"
+    },
+    {
+      "id": "wrf4xo",
+      "title": "Anthropic Claims Pentagon Feud Could Cost It Billions",
+      "summary": "Executives at the AI startup say companies paused deal talks after the Trump administration labeled it a supply-chain risk, warning the fallout could cause a major revenue hit.",
+      "imageUrl": "https://media.wired.com/photos/69af1b724c895b3ad54af4cd/master/pass/Anthropic-Claims-Business-Is-in-Peril-Business-2235057484.jpg",
+      "source": "Wired",
+      "sourceUrl": "https://www.wired.com/story/anthropic-claims-business-is-in-peril-due-to-supply-chain-risk-designation/",
+      "publishedAt": "2026-03-09T20:49:29.000Z"
+    },
+    {
+      "id": "yo8sy1",
+      "title": "Employees across OpenAI and Google support Anthropic’s lawsuit against the Pentagon",
+      "summary": "On Monday, Anthropic filed its lawsuit against the Department of Defense over being designated as a supply chain risk. Hours later, nearly 40 employees from OpenAI and Google - including Jeff Dean, Google's chief scientist and Gemini lead - filed an amicus brief in support of Anthropic's lawsuit, detailing their concerns over the Trump administration's decision and the technology's risks and implications. The news follows a dramatic few weeks for Anthropic, in which the Trump administration…",
+      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/03/STKS515_CYBER_WARFARE2_D.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "source": "The Verge",
+      "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/891514/anthropic-pentagon-lawsuit-amicus-brief-openai-google",
+      "publishedAt": "2026-03-09T20:45:24.000Z"
+    },
     {
       "id": "x63p84",
       "title": "OpenAI and Google Workers File Amicus Brief in Support of Anthropic Against the US Government",
@@ -32,7 +59,7 @@
     {
       "id": "kx6vn7",
       "title": "Anthropic sues Defense Department over supply-chain risk designation",
-      "summary": "Anthropic filed suit against the Department of Defense on Monday after the agency labeled it a supply chain risk. The complaint calls the DOD's actions \"unprecedented and unlawful.\"",
+      "summary": "Anthropic filed suit against the Department of Defense on Monday after the agency labeled it a supply-chain risk. The complaint calls the DOD's actions \"unprecedented and unlawful.\"",
       "imageUrl": "https://images.unsplash.com/photo-1655720828018-edd2daec9349?w=800&q=80",
       "source": "TechCrunch",
       "sourceUrl": "https://techcrunch.com/2026/03/09/anthropic-sues-defense-department-over-supply-chain-risk-designation/",
@@ -264,15 +291,6 @@
       "publishedAt": "2026-03-06T19:00:22.000Z"
     },
     {
-      "id": "7z76sj",
-      "title": "Anthropic’s Pentagon deal is a cautionary tale for startups chasing federal contracts",
-      "summary": "The Pentagon has officially designated Anthropic a supply-chain risk after the two failed to agree on how much control the military should have over its AI models, including its use in autonomous weapons and mass domestic surveillance. As Anthropic’s $200 million contract fell apart, the DoD turned to OpenAI instead, which accepted and then watched ChatGPT uninstalls surge 295%. As the stakes keep rising, the question remains: how much unrestricted […]",
-      "imageUrl": "https://images.unsplash.com/photo-1635070041078-e363dbe005cb?w=800&q=80",
-      "source": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/video/anthropics-pentagon-deal-is-a-cautionary-tale-for-startups-chasing-federal-contracts/",
-      "publishedAt": "2026-03-06T18:09:11.000Z"
-    },
-    {
       "id": "s97w3y",
       "title": "The Download: 10 things that matter in AI, plus Anthropic’s plan to sue the Pentagon",
       "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. Coming soon: our 10 Things That Matter in AI Right Now For years, MIT Technology Review’s newsroom has been ahead of the curve, tracking the developments in AI that matter and…",
@@ -327,15 +345,6 @@
       "publishedAt": "2026-03-05T22:00:00.000Z"
     },
     {
-      "id": "tdl2io",
-      "title": "ByteDance’s AI Ambitions Are Being Hampered by Compute Restraints and Copyright Concerns",
-      "summary": "ByteDance’s new Seedance 2.0 AI video model seemed unstoppable—until heavy demand strained the company’s compute capacity and copyright complaints began piling up.",
-      "imageUrl": "https://media.wired.com/photos/69a8cd045c3afa23e264984b/master/pass/Made-In-China-ByteDance-AI-Ambitions-Business-1582149003.jpg",
-      "source": "Wired",
-      "sourceUrl": "https://www.wired.com/story/made-in-china-bytedances-ai-ambitions-are-being-hampered-by-compute-restraints/",
-      "publishedAt": "2026-03-05T21:14:22.000Z"
-    },
-    {
       "id": "cn3q0l",
       "title": "Amazon appears to be down, with over 20,000 reported problems",
       "summary": "Problems viewing products and checking out.",
@@ -388,15 +397,6 @@
       "source": "MIT Tech Review",
       "sourceUrl": "https://www.technologyreview.com/2026/03/05/1133968/the-download-ai-agent-hit-piece-preventing-lightning/",
       "publishedAt": "2026-03-05T14:28:46.000Z"
-    },
-    {
-      "id": "3mfg47",
-      "title": "Apple Music adds optional labels for AI songs and visuals",
-      "summary": "No AI usage will be assumed on works that providers haven't voluntarily tagged. | Illustration: Alex Castro / The Verge Apple is asking artists and record labels on its music streaming platform to voluntarily label songs that were made using AI. The new \"Transparency Tags\" metadata system for Apple Music was announced in a newsletter to industry partners yesterday, according to Music Business Worldwide, and covers four categories, including track, composition, artwork, and music videos. The…",
-      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/23925980/acastro_STK046_04.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "source": "The Verge",
-      "sourceUrl": "https://www.theverge.com/tech/889836/apple-music-ai-transparency-tags-launch",
-      "publishedAt": "2026-03-05T14:00:00.000Z"
     },
     {
       "id": "77qwr3",
