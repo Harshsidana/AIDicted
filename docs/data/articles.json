@@ -1,11 +1,47 @@
 {
-  "fetchedAt": "2026-03-10T15:36:22.079Z",
+  "fetchedAt": "2026-03-10T18:09:26.552Z",
   "count": 60,
   "articles": [
     {
+      "id": "s815ov",
+      "title": "ChatGPT can now create interactive visuals to help you understand math and science concepts",
+      "summary": "On Tuesday, OpenAI introduced dynamic visual explanations, a new ChatGPT feature that allows users to see how formulas, variables, and mathematical relationships change in real time. Instead of just reading an explanation or looking at a static diagram, users can now interact directly with interactive visuals. For example, when exploring the Pythagorean theorem, you can […]",
+      "imageUrl": "https://images.unsplash.com/photo-1620712943543-bcc4688e7485?w=800&q=80",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/03/10/chatgpt-can-now-create-interactive-visuals-to-help-you-understand-math-and-science-concepts/",
+      "publishedAt": "2026-03-10T17:51:25.000Z"
+    },
+    {
+      "id": "wuejde",
+      "title": "Fake AI Content About the Iran War Is All Over X",
+      "summary": "X’s Grok is failing to accurately verify video footage from the Iran conflict and is sharing its own AI-generated images about the war.",
+      "imageUrl": "https://media.wired.com/photos/69b044944c5dd30e33d9f540/master/pass/Fake-AI-Content-About-Iran-War-All-Over-X-Politics-2191851142.jpg",
+      "source": "Wired",
+      "sourceUrl": "https://www.wired.com/story/fake-ai-content-about-the-iran-war-is-all-over-x/",
+      "publishedAt": "2026-03-10T16:45:47.000Z"
+    },
+    {
+      "id": "lwoqza",
+      "title": "AgentMail raises $6M to build an email service for AI agents",
+      "summary": "AgentMail provides an API platform that lets you give AI agents their own email inboxes, with support for two-way conversations, parsing, threading, labeling, searching, and replying.",
+      "imageUrl": "https://images.unsplash.com/photo-1635070041078-e363dbe005cb?w=800&q=80",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/03/10/agentmail-raises-6m-to-build-an-email-service-for-ai-agents/",
+      "publishedAt": "2026-03-10T16:00:00.000Z"
+    },
+    {
+      "id": "jjj1ux",
+      "title": "Grammarly will keep using authors’ identities without permission unless they opt out",
+      "summary": "Last week, my colleagues discovered that Superhuman's Grammarly had turned me into an AI editor, using my real name, without ever asking my permission. They did the same to my boss Nilay Patel, my colleagues David Pierce and Tom Warren, and - as Wired initially reported last Wednesday - many authors far more famous than us. Grammarly's new \"Expert Review\" feature uses our names to give its AI suggestions credibility that they don't deserve. Now, Grammarly has finally addressed the backlash - but…",
+      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/03/grammr-crop.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "source": "The Verge",
+      "sourceUrl": "https://www.theverge.com/tech/891822/grammarly-superhuman-expert-review-names-without-permission-opt-out-email",
+      "publishedAt": "2026-03-10T15:54:42.000Z"
+    },
+    {
       "id": "gdjy6k",
       "title": "Meta acquires Moltbook, the Reddit-like network for AI agents",
-      "summary": "Meta is acquiring Moltbook, a Reddit-like platform where AI agents can make and comment on posts, as first reported by Axios. In a statement to The Verge, Meta spokesperson Matthew Tye confirmed the Moltbook team will join Meta Superintelligence Labs as the company looks for \"new ways for AI agents to work for people and businesses.\" Matt Schlict and Ben Parr launched Moltbook earlier this year, offering a \"social\" network for autonomous agents powered by the open-source AI assistant OpenClaw…",
+      "summary": "Meta is acquiring Moltbook, a Reddit-like platform where AI agents can make and comment on posts, as first reported by Axios. In a statement to The Verge, Meta spokesperson Matthew Tye confirmed the Moltbook team will join Meta Superintelligence Labs as the company looks for \"new ways for AI agents to work for people and businesses.\" Matt Schlicht and Ben Parr launched Moltbook earlier this year, offering a \"social\" network for autonomous agents powered by the open-source AI assistant OpenClaw…",
       "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/03/STK414_AI_CVIRGINIA_C.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
       "source": "The Verge",
       "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/892178/meta-moltbook-acquisition-ai-agents",
@@ -30,13 +66,22 @@
       "publishedAt": "2026-03-10T14:58:29.000Z"
     },
     {
-      "id": "h6sa64",
-      "title": "Legora reaches $5.55 billion valuation as AI legaltech boom endures",
+      "id": "eqbdfi",
+      "title": "Legora reaches $5.55 billion valuation as AI legal tech boom endures",
       "summary": "Legora, an AI platform for lawyers, is now valued at $5.55 billion following a $550 million Series D led by Accel to fuel its growth in the U.S.",
-      "imageUrl": "https://images.unsplash.com/photo-1635070041078-e363dbe005cb?w=800&q=80",
+      "imageUrl": "https://images.unsplash.com/photo-1526374965328-7f61d4dc18c5?w=800&q=80",
       "source": "TechCrunch",
       "sourceUrl": "https://techcrunch.com/2026/03/10/legora-reaches-5-55-billion-valuation-as-ai-legaltech-boom-endures/",
       "publishedAt": "2026-03-10T14:34:24.000Z"
+    },
+    {
+      "id": "l3ngzu",
+      "title": "Meta acquired Moltbook, the AI agent social network that went viral because of fake posts",
+      "summary": "Meta says that Moltbook's approach to \"connecting agents through an always-on-directory\" is novel.",
+      "imageUrl": "https://images.unsplash.com/photo-1620712943543-bcc4688e7485?w=800&q=80",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/03/10/meta-acquired-moltbook-the-ai-agent-social-network-that-went-viral-because-of-fake-posts/",
+      "publishedAt": "2026-03-10T14:32:05.000Z"
     },
     {
       "id": "cn1jbo",
@@ -77,7 +122,7 @@
     {
       "id": "bgnqjh",
       "title": "Adobe is debuting an AI assistant for Photoshop",
-      "summary": "Adobe is also adding new AI-powered image editing features to Firefly.",
+      "summary": "Adobe is also adding new AI-powered image-editing features to Firefly.",
       "imageUrl": "https://images.unsplash.com/photo-1485827404703-89b55fcc595e?w=800&q=80",
       "source": "TechCrunch",
       "sourceUrl": "https://techcrunch.com/2026/03/10/adobe-is-debuting-an-ai-assistant-for-photoshop/",
@@ -86,7 +131,7 @@
     {
       "id": "bgzj0v",
       "title": "Zoom introduces an AI-powered office suite, says AI avatars for meetings arrive this month",
-      "summary": "Zoom is also introducing a real-time deepfake detection tech for meetings",
+      "summary": "Zoom is also introducing real-time deepfake detection tech for meetings.",
       "imageUrl": "https://images.unsplash.com/photo-1485827404703-89b55fcc595e?w=800&q=80",
       "source": "TechCrunch",
       "sourceUrl": "https://techcrunch.com/2026/03/10/zoom-launches-an-ai-powered-office-suite-says-ai-avatars-for-meetings-are-coming-soon/",
@@ -174,10 +219,10 @@
       "publishedAt": "2026-03-10T09:00:01.000Z"
     },
     {
-      "id": "nboqw8",
-      "title": "Yann LeCun’s AMI Labs raises $1.03 billion to build world models",
-      "summary": "AMI Labs, the new venture cofounded by Turing Prize winner Yann LeCun after he left Meta, has raised $1.03 billion at a $3.5 billion pre-money valuation.",
-      "imageUrl": "https://images.unsplash.com/photo-1485827404703-89b55fcc595e?w=800&q=80",
+      "id": "5iow63",
+      "title": "Yann LeCun’s AMI Labs raises $1.03B to build world models",
+      "summary": "“My prediction is that ‘world models’ will be the next buzzword,” AMI Labs CEO Alexandre LeBrun told TechCrunch. “In six months, every company will call itself a world model to raise funding.”",
+      "imageUrl": "https://images.unsplash.com/photo-1635070041078-e363dbe005cb?w=800&q=80",
       "source": "TechCrunch",
       "sourceUrl": "https://techcrunch.com/2026/03/09/yann-lecuns-ami-labs-raises-1-03-billion-to-build-world-models/",
       "publishedAt": "2026-03-10T05:00:00.000Z"
@@ -264,33 +309,6 @@
       "publishedAt": "2026-03-09T17:49:04.000Z"
     },
     {
-      "id": "kx6vn7",
-      "title": "Anthropic sues Defense Department over supply-chain risk designation",
-      "summary": "Anthropic filed suit against the Department of Defense on Monday after the agency labeled it a supply-chain risk. The complaint calls the DOD's actions \"unprecedented and unlawful.\"",
-      "imageUrl": "https://images.unsplash.com/photo-1655720828018-edd2daec9349?w=800&q=80",
-      "source": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/03/09/anthropic-sues-defense-department-over-supply-chain-risk-designation/",
-      "publishedAt": "2026-03-09T17:25:40.000Z"
-    },
-    {
-      "id": "a19jcy",
-      "title": "Anthropic is suing the Department of Defense",
-      "summary": "Anthropic has sued the US government over its designation as a supply-chain risk, the latest move in a weekslong battle between it and the Pentagon over the acceptable use cases for its military AI tech. The suit, filed in a California district court, accuses the Trump administration of illegally punishing the company for setting \"red lines\" on mass domestic surveillance and fully autonomous weapons. \"The federal government retaliated against a leading frontier AI developer for adhering to its…",
-      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/03/STKS515_CYBER_WARFARE2_B.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "source": "The Verge",
-      "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/891377/anthropic-dod-lawsuit",
-      "publishedAt": "2026-03-09T16:37:42.000Z"
-    },
-    {
-      "id": "b7t0wt",
-      "title": "Qualcomm’s partnership with Neura Robotics is just the beginning",
-      "summary": "Neura Robotics is going to build new robots on top of Qualcomm's new IQ10 processors that were released at CES.",
-      "imageUrl": "https://images.unsplash.com/photo-1531746790095-6c10a4031c5f?w=800&q=80",
-      "source": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/03/09/qualcomms-partnership-with-neura-robotics-is-just-the-beginning/",
-      "publishedAt": "2026-03-09T15:58:11.000Z"
-    },
-    {
       "id": "1onp7r",
       "title": "Anthropic Sues Department of Defense Over Supply-Chain-Risk Designation",
       "summary": "The Claude chatbot developer says the Trump administration overstepped by escalating a contract dispute into a federal ban on the company’s technology.",
@@ -307,15 +325,6 @@
       "source": "MIT Tech Review",
       "sourceUrl": "https://www.technologyreview.com/2026/03/09/1134063/how-ai-is-turning-the-iran-conflict-into-theater/",
       "publishedAt": "2026-03-09T15:11:01.000Z"
-    },
-    {
-      "id": "vgs3a2",
-      "title": "Sandberg, Clegg join Nscale board as this ‘Stargate Norway’ startup hits $14.6B valuation",
-      "summary": "Nvidia-backed British AI infrastructure startup Nscale has raised another megaround of $2 billion.",
-      "imageUrl": "https://images.unsplash.com/photo-1620712943543-bcc4688e7485?w=800&q=80",
-      "source": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/03/09/sandberg-clegg-join-nscale-board-as-this-stargate-norway-startup-hits-14-6b-valuation/",
-      "publishedAt": "2026-03-09T15:09:35.000Z"
     },
     {
       "id": "9l3bzr",
@@ -388,15 +397,6 @@
       "source": "MIT Tech Review",
       "sourceUrl": "https://www.technologyreview.com/2026/03/06/1133989/the-download-10-things-that-matter-in-ai-anthropics-plan-sue-pentagon/",
       "publishedAt": "2026-03-06T13:10:00.000Z"
-    },
-    {
-      "id": "61iaji",
-      "title": "Why Is Alexa+ So Bad?",
-      "summary": "I stuck Amazon’s Echo Show 15 and its Alexa+ AI assistant in my kitchen for a month. Things have not gone well.",
-      "imageUrl": "https://media.wired.com/photos/69aa27d5d871d7f0e8562540/master/pass/Gear_Echo15_GettyImages-1343644732.jpg",
-      "source": "Wired",
-      "sourceUrl": "https://www.wired.com/story/why-is-amazon-alexa-plus-so-bad/",
-      "publishedAt": "2026-03-06T11:00:00.000Z"
     },
     {
       "id": "cn3q0l",
