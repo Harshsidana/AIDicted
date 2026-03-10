@@ -1,7 +1,25 @@
 {
-  "fetchedAt": "2026-03-10T18:09:26.552Z",
+  "fetchedAt": "2026-03-10T19:22:48.765Z",
   "count": 60,
   "articles": [
+    {
+      "id": "tcdswc",
+      "title": "AI-powered apps can make money, but struggle with long-term retention, new data shows",
+      "summary": "AI can drive stronger early monetization for apps, but sustaining value remains the challenge, RevenueCat's latest report finds.",
+      "imageUrl": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=800&q=80",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/03/10/ai-powered-apps-can-make-money-but-struggle-with-long-term-retention-new-data-shows/",
+      "publishedAt": "2026-03-10T18:42:33.000Z"
+    },
+    {
+      "id": "ziji47",
+      "title": "Judge blocks Perplexity’s AI agents from shopping on Amazon",
+      "summary": "A federal judge has issued an order blocking Perplexity's web browser-based AI agents from placing Amazon orders on a user's behalf, as reported earlier by Bloomberg. In a ruling on Monday, US District Judge Maxine Chesney writes that Amazon has \"provided strong evidence\" that Perplexity's Comet browser accesses user accounts \"without authorization\" from the retail giant. Amazon sued Perplexity in November, alleging that it \"repeatedly requested\" that the AI startup stop letting its agents buy…",
+      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25472498/STK271_PERPLEXITY_A.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "source": "The Verge",
+      "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/892401/amazon-perplexity-ai-shopping-agent-court-order",
+      "publishedAt": "2026-03-10T18:11:43.000Z"
+    },
     {
       "id": "s815ov",
       "title": "ChatGPT can now create interactive visuals to help you understand math and science concepts",
@@ -273,15 +291,6 @@
       "publishedAt": "2026-03-09T20:49:29.000Z"
     },
     {
-      "id": "yo8sy1",
-      "title": "Employees across OpenAI and Google support Anthropic’s lawsuit against the Pentagon",
-      "summary": "On Monday, Anthropic filed its lawsuit against the Department of Defense over being designated as a supply chain risk. Hours later, nearly 40 employees from OpenAI and Google - including Jeff Dean, Google's chief scientist and Gemini lead - filed an amicus brief in support of Anthropic's lawsuit, detailing their concerns over the Trump administration's decision and the technology's risks and implications. The news follows a dramatic few weeks for Anthropic, in which the Trump administration…",
-      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/03/STKS515_CYBER_WARFARE2_D.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "source": "The Verge",
-      "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/891514/anthropic-pentagon-lawsuit-amicus-brief-openai-google",
-      "publishedAt": "2026-03-09T20:45:24.000Z"
-    },
-    {
       "id": "x63p84",
       "title": "OpenAI and Google Workers File Amicus Brief in Support of Anthropic Against the US Government",
       "summary": "Google DeepMind chief scientist Jeff Dean is among the AI researchers and engineers rushing to Anthropic's defense.",
@@ -298,15 +307,6 @@
       "source": "TechCrunch",
       "sourceUrl": "https://techcrunch.com/2026/03/09/anthropic-launches-code-review-tool-to-check-flood-of-ai-generated-code/",
       "publishedAt": "2026-03-09T19:41:34.000Z"
-    },
-    {
-      "id": "htt6rr",
-      "title": "OpenAI acquires Promptfoo to secure its AI agents",
-      "summary": "This deal underscores how frontier labs are scrambling to prove their technology can be used safely in critical business operations.",
-      "imageUrl": "https://images.unsplash.com/photo-1620712943543-bcc4688e7485?w=800&q=80",
-      "source": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/03/09/openai-acquires-promptfoo-to-secure-its-ai-agents/",
-      "publishedAt": "2026-03-09T17:49:04.000Z"
     },
     {
       "id": "1onp7r",
