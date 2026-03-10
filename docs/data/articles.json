@@ -1,7 +1,79 @@
 {
-  "fetchedAt": "2026-03-10T13:22:07.048Z",
+  "fetchedAt": "2026-03-10T15:36:22.079Z",
   "count": 60,
   "articles": [
+    {
+      "id": "gdjy6k",
+      "title": "Meta acquires Moltbook, the Reddit-like network for AI agents",
+      "summary": "Meta is acquiring Moltbook, a Reddit-like platform where AI agents can make and comment on posts, as first reported by Axios. In a statement to The Verge, Meta spokesperson Matthew Tye confirmed the Moltbook team will join Meta Superintelligence Labs as the company looks for \"new ways for AI agents to work for people and businesses.\" Matt Schlict and Ben Parr launched Moltbook earlier this year, offering a \"social\" network for autonomous agents powered by the open-source AI assistant OpenClaw…",
+      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/03/STK414_AI_CVIRGINIA_C.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "source": "The Verge",
+      "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/892178/meta-moltbook-acquisition-ai-agents",
+      "publishedAt": "2026-03-10T15:22:17.000Z"
+    },
+    {
+      "id": "b60kpo",
+      "title": "Thinking Machines Lab inks massive compute deal with Nvidia",
+      "summary": "The multi-year deal involves at least a gigawatt of compute power and also includes a strategic investment from Nvidia.",
+      "imageUrl": "https://images.unsplash.com/photo-1676299081847-824916de030a?w=800&q=80",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/03/10/thinking-machines-lab-inks-massive-compute-deal-with-nvidia/",
+      "publishedAt": "2026-03-10T15:08:39.000Z"
+    },
+    {
+      "id": "w41ucx",
+      "title": "Google gives in to users’ complaints over AI-powered ‘Ask Photos’ search feature",
+      "summary": "The option appears on the Google Photos Search screen and lets users pick which experience they want.",
+      "imageUrl": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=800&q=80",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/03/10/google-gives-in-to-users-complaints-over-ai-powered-ask-photos-search-feature/",
+      "publishedAt": "2026-03-10T14:58:29.000Z"
+    },
+    {
+      "id": "h6sa64",
+      "title": "Legora reaches $5.55 billion valuation as AI legaltech boom endures",
+      "summary": "Legora, an AI platform for lawyers, is now valued at $5.55 billion following a $550 million Series D led by Accel to fuel its growth in the U.S.",
+      "imageUrl": "https://images.unsplash.com/photo-1635070041078-e363dbe005cb?w=800&q=80",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/03/10/legora-reaches-5-55-billion-valuation-as-ai-legaltech-boom-endures/",
+      "publishedAt": "2026-03-10T14:34:24.000Z"
+    },
+    {
+      "id": "cn1jbo",
+      "title": "The twist in the Ticketmaster antitrust fight",
+      "summary": "A lot of people are mad at Ticketmaster, and have been for a long time. (Did Swifties directly create an antitrust trial? Discuss.) The US government's case against Live Nation-Ticketmaster appeared poised to lay bare some of the strangeness of the music business, and maybe even change the way the company works. Verge subscribers, don't forget you get exclusive access to ad-free Vergecast wherever you get your podcasts. Head here. Not a subscriber? You can sign up here. And then, well, the…",
+      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/03/VRG_VST_0310_Site.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "source": "The Verge",
+      "sourceUrl": "https://www.theverge.com/podcast/892021/ticketmaster-antitrust-anthropic-pentagon-vergecast",
+      "publishedAt": "2026-03-10T14:01:10.000Z"
+    },
+    {
+      "id": "jr6rgw",
+      "title": "YouTube expands AI deepfake detection to politicians, government officials, and journalists",
+      "summary": "YouTube's AI deepfake detection tool is becoming available to politicians, journalists, and officials, letting them flag unauthorized likenesses for removal.",
+      "imageUrl": "https://images.unsplash.com/photo-1635070041078-e363dbe005cb?w=800&q=80",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/03/10/youtube-expands-ai-deepfake-detection-to-politicians-government-officials-and-journalists/",
+      "publishedAt": "2026-03-10T14:00:00.000Z"
+    },
+    {
+      "id": "r20c1h",
+      "title": "YouTube is expanding its AI deepfake detection tool to politicians and journalists",
+      "summary": "Public officials and journalists will soon be able to keep track of AI-generated deepfakes of themselves on YouTube through the platform's likeness detection feature. The tool is already available to millions of content creators on YouTube, but beginning Tuesday, it will expand to a pilot group of journalists, government officials, and political candidates. (At a briefing with reporters, YouTube declined to share who was in the pilot group, including whether Donald Trump is part of it.) Likeness…",
+      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/23986639/acastro_STK092_03.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "source": "The Verge",
+      "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/891678/youtube-is-expanding-its-ai-deepfake-detection-tool-to-politicians-and-journalists",
+      "publishedAt": "2026-03-10T14:00:00.000Z"
+    },
+    {
+      "id": "9pjn1t",
+      "title": "How Pokémon Go is giving delivery robots an inch-perfect view of the world",
+      "summary": "Pokémon Go was the world’s first augmented-reality megahit. Released in 2016 by the Google spinout Niantic, the AR twist on the juggernaut Pokémon franchise fast became a global phenomenon. From Chicago to Oslo to Enoshima, players hit the streets in the urgent hope of catching a Jigglypuff or a Squirtle or (with a huge amount…",
+      "imageUrl": "https://images.unsplash.com/photo-1676299081847-824916de030a?w=800&q=80",
+      "source": "MIT Tech Review",
+      "sourceUrl": "https://www.technologyreview.com/2026/03/10/1134099/how-pokemon-go-is-helping-robots-deliver-pizza-on-time/",
+      "publishedAt": "2026-03-10T13:47:26.000Z"
+    },
     {
       "id": "bgnqjh",
       "title": "Adobe is debuting an AI assistant for Photoshop",
@@ -96,7 +168,7 @@
       "id": "rwujft",
       "title": "You Could Be Next",
       "summary": "The LinkedIn post seemed like yet another scam job offer, but Katya was desperate enough to click. After college, she’d struggled to make a living as a freelance journalist, gone to grad school, then pivoted to what she hoped would be a more stable career in content marketing — only to find AI had automated much of the work. This company was called Crossing Hurdles, and it promised copywriting jobs starting at $45 per hour. Katya clicked and was taken to a page for another company, called…",
-      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/03/cover-mobile-version-glitch.png?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/03/01_mobile.png?quality=90&#038;strip=all&#038;crop=0,0,100,100",
       "source": "The Verge",
       "sourceUrl": "https://www.theverge.com/cs/features/877388/white-collar-workers-training-ai-mercor",
       "publishedAt": "2026-03-10T09:00:01.000Z"
@@ -228,15 +300,6 @@
       "publishedAt": "2026-03-09T15:29:57.000Z"
     },
     {
-      "id": "d97n4i",
-      "title": "X says you can block Grok from editing your photos",
-      "summary": "Pay attention to that small print about tagging @Grok, this new toggle has disappointing limitations. | Image by The Verge / xAI X has introduced a new feature that makes it slightly harder for other users to manipulate your uploaded images with the Grok chatbot. As reported by Social Media Today and verified by The Verge, a new toggle within the image upload settings on the X iOS app says it can \"block modifications by Grok\" when enabled. But it doesn't actually prevent Grok from editing your…",
-      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/03/Grok-block-edit-options-hed.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "source": "The Verge",
-      "sourceUrl": "https://www.theverge.com/tech/891352/x-grok-xai-edit-blocker-photo-toggle",
-      "publishedAt": "2026-03-09T15:24:03.000Z"
-    },
-    {
       "id": "48htnh",
       "title": "How AI is turning the Iran conflict into theater",
       "summary": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here. “Anyone wanna host a get together in SF and pull this up on a 100 inch TV?” The author of that post on X was referring to an online intelligence dashboard following…",
@@ -291,51 +354,6 @@
       "publishedAt": "2026-03-09T09:00:00.000Z"
     },
     {
-      "id": "m3hs61",
-      "title": "Will the Pentagon’s Anthropic controversy scare startups away from defense work?",
-      "summary": "On the latest episode of TechCrunch’s Equity podcast, we discussed what the controversy means for other startups seeking to work with the federal government.",
-      "imageUrl": "https://images.unsplash.com/photo-1655720828018-edd2daec9349?w=800&q=80",
-      "source": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/03/08/will-the-pentagons-anthropic-controversy-scare-startups-away-from-defense-work/",
-      "publishedAt": "2026-03-08T20:14:42.000Z"
-    },
-    {
-      "id": "i7itkm",
-      "title": "Owner of ICE detention facility sees big opportunity in AI man camps",
-      "summary": "AI data center developers are increasingly relying on a style of camp popularized as housing for men working in remote oil fields.",
-      "imageUrl": "https://images.unsplash.com/photo-1526374965328-7f61d4dc18c5?w=800&q=80",
-      "source": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/03/08/owner-of-ice-detention-facility-sees-big-opportunity-in-ai-man-camps/",
-      "publishedAt": "2026-03-08T16:30:00.000Z"
-    },
-    {
-      "id": "5etxi1",
-      "title": "A roadmap for AI, if anyone will listen",
-      "summary": "The Pro-Human AI Declaration was finalized before last week's Pentagon-Anthropic standoff, but the collision of the two events wasn’t lost on anyone involved.",
-      "imageUrl": "https://images.unsplash.com/photo-1676299081847-824916de030a?w=800&q=80",
-      "source": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/03/07/a-roadmap-for-ai-if-anyone-will-listen/",
-      "publishedAt": "2026-03-08T06:05:26.000Z"
-    },
-    {
-      "id": "phh13a",
-      "title": "Google just gave Sundar Pichai a $692M pay package",
-      "summary": "Most of it is tied to performance, including new stock incentives linked to Waymo and Wing, its drone delivery venture.",
-      "imageUrl": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=800&q=80",
-      "source": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/03/07/google-just-gave-sundar-pichai-a-692m-pay-package/",
-      "publishedAt": "2026-03-08T00:20:10.000Z"
-    },
-    {
-      "id": "snmd1e",
-      "title": "The OpenClaw superfan meetup serves optimism and lobster",
-      "summary": "The woman at the door wore a plush lobster headdress. She sat in the front hallway of a multistory event venue in Manhattan, beside a bundle of wristbands. If she granted you one, the world of ClawCon beckoned behind her - full of vibey pink and purple lighting, lobster claw headbands, multicolored name tags, sponsor information stations, and a demo stage underneath a skylight. Hundreds of people were gathered to celebrate OpenClaw, the AI assistant platform created by Peter Steinberger in…",
-      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/03/268393_Clawcon_HField_0007.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "source": "The Verge",
-      "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/890517/openclaw-clawcon-meetup-nyc-open-source-ai",
-      "publishedAt": "2026-03-07T14:00:00.000Z"
-    },
-    {
       "id": "xzajbb",
       "title": "This Jammer Wants to Block Always-Listening AI Wearables. It Probably Won’t Work",
       "summary": "Deveillance’s Spectre I, developed by a recent Harvard grad, wants to give people control over the always-on wearables surrounding their lives. The problem? Physics.",
@@ -343,15 +361,6 @@
       "source": "Wired",
       "sourceUrl": "https://www.wired.com/story/deveillance-spectre-i/",
       "publishedAt": "2026-03-06T23:45:14.000Z"
-    },
-    {
-      "id": "ppcy39",
-      "title": "Grammarly is using our identities without permission",
-      "summary": "Grammarly's \"expert review\" feature offers to give users writing advice \"inspired by\" subject matter experts, including recently deceased professors, as Wired reported on Wednesday. When I tried the feature out myself, I found some experts that came as a surprise for a different reason - one of them was my boss. The AI-generated feedback included comments that appeared to be from The Verge's editor-in-chief, Nilay Patel, as well as editor-at-large David Pierce and senior editors Sean Hollister…",
-      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/03/grammr-crop.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "source": "The Verge",
-      "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/890921/grammarly-ai-expert-reviews",
-      "publishedAt": "2026-03-06T20:58:24.000Z"
     },
     {
       "id": "usx076",
@@ -424,15 +433,6 @@
       "source": "MIT Tech Review",
       "sourceUrl": "https://www.technologyreview.com/2026/03/05/1133960/wildfire-prevention-limits/",
       "publishedAt": "2026-03-05T11:00:00.000Z"
-    },
-    {
-      "id": "u1ygwq",
-      "title": "Online harassment is entering its AI era",
-      "summary": "Scott Shambaugh didn’t think twice when he denied an AI agent’s request to contribute to matplotlib, a software library that he helps manage. Like many open-source projects, matplotlib has been overwhelmed by a glut of AI code contributions, and so Shambaugh and his fellow maintainers have instituted a policy that all AI-written code must be…",
-      "imageUrl": "https://images.unsplash.com/photo-1620712943543-bcc4688e7485?w=800&q=80",
-      "source": "MIT Tech Review",
-      "sourceUrl": "https://www.technologyreview.com/2026/03/05/1133962/online-harassment-is-entering-its-ai-era/",
-      "publishedAt": "2026-03-05T10:00:00.000Z"
     },
     {
       "id": "qmksig",
