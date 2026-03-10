@@ -1,7 +1,88 @@
 {
-  "fetchedAt": "2026-03-10T11:56:49.607Z",
+  "fetchedAt": "2026-03-10T13:22:07.048Z",
   "count": 60,
   "articles": [
+    {
+      "id": "bgnqjh",
+      "title": "Adobe is debuting an AI assistant for Photoshop",
+      "summary": "Adobe is also adding new AI-powered image editing features to Firefly.",
+      "imageUrl": "https://images.unsplash.com/photo-1485827404703-89b55fcc595e?w=800&q=80",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/03/10/adobe-is-debuting-an-ai-assistant-for-photoshop/",
+      "publishedAt": "2026-03-10T13:06:51.000Z"
+    },
+    {
+      "id": "bgzj0v",
+      "title": "Zoom introduces an AI-powered office suite, says AI avatars for meetings arrive this month",
+      "summary": "Zoom is also introducing a real-time deepfake detection tech for meetings",
+      "imageUrl": "https://images.unsplash.com/photo-1485827404703-89b55fcc595e?w=800&q=80",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/03/10/zoom-launches-an-ai-powered-office-suite-says-ai-avatars-for-meetings-are-coming-soon/",
+      "publishedAt": "2026-03-10T13:00:00.000Z"
+    },
+    {
+      "id": "9ii7sb",
+      "title": "Google rolls out new Gemini capabilities to Docs, Sheets, Slides, and Drive",
+      "summary": "The idea behind the new features is to make the apps more personal and capable to help users get things done faster, right within the platforms themselves.",
+      "imageUrl": "https://images.unsplash.com/photo-1620712943543-bcc4688e7485?w=800&q=80",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/03/10/google-rolls-out-new-gemini-capabilities-to-docs-sheets-slides-and-drive/",
+      "publishedAt": "2026-03-10T13:00:00.000Z"
+    },
+    {
+      "id": "zhlkz5",
+      "title": "Google’s Gemini AI is getting a bigger role across Docs, Sheets, and Slides",
+      "summary": "Google is embedding its Gemini AI assistant even more deeply within its Workspace apps. The changes, which are rolling out to Google Workspace and AI plan subscribers, include a new Gemini chat window inside Google Docs, a way to generate entire spreadsheets with AI, and a new Gemini-powered search feature in Drive. While Google Docs already shows you a few AI writing options alongside your blinking cursor, now you'll see a Gemini chat window at the bottom of your screen. There, you'll get the…",
+      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/02/STK255_Google_Gemini_B.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "source": "The Verge",
+      "sourceUrl": "https://www.theverge.com/tech/890996/google-workspace-gemini-ai-docs-sheets-drive",
+      "publishedAt": "2026-03-10T13:00:00.000Z"
+    },
+    {
+      "id": "h6bdry",
+      "title": "You can now ask Photoshop’s AI assistant to edit images for you",
+      "summary": "You can ask Adobe’s AI assistant to edit images in Photoshop for web by describing conversationally how you want it to change. | Image: Adobe Adobe announced more agentic AI features for its Creative Cloud apps this week, allowing users to edit images and documents by describing the changes to a chatbot. A native AI-assistant is now available in public beta for Photoshop on web and mobile, and some Adobe apps, including Acrobat and Express, will soon be available to access directly within…",
+      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/03/Photoshop-for-web-AI-assistant.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "source": "The Verge",
+      "sourceUrl": "https://www.theverge.com/tech/891998/adobe-photoshop-web-mobile-ai-assistant-beta-launch",
+      "publishedAt": "2026-03-10T13:00:00.000Z"
+    },
+    {
+      "id": "phtxb1",
+      "title": "I Used Google’s New Gemini-Powered ‘Help Me Create’ Tool in Docs. It’s Great at Corporate-Speak",
+      "summary": "Google has injected Docs, Drive, Sheets, and Slides with its Gemini assistant, adding new features that can pull information from your emails and the web to help you draft content. I gave it a whirl.",
+      "imageUrl": "https://media.wired.com/photos/69af500ab7192b94664b216f/master/pass/gear_geminitools_GettyImages-2169339854.jpg",
+      "source": "Wired",
+      "sourceUrl": "https://www.wired.com/story/google-gemini-workspace-ai-tools-hands-on/",
+      "publishedAt": "2026-03-10T13:00:00.000Z"
+    },
+    {
+      "id": "gixxdu",
+      "title": "Prioritizing energy intelligence for sustainable growth",
+      "summary": "Loudoun County, Virginia, once known for its pastoral scenery and proximity to Washington, DC, has earned a more modern reputation in recent years: The area has the highest concentration of data centers on the planet. Ten years ago, these facilities powered email and e-commerce. Today, thanks to the meteoric rise in demand for AI-infused everything,…",
+      "imageUrl": "https://images.unsplash.com/photo-1526374965328-7f61d4dc18c5?w=800&q=80",
+      "source": "MIT Tech Review",
+      "sourceUrl": "https://www.technologyreview.com/2026/03/10/1133972/prioritizing-energy-intelligence-for-sustainable-growth/",
+      "publishedAt": "2026-03-10T13:00:00.000Z"
+    },
+    {
+      "id": "x63km5",
+      "title": "The Download: AI’s role in the Iran war, and an escalating legal fight",
+      "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. How AI is turning the Iran conflict into theater Much of the spotlight on AI in the Iran conflict has focused on models like Claude helping the US military decide where to…",
+      "imageUrl": "https://images.unsplash.com/photo-1531746790095-6c10a4031c5f?w=800&q=80",
+      "source": "MIT Tech Review",
+      "sourceUrl": "https://www.technologyreview.com/2026/03/10/1134077/the-download-ai-iran-war-theater-anthropic-sues-us/",
+      "publishedAt": "2026-03-10T12:55:32.000Z"
+    },
+    {
+      "id": "syha3v",
+      "title": "Sandbar secures $23M Series A for its AI note-taking ring",
+      "summary": "Sandbar aims to ship the Stream, which can be used to take notes, chat with an AI assistant, and for media playback, this summer.",
+      "imageUrl": "https://images.unsplash.com/photo-1620712943543-bcc4688e7485?w=800&q=80",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/03/10/sandbar-secures-23m-series-a-for-its-ai-note-taking-ring/",
+      "publishedAt": "2026-03-10T12:40:37.000Z"
+    },
     {
       "id": "oes786",
       "title": "Meta’s deepfake moderation isn’t good enough, says Oversight Board",
@@ -246,33 +327,6 @@
       "publishedAt": "2026-03-08T00:20:10.000Z"
     },
     {
-      "id": "dg67w0",
-      "title": "Grammarly’s ‘expert review’ is just missing the actual experts",
-      "summary": "A recently added feature in Grammarly purports to improve users’ writing with help from the world's great writers and thinkers — and some tech journalists, too.",
-      "imageUrl": "https://images.unsplash.com/photo-1550751827-4bd374c3f58b?w=800&q=80",
-      "source": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/03/07/grammarlys-expert-review-is-just-missing-the-actual-experts/",
-      "publishedAt": "2026-03-07T22:56:31.000Z"
-    },
-    {
-      "id": "vz19hw",
-      "title": "OpenAI hardware exec Caitlin Kalinowski quits in response to Pentagon deal",
-      "summary": "Hardware executive Caitlin Kalinowski announced today that in response to OpenAI's controversial agreement with the Department of Defense, she’s resigned from her role leading the company's robotics team.",
-      "imageUrl": "https://images.unsplash.com/photo-1526374965328-7f61d4dc18c5?w=800&q=80",
-      "source": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/03/07/openai-robotics-lead-caitlin-kalinowski-quits-in-response-to-pentagon-deal/",
-      "publishedAt": "2026-03-07T20:44:25.000Z"
-    },
-    {
-      "id": "lk2jvd",
-      "title": "OpenAI delays ChatGPT’s ‘adult mode’ again",
-      "summary": "The feature, which will give verified adult users access to erotica and other adult content, had already been delayed from December.",
-      "imageUrl": "https://images.unsplash.com/photo-1655720828018-edd2daec9349?w=800&q=80",
-      "source": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/03/07/openai-delays-chatgpts-adult-mode-again/",
-      "publishedAt": "2026-03-07T17:28:41.000Z"
-    },
-    {
       "id": "snmd1e",
       "title": "The OpenClaw superfan meetup serves optimism and lobster",
       "summary": "The woman at the door wore a plush lobster headdress. She sat in the front hallway of a multistory event venue in Manhattan, beside a bundle of wristbands. If she granted you one, the world of ClawCon beckoned behind her - full of vibey pink and purple lighting, lobster claw headbands, multicolored name tags, sponsor information stations, and a demo stage underneath a skylight. Hundreds of people were gathered to celebrate OpenClaw, the AI assistant platform created by Peter Steinberger in…",
@@ -300,15 +354,6 @@
       "publishedAt": "2026-03-06T20:58:24.000Z"
     },
     {
-      "id": "yont5v",
-      "title": "Microsoft, Google, Amazon say Anthropic Claude remains available to non-defense customers",
-      "summary": "Trump's Department of War feud with Anthropic won't impact other companies that are using Claude via Microsoft and Google products.",
-      "imageUrl": "https://images.unsplash.com/photo-1526374965328-7f61d4dc18c5?w=800&q=80",
-      "source": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/03/06/microsoft-anthropic-claude-remains-available-to-customers-except-the-defense-department/",
-      "publishedAt": "2026-03-06T19:50:10.000Z"
-    },
-    {
       "id": "usx076",
       "title": "Feds take notice of iOS vulnerabilities exploited under mysterious circumstances",
       "summary": "The long, strange trip of a large assembly of advanced iOS exploits.",
@@ -327,15 +372,6 @@
       "publishedAt": "2026-03-06T19:21:22.000Z"
     },
     {
-      "id": "up4ri0",
-      "title": "The AI Doc is an overwrought hype piece for doomers and accelerationists alike",
-      "summary": "Co-director Daniel Roher. | Image: Focus Features We are in the thick of a massive push to incorporate generative AI into almost every aspect of our lives, but it is still easy to be confused about what it is and how it works. It doesn't help that many of gen AI's proponents and detractors both speak about it with a feverish hyperbole that comes across like fantastical ad copy. And the rate at which AI firms release new iterations of their products can make it hard to keep track of what's going…",
-      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/03/Screenshot-2026-03-06-at-1.32.13%E2%80%AFPM.png?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "source": "The Verge",
-      "sourceUrl": "https://www.theverge.com/entertainment/890806/the-ai-doc-or-how-i-became-an-apocaloptimist-review",
-      "publishedAt": "2026-03-06T19:05:00.000Z"
-    },
-    {
       "id": "s97w3y",
       "title": "The Download: 10 things that matter in AI, plus Anthropic’s plan to sue the Pentagon",
       "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. Coming soon: our 10 Things That Matter in AI Right Now For years, MIT Technology Review’s newsroom has been ahead of the curve, tracking the developments in AI that matter and…",
@@ -352,24 +388,6 @@
       "source": "Wired",
       "sourceUrl": "https://www.wired.com/story/why-is-amazon-alexa-plus-so-bad/",
       "publishedAt": "2026-03-06T11:00:00.000Z"
-    },
-    {
-      "id": "47xqpc",
-      "title": "Jack Dorsey Is Ready to Explain the Block Layoffs",
-      "summary": "In an exclusive interview with WIRED, Block’s cofounder and CEO says he axed 40 percent of his workforce so that he can rebuild the company “as an intelligence.”",
-      "imageUrl": "https://media.wired.com/photos/69aa3519fd9d3f6311038e57/master/pass/Big-Interview-Jack-Dorsey-Business-2001060765.jpg",
-      "source": "Wired",
-      "sourceUrl": "https://www.wired.com/story/jack-dorsey-explains-block-layoffs/",
-      "publishedAt": "2026-03-06T10:00:00.000Z"
-    },
-    {
-      "id": "85i3jg",
-      "title": "The Pentagon formally labels Anthropic a supply-chain risk",
-      "summary": "US Defense Secretary Pete Hegseth speaks during a press conference on US military action in Iran, at the Pentagon in Washington, DC, on March 2, 2026. | Brendan Smialowski/AFP via Getty Images After weeks of failed negotiations, public ultimatums, and lawsuit threats, the Defense Department has formally labeled Anthropic a \"supply-chain risk,\" escalating its fight with the AI company over their acceptable use policies and potentially bringing their fight to court. The decision, first reported by…",
-      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/03/gettyimages-2263863571.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "source": "The Verge",
-      "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/890347/pentagon-anthropic-supply-chain-risk",
-      "publishedAt": "2026-03-05T23:02:22.000Z"
     },
     {
       "id": "cn3q0l",
@@ -415,24 +433,6 @@
       "source": "MIT Tech Review",
       "sourceUrl": "https://www.technologyreview.com/2026/03/05/1133962/online-harassment-is-entering-its-ai-era/",
       "publishedAt": "2026-03-05T10:00:00.000Z"
-    },
-    {
-      "id": "l9v5qu",
-      "title": "Bridging the operational AI gap",
-      "summary": "The transformational potential of AI is already well established. Enterprise use cases are building momentum and organizations are transitioning from pilot projects to AI in production. Companies are no longer just talking about AI; they are redirecting budgets and resources to make it happen. Many are already experimenting with agentic AI, which promises new levels…",
-      "imageUrl": "https://images.unsplash.com/photo-1655720828018-edd2daec9349?w=800&q=80",
-      "source": "MIT Tech Review",
-      "sourceUrl": "https://www.technologyreview.com/2026/03/04/1133642/bridging-the-operational-ai-gap/",
-      "publishedAt": "2026-03-04T14:00:00.000Z"
-    },
-    {
-      "id": "92ho83",
-      "title": "The Download: Earth’s rumblings, and AI for strikes on Iran",
-      "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. Listen to Earth’s rumbling, secret soundtrack The boom of a calving glacier. The crackling rumble of a wildfire. The roar of a surging storm front. They’re the noises of the living…",
-      "imageUrl": "https://images.unsplash.com/photo-1526374965328-7f61d4dc18c5?w=800&q=80",
-      "source": "MIT Tech Review",
-      "sourceUrl": "https://www.technologyreview.com/2026/03/04/1133942/the-download-earths-rumblings-and-ai-for-strikes-on-iran/",
-      "publishedAt": "2026-03-04T13:12:00.000Z"
     },
     {
       "id": "qmksig",
