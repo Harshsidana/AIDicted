@@ -1,7 +1,25 @@
 {
-  "fetchedAt": "2026-03-10T04:48:23.074Z",
+  "fetchedAt": "2026-03-10T07:02:12.214Z",
   "count": 60,
   "articles": [
+    {
+      "id": "nboqw8",
+      "title": "Yann LeCun’s AMI Labs raises $1.03 billion to build world models",
+      "summary": "AMI Labs, the new venture cofounded by Turing Prize winner Yann LeCun after he left Meta, has raised $1.03 billion at a $3.5 billion pre-money valuation.",
+      "imageUrl": "https://images.unsplash.com/photo-1485827404703-89b55fcc595e?w=800&q=80",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/03/09/yann-lecuns-ami-labs-raises-1-03-billion-to-build-world-models/",
+      "publishedAt": "2026-03-10T05:00:00.000Z"
+    },
+    {
+      "id": "fzv6ry",
+      "title": "Yann LeCun Raises $1 Billion to Build AI That Understands the Physical World",
+      "summary": "Meta’s former chief AI scientist has long argued that human-level AI will come from mastering the physical world, not language. His new startup, AMI, aims to prove it.",
+      "imageUrl": "https://media.wired.com/photos/69ab547169eb9242c51148d7/master/pass/Yann-LeCun-QA-Business-2198379404.jpg",
+      "source": "Wired",
+      "sourceUrl": "https://www.wired.com/story/yann-lecun-raises-dollar1-billion-to-build-ai-that-understands-the-physical-world/",
+      "publishedAt": "2026-03-10T05:00:00.000Z"
+    },
     {
       "id": "9fxb7s",
       "title": "Nvidia Is Planning to Launch an Open-Source AI Agent Platform",
@@ -300,15 +318,6 @@
       "publishedAt": "2026-03-06T19:05:00.000Z"
     },
     {
-      "id": "30jszr",
-      "title": "Anthropic’s Claude found 22 vulnerabilities in Firefox over two weeks",
-      "summary": "In a recent security partnership with Mozilla, Anthropic found 22 separate vulnerabilities in Firefox — 14 of them classified as \"high-severity.\"",
-      "imageUrl": "https://images.unsplash.com/photo-1550751827-4bd374c3f58b?w=800&q=80",
-      "source": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/03/06/anthropics-claude-found-22-vulnerabilities-in-firefox-over-two-weeks/",
-      "publishedAt": "2026-03-06T19:00:22.000Z"
-    },
-    {
       "id": "s97w3y",
       "title": "The Download: 10 things that matter in AI, plus Anthropic’s plan to sue the Pentagon",
       "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. Coming soon: our 10 Things That Matter in AI Right Now For years, MIT Technology Review’s newsroom has been ahead of the curve, tracking the developments in AI that matter and…",
@@ -343,15 +352,6 @@
       "source": "The Verge",
       "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/890347/pentagon-anthropic-supply-chain-risk",
       "publishedAt": "2026-03-05T23:02:22.000Z"
-    },
-    {
-      "id": "4t2get",
-      "title": "‘Uncanny Valley’: Iran War in the AI Era, Prediction Market Ethics, and Paramount Beats Netflix",
-      "summary": "In this episode, our hosts unpack the ongoing conflict in the Middle East, particularly as the AI industry has been entrenching itself with the Department of Defense.",
-      "imageUrl": "https://media.wired.com/photos/69a8b38b4d0db9b1303572a9/master/pass/Uncanny-Valley-Iran-Politics-2264385014.jpg",
-      "source": "Wired",
-      "sourceUrl": "https://www.wired.com/story/uncanny-valley-podcast-iran-war-artificial-intelligence-prediction-markets-paramount-warner-bros/",
-      "publishedAt": "2026-03-05T22:17:54.000Z"
     },
     {
       "id": "cn3q0l",
