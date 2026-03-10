@@ -1,7 +1,16 @@
 {
-  "fetchedAt": "2026-03-10T09:09:43.871Z",
+  "fetchedAt": "2026-03-10T11:08:25.941Z",
   "count": 60,
   "articles": [
+    {
+      "id": "oes786",
+      "title": "Meta’s deepfake moderation isn’t good enough, says Oversight Board",
+      "summary": "Meta’s Oversight Board wants the company to start taking AI labeling seriously to protect its users from online misinformation. | Image: Cath Virginia / The Verge, Getty Images Meta's methods for identifying deepfakes are \"not robust or comprehensive enough\" to handle how quickly misinformation spreads during armed conflicts like the Iran war. That's according to the Meta Oversight Board - a semi-independent body that guides the company's content moderation practices - which is now calling on…",
+      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/06/STKS515_CYBER_WARFARE_A.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "source": "The Verge",
+      "sourceUrl": "https://www.theverge.com/tech/891933/meta-oversight-board-ai-labels-deepfake-c2pa-facebook-instagram",
+      "publishedAt": "2026-03-10T10:01:33.000Z"
+    },
     {
       "id": "rwujft",
       "title": "You Could Be Next",
@@ -379,15 +388,6 @@
       "source": "Ars Technica",
       "sourceUrl": "https://arstechnica.com/tech-policy/2026/03/leading-ai-datacenter-companies-sign-pledge-to-buy-their-own-power/",
       "publishedAt": "2026-03-05T18:41:28.000Z"
-    },
-    {
-      "id": "ohupvm",
-      "title": "Netflix is buying Ben Affleck’s AI startup",
-      "summary": "Though Netflix lost the war for Warner Bros., it has just bought an AI startup from the internet's favorite Dunkin' Donuts aficionado. Today, Netflix announced that it has acquired InterPositive, Ben Affleck's AI company that specializes in tools for film and television production. The deal will see all 16 of InterPositive's current team of engineers and researchers move over to Netflix. Affleck is also set to join the streamer as a senior adviser. In a statement about the acquisition and his…",
-      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/03/gettyimages-2256155551.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "source": "The Verge",
-      "sourceUrl": "https://www.theverge.com/streaming/889973/netflix-ben-affleck-interpositive-ai",
-      "publishedAt": "2026-03-05T18:27:16.000Z"
     },
     {
       "id": "3mi09b",
