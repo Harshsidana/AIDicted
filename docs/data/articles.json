@@ -1,7 +1,34 @@
 {
-  "fetchedAt": "2026-03-11T22:34:53.997Z",
+  "fetchedAt": "2026-03-11T23:34:20.914Z",
   "count": 60,
   "articles": [
+    {
+      "id": "ee1fb8",
+      "title": "One of Grammarly’s ‘experts’ is suing the company over its identity-stealing AI feature",
+      "summary": "Journalist Julia Angwin is one of the writers whose likeness was used in Grammarly’s “expert review” feature. | Photo: Eóin Noonan/Sportsfile via Getty Images For months, Grammarly has been using the identities of real people (including us) for its \"Expert Review\" AI suggestions without getting their permission, and now it's facing a lawsuit from one of the journalists included, as previously reported by Wired. The class-action complaint filed by journalist Julia Angwin on Wednesday alleges that…",
+      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/03/gettyimages-1244428289.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "source": "The Verge",
+      "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/893451/grammarly-ai-lawsuit-julia-angwin",
+      "publishedAt": "2026-03-11T22:51:53.000Z"
+    },
+    {
+      "id": "94s8hr",
+      "title": "Ford’s new AI assistant will help fleet owners know if seatbelts are being used",
+      "summary": "Ford Pro AI debuted at Work Truck Week in Indianapolis and is now available to all of its U.S.-based Pro telematics subscribers.",
+      "imageUrl": "https://images.unsplash.com/photo-1531746790095-6c10a4031c5f?w=800&q=80",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/03/11/fords-new-ai-assistant-will-help-fleet-owners-know-if-seatbelts-are-being-used/",
+      "publishedAt": "2026-03-11T22:51:39.000Z"
+    },
+    {
+      "id": "f0v8z3",
+      "title": "Zendesk acquires agentic customer service startup Forethought",
+      "summary": "Forethought was years ahead of its time and the 2018 winner of TechCrunch Battlefield.",
+      "imageUrl": "https://images.unsplash.com/photo-1655720828018-edd2daec9349?w=800&q=80",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/03/11/zendesk-acquires-agentic-customer-service-startup-forethought/",
+      "publishedAt": "2026-03-11T22:41:27.000Z"
+    },
     {
       "id": "pmozow",
       "title": "Netflix may have paid $600 million for Ben Affleck’s AI startup",
@@ -19,6 +46,15 @@
       "source": "TechCrunch",
       "sourceUrl": "https://techcrunch.com/2026/03/11/lovable-says-it-added-100m-in-revenue-last-month-alone-with-just-146-employees/",
       "publishedAt": "2026-03-11T21:40:49.000Z"
+    },
+    {
+      "id": "55s",
+      "title": "14,000 routers are infected by malware that's highly resistant to takedowns",
+      "summary": "Most of the devices are made by Asus and are located in the US.",
+      "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2019/04/GettyImages-926536690-1152x648.jpg",
+      "source": "Ars Technica",
+      "sourceUrl": "https://arstechnica.com/security/2026/03/14000-routers-are-infected-by-malware-thats-highly-resistant-to-takedowns/",
+      "publishedAt": "2026-03-11T21:27:16.000Z"
     },
     {
       "id": "hgh48d",
@@ -273,15 +309,6 @@
       "publishedAt": "2026-03-10T18:42:33.000Z"
     },
     {
-      "id": "r7b69j",
-      "title": "Judge orders Perplexity to stop AI agents from shopping on Amazon",
-      "summary": "A federal judge has issued an order blocking Perplexity's web browser-based AI agents from placing Amazon orders on a user's behalf, as reported earlier by Bloomberg. In a ruling on Monday, US District Judge Maxine Chesney writes that Amazon has \"provided strong evidence\" that Perplexity's Comet browser accesses user accounts \"without authorization\" from the retail giant. Amazon sued Perplexity in November, alleging that it \"repeatedly requested\" that the AI startup stop letting its agents buy…",
-      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25472498/STK271_PERPLEXITY_A.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "source": "The Verge",
-      "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/892401/amazon-perplexity-ai-shopping-agent-court-order",
-      "publishedAt": "2026-03-10T18:11:43.000Z"
-    },
-    {
       "id": "s815ov",
       "title": "ChatGPT can now create interactive visuals to help you understand math and science concepts",
       "summary": "Instead of just reading an explanation or looking at a static diagram, users can now engage directly with interactive visuals.",
@@ -307,24 +334,6 @@
       "source": "TechCrunch",
       "sourceUrl": "https://techcrunch.com/2026/03/10/agentmail-raises-6m-to-build-an-email-service-for-ai-agents/",
       "publishedAt": "2026-03-10T16:00:00.000Z"
-    },
-    {
-      "id": "b60kpo",
-      "title": "Thinking Machines Lab inks massive compute deal with Nvidia",
-      "summary": "The multi-year deal involves at least a gigawatt of compute power and also includes a strategic investment from Nvidia.",
-      "imageUrl": "https://images.unsplash.com/photo-1676299081847-824916de030a?w=800&q=80",
-      "source": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/03/10/thinking-machines-lab-inks-massive-compute-deal-with-nvidia/",
-      "publishedAt": "2026-03-10T15:08:39.000Z"
-    },
-    {
-      "id": "w41ucx",
-      "title": "Google gives in to users’ complaints over AI-powered ‘Ask Photos’ search feature",
-      "summary": "The option appears on the Google Photos Search screen and lets users pick which experience they want.",
-      "imageUrl": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=800&q=80",
-      "source": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/03/10/google-gives-in-to-users-complaints-over-ai-powered-ask-photos-search-feature/",
-      "publishedAt": "2026-03-10T14:58:29.000Z"
     },
     {
       "id": "9pjn1t",
@@ -532,15 +541,6 @@
       "source": "Ars Technica",
       "sourceUrl": "https://arstechnica.com/information-technology/2026/02/openai-researcher-quits-over-fears-that-chatgpt-ads-could-manipulate-users/",
       "publishedAt": "2026-02-11T20:44:19.000Z"
-    },
-    {
-      "id": "n88nim",
-      "title": "Sixteen Claude AI agents working together created a new C compiler",
-      "summary": "The $20,000 experiment compiled a Linux kernel but needed deep human management.",
-      "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2026/01/coding_robots_agents-1152x648.jpg",
-      "source": "Ars Technica",
-      "sourceUrl": "https://arstechnica.com/ai/2026/02/sixteen-claude-ai-agents-working-together-created-a-new-c-compiler/",
-      "publishedAt": "2026-02-06T23:40:58.000Z"
     }
   ]
 }
