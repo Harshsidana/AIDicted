@@ -1,7 +1,25 @@
 {
-  "fetchedAt": "2026-03-11T09:09:23.627Z",
+  "fetchedAt": "2026-03-11T10:08:48.504Z",
   "count": 60,
   "articles": [
+    {
+      "id": "wio60d",
+      "title": "Inside OpenAI’s Race to Catch Up to Claude Code",
+      "summary": "Why is the biggest name in AI late to the AI coding revolution?",
+      "imageUrl": "https://media.wired.com/photos/69b092fdb9e03828e1c694b8/master/pass/FF_CODINGAGENTS_MJQ_20260209_SF_WIRED_OPENAI_1111.jpg",
+      "source": "Wired",
+      "sourceUrl": "https://www.wired.com/story/openai-codex-race-claude-code/",
+      "publishedAt": "2026-03-11T10:00:00.000Z"
+    },
+    {
+      "id": "lgtz7z",
+      "title": "Anthropic is launching a new think tank amid Pentagon blacklist fight",
+      "summary": "Amid a weekslong conflict with the Pentagon, resulting in a blacklist and a lawsuit, Anthropic is shaking up its C-suite and research initiatives. The company announced Wednesday that it's launching a new internal think tank, called the Anthropic Institute, that combines three of Anthropic's current research teams. It will focus on researching AI's large-scale implications, such as \"what happens to jobs and economies, whether AI makes us safer or introduces new dangers, how its values might…",
+      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/06/STK485_STK414_AI_SAFETY_B.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "source": "The Verge",
+      "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/892478/anthropic-institute-think-tank-claude-pentagon-jack-clark",
+      "publishedAt": "2026-03-11T09:45:00.000Z"
+    },
     {
       "id": "h1anxe",
       "title": "Google brings Gemini in Chrome to India",
@@ -264,15 +282,6 @@
       "publishedAt": "2026-03-10T12:40:37.000Z"
     },
     {
-      "id": "oes786",
-      "title": "Meta’s deepfake moderation isn’t good enough, says Oversight Board",
-      "summary": "Meta’s Oversight Board wants the company to start taking AI labeling seriously to protect its users from online misinformation. | Image: Cath Virginia / The Verge, Getty Images Meta's methods for identifying deepfakes are \"not robust or comprehensive enough\" to handle how quickly misinformation spreads during armed conflicts like the Iran war. That's according to the Meta Oversight Board - a semi-independent body that guides the company's content moderation practices - which is now calling on…",
-      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/06/STKS515_CYBER_WARFARE_A.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "source": "The Verge",
-      "sourceUrl": "https://www.theverge.com/tech/891933/meta-oversight-board-ai-labels-deepfake-c2pa-facebook-instagram",
-      "publishedAt": "2026-03-10T10:01:33.000Z"
-    },
-    {
       "id": "5iow63",
       "title": "Yann LeCun’s AMI Labs raises $1.03B to build world models",
       "summary": "“My prediction is that ‘world models’ will be the next buzzword,” AMI Labs CEO Alexandre LeBrun told TechCrunch. “In six months, every company will call itself a world model to raise funding.”",
@@ -361,15 +370,6 @@
       "source": "Wired",
       "sourceUrl": "https://www.wired.com/story/feeld-was-a-dating-app-for-the-freaks-now-some-people-call-it-normie-hell/",
       "publishedAt": "2026-03-09T13:00:00.000Z"
-    },
-    {
-      "id": "jab3an",
-      "title": "Can AI Kill the Venture Capitalist?",
-      "summary": "VCs are betting that artificial intelligence will disrupt nearly every industry in the world. Are they prepared for it to disrupt their own?",
-      "imageUrl": "https://media.wired.com/photos/69ab52106bb4a5ea9482a549/master/pass/Can-AI-Kill-Venture-Capitalists-Business.jpg",
-      "source": "Wired",
-      "sourceUrl": "https://www.wired.com/story/ai-kill-venture-capital/",
-      "publishedAt": "2026-03-09T09:00:00.000Z"
     },
     {
       "id": "usx076",
