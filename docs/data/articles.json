@@ -1,7 +1,25 @@
 {
-  "fetchedAt": "2026-03-10T23:35:17.250Z",
+  "fetchedAt": "2026-03-11T02:41:28.892Z",
   "count": 60,
   "articles": [
+    {
+      "id": "h1anxe",
+      "title": "Google brings Gemini in Chrome to India",
+      "summary": "As part of the rollout, Gemini will support languages including Hindi, Bengali, Gujarati, Kannada, Malayalam, Marathi, Telugu, and Tamil.",
+      "imageUrl": "https://images.unsplash.com/photo-1526374965328-7f61d4dc18c5?w=800&q=80",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/03/10/google-gemini-chrome-expands-to-india-canada-new-zealand/",
+      "publishedAt": "2026-03-11T02:30:00.000Z"
+    },
+    {
+      "id": "qoli23",
+      "title": "Trump Administration Won’t Rule Out Further Action Against Anthropic",
+      "summary": "The White House is preparing an executive order targeting the AI startup, even as its earlier actions against the company face a major test in court.",
+      "imageUrl": "https://media.wired.com/photos/69b0b00478980662668bc8c8/master/pass/Trump-Admin-Refuses-to-Say-Wont-Take-Further-Action-Against-Anthropic-Business-2265661562.jpg",
+      "source": "Wired",
+      "sourceUrl": "https://www.wired.com/story/trump-administration-refuses-to-say-it-wont-take-further-action-against-anthropic/",
+      "publishedAt": "2026-03-11T01:41:42.000Z"
+    },
     {
       "id": "lqys3q",
       "title": "How the spiraling Iran conflict could affect data centers and electricity costs",
@@ -282,15 +300,6 @@
       "publishedAt": "2026-03-09T23:11:34.000Z"
     },
     {
-      "id": "w5ik9v",
-      "title": "OpenAI and Google employees rush to Anthropic’s defense in DOD lawsuit",
-      "summary": "More than 30 OpenAI and Google DeepMind employees signed onto a statement supporting Anthropic's lawsuit against the Defense Department after the agency labeled the AI firm a supply-chain risk, according to court filings.",
-      "imageUrl": "https://images.unsplash.com/photo-1620712943543-bcc4688e7485?w=800&q=80",
-      "source": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/03/09/openai-and-google-employees-rush-to-anthropics-defense-in-dod-lawsuit/",
-      "publishedAt": "2026-03-09T21:15:17.000Z"
-    },
-    {
       "id": "wrf4xo",
       "title": "Anthropic Claims Pentagon Feud Could Cost It Billions",
       "summary": "Executives at the AI startup say companies paused deal talks after the Trump administration labeled it a supply-chain risk, warning that the fallout could cause a major revenue hit.",
@@ -361,15 +370,6 @@
       "source": "Wired",
       "sourceUrl": "https://www.wired.com/story/ai-kill-venture-capital/",
       "publishedAt": "2026-03-09T09:00:00.000Z"
-    },
-    {
-      "id": "xzajbb",
-      "title": "This Jammer Wants to Block Always-Listening AI Wearables. It Probably Won’t Work",
-      "summary": "Deveillance’s Spectre I, developed by a recent Harvard grad, wants to give people control over the always-on wearables surrounding their lives. The problem? Physics.",
-      "imageUrl": "https://media.wired.com/photos/69a9ed524d78fe1b285c59c4/master/pass/Gear_Spectre_2.jpg",
-      "source": "Wired",
-      "sourceUrl": "https://www.wired.com/story/deveillance-spectre-i/",
-      "publishedAt": "2026-03-06T23:45:14.000Z"
     },
     {
       "id": "usx076",
