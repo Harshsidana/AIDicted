@@ -1,7 +1,25 @@
 {
-  "fetchedAt": "2026-03-11T16:29:42.100Z",
+  "fetchedAt": "2026-03-11T17:31:34.964Z",
   "count": 60,
   "articles": [
+    {
+      "id": "le5pus",
+      "title": "OpenAI’s Sora video generator is reportedly coming to ChatGPT",
+      "summary": "OpenAI's Sora video generator could soon become a built-in feature in ChatGPT, as reported by The Information. Sora is currently only available on its website or as a standalone app, which has fallen shy of the popularity of ChatGPT. This update would allow users to access Sora's video generation capabilities directly within ChatGPT itself, much like the addition of image generation capabilities in the chatbot last year. Sora could help attract more users to ChatGPT, but it may also worsen the…",
+      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/11/STKB375_SORA_D.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "source": "The Verge",
+      "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/893189/openai-chatgpt-sora-integration",
+      "publishedAt": "2026-03-11T16:50:45.000Z"
+    },
+    {
+      "id": "v9jrv",
+      "title": "WordPress debuts a private workspace that runs in your browser via a new service, my.WordPress.net",
+      "summary": "WordPress’s new browser-based service lets users create private sites without hosting or signup, turning the platform into a personal workspace for writing, research, and AI tools.",
+      "imageUrl": "https://images.unsplash.com/photo-1676299081847-824916de030a?w=800&q=80",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/03/11/wordpress-debuts-a-private-workspace-that-runs-in-your-browser-via-a-new-service-my-wordpress-net/",
+      "publishedAt": "2026-03-11T16:43:59.000Z"
+    },
     {
       "id": "5davr",
       "title": "Rivian spin-out Mind Robotics raises $500M for industrial AI-powered robots",
@@ -246,15 +264,6 @@
       "publishedAt": "2026-03-10T15:54:42.000Z"
     },
     {
-      "id": "gdjy6k",
-      "title": "Meta acquires Moltbook, the Reddit-like network for AI agents",
-      "summary": "Meta is acquiring Moltbook, a Reddit-like platform where AI agents can make and comment on posts, as first reported by Axios. In a statement to The Verge, Meta spokesperson Matthew Tye confirmed the Moltbook team will join Meta Superintelligence Labs as the company looks for \"new ways for AI agents to work for people and businesses.\" Matt Schlicht and Ben Parr launched Moltbook earlier this year, offering a \"social\" network for autonomous agents powered by the open-source AI assistant OpenClaw…",
-      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/03/STK414_AI_CVIRGINIA_C.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "source": "The Verge",
-      "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/892178/meta-moltbook-acquisition-ai-agents",
-      "publishedAt": "2026-03-10T15:22:17.000Z"
-    },
-    {
       "id": "b60kpo",
       "title": "Thinking Machines Lab inks massive compute deal with Nvidia",
       "summary": "The multi-year deal involves at least a gigawatt of compute power and also includes a strategic investment from Nvidia.",
@@ -307,15 +316,6 @@
       "source": "MIT Tech Review",
       "sourceUrl": "https://www.technologyreview.com/2026/03/10/1134099/how-pokemon-go-is-helping-robots-deliver-pizza-on-time/",
       "publishedAt": "2026-03-10T13:47:26.000Z"
-    },
-    {
-      "id": "bgnqjh",
-      "title": "Adobe is debuting an AI assistant for Photoshop",
-      "summary": "Adobe is also adding new AI-powered image-editing features to Firefly.",
-      "imageUrl": "https://images.unsplash.com/photo-1485827404703-89b55fcc595e?w=800&q=80",
-      "source": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/03/10/adobe-is-debuting-an-ai-assistant-for-photoshop/",
-      "publishedAt": "2026-03-10T13:06:51.000Z"
     },
     {
       "id": "phtxb1",
