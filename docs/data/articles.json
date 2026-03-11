@@ -1,7 +1,25 @@
 {
-  "fetchedAt": "2026-03-11T20:47:41.290Z",
+  "fetchedAt": "2026-03-11T21:40:58.401Z",
   "count": 60,
   "articles": [
+    {
+      "id": "pzr0sy",
+      "title": "Lovable says it added $100M in revenue last month alone, with just 146 employees",
+      "summary": "Swedish vibe-coding unicorn Lovable crossed $400 million in annual recurring revenue (ARR) in February.",
+      "imageUrl": "https://images.unsplash.com/photo-1676299081847-824916de030a?w=800&q=80",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/03/11/lovable-says-it-added-100m-in-revenue-last-month-alone-with-just-146-employees/",
+      "publishedAt": "2026-03-11T21:40:49.000Z"
+    },
+    {
+      "id": "hgh48d",
+      "title": "Grammarly Is Facing a Class Action Lawsuit Over Its AI ‘Expert Review’ Feature",
+      "summary": "The feature, which Grammarly shut down Wednesday, presented editing suggestions as if they came from established authors and academics—without their consent.",
+      "imageUrl": "https://media.wired.com/photos/69b1c8b19fd417e67bc5b525/master/pass/031126-grammarly-AI-experts-1.jpg",
+      "source": "Wired",
+      "sourceUrl": "https://www.wired.com/story/grammarly-is-facing-a-class-action-lawsuit-over-its-ai-expert-review-feature/",
+      "publishedAt": "2026-03-11T20:45:03.000Z"
+    },
     {
       "id": "wx04t7",
       "title": "Replit snags $9B valuation 6 months after hitting $3B",
@@ -309,15 +327,6 @@
       "publishedAt": "2026-03-10T14:34:24.000Z"
     },
     {
-      "id": "l3ngzu",
-      "title": "Meta acquired Moltbook, the AI agent social network that went viral because of fake posts",
-      "summary": "Meta says that Moltbook's approach to \"connecting agents through an always-on-directory\" is novel.",
-      "imageUrl": "https://images.unsplash.com/photo-1620712943543-bcc4688e7485?w=800&q=80",
-      "source": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/03/10/meta-acquired-moltbook-the-ai-agent-social-network-that-went-viral-because-of-fake-posts/",
-      "publishedAt": "2026-03-10T14:32:05.000Z"
-    },
-    {
       "id": "9pjn1t",
       "title": "How Pokémon Go is giving delivery robots an inch-perfect view of the world",
       "summary": "Pokémon Go was the world’s first augmented-reality megahit. Released in 2016 by the Google spinout Niantic, the AR twist on the juggernaut Pokémon franchise fast became a global phenomenon. From Chicago to Oslo to Enoshima, players hit the streets in the urgent hope of catching a Jigglypuff or a Squirtle or (with a huge amount…",
@@ -352,15 +361,6 @@
       "source": "MIT Tech Review",
       "sourceUrl": "https://www.technologyreview.com/2026/03/10/1134077/the-download-ai-iran-war-theater-anthropic-sues-us/",
       "publishedAt": "2026-03-10T12:55:32.000Z"
-    },
-    {
-      "id": "fzv6ry",
-      "title": "Yann LeCun Raises $1 Billion to Build AI That Understands the Physical World",
-      "summary": "Meta’s former chief AI scientist has long argued that human-level AI will come from mastering the physical world, not language. His new startup, AMI, aims to prove it.",
-      "imageUrl": "https://media.wired.com/photos/69ab547169eb9242c51148d7/master/pass/Yann-LeCun-QA-Business-2198379404.jpg",
-      "source": "Wired",
-      "sourceUrl": "https://www.wired.com/story/yann-lecun-raises-dollar1-billion-to-build-ai-that-understands-the-physical-world/",
-      "publishedAt": "2026-03-10T05:00:00.000Z"
     },
     {
       "id": "48htnh",
