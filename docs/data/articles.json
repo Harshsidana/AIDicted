@@ -1,7 +1,34 @@
 {
-  "fetchedAt": "2026-03-11T17:31:34.964Z",
+  "fetchedAt": "2026-03-11T19:03:35.067Z",
   "count": 60,
   "articles": [
+    {
+      "id": "wx04t7",
+      "title": "Replit snags $9B valuation 6 months after hitting $3B",
+      "summary": "Replit raised a new $400 million round and said it hopes to have $1B in ARR by year's end.",
+      "imageUrl": "https://images.unsplash.com/photo-1655720828018-edd2daec9349?w=800&q=80",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/03/11/replit-snags-9b-valuation-6-months-after-hitting-3b/",
+      "publishedAt": "2026-03-11T18:52:52.000Z"
+    },
+    {
+      "id": "mlhmvx",
+      "title": "Grammarly says it will stop using AI to clone experts without permission",
+      "summary": "Superhuman says it has disabled Grammarly's \"expert review\" AI feature that said its edit suggestions were \"inspired by\" real writers, including our editor-in-chief and other Verge staff members. \"After careful consideration, we have decided to disable Expert Review as we reimagine the feature to make it more useful for users, while giving experts real control over how they want to be represented - or not represented at all,\" Ailian Gan, Superhuman's director of product management, said in a…",
+      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/03/grammr-crop.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "source": "The Verge",
+      "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/893270/grammarly-ai-expert-review-disabled",
+      "publishedAt": "2026-03-11T18:45:50.000Z"
+    },
+    {
+      "id": "8q22qx",
+      "title": "Nvidia Will Spend $26 Billion to Build Open-Weight AI Models, Filings Show",
+      "summary": "The move could position the AI infrastructure powerhouse to quickly compete with OpenAI, Anthropic, and DeepSeek.",
+      "imageUrl": "https://media.wired.com/photos/69af3f3792d66aac27c0e361/master/pass/AI-Lab-Nvidia-Goes-All-in-on-AI-Business.jpg",
+      "source": "Wired",
+      "sourceUrl": "https://www.wired.com/story/nvidia-investing-26-billion-open-source-models/",
+      "publishedAt": "2026-03-11T18:00:00.000Z"
+    },
     {
       "id": "le5pus",
       "title": "OpenAI’s Sora video generator is reportedly coming to ChatGPT",
@@ -14,7 +41,7 @@
     {
       "id": "v9jrv",
       "title": "WordPress debuts a private workspace that runs in your browser via a new service, my.WordPress.net",
-      "summary": "WordPress’s new browser-based service lets users create private sites without hosting or signup, turning the platform into a personal workspace for writing, research, and AI tools.",
+      "summary": "WordPress’s new browser-based service lets users create private sites without hosting or signing up, turning the platform into a personal workspace for writing, research, and AI tools.",
       "imageUrl": "https://images.unsplash.com/photo-1676299081847-824916de030a?w=800&q=80",
       "source": "TechCrunch",
       "sourceUrl": "https://techcrunch.com/2026/03/11/wordpress-debuts-a-private-workspace-that-runs-in-your-browser-via-a-new-service-my-wordpress-net/",
@@ -255,15 +282,6 @@
       "publishedAt": "2026-03-10T16:00:00.000Z"
     },
     {
-      "id": "jjj1ux",
-      "title": "Grammarly will keep using authors’ identities without permission unless they opt out",
-      "summary": "Last week, my colleagues discovered that Superhuman's Grammarly had turned me into an AI editor, using my real name, without ever asking my permission. They did the same to my boss Nilay Patel, my colleagues David Pierce and Tom Warren, and - as Wired initially reported last Wednesday - many authors far more famous than us. Grammarly's new \"Expert Review\" feature uses our names to give its AI suggestions credibility that they don't deserve. Now, Grammarly has finally addressed the backlash - but…",
-      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/03/grammr-crop.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "source": "The Verge",
-      "sourceUrl": "https://www.theverge.com/tech/891822/grammarly-superhuman-expert-review-names-without-permission-opt-out-email",
-      "publishedAt": "2026-03-10T15:54:42.000Z"
-    },
-    {
       "id": "b60kpo",
       "title": "Thinking Machines Lab inks massive compute deal with Nvidia",
       "summary": "The multi-year deal involves at least a gigawatt of compute power and also includes a strategic investment from Nvidia.",
@@ -298,15 +316,6 @@
       "source": "TechCrunch",
       "sourceUrl": "https://techcrunch.com/2026/03/10/meta-acquired-moltbook-the-ai-agent-social-network-that-went-viral-because-of-fake-posts/",
       "publishedAt": "2026-03-10T14:32:05.000Z"
-    },
-    {
-      "id": "jr6rgw",
-      "title": "YouTube expands AI deepfake detection to politicians, government officials, and journalists",
-      "summary": "YouTube's AI deepfake detection tool is becoming available to politicians, journalists, and officials, letting them flag unauthorized likenesses for removal.",
-      "imageUrl": "https://images.unsplash.com/photo-1635070041078-e363dbe005cb?w=800&q=80",
-      "source": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/03/10/youtube-expands-ai-deepfake-detection-to-politicians-government-officials-and-journalists/",
-      "publishedAt": "2026-03-10T14:00:00.000Z"
     },
     {
       "id": "9pjn1t",
@@ -352,15 +361,6 @@
       "source": "Wired",
       "sourceUrl": "https://www.wired.com/story/yann-lecun-raises-dollar1-billion-to-build-ai-that-understands-the-physical-world/",
       "publishedAt": "2026-03-10T05:00:00.000Z"
-    },
-    {
-      "id": "9fxb7s",
-      "title": "Nvidia Is Planning to Launch an Open-Source AI Agent Platform",
-      "summary": "Ahead of its annual developer conference, Nvidia is readying a new approach to software that embraces AI agents similar to OpenClaw.",
-      "imageUrl": "https://media.wired.com/photos/69aa166a88f33482258401e7/master/pass/Nvidia-Scoop-Business-2260170952.jpg",
-      "source": "Wired",
-      "sourceUrl": "https://www.wired.com/story/nvidia-planning-ai-agent-platform-launch-open-source/",
-      "publishedAt": "2026-03-09T23:11:34.000Z"
     },
     {
       "id": "48htnh",
