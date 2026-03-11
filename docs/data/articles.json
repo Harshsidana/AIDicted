@@ -1,10 +1,46 @@
 {
-  "fetchedAt": "2026-03-11T14:28:45.958Z",
+  "fetchedAt": "2026-03-11T16:29:42.100Z",
   "count": 60,
   "articles": [
     {
-      "id": "kbiilt",
-      "title": "Meta Developed 4 New Chips to Power Its AI and Recommendation Systems",
+      "id": "5davr",
+      "title": "Rivian spin-out Mind Robotics raises $500M for industrial AI-powered robots",
+      "summary": "The startup, which was created by Rivian founder RJ Scaringe, is looking to train on data from, and deploy in, Rivian's factory.",
+      "imageUrl": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=800&q=80",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/03/11/rivian-mind-robotics-series-a-500m-fund-raise-industrial-ai-powered-robots/",
+      "publishedAt": "2026-03-11T16:12:02.000Z"
+    },
+    {
+      "id": "g409ql",
+      "title": "Meta didn’t buy Moltbook for bots — it bought into the agentic web",
+      "summary": "Meta’s Moltbook acquisition may look odd at first, but the deal could signal how Meta sees AI agents shaping future advertising and commerce on an agentic web.",
+      "imageUrl": "https://images.unsplash.com/photo-1655720828018-edd2daec9349?w=800&q=80",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/03/11/meta-didnt-buy-moltbook-for-bots-it-bought-into-the-agentic-web/",
+      "publishedAt": "2026-03-11T15:11:31.000Z"
+    },
+    {
+      "id": "pkx3zv",
+      "title": "Canva’s new editing tool adds layers to AI-generated designs",
+      "summary": "Canva introduced a new feature that separates flat image files and AI-generated visuals into layered, fully editable designs. The Magic Layers tool is launching in public beta today in the US, UK, Canada, and Australia, allowing design components like objects, text boxes, and other graphics to be selected individually while preserving the original layout. \"After a breakthrough from our AI research team, we're introducing Magic Layers so anyone can take a flat image and turn it into a fully…",
+      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/03/NAMR26003_S003_GRP01_PrImageSplit_16x9_V01.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "source": "The Verge",
+      "sourceUrl": "https://www.theverge.com/tech/893124/canva-ai-magic-layers-feature-beta",
+      "publishedAt": "2026-03-11T15:02:02.000Z"
+    },
+    {
+      "id": "898rv1",
+      "title": "Amazon expands a program that lets customers shop from other retailers’ sites",
+      "summary": "The changes allow more merchants to participate in Amazon's Shop Direct program, which sends Amazon customers to other retailers' websites.",
+      "imageUrl": "https://images.unsplash.com/photo-1526374965328-7f61d4dc18c5?w=800&q=80",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/03/11/amazon-expands-a-program-that-lets-customers-shop-from-other-retailers-sites/",
+      "publishedAt": "2026-03-11T14:48:30.000Z"
+    },
+    {
+      "id": "yyjxxq",
+      "title": "Meta Is Developing 4 New Chips to Power Its AI and Recommendation Systems",
       "summary": "The MTIA processors are the tech giant’s latest attempt to build its own AI hardware, even as it continues spending billions on gear from industry leaders like Nvidia.",
       "imageUrl": "https://media.wired.com/photos/69b089a6573bdab1742c68bb/master/pass/MTIA-400_Blog_Hero.png",
       "source": "Wired",
@@ -113,7 +149,7 @@
     {
       "id": "h1anxe",
       "title": "Google brings Gemini in Chrome to India",
-      "summary": "As part of the rollout, Gemini will support languages including Hindi, Bengali, Gujarati, Kannada, Malayalam, Marathi, Telugu, and Tamil.",
+      "summary": "The rollout will let users access Gemini in Chrome through a sidebar on desktop, enabling them to ask Google's AI chatbot questions about the content on the screen; get information from their Gmail, Keep, Drive, and YouTube; and compare tab contents.",
       "imageUrl": "https://images.unsplash.com/photo-1526374965328-7f61d4dc18c5?w=800&q=80",
       "source": "TechCrunch",
       "sourceUrl": "https://techcrunch.com/2026/03/10/google-gemini-chrome-expands-to-india-canada-new-zealand/",
@@ -255,15 +291,6 @@
       "publishedAt": "2026-03-10T14:32:05.000Z"
     },
     {
-      "id": "cn1jbo",
-      "title": "The twist in the Ticketmaster antitrust fight",
-      "summary": "A lot of people are mad at Ticketmaster, and have been for a long time. (Did Swifties directly create an antitrust trial? Discuss.) The US government's case against Live Nation-Ticketmaster appeared poised to lay bare some of the strangeness of the music business, and maybe even change the way the company works. Verge subscribers, don't forget you get exclusive access to ad-free Vergecast wherever you get your podcasts. Head here. Not a subscriber? You can sign up here. And then, well, the…",
-      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/03/VRG_VST_0310_Site.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "source": "The Verge",
-      "sourceUrl": "https://www.theverge.com/podcast/892021/ticketmaster-antitrust-anthropic-pentagon-vergecast",
-      "publishedAt": "2026-03-10T14:01:10.000Z"
-    },
-    {
       "id": "jr6rgw",
       "title": "YouTube expands AI deepfake detection to politicians, government officials, and journalists",
       "summary": "YouTube's AI deepfake detection tool is becoming available to politicians, journalists, and officials, letting them flag unauthorized likenesses for removal.",
@@ -291,24 +318,6 @@
       "publishedAt": "2026-03-10T13:06:51.000Z"
     },
     {
-      "id": "bgzj0v",
-      "title": "Zoom introduces an AI-powered office suite, says AI avatars for meetings arrive this month",
-      "summary": "Zoom is also introducing real-time deepfake detection tech for meetings.",
-      "imageUrl": "https://images.unsplash.com/photo-1485827404703-89b55fcc595e?w=800&q=80",
-      "source": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/03/10/zoom-launches-an-ai-powered-office-suite-says-ai-avatars-for-meetings-are-coming-soon/",
-      "publishedAt": "2026-03-10T13:00:00.000Z"
-    },
-    {
-      "id": "9ii7sb",
-      "title": "Google rolls out new Gemini capabilities to Docs, Sheets, Slides, and Drive",
-      "summary": "The idea behind the new features is to make the apps more personal and capable to help users get things done faster, right within the platforms themselves.",
-      "imageUrl": "https://images.unsplash.com/photo-1620712943543-bcc4688e7485?w=800&q=80",
-      "source": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/03/10/google-rolls-out-new-gemini-capabilities-to-docs-sheets-slides-and-drive/",
-      "publishedAt": "2026-03-10T13:00:00.000Z"
-    },
-    {
       "id": "phtxb1",
       "title": "I Used Google’s New Gemini-Powered ‘Help Me Create’ Tool in Docs. It’s Great at Corporate-Speak",
       "summary": "Google has injected Docs, Drive, Sheets, and Slides with its Gemini assistant, adding new features that can pull information from your emails and the web to help you draft content. I gave it a whirl.",
@@ -334,15 +343,6 @@
       "source": "MIT Tech Review",
       "sourceUrl": "https://www.technologyreview.com/2026/03/10/1134077/the-download-ai-iran-war-theater-anthropic-sues-us/",
       "publishedAt": "2026-03-10T12:55:32.000Z"
-    },
-    {
-      "id": "syha3v",
-      "title": "Sandbar secures $23M Series A for its AI note-taking ring",
-      "summary": "Sandbar aims to ship the Stream, which can be used to take notes, chat with an AI assistant, and for media playback, this summer.",
-      "imageUrl": "https://images.unsplash.com/photo-1620712943543-bcc4688e7485?w=800&q=80",
-      "source": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/03/10/sandbar-secures-23m-series-a-for-its-ai-note-taking-ring/",
-      "publishedAt": "2026-03-10T12:40:37.000Z"
     },
     {
       "id": "fzv6ry",
