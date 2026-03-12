@@ -1,7 +1,43 @@
 {
-  "fetchedAt": "2026-03-12T21:01:39.121Z",
+  "fetchedAt": "2026-03-12T23:36:15.274Z",
   "count": 60,
   "articles": [
+    {
+      "id": "bm15xj",
+      "title": "How to watch Jensen Huang’s Nvidia GTC 2026 keynote",
+      "summary": "Nvidia kicks off its GTC conference with Huang's keynote on Monday, which can be watched in person or via livestream.",
+      "imageUrl": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=800&q=80",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/03/12/how-to-watch-jensen-huangs-nvidia-gtc-2026-keynote/",
+      "publishedAt": "2026-03-12T23:25:39.000Z"
+    },
+    {
+      "id": "8407ym",
+      "title": "Sales automation startup Rox AI hits $1.2B valuation, sources say",
+      "summary": "Rox, founded in 2024 by the former chief growth officer of New Relic, offers an AI-native alternative to CRM tools.",
+      "imageUrl": "https://images.unsplash.com/photo-1676299081847-824916de030a?w=800&q=80",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/03/12/sales-automation-startup-rox-ai-hits-1-2b-valuation-sources-say/",
+      "publishedAt": "2026-03-12T22:25:50.000Z"
+    },
+    {
+      "id": "cd26zx",
+      "title": "A defense official reveals how AI chatbots could be used for targeting decisions",
+      "summary": "The US military might use generative AI systems to rank lists of targets and make recommendations—which would be vetted by humans—about which to strike first, according to a Defense Department official with knowledge of the matter. The disclosure about how the military may use AI chatbots comes as the Pentagon faces scrutiny over a strike…",
+      "imageUrl": "https://images.unsplash.com/photo-1526374965328-7f61d4dc18c5?w=800&q=80",
+      "source": "MIT Tech Review",
+      "sourceUrl": "https://www.technologyreview.com/2026/03/12/1134243/defense-official-military-use-ai-chatbots-targeting-decisions/",
+      "publishedAt": "2026-03-12T22:23:34.000Z"
+    },
+    {
+      "id": "4qe26y",
+      "title": "The who, what, and why of the attack that has shut down Stryker's Windows network\"",
+      "summary": "Company says it doesn't know how long it will take to restore its Microsoft environment.",
+      "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2026/01/data-wiper-malware-1152x648.jpg",
+      "source": "Ars Technica",
+      "sourceUrl": "https://arstechnica.com/security/2026/03/whats-known-about-wiper-attack-on-stryker-a-major-supplier-of-lifesaving-devices/",
+      "publishedAt": "2026-03-12T22:18:11.000Z"
+    },
     {
       "id": "fqxxrl",
       "title": "‘Uncanny Valley’: Anthropic’s DOD Lawsuit, War Memes, and AI Coming for VC Jobs",
@@ -32,7 +68,7 @@
     {
       "id": "u48cys",
       "title": "Tinder tries to lure people back to online dating with IRL events, virtual speed dating",
-      "summary": "Tinder just got a major revamp as it attempts to re-engange its user base and attract younger daters. This includes in-person events, AI enhancements, and even virtual speed dating.",
+      "summary": "Tinder just got a major revamp as it attempts to reengage its user base and attract younger daters. This includes in-person events, AI enhancements, and even virtual speed dating.",
       "imageUrl": "https://images.unsplash.com/photo-1526374965328-7f61d4dc18c5?w=800&q=80",
       "source": "TechCrunch",
       "sourceUrl": "https://techcrunch.com/2026/03/12/tinder-tries-to-lure-people-back-to-online-dating-with-irl-events-virtual-speed-dating/",
@@ -255,24 +291,6 @@
       "publishedAt": "2026-03-11T22:41:27.000Z"
     },
     {
-      "id": "pmozow",
-      "title": "Netflix may have paid $600 million for Ben Affleck’s AI startup",
-      "summary": "This deal could rank as among the streaming giant's largest acquisitions ever.",
-      "imageUrl": "https://images.unsplash.com/photo-1526374965328-7f61d4dc18c5?w=800&q=80",
-      "source": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/03/11/netflix-may-have-paid-600-million-for-ben-afflecks-ai-startup/",
-      "publishedAt": "2026-03-11T22:00:05.000Z"
-    },
-    {
-      "id": "pzr0sy",
-      "title": "Lovable says it added $100M in revenue last month alone, with just 146 employees",
-      "summary": "Swedish vibe-coding unicorn Lovable crossed $400 million in annual recurring revenue (ARR) in February.",
-      "imageUrl": "https://images.unsplash.com/photo-1676299081847-824916de030a?w=800&q=80",
-      "source": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/03/11/lovable-says-it-added-100m-in-revenue-last-month-alone-with-just-146-employees/",
-      "publishedAt": "2026-03-11T21:40:49.000Z"
-    },
-    {
       "id": "55s",
       "title": "14,000 routers are infected by malware that's highly resistant to takedowns",
       "summary": "Most of the devices are made by Asus and are located in the US.",
@@ -408,15 +426,6 @@
       "publishedAt": "2026-03-10T12:55:32.000Z"
     },
     {
-      "id": "48htnh",
-      "title": "How AI is turning the Iran conflict into theater",
-      "summary": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here. “Anyone wanna host a get together in SF and pull this up on a 100 inch TV?” The author of that post on X was referring to an online intelligence dashboard following…",
-      "imageUrl": "https://images.unsplash.com/photo-1620712943543-bcc4688e7485?w=800&q=80",
-      "source": "MIT Tech Review",
-      "sourceUrl": "https://www.technologyreview.com/2026/03/09/1134063/how-ai-is-turning-the-iran-conflict-into-theater/",
-      "publishedAt": "2026-03-09T15:11:01.000Z"
-    },
-    {
       "id": "usx076",
       "title": "Feds take notice of iOS vulnerabilities exploited under mysterious circumstances",
       "summary": "The long, strange trip of a large assembly of advanced iOS exploits.",
@@ -532,15 +541,6 @@
       "source": "Ars Technica",
       "sourceUrl": "https://arstechnica.com/security/2026/02/once-hobbled-lumma-stealer-is-back-with-lures-that-are-hard-to-resist/",
       "publishedAt": "2026-02-11T22:11:40.000Z"
-    },
-    {
-      "id": "4jtrsv",
-      "title": "OpenAI researcher quits over ChatGPT ads, warns of \"Facebook\" path",
-      "summary": "Zoë Hitzig resigned on the same day OpenAI began testing ads in its chatbot.",
-      "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2026/02/open-ai-monkey-ad-1152x648.jpg",
-      "source": "Ars Technica",
-      "sourceUrl": "https://arstechnica.com/information-technology/2026/02/openai-researcher-quits-over-fears-that-chatgpt-ads-could-manipulate-users/",
-      "publishedAt": "2026-02-11T20:44:19.000Z"
     }
   ]
 }
