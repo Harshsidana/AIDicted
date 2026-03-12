@@ -1,7 +1,25 @@
 {
-  "fetchedAt": "2026-03-12T07:09:19.634Z",
+  "fetchedAt": "2026-03-12T11:51:59.188Z",
   "count": 60,
   "articles": [
+    {
+      "id": "p58kkt",
+      "title": "Google is using old news reports and AI to predict flash floods",
+      "summary": "A new way to solve data scarcity: Turning qualitative reports into quantitative data with an LLM.",
+      "imageUrl": "https://images.unsplash.com/photo-1526374965328-7f61d4dc18c5?w=800&q=80",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/03/12/google-is-using-old-news-reports-and-ai-to-predict-flash-floods/",
+      "publishedAt": "2026-03-12T10:00:00.000Z"
+    },
+    {
+      "id": "co4doz",
+      "title": "Brutal times for the US battery industry",
+      "summary": "Just a few years ago, the battery industry was hot, hot, hot. There was a seemingly infinite number of companies popping up, with shiny new chemistries and massive fundraising rounds. My biggest problem was sifting through the pile to pick the most exciting news to cover. That tide has turned, and in 2026, what seems…",
+      "imageUrl": "https://images.unsplash.com/photo-1485827404703-89b55fcc595e?w=800&q=80",
+      "source": "MIT Tech Review",
+      "sourceUrl": "https://www.technologyreview.com/2026/03/12/1134197/us-battery-industry/",
+      "publishedAt": "2026-03-12T10:00:00.000Z"
+    },
     {
       "id": "4yq7qe",
       "title": "AI ‘actor’ Tilly Norwood put out the worst song I’ve ever heard",
@@ -318,15 +336,6 @@
       "publishedAt": "2026-03-10T18:42:33.000Z"
     },
     {
-      "id": "s815ov",
-      "title": "ChatGPT can now create interactive visuals to help you understand math and science concepts",
-      "summary": "Instead of just reading an explanation or looking at a static diagram, users can now engage directly with interactive visuals.",
-      "imageUrl": "https://images.unsplash.com/photo-1620712943543-bcc4688e7485?w=800&q=80",
-      "source": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/03/10/chatgpt-can-now-create-interactive-visuals-to-help-you-understand-math-and-science-concepts/",
-      "publishedAt": "2026-03-10T17:51:25.000Z"
-    },
-    {
       "id": "wuejde",
       "title": "Fake AI Content About the Iran War Is All Over X",
       "summary": "X’s Grok is failing to accurately verify video footage from the Iran conflict and is sharing its own AI-generated images about the war.",
@@ -415,15 +424,6 @@
       "source": "MIT Tech Review",
       "sourceUrl": "https://www.technologyreview.com/2026/03/06/1134012/is-the-pentagon-allowed-to-surveil-americans-with-ai/",
       "publishedAt": "2026-03-06T19:21:22.000Z"
-    },
-    {
-      "id": "s97w3y",
-      "title": "The Download: 10 things that matter in AI, plus Anthropic’s plan to sue the Pentagon",
-      "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. Coming soon: our 10 Things That Matter in AI Right Now For years, MIT Technology Review’s newsroom has been ahead of the curve, tracking the developments in AI that matter and…",
-      "imageUrl": "https://images.unsplash.com/photo-1676299081847-824916de030a?w=800&q=80",
-      "source": "MIT Tech Review",
-      "sourceUrl": "https://www.technologyreview.com/2026/03/06/1133989/the-download-10-things-that-matter-in-ai-anthropics-plan-sue-pentagon/",
-      "publishedAt": "2026-03-06T13:10:00.000Z"
     },
     {
       "id": "cn3q0l",
