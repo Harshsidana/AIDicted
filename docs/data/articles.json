@@ -1,11 +1,20 @@
 {
-  "fetchedAt": "2026-03-11T23:34:20.914Z",
+  "fetchedAt": "2026-03-12T04:54:12.175Z",
   "count": 60,
   "articles": [
     {
+      "id": "4yq7qe",
+      "title": "AI ‘actor’ Tilly Norwood put out the worst song I’ve ever heard",
+      "summary": "This song is an AI actor's rallying cry to other AI actors, urging them to keep going despite the naysayers who doubt their humanity. Literally no one can relate to this.",
+      "imageUrl": "https://images.unsplash.com/photo-1550751827-4bd374c3f58b?w=800&q=80",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/03/11/ai-actor-tilly-norwood-put-out-the-worst-song-ive-ever-heard/",
+      "publishedAt": "2026-03-11T23:35:03.000Z"
+    },
+    {
       "id": "ee1fb8",
       "title": "One of Grammarly’s ‘experts’ is suing the company over its identity-stealing AI feature",
-      "summary": "Journalist Julia Angwin is one of the writers whose likeness was used in Grammarly’s “expert review” feature. | Photo: Eóin Noonan/Sportsfile via Getty Images For months, Grammarly has been using the identities of real people (including us) for its \"Expert Review\" AI suggestions without getting their permission, and now it's facing a lawsuit from one of the journalists included, as previously reported by Wired. The class-action complaint filed by journalist Julia Angwin on Wednesday alleges that…",
+      "summary": "Journalist Julia Angwin is one of the writers whose likeness was used in Grammarly’s “expert review” feature. | Photo: Eóin Noonan / Sportsfile via Getty Images For months, Grammarly has been using the identities of real people (including us) for its \"Expert Review\" AI suggestions without getting their permission, and now it's facing a lawsuit from one of the journalists included, as previously reported by Wired. The class-action complaint filed by journalist Julia Angwin on Wednesday alleges…",
       "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/03/gettyimages-1244428289.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
       "source": "The Verge",
       "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/893451/grammarly-ai-lawsuit-julia-angwin",
@@ -325,15 +334,6 @@
       "source": "Wired",
       "sourceUrl": "https://www.wired.com/story/fake-ai-content-about-the-iran-war-is-all-over-x/",
       "publishedAt": "2026-03-10T16:45:47.000Z"
-    },
-    {
-      "id": "lwoqza",
-      "title": "AgentMail raises $6M to build an email service for AI agents",
-      "summary": "AgentMail provides an API platform that lets you give AI agents their own email inboxes, with support for two-way conversations, parsing, threading, labeling, searching, and replying.",
-      "imageUrl": "https://images.unsplash.com/photo-1635070041078-e363dbe005cb?w=800&q=80",
-      "source": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/03/10/agentmail-raises-6m-to-build-an-email-service-for-ai-agents/",
-      "publishedAt": "2026-03-10T16:00:00.000Z"
     },
     {
       "id": "9pjn1t",
