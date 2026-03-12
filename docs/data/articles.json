@@ -1,7 +1,43 @@
 {
-  "fetchedAt": "2026-03-12T11:51:59.188Z",
+  "fetchedAt": "2026-03-12T14:28:50.438Z",
   "count": 60,
   "articles": [
+    {
+      "id": "n0yfqj",
+      "title": "Anthropic doesn’t trust the Pentagon, and neither should you",
+      "summary": "Today we’re talking about the messy, fast-moving situation at Anthropic, the maker of Claude that now finds itself in a very ugly legal battle with the Pentagon. The back-and-forth is complicated, but as of a few days ago, the Pentagon had deemed Anthropic a supply chain risk, and Anthropic has filed a lawsuit challenging that designation, saying the government has violated its First and Fifth Amendment rights by “seeking to destroy the economic value created by one of the world’s…",
+      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/03/DCD_0312_Site_v2.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "source": "The Verge",
+      "sourceUrl": "https://www.theverge.com/podcast/893370/anthropic-pentagon-ai-mass-surveillance-nsa-privacy-spying",
+      "publishedAt": "2026-03-12T14:00:00.000Z"
+    },
+    {
+      "id": "4e03ql",
+      "title": "Bespoke AI models are the next big thing in filmmaking",
+      "summary": "Though many AI boosters have convinced themselves that the technology can spit out films and television series whole cloth, claims of Hollywood being cooked feel very premature when you see what people are making with the most popular image/video models on the market. Models like Sora, Veo, and Runway just do not seem all that great for entertainment production. But we're starting to see more AI firms building a new breed of generative model - ones that are designed to address creatives' needs…",
+      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/03/gettyimages-2247850099.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "source": "The Verge",
+      "sourceUrl": "https://www.theverge.com/streaming/893538/ai-model-netflix-interpositive-ben-affleck",
+      "publishedAt": "2026-03-12T13:56:00.000Z"
+    },
+    {
+      "id": "sbf07l",
+      "title": "The Download: Early adopters cash in on China’s OpenClaw craze, and US batteries slump",
+      "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. Hustlers are cashing in on China’s OpenClaw AI craze In January, Beijing-based software engineer Feng Qingyang started tinkering with OpenClaw, a new AI tool that can take over a device and autonomously complete tasks.…",
+      "imageUrl": "https://images.unsplash.com/photo-1620712943543-bcc4688e7485?w=800&q=80",
+      "source": "MIT Tech Review",
+      "sourceUrl": "https://www.technologyreview.com/2026/03/12/1134207/the-download-china-openclaw-ai-craze-us-battery-industry-downturn/",
+      "publishedAt": "2026-03-12T13:02:48.000Z"
+    },
+    {
+      "id": "ygzj4s",
+      "title": "Microsoft’s Copilot Health can connect to your medical records and wearables",
+      "summary": "Microsoft announced on Thursday that it's launching Copilot Health, a \"separate, secure space\" in Copilot for asking questions about lab results and medical records, searching for providers, analyzing data from wearables, and other health-related chats. The feature will have a phased rollout, so it won't be available to everyone immediately, but users can join a waitlist to get access. Microsoft says Copilot Health \"doesn't replace your doctor\" and isn't intended for providing medical diagnoses…",
+      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/02/STK259_MICROSOFT_COPILOT_3__B.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "source": "The Verge",
+      "sourceUrl": "https://www.theverge.com/tech/893594/microsoft-copilot-health-launch",
+      "publishedAt": "2026-03-12T13:01:07.000Z"
+    },
     {
       "id": "p58kkt",
       "title": "Google is using old news reports and AI to predict flash floods",
@@ -9,7 +45,52 @@
       "imageUrl": "https://images.unsplash.com/photo-1526374965328-7f61d4dc18c5?w=800&q=80",
       "source": "TechCrunch",
       "sourceUrl": "https://techcrunch.com/2026/03/12/google-is-using-old-news-reports-and-ai-to-predict-flash-floods/",
-      "publishedAt": "2026-03-12T10:00:00.000Z"
+      "publishedAt": "2026-03-12T13:00:00.000Z"
+    },
+    {
+      "id": "i4rutt",
+      "title": "Pragmatic by design: Engineering AI for the real world",
+      "summary": "The impact of artificial intelligence extends far beyond the digital world and into our everyday lives, across the cars we drive, the appliances in our homes, and medical devices that keep people alive. More and more, product engineers are turning to AI to enhance, validate, and streamline the design of the items that furnish our…",
+      "imageUrl": "https://images.unsplash.com/photo-1526374965328-7f61d4dc18c5?w=800&q=80",
+      "source": "MIT Tech Review",
+      "sourceUrl": "https://www.technologyreview.com/2026/03/12/1133675/pragmatic-by-design-engineering-ai-for-the-real-world/",
+      "publishedAt": "2026-03-12T13:00:00.000Z"
+    },
+    {
+      "id": "9tvghw",
+      "title": "Google Maps is getting an AI ‘Ask Maps’ feature and upgraded ‘immersive’ navigation",
+      "summary": "The tech giant says the \"Immersive Navigation\" launch is the biggest update to Maps in over a decade.",
+      "imageUrl": "https://images.unsplash.com/photo-1531746790095-6c10a4031c5f?w=800&q=80",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/03/12/google-maps-is-getting-an-ai-ask-maps-feature-and-upgraded-immersive-navigation/",
+      "publishedAt": "2026-03-12T12:30:00.000Z"
+    },
+    {
+      "id": "u9k23u",
+      "title": "You can now ask Google Maps ‘complex, real-world questions’ — and Gemini will answer",
+      "summary": "Google is continuing to weave Gemini into the firmament of its most-used products. Today, it announced that Google Maps was getting a new AI-powered \"Ask Maps\" feature that allows for \"complex, real-world questions\" with highly detailed, personalized responses. In the past, Google Maps would struggle with hyper-specific questions like \"where can I charge my phone without having to wait in line for coffee\" or \"where is the closest public bathroom that isn't completely disgusting\" (parents of kids…",
+      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/03/STK270_GOOGLE_MAPS_D.png?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "source": "The Verge",
+      "sourceUrl": "https://www.theverge.com/tech/893262/google-maps-gemini-ai-ask-maps-immersive-navigation",
+      "publishedAt": "2026-03-12T12:30:00.000Z"
+    },
+    {
+      "id": "exbntv",
+      "title": "Google Maps Gets Chatty With a New Gemini-Powered Interface",
+      "summary": "“Ask Maps,” rolling out today to Google Maps on mobile, lets you ask Gemini questions about locations and even to plan trips on your behalf.",
+      "imageUrl": "https://media.wired.com/photos/69b1db7c9fd417e67bc5b5ca/master/pass/Google-Launches-Gemini-Powered-Ask-Maps-in-Google-Maps-Gear-2262145010.jpg",
+      "source": "Wired",
+      "sourceUrl": "https://www.wired.com/story/google-maps-ask-maps-gemini-powered-tool/",
+      "publishedAt": "2026-03-12T12:30:00.000Z"
+    },
+    {
+      "id": "45kmk0",
+      "title": "Perplexity’s Personal Computer turns your spare Mac into an AI agent",
+      "summary": "Perplexity wants to be more than just an answer engine. On Wednesday, it launched Personal Computer, a new AI agent tool that can turn a spare Mac into a locally run AI system, pitching it as \"a digital proxy for you.\" Personal Computer will run 24/7 on a dedicated device on your local network, have full access to your files and apps, and be controllable from anywhere and on any device, Perplexity said. That deeper access makes it a more personalized version of a similar product Perplexity…",
+      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/03/2lFbEKLJQ88PaaoZZTWuGV5rQY.avif?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "source": "The Verge",
+      "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/893536/perplexitys-personal-computer-turns-your-spare-mac-into-an-ai-agent",
+      "publishedAt": "2026-03-12T12:00:34.000Z"
     },
     {
       "id": "co4doz",
@@ -201,24 +282,6 @@
       "publishedAt": "2026-03-11T14:00:00.000Z"
     },
     {
-      "id": "gj4k1p",
-      "title": "The mysterious case of the DHS white supremacist memelord",
-      "summary": "Department of Homeland Security. | Image: The Verge Hello and welcome to Regulator, a newsletter that takes Verge subscribers into the smoke-filled back rooms of Washington as they become the Zyn-filled back rooms of Washington. (Although Tucker Carlson's ALP is more popular among a certain set.) Not a Verge subscriber yet? Sign up here today! I'm not exposing myself to all these carcinogens for nothing. Do you know something that's not in any of those rooms? Send all tips to…",
-      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/09/VRG_Illo_K_Radtke_STK006_DHS_1.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "source": "The Verge",
-      "sourceUrl": "https://www.theverge.com/column/892985/dhs-white-supremacist-memelord",
-      "publishedAt": "2026-03-11T13:28:32.000Z"
-    },
-    {
-      "id": "ju4stp",
-      "title": "Chatbots encouraged ‘teens’ to plan shootings in study",
-      "summary": "AI companies have repeatedly promised safeguards to protect younger users, but a new investigation suggests those guardrails remain woefully deficient. Popular chatbots missed warning signs in scenarios involving teenagers discussing violent acts, in some cases even offering encouragement instead of intervening. The findings come from a joint investigation by CNN and the nonprofit Center for Countering Digital Hate (CCDH). The probe tested 10 of the most popular chatbots commonly used by teens:…",
-      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/03/STK414_AI_CVIRGINIA_I__0008_6.png?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "source": "The Verge",
-      "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/892978/ai-chatbots-investigation-help-teens-plan-violence",
-      "publishedAt": "2026-03-11T13:18:45.000Z"
-    },
-    {
       "id": "l86td5",
       "title": "This Digital Picture Frame Wants to Bring People Closer to a Holographic Future",
       "summary": "Brooklyn-based Looking Glass has been dabbling in 3D screens for nearly a decade. It's finally launching Musubi, an AI-powered holographic frame to bring your photos and videos to life.",
@@ -273,15 +336,6 @@
       "publishedAt": "2026-03-11T10:00:00.000Z"
     },
     {
-      "id": "lgtz7z",
-      "title": "Anthropic is launching a new think tank amid Pentagon blacklist fight",
-      "summary": "Amid a weekslong conflict with the Pentagon, resulting in a blacklist and a lawsuit, Anthropic is shaking up its C-suite and research initiatives. The company announced Wednesday that it's launching a new internal think tank, called the Anthropic Institute, that combines three of Anthropic's current research teams. It will focus on researching AI's large-scale implications, such as \"what happens to jobs and economies, whether AI makes us safer or introduces new dangers, how its values might…",
-      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/06/STK485_STK414_AI_SAFETY_B.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "source": "The Verge",
-      "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/892478/anthropic-institute-think-tank-claude-pentagon-jack-clark",
-      "publishedAt": "2026-03-11T09:45:00.000Z"
-    },
-    {
       "id": "h1anxe",
       "title": "Google brings Gemini in Chrome to India",
       "summary": "The rollout will let users access Gemini in Chrome through a sidebar on desktop, enabling them to ask Google's AI chatbot questions about the content on the screen; get information from their Gmail, Keep, Drive, and YouTube; and compare tab contents.",
@@ -300,24 +354,6 @@
       "publishedAt": "2026-03-11T01:41:42.000Z"
     },
     {
-      "id": "lqys3q",
-      "title": "How the spiraling Iran conflict could affect data centers and electricity costs",
-      "summary": "A commercial ship is viewed anchored off the coast of the United Arab Emirates, in the Strait of Hormuz, Dubai, on March 2nd, 2026. Increased maritime traffic led to a buildup of vessels waiting near Dubai, highlighting the strategic importance of the strait, which handles 20 percent of global energy trade. | Photo: Getty Images Soon after the Trump administration launched its war on Iran, I called up Reed Blakemore, director of research and programs at the Atlantic Council Global Energy Center,…",
-      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/03/gettyimages-2263868831.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "source": "The Verge",
-      "sourceUrl": "https://www.theverge.com/report/892661/iran-war-oil-gas-prices-data-center-electricity",
-      "publishedAt": "2026-03-10T22:25:06.000Z"
-    },
-    {
-      "id": "ssglhi",
-      "title": "Ford is giving its commercial fleet business an AI makeover",
-      "summary": "Ford announced a new AI-powered service for its commercial fleet and telematics software customers called Ford Pro AI. The generative AI system analyzes data generated by commercial vehicles - including vehicle speed, seat belt activity, and engine health - and converts it into actionable items for fleet managers. The new system manifests as - what else? - an AI chatbot within Ford's Telematics software that customers can ask questions about their fleets or delegate tasks. Managers can ask the…",
-      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/19881636/acastro_200406_1777_ford_0001.0.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "source": "The Verge",
-      "sourceUrl": "https://www.theverge.com/transportation/892010/ford-pro-ai-telematics-commercial-fleet",
-      "publishedAt": "2026-03-10T21:30:00.000Z"
-    },
-    {
       "id": "xmoycq",
       "title": "Amazon launches its healthcare AI assistant on its website and app",
       "summary": "Health AI can answer questions, explain health records, manage prescription renewals, book appointments, and more.",
@@ -325,15 +361,6 @@
       "source": "TechCrunch",
       "sourceUrl": "https://techcrunch.com/2026/03/10/amazon-launches-its-healthcare-ai-assistant-on-its-website-and-app/",
       "publishedAt": "2026-03-10T20:10:06.000Z"
-    },
-    {
-      "id": "w21h46",
-      "title": "AI-powered apps struggle with long-term retention, new report shows",
-      "summary": "AI can drive stronger early monetization for apps, but sustaining value remains the challenge, RevenueCat's latest report finds.",
-      "imageUrl": "https://images.unsplash.com/photo-1550751827-4bd374c3f58b?w=800&q=80",
-      "source": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/03/10/ai-powered-apps-struggle-with-long-term-retention-new-report-shows/",
-      "publishedAt": "2026-03-10T18:42:33.000Z"
     },
     {
       "id": "wuejde",
@@ -345,6 +372,15 @@
       "publishedAt": "2026-03-10T16:45:47.000Z"
     },
     {
+      "id": "bxjf0t",
+      "title": "Building a strong data infrastructure for AI agent success",
+      "summary": "In the race to adopt and show value from AI, enterprises are moving faster than ever to deploy agentic AI as copilots, assistants, and autonomous task-runners. In late 2025, nearly two-thirds of companies were experimenting with AI agents, while 88% were using AI in at least one business function, up from 78% in 2024, according…",
+      "imageUrl": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=800&q=80",
+      "source": "MIT Tech Review",
+      "sourceUrl": "https://www.technologyreview.com/2026/03/10/1134083/building-a-strong-data-infrastructure-for-ai-agent-success/",
+      "publishedAt": "2026-03-10T14:00:00.000Z"
+    },
+    {
       "id": "9pjn1t",
       "title": "How Pokémon Go is giving delivery robots an inch-perfect view of the world",
       "summary": "Pokémon Go was the world’s first augmented-reality megahit. Released in 2016 by the Google spinout Niantic, the AR twist on the juggernaut Pokémon franchise fast became a global phenomenon. From Chicago to Oslo to Enoshima, players hit the streets in the urgent hope of catching a Jigglypuff or a Squirtle or (with a huge amount…",
@@ -352,15 +388,6 @@
       "source": "MIT Tech Review",
       "sourceUrl": "https://www.technologyreview.com/2026/03/10/1134099/how-pokemon-go-is-helping-robots-deliver-pizza-on-time/",
       "publishedAt": "2026-03-10T13:47:26.000Z"
-    },
-    {
-      "id": "phtxb1",
-      "title": "I Used Google’s New Gemini-Powered ‘Help Me Create’ Tool in Docs. It’s Great at Corporate-Speak",
-      "summary": "Google has injected Docs, Drive, Sheets, and Slides with its Gemini assistant, adding new features that can pull information from your emails and the web to help you draft content. I gave it a whirl.",
-      "imageUrl": "https://media.wired.com/photos/69af500ab7192b94664b216f/master/pass/gear_geminitools_GettyImages-2169339854.jpg",
-      "source": "Wired",
-      "sourceUrl": "https://www.wired.com/story/google-gemini-workspace-ai-tools-hands-on/",
-      "publishedAt": "2026-03-10T13:00:00.000Z"
     },
     {
       "id": "gixxdu",
@@ -390,24 +417,6 @@
       "publishedAt": "2026-03-09T15:11:01.000Z"
     },
     {
-      "id": "9l3bzr",
-      "title": "The usability imperative for securing digital asset devices",
-      "summary": "When Tony Fadell started working on the iPod, usability often trumped security. The result was an iterative process. Every time someone would find a security weakness or a way to hack the device, the development group would iterate to add measures and fix the issues. Yet, flaws would frequently be found, and the secure design…",
-      "imageUrl": "https://images.unsplash.com/photo-1620712943543-bcc4688e7485?w=800&q=80",
-      "source": "MIT Tech Review",
-      "sourceUrl": "https://www.technologyreview.com/2026/03/09/1132352/the-usability-imperative-for-securing-digital-asset-devices/",
-      "publishedAt": "2026-03-09T14:00:00.000Z"
-    },
-    {
-      "id": "sk7q50",
-      "title": "The Download: murky AI surveillance laws, and the White House cracks down on defiant labs",
-      "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. Is the Pentagon allowed to surveil Americans with AI? The ongoing public feud between the Department of Defense and the AI company Anthropic has raised a deep and still unanswered question:…",
-      "imageUrl": "https://images.unsplash.com/photo-1620712943543-bcc4688e7485?w=800&q=80",
-      "source": "MIT Tech Review",
-      "sourceUrl": "https://www.technologyreview.com/2026/03/09/1134050/the-download-ai-surveillance-laws-white-house-cracks-down-defiant-labs/",
-      "publishedAt": "2026-03-09T13:57:44.000Z"
-    },
-    {
       "id": "usx076",
       "title": "Feds take notice of iOS vulnerabilities exploited under mysterious circumstances",
       "summary": "The long, strange trip of a large assembly of advanced iOS exploits.",
@@ -415,15 +424,6 @@
       "source": "Ars Technica",
       "sourceUrl": "https://arstechnica.com/security/2026/03/cisa-adds-3-ios-flaws-to-its-catalog-of-known-exploited-vulnerabilities/",
       "publishedAt": "2026-03-06T19:41:33.000Z"
-    },
-    {
-      "id": "qjzhtf",
-      "title": "Is the Pentagon allowed to surveil Americans with AI?",
-      "summary": "The ongoing public feud between the Department of Defense and the AI company Anthropic has raised a deep and still unanswered question: Does the law actually allow the US government to conduct mass surveillance on Americans? Surprisingly, the answer is not straightforward. More than a decade after Edward Snowden exposed the NSA’s collection of bulk…",
-      "imageUrl": "https://images.unsplash.com/photo-1676299081847-824916de030a?w=800&q=80",
-      "source": "MIT Tech Review",
-      "sourceUrl": "https://www.technologyreview.com/2026/03/06/1134012/is-the-pentagon-allowed-to-surveil-americans-with-ai/",
-      "publishedAt": "2026-03-06T19:21:22.000Z"
     },
     {
       "id": "cn3q0l",
