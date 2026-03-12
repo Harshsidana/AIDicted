@@ -1,11 +1,101 @@
 {
-  "fetchedAt": "2026-03-12T15:35:19.289Z",
+  "fetchedAt": "2026-03-12T20:02:42.018Z",
   "count": 60,
   "articles": [
     {
+      "id": "fqxxrl",
+      "title": "‘Uncanny Valley’: Anthropic’s DOD Lawsuit, War Memes, and AI Coming for VC Jobs",
+      "summary": "In today’s episode, we discuss how the saga between Anthropic and the Department of Defense is far from over.",
+      "imageUrl": "https://media.wired.com/photos/69b1c94d9fd417e67bc5b52b/master/pass/Uncanny-Valley-Anthropic-vs-DoD-Business-2256654494.jpg",
+      "source": "Wired",
+      "sourceUrl": "https://www.wired.com/story/uncanny-valley-podcast-anthropic-department-defense-lawsuit-iran-war-memes-artificial-intelligence-venture-capital/",
+      "publishedAt": "2026-03-12T19:48:21.000Z"
+    },
+    {
+      "id": "uo4eug",
+      "title": "Facebook Marketplace now lets Meta AI respond to buyers’ messages",
+      "summary": "When buyers inquire about an item’s availability, sellers can use Meta AI to automatically draft replies using information from their listing, such as the description, availability, pickup location, and price.",
+      "imageUrl": "https://images.unsplash.com/photo-1550751827-4bd374c3f58b?w=800&q=80",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/03/12/facebook-marketplace-now-lets-meta-ai-respond-to-buyers-messages/",
+      "publishedAt": "2026-03-12T18:20:33.000Z"
+    },
+    {
+      "id": "vcdukj",
+      "title": "Google Is Not Ruling Out Ads in Gemini",
+      "summary": "WIRED spoke with Nick Fox, Google’s SVP of knowledge and information, about how AI is changing the company’s advertising business.",
+      "imageUrl": "https://media.wired.com/photos/69af5d1bac57452caf2d27d4/master/pass/Model-Behavior-How-AI-Is-Changing-Googles-Advertising-Business.jpg",
+      "source": "Wired",
+      "sourceUrl": "https://www.wired.com/story/google-nick-fox-advertising-search-ai-gemini/",
+      "publishedAt": "2026-03-12T18:15:00.000Z"
+    },
+    {
+      "id": "u48cys",
+      "title": "Tinder tries to lure people back to online dating with IRL events, virtual speed dating",
+      "summary": "Tinder just got a major revamp as it attempts to re-engange its user base and attract younger daters. This includes in-person events, AI enhancements, and even virtual speed dating.",
+      "imageUrl": "https://images.unsplash.com/photo-1526374965328-7f61d4dc18c5?w=800&q=80",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/03/12/tinder-tries-to-lure-people-back-to-online-dating-with-irl-events-virtual-speed-dating/",
+      "publishedAt": "2026-03-12T18:00:00.000Z"
+    },
+    {
+      "id": "ss142e",
+      "title": "Facebook Marketplace adds AI auto-replies for annoying ‘Is this still available?’ messages",
+      "summary": "Facebook Marketplace is adding a bunch of new AI-powered tools that are supposed to make selling items on the platform a little more efficient. One feature will use Meta AI to automatically respond to those annoying \"Is this still available?\" messages. You can toggle on the auto-reply option when creating a listing, and Meta AI will draft an editable response to any questions related to availability. In an example shown by Meta, its AI assistant creates an auto-reply saying, \"Yes, it's still…",
+      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/04/STK040_VRG_Illo_N_Barclay_2_facebook.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "source": "The Verge",
+      "sourceUrl": "https://www.theverge.com/tech/893907/facebook-marketplace-ai-auto-reply-listings",
+      "publishedAt": "2026-03-12T17:59:32.000Z"
+    },
+    {
+      "id": "xxoe92",
+      "title": "Atlassian follows Block’s footsteps and cuts staff in the name of AI",
+      "summary": "Atlassian laid off 10% of its workforce, around 1,600 people, as the company looks to funnel more funds to AI.",
+      "imageUrl": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=800&q=80",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/03/12/atlassian-follows-blocks-footsteps-and-cuts-staff-in-the-name-of-ai/",
+      "publishedAt": "2026-03-12T17:20:19.000Z"
+    },
+    {
+      "id": "chm9r4",
+      "title": "Gemini’s task automation is here and it’s wild",
+      "summary": "Computers ordering cappuccinos. A couple of weeks ago, Google and Samsung announced a big Gemini development coming to their newest devices: task automation. Starting with food delivery and rideshare apps, Gemini would be able to use certain apps on your behalf in a virtual window to take care of things like ordering dinner or getting a car to the airport - all based on simple prompts. You know, all the stuff that we've been promised for years AI assistants will be able to do. That feature…",
+      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/03/dsc03087_processed.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "source": "The Verge",
+      "sourceUrl": "https://www.theverge.com/tech/893820/gemini-task-automation-samsung-s26-google-pixel-10",
+      "publishedAt": "2026-03-12T16:59:43.000Z"
+    },
+    {
+      "id": "xy58a8",
+      "title": "Bumble to launch an AI dating assistant, ‘Bee’",
+      "summary": "Bumble's new AI assistant Bee will move the dating app beyond the swipe by matching people based on compatibility and goals.",
+      "imageUrl": "https://images.unsplash.com/photo-1676299081847-824916de030a?w=800&q=80",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/03/12/bumble-to-launch-an-ai-dating-assistant-bee/",
+      "publishedAt": "2026-03-12T16:52:17.000Z"
+    },
+    {
+      "id": "gj6xrs",
+      "title": "A writer is suing Grammarly for turning her and other authors into ‘AI editors’ without consent",
+      "summary": "Journalist Julia Angwin is leading a class action lawsuit against Grammarly for violating her privacy and publicity rights.",
+      "imageUrl": "https://images.unsplash.com/photo-1620712943543-bcc4688e7485?w=800&q=80",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/03/12/a-writer-is-suing-grammarly-for-turning-her-and-other-authors-into-ai-editors-without-consent/",
+      "publishedAt": "2026-03-12T16:42:40.000Z"
+    },
+    {
+      "id": "3awc6f",
+      "title": "Anthropic’s Claude AI can respond with charts, diagrams, and other visuals now",
+      "summary": "Anthropic's latest update to Claude will allow the AI chatbot to generate custom charts, diagrams, and other visualizations during your conversation. If Claude determines a visual is useful based on the context of your chat, it will insert the image in-line, rather than in its side panel. As an example, Anthropic says a conversation about the periodic table could lead Claude to generate a visualization of it, featuring interactive elements that let you click inside the table for more…",
+      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/08/STKB364_CLAUDE_D.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "source": "The Verge",
+      "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/893625/anthropic-claude-ai-charts-diagrams",
+      "publishedAt": "2026-03-12T16:00:00.000Z"
+    },
+    {
       "id": "kfskph",
       "title": "Gumloop lands $50M from Benchmark to turn every employee into an AI agent builder",
-      "summary": "Benchmark’s new patner Everett Randell, sees enterprise automation as the largest opportunity in AI.",
+      "summary": "As companies race to adopt AI, Benchmark general partner Everett Randle believes the key to success lies in empowering every worker with AI superpowers, and Gumloop’s intuitive agent builder is an example of the kind of tool that will unlock that potential.",
       "imageUrl": "https://images.unsplash.com/photo-1526374965328-7f61d4dc18c5?w=800&q=80",
       "source": "TechCrunch",
       "sourceUrl": "https://techcrunch.com/2026/03/12/gumloop-lands-50m-from-benchmark-to-turn-every-employee-into-an-ai-agent-builder/",
@@ -201,15 +291,6 @@
       "publishedAt": "2026-03-11T20:45:03.000Z"
     },
     {
-      "id": "wx04t7",
-      "title": "Replit snags $9B valuation 6 months after hitting $3B",
-      "summary": "Replit raised a new $400 million round and said it hopes to have $1B in ARR by year's end.",
-      "imageUrl": "https://images.unsplash.com/photo-1655720828018-edd2daec9349?w=800&q=80",
-      "source": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/03/11/replit-snags-9b-valuation-6-months-after-hitting-3b/",
-      "publishedAt": "2026-03-11T18:52:52.000Z"
-    },
-    {
       "id": "mlhmvx",
       "title": "Grammarly says it will stop using AI to clone experts without permission",
       "summary": "Superhuman says it has disabled Grammarly's \"expert review\" AI feature that said its edit suggestions were \"inspired by\" real writers, including our editor-in-chief and other Verge staff members. \"After careful consideration, we have decided to disable Expert Review as we reimagine the feature to make it more useful for users, while giving experts real control over how they want to be represented - or not represented at all,\" Ailian Gan, Superhuman's director of product management, said in a…",
@@ -228,60 +309,6 @@
       "publishedAt": "2026-03-11T18:00:00.000Z"
     },
     {
-      "id": "le5pus",
-      "title": "OpenAI’s Sora video generator is reportedly coming to ChatGPT",
-      "summary": "OpenAI's Sora video generator could soon become a built-in feature in ChatGPT, as reported by The Information. Sora is currently only available on its website or as a standalone app, which has fallen shy of the popularity of ChatGPT. This update would allow users to access Sora's video generation capabilities directly within ChatGPT itself, much like the addition of image generation capabilities in the chatbot last year. Sora could help attract more users to ChatGPT, but it may also worsen the…",
-      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/11/STKB375_SORA_D.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "source": "The Verge",
-      "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/893189/openai-chatgpt-sora-integration",
-      "publishedAt": "2026-03-11T16:50:45.000Z"
-    },
-    {
-      "id": "v9jrv",
-      "title": "WordPress debuts a private workspace that runs in your browser via a new service, my.WordPress.net",
-      "summary": "WordPress’s new browser-based service lets users create private sites without hosting or signing up, turning the platform into a personal workspace for writing, research, and AI tools.",
-      "imageUrl": "https://images.unsplash.com/photo-1676299081847-824916de030a?w=800&q=80",
-      "source": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/03/11/wordpress-debuts-a-private-workspace-that-runs-in-your-browser-via-a-new-service-my-wordpress-net/",
-      "publishedAt": "2026-03-11T16:43:59.000Z"
-    },
-    {
-      "id": "5davr",
-      "title": "Rivian spin-out Mind Robotics raises $500M for industrial AI-powered robots",
-      "summary": "The startup, which was created by Rivian founder RJ Scaringe, is looking to train on data from, and deploy in, Rivian's factory.",
-      "imageUrl": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=800&q=80",
-      "source": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/03/11/rivian-mind-robotics-series-a-500m-fund-raise-industrial-ai-powered-robots/",
-      "publishedAt": "2026-03-11T16:12:02.000Z"
-    },
-    {
-      "id": "nxuu0q",
-      "title": "Meta’s Moltbook deal points to a future built around AI agents",
-      "summary": "Meta’s Moltbook acquisition may look odd at first, but the deal could signal how Meta sees AI agents shaping future advertising and commerce on an agentic web.",
-      "imageUrl": "https://images.unsplash.com/photo-1655720828018-edd2daec9349?w=800&q=80",
-      "source": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/03/11/metas-moltbook-deal-points-to-a-future-built-around-ai-agents/",
-      "publishedAt": "2026-03-11T15:11:31.000Z"
-    },
-    {
-      "id": "pkx3zv",
-      "title": "Canva’s new editing tool adds layers to AI-generated designs",
-      "summary": "Canva introduced a new feature that separates flat image files and AI-generated visuals into layered, fully editable designs. The Magic Layers tool is launching in public beta today in the US, UK, Canada, and Australia, allowing design components like objects, text boxes, and other graphics to be selected individually while preserving the original layout. \"After a breakthrough from our AI research team, we're introducing Magic Layers so anyone can take a flat image and turn it into a fully…",
-      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/03/NAMR26003_S003_GRP01_PrImageSplit_16x9_V01.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "source": "The Verge",
-      "sourceUrl": "https://www.theverge.com/tech/893124/canva-ai-magic-layers-feature-beta",
-      "publishedAt": "2026-03-11T15:02:02.000Z"
-    },
-    {
-      "id": "898rv1",
-      "title": "Amazon expands a program that lets customers shop from other retailers’ sites",
-      "summary": "The changes allow more merchants to participate in Amazon's Shop Direct program, which sends Amazon customers to other retailers' websites.",
-      "imageUrl": "https://images.unsplash.com/photo-1526374965328-7f61d4dc18c5?w=800&q=80",
-      "source": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/03/11/amazon-expands-a-program-that-lets-customers-shop-from-other-retailers-sites/",
-      "publishedAt": "2026-03-11T14:48:30.000Z"
-    },
-    {
       "id": "yyjxxq",
       "title": "Meta Is Developing 4 New Chips to Power Its AI and Recommendation Systems",
       "summary": "The MTIA processors are the tech giant’s latest attempt to build its own AI hardware, even as it continues spending billions on gear from industry leaders like Nvidia.",
@@ -289,15 +316,6 @@
       "source": "Wired",
       "sourceUrl": "https://www.wired.com/story/meta-unveils-four-new-chips-to-power-its-ai-and-recommendation-systems/",
       "publishedAt": "2026-03-11T14:23:05.000Z"
-    },
-    {
-      "id": "jdtdyl",
-      "title": "I was interviewed by an AI bot for a job",
-      "summary": "Millions of people are on the job hunt right now - and for many people, landing a job in the AI era feels more intimidating than ever. That's why the onset of AI avatars running your job interview via one-on-one video call, asking you questions, and analyzing how well you respond has generated a lot of discussion - and controversy. There are a handful of companies behind the rise in AI-led interviews, like CodeSignal, Humanly, Eightfold, and more. The creators of these AI tools say the benefit…",
-      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/03/Artboard-1-1.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "source": "The Verge",
-      "sourceUrl": "https://www.theverge.com/featured-video/892850/i-was-interviewed-by-an-ai-bot-for-a-job",
-      "publishedAt": "2026-03-11T14:00:00.000Z"
     },
     {
       "id": "l86td5",
@@ -352,24 +370,6 @@
       "source": "Wired",
       "sourceUrl": "https://www.wired.com/story/openai-codex-race-claude-code/",
       "publishedAt": "2026-03-11T10:00:00.000Z"
-    },
-    {
-      "id": "qoli23",
-      "title": "Trump Administration Won’t Rule Out Further Action Against Anthropic",
-      "summary": "The White House is preparing an executive order targeting the AI startup, even as its earlier actions against the company face a major test in court.",
-      "imageUrl": "https://media.wired.com/photos/69b0b00478980662668bc8c8/master/pass/Trump-Admin-Refuses-to-Say-Wont-Take-Further-Action-Against-Anthropic-Business-2265661562.jpg",
-      "source": "Wired",
-      "sourceUrl": "https://www.wired.com/story/trump-administration-refuses-to-say-it-wont-take-further-action-against-anthropic/",
-      "publishedAt": "2026-03-11T01:41:42.000Z"
-    },
-    {
-      "id": "wuejde",
-      "title": "Fake AI Content About the Iran War Is All Over X",
-      "summary": "X’s Grok is failing to accurately verify video footage from the Iran conflict and is sharing its own AI-generated images about the war.",
-      "imageUrl": "https://media.wired.com/photos/69b044944c5dd30e33d9f540/master/pass/Fake-AI-Content-About-Iran-War-All-Over-X-Politics-2191851142.jpg",
-      "source": "Wired",
-      "sourceUrl": "https://www.wired.com/story/fake-ai-content-about-the-iran-war-is-all-over-x/",
-      "publishedAt": "2026-03-10T16:45:47.000Z"
     },
     {
       "id": "bxjf0t",
