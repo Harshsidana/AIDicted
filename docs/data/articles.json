@@ -1,7 +1,34 @@
 {
-  "fetchedAt": "2026-03-13T07:07:15.593Z",
+  "fetchedAt": "2026-03-13T11:55:48.824Z",
   "count": 60,
   "articles": [
+    {
+      "id": "h7sopi",
+      "title": "Gamers’ Worst Nightmares About AI Are Coming True",
+      "summary": "From the global RAM shortage driving up console prices to job loss in the industry, gaming is shaping up to be one of the AI boom's biggest casualties.",
+      "imageUrl": "https://media.wired.com/photos/69af25ebb25d3d9157fd32fb/master/pass/AI-Swallowing-Gaming-Culture.jpg",
+      "source": "Wired",
+      "sourceUrl": "https://www.wired.com/story/gamers-ai-nightmares-are-coming-true/",
+      "publishedAt": "2026-03-13T11:00:00.000Z"
+    },
+    {
+      "id": "17j94y",
+      "title": "Palantir Demos Show How the Military Could Use AI Chatbots to Generate War Plans",
+      "summary": "Software demos and Pentagon records detail how chatbots like Anthropic’s Claude could help the Pentagon analyze intelligence and suggest next steps.",
+      "imageUrl": "https://media.wired.com/photos/69af2189bf4114a40fa286f0/master/pass/How-Palantir-Deploys-Claude-for-US%20Military-Business-2256533238.jpg",
+      "source": "Wired",
+      "sourceUrl": "https://www.wired.com/story/palantir-demos-show-how-the-military-can-use-ai-chatbots-to-generate-war-plans/",
+      "publishedAt": "2026-03-13T10:00:00.000Z"
+    },
+    {
+      "id": "vu0paf",
+      "title": "Future AI chips could be built on glass",
+      "summary": "Human-made glass is thousands of years old. But it’s now poised to find its way into the AI chips used in the world’s newest and largest data centers. This year, a South Korean company called Absolics is planning to start commercial production of special glass panels designed to make next-generation computing hardware more powerful and…",
+      "imageUrl": "https://images.unsplash.com/photo-1655720828018-edd2daec9349?w=800&q=80",
+      "source": "MIT Tech Review",
+      "sourceUrl": "https://www.technologyreview.com/2026/03/13/1134230/future-ai-chips-could-be-built-on-glass/",
+      "publishedAt": "2026-03-13T09:00:00.000Z"
+    },
     {
       "id": "65i7ep",
       "title": "Truecaller now lets you hang up on scammers — on behalf of your family",
@@ -372,24 +399,6 @@
       "publishedAt": "2026-03-11T12:00:00.000Z"
     },
     {
-      "id": "9lvxjm",
-      "title": "Teens Are Using AI-Fueled ‘Slander Pages’ to Mock Their Teachers",
-      "summary": "Viral student-run TikTok and Instagram accounts are using AI to make memes of school faculty comparing them to figures like Jeffrey Epstein and Benjamin Netanyahu.",
-      "imageUrl": "https://media.wired.com/photos/69aa14ba9b407072d118bee0/master/pass/Teens-Using-AI-Slander-Pages-to-Drag-Teachers-Culture.jpg",
-      "source": "Wired",
-      "sourceUrl": "https://www.wired.com/story/teens-are-using-ai-fueled-slander-pages-to-mock-their-teachers/",
-      "publishedAt": "2026-03-11T11:00:00.000Z"
-    },
-    {
-      "id": "wio60d",
-      "title": "Inside OpenAI’s Race to Catch Up to Claude Code",
-      "summary": "Why is the biggest name in AI late to the AI coding revolution?",
-      "imageUrl": "https://media.wired.com/photos/69b092fdb9e03828e1c694b8/master/pass/FF_CODINGAGENTS_MJQ_20260209_SF_WIRED_OPENAI_1111.jpg",
-      "source": "Wired",
-      "sourceUrl": "https://www.wired.com/story/openai-codex-race-claude-code/",
-      "publishedAt": "2026-03-11T10:00:00.000Z"
-    },
-    {
       "id": "bxjf0t",
       "title": "Building a strong data infrastructure for AI agent success",
       "summary": "In the race to adopt and show value from AI, enterprises are moving faster than ever to deploy agentic AI as copilots, assistants, and autonomous task-runners. In late 2025, nearly two-thirds of companies were experimenting with AI agents, while 88% were using AI in at least one business function, up from 78% in 2024, according…",
@@ -415,15 +424,6 @@
       "source": "MIT Tech Review",
       "sourceUrl": "https://www.technologyreview.com/2026/03/10/1133972/prioritizing-energy-intelligence-for-sustainable-growth/",
       "publishedAt": "2026-03-10T13:00:00.000Z"
-    },
-    {
-      "id": "x63km5",
-      "title": "The Download: AI’s role in the Iran war, and an escalating legal fight",
-      "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. How AI is turning the Iran conflict into theater Much of the spotlight on AI in the Iran conflict has focused on models like Claude helping the US military decide where to…",
-      "imageUrl": "https://images.unsplash.com/photo-1531746790095-6c10a4031c5f?w=800&q=80",
-      "source": "MIT Tech Review",
-      "sourceUrl": "https://www.technologyreview.com/2026/03/10/1134077/the-download-ai-iran-war-theater-anthropic-sues-us/",
-      "publishedAt": "2026-03-10T12:55:32.000Z"
     },
     {
       "id": "usx076",
