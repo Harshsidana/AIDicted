@@ -1,7 +1,34 @@
 {
-  "fetchedAt": "2026-03-13T16:04:53.227Z",
+  "fetchedAt": "2026-03-13T19:10:11.141Z",
   "count": 60,
   "articles": [
+    {
+      "id": "rbqaxh",
+      "title": "The wild six weeks for NanoClaw’s creator that led to a deal with Docker",
+      "summary": "Gavriel Cohen is living an open source developer's dream as his project has achieved acclaim and a partnership with Docker in a matter of weeks.",
+      "imageUrl": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=800&q=80",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/03/13/the-wild-six-weeks-for-nanoclaws-creator-that-led-to-a-deal-with-docker/",
+      "publishedAt": "2026-03-13T17:09:59.000Z"
+    },
+    {
+      "id": "fee3v6",
+      "title": "Spotify will let you edit your Taste Profile to control your recommendations",
+      "summary": "When you edit your Taste Profile, you'll impact your personalized playlists like Discover Weekly, recommendations, and Wrapped.",
+      "imageUrl": "https://images.unsplash.com/photo-1526374965328-7f61d4dc18c5?w=800&q=80",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/03/13/spotify-will-let-you-edit-your-taste-profile-to-control-your-recommendations/",
+      "publishedAt": "2026-03-13T17:04:12.000Z"
+    },
+    {
+      "id": "6if790",
+      "title": "The $32B acquisition that one VC is calling the ‘Deal of the Decade’",
+      "summary": "According to Index Ventures Partner Shardul Shah, cybersecurity startup Wiz sits “at the center of three tailwinds: AI, cloud, and security spend.” Those tailwinds powered what just became the largest venture-backed acquisition in history — Google’s $32 billion deal, finalized after a declined 2024 offer, antitrust review on both sides of the Atlantic, and an […]",
+      "imageUrl": "https://images.unsplash.com/photo-1531746790095-6c10a4031c5f?w=800&q=80",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/video/the-32b-acquisition-that-one-vc-is-calling-the-deal-of-the-decade/",
+      "publishedAt": "2026-03-13T16:20:23.000Z"
+    },
     {
       "id": "s3mzde",
       "title": "Why physical AI is becoming manufacturing’s next advantage",
@@ -77,7 +104,7 @@
     {
       "id": "hq3o2x",
       "title": "Before quantum computing arrives, this startup wants enterprises already running on it",
-      "summary": "After selling his AI startup to AMD for $665 million, Peter Sarlin is back with QuTwo, a new venture building the infrastructure it believes enterprises will need when quantum computing finally arrives.",
+      "summary": "After selling his AI startup to AMD for $665 million, Peter Sarlin is back with Qutwo, a new venture building the infrastructure it believes enterprises will need when quantum computing finally arrives.",
       "imageUrl": "https://images.unsplash.com/photo-1550751827-4bd374c3f58b?w=800&q=80",
       "source": "TechCrunch",
       "sourceUrl": "https://techcrunch.com/2026/03/12/before-quantum-computing-arrives-this-startup-wants-enterprises-already-running-on-it/",
@@ -86,7 +113,7 @@
     {
       "id": "65i7ep",
       "title": "Truecaller now lets you hang up on scammers — on behalf of your family",
-      "summary": "Caller identity platform Truecaller recently launched a new feature that lets one person become an admin of a family group, get alerts about fraud calls received by other members, and even end a call on their behalf if they suspect a family member might get scammed. The company, which has over 450 million users, first […]",
+      "summary": "Caller identity platform Truecaller recently launched a new feature that lets one person become an admin of a family group, get alerts about fraud calls received by other members, and even end a call on their behalf if they suspect a family member might get scammed.",
       "imageUrl": "https://images.unsplash.com/photo-1635070041078-e363dbe005cb?w=800&q=80",
       "source": "TechCrunch",
       "sourceUrl": "https://techcrunch.com/2026/03/12/truecallers-now-lets-you-hang-up-on-scammers-on-behalf-of-your-family/",
@@ -237,15 +264,6 @@
       "publishedAt": "2026-03-12T15:16:16.000Z"
     },
     {
-      "id": "v2gnqb",
-      "title": "Wonderful raises $150M Series B at $2B valuation",
-      "summary": "The funding round, led by Insight Partners, comes just four months after Wonderful raised a $100 million Series A.",
-      "imageUrl": "https://images.unsplash.com/photo-1550751827-4bd374c3f58b?w=800&q=80",
-      "source": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/03/12/wonderful-raises-150m-series-b-at-2b-valuation/",
-      "publishedAt": "2026-03-12T15:12:35.000Z"
-    },
-    {
       "id": "n0yfqj",
       "title": "Anthropic doesn’t trust the Pentagon, and neither should you",
       "summary": "Today we’re talking about the messy, fast-moving situation at Anthropic, the maker of Claude that now finds itself in a very ugly legal battle with the Pentagon. The back-and-forth is complicated, but as of a few days ago, the Pentagon had deemed Anthropic a supply chain risk, and Anthropic has filed a lawsuit challenging that designation, saying the government has violated its First and Fifth Amendment rights by “seeking to destroy the economic value created by one of the world’s…",
@@ -282,15 +300,6 @@
       "publishedAt": "2026-03-12T13:01:07.000Z"
     },
     {
-      "id": "p58kkt",
-      "title": "Google is using old news reports and AI to predict flash floods",
-      "summary": "A new way to solve data scarcity: Turning qualitative reports into quantitative data with an LLM.",
-      "imageUrl": "https://images.unsplash.com/photo-1526374965328-7f61d4dc18c5?w=800&q=80",
-      "source": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/03/12/google-is-using-old-news-reports-and-ai-to-predict-flash-floods/",
-      "publishedAt": "2026-03-12T13:00:00.000Z"
-    },
-    {
       "id": "i4rutt",
       "title": "Pragmatic by design: Engineering AI for the real world",
       "summary": "The impact of artificial intelligence extends far beyond the digital world and into our everyday lives, across the cars we drive, the appliances in our homes, and medical devices that keep people alive. More and more, product engineers are turning to AI to enhance, validate, and streamline the design of the items that furnish our…",
@@ -298,15 +307,6 @@
       "source": "MIT Tech Review",
       "sourceUrl": "https://www.technologyreview.com/2026/03/12/1133675/pragmatic-by-design-engineering-ai-for-the-real-world/",
       "publishedAt": "2026-03-12T13:00:00.000Z"
-    },
-    {
-      "id": "9tvghw",
-      "title": "Google Maps is getting an AI ‘Ask Maps’ feature and upgraded ‘immersive’ navigation",
-      "summary": "The tech giant says the \"Immersive Navigation\" launch is the biggest update to Maps in over a decade.",
-      "imageUrl": "https://images.unsplash.com/photo-1531746790095-6c10a4031c5f?w=800&q=80",
-      "source": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/03/12/google-maps-is-getting-an-ai-ask-maps-feature-and-upgraded-immersive-navigation/",
-      "publishedAt": "2026-03-12T12:30:00.000Z"
     },
     {
       "id": "u9k23u",
