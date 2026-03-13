@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-03-13T13:18:37.154Z",
+  "fetchedAt": "2026-03-13T14:12:10.047Z",
   "count": 60,
   "articles": [
     {
@@ -55,6 +55,15 @@
       "source": "MIT Tech Review",
       "sourceUrl": "https://www.technologyreview.com/2026/03/13/1134230/future-ai-chips-could-be-built-on-glass/",
       "publishedAt": "2026-03-13T09:00:00.000Z"
+    },
+    {
+      "id": "hq3o2x",
+      "title": "Before quantum computing arrives, this startup wants enterprises already running on it",
+      "summary": "After selling his AI startup to AMD for $665 million, Peter Sarlin is back with QuTwo, a new venture building the infrastructure it believes enterprises will need when quantum computing finally arrives.",
+      "imageUrl": "https://images.unsplash.com/photo-1550751827-4bd374c3f58b?w=800&q=80",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/03/12/before-quantum-computing-arrives-this-startup-wants-enterprises-already-running-on-it/",
+      "publishedAt": "2026-03-13T05:00:00.000Z"
     },
     {
       "id": "65i7ep",
@@ -334,15 +343,6 @@
       "source": "The Verge",
       "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/893451/grammarly-ai-lawsuit-julia-angwin",
       "publishedAt": "2026-03-11T22:51:53.000Z"
-    },
-    {
-      "id": "94s8hr",
-      "title": "Ford’s new AI assistant will help fleet owners know if seatbelts are being used",
-      "summary": "Ford Pro AI debuted at Work Truck Week in Indianapolis and is now available to all of its U.S.-based Pro telematics subscribers.",
-      "imageUrl": "https://images.unsplash.com/photo-1531746790095-6c10a4031c5f?w=800&q=80",
-      "source": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/03/11/fords-new-ai-assistant-will-help-fleet-owners-know-if-seatbelts-are-being-used/",
-      "publishedAt": "2026-03-11T22:51:39.000Z"
     },
     {
       "id": "55s",
