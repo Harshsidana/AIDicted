@@ -1,7 +1,25 @@
 {
-  "fetchedAt": "2026-03-13T19:10:11.141Z",
+  "fetchedAt": "2026-03-13T19:57:20.570Z",
   "count": 60,
   "articles": [
+    {
+      "id": "7wxffk",
+      "title": "Steven Spielberg says he’s ‘never used AI’ in any of his films",
+      "summary": "At SXSW, Steven Spielberg said AI has uses in many fields, but not when it comes to replacing creative people in film and TV writing.",
+      "imageUrl": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=800&q=80",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/03/13/steven-spielberg-says-hes-never-used-ai-in-any-of-his-films/",
+      "publishedAt": "2026-03-13T19:47:58.000Z"
+    },
+    {
+      "id": "gxycyw",
+      "title": "The biggest AI stories of the year (so far)",
+      "summary": "The AI industry is constantly churning out news, like major acquisitions, indie developer successes, public outcry, and existentially dangerous contract negotiations.",
+      "imageUrl": "https://images.unsplash.com/photo-1635070041078-e363dbe005cb?w=800&q=80",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/03/13/the-biggest-ai-stories-of-the-year-so-far/",
+      "publishedAt": "2026-03-13T19:38:11.000Z"
+    },
     {
       "id": "rbqaxh",
       "title": "The wild six weeks for NanoClaw’s creator that led to a deal with Docker",
@@ -244,24 +262,6 @@
       "source": "The Verge",
       "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/893625/anthropic-claude-ai-charts-diagrams",
       "publishedAt": "2026-03-12T16:00:00.000Z"
-    },
-    {
-      "id": "kfskph",
-      "title": "Gumloop lands $50M from Benchmark to turn every employee into an AI agent builder",
-      "summary": "As companies race to adopt AI, Benchmark general partner Everett Randle believes the key to success lies in empowering every worker with AI superpowers, and Gumloop’s intuitive agent builder is an example of the kind of tool that will unlock that potential.",
-      "imageUrl": "https://images.unsplash.com/photo-1526374965328-7f61d4dc18c5?w=800&q=80",
-      "source": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/03/12/gumloop-lands-50m-from-benchmark-to-turn-every-employee-into-an-ai-agent-builder/",
-      "publishedAt": "2026-03-12T15:30:00.000Z"
-    },
-    {
-      "id": "kmmrot",
-      "title": "Alexa+ gets a new ‘adults only’ personality option that curses but won’t do NSFW content",
-      "summary": "The new Sassy style can curse and roast you, but the fun ends there.",
-      "imageUrl": "https://images.unsplash.com/photo-1531746790095-6c10a4031c5f?w=800&q=80",
-      "source": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/03/12/alexa-gets-a-new-adults-only-personality-option-that-curses-but-wont-do-nsfw-content/",
-      "publishedAt": "2026-03-12T15:16:16.000Z"
     },
     {
       "id": "n0yfqj",
