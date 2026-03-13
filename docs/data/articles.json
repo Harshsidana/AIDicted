@@ -1,7 +1,34 @@
 {
-  "fetchedAt": "2026-03-13T11:55:48.824Z",
+  "fetchedAt": "2026-03-13T13:18:37.154Z",
   "count": 60,
   "articles": [
+    {
+      "id": "wph153",
+      "title": "Google's AI Searches Love to Refer You Back to Google",
+      "summary": "The company's generative AI search tools increasingly cite its own services, like Google Search and YouTube, over third-party publishers.",
+      "imageUrl": "https://media.wired.com/photos/69b2ee5feadc91f592dc322f/master/pass/shutterstock_2668436833.jpg",
+      "source": "Wired",
+      "sourceUrl": "https://www.wired.com/story/google-ai-searches-love-to-refer-you-back-to-google/",
+      "publishedAt": "2026-03-13T12:31:55.000Z"
+    },
+    {
+      "id": "3jaytp",
+      "title": "The Download: how AI is used for military targeting, and the Pentagon’s war on Claude",
+      "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. Defense official reveals how AI chatbots could be used for targeting decisions The US military might use generative AI systems to rank targets and recommend which to strike first, according to a Defense Department…",
+      "imageUrl": "https://images.unsplash.com/photo-1676299081847-824916de030a?w=800&q=80",
+      "source": "MIT Tech Review",
+      "sourceUrl": "https://www.technologyreview.com/2026/03/13/1134278/the-download-defense-official-ai-chatbots-targeting-pentagon-claude-pollute-military-supply-chain/",
+      "publishedAt": "2026-03-13T12:16:56.000Z"
+    },
+    {
+      "id": "gsjz3v",
+      "title": "China’s OpenClaw Boom Is a Gold Rush for AI Companies",
+      "summary": "Hype around the open source agent is driving people to rent cloud servers and buy AI subscriptions just to try it, creating a windfall for tech companies.",
+      "imageUrl": "https://media.wired.com/photos/69af4032df27a642d70d9a52/master/pass/Made-In-China-China-Going-All-in-on-OpenClaw-Business-2260596359.jpg",
+      "source": "Wired",
+      "sourceUrl": "https://www.wired.com/story/china-is-going-all-in-on-openclaw/",
+      "publishedAt": "2026-03-13T12:00:00.000Z"
+    },
     {
       "id": "h7sopi",
       "title": "Gamers’ Worst Nightmares About AI Are Coming True",
@@ -363,15 +390,6 @@
       "publishedAt": "2026-03-11T14:23:05.000Z"
     },
     {
-      "id": "l86td5",
-      "title": "This Digital Picture Frame Wants to Bring People Closer to a Holographic Future",
-      "summary": "Brooklyn-based Looking Glass has been dabbling in 3D screens for nearly a decade. It's finally launching Musubi, an AI-powered holographic frame to bring your photos and videos to life.",
-      "imageUrl": "https://media.wired.com/photos/69b06dc54c5dd30e33d9fe71/master/pass/HLD-dog.jpg",
-      "source": "Wired",
-      "sourceUrl": "https://www.wired.com/story/looking-glass-musubi/",
-      "publishedAt": "2026-03-11T13:00:00.000Z"
-    },
-    {
       "id": "bazhor",
       "title": "Hustlers are cashing in on China’s OpenClaw AI craze",
       "summary": "Feng Qingyang had always hoped to launch his own company, but he never thought this would be how—or that the day would come this fast. Feng, a 27-year-old software engineer based in Beijing, started tinkering with OpenClaw, a popular new open-source AI tool that can take over a device and autonomously complete tasks for a…",
@@ -390,15 +408,6 @@
       "publishedAt": "2026-03-11T12:38:00.000Z"
     },
     {
-      "id": "gw2apu",
-      "title": "Nick Clegg Doesn’t Want to Talk About Superintelligence",
-      "summary": "After leaving Meta last year, the former deputy prime minister of the UK is charting a new path in the AI industry that has nothing to do with AGI.",
-      "imageUrl": "https://media.wired.com/photos/69a604e4fc068645e0060bc0/master/pass/Nick-Clegg-Working-on-AI-Education-Startup-Business-2246560791.jpg",
-      "source": "Wired",
-      "sourceUrl": "https://www.wired.com/story/nick-clegg-ai-startup-efekta-superintelligence/",
-      "publishedAt": "2026-03-11T12:00:00.000Z"
-    },
-    {
       "id": "bxjf0t",
       "title": "Building a strong data infrastructure for AI agent success",
       "summary": "In the race to adopt and show value from AI, enterprises are moving faster than ever to deploy agentic AI as copilots, assistants, and autonomous task-runners. In late 2025, nearly two-thirds of companies were experimenting with AI agents, while 88% were using AI in at least one business function, up from 78% in 2024, according…",
@@ -415,15 +424,6 @@
       "source": "MIT Tech Review",
       "sourceUrl": "https://www.technologyreview.com/2026/03/10/1134099/how-pokemon-go-is-helping-robots-deliver-pizza-on-time/",
       "publishedAt": "2026-03-10T13:47:26.000Z"
-    },
-    {
-      "id": "gixxdu",
-      "title": "Prioritizing energy intelligence for sustainable growth",
-      "summary": "Loudoun County, Virginia, once known for its pastoral scenery and proximity to Washington, DC, has earned a more modern reputation in recent years: The area has the highest concentration of data centers on the planet. Ten years ago, these facilities powered email and e-commerce. Today, thanks to the meteoric rise in demand for AI-infused everything,…",
-      "imageUrl": "https://images.unsplash.com/photo-1526374965328-7f61d4dc18c5?w=800&q=80",
-      "source": "MIT Tech Review",
-      "sourceUrl": "https://www.technologyreview.com/2026/03/10/1133972/prioritizing-energy-intelligence-for-sustainable-growth/",
-      "publishedAt": "2026-03-10T13:00:00.000Z"
     },
     {
       "id": "usx076",
