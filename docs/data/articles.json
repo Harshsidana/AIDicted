@@ -1,7 +1,25 @@
 {
-  "fetchedAt": "2026-03-13T20:49:08.859Z",
+  "fetchedAt": "2026-03-13T21:40:42.513Z",
   "count": 60,
   "articles": [
+    {
+      "id": "djeblj",
+      "title": "Nyne, founded by a father-son duo, gives AI agents the human context they’re missing",
+      "summary": "The data infrastructure startup raised $5.3 million in seed funding led by Wischoff Ventures and South Park Commons",
+      "imageUrl": "https://images.unsplash.com/photo-1620712943543-bcc4688e7485?w=800&q=80",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/03/13/nyne-founded-by-a-father-son-duo-gives-ai-agents-the-human-context-theyre-missing/",
+      "publishedAt": "2026-03-13T21:37:01.000Z"
+    },
+    {
+      "id": "9ezbcs",
+      "title": "Microsoft’s Copilot AI assistant is coming to current-gen Xbox consoles this year",
+      "summary": "Xbox is getting ready to launch its Gaming Copilot AI assistant on \"current-generation consoles\" this year, according to a report from GamesRadar. Sonali Yadav, Xbox's product manager for gaming AI, revealed the news during a panel at the Game Developers Conference (GDC), adding that the company will also add the assistant to \"more services that players are playing.\" Microsoft has been working on its gaming-focused Copilot assistant for months now, with the company launching it in beta on the…",
+      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25676324/twarren_xboxseriesxwhite__6_.JPG?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "source": "The Verge",
+      "sourceUrl": "https://www.theverge.com/games/894799/microsoft-gaming-copilot-ai-xbox-consoles",
+      "publishedAt": "2026-03-13T20:51:48.000Z"
+    },
     {
       "id": "e8iye0",
       "title": "Supply-chain attack using invisible code hits GitHub and other repositories",
@@ -255,15 +273,6 @@
       "publishedAt": "2026-03-12T16:52:17.000Z"
     },
     {
-      "id": "gj6xrs",
-      "title": "A writer is suing Grammarly for turning her and other authors into ‘AI editors’ without consent",
-      "summary": "Journalist Julia Angwin is leading a class action lawsuit against Grammarly for violating her privacy and publicity rights.",
-      "imageUrl": "https://images.unsplash.com/photo-1620712943543-bcc4688e7485?w=800&q=80",
-      "source": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/03/12/a-writer-is-suing-grammarly-for-turning-her-and-other-authors-into-ai-editors-without-consent/",
-      "publishedAt": "2026-03-12T16:42:40.000Z"
-    },
-    {
       "id": "3awc6f",
       "title": "Anthropic’s Claude AI can respond with charts, diagrams, and other visuals now",
       "summary": "Anthropic's latest update to Claude will allow the AI chatbot to generate custom charts, diagrams, and other visualizations during your conversation. If Claude determines a visual is useful based on the context of your chat, it will insert the image in-line, rather than in its side panel. As an example, Anthropic says a conversation about the periodic table could lead Claude to generate a visualization of it, featuring interactive elements that let you click inside the table for more…",
@@ -379,15 +388,6 @@
       "source": "Wired",
       "sourceUrl": "https://www.wired.com/story/grammarly-is-facing-a-class-action-lawsuit-over-its-ai-expert-review-feature/",
       "publishedAt": "2026-03-11T20:45:03.000Z"
-    },
-    {
-      "id": "mlhmvx",
-      "title": "Grammarly says it will stop using AI to clone experts without permission",
-      "summary": "Superhuman says it has disabled Grammarly's \"expert review\" AI feature that said its edit suggestions were \"inspired by\" real writers, including our editor-in-chief and other Verge staff members. \"After careful consideration, we have decided to disable Expert Review as we reimagine the feature to make it more useful for users, while giving experts real control over how they want to be represented - or not represented at all,\" Ailian Gan, Superhuman's director of product management, said in a…",
-      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/03/grammr-crop.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "source": "The Verge",
-      "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/893270/grammarly-ai-expert-review-disabled",
-      "publishedAt": "2026-03-11T18:45:50.000Z"
     },
     {
       "id": "8q22qx",
