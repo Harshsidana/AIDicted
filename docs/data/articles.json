@@ -1,7 +1,16 @@
 {
-  "fetchedAt": "2026-03-13T19:57:20.570Z",
+  "fetchedAt": "2026-03-13T20:49:08.859Z",
   "count": 60,
   "articles": [
+    {
+      "id": "e8iye0",
+      "title": "Supply-chain attack using invisible code hits GitHub and other repositories",
+      "summary": "Unicode that's invisible to the human eye was largely abandoned—until attackers took notice.",
+      "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2024/10/hidden-eye-1152x648.jpg",
+      "source": "Ars Technica",
+      "sourceUrl": "https://arstechnica.com/security/2026/03/supply-chain-attack-using-invisible-code-hits-github-and-other-repositories/",
+      "publishedAt": "2026-03-13T20:18:08.000Z"
+    },
     {
       "id": "7wxffk",
       "title": "Steven Spielberg says he’s ‘never used AI’ in any of his films",
@@ -532,15 +541,6 @@
       "source": "Ars Technica",
       "sourceUrl": "https://arstechnica.com/ai/2026/02/attackers-prompted-gemini-over-100000-times-while-trying-to-clone-it-google-says/",
       "publishedAt": "2026-02-12T19:42:08.000Z"
-    },
-    {
-      "id": "s10oyx",
-      "title": "Once-hobbled Lumma Stealer is back with lures that are hard to resist",
-      "summary": "ClickFix bait, combined with advanced Castleloader malware, is installing Lumma \"at scale.\"",
-      "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2023/07/exploit-vulnerability-security.jpg",
-      "source": "Ars Technica",
-      "sourceUrl": "https://arstechnica.com/security/2026/02/once-hobbled-lumma-stealer-is-back-with-lures-that-are-hard-to-resist/",
-      "publishedAt": "2026-02-11T22:11:40.000Z"
     }
   ]
 }
