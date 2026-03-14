@@ -1,7 +1,25 @@
 {
-  "fetchedAt": "2026-03-13T23:37:03.596Z",
+  "fetchedAt": "2026-03-14T02:43:10.162Z",
   "count": 60,
   "articles": [
+    {
+      "id": "5l9igd",
+      "title": "‘Not built right the first time’ — Musk’s xAI is starting over again, again",
+      "summary": "The AI lab is revamping its effort to build an AI coding tool, with two new executives joining from Cursor.",
+      "imageUrl": "https://images.unsplash.com/photo-1526374965328-7f61d4dc18c5?w=800&q=80",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/03/13/not-built-right-the-first-time-musks-xai-is-starting-over-again-again/",
+      "publishedAt": "2026-03-14T00:12:22.000Z"
+    },
+    {
+      "id": "o3e758",
+      "title": "Lawyer behind AI psychosis cases warns of mass casualty risks",
+      "summary": "AI chatbots have been linked to suicides for years. Now one lawyer says they are showing up in mass casualty cases too, and the technology is moving faster than the safeguards.",
+      "imageUrl": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=800&q=80",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/03/13/lawyer-behind-ai-psychosis-cases-warns-of-mass-casualty-risks/",
+      "publishedAt": "2026-03-14T00:01:02.000Z"
+    },
     {
       "id": "djeblj",
       "title": "Nyne, founded by a father-son duo, gives AI agents the human context they’re missing",
@@ -246,15 +264,6 @@
       "publishedAt": "2026-03-12T17:59:32.000Z"
     },
     {
-      "id": "xxoe92",
-      "title": "Atlassian follows Block’s footsteps and cuts staff in the name of AI",
-      "summary": "Atlassian laid off 10% of its workforce, around 1,600 people, as the company looks to funnel more funds to AI.",
-      "imageUrl": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=800&q=80",
-      "source": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/03/12/atlassian-follows-blocks-footsteps-and-cuts-staff-in-the-name-of-ai/",
-      "publishedAt": "2026-03-12T17:20:19.000Z"
-    },
-    {
       "id": "chm9r4",
       "title": "Gemini’s task automation is here and it’s wild",
       "summary": "Computers ordering cappuccinos. A couple of weeks ago, Google and Samsung announced a big Gemini development coming to their newest devices: task automation. Starting with food delivery and rideshare apps, Gemini would be able to use certain apps on your behalf in a virtual window to take care of things like ordering dinner or getting a car to the airport - all based on simple prompts. You know, all the stuff that we've been promised for years AI assistants will be able to do. That feature…",
@@ -262,15 +271,6 @@
       "source": "The Verge",
       "sourceUrl": "https://www.theverge.com/tech/893820/gemini-task-automation-samsung-s26-google-pixel-10",
       "publishedAt": "2026-03-12T16:59:43.000Z"
-    },
-    {
-      "id": "7djp0n",
-      "title": "Bumble introduces an AI dating assistant, ‘Bee’",
-      "summary": "Bumble's new AI assistant Bee will move the dating app beyond the swipe by matching people based on compatibility and goals.",
-      "imageUrl": "https://images.unsplash.com/photo-1526374965328-7f61d4dc18c5?w=800&q=80",
-      "source": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/03/12/bumble-introduces-an-ai-dating-assistant-bee/",
-      "publishedAt": "2026-03-12T16:52:17.000Z"
     },
     {
       "id": "3awc6f",
