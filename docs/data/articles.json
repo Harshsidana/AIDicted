@@ -1,7 +1,34 @@
 {
-  "fetchedAt": "2026-03-16T12:05:44.830Z",
+  "fetchedAt": "2026-03-16T14:00:23.786Z",
   "count": 60,
   "articles": [
+    {
+      "id": "6scevk",
+      "title": "Nurturing agentic AI beyond the toddler stage",
+      "summary": "Parents of young children face a lot of fears about developmental milestones, from infancy through adulthood. The number of months it takes a baby to learn to talk or walk is often used as a benchmark for wellness, or an indicator of additional tests needed to properly diagnose a potential health condition. A parent rejoices…",
+      "imageUrl": "https://images.unsplash.com/photo-1485827404703-89b55fcc595e?w=800&q=80",
+      "source": "MIT Tech Review",
+      "sourceUrl": "https://www.technologyreview.com/2026/03/16/1133979/nurturing-agentic-ai-beyond-the-toddler-stage/",
+      "publishedAt": "2026-03-16T13:00:00.000Z"
+    },
+    {
+      "id": "rj9h44",
+      "title": "This is not a fly uploaded to a computer",
+      "summary": "Last week, a few posts about a so-called virtual \"embodied fly\" tore through X, boosted by AI hype accounts and excited commenters who didn't seem to understand what it was they were excited about. The videos came from San Francisco-based Eon Systems, which says it's working toward \"digital human intelligence\" and claims it wants to build a full digital emulation of a mouse brain within the next two years - a timeline that is, to put it generously, ambitious. Cofounder Alexander Wissner-Gross…",
+      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/03/Screenshot-2026-03-13-at-17.18.37.png?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "source": "The Verge",
+      "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/894587/fly-brain-computer-upload",
+      "publishedAt": "2026-03-16T12:49:07.000Z"
+    },
+    {
+      "id": "rn588b",
+      "title": "The Download: glass chips and “AI-free” logos",
+      "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. Future AI chips could be built on glass Human-made glass is thousands of years old. But it’s now poised to find its way into the AI chips used in the world’s newest and…",
+      "imageUrl": "https://images.unsplash.com/photo-1655720828018-edd2daec9349?w=800&q=80",
+      "source": "MIT Tech Review",
+      "sourceUrl": "https://www.technologyreview.com/2026/03/16/1134301/the-download-glass-ai-chips-ai-free-logo/",
+      "publishedAt": "2026-03-16T12:35:00.000Z"
+    },
     {
       "id": "bvdmjv",
       "title": "OpenAI’s adult mode will reportedly be smutty, not pornographic",
@@ -21,8 +48,8 @@
       "publishedAt": "2026-03-16T11:00:00.000Z"
     },
     {
-      "id": "mvr9ze",
-      "title": "‘100 Video Calls Per Day’: Models Are Applying to Be the Face of AI Scams",
+      "id": "f4xlfx",
+      "title": "Models Are Applying to Be the Face of AI Scams",
       "summary": "Dozens of Telegram channels reviewed by WIRED include job listings for “AI face models.” The (mostly) women who land these gigs are likely being used to dupe victims out of their money.",
       "imageUrl": "https://media.wired.com/photos/699f5d34a7cb1833c2431617/master/pass/Models-Applying-to-Be-Face-of-AI-Scams-Security-115921890.jpg",
       "source": "Wired",
@@ -363,15 +390,6 @@
       "publishedAt": "2026-03-12T13:00:00.000Z"
     },
     {
-      "id": "u9k23u",
-      "title": "You can now ask Google Maps ‘complex, real-world questions’ — and Gemini will answer",
-      "summary": "Google is continuing to weave Gemini into the firmament of its most-used products. Today, it announced that Google Maps was getting a new AI-powered \"Ask Maps\" feature that allows for \"complex, real-world questions\" with highly detailed, personalized responses. In the past, Google Maps would struggle with hyper-specific questions like \"where can I charge my phone without having to wait in line for coffee\" or \"where is the closest public bathroom that isn't completely disgusting\" (parents of kids…",
-      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/03/STK270_GOOGLE_MAPS_D.png?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "source": "The Verge",
-      "sourceUrl": "https://www.theverge.com/tech/893262/google-maps-gemini-ai-ask-maps-immersive-navigation",
-      "publishedAt": "2026-03-12T12:30:00.000Z"
-    },
-    {
       "id": "exbntv",
       "title": "Google Maps Gets Chatty With a New Gemini-Powered Interface",
       "summary": "“Ask Maps,” rolling out today to Google Maps on mobile, lets you ask Gemini questions about locations and even to plan trips on your behalf.",
@@ -415,24 +433,6 @@
       "source": "Wired",
       "sourceUrl": "https://www.wired.com/story/nvidia-investing-26-billion-open-source-models/",
       "publishedAt": "2026-03-11T18:00:00.000Z"
-    },
-    {
-      "id": "bazhor",
-      "title": "Hustlers are cashing in on China’s OpenClaw AI craze",
-      "summary": "Feng Qingyang had always hoped to launch his own company, but he never thought this would be how—or that the day would come this fast. Feng, a 27-year-old software engineer based in Beijing, started tinkering with OpenClaw, a popular new open-source AI tool that can take over a device and autonomously complete tasks for a…",
-      "imageUrl": "https://images.unsplash.com/photo-1676299081847-824916de030a?w=800&q=80",
-      "source": "MIT Tech Review",
-      "sourceUrl": "https://www.technologyreview.com/2026/03/11/1134179/china-openclaw-gold-rush/",
-      "publishedAt": "2026-03-11T12:46:21.000Z"
-    },
-    {
-      "id": "dc1dqj",
-      "title": "The Download: Pokémon Go to train world models, and the US-China race to find aliens",
-      "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. How Pokémon Go is giving delivery robots an inch-perfect view of the world Pokémon Go was the world’s first augmented-reality megahit. Released in 2016 by Niantic, the AR twist on the…",
-      "imageUrl": "https://images.unsplash.com/photo-1526374965328-7f61d4dc18c5?w=800&q=80",
-      "source": "MIT Tech Review",
-      "sourceUrl": "https://www.technologyreview.com/2026/03/11/1134174/the-download-pokemon-go-train-world-models-us-china-race-find-aliens/",
-      "publishedAt": "2026-03-11T12:38:00.000Z"
     },
     {
       "id": "usx076",
