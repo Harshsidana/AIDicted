@@ -1,7 +1,25 @@
 {
-  "fetchedAt": "2026-03-17T09:01:18.216Z",
+  "fetchedAt": "2026-03-17T11:26:16.624Z",
   "count": 60,
   "articles": [
+    {
+      "id": "fah13m",
+      "title": "How Invisalign Became the World’s Biggest User of 3D Printers",
+      "summary": "Joe Hogan, Align Technology’s plastics-nerd CEO, says you shouldn’t eat with your aligners and that you don’t need to wear your retainers every night.",
+      "imageUrl": "https://media.wired.com/photos/69a6021b9601628729405650/master/pass/CEO%20Joe%20Hogan.jpg",
+      "source": "Wired",
+      "sourceUrl": "https://www.wired.com/story/how-invisalign-became-the-worlds-biggest-3d-printing-company/",
+      "publishedAt": "2026-03-17T11:00:00.000Z"
+    },
+    {
+      "id": "x8m0n7",
+      "title": "Sears Exposed AI Chatbot Phone Calls and Text Chats to Anyone on the Web",
+      "summary": "Customer conversations with chatbots can include contact information and personal details that make it easier for scammers to launch phishing attacks and commit fraud.",
+      "imageUrl": "https://media.wired.com/photos/69b868c66b808f7f94b9eeb5/master/pass/security_searsleak_Getty.jpg",
+      "source": "Wired",
+      "sourceUrl": "https://www.wired.com/story/sears-exposed-ai-chatbot-phone-calls-and-text-chats-to-anyone-on-the-web/",
+      "publishedAt": "2026-03-17T10:00:00.000Z"
+    },
     {
       "id": "57lp7n",
       "title": "Picsart now allows creators to ‘hire’ AI assistants through agent marketplace",
@@ -415,24 +433,6 @@
       "source": "Ars Technica",
       "sourceUrl": "https://arstechnica.com/security/2026/03/14000-routers-are-infected-by-malware-thats-highly-resistant-to-takedowns/",
       "publishedAt": "2026-03-11T21:27:16.000Z"
-    },
-    {
-      "id": "hgh48d",
-      "title": "Grammarly Is Facing a Class Action Lawsuit Over Its AI ‘Expert Review’ Feature",
-      "summary": "The feature, which Grammarly shut down Wednesday, presented editing suggestions as if they came from established authors and academics—without their consent.",
-      "imageUrl": "https://media.wired.com/photos/69b1c8b19fd417e67bc5b525/master/pass/031126-grammarly-AI-experts-1.jpg",
-      "source": "Wired",
-      "sourceUrl": "https://www.wired.com/story/grammarly-is-facing-a-class-action-lawsuit-over-its-ai-expert-review-feature/",
-      "publishedAt": "2026-03-11T20:45:03.000Z"
-    },
-    {
-      "id": "8q22qx",
-      "title": "Nvidia Will Spend $26 Billion to Build Open-Weight AI Models, Filings Show",
-      "summary": "The move could position the AI infrastructure powerhouse to quickly compete with OpenAI, Anthropic, and DeepSeek.",
-      "imageUrl": "https://media.wired.com/photos/69af3f3792d66aac27c0e361/master/pass/AI-Lab-Nvidia-Goes-All-in-on-AI-Business.jpg",
-      "source": "Wired",
-      "sourceUrl": "https://www.wired.com/story/nvidia-investing-26-billion-open-source-models/",
-      "publishedAt": "2026-03-11T18:00:00.000Z"
     },
     {
       "id": "usx076",
