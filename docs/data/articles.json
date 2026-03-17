@@ -1,7 +1,61 @@
 {
-  "fetchedAt": "2026-03-17T15:11:01.948Z",
+  "fetchedAt": "2026-03-17T16:41:55.081Z",
   "count": 60,
   "articles": [
+    {
+      "id": "e3vix9",
+      "title": "Now everyone in the US is getting Google’s personalized Gemini AI",
+      "summary": "Google announced on Tuesday that all users in the US will now have access to its Personal Intelligence feature, which lets you connect various Google apps to provide context for Gemini's responses and suggestions. Access was previously limited to Google AI Pro and AI Ultra subscribers. Now, free-tier users in the US can also use Personal Intelligence through AI Mode in Search, Gemini in Chrome, and the Gemini app. However, the feature is currently only available to users on personal Google…",
+      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/01/google-gemini-ai-personal-intelligence-tire-suggestion-demo.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "source": "The Verge",
+      "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/896107/google-expands-personal-intelligence",
+      "publishedAt": "2026-03-17T16:33:41.000Z"
+    },
+    {
+      "id": "9b3nkx",
+      "title": "Google’s Personal Intelligence feature is expanding to all US users",
+      "summary": "Personal Intelligence allows Google's AI assistant to tap into your Google ecosystem, such as Gmail and Google Photos, to provide more tailored responses.",
+      "imageUrl": "https://images.unsplash.com/photo-1526374965328-7f61d4dc18c5?w=800&q=80",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/03/17/googles-personal-intelligence-feature-is-expanding-to-all-us-users/",
+      "publishedAt": "2026-03-17T16:00:00.000Z"
+    },
+    {
+      "id": "h82k49",
+      "title": "OpenAI expands government footprint with AWS deal, report says",
+      "summary": "OpenAI has reportedly signed a partnership with AWS to sell its AI systems to the U.S. government for classified and unclassified work, marking an expansion beyond its Pentagon deal last month.",
+      "imageUrl": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=800&q=80",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/03/17/openai-expands-government-footprint-with-aws-deal/",
+      "publishedAt": "2026-03-17T15:37:03.000Z"
+    },
+    {
+      "id": "eqrenb",
+      "title": "Microsoft appoints a new Copilot boss after AI leadership shake-up",
+      "summary": "Microsoft is doing another executive shuffle today to reorganize how it engineers its Copilot assistant. Different teams have been working on the consumer and commercial sides of Copilot for years, but Microsoft is about to unify parts of them in an effort to create a more cohesive Copilot for businesses and consumers. The changes will see Microsoft AI CEO Mustafa Suleyman focus on creating Microsoft's own AI models, instead of working directly on the assistant-like features of Copilot for…",
+      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/07/STK259_MICROSOFT_COPILOT_2__C.png?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "source": "The Verge",
+      "sourceUrl": "https://www.theverge.com/news/895963/microsoft-copilot-leadership-changes-consumer-commercial",
+      "publishedAt": "2026-03-17T15:17:27.000Z"
+    },
+    {
+      "id": "eehdr4",
+      "title": "The future of code is exciting and terrifying",
+      "summary": "Suddenly it seems like everyone's a coder. Or, at the very least, like they play one in the Claude Code app. But even for the seasoned pros, the act of software development is changing fast - many people are writing less code themselves and instead spending their time managing agents and projects. So what does all that change mean, both for the code and the people who make it? Verge subscribers, don't forget you get exclusive access to ad-free Vergecast wherever you get your podcasts. Head here.…",
+      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/03/VRG_VST_0317_Site.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "source": "The Verge",
+      "sourceUrl": "https://www.theverge.com/podcast/895910/claude-code-future-developers-vergecast",
+      "publishedAt": "2026-03-17T15:16:47.000Z"
+    },
+    {
+      "id": "yojiwh",
+      "title": "AI’s ‘boys’ club’ could widen the wealth gap for women, says Rana el Kaliouby",
+      "summary": "AI investor Rana el Kaliouby warns that if women are shut out of AI funding and leadership, the consequences will be grim.",
+      "imageUrl": "https://images.unsplash.com/photo-1531746790095-6c10a4031c5f?w=800&q=80",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/03/17/ais-boys-club-could-widen-the-wealth-gap-for-women-says-rana-el-kaliouby/",
+      "publishedAt": "2026-03-17T15:16:21.000Z"
+    },
     {
       "id": "3ebcxw",
       "title": "World launches tool to verify humans behind AI shopping agents",
@@ -12,21 +66,21 @@
       "publishedAt": "2026-03-17T15:00:00.000Z"
     },
     {
-      "id": "upptar",
-      "title": "Niv-AI exits stealth to wring more power performance out of GPUs",
-      "summary": "The company raised $12 million in seed funding to measure and manage GPU power surges.",
-      "imageUrl": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=800&q=80",
-      "source": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/03/17/niv-ai-exits-stealth-to-wring-more-power-performance-out-of-gpus/",
-      "publishedAt": "2026-03-17T13:00:00.000Z"
-    },
-    {
       "id": "5tad4y",
       "title": "Gamma adds AI image generation tools in bid to take on Canva and Adobe",
       "summary": "The company's new product, called Gamma Imagine, will let users employ text prompts to create brand-specific assets like interactive charts and visualizations, marketing collateral, social graphics, and infographics.",
       "imageUrl": "https://images.unsplash.com/photo-1485827404703-89b55fcc595e?w=800&q=80",
       "source": "TechCrunch",
       "sourceUrl": "https://techcrunch.com/2026/03/17/gamma-adds-ai-image-generation-tools-in-bid-to-take-on-canva-and-adobe/",
+      "publishedAt": "2026-03-17T13:00:00.000Z"
+    },
+    {
+      "id": "upptar",
+      "title": "Niv-AI exits stealth to wring more power performance out of GPUs",
+      "summary": "The company raised $12 million in seed funding to measure and manage GPU power surges.",
+      "imageUrl": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=800&q=80",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/03/17/niv-ai-exits-stealth-to-wring-more-power-performance-out-of-gpus/",
       "publishedAt": "2026-03-17T13:00:00.000Z"
     },
     {
@@ -165,24 +219,6 @@
       "publishedAt": "2026-03-16T17:47:32.000Z"
     },
     {
-      "id": "mxafhu",
-      "title": "Fuse raises $25M to disrupt aging loan origination systems used by US credit unions",
-      "summary": "The startup also announced a $5 million \"rescue fund\" to help credit unions ditch legacy software for its AI-native platform.",
-      "imageUrl": "https://images.unsplash.com/photo-1676299081847-824916de030a?w=800&q=80",
-      "source": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/03/16/fuse-raises-25m-to-disrupt-aging-loan-origination-systems-used-by-u-s-credit-unions/",
-      "publishedAt": "2026-03-16T17:43:27.000Z"
-    },
-    {
-      "id": "v0qhzr",
-      "title": "The dictionary sues OpenAI",
-      "summary": "Encyclopedia Britannica and Merriam-Webster say that OpenAI violated the copyright of almost 100,000 articles by using them for LLM training.",
-      "imageUrl": "https://images.unsplash.com/photo-1485827404703-89b55fcc595e?w=800&q=80",
-      "source": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/03/16/merriam-webster-openai-encyclopedia-brittanica-lawsuit/",
-      "publishedAt": "2026-03-16T17:38:34.000Z"
-    },
-    {
       "id": "s6nfc5",
       "title": "Where OpenAI’s technology could show up in Iran",
       "summary": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here. It’s been just over two weeks since OpenAI reached a controversial agreement to allow the Pentagon to use its AI in classified environments. There are still pressing questions about what exactly OpenAI’s…",
@@ -262,33 +298,6 @@
       "source": "Wired",
       "sourceUrl": "https://www.wired.com/story/models-are-applying-to-be-the-face-of-ai-scams/",
       "publishedAt": "2026-03-16T09:00:00.000Z"
-    },
-    {
-      "id": "8e5r2y",
-      "title": "Google, Accel India accelerator chooses 5 startups and none are ‘AI wrappers’",
-      "summary": "Google and Accel say about 70% of AI startup pitches tied to India were \"wrappers\" as they reviewed more than 4,000 applications for their Atoms cohort.",
-      "imageUrl": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=800&q=80",
-      "source": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/03/15/google-and-accel-cut-through-wrappers-in-4000-ai-startup-pitches-to-pick-five-tied-to-india/",
-      "publishedAt": "2026-03-16T00:30:00.000Z"
-    },
-    {
-      "id": "45zh5u",
-      "title": "AI companies want to harvest improv actors’ skills to train AI on human emotion",
-      "summary": "If you've got strong creative instincts, the ability to authentically portray emotion, and are capable of staying true to a character's voice throughout a scene, there's a job listing calling for your experience. The catch: You won't be performing in a theater, a film studio, or an underground performance space. You'd be using your talents to train an AI model for \"one of the leading AI companies,\" according to the open role posted by Handshake, a company that provides training data to OpenAI…",
-      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/03/268402_AI_companies_want_to_harvest_improv_actors_skills_to_train_large_AI_models_on_human_emotion_and_tone_CVirginia.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "source": "The Verge",
-      "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/893931/ai-companies-handshake-improv-actors-training-data",
-      "publishedAt": "2026-03-15T14:00:00.000Z"
-    },
-    {
-      "id": "9ezbcs",
-      "title": "Microsoft’s Copilot AI assistant is coming to current-gen Xbox consoles this year",
-      "summary": "Xbox is getting ready to launch its Gaming Copilot AI assistant on \"current-generation consoles\" this year, according to a report from GamesRadar. Sonali Yadav, Xbox's product manager for gaming AI, revealed the news during a panel at the Game Developers Conference (GDC), adding that the company will also add the assistant to \"more services that players are playing.\" Microsoft has been working on its gaming-focused Copilot assistant for months now, with the company launching it in beta on the…",
-      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25676324/twarren_xboxseriesxwhite__6_.JPG?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "source": "The Verge",
-      "sourceUrl": "https://www.theverge.com/games/894799/microsoft-gaming-copilot-ai-xbox-consoles",
-      "publishedAt": "2026-03-13T20:51:48.000Z"
     },
     {
       "id": "e8iye0",
@@ -397,15 +406,6 @@
       "source": "Wired",
       "sourceUrl": "https://www.wired.com/story/google-nick-fox-advertising-search-ai-gemini/",
       "publishedAt": "2026-03-12T18:15:00.000Z"
-    },
-    {
-      "id": "ss142e",
-      "title": "Facebook Marketplace adds AI auto-replies for annoying ‘Is this still available?’ messages",
-      "summary": "Facebook Marketplace is adding a bunch of new AI-powered tools that are supposed to make selling items on the platform a little more efficient. One feature will use Meta AI to automatically respond to those annoying \"Is this still available?\" messages. You can toggle on the auto-reply option when creating a listing, and Meta AI will draft an editable response to any questions related to availability. In an example shown by Meta, its AI assistant creates an auto-reply saying, \"Yes, it's still…",
-      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/04/STK040_VRG_Illo_N_Barclay_2_facebook.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "source": "The Verge",
-      "sourceUrl": "https://www.theverge.com/tech/893907/facebook-marketplace-ai-auto-reply-listings",
-      "publishedAt": "2026-03-12T17:59:32.000Z"
     },
     {
       "id": "sbf07l",
