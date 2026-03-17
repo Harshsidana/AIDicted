@@ -1,7 +1,34 @@
 {
-  "fetchedAt": "2026-03-17T16:41:55.081Z",
+  "fetchedAt": "2026-03-17T18:03:05.287Z",
   "count": 60,
   "articles": [
+    {
+      "id": "jao7kc",
+      "title": "Nvidia’s DLSS 5 is like motion smoothing for video games, but worse",
+      "summary": "Yesterday Nvidia revealed its latest upscaling tech called DLSS 5, which it described as \"the company's most significant breakthrough in computer graphics since the debut of real-time ray tracing in 2018.\" Sounds good, until you actually see it. According to Nvidia, the tech \"infuses pixels with photoreal lighting and materials,\" but all anyone seemed to notice was that it turned recognizable faces into something resembling AI slop. Resident Evil Requiem protagonist Grace got a makeover that…",
+      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/03/Screenshot-2026-03-17-at-1.29.30%E2%80%AFPM.png?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "source": "The Verge",
+      "sourceUrl": "https://www.theverge.com/entertainment/896213/nvidia-dlss-5-ai-faces-motion-smoothing",
+      "publishedAt": "2026-03-17T18:00:00.000Z"
+    },
+    {
+      "id": "k1bgyg",
+      "title": "BuzzFeed debuts AI slop apps in bid for new revenue",
+      "summary": "BuzzFeed unveiled new AI-powered social apps at SXSW, but its demos drew muted reactions.",
+      "imageUrl": "https://images.unsplash.com/photo-1550751827-4bd374c3f58b?w=800&q=80",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/03/17/buzzfeed-ai-slop-apps-sxsw-bf-island-conjure/",
+      "publishedAt": "2026-03-17T17:17:15.000Z"
+    },
+    {
+      "id": "5r6sbj",
+      "title": "Researchers disclose vulnerabilities in IP KVMs from four manufacturers",
+      "summary": "Internet-exposed devices that give BIOS-level access? What could possibly go wrong?",
+      "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2023/07/exploit-vulnerability-security.jpg",
+      "source": "Ars Technica",
+      "sourceUrl": "https://arstechnica.com/security/2026/03/researchers-disclose-vulnerabilities-in-ip-kvms-from-4-manufacturers/",
+      "publishedAt": "2026-03-17T17:07:12.000Z"
+    },
     {
       "id": "e3vix9",
       "title": "Now everyone in the US is getting Google’s personalized Gemini AI",
@@ -66,21 +93,21 @@
       "publishedAt": "2026-03-17T15:00:00.000Z"
     },
     {
-      "id": "5tad4y",
-      "title": "Gamma adds AI image generation tools in bid to take on Canva and Adobe",
-      "summary": "The company's new product, called Gamma Imagine, will let users employ text prompts to create brand-specific assets like interactive charts and visualizations, marketing collateral, social graphics, and infographics.",
-      "imageUrl": "https://images.unsplash.com/photo-1485827404703-89b55fcc595e?w=800&q=80",
-      "source": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/03/17/gamma-adds-ai-image-generation-tools-in-bid-to-take-on-canva-and-adobe/",
-      "publishedAt": "2026-03-17T13:00:00.000Z"
-    },
-    {
       "id": "upptar",
       "title": "Niv-AI exits stealth to wring more power performance out of GPUs",
       "summary": "The company raised $12 million in seed funding to measure and manage GPU power surges.",
       "imageUrl": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=800&q=80",
       "source": "TechCrunch",
       "sourceUrl": "https://techcrunch.com/2026/03/17/niv-ai-exits-stealth-to-wring-more-power-performance-out-of-gpus/",
+      "publishedAt": "2026-03-17T13:00:00.000Z"
+    },
+    {
+      "id": "4puifp",
+      "title": "Gamma adds AI image-generation tools in bid to take on Canva and Adobe",
+      "summary": "The company's new product, called Gamma Imagine, will let users employ text prompts to create brand-specific assets like interactive charts and visualizations, marketing collateral, social graphics, and infographics.",
+      "imageUrl": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=800&q=80",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/03/17/gamma-adds-ai-image-generation-tools-in-bid-to-take-on-canva-and-adobe/",
       "publishedAt": "2026-03-17T13:00:00.000Z"
     },
     {
@@ -210,15 +237,6 @@
       "publishedAt": "2026-03-16T17:51:46.000Z"
     },
     {
-      "id": "t5fa5f",
-      "title": "Another deep tech chip startup becomes a unicorn: Frore hits $1.64B",
-      "summary": "At Nvidia CEO Jensen Huang's urging, Frore developed liquid-cooling tech for chips. That shift helped it raise $143 million.",
-      "imageUrl": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=800&q=80",
-      "source": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/03/16/another-deep-tech-chip-startup-becomes-a-unicorn-frore-hits-1-64b/",
-      "publishedAt": "2026-03-16T17:47:32.000Z"
-    },
-    {
       "id": "s6nfc5",
       "title": "Where OpenAI’s technology could show up in Iran",
       "summary": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here. It’s been just over two weeks since OpenAI reached a controversial agreement to allow the Pentagon to use its AI in classified environments. There are still pressing questions about what exactly OpenAI’s…",
@@ -271,15 +289,6 @@
       "source": "MIT Tech Review",
       "sourceUrl": "https://www.technologyreview.com/2026/03/16/1134301/the-download-glass-ai-chips-ai-free-logo/",
       "publishedAt": "2026-03-16T12:35:00.000Z"
-    },
-    {
-      "id": "bvdmjv",
-      "title": "OpenAI’s adult mode will reportedly be smutty, not pornographic",
-      "summary": "So when exactly is smut considered porn? | Cath Virginia / The Verge | Photos from Getty Images OpenAI's delayed \"adult mode\" for ChatGPT is expected to support saucy text conversations at launch, but not the chatbot's ability to generate images, voice, or video. Speaking to The Wall Street Journal, an unnamed OpenAI spokesperson described content that will be provided by the upcoming feature as smut rather than pornography, allowing ChatGPT users to generate textual chats with adult themes. The…",
-      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25313355/STK464_PORN_ADULT_CONTENT_2A.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "source": "The Verge",
-      "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/895130/openai-chatgpt-adult-mode-text-smut-written-erotica",
-      "publishedAt": "2026-03-16T11:18:20.000Z"
     },
     {
       "id": "vqefgc",
@@ -532,15 +541,6 @@
       "source": "Ars Technica",
       "sourceUrl": "https://arstechnica.com/ai/2026/02/openai-sidesteps-nvidia-with-unusually-fast-coding-model-on-plate-sized-chips/",
       "publishedAt": "2026-02-12T22:56:02.000Z"
-    },
-    {
-      "id": "oz2et4",
-      "title": "Attackers prompted Gemini over 100,000 times while trying to clone it, Google says",
-      "summary": "Distillation technique lets copycats mimic Gemini at a fraction of the development cost.",
-      "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2023/12/gemini_header-1152x648.jpg",
-      "source": "Ars Technica",
-      "sourceUrl": "https://arstechnica.com/ai/2026/02/attackers-prompted-gemini-over-100000-times-while-trying-to-clone-it-google-says/",
-      "publishedAt": "2026-02-12T19:42:08.000Z"
     }
   ]
 }
