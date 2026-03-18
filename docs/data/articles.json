@@ -1,11 +1,20 @@
 {
-  "fetchedAt": "2026-03-17T23:39:55.533Z",
+  "fetchedAt": "2026-03-18T02:53:39.782Z",
   "count": 60,
   "articles": [
     {
+      "id": "w9ygw1",
+      "title": "Justice Department Says Anthropic Can’t Be Trusted With Warfighting Systems",
+      "summary": "In response to Anthropic’s lawsuit, the government said it lawfully penalized the company for trying to limit how its Claude AI models could be used by the military.",
+      "imageUrl": "https://media.wired.com/photos/69b9b3b8a5694fbea42e1cf8/master/pass/buisness_DOD_Anthropic_GettyImages-2265262796.jpg",
+      "source": "Wired",
+      "sourceUrl": "https://www.wired.com/story/department-of-defense-responds-to-anthropic-lawsuit/",
+      "publishedAt": "2026-03-18T00:51:14.000Z"
+    },
+    {
       "id": "lwz97m",
       "title": "The Pentagon is planning for AI companies to train on classified data, defense official says",
-      "summary": "The Pentagon is discussing plans to set up secure environments for generative AI companies to train military-specific versions of their models on classified data, MIT Technology Review has learned. AI models like Anthropic’s Claude are already used to answer questions in classified settings, including for analyzing targets in Iran. But allowing models to train on…",
+      "summary": "The Pentagon is discussing plans to set up secure environments for generative AI companies to train military-specific versions of their models on classified data, MIT Technology Review has learned. AI models like Anthropic’s Claude are already used to answer questions in classified settings; applications include analyzing targets in Iran. But allowing models to train on…",
       "imageUrl": "https://images.unsplash.com/photo-1676299081847-824916de030a?w=800&q=80",
       "source": "MIT Tech Review",
       "sourceUrl": "https://www.technologyreview.com/2026/03/17/1134351/the-pentagon-is-planning-for-ai-companies-to-train-on-classified-data-defense-official-says/",
@@ -424,15 +433,6 @@
       "source": "Wired",
       "sourceUrl": "https://www.wired.com/story/google-nick-fox-advertising-search-ai-gemini/",
       "publishedAt": "2026-03-12T18:15:00.000Z"
-    },
-    {
-      "id": "exbntv",
-      "title": "Google Maps Gets Chatty With a New Gemini-Powered Interface",
-      "summary": "“Ask Maps,” rolling out today to Google Maps on mobile, lets you ask Gemini questions about locations and even to plan trips on your behalf.",
-      "imageUrl": "https://media.wired.com/photos/69b1db7c9fd417e67bc5b5ca/master/pass/Google-Launches-Gemini-Powered-Ask-Maps-in-Google-Maps-Gear-2262145010.jpg",
-      "source": "Wired",
-      "sourceUrl": "https://www.wired.com/story/google-maps-ask-maps-gemini-powered-tool/",
-      "publishedAt": "2026-03-12T12:30:00.000Z"
     },
     {
       "id": "55s",
