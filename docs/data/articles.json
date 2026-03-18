@@ -1,7 +1,88 @@
 {
-  "fetchedAt": "2026-03-18T16:37:57.694Z",
+  "fetchedAt": "2026-03-18T20:49:27.394Z",
   "count": 60,
   "articles": [
+    {
+      "id": "1j8sxy",
+      "title": "Nothing CEO Carl Pei says smartphone apps will disappear as AI agents take their place",
+      "summary": "Nothing CEO Carl Pei says AI agents will eventually replace apps, shifting smartphones toward systems that understand intent and act on a user's behalf.",
+      "imageUrl": "https://images.unsplash.com/photo-1635070041078-e363dbe005cb?w=800&q=80",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/03/18/nothing-ceo-carl-pei-says-smartphone-apps-will-disappear-as-ai-agents-take-their-place/",
+      "publishedAt": "2026-03-18T20:30:52.000Z"
+    },
+    {
+      "id": "tiwuj1",
+      "title": "Nvidia is quietly building a multibillion-dollar behemoth to rival its chips business",
+      "summary": "Nvidia's networking business raked in $11 billion last quarter despite getting significantly less fanfare than chips and gaming.",
+      "imageUrl": "https://images.unsplash.com/photo-1676299081847-824916de030a?w=800&q=80",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/03/18/nvidia-networking-division-building-a-multibillion-dollar-behemoth-to-rival-its-chips-business/",
+      "publishedAt": "2026-03-18T20:01:19.000Z"
+    },
+    {
+      "id": "1fxib",
+      "title": "David Sacks’ big Iran warning gets big time ignored",
+      "summary": "Sec. Scott Bessent, President Donald Trump, and David Sacks during The White House Digital Assets Summit in Washington, DC, on Friday, March 7, 2025. | Chris Kleponis/CNP/Bloomberg via Getty Images Hello and welcome to Regulator, a newsletter for Verge subscribers about the politics of technology and the technology of politics - now landing in your inbox on Wednesdays! If someone has forwarded this email to you, and you're not a Verge subscriber yet, you should sign up right here, and not just…",
+      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/03/gettyimages-2203279318.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "source": "The Verge",
+      "sourceUrl": "https://www.theverge.com/column/896949/regulator-david-sacks-iran-polymarket",
+      "publishedAt": "2026-03-18T18:44:21.000Z"
+    },
+    {
+      "id": "9mzo60",
+      "title": "ChatGPT did not cure a dog’s cancer",
+      "summary": "When an Australian tech entrepreneur with no background in biology or medicine said ChatGPT helped save his dog from cancer, the story spread with the kind of validation Big Tech has long craved: proof that AI will revolutionize medicine and take on one of its deadliest diseases. The reality, as usual, is more complicated. The version of the story that made the rounds online, first reported by The Australian, was relatively straightforward. In 2024, Sydney-based Paul Conyngham learned that his…",
+      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/03/STKS524_AI_HEALTH_A.webp?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "source": "The Verge",
+      "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/896878/ai-did-not-cure-this-dogs-cancer",
+      "publishedAt": "2026-03-18T18:14:39.000Z"
+    },
+    {
+      "id": "s4cgnk",
+      "title": "Why Walmart and OpenAI Are Shaking Up Their Agentic Shopping Deal",
+      "summary": "After OpenAI’s Instant Checkout feature fell short, Walmart is instead embedding its Sparky chatbot directly into ChatGPT and Google Gemini.",
+      "imageUrl": "https://media.wired.com/photos/69b9c55f4318d2003e7286fe/master/pass/business_walmart_openai_shopping_chatbot.jpg",
+      "source": "Wired",
+      "sourceUrl": "https://www.wired.com/story/ai-lab-walmart-openai-shaking-up-agentic-shopping-deal/",
+      "publishedAt": "2026-03-18T18:01:18.000Z"
+    },
+    {
+      "id": "g3upv",
+      "title": "Patreon CEO calls AI companies’ fair use argument ‘bogus,’ says creators should be paid",
+      "summary": "Patreon CEO Jack Conte says AI companies should pay creators for training data, arguing their fair use defense falls apart when they license content from major publishers.",
+      "imageUrl": "https://images.unsplash.com/photo-1531746790095-6c10a4031c5f?w=800&q=80",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/03/18/patreon-ceo-calls-ai-companies-fair-use-argument-bogus-says-creators-should-be-paid/",
+      "publishedAt": "2026-03-18T17:54:31.000Z"
+    },
+    {
+      "id": "ku8rv9",
+      "title": "Federal cyber experts called Microsoft's cloud a \"pile of shit,\" approved it anyway",
+      "summary": "One Microsoft product was approved despite years of concerns about its security.",
+      "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2025/09/microsoft-logo-1024x648.jpg",
+      "source": "Ars Technica",
+      "sourceUrl": "https://arstechnica.com/information-technology/2026/03/federal-cyber-experts-called-microsofts-cloud-a-pile-of-shit-approved-it-anyway/",
+      "publishedAt": "2026-03-18T17:36:40.000Z"
+    },
+    {
+      "id": "9ms72p",
+      "title": "Rebel Audio is a new AI podcasting tool aimed at first-time creators",
+      "summary": "Rebel Audio is a new all-in-one podcasting tool that allows creators to record podcasts, edit, clip content for social, and publish episodes, all without ever leaving the platform.",
+      "imageUrl": "https://images.unsplash.com/photo-1550751827-4bd374c3f58b?w=800&q=80",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/03/18/rebel-audio-is-a-new-ai-podcasting-tool-aimed-at-first-time-creators/",
+      "publishedAt": "2026-03-18T17:15:00.000Z"
+    },
+    {
+      "id": "d7etaf",
+      "title": "The Gemini-powered features in Google Workspace that are worth using",
+      "summary": "From summarizing emails, drafting content, organizing data, and tracking meetings, here are all the best Gemini features in Google Workspace.",
+      "imageUrl": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=800&q=80",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/03/18/the-gemini-powered-features-in-google-workspace-that-are-worth-using/",
+      "publishedAt": "2026-03-18T16:43:18.000Z"
+    },
     {
       "id": "6qe54b",
       "title": "The leaderboard “you can’t game,” funded by the companies it ranks",
@@ -165,24 +246,6 @@
       "publishedAt": "2026-03-17T16:33:41.000Z"
     },
     {
-      "id": "9b3nkx",
-      "title": "Google’s Personal Intelligence feature is expanding to all US users",
-      "summary": "Personal Intelligence allows Google's AI assistant to tap into your Google ecosystem, such as Gmail and Google Photos, to provide more tailored responses.",
-      "imageUrl": "https://images.unsplash.com/photo-1526374965328-7f61d4dc18c5?w=800&q=80",
-      "source": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/03/17/googles-personal-intelligence-feature-is-expanding-to-all-us-users/",
-      "publishedAt": "2026-03-17T16:00:00.000Z"
-    },
-    {
-      "id": "h82k49",
-      "title": "OpenAI expands government footprint with AWS deal, report says",
-      "summary": "OpenAI has reportedly signed a partnership with AWS to sell its AI systems to the U.S. government for classified and unclassified work, marking an expansion beyond its Pentagon deal last month.",
-      "imageUrl": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=800&q=80",
-      "source": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/03/17/openai-expands-government-footprint-with-aws-deal/",
-      "publishedAt": "2026-03-17T15:37:03.000Z"
-    },
-    {
       "id": "eqrenb",
       "title": "Microsoft appoints a new Copilot boss after AI leadership shake-up",
       "summary": "Microsoft is doing another executive shuffle today to reorganize how it engineers its Copilot assistant. Different teams have been working on the consumer and commercial sides of Copilot for years, but Microsoft is about to unify parts of them in an effort to create a more cohesive Copilot for businesses and consumers. The changes will see Microsoft AI CEO Mustafa Suleyman focus on creating Microsoft's own AI models, instead of working directly on the assistant-like features of Copilot for…",
@@ -199,33 +262,6 @@
       "source": "The Verge",
       "sourceUrl": "https://www.theverge.com/podcast/895910/claude-code-future-developers-vergecast",
       "publishedAt": "2026-03-17T15:16:47.000Z"
-    },
-    {
-      "id": "yojiwh",
-      "title": "AI’s ‘boys’ club’ could widen the wealth gap for women, says Rana el Kaliouby",
-      "summary": "AI investor Rana el Kaliouby warns that if women are shut out of AI funding and leadership, the consequences will be grim.",
-      "imageUrl": "https://images.unsplash.com/photo-1531746790095-6c10a4031c5f?w=800&q=80",
-      "source": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/03/17/ais-boys-club-could-widen-the-wealth-gap-for-women-says-rana-el-kaliouby/",
-      "publishedAt": "2026-03-17T15:16:21.000Z"
-    },
-    {
-      "id": "3ebcxw",
-      "title": "World launches tool to verify humans behind AI shopping agents",
-      "summary": "As AI agents take the reins for online shoppers, Sam Altman's unconventional startup is looking to expand its verification offerings to support agentic commerce.",
-      "imageUrl": "https://images.unsplash.com/photo-1531746790095-6c10a4031c5f?w=800&q=80",
-      "source": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/03/17/world-launches-tool-to-verify-humans-behind-ai-shopping-agents/",
-      "publishedAt": "2026-03-17T15:00:00.000Z"
-    },
-    {
-      "id": "upptar",
-      "title": "Niv-AI exits stealth to wring more power performance out of GPUs",
-      "summary": "The company raised $12 million in seed funding to measure and manage GPU power surges.",
-      "imageUrl": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=800&q=80",
-      "source": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/03/17/niv-ai-exits-stealth-to-wring-more-power-performance-out-of-gpus/",
-      "publishedAt": "2026-03-17T13:00:00.000Z"
     },
     {
       "id": "sz0mqt",
@@ -289,24 +325,6 @@
       "source": "MIT Tech Review",
       "sourceUrl": "https://www.technologyreview.com/2026/03/16/1134315/where-openais-technology-could-show-up-in-iran/",
       "publishedAt": "2026-03-16T17:06:21.000Z"
-    },
-    {
-      "id": "e5ngd7",
-      "title": "Encyclopedia Britannica is suing OpenAI for allegedly ‘memorizing’ its content with ChatGPT",
-      "summary": "On Friday, Encyclopedia Britannica and dictionary publisher Merriam-Webster filed a lawsuit against OpenAI alleging that it used their copyrighted content to train its AI, then generated responses that were \"substantially similar\" to their content, as previously reported by Reuters. According to Britannica, OpenAI repeatedly copied its content without permission, stating, \"GPT-4 itself has 'memorized' much of Britannica's copyrighted content and will output near-verbatim copies of significant…",
-      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/03/gettyimages-141320386.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "source": "The Verge",
-      "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/895372/encyclopedia-britannica-openai-lawsuit",
-      "publishedAt": "2026-03-16T17:04:06.000Z"
-    },
-    {
-      "id": "w2wkx9",
-      "title": "Yahoo CEO Jim Lanzone on reviving the web’s homepage",
-      "summary": "Today, I’m talking with Jim Lanzone, who is the CEO of Yahoo. It’s basically impossible to sum up the Yahoo story, but the short version of it is that a long time ago Yahoo paid Google to run the search box on its website, and basically everything has gone sideways since. You’ll hear Jim refer to that deal as Yahoo’s original sin, actually. After a long series of mergers and spinouts and an extremely odd moment where it was part of Verizon, Yahoo is once again an independent, privately held…",
-      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/03/DCD-20260316-Lanzone.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "source": "The Verge",
-      "sourceUrl": "https://www.theverge.com/podcast/895221/yahoo-jim-lanzone-scout-ai-sports-finance-open-web",
-      "publishedAt": "2026-03-16T15:00:00.000Z"
     },
     {
       "id": "6scevk",
@@ -426,15 +444,6 @@
       "publishedAt": "2026-03-12T19:48:21.000Z"
     },
     {
-      "id": "vcdukj",
-      "title": "Google Is Not Ruling Out Ads in Gemini",
-      "summary": "WIRED spoke with Nick Fox, Google’s SVP of knowledge and information, about how AI is changing the company’s advertising business.",
-      "imageUrl": "https://media.wired.com/photos/69af5d1bac57452caf2d27d4/master/pass/Model-Behavior-How-AI-Is-Changing-Googles-Advertising-Business.jpg",
-      "source": "Wired",
-      "sourceUrl": "https://www.wired.com/story/google-nick-fox-advertising-search-ai-gemini/",
-      "publishedAt": "2026-03-12T18:15:00.000Z"
-    },
-    {
       "id": "55s",
       "title": "14,000 routers are infected by malware that's highly resistant to takedowns",
       "summary": "Most of the devices are made by Asus and are located in the US.",
@@ -532,15 +541,6 @@
       "source": "Ars Technica",
       "sourceUrl": "https://arstechnica.com/ai/2026/02/after-a-routine-code-rejection-an-ai-agent-published-a-hit-piece-on-someone-by-name/",
       "publishedAt": "2026-02-13T19:40:21.000Z"
-    },
-    {
-      "id": "dkpiby",
-      "title": "OpenAI sidesteps Nvidia with unusually fast coding model on plate-sized chips",
-      "summary": "OpenAI's new GPT‑5.3‑Codex‑Spark is 15 times faster at coding than its predecessor.",
-      "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2026/02/GettyImages-2225076517_resize-1152x648.jpg",
-      "source": "Ars Technica",
-      "sourceUrl": "https://arstechnica.com/ai/2026/02/openai-sidesteps-nvidia-with-unusually-fast-coding-model-on-plate-sized-chips/",
-      "publishedAt": "2026-02-12T22:56:02.000Z"
     }
   ]
 }
