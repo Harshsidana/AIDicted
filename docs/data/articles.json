@@ -1,7 +1,16 @@
 {
-  "fetchedAt": "2026-03-18T09:02:17.493Z",
+  "fetchedAt": "2026-03-18T10:30:22.360Z",
   "count": 60,
   "articles": [
+    {
+      "id": "a4k3rn",
+      "title": "What do new nuclear reactors mean for waste?",
+      "summary": "MIT Technology Review Explains: Let our writers untangle the complex, messy world of technology to help you understand what’s coming next. You can read more from the series here. The way the world currently deals with nuclear waste is as creative as it is varied: Drown it in water pools, encase it in steel, bury…",
+      "imageUrl": "https://images.unsplash.com/photo-1655720828018-edd2daec9349?w=800&q=80",
+      "source": "MIT Tech Review",
+      "sourceUrl": "https://www.technologyreview.com/2026/03/18/1134345/advanced-nuclear-reactors-waste/",
+      "publishedAt": "2026-03-18T09:00:00.000Z"
+    },
     {
       "id": "w9ygw1",
       "title": "Justice Department Says Anthropic Can’t Be Trusted With Warfighting Systems",
@@ -397,15 +406,6 @@
       "source": "MIT Tech Review",
       "sourceUrl": "https://www.technologyreview.com/2026/03/13/1134230/future-ai-chips-could-be-built-on-glass/",
       "publishedAt": "2026-03-13T09:00:00.000Z"
-    },
-    {
-      "id": "cd26zx",
-      "title": "A defense official reveals how AI chatbots could be used for targeting decisions",
-      "summary": "The US military might use generative AI systems to rank lists of targets and make recommendations—which would be vetted by humans—about which to strike first, according to a Defense Department official with knowledge of the matter. The disclosure about how the military may use AI chatbots comes as the Pentagon faces scrutiny over a strike…",
-      "imageUrl": "https://images.unsplash.com/photo-1526374965328-7f61d4dc18c5?w=800&q=80",
-      "source": "MIT Tech Review",
-      "sourceUrl": "https://www.technologyreview.com/2026/03/12/1134243/defense-official-military-use-ai-chatbots-targeting-decisions/",
-      "publishedAt": "2026-03-12T22:23:34.000Z"
     },
     {
       "id": "999120",
