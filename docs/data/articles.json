@@ -1,7 +1,61 @@
 {
-  "fetchedAt": "2026-03-19T16:01:21.157Z",
+  "fetchedAt": "2026-03-19T19:09:52.059Z",
   "count": 60,
   "articles": [
+    {
+      "id": "4qf948",
+      "title": "Online bot traffic will exceed human traffic by 2027, Cloudflare CEO says",
+      "summary": "AI bots may outnumber humans online by 2027, says Cloudflare CEO Matthew Prince, as generative AI agents dramatically increase web traffic and infrastructure demands.",
+      "imageUrl": "https://images.unsplash.com/photo-1620712943543-bcc4688e7485?w=800&q=80",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/03/19/online-bot-traffic-will-exceed-human-traffic-by-2027-cloudflare-ceo-says/",
+      "publishedAt": "2026-03-19T19:09:02.000Z"
+    },
+    {
+      "id": "3p2u39",
+      "title": "A rogue AI led to a serious security incident at Meta",
+      "summary": "For almost two hours last week, Meta employees had unauthorized access to company and user data thanks to an AI agent that gave an employee inaccurate technical advice, as previously reported by The Information. Meta spokesperson Tracy Clayton said in a statement to The Verge that \"no user data was mishandled\" during the incident. A Meta engineer was using an internal AI agent, which Clayton described as \"similar in nature to OpenClaw within a secure development environment,\" to analyze a…",
+      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/10/STK043_VRG_Illo_N_Barclay_4_Meta.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "source": "The Verge",
+      "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/897528/meta-rogue-ai-agent-security-incident",
+      "publishedAt": "2026-03-19T18:20:05.000Z"
+    },
+    {
+      "id": "7h81xy",
+      "title": "Google Shakes Up Its Browser Agent Team Amid OpenClaw Craze",
+      "summary": "As Silicon Valley obsesses over a new wave of AI coding agents, Google and other AI labs are shifting their bets.",
+      "imageUrl": "https://media.wired.com/photos/69bc33bda714aba9de7defdf/master/pass/Model-Behavior-Google-Project-Mariner-Business.jpg",
+      "source": "Wired",
+      "sourceUrl": "https://www.wired.com/story/google-shakes-up-project-mariner-team-web-browsing-agents/",
+      "publishedAt": "2026-03-19T18:00:00.000Z"
+    },
+    {
+      "id": "d443oc",
+      "title": "Meta rolls out new AI content enforcement systems while reducing reliance on third-party vendors",
+      "summary": "Meta believes these AI systems can detect more violations with greater accuracy, better prevent scams, respond more quickly to real-world events, and reduce over-enforcement.",
+      "imageUrl": "https://images.unsplash.com/photo-1550751827-4bd374c3f58b?w=800&q=80",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/03/19/meta-rolls-out-new-ai-content-enforcement-systems-while-reducing-reliance-on-third-party-vendors/",
+      "publishedAt": "2026-03-19T17:24:13.000Z"
+    },
+    {
+      "id": "nxvuqk",
+      "title": "DoorDash launches a new ‘Tasks’ app that pays couriers to submit videos to train AI",
+      "summary": "Delivery couriers will be able to earn money by completing activities like filming everyday tasks or recording themselves speaking in another language.",
+      "imageUrl": "https://images.unsplash.com/photo-1676299081847-824916de030a?w=800&q=80",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/03/19/doordash-launches-a-new-tasks-app-that-pays-couriers-to-submit-videos-to-train-ai/",
+      "publishedAt": "2026-03-19T16:14:00.000Z"
+    },
+    {
+      "id": "mg99l7",
+      "title": "ChatGPT’s ‘Adult Mode’ Could Spark a New Era of Intimate Surveillance",
+      "summary": "OpenAI plans to allow sexting with ChatGPT. A human-AI interaction expert warns of a privacy nightmare.",
+      "imageUrl": "https://media.wired.com/photos/69bc088492c0fea2c0434768/master/pass/GettyImages-2220923493.jpg",
+      "source": "Wired",
+      "sourceUrl": "https://www.wired.com/story/chatgpt-adult-mode-new-era-of-intimate-surveillance/",
+      "publishedAt": "2026-03-19T16:06:49.000Z"
+    },
     {
       "id": "aj89w2",
       "title": "TechCrunch Startup Battlefield 200 nominations are still open",
@@ -57,10 +111,10 @@
       "publishedAt": "2026-03-19T12:17:02.000Z"
     },
     {
-      "id": "e36f4x",
-      "title": "A $5 million prize awaits proof that quantum computers can solve health care problems",
+      "id": "7fzeaf",
+      "title": "Can quantum computers now solve health care problems? We’ll soon find out.",
       "summary": "I’m standing in front of a quantum computer built out of atoms and light at the UK’s National Quantum Computing Centre on the outskirts of Oxford. On a laboratory table, a complex matrix of mirrors and lenses surrounds a Rubik’s Cube–size cell where 100 cesium atoms are suspended in grid formation by a carefully manipulated…",
-      "imageUrl": "https://images.unsplash.com/photo-1531746790095-6c10a4031c5f?w=800&q=80",
+      "imageUrl": "https://images.unsplash.com/photo-1550751827-4bd374c3f58b?w=800&q=80",
       "source": "MIT Tech Review",
       "sourceUrl": "https://www.technologyreview.com/2026/03/19/1134409/a-5-million-prize-awaits-proof-that-quantum-computers-can-solve-health-care-problems/",
       "publishedAt": "2026-03-19T10:51:43.000Z"
@@ -69,7 +123,7 @@
       "id": "5ixkm3",
       "title": "The Fight to Hold AI Companies Accountable for Children’s Deaths",
       "summary": "After a series of suicides allegedly linked to AI chatbots, one lawyer is trying to hold companies like OpenAI accountable.",
-      "imageUrl": "https://media.wired.com/photos/699503a3222c28198015e17e/master/pass/LMG-FOR-WIRED-Business-FINAL-SELECTS-7.jpg",
+      "imageUrl": "https://media.wired.com/photos/69bc2b5dec2e92eafec7b778/master/pass/LMG-FOR-WIRED-Business-FINAL-SELECTS-5.jpg",
       "source": "Wired",
       "sourceUrl": "https://www.wired.com/story/how-ai-chatbots-drove-families-to-the-brink-and-the-lawyer-fighting-back/",
       "publishedAt": "2026-03-19T10:00:00.000Z"
@@ -86,7 +140,7 @@
     {
       "id": "jkyslu",
       "title": "Multiverse Computing pushes its compressed AI models into the mainstream",
-      "summary": "After compressing models from major AI labs including OpenAI, Meta, DeepSeek and Mistral AI, Multiverse Computing has launched both an app that showcases the capabilities of its compressed models and an API that makes them more widely available.",
+      "summary": "After compressing models from major AI labs, including OpenAI, Meta, DeepSeek, and Mistral AI, Multiverse Computing has launched both an app that showcases the capabilities of its compressed models and an API that makes them more widely available.",
       "imageUrl": "https://images.unsplash.com/photo-1655720828018-edd2daec9349?w=800&q=80",
       "source": "TechCrunch",
       "sourceUrl": "https://techcrunch.com/2026/03/19/multiverse-computing-pushes-its-compressed-ai-models-into-the-mainstream/",
@@ -210,33 +264,6 @@
       "publishedAt": "2026-03-18T16:00:00.000Z"
     },
     {
-      "id": "s88u0d",
-      "title": "Sequen snags $16M to bring TikTok-style personalization tech to any consumer company",
-      "summary": "With its Series A, Sequen is bringing its proprietary AI ranking and personalization technology to large consumer business.",
-      "imageUrl": "https://images.unsplash.com/photo-1635070041078-e363dbe005cb?w=800&q=80",
-      "source": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/03/18/sequen-snags-16m-to-bring-tiktok-style-personalization-tech-to-any-consumer-company/",
-      "publishedAt": "2026-03-18T15:58:50.000Z"
-    },
-    {
-      "id": "xge7cb",
-      "title": "Microsoft hires the team of Sequoia-backed AI collaboration platform, Cove",
-      "summary": "AI collaboration startup Cove is shutting down after its team joined Microsoft, with service ending April 1 and customer data set for deletion.",
-      "imageUrl": "https://images.unsplash.com/photo-1485827404703-89b55fcc595e?w=800&q=80",
-      "source": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/03/18/microsoft-hires-the-team-of-sequioa-backed-ai-collaboration-platform-cove/",
-      "publishedAt": "2026-03-18T15:33:49.000Z"
-    },
-    {
-      "id": "bydzfc",
-      "title": "The PhD students who became the judges of the AI industry",
-      "summary": "Artificial intelligence models are multiplying fast, and competition is stiff. With so many players crowding the space, which one will be the best — and who decides that? Arena, formerly LM Arena, has emerged as the de facto public leaderboard for frontier LLMs, influencing funding, launches, and PR cycles. In just seven months, the startup went from a UC Berkeley PhD research […]",
-      "imageUrl": "https://images.unsplash.com/photo-1620712943543-bcc4688e7485?w=800&q=80",
-      "source": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/podcast/the-phd-students-who-became-the-judges-of-the-ai-industry/",
-      "publishedAt": "2026-03-18T15:00:00.000Z"
-    },
-    {
       "id": "i2b76w",
       "title": "The Download: The Pentagon’s new AI plans, and next-gen nuclear reactors",
       "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. The Pentagon is planning for AI companies to train on classified data, defense official says The Pentagon plans to set up secure environments for generative AI companies to train military-specific versions of their…",
@@ -354,15 +381,6 @@
       "publishedAt": "2026-03-17T10:00:00.000Z"
     },
     {
-      "id": "m8i4zb",
-      "title": "DLSS 5 looks like a real-time generative AI filter for video games",
-      "summary": "Nvidia announced DLSS 5 on Monday during its GTC conference, and based on early reactions, it's going to be a divisive update, with some reactions calling it \"slop\" that unacceptably alters artistic intent. Nvidia CEO Jensen Huang is calling this the \"GPT moment for graphics - blending hand-crafted rendering with generative AI to deliver a dramatic leap in visual realism while preserving the control artists need for creative expression.\" In games that support DLSS 5, the tools can immediately…",
-      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/03/grokashcroft.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "source": "The Verge",
-      "sourceUrl": "https://www.theverge.com/news/895472/nvidia-dlss5-generative-ai-pc-graphics",
-      "publishedAt": "2026-03-16T21:56:05.000Z"
-    },
-    {
       "id": "s6nfc5",
       "title": "Where OpenAI’s technology could show up in Iran",
       "summary": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here. It’s been just over two weeks since OpenAI reached a controversial agreement to allow the Pentagon to use its AI in classified environments. There are still pressing questions about what exactly OpenAI’s…",
@@ -415,24 +433,6 @@
       "source": "Wired",
       "sourceUrl": "https://www.wired.com/story/google-ai-searches-love-to-refer-you-back-to-google/",
       "publishedAt": "2026-03-13T12:31:55.000Z"
-    },
-    {
-      "id": "gsjz3v",
-      "title": "China’s OpenClaw Boom Is a Gold Rush for AI Companies",
-      "summary": "Hype around the open source agent is driving people to rent cloud servers and buy AI subscriptions just to try it, creating a windfall for tech companies.",
-      "imageUrl": "https://media.wired.com/photos/69af4032df27a642d70d9a52/master/pass/Made-In-China-China-Going-All-in-on-OpenClaw-Business-2260596359.jpg",
-      "source": "Wired",
-      "sourceUrl": "https://www.wired.com/story/china-is-going-all-in-on-openclaw/",
-      "publishedAt": "2026-03-13T12:00:00.000Z"
-    },
-    {
-      "id": "h7sopi",
-      "title": "Gamers’ Worst Nightmares About AI Are Coming True",
-      "summary": "From the global RAM shortage driving up console prices to job loss in the industry, gaming is shaping up to be one of the AI boom's biggest casualties.",
-      "imageUrl": "https://media.wired.com/photos/69af25ebb25d3d9157fd32fb/master/pass/AI-Swallowing-Gaming-Culture.jpg",
-      "source": "Wired",
-      "sourceUrl": "https://www.wired.com/story/gamers-ai-nightmares-are-coming-true/",
-      "publishedAt": "2026-03-13T11:00:00.000Z"
     },
     {
       "id": "999120",
