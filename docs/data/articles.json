@@ -1,7 +1,43 @@
 {
-  "fetchedAt": "2026-03-19T11:42:12.821Z",
+  "fetchedAt": "2026-03-19T13:24:37.719Z",
   "count": 60,
   "articles": [
+    {
+      "id": "tjb9v5",
+      "title": "Adobe’s AI image generator can now be trained on your own art",
+      "summary": "Just feed your images into the bot and it’ll try to mimic specific styles and aesthetics. | Image: Adobe Adobe is launching customizable AI image generators that can mimic specific artistic styles and character designs. The Firefly Custom Models are available in public beta starting today, allowing creators and brands to train a model on their own assets to ensure generated images follow a consistent aesthetic for characters, illustrations, and photography. The tool aims to streamline workflows…",
+      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/03/Firefly-Custom-Models-Hero-Image.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "source": "The Verge",
+      "sourceUrl": "https://www.theverge.com/tech/897243/adobe-firefly-ai-custom-models-image-public-beta",
+      "publishedAt": "2026-03-19T13:00:00.000Z"
+    },
+    {
+      "id": "f5rdg5",
+      "title": "Amazon brings Alexa+ to the UK",
+      "summary": "The company is currently letting users in the U.K. try out Alexa+ for free via an early access program.",
+      "imageUrl": "https://images.unsplash.com/photo-1550751827-4bd374c3f58b?w=800&q=80",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/03/19/amazon-brings-alexa-to-the-uk/",
+      "publishedAt": "2026-03-19T12:27:24.000Z"
+    },
+    {
+      "id": "bttu24",
+      "title": "Fitbit’s AI health coach will soon be able to read your medical records",
+      "summary": "Would you share your medical records with a personal trainer? How about a virtual one? Google, which this week announced it is giving Fitbit's AI health coach the ability to read your medical records, is hoping the answer is yes, following rivals like Amazon, OpenAI, and Microsoft in betting that users are willing to trade their most sensitive data in exchange for more personalized health advice. Starting next month in preview, US Fitbit users will be able to link their medical records to the…",
+      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/03/Fitbit_STK151_01.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "source": "The Verge",
+      "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/897250/fitbits-ai-health-coach-reads-medical-records",
+      "publishedAt": "2026-03-19T12:27:23.000Z"
+    },
+    {
+      "id": "e4f7x1",
+      "title": "The Download: Quantum computing for health, and why the world doesn’t recycle more nuclear waste",
+      "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. A $5 million prize awaits proof that quantum computers can solve health care problems In a laboratory on the outskirts of Oxford, a quantum computer built from atoms and light awaits…",
+      "imageUrl": "https://images.unsplash.com/photo-1655720828018-edd2daec9349?w=800&q=80",
+      "source": "MIT Tech Review",
+      "sourceUrl": "https://www.technologyreview.com/2026/03/19/1134413/the-download-quantum-computing-health-recycling-nuclear-waste/",
+      "publishedAt": "2026-03-19T12:17:02.000Z"
+    },
     {
       "id": "e36f4x",
       "title": "A $5 million prize awaits proof that quantum computers can solve health care problems",
@@ -237,15 +273,6 @@
       "publishedAt": "2026-03-17T22:30:46.000Z"
     },
     {
-      "id": "wdiq8h",
-      "title": "Mistral bets on ‘build-your-own AI’ as it takes on OpenAI, Anthropic in the enterprise",
-      "summary": "Mistral Forge lets enterprises train custom AI models from scratch on their own data, challenging rivals that rely on fine-tuning and retrieval-based approaches.",
-      "imageUrl": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=800&q=80",
-      "source": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/03/17/mistral-forge-nvidia-gtc-build-your-own-ai-enterprise/",
-      "publishedAt": "2026-03-17T21:00:00.000Z"
-    },
-    {
       "id": "jao7kc",
       "title": "Nvidia’s DLSS 5 is like motion smoothing for video games, but worse",
       "summary": "Yesterday Nvidia revealed its latest upscaling tech, called DLSS 5, which it described as \"the company's most significant breakthrough in computer graphics since the debut of real-time ray tracing in 2018.\" Sounds good, until you actually see it. According to Nvidia, the tech \"infuses pixels with photoreal lighting and materials,\" but all anyone seemed to notice was that it turned recognizable faces into something resembling AI slop. Resident Evil Requiem protagonist Grace got a makeover that…",
@@ -327,24 +354,6 @@
       "publishedAt": "2026-03-16T21:56:05.000Z"
     },
     {
-      "id": "wqtw5j",
-      "title": "Teens sue Elon Musk’s xAI over Grok’s AI-generated CSAM",
-      "summary": "Three Tennessee teens are suing Elon Musk's xAI over claims that the company's Grok AI chatbot generated sexualized images and videos of themselves as minors, as reported earlier by The Washington Post. The proposed class action lawsuit, filed on Monday, accuses Musk and other xAI leaders of knowing that Grok would produce AI-generated child sexual abuse material (CSAM) when launching its \"spicy mode\" last year. The plaintiffs include two minors and an adult who was underage when the events in…",
-      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/05/STK262_GROK_B_C.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "source": "The Verge",
-      "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/895639/xai-grok-teens-lawsuit-grok-ai-elon-musk",
-      "publishedAt": "2026-03-16T21:44:11.000Z"
-    },
-    {
-      "id": "muxxj0",
-      "title": "Benjamin Netanyahu is struggling to prove he’s not an AI clone",
-      "summary": "Deepfake rumors started after social media users claimed Netanyahu is depicted in this video with six fingers on his right hand (seen left). | Image: Israel Government Press Office Social media platforms are currently awash with conspiracy theories claiming that Benjamin Netanyahu has been killed or injured and replaced by AI-generated deepfakes. Between clips that supposedly show the Israeli prime minister sporting extra fingers and drinking from a bottomless, gravity-defying cup of coffee,…",
-      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/03/Benjamin-Netanyahu-alleged-ai-deepfake-hed.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "source": "The Verge",
-      "sourceUrl": "https://www.theverge.com/tech/895453/ai-deepfake-netanyahu-claims-conspiracy",
-      "publishedAt": "2026-03-16T20:41:55.000Z"
-    },
-    {
       "id": "s6nfc5",
       "title": "Where OpenAI’s technology could show up in Iran",
       "summary": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here. It’s been just over two weeks since OpenAI reached a controversial agreement to allow the Pentagon to use its AI in classified environments. There are still pressing questions about what exactly OpenAI’s…",
@@ -370,15 +379,6 @@
       "source": "MIT Tech Review",
       "sourceUrl": "https://www.technologyreview.com/2026/03/16/1134301/the-download-glass-ai-chips-ai-free-logo/",
       "publishedAt": "2026-03-16T12:35:00.000Z"
-    },
-    {
-      "id": "vqefgc",
-      "title": "Securing digital assets against future threats",
-      "summary": "Read the full article from MIT Tech Review.",
-      "imageUrl": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=800&q=80",
-      "source": "MIT Tech Review",
-      "sourceUrl": "https://www.technologyreview.com/2026/03/16/1134287/securing-digital-assets-against-future-threats/",
-      "publishedAt": "2026-03-16T11:00:00.000Z"
     },
     {
       "id": "f4xlfx",
