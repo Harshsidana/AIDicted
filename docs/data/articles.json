@@ -1,7 +1,25 @@
 {
-  "fetchedAt": "2026-03-18T22:39:58.756Z",
+  "fetchedAt": "2026-03-19T02:55:04.448Z",
   "count": 60,
   "articles": [
+    {
+      "id": "vcbgox",
+      "title": "Meta is having trouble with rogue AI agents",
+      "summary": "A rogue AI agent inadvertently exposed Meta company and user data to engineers who didn't have permission to see it.",
+      "imageUrl": "https://images.unsplash.com/photo-1550751827-4bd374c3f58b?w=800&q=80",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/03/18/meta-is-having-trouble-with-rogue-ai-agents/",
+      "publishedAt": "2026-03-18T23:42:46.000Z"
+    },
+    {
+      "id": "mypc1m",
+      "title": "Sam Altman’s thank-you to coders draws the memes",
+      "summary": "Altman expresses gratitude for people who knew how to write their code from scratch. The internet replies with salty jokes.",
+      "imageUrl": "https://images.unsplash.com/photo-1635070041078-e363dbe005cb?w=800&q=80",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/03/18/sam-altmans-thank-you-to-coders-draws-the-memes/",
+      "publishedAt": "2026-03-18T23:12:58.000Z"
+    },
     {
       "id": "1j8sxy",
       "title": "Nothing CEO Carl Pei says smartphone apps will disappear as AI agents take their place",
@@ -201,15 +219,6 @@
       "publishedAt": "2026-03-17T20:50:04.000Z"
     },
     {
-      "id": "9wxgt7",
-      "title": "The Pentagon is developing alternatives to Anthropic, report says",
-      "summary": "After their dramatic falling-out, it doesn't seem as though Anthropic and the Pentagon are getting back together.",
-      "imageUrl": "https://images.unsplash.com/photo-1620712943543-bcc4688e7485?w=800&q=80",
-      "source": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/03/17/the-pentagon-is-developing-alternatives-to-anthropic-report-says/",
-      "publishedAt": "2026-03-17T18:20:15.000Z"
-    },
-    {
       "id": "jao7kc",
       "title": "Nvidia’s DLSS 5 is like motion smoothing for video games, but worse",
       "summary": "Yesterday Nvidia revealed its latest upscaling tech, called DLSS 5, which it described as \"the company's most significant breakthrough in computer graphics since the debut of real-time ray tracing in 2018.\" Sounds good, until you actually see it. According to Nvidia, the tech \"infuses pixels with photoreal lighting and materials,\" but all anyone seemed to notice was that it turned recognizable faces into something resembling AI slop. Resident Evil Requiem protagonist Grace got a makeover that…",
@@ -217,15 +226,6 @@
       "source": "The Verge",
       "sourceUrl": "https://www.theverge.com/entertainment/896213/nvidia-dlss-5-ai-faces-motion-smoothing",
       "publishedAt": "2026-03-17T18:00:00.000Z"
-    },
-    {
-      "id": "k1bgyg",
-      "title": "BuzzFeed debuts AI slop apps in bid for new revenue",
-      "summary": "BuzzFeed unveiled new AI-powered social apps at SXSW, but its demos drew muted reactions.",
-      "imageUrl": "https://images.unsplash.com/photo-1550751827-4bd374c3f58b?w=800&q=80",
-      "source": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/03/17/buzzfeed-ai-slop-apps-sxsw-bf-island-conjure/",
-      "publishedAt": "2026-03-17T17:17:15.000Z"
     },
     {
       "id": "5r6sbj",
