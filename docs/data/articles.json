@@ -1,7 +1,16 @@
 {
-  "fetchedAt": "2026-03-19T13:24:37.719Z",
+  "fetchedAt": "2026-03-19T14:30:23.913Z",
   "count": 60,
   "articles": [
+    {
+      "id": "wo018x",
+      "title": "Signal’s Creator Is Helping Encrypt Meta AI",
+      "summary": "Moxie Marlinspike says the technology powering his encrypted AI chatbot, Confer, will be integrated into Meta AI. The move could help protect the AI conversations of millions of people.",
+      "imageUrl": "https://media.wired.com/photos/69baacb648cfa1aefb918759/master/pass/GettyImages-2263125077.jpg",
+      "source": "Wired",
+      "sourceUrl": "https://www.wired.com/story/signals-creator-is-helping-encrypt-meta-ai/",
+      "publishedAt": "2026-03-19T14:09:51.000Z"
+    },
     {
       "id": "tjb9v5",
       "title": "Adobe’s AI image generator can now be trained on your own art",
@@ -424,15 +433,6 @@
       "source": "Wired",
       "sourceUrl": "https://www.wired.com/story/gamers-ai-nightmares-are-coming-true/",
       "publishedAt": "2026-03-13T11:00:00.000Z"
-    },
-    {
-      "id": "17j94y",
-      "title": "Palantir Demos Show How the Military Could Use AI Chatbots to Generate War Plans",
-      "summary": "Software demos and Pentagon records detail how chatbots like Anthropic’s Claude could help the Pentagon analyze intelligence and suggest next steps.",
-      "imageUrl": "https://media.wired.com/photos/69af2189bf4114a40fa286f0/master/pass/How-Palantir-Deploys-Claude-for-US%20Military-Business-2256533238.jpg",
-      "source": "Wired",
-      "sourceUrl": "https://www.wired.com/story/palantir-demos-show-how-the-military-can-use-ai-chatbots-to-generate-war-plans/",
-      "publishedAt": "2026-03-13T10:00:00.000Z"
     },
     {
       "id": "999120",
