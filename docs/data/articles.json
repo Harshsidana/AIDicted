@@ -1,7 +1,34 @@
 {
-  "fetchedAt": "2026-03-19T09:55:56.324Z",
+  "fetchedAt": "2026-03-19T11:42:12.821Z",
   "count": 60,
   "articles": [
+    {
+      "id": "e36f4x",
+      "title": "A $5 million prize awaits proof that quantum computers can solve health care problems",
+      "summary": "I’m standing in front of a quantum computer built out of atoms and light at the UK’s National Quantum Computing Centre on the outskirts of Oxford. On a laboratory table, a complex matrix of mirrors and lenses surrounds a Rubik’s Cube–size cell where 100 cesium atoms are suspended in grid formation by a carefully manipulated…",
+      "imageUrl": "https://images.unsplash.com/photo-1531746790095-6c10a4031c5f?w=800&q=80",
+      "source": "MIT Tech Review",
+      "sourceUrl": "https://www.technologyreview.com/2026/03/19/1134409/a-5-million-prize-awaits-proof-that-quantum-computers-can-solve-health-care-problems/",
+      "publishedAt": "2026-03-19T10:51:43.000Z"
+    },
+    {
+      "id": "5ixkm3",
+      "title": "The Fight to Hold AI Companies Accountable for Children’s Deaths",
+      "summary": "After a series of suicides allegedly linked to AI chatbots, one lawyer is trying to hold companies like OpenAI accountable.",
+      "imageUrl": "https://media.wired.com/photos/699503a3222c28198015e17e/master/pass/LMG-FOR-WIRED-Business-FINAL-SELECTS-7.jpg",
+      "source": "Wired",
+      "sourceUrl": "https://www.wired.com/story/how-ai-chatbots-drove-families-to-the-brink-and-the-lawyer-fighting-back/",
+      "publishedAt": "2026-03-19T10:00:00.000Z"
+    },
+    {
+      "id": "vpkyuj",
+      "title": "Why the world doesn’t recycle more nuclear waste",
+      "summary": "The prospect of making trash useful is always fascinating to me. Whether it’s used batteries, solar panels, or spent nuclear fuel, getting use out of something destined for disposal sounds like a win all around. In nuclear energy, figuring out what to do with waste has always been a challenge, since the material needs to…",
+      "imageUrl": "https://images.unsplash.com/photo-1550751827-4bd374c3f58b?w=800&q=80",
+      "source": "MIT Tech Review",
+      "sourceUrl": "https://www.technologyreview.com/2026/03/19/1134399/nuclear-waste-reprocessing/",
+      "publishedAt": "2026-03-19T10:00:00.000Z"
+    },
     {
       "id": "jkyslu",
       "title": "Multiverse Computing pushes its compressed AI models into the mainstream",
@@ -372,15 +399,6 @@
       "publishedAt": "2026-03-13T20:18:08.000Z"
     },
     {
-      "id": "s3mzde",
-      "title": "Why physical AI is becoming manufacturing’s next advantage",
-      "summary": "For decades, manufacturers have pursued automation to drive efficiency, reduce costs, and stabilize operations. That approach delivered meaningful gains, but it is no longer enough. Today’s manufacturing leaders face a different challenge: how to grow amid labor constraints, rising complexity, and increasing pressure to innovate faster without sacrificing safety, quality, or trust. The next phase…",
-      "imageUrl": "https://images.unsplash.com/photo-1620712943543-bcc4688e7485?w=800&q=80",
-      "source": "MIT Tech Review",
-      "sourceUrl": "https://www.technologyreview.com/2026/03/13/1134184/why-physical-ai-is-becoming-manufacturings-next-advantage/",
-      "publishedAt": "2026-03-13T15:16:55.000Z"
-    },
-    {
       "id": "jfl969",
       "title": "Google's AI Search Results Love to Refer You Back to Google",
       "summary": "The company's generative AI search tools increasingly cite its own services, like Google Search and YouTube, over third-party publishers.",
@@ -388,15 +406,6 @@
       "source": "Wired",
       "sourceUrl": "https://www.wired.com/story/google-ai-searches-love-to-refer-you-back-to-google/",
       "publishedAt": "2026-03-13T12:31:55.000Z"
-    },
-    {
-      "id": "3jaytp",
-      "title": "The Download: how AI is used for military targeting, and the Pentagon’s war on Claude",
-      "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. Defense official reveals how AI chatbots could be used for targeting decisions The US military might use generative AI systems to rank targets and recommend which to strike first, according to a Defense Department…",
-      "imageUrl": "https://images.unsplash.com/photo-1676299081847-824916de030a?w=800&q=80",
-      "source": "MIT Tech Review",
-      "sourceUrl": "https://www.technologyreview.com/2026/03/13/1134278/the-download-defense-official-ai-chatbots-targeting-pentagon-claude-pollute-military-supply-chain/",
-      "publishedAt": "2026-03-13T12:16:56.000Z"
     },
     {
       "id": "gsjz3v",
@@ -433,15 +442,6 @@
       "source": "Ars Technica",
       "sourceUrl": "https://arstechnica.com/security/2026/03/whats-known-about-wiper-attack-on-stryker-a-major-supplier-of-lifesaving-devices/",
       "publishedAt": "2026-03-12T22:18:11.000Z"
-    },
-    {
-      "id": "fqxxrl",
-      "title": "‘Uncanny Valley’: Anthropic’s DOD Lawsuit, War Memes, and AI Coming for VC Jobs",
-      "summary": "In today’s episode, we discuss how the saga between Anthropic and the Department of Defense is far from over.",
-      "imageUrl": "https://media.wired.com/photos/69b1c94d9fd417e67bc5b52b/master/pass/Uncanny-Valley-Anthropic-vs-DoD-Business-2256654494.jpg",
-      "source": "Wired",
-      "sourceUrl": "https://www.wired.com/story/uncanny-valley-podcast-anthropic-department-defense-lawsuit-iran-war-memes-artificial-intelligence-venture-capital/",
-      "publishedAt": "2026-03-12T19:48:21.000Z"
     },
     {
       "id": "55s",
