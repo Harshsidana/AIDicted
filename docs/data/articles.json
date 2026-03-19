@@ -1,7 +1,16 @@
 {
-  "fetchedAt": "2026-03-19T21:05:09.607Z",
+  "fetchedAt": "2026-03-19T21:56:57.890Z",
   "count": 60,
   "articles": [
+    {
+      "id": "m2ybek",
+      "title": "‘Uncanny Valley’: Nvidia’s ‘Super Bowl of AI,’ Tesla Disappoints, and Meta’s VR Metaverse ‘Shutdown’",
+      "summary": "In this episode, we dive into Nvidia’s annual developer conference and what CEO Jensen Huang is saying about the future of the company.",
+      "imageUrl": "https://media.wired.com/photos/69bb27db20b5c90983327a6a/master/pass/Uncanny-Valley-Nvida-GTC-Business-2266590803.jpg",
+      "source": "Wired",
+      "sourceUrl": "https://www.wired.com/story/uncanny-valley-podcast-nvidia-gtc-tesla-disappointed-fans-meta-horizon-worlds/",
+      "publishedAt": "2026-03-19T21:43:56.000Z"
+    },
     {
       "id": "4qf948",
       "title": "Online bot traffic will exceed human traffic by 2027, Cloudflare CEO says",
@@ -424,15 +433,6 @@
       "source": "Ars Technica",
       "sourceUrl": "https://arstechnica.com/security/2026/03/supply-chain-attack-using-invisible-code-hits-github-and-other-repositories/",
       "publishedAt": "2026-03-13T20:18:08.000Z"
-    },
-    {
-      "id": "jfl969",
-      "title": "Google's AI Search Results Love to Refer You Back to Google",
-      "summary": "The company's generative AI search tools increasingly cite its own services, like Google Search and YouTube, over third-party publishers.",
-      "imageUrl": "https://media.wired.com/photos/69b2ee5feadc91f592dc322f/master/pass/shutterstock_2668436833.jpg",
-      "source": "Wired",
-      "sourceUrl": "https://www.wired.com/story/google-ai-searches-love-to-refer-you-back-to-google/",
-      "publishedAt": "2026-03-13T12:31:55.000Z"
     },
     {
       "id": "999120",
