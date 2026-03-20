@@ -1,7 +1,70 @@
 {
-  "fetchedAt": "2026-03-20T11:55:51.339Z",
+  "fetchedAt": "2026-03-20T15:11:48.877Z",
   "count": 60,
   "articles": [
+    {
+      "id": "sx5j95",
+      "title": "At Palantir’s Developer Conference, AI Is Built to Win Wars",
+      "summary": "As business soars, Palantir is doubling down on a vision of AI built for battlefield advantage—and attracting customers who agree.",
+      "imageUrl": "https://media.wired.com/photos/69bc605080392585c27a64b6/master/pass/Backchannel-Inside-Mind-of-Palantir-Business-2249768392.jpg",
+      "source": "Wired",
+      "sourceUrl": "https://www.wired.com/story/palantir-developer-conference-ai-war-alex-karp/",
+      "publishedAt": "2026-03-20T15:00:00.000Z"
+    },
+    {
+      "id": "f21fcd",
+      "title": "Google Search is now using AI to replace headlines",
+      "summary": "Since roughly the turn of the millennium, Google Search has been the bedrock of the web. People loved Google's trustworthy \"10 blue links\" search experience and its unspoken promise: The website you click is the website you get. Now, Google is beginning to replace news headlines in its search results with ones that are AI-generated. After doing something similar in its Google Discover news feed, it's starting to mess with headlines in the traditional \"10 blue links,\" too. We've found multiple…",
+      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/10455389/mdoying_180117_2249_0206stills.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "source": "The Verge",
+      "sourceUrl": "https://www.theverge.com/tech/896490/google-replace-news-headlines-in-search-canary-coal-mine-experiment",
+      "publishedAt": "2026-03-20T14:30:00.000Z"
+    },
+    {
+      "id": "700sal",
+      "title": "Amazon is making an Alexa phone",
+      "summary": "Over 10 years after shelving the Fire Phone, Amazon is reportedly planning to launch another smartphone, this time focused on Alexa. According to Reuters, the phone, which is code-named \"Transformer,\" will center around Amazon's AI assistant, but Alexa won't \"necessarily be the primary operating system of the phone.\" \"Transformer\" is currently in development in Amazon's ZeroOne group, led by J Allard, who previously worked on the Zune and Xbox at Microsoft. Allard's team has reportedly explored…",
+      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/09/acastro_STK103__03.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "source": "The Verge",
+      "sourceUrl": "https://www.theverge.com/tech/897915/amazon-transformer-alexa-phone",
+      "publishedAt": "2026-03-20T13:42:51.000Z"
+    },
+    {
+      "id": "y1bmze",
+      "title": "Why people really hate AI",
+      "summary": "There's a big, and increasing, disconnect in culture right now when it comes to artificial intelligence. Companies of all shapes and sizes are hunting for places to deploy AI and can't stop talking about how this new technology will change everything. But when you ask people about AI, the consistent response is: no thanks. Study after study shows people are worried about the effects of AI and simply don't find the technology worth all the downsides. Verge subscribers, don't forget you get…",
+      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/03/VRG_VST_0320_Site.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "source": "The Verge",
+      "sourceUrl": "https://www.theverge.com/podcast/897900/ai-trust-gap-killer-app-vergecast",
+      "publishedAt": "2026-03-20T13:27:53.000Z"
+    },
+    {
+      "id": "357zki",
+      "title": "The Download: OpenAI is building a fully automated researcher, and a psychedelic trial blind spot",
+      "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. OpenAI is throwing everything into building a fully automated researcher OpenAI has a new grand challenge: building an AI researcher—a fully automated agent-based system capable of tackling large, complex problems by…",
+      "imageUrl": "https://images.unsplash.com/photo-1676299081847-824916de030a?w=800&q=80",
+      "source": "MIT Tech Review",
+      "sourceUrl": "https://www.technologyreview.com/2026/03/20/1134448/the-download-openai-building-fully-automated-researcher-psychedelic-drug-trial/",
+      "publishedAt": "2026-03-20T13:15:45.000Z"
+    },
+    {
+      "id": "9cnrdv",
+      "title": "The best AI investment might be in energy tech",
+      "summary": "Power has become one of the biggest bottlenecks in rolling out new AI data centers. That's creating an opening for investors.",
+      "imageUrl": "https://images.unsplash.com/photo-1485827404703-89b55fcc595e?w=800&q=80",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/03/20/the-best-ai-investment-might-be-in-energy-tech/",
+      "publishedAt": "2026-03-20T12:00:00.000Z"
+    },
+    {
+      "id": "xbl6r",
+      "title": "OpenAI is throwing everything into building a fully automated researcher",
+      "summary": "OpenAI is refocusing its research efforts and throwing its resources into a new grand challenge. The San Francisco firm has set its sights on building what it calls an AI researcher, a fully automated agent-based system that will be able to go off and tackle large, complex problems by itself. ​​OpenAI says that the new…",
+      "imageUrl": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=800&q=80",
+      "source": "MIT Tech Review",
+      "sourceUrl": "https://www.technologyreview.com/2026/03/20/1134438/openai-is-throwing-everything-into-building-a-fully-automated-researcher/",
+      "publishedAt": "2026-03-20T11:57:16.000Z"
+    },
     {
       "id": "3ipx8j",
       "title": "These AI notetaking devices can help you record and transcribe your meetings",
@@ -21,9 +84,9 @@
       "publishedAt": "2026-03-20T10:30:00.000Z"
     },
     {
-      "id": "i1za1m",
-      "title": "LinkedIn Invited My AI 'Cofounder' to Give a Corporate Talk—Then Banned It",
-      "summary": "When social media is constantly exhorting people to use AI, what is the point of not letting AI agents participate?",
+      "id": "b8zpvl",
+      "title": "My AI Agent ‘Cofounder’ Conquered LinkedIn. Then It Got Banned",
+      "summary": "When social media is constantly pushing people to use AI, why not let AI agents participate?",
       "imageUrl": "https://media.wired.com/photos/69bc8173510953e5189ef6c0/master/pass/linkedin_ai_agent_company.jpg",
       "source": "Wired",
       "sourceUrl": "https://www.wired.com/story/linkedin-invited-my-ai-cofounder-to-give-a-corporate-talk-then-banned-it/",
@@ -309,15 +372,6 @@
       "publishedAt": "2026-03-18T17:15:00.000Z"
     },
     {
-      "id": "d7etaf",
-      "title": "The Gemini-powered features in Google Workspace that are worth using",
-      "summary": "From summarizing emails, drafting content, organizing data, and tracking meetings, here are all the best Gemini features in Google Workspace.",
-      "imageUrl": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=800&q=80",
-      "source": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/03/18/the-gemini-powered-features-in-google-workspace-that-are-worth-using/",
-      "publishedAt": "2026-03-18T16:43:18.000Z"
-    },
-    {
       "id": "i2b76w",
       "title": "The Download: The Pentagon’s new AI plans, and next-gen nuclear reactors",
       "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. The Pentagon is planning for AI companies to train on classified data, defense official says The Pentagon plans to set up secure environments for generative AI companies to train military-specific versions of their…",
@@ -363,15 +417,6 @@
       "publishedAt": "2026-03-17T22:30:46.000Z"
     },
     {
-      "id": "jao7kc",
-      "title": "Nvidia’s DLSS 5 is like motion smoothing for video games, but worse",
-      "summary": "Yesterday Nvidia revealed its latest upscaling tech, called DLSS 5, which it described as \"the company's most significant breakthrough in computer graphics since the debut of real-time ray tracing in 2018.\" Sounds good, until you actually see it. According to Nvidia, the tech \"infuses pixels with photoreal lighting and materials,\" but all anyone seemed to notice was that it turned recognizable faces into something resembling AI slop. Resident Evil Requiem protagonist Grace got a makeover that…",
-      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/03/Screenshot-2026-03-17-at-1.29.30%E2%80%AFPM.png?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "source": "The Verge",
-      "sourceUrl": "https://www.theverge.com/entertainment/896213/nvidia-dlss-5-ai-faces-motion-smoothing",
-      "publishedAt": "2026-03-17T18:00:00.000Z"
-    },
-    {
       "id": "5r6sbj",
       "title": "Researchers disclose vulnerabilities in IP KVMs from four manufacturers",
       "summary": "Internet-exposed devices that give BIOS-level access? What could possibly go wrong?",
@@ -381,24 +426,6 @@
       "publishedAt": "2026-03-17T17:07:12.000Z"
     },
     {
-      "id": "e3vix9",
-      "title": "Now everyone in the US is getting Google’s personalized Gemini AI",
-      "summary": "Google announced on Tuesday that all users in the US will now have access to its Personal Intelligence feature, which lets you connect various Google apps to provide context for Gemini's responses and suggestions. Access was previously limited to Google AI Pro and AI Ultra subscribers. Now, free-tier users in the US can also use Personal Intelligence through AI Mode in Search, Gemini in Chrome, and the Gemini app. However, the feature is currently only available to users on personal Google…",
-      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/01/google-gemini-ai-personal-intelligence-tire-suggestion-demo.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "source": "The Verge",
-      "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/896107/google-expands-personal-intelligence",
-      "publishedAt": "2026-03-17T16:33:41.000Z"
-    },
-    {
-      "id": "eqrenb",
-      "title": "Microsoft appoints a new Copilot boss after AI leadership shake-up",
-      "summary": "Microsoft is doing another executive shuffle today to reorganize how it engineers its Copilot assistant. Different teams have been working on the consumer and commercial sides of Copilot for years, but Microsoft is about to unify parts of them in an effort to create a more cohesive Copilot for businesses and consumers. The changes will see Microsoft AI CEO Mustafa Suleyman focus on creating Microsoft's own AI models, instead of working directly on the assistant-like features of Copilot for…",
-      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/07/STK259_MICROSOFT_COPILOT_2__C.png?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "source": "The Verge",
-      "sourceUrl": "https://www.theverge.com/news/895963/microsoft-copilot-leadership-changes-consumer-commercial",
-      "publishedAt": "2026-03-17T15:17:27.000Z"
-    },
-    {
       "id": "sz0mqt",
       "title": "The Download: OpenAI’s US military deal, and Grok’s CSAM lawsuit",
       "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. Where OpenAI’s technology could show up in Iran OpenAI has controversially agreed to give the Pentagon access to its AI. But where exactly could its tech show up, and which applications…",
@@ -406,33 +433,6 @@
       "source": "MIT Tech Review",
       "sourceUrl": "https://www.technologyreview.com/2026/03/17/1134322/the-download-openi-us-military-deal-grok-xai-csam-lawsuit/",
       "publishedAt": "2026-03-17T12:26:48.000Z"
-    },
-    {
-      "id": "fah13m",
-      "title": "How Invisalign Became the World’s Biggest User of 3D Printers",
-      "summary": "Joe Hogan, Align Technology’s plastics-nerd CEO, says you shouldn’t eat with your aligners and that you don’t need to wear your retainers every night.",
-      "imageUrl": "https://media.wired.com/photos/69a6021b9601628729405650/master/pass/CEO%20Joe%20Hogan.jpg",
-      "source": "Wired",
-      "sourceUrl": "https://www.wired.com/story/how-invisalign-became-the-worlds-biggest-3d-printing-company/",
-      "publishedAt": "2026-03-17T11:00:00.000Z"
-    },
-    {
-      "id": "s6nfc5",
-      "title": "Where OpenAI’s technology could show up in Iran",
-      "summary": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here. It’s been just over two weeks since OpenAI reached a controversial agreement to allow the Pentagon to use its AI in classified environments. There are still pressing questions about what exactly OpenAI’s…",
-      "imageUrl": "https://images.unsplash.com/photo-1620712943543-bcc4688e7485?w=800&q=80",
-      "source": "MIT Tech Review",
-      "sourceUrl": "https://www.technologyreview.com/2026/03/16/1134315/where-openais-technology-could-show-up-in-iran/",
-      "publishedAt": "2026-03-16T17:06:21.000Z"
-    },
-    {
-      "id": "6scevk",
-      "title": "Nurturing agentic AI beyond the toddler stage",
-      "summary": "Parents of young children face a lot of fears about developmental milestones, from infancy through adulthood. The number of months it takes a baby to learn to talk or walk is often used as a benchmark for wellness, or an indicator of additional tests needed to properly diagnose a potential health condition. A parent rejoices…",
-      "imageUrl": "https://images.unsplash.com/photo-1485827404703-89b55fcc595e?w=800&q=80",
-      "source": "MIT Tech Review",
-      "sourceUrl": "https://www.technologyreview.com/2026/03/16/1133979/nurturing-agentic-ai-beyond-the-toddler-stage/",
-      "publishedAt": "2026-03-16T13:00:00.000Z"
     },
     {
       "id": "e8iye0",
