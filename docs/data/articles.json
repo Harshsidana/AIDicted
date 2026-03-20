@@ -1,7 +1,25 @@
 {
-  "fetchedAt": "2026-03-20T08:02:39.862Z",
+  "fetchedAt": "2026-03-20T10:06:55.374Z",
   "count": 60,
   "articles": [
+    {
+      "id": "i1za1m",
+      "title": "LinkedIn Invited My AI 'Cofounder' to Give a Corporate Talk—Then Banned It",
+      "summary": "When social media is constantly exhorting people to use AI, what is the point of not letting AI agents participate?",
+      "imageUrl": "https://media.wired.com/photos/69bc8173510953e5189ef6c0/master/pass/linkedin_ai_agent_company.jpg",
+      "source": "Wired",
+      "sourceUrl": "https://www.wired.com/story/linkedin-invited-my-ai-cofounder-to-give-a-corporate-talk-then-banned-it/",
+      "publishedAt": "2026-03-20T10:00:00.000Z"
+    },
+    {
+      "id": "1orqtu",
+      "title": "Mind-altering substances are (still) falling short in clinical trials",
+      "summary": "This week I want to look at where we are with psychedelics, the mind-altering substances that have somehow made the leap from counterculture to major focus of clinical research. Compounds like psilocybin—which is found in magic mushrooms—are being explored for all sorts of health applications, including treatments for depression, PTSD, addiction, and even obesity. Over…",
+      "imageUrl": "https://images.unsplash.com/photo-1531746790095-6c10a4031c5f?w=800&q=80",
+      "source": "MIT Tech Review",
+      "sourceUrl": "https://www.technologyreview.com/2026/03/20/1134419/psychedelics-overhyped-psilocybin-depression-placebo/",
+      "publishedAt": "2026-03-20T09:00:00.000Z"
+    },
     {
       "id": "bl3xik",
       "title": "OpenAI is planning a desktop ‘superapp’",
@@ -415,24 +433,6 @@
       "source": "MIT Tech Review",
       "sourceUrl": "https://www.technologyreview.com/2026/03/16/1133979/nurturing-agentic-ai-beyond-the-toddler-stage/",
       "publishedAt": "2026-03-16T13:00:00.000Z"
-    },
-    {
-      "id": "rn588b",
-      "title": "The Download: glass chips and “AI-free” logos",
-      "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. Future AI chips could be built on glass Human-made glass is thousands of years old. But it’s now poised to find its way into the AI chips used in the world’s newest and…",
-      "imageUrl": "https://images.unsplash.com/photo-1655720828018-edd2daec9349?w=800&q=80",
-      "source": "MIT Tech Review",
-      "sourceUrl": "https://www.technologyreview.com/2026/03/16/1134301/the-download-glass-ai-chips-ai-free-logo/",
-      "publishedAt": "2026-03-16T12:35:00.000Z"
-    },
-    {
-      "id": "f4xlfx",
-      "title": "Models Are Applying to Be the Face of AI Scams",
-      "summary": "Dozens of Telegram channels reviewed by WIRED include job listings for “AI face models.” The (mostly) women who land these gigs are likely being used to dupe victims out of their money.",
-      "imageUrl": "https://media.wired.com/photos/699f5d34a7cb1833c2431617/master/pass/Models-Applying-to-Be-Face-of-AI-Scams-Security-115921890.jpg",
-      "source": "Wired",
-      "sourceUrl": "https://www.wired.com/story/models-are-applying-to-be-the-face-of-ai-scams/",
-      "publishedAt": "2026-03-16T09:00:00.000Z"
     },
     {
       "id": "e8iye0",
