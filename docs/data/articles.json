@@ -1,11 +1,47 @@
 {
-  "fetchedAt": "2026-03-20T19:21:56.031Z",
+  "fetchedAt": "2026-03-20T21:38:04.276Z",
   "count": 60,
   "articles": [
     {
-      "id": "y5nmth",
-      "title": "Gamers Hate Nvidia's DLSS 5. Developers Aren’t Crazy About It Either",
-      "summary": "Nvidia’s new AI upscaling gaming technology struck gamers as uncanny and off-putting. Developers don't seem to like it either, but it could be “the default” in a few years.",
+      "id": "pqsyj3",
+      "title": "Microsoft rolls back some of its Copilot AI bloat on Windows",
+      "summary": "The company is reducing Copilot entry points on Windows, starting with Photos, Widgets, Notepad, and other apps.",
+      "imageUrl": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=800&q=80",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/03/20/microsoft-rolls-back-some-of-its-copilot-ai-bloat-on-windows/",
+      "publishedAt": "2026-03-20T20:53:09.000Z"
+    },
+    {
+      "id": "2mfn6n",
+      "title": "Widely used Trivy scanner compromised in ongoing supply-chain attack",
+      "summary": "Admins: Sorry to say, but it's likely a rotate-your-secrets kind of weekend.",
+      "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2020/10/malware-1000x648.jpg",
+      "source": "Ars Technica",
+      "sourceUrl": "https://arstechnica.com/security/2026/03/widely-used-trivy-scanner-compromised-in-ongoing-supply-chain-attack/",
+      "publishedAt": "2026-03-20T20:50:46.000Z"
+    },
+    {
+      "id": "61xalv",
+      "title": "What happened at Nvidia GTC: NemoClaw, Robot Olaf, and a $1 trillion bet",
+      "summary": "CEO Jensen Huang took the stage at Nvidia’s GTC conference this week in his signature leather jacket to deliver a two-and-a-half-hour keynote, projecting $1 trillion in AI chip sales through 2027, declaring that every company needs an “OpenClaw strategy,” and closing with a rambling Olaf robot that had to get its mic cut. The message was hard to miss: Nvidia […]",
+      "imageUrl": "https://images.unsplash.com/photo-1635070041078-e363dbe005cb?w=800&q=80",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/video/what-happened-at-nvidia-gtc-nemoclaw-robot-olaf-and-a-1-trillion-bet/",
+      "publishedAt": "2026-03-20T20:02:35.000Z"
+    },
+    {
+      "id": "hr7qc3",
+      "title": "Nvidia has an OpenClaw strategy. Do you?",
+      "summary": "CEO Jensen Huang took the stage at Nvidia’s GTC conference this week in his signature leather jacket to deliver a two-and-a-half-hour keynote, projecting $1 trillion in AI chip sales through 2027, declaring that every company needs an “OpenClaw strategy,” and closing with a rambling Olaf robot that had to get its mic cut. The message was hard to miss: Nvidia […]",
+      "imageUrl": "https://images.unsplash.com/photo-1485827404703-89b55fcc595e?w=800&q=80",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/podcast/nvidia-has-an-openclaw-strategy-do-you/",
+      "publishedAt": "2026-03-20T19:48:38.000Z"
+    },
+    {
+      "id": "f288fl",
+      "title": "Gamers Hate Nvidia's DLSS 5. Developers Aren’t Crazy About It, Either",
+      "summary": "Nvidia’s new AI upscaling gaming technology struck gamers as uncanny and off-putting. Developers don't seem to like it, either, but it could be “the default” in a few years.",
       "imageUrl": "https://media.wired.com/photos/69bd423627b92679d2037984/master/pass/nvidia-dlss-5.jpeg",
       "source": "Wired",
       "sourceUrl": "https://www.wired.com/story/gamers-hate-nvidia-dlss-5-developers-arent-crazy-about-it-either/",
@@ -95,7 +131,7 @@
     {
       "id": "xbl6r",
       "title": "OpenAI is throwing everything into building a fully automated researcher",
-      "summary": "OpenAI is refocusing its research efforts and throwing its resources into a new grand challenge. The San Francisco firm has set its sights on building what it calls an AI researcher, a fully automated agent-based system that will be able to go off and tackle large, complex problems by itself. ​​OpenAI says that the new…",
+      "summary": "OpenAI is refocusing its research efforts and throwing its resources into a new grand challenge. The San Francisco firm has set its sights on building what it calls an AI researcher, a fully automated agent-based system that will be able to go off and tackle large, complex problems by itself. ​​OpenAI says that this new…",
       "imageUrl": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=800&q=80",
       "source": "MIT Tech Review",
       "sourceUrl": "https://www.technologyreview.com/2026/03/20/1134438/openai-is-throwing-everything-into-building-a-fully-automated-researcher/",
@@ -327,33 +363,6 @@
       "publishedAt": "2026-03-18T23:42:46.000Z"
     },
     {
-      "id": "mypc1m",
-      "title": "Sam Altman’s thank-you to coders draws the memes",
-      "summary": "Altman expresses gratitude for people who knew how to write their code from scratch. The internet replies with salty jokes.",
-      "imageUrl": "https://images.unsplash.com/photo-1635070041078-e363dbe005cb?w=800&q=80",
-      "source": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/03/18/sam-altmans-thank-you-to-coders-draws-the-memes/",
-      "publishedAt": "2026-03-18T23:12:58.000Z"
-    },
-    {
-      "id": "1j8sxy",
-      "title": "Nothing CEO Carl Pei says smartphone apps will disappear as AI agents take their place",
-      "summary": "Nothing CEO Carl Pei says AI agents will eventually replace apps, shifting smartphones toward systems that understand intent and act on a user's behalf.",
-      "imageUrl": "https://images.unsplash.com/photo-1635070041078-e363dbe005cb?w=800&q=80",
-      "source": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/03/18/nothing-ceo-carl-pei-says-smartphone-apps-will-disappear-as-ai-agents-take-their-place/",
-      "publishedAt": "2026-03-18T20:30:52.000Z"
-    },
-    {
-      "id": "tiwuj1",
-      "title": "Nvidia is quietly building a multibillion-dollar behemoth to rival its chips business",
-      "summary": "Nvidia's networking business raked in $11 billion last quarter despite getting significantly less fanfare than chips and gaming.",
-      "imageUrl": "https://images.unsplash.com/photo-1676299081847-824916de030a?w=800&q=80",
-      "source": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/03/18/nvidia-networking-division-building-a-multibillion-dollar-behemoth-to-rival-its-chips-business/",
-      "publishedAt": "2026-03-18T20:01:19.000Z"
-    },
-    {
       "id": "1fxib",
       "title": "David Sacks’ big Iran warning gets big time ignored",
       "summary": "Sec. Scott Bessent, President Donald Trump, and David Sacks during The White House Digital Assets Summit in Washington, DC, on Friday, March 7, 2025. | Chris Kleponis/CNP/Bloomberg via Getty Images Hello and welcome to Regulator, a newsletter for Verge subscribers about the politics of technology and the technology of politics - now landing in your inbox on Wednesdays! If someone has forwarded this email to you, and you're not a Verge subscriber yet, you should sign up right here, and not just…",
@@ -532,15 +541,6 @@
       "source": "Ars Technica",
       "sourceUrl": "https://arstechnica.com/security/2026/02/password-managers-promise-that-they-cant-see-your-vaults-isnt-always-true/",
       "publishedAt": "2026-02-17T20:43:01.000Z"
-    },
-    {
-      "id": "qjz2gd",
-      "title": "Most VMware users still \"actively reducing their VMware footprint,\" survey finds",
-      "summary": "Broadcom's \"strategy was never to keep every customer,\" CloudBolt report says.",
-      "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2026/02/GettyImages-2188662122-1024x648.jpg",
-      "source": "Ars Technica",
-      "sourceUrl": "https://arstechnica.com/information-technology/2026/02/most-vmware-users-still-actively-reducing-their-vmware-footprint-survey-finds/",
-      "publishedAt": "2026-02-17T18:38:10.000Z"
     }
   ]
 }
