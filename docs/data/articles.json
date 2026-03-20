@@ -1,7 +1,43 @@
 {
-  "fetchedAt": "2026-03-20T16:08:07.321Z",
+  "fetchedAt": "2026-03-20T19:21:56.031Z",
   "count": 60,
   "articles": [
+    {
+      "id": "y5nmth",
+      "title": "Gamers Hate Nvidia's DLSS 5. Developers Aren’t Crazy About It Either",
+      "summary": "Nvidia’s new AI upscaling gaming technology struck gamers as uncanny and off-putting. Developers don't seem to like it either, but it could be “the default” in a few years.",
+      "imageUrl": "https://media.wired.com/photos/69bd423627b92679d2037984/master/pass/nvidia-dlss-5.jpeg",
+      "source": "Wired",
+      "sourceUrl": "https://www.wired.com/story/gamers-hate-nvidia-dlss-5-developers-arent-crazy-about-it-either/",
+      "publishedAt": "2026-03-20T19:13:19.000Z"
+    },
+    {
+      "id": "o65kzj",
+      "title": "Trump takes another shot at dismantling state AI regulation",
+      "summary": "The Trump administration on Friday unveiled its new legislative blueprint for AI regulation, and the seven-point plan includes a clear message: The federal government should avoid many AI regulations beyond a set of child safety rules, and it should bar states from messing with the \"national strategy to achieve global AI dominance.\" The plan advises Congress to protect minors using AI services with more safeguards and take action to attempt to prevent electricity costs from spiking due to AI…",
+      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/02/STK470_AI_LAW_CVIRGINIA_C.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "source": "The Verge",
+      "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/898055/trump-new-ai-policy-framework",
+      "publishedAt": "2026-03-20T18:17:02.000Z"
+    },
+    {
+      "id": "t1rrzy",
+      "title": "WordPress.com now lets AI agents write and publish posts, and more",
+      "summary": "New AI agents on WordPress.com could lower barriers to publishing while increasing machine-generated content across the web.",
+      "imageUrl": "https://images.unsplash.com/photo-1676299081847-824916de030a?w=800&q=80",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/03/20/wordpress-com-now-lets-ai-agents-write-and-publish-posts-and-more/",
+      "publishedAt": "2026-03-20T16:43:09.000Z"
+    },
+    {
+      "id": "r1mu3r",
+      "title": "Trump’s AI framework targets state laws, shifts child safety burden to parents",
+      "summary": "Trump’s AI framework pushes federal preemption of state laws, emphasizes innovation, and shifts responsibility for child safety toward parents while laying out lighter-touch rules for tech companies.",
+      "imageUrl": "https://images.unsplash.com/photo-1485827404703-89b55fcc595e?w=800&q=80",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/03/20/trumps-ai-framework-targets-state-laws-shifts-child-safety-burden-to-parents/",
+      "publishedAt": "2026-03-20T16:14:04.000Z"
+    },
     {
       "id": "sx5j95",
       "title": "At Palantir’s Developer Conference, AI Is Built to Win Wars",
@@ -345,15 +381,6 @@
       "publishedAt": "2026-03-18T18:01:18.000Z"
     },
     {
-      "id": "g3upv",
-      "title": "Patreon CEO calls AI companies’ fair use argument ‘bogus,’ says creators should be paid",
-      "summary": "Patreon CEO Jack Conte says AI companies should pay creators for training data, arguing their fair use defense falls apart when they license content from major publishers.",
-      "imageUrl": "https://images.unsplash.com/photo-1531746790095-6c10a4031c5f?w=800&q=80",
-      "source": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/03/18/patreon-ceo-calls-ai-companies-fair-use-argument-bogus-says-creators-should-be-paid/",
-      "publishedAt": "2026-03-18T17:54:31.000Z"
-    },
-    {
       "id": "ku8rv9",
       "title": "Federal cyber experts called Microsoft's cloud a \"pile of shit,\" approved it anyway",
       "summary": "One Microsoft product was approved despite years of concerns about its security.",
@@ -361,15 +388,6 @@
       "source": "Ars Technica",
       "sourceUrl": "https://arstechnica.com/information-technology/2026/03/federal-cyber-experts-called-microsofts-cloud-a-pile-of-shit-approved-it-anyway/",
       "publishedAt": "2026-03-18T17:36:40.000Z"
-    },
-    {
-      "id": "9ms72p",
-      "title": "Rebel Audio is a new AI podcasting tool aimed at first-time creators",
-      "summary": "Rebel Audio is a new all-in-one podcasting tool that allows creators to record podcasts, edit, clip content for social, and publish episodes, all without ever leaving the platform.",
-      "imageUrl": "https://images.unsplash.com/photo-1550751827-4bd374c3f58b?w=800&q=80",
-      "source": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/03/18/rebel-audio-is-a-new-ai-podcasting-tool-aimed-at-first-time-creators/",
-      "publishedAt": "2026-03-18T17:15:00.000Z"
     },
     {
       "id": "i2b76w",
@@ -381,15 +399,6 @@
       "publishedAt": "2026-03-18T12:38:00.000Z"
     },
     {
-      "id": "zfmj9m",
-      "title": "DLSS 5: Has Nvidia’s AI graphics technology gone too far?",
-      "summary": "Nvidia has revealed a new “3D guided neural rendering model” called DLSS 5 that can change a game’s lighting and materials in real-time, and… many gamers aren’t happy. From DLSS 5 memes to complaints about how it’s “yassified” Resident Evil Requiem characters in demos, the first impression has not been a good one, no matter how much Nvidia insists that this pursuit of photorealism is still honoring the original artists’ intent. Follow along below for all the latest updates about Nvidia’s DLSS 5…",
-      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/03/screencapture-nvidia-en-us-geforce-news-dlss5-breakthrough-in-visual-fidelity-for-games-nvidia-dlss-5-resident-evil-requiem-geforce-rtx-comparison-screenshot-001-2026-03-17-20_21_56.png?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "source": "The Verge",
-      "sourceUrl": "https://www.theverge.com/games/896518/nvidia-dlss-5-ai-3d-rendering",
-      "publishedAt": "2026-03-18T12:30:00.000Z"
-    },
-    {
       "id": "a4k3rn",
       "title": "What do new nuclear reactors mean for waste?",
       "summary": "MIT Technology Review Explains: Let our writers untangle the complex, messy world of technology to help you understand what’s coming next. You can read more from the series here. The way the world currently deals with nuclear waste is as creative as it is varied: Drown it in water pools, encase it in steel, bury…",
@@ -397,15 +406,6 @@
       "source": "MIT Tech Review",
       "sourceUrl": "https://www.technologyreview.com/2026/03/18/1134345/advanced-nuclear-reactors-waste/",
       "publishedAt": "2026-03-18T09:00:00.000Z"
-    },
-    {
-      "id": "w9ygw1",
-      "title": "Justice Department Says Anthropic Can’t Be Trusted With Warfighting Systems",
-      "summary": "In response to Anthropic’s lawsuit, the government said it lawfully penalized the company for trying to limit how its Claude AI models could be used by the military.",
-      "imageUrl": "https://media.wired.com/photos/69b9b3b8a5694fbea42e1cf8/master/pass/buisness_DOD_Anthropic_GettyImages-2265262796.jpg",
-      "source": "Wired",
-      "sourceUrl": "https://www.wired.com/story/department-of-defense-responds-to-anthropic-lawsuit/",
-      "publishedAt": "2026-03-18T00:51:14.000Z"
     },
     {
       "id": "lwz97m",
