@@ -1,7 +1,25 @@
 {
-  "fetchedAt": "2026-03-21T08:43:33.586Z",
+  "fetchedAt": "2026-03-21T10:36:53.562Z",
   "count": 60,
   "articles": [
+    {
+      "id": "kiacnx",
+      "title": "Cyberattack on a Car Breathalyzer Firm Leaves Drivers Stuck",
+      "summary": "Plus: The FBI admits it’s buying phone data to track Americans, Iranian hackers disrupt medical care at Maryland hospitals, and more.",
+      "imageUrl": "https://media.wired.com/photos/69bd936664f16d66cf6343e0/master/pass/Security-Roundup-Hacked-Breathalyzer-Security-523525124.jpg",
+      "source": "Wired",
+      "sourceUrl": "https://www.wired.com/story/security-news-this-week-cyberattack-on-a-car-breathalyzer-firm-leaves-drivers-stuck/",
+      "publishedAt": "2026-03-21T10:30:00.000Z"
+    },
+    {
+      "id": "uqx6vk",
+      "title": "'Jury Duty Presents: Company Retreat' Almost Makes Corporate Culture Seem Fun",
+      "summary": "The Amazon Prime prank series amplifies the hijinks of workplace dynamics, while showing how people find purpose—and community—in their jobs despite impossible situations.",
+      "imageUrl": "https://media.wired.com/photos/69bc59fc89c1dde02548b3cf/master/pass/Jury-Duty-2-Culture-TCDJUDU_ZU012.jpg",
+      "source": "Wired",
+      "sourceUrl": "https://www.wired.com/story/jury-duty-presents-company-retreat-almost-makes-corporate-culture-seem-fun/",
+      "publishedAt": "2026-03-21T10:00:00.000Z"
+    },
     {
       "id": "obb91r",
       "title": "New court filing reveals Pentagon told Anthropic the two sides were nearly aligned — a week after Trump declared the relationship kaput",
@@ -282,15 +300,6 @@
       "publishedAt": "2026-03-19T16:14:00.000Z"
     },
     {
-      "id": "mg99l7",
-      "title": "ChatGPT’s ‘Adult Mode’ Could Spark a New Era of Intimate Surveillance",
-      "summary": "OpenAI plans to allow sexting with ChatGPT. A human-AI interaction expert warns of a privacy nightmare.",
-      "imageUrl": "https://media.wired.com/photos/69bc088492c0fea2c0434768/master/pass/GettyImages-2220923493.jpg",
-      "source": "Wired",
-      "sourceUrl": "https://www.wired.com/story/chatgpt-adult-mode-new-era-of-intimate-surveillance/",
-      "publishedAt": "2026-03-19T16:06:49.000Z"
-    },
-    {
       "id": "aj89w2",
       "title": "TechCrunch Startup Battlefield 200 nominations are still open",
       "summary": "Nominate your startup, or one you know, for TechCrunch Startup Battlefield 200 before May 27. Chance to win $100,000 equity-free funding and VC access.",
@@ -298,15 +307,6 @@
       "source": "TechCrunch",
       "sourceUrl": "https://techcrunch.com/2026/03/19/techcrunch-startup-battlefield-200-nominations-are-still-open/",
       "publishedAt": "2026-03-19T15:00:00.000Z"
-    },
-    {
-      "id": "wo018x",
-      "title": "Signal’s Creator Is Helping Encrypt Meta AI",
-      "summary": "Moxie Marlinspike says the technology powering his encrypted AI chatbot, Confer, will be integrated into Meta AI. The move could help protect the AI conversations of millions of people.",
-      "imageUrl": "https://media.wired.com/photos/69baacb648cfa1aefb918759/master/pass/GettyImages-2263125077.jpg",
-      "source": "Wired",
-      "sourceUrl": "https://www.wired.com/story/signals-creator-is-helping-encrypt-meta-ai/",
-      "publishedAt": "2026-03-19T14:09:51.000Z"
     },
     {
       "id": "tjb9v5",
