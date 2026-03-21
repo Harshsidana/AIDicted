@@ -1,7 +1,25 @@
 {
-  "fetchedAt": "2026-03-20T23:37:05.513Z",
+  "fetchedAt": "2026-03-21T02:39:28.040Z",
   "count": 60,
   "articles": [
+    {
+      "id": "obb91r",
+      "title": "New court filing reveals Pentagon told Anthropic the two sides were nearly aligned — a week after Trump declared the relationship kaput",
+      "summary": "Anthropic submitted two sworn declarations to a California federal court late Friday afternoon, pushing back on the Pentagon's assertion that the AI company poses an \"unacceptable risk to national security\" and arguing that the government's case relies on technical misunderstandings and claims that were never actually raised during the months of negotiations.",
+      "imageUrl": "https://images.unsplash.com/photo-1485827404703-89b55fcc595e?w=800&q=80",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/03/20/new-court-filing-reveals-pentagon-told-anthropic-the-two-sides-were-nearly-aligned-a-week-after-trump-declared-the-relationship-kaput/",
+      "publishedAt": "2026-03-21T01:40:28.000Z"
+    },
+    {
+      "id": "i6aydn",
+      "title": "Anthropic Denies It Could Sabotage AI Tools During War",
+      "summary": "The Department of Defense alleges the AI developer could manipulate models in the middle of war. Company executives argue that’s impossible.",
+      "imageUrl": "https://media.wired.com/photos/69bdd83054a6d8f67d317f75/master/pass/Anthropic-Denies-It-Could-Sabotage-AI-Tools-In-Middle-of-War-Business.jpg",
+      "source": "Wired",
+      "sourceUrl": "https://www.wired.com/story/anthropic-denies-sabotage-ai-tools-war-claude/",
+      "publishedAt": "2026-03-21T00:03:20.000Z"
+    },
     {
       "id": "g79722",
       "title": "There Aren’t a Lot of Reasons to Get Excited About a New Amazon Smartphone",
@@ -336,15 +354,6 @@
       "publishedAt": "2026-03-19T10:51:43.000Z"
     },
     {
-      "id": "5ixkm3",
-      "title": "The Fight to Hold AI Companies Accountable for Children’s Deaths",
-      "summary": "After a series of suicides allegedly linked to AI chatbots, one lawyer is trying to hold companies like OpenAI accountable.",
-      "imageUrl": "https://media.wired.com/photos/69bc2b5dec2e92eafec7b778/master/pass/LMG-FOR-WIRED-Business-FINAL-SELECTS-5.jpg",
-      "source": "Wired",
-      "sourceUrl": "https://www.wired.com/story/how-ai-chatbots-drove-families-to-the-brink-and-the-lawyer-fighting-back/",
-      "publishedAt": "2026-03-19T10:00:00.000Z"
-    },
-    {
       "id": "vpkyuj",
       "title": "Why the world doesn’t recycle more nuclear waste",
       "summary": "The prospect of making trash useful is always fascinating to me. Whether it’s used batteries, solar panels, or spent nuclear fuel, getting use out of something destined for disposal sounds like a win all around. In nuclear energy, figuring out what to do with waste has always been a challenge, since the material needs to…",
@@ -361,15 +370,6 @@
       "source": "TechCrunch",
       "sourceUrl": "https://techcrunch.com/2026/03/19/multiverse-computing-pushes-its-compressed-ai-models-into-the-mainstream/",
       "publishedAt": "2026-03-19T08:00:00.000Z"
-    },
-    {
-      "id": "vcbgox",
-      "title": "Meta is having trouble with rogue AI agents",
-      "summary": "A rogue AI agent inadvertently exposed Meta company and user data to engineers who didn't have permission to see it.",
-      "imageUrl": "https://images.unsplash.com/photo-1550751827-4bd374c3f58b?w=800&q=80",
-      "source": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/03/18/meta-is-having-trouble-with-rogue-ai-agents/",
-      "publishedAt": "2026-03-18T23:42:46.000Z"
     },
     {
       "id": "1fxib",
