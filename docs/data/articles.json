@@ -1,7 +1,25 @@
 {
-  "fetchedAt": "2026-03-21T13:59:38.634Z",
+  "fetchedAt": "2026-03-21T16:39:48.411Z",
   "count": 60,
   "articles": [
+    {
+      "id": "vapfvx",
+      "title": "Why Wall Street wasn’t won over by Nvidia’s big conference",
+      "summary": "Despite investor fears of an AI bubble, Nvidia's latest conference shows that most in the industry aren't concerned by that possibility.",
+      "imageUrl": "https://images.unsplash.com/photo-1620712943543-bcc4688e7485?w=800&q=80",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/03/21/why-wall-street-wasnt-won-over-by-nvidias-big-conference/",
+      "publishedAt": "2026-03-21T16:28:00.000Z"
+    },
+    {
+      "id": "q1gzw7",
+      "title": "The gen AI Kool-Aid tastes like eugenics",
+      "summary": "Like many people, director Valerie Veatch was intrigued when OpenAI first released its Sora text-to-video generative AI model to the public in 2024. Though she didn't fully understand the technology, she was curious about what it could do, and she saw that other artists were building online communities to share their new AI creations. The hope of connecting with people drew Veatch into the AI space, but once she was there, she was shocked to see how often the technology would generate images…",
+      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/03/ai-label.png?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "source": "The Verge",
+      "sourceUrl": "https://www.theverge.com/entertainment/897923/ghost-in-the-machine-valerie-veatch-interview",
+      "publishedAt": "2026-03-21T14:00:00.000Z"
+    },
     {
       "id": "8frc76",
       "title": "Gemini task automation is slow, clunky, and super impressive",
@@ -370,24 +388,6 @@
       "source": "MIT Tech Review",
       "sourceUrl": "https://www.technologyreview.com/2026/03/19/1134399/nuclear-waste-reprocessing/",
       "publishedAt": "2026-03-19T10:00:00.000Z"
-    },
-    {
-      "id": "jkyslu",
-      "title": "Multiverse Computing pushes its compressed AI models into the mainstream",
-      "summary": "After compressing models from major AI labs, including OpenAI, Meta, DeepSeek, and Mistral AI, Multiverse Computing has launched both an app that showcases the capabilities of its compressed models and an API that makes them more widely available.",
-      "imageUrl": "https://images.unsplash.com/photo-1655720828018-edd2daec9349?w=800&q=80",
-      "source": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/03/19/multiverse-computing-pushes-its-compressed-ai-models-into-the-mainstream/",
-      "publishedAt": "2026-03-19T08:00:00.000Z"
-    },
-    {
-      "id": "1fxib",
-      "title": "David Sacks’ big Iran warning gets big time ignored",
-      "summary": "Sec. Scott Bessent, President Donald Trump, and David Sacks during The White House Digital Assets Summit in Washington, DC, on Friday, March 7, 2025. | Chris Kleponis/CNP/Bloomberg via Getty Images Hello and welcome to Regulator, a newsletter for Verge subscribers about the politics of technology and the technology of politics - now landing in your inbox on Wednesdays! If someone has forwarded this email to you, and you're not a Verge subscriber yet, you should sign up right here, and not just…",
-      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/03/gettyimages-2203279318.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "source": "The Verge",
-      "sourceUrl": "https://www.theverge.com/column/896949/regulator-david-sacks-iran-polymarket",
-      "publishedAt": "2026-03-18T18:44:21.000Z"
     },
     {
       "id": "ku8rv9",
