@@ -1,7 +1,52 @@
 {
-  "fetchedAt": "2026-03-22T14:00:46.363Z",
+  "fetchedAt": "2026-03-22T19:33:25.946Z",
   "count": 60,
   "articles": [
+    {
+      "id": "ark3w5",
+      "title": "Cursor admits its new coding model was built on top of Moonshot AI’s Kimi",
+      "summary": "Building on top of a Chinese model feels particularly fraught right now.",
+      "imageUrl": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=800&q=80",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/03/22/cursor-admits-its-new-coding-model-was-built-on-top-of-moonshot-ais-kimi/",
+      "publishedAt": "2026-03-22T18:41:09.000Z"
+    },
+    {
+      "id": "dfju59",
+      "title": "Crimson Desert dev apologizes for use of AI art",
+      "summary": "That’s some sloppy looking slop. | Image: Rex_Spy / Reddit Reviews of Crimson Desert have been mixed, but the bigger issue for the game has been the discovery of what appeared to be AI-generated assets in the final release. Now the developer has acknowledged that AI art was indeed used during the game's creation, but says that it was intended to be replaced before release. In a statement on X, the company said it was conducting a \"comprehensive audit\" to identify and replace any AI-generated…",
+      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/03/found-this-ai-painting-v0-otfba7ufh8qg1.webp?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "source": "The Verge",
+      "sourceUrl": "https://www.theverge.com/games/898771/crimson-desert-dev-apologizes-ai-art",
+      "publishedAt": "2026-03-22T17:34:34.000Z"
+    },
+    {
+      "id": "kw1dk8",
+      "title": "Elon Musk unveils chip manufacturing plans for SpaceX and Tesla",
+      "summary": "Elon Musk recently outlined ambitious plans for a chip-building collaboration Tesla and SpaceX — but he has a history of overpromising.",
+      "imageUrl": "https://images.unsplash.com/photo-1655720828018-edd2daec9349?w=800&q=80",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/03/22/elon-musk-unveils-chip-manufacturing-plans-for-spacex-and-tesla/",
+      "publishedAt": "2026-03-22T16:20:00.000Z"
+    },
+    {
+      "id": "d0mdv5",
+      "title": "Delve accused of misleading customers with ‘fake compliance’",
+      "summary": "An anonymous Substack post accuses compliance startup Delve of “falsely” convincing “hundreds of customers they were compliant” with privacy and security regulations.",
+      "imageUrl": "https://images.unsplash.com/photo-1635070041078-e363dbe005cb?w=800&q=80",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/03/22/delve-accused-of-misleading-customers-with-fake-compliance/",
+      "publishedAt": "2026-03-22T14:43:51.000Z"
+    },
+    {
+      "id": "ehxd1r",
+      "title": "Musk says he’s building Terafab chip plant in Austin, Texas",
+      "summary": "Grok, how do you make chips? | Image: Laura Normand / The Verge Elon Musk announced plans to build a Terafab plant in Austin, Texas, that will be jointly run by Tesla and SpaceX. The goal is to eventually build chips at scale for robotics, artificial intelligence, and space-based data centers for Musk's various companies. Musk has expressed concern, as have other executives, about the chip industry's ability to keep up with demand as the AI industry has boomed. But building a chip fabrication…",
+      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/02/STK171_VRG_Illo_15_Normand_ElonMusk_15.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "source": "The Verge",
+      "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/898722/musk-terafab-chip-plant",
+      "publishedAt": "2026-03-22T14:06:48.000Z"
+    },
     {
       "id": "kf1c0e",
       "title": "An exclusive tour of Amazon’s Trainium lab, the chip that’s won over Anthropic, OpenAI, even Apple",
@@ -37,15 +82,6 @@
       "source": "TechCrunch",
       "sourceUrl": "https://techcrunch.com/2026/03/21/publisher-pulls-horror-novel-shy-girl-over-ai-concerns/",
       "publishedAt": "2026-03-21T19:30:27.000Z"
-    },
-    {
-      "id": "69zyry",
-      "title": "Delve accused of misleading customers with ‘fake compliance’",
-      "summary": "An anonymous Substack post accuses compliance startup Delve of “falsely” convincing “hundreds of customers they were compliant” with privacy and security regulations.",
-      "imageUrl": "https://images.unsplash.com/photo-1635070041078-e363dbe005cb?w=800&q=80",
-      "source": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/03/21/delve-accused-of-misleading-customers-with-fake-compliance/",
-      "publishedAt": "2026-03-21T17:00:05.000Z"
     },
     {
       "id": "vapfvx",
@@ -309,15 +345,6 @@
       "publishedAt": "2026-03-20T00:09:38.000Z"
     },
     {
-      "id": "ckqm3p",
-      "title": "Jeff Bezos reportedly wants $100 billion to buy and transform old manufacturing firms with AI",
-      "summary": "The Amazon magnate has a new project centered around acquiring industrial firms and revamping them with AI technology.",
-      "imageUrl": "https://images.unsplash.com/photo-1620712943543-bcc4688e7485?w=800&q=80",
-      "source": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/03/19/jeff-bezos-reportedly-wants-100-billion-to-buy-and-transform-old-manufacturing-firms-with-ai/",
-      "publishedAt": "2026-03-19T22:09:24.000Z"
-    },
-    {
       "id": "m2ybek",
       "title": "‘Uncanny Valley’: Nvidia’s ‘Super Bowl of AI,’ Tesla Disappoints, and Meta’s VR Metaverse ‘Shutdown’",
       "summary": "In this episode, we dive into Nvidia’s annual developer conference and what CEO Jensen Huang is saying about the future of the company.",
@@ -334,33 +361,6 @@
       "source": "Ars Technica",
       "sourceUrl": "https://arstechnica.com/information-technology/2026/03/cloud-service-providers-ask-eu-regulator-to-reinstate-vmware-partner-program/",
       "publishedAt": "2026-03-19T21:29:53.000Z"
-    },
-    {
-      "id": "4qf948",
-      "title": "Online bot traffic will exceed human traffic by 2027, Cloudflare CEO says",
-      "summary": "AI bots may outnumber humans online by 2027, says Cloudflare CEO Matthew Prince, as generative AI agents dramatically increase web traffic and infrastructure demands.",
-      "imageUrl": "https://images.unsplash.com/photo-1620712943543-bcc4688e7485?w=800&q=80",
-      "source": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/03/19/online-bot-traffic-will-exceed-human-traffic-by-2027-cloudflare-ceo-says/",
-      "publishedAt": "2026-03-19T19:09:02.000Z"
-    },
-    {
-      "id": "3p2u39",
-      "title": "A rogue AI led to a serious security incident at Meta",
-      "summary": "For almost two hours last week, Meta employees had unauthorized access to company and user data thanks to an AI agent that gave an employee inaccurate technical advice, as previously reported by The Information. Meta spokesperson Tracy Clayton said in a statement to The Verge that \"no user data was mishandled\" during the incident. A Meta engineer was using an internal AI agent, which Clayton described as \"similar in nature to OpenClaw within a secure development environment,\" to analyze a…",
-      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/10/STK043_VRG_Illo_N_Barclay_4_Meta.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "source": "The Verge",
-      "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/897528/meta-rogue-ai-agent-security-incident",
-      "publishedAt": "2026-03-19T18:20:05.000Z"
-    },
-    {
-      "id": "tjb9v5",
-      "title": "Adobe’s AI image generator can now be trained on your own art",
-      "summary": "Just feed your images into the bot and it’ll try to mimic specific styles and aesthetics. | Image: Adobe Adobe is launching customizable AI image generators that can mimic specific artistic styles and character designs. The Firefly Custom Models are available in public beta starting today, allowing creators and brands to train a model on their own assets to ensure generated images follow a consistent aesthetic for characters, illustrations, and photography. The tool aims to streamline workflows…",
-      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/03/Firefly-Custom-Models-Hero-Image.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "source": "The Verge",
-      "sourceUrl": "https://www.theverge.com/tech/897243/adobe-firefly-ai-custom-models-image-public-beta",
-      "publishedAt": "2026-03-19T13:00:00.000Z"
     },
     {
       "id": "e4f7x1",
