@@ -1,7 +1,25 @@
 {
-  "fetchedAt": "2026-03-23T12:04:47.016Z",
+  "fetchedAt": "2026-03-23T13:56:19.755Z",
   "count": 60,
   "articles": [
+    {
+      "id": "tit5jl",
+      "title": "Confronting the CEO of the AI company that impersonated me",
+      "summary": "Today, I’m talking with Shishir Mehrotra, who is CEO of Superhuman — that’s the company formerly known as Grammarly, which is still its flagship product. Shishir also used to be the chief product officer at YouTube, and he’s on the board of directors at Spotify. He’s a fascinating guy, and we actually scheduled this interview a month or so ago, thinking we’d talk about AI and what it’s doing to software, platforms, and creativity pretty broadly. Verge subscribers, don’t forget you get exclusive…",
+      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/03/DCD-Shishir-Mehotra.png?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "source": "The Verge",
+      "sourceUrl": "https://www.theverge.com/podcast/898715/superhuman-grammarly-expert-review-shishir-mehrotra-interview-ai-impersonation",
+      "publishedAt": "2026-03-23T13:30:00.000Z"
+    },
+    {
+      "id": "gk9o6k",
+      "title": "The Download: animal welfare gets AGI-pilled, and the White House unveils its AI policy",
+      "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. The Bay Area’s animal welfare movement wants to recruit AI In early February, animal welfare advocates and AI researchers arrived in stocking feet at Mox, a scrappy, shoes-free coworking space in…",
+      "imageUrl": "https://images.unsplash.com/photo-1655720828018-edd2daec9349?w=800&q=80",
+      "source": "MIT Tech Review",
+      "sourceUrl": "https://www.technologyreview.com/2026/03/23/1134509/the-download-animal-welfare-agi-pilled-white-house-unveils-ai-policy/",
+      "publishedAt": "2026-03-23T12:17:33.000Z"
+    },
     {
       "id": "kw277f",
       "title": "Meet the Gods of AI Warfare",
@@ -309,15 +327,6 @@
       "publishedAt": "2026-03-20T13:42:51.000Z"
     },
     {
-      "id": "y1bmze",
-      "title": "Why people really hate AI",
-      "summary": "There's a big, and increasing, disconnect in culture right now when it comes to artificial intelligence. Companies of all shapes and sizes are hunting for places to deploy AI and can't stop talking about how this new technology will change everything. But when you ask people about AI, the consistent response is: no thanks. Study after study shows people are worried about the effects of AI and simply don't find the technology worth all the downsides. Verge subscribers, don't forget you get…",
-      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/03/VRG_VST_0320_Site.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "source": "The Verge",
-      "sourceUrl": "https://www.theverge.com/podcast/897900/ai-trust-gap-killer-app-vergecast",
-      "publishedAt": "2026-03-20T13:27:53.000Z"
-    },
-    {
       "id": "357zki",
       "title": "The Download: OpenAI is building a fully automated researcher, and a psychedelic trial blind spot",
       "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. OpenAI is throwing everything into building a fully automated researcher OpenAI has a new grand challenge: building an AI researcher—a fully automated agent-based system capable of tackling large, complex problems by…",
@@ -424,15 +433,6 @@
       "source": "MIT Tech Review",
       "sourceUrl": "https://www.technologyreview.com/2026/03/18/1134345/advanced-nuclear-reactors-waste/",
       "publishedAt": "2026-03-18T09:00:00.000Z"
-    },
-    {
-      "id": "lwz97m",
-      "title": "The Pentagon is planning for AI companies to train on classified data, defense official says",
-      "summary": "The Pentagon is discussing plans to set up secure environments for generative AI companies to train military-specific versions of their models on classified data, MIT Technology Review has learned. AI models like Anthropic’s Claude are already used to answer questions in classified settings; applications include analyzing targets in Iran. But allowing models to train on…",
-      "imageUrl": "https://images.unsplash.com/photo-1676299081847-824916de030a?w=800&q=80",
-      "source": "MIT Tech Review",
-      "sourceUrl": "https://www.technologyreview.com/2026/03/17/1134351/the-pentagon-is-planning-for-ai-companies-to-train-on-classified-data-defense-official-says/",
-      "publishedAt": "2026-03-17T22:30:46.000Z"
     },
     {
       "id": "5r6sbj",
