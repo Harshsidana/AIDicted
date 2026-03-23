@@ -1,14 +1,68 @@
 {
-  "fetchedAt": "2026-03-23T15:06:47.657Z",
+  "fetchedAt": "2026-03-23T19:05:31.644Z",
   "count": 60,
   "articles": [
     {
-      "id": "ppx1n0",
-      "title": "Sam Altman-backed fusion startup Helion in talks with OpenAI",
-      "summary": "Helion is reportedly negotiating a deal that would see it sell 12.5% of its power output to OpenAI.",
-      "imageUrl": "https://images.unsplash.com/photo-1550751827-4bd374c3f58b?w=800&q=80",
+      "id": "sziagi",
+      "title": "Vibe-coding startup Lovable is on the hunt for acquisitions",
+      "summary": "Lovable's founder said the fast-growing vibe coding startup is looking for startups and teams to join its company.",
+      "imageUrl": "https://images.unsplash.com/photo-1485827404703-89b55fcc595e?w=800&q=80",
       "source": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/03/23/sam-altman-backed-fusion-startup-helion-in-talks-with-openai/",
+      "sourceUrl": "https://techcrunch.com/2026/03/23/vibe-coding-startup-lovable-is-on-the-hunt-for-acquisitions/",
+      "publishedAt": "2026-03-23T18:22:04.000Z"
+    },
+    {
+      "id": "yyupqy",
+      "title": "Apple sets June date for WWDC 2026, teasing ‘AI advancements’",
+      "summary": "Apple will host its next Worldwide Developers Conference the week of June 8. The company is expected to announce major updates to Siri with advanced AI capabilities.",
+      "imageUrl": "https://images.unsplash.com/photo-1676299081847-824916de030a?w=800&q=80",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/03/23/apple-wwdc-june-8-12-ai-advancements-siri-developers-conference/",
+      "publishedAt": "2026-03-23T18:00:45.000Z"
+    },
+    {
+      "id": "4nmfc7",
+      "title": "The hardest question to answer about AI-fueled delusions",
+      "summary": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here. I was originally going to write this week’s newsletter about AI and Iran, particularly the news we broke last Tuesday that the Pentagon is making plans for AI companies to train on…",
+      "imageUrl": "https://images.unsplash.com/photo-1526374965328-7f61d4dc18c5?w=800&q=80",
+      "source": "MIT Tech Review",
+      "sourceUrl": "https://www.technologyreview.com/2026/03/23/1134527/the-hardest-question-to-answer-about-ai-fueled-delusions/",
+      "publishedAt": "2026-03-23T16:31:20.000Z"
+    },
+    {
+      "id": "cpq2a5",
+      "title": "Startup Gimlet Labs is solving the AI inference bottleneck in a surprisingly elegant way",
+      "summary": "Gimlet Labs just raised an $80 million Series A for tech that lets AI run across NVIDIA, AMD, Intel, ARM, Cerebras and d-Matrix chips, simultaneously.",
+      "imageUrl": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=800&q=80",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/03/23/startup-gimlet-labs-is-solving-the-ai-inference-bottleneck-in-a-surprisingly-elegant-way/",
+      "publishedAt": "2026-03-23T16:00:00.000Z"
+    },
+    {
+      "id": "x6dav0",
+      "title": "Littlebird raises $11M for its AI-assisted ‘recall’ tool that reads your computer screen",
+      "summary": "Littlebird is building an AI that reads your screen in real time to capture context, answer questions, and automate tasks, without relying on screenshots.",
+      "imageUrl": "https://images.unsplash.com/photo-1531746790095-6c10a4031c5f?w=800&q=80",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/03/23/littlebird-raises-11m-to-capture-context-from-your-computer-so-you-can-query-your-data/",
+      "publishedAt": "2026-03-23T16:00:00.000Z"
+    },
+    {
+      "id": "142xn",
+      "title": "Elizabeth Warren calls Pentagon’s decision to bar Anthropic ‘retaliation’",
+      "summary": "In a letter to Defense Secretary Pete Hegseth, Senator Elizabeth Warren (D-MA) equated the DOD's decision to label Anthropic a \"supply-chain risk\" as retaliation, arguing that the Pentagon could simply have terminated its contract with the AI lab.",
+      "imageUrl": "https://images.unsplash.com/photo-1655720828018-edd2daec9349?w=800&q=80",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/03/23/elizabeth-warren-anthropic-pentagon-defense-supply-chain-risk-retaliation/",
+      "publishedAt": "2026-03-23T15:22:57.000Z"
+    },
+    {
+      "id": "ricmlh",
+      "title": "Sam Altman-backed fusion startup Helion in talks to sell power to OpenAI",
+      "summary": "OpenAI CEO Sam Altman is stepping down as board chair of Helion. His departure comes as reports that the two companies are negotiating a deal that would see Helion sell 12.5% of its power output to OpenAI.",
+      "imageUrl": "https://images.unsplash.com/photo-1526374965328-7f61d4dc18c5?w=800&q=80",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/03/23/sam-altman-openai-fusion-energy-board-helion/",
       "publishedAt": "2026-03-23T15:03:36.000Z"
     },
     {
@@ -237,15 +291,6 @@
       "publishedAt": "2026-03-20T22:03:09.000Z"
     },
     {
-      "id": "pqsyj3",
-      "title": "Microsoft rolls back some of its Copilot AI bloat on Windows",
-      "summary": "The company is reducing Copilot entry points on Windows, starting with Photos, Widgets, Notepad, and other apps.",
-      "imageUrl": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=800&q=80",
-      "source": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/03/20/microsoft-rolls-back-some-of-its-copilot-ai-bloat-on-windows/",
-      "publishedAt": "2026-03-20T20:53:09.000Z"
-    },
-    {
       "id": "2mfn6n",
       "title": "Widely used Trivy scanner compromised in ongoing supply-chain attack",
       "summary": "Admins: Sorry to say, but it's likely a rotate-your-secrets kind of weekend.",
@@ -253,24 +298,6 @@
       "source": "Ars Technica",
       "sourceUrl": "https://arstechnica.com/security/2026/03/widely-used-trivy-scanner-compromised-in-ongoing-supply-chain-attack/",
       "publishedAt": "2026-03-20T20:50:46.000Z"
-    },
-    {
-      "id": "61xalv",
-      "title": "What happened at Nvidia GTC: NemoClaw, Robot Olaf, and a $1 trillion bet",
-      "summary": "CEO Jensen Huang took the stage at Nvidia’s GTC conference this week in his signature leather jacket to deliver a two-and-a-half-hour keynote, projecting $1 trillion in AI chip sales through 2027, declaring that every company needs an “OpenClaw strategy,” and closing with a rambling Olaf robot that had to get its mic cut. The message was hard to miss: Nvidia […]",
-      "imageUrl": "https://images.unsplash.com/photo-1635070041078-e363dbe005cb?w=800&q=80",
-      "source": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/video/what-happened-at-nvidia-gtc-nemoclaw-robot-olaf-and-a-1-trillion-bet/",
-      "publishedAt": "2026-03-20T20:02:35.000Z"
-    },
-    {
-      "id": "hr7qc3",
-      "title": "Nvidia has an OpenClaw strategy. Do you?",
-      "summary": "CEO Jensen Huang took the stage at Nvidia’s GTC conference this week in his signature leather jacket to deliver a two-and-a-half-hour keynote, projecting $1 trillion in AI chip sales through 2027, declaring that every company needs an “OpenClaw strategy,” and closing with a rambling Olaf robot that had to get its mic cut. The message was hard to miss: Nvidia […]",
-      "imageUrl": "https://images.unsplash.com/photo-1485827404703-89b55fcc595e?w=800&q=80",
-      "source": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/podcast/nvidia-has-an-openclaw-strategy-do-you/",
-      "publishedAt": "2026-03-20T19:48:38.000Z"
     },
     {
       "id": "f288fl",
@@ -289,24 +316,6 @@
       "source": "The Verge",
       "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/898055/trump-new-ai-policy-framework",
       "publishedAt": "2026-03-20T18:17:02.000Z"
-    },
-    {
-      "id": "t1rrzy",
-      "title": "WordPress.com now lets AI agents write and publish posts, and more",
-      "summary": "New AI agents on WordPress.com could lower barriers to publishing while increasing machine-generated content across the web.",
-      "imageUrl": "https://images.unsplash.com/photo-1676299081847-824916de030a?w=800&q=80",
-      "source": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/03/20/wordpress-com-now-lets-ai-agents-write-and-publish-posts-and-more/",
-      "publishedAt": "2026-03-20T16:43:09.000Z"
-    },
-    {
-      "id": "r1mu3r",
-      "title": "Trump’s AI framework targets state laws, shifts child safety burden to parents",
-      "summary": "Trump’s AI framework pushes federal preemption of state laws, emphasizes innovation, and shifts responsibility for child safety toward parents while laying out lighter-touch rules for tech companies.",
-      "imageUrl": "https://images.unsplash.com/photo-1485827404703-89b55fcc595e?w=800&q=80",
-      "source": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/03/20/trumps-ai-framework-targets-state-laws-shifts-child-safety-burden-to-parents/",
-      "publishedAt": "2026-03-20T16:14:04.000Z"
     },
     {
       "id": "sx5j95",
@@ -424,15 +433,6 @@
       "source": "MIT Tech Review",
       "sourceUrl": "https://www.technologyreview.com/2026/03/18/1134371/the-download-the-pentagons-new-ai-plans-and-next-gen-nuclear-reactors/",
       "publishedAt": "2026-03-18T12:38:00.000Z"
-    },
-    {
-      "id": "a4k3rn",
-      "title": "What do new nuclear reactors mean for waste?",
-      "summary": "MIT Technology Review Explains: Let our writers untangle the complex, messy world of technology to help you understand what’s coming next. You can read more from the series here. The way the world currently deals with nuclear waste is as creative as it is varied: Drown it in water pools, encase it in steel, bury…",
-      "imageUrl": "https://images.unsplash.com/photo-1655720828018-edd2daec9349?w=800&q=80",
-      "source": "MIT Tech Review",
-      "sourceUrl": "https://www.technologyreview.com/2026/03/18/1134345/advanced-nuclear-reactors-waste/",
-      "publishedAt": "2026-03-18T09:00:00.000Z"
     },
     {
       "id": "5r6sbj",
