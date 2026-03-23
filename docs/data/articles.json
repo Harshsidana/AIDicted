@@ -1,7 +1,34 @@
 {
-  "fetchedAt": "2026-03-23T08:05:25.085Z",
+  "fetchedAt": "2026-03-23T09:39:13.718Z",
   "count": 60,
   "articles": [
+    {
+      "id": "r7vvch",
+      "title": "The AI Race Is Pressuring Utilities to Squeeze More From Europe’s Power Grids",
+      "summary": "As data center developers queue up to connect to power grids across Europe, network operators are experimenting with novel ways of clearing room for them.",
+      "imageUrl": "https://media.wired.com/photos/69bda22b3c74bb28e577eb8a/master/pass/business_ai_data_center_power_grid.jpg",
+      "source": "Wired",
+      "sourceUrl": "https://www.wired.com/story/europe-squeeze-power-energy-grid-ai-data-center/",
+      "publishedAt": "2026-03-23T09:00:00.000Z"
+    },
+    {
+      "id": "h6r5rc",
+      "title": "The Bay Area’s animal welfare movement wants to recruit AI",
+      "summary": "In early February, animal welfare advocates and AI researchers gathered in stocking feet at Mox, a scrappy, shoes-free coworking space in San Francisco. Yellow and red canopies billowed overhead, Persian rugs blanketed the floor, and mosaic lamps glowed beside potted plants. In the common area, a wildlife advocate spoke passionately to a crowd lounging in…",
+      "imageUrl": "https://images.unsplash.com/photo-1655720828018-edd2daec9349?w=800&q=80",
+      "source": "MIT Tech Review",
+      "sourceUrl": "https://www.technologyreview.com/2026/03/23/1134491/the-bay-areas-animal-welfare-movement-wants-to-recruit-ai/",
+      "publishedAt": "2026-03-23T09:00:00.000Z"
+    },
+    {
+      "id": "vkw7w8",
+      "title": "AI influencer awards season is upon us",
+      "summary": "First came the AI beauty pageant. Then the AI music contests. Now, there is an award for AI Personality of the Year - perhaps the inevitable next step for the AI influencer economy as it transforms from quirky novelty into a serious and lucrative industry. The contest, a joint venture between generative AI studio OpenArt and AI-powered creator platform Fanvue, with backing from AI voice company ElevenLabs, opens on Monday and runs for a month. The organizers said it is intended to \"celebrate the…",
+      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/03/STK414_AI_CVIRGINIA_I__0001_11.png?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "source": "The Verge",
+      "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/898781/ai-personality-of-the-year-influencer-contest",
+      "publishedAt": "2026-03-23T00:01:00.000Z"
+    },
     {
       "id": "8l3oxh",
       "title": "Do you want to build a robot snowman?",
@@ -336,24 +363,6 @@
       "publishedAt": "2026-03-20T09:00:00.000Z"
     },
     {
-      "id": "bl3xik",
-      "title": "OpenAI is planning a desktop ‘superapp’",
-      "summary": "OpenAI is working on a desktop \"superapp\" that merges its ChatGPT app, the Codex AI coding app, and its AI-powered Atlas browser into one app, The Wall Street Journal reports. The company is making the change as part of an effort to simplify its various product efforts, according to a memo cited by the WSJ from Fidji Simo, OpenAI's CEO of Applications. Fragmentation \"has been slowing us down and making it harder to hit the quality bar we want,\" Simo said. OpenAI made waves last year with splashy…",
-      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25462044/STK155_OPEN_AI_CVirginia_2_B.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "source": "The Verge",
-      "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/897778/openai-chatgpt-codex-atlas-browser-superapp",
-      "publishedAt": "2026-03-20T00:09:38.000Z"
-    },
-    {
-      "id": "m2ybek",
-      "title": "‘Uncanny Valley’: Nvidia’s ‘Super Bowl of AI,’ Tesla Disappoints, and Meta’s VR Metaverse ‘Shutdown’",
-      "summary": "In this episode, we dive into Nvidia’s annual developer conference and what CEO Jensen Huang is saying about the future of the company.",
-      "imageUrl": "https://media.wired.com/photos/69bb27db20b5c90983327a6a/master/pass/Uncanny-Valley-Nvida-GTC-Business-2266590803.jpg",
-      "source": "Wired",
-      "sourceUrl": "https://www.wired.com/story/uncanny-valley-podcast-nvidia-gtc-tesla-disappointed-fans-meta-horizon-worlds/",
-      "publishedAt": "2026-03-19T21:43:56.000Z"
-    },
-    {
       "id": "mytktq",
       "title": "Cloud service providers ask EU regulator to reinstate VMware partner program",
       "summary": "Broadcom says the group is misrepresenting market \"realities.\"",
@@ -433,15 +442,6 @@
       "source": "Ars Technica",
       "sourceUrl": "https://arstechnica.com/security/2026/03/researchers-disclose-vulnerabilities-in-ip-kvms-from-4-manufacturers/",
       "publishedAt": "2026-03-17T17:07:12.000Z"
-    },
-    {
-      "id": "sz0mqt",
-      "title": "The Download: OpenAI’s US military deal, and Grok’s CSAM lawsuit",
-      "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. Where OpenAI’s technology could show up in Iran OpenAI has controversially agreed to give the Pentagon access to its AI. But where exactly could its tech show up, and which applications…",
-      "imageUrl": "https://images.unsplash.com/photo-1550751827-4bd374c3f58b?w=800&q=80",
-      "source": "MIT Tech Review",
-      "sourceUrl": "https://www.technologyreview.com/2026/03/17/1134322/the-download-openi-us-military-deal-grok-xai-csam-lawsuit/",
-      "publishedAt": "2026-03-17T12:26:48.000Z"
     },
     {
       "id": "e8iye0",
