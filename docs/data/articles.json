@@ -1,11 +1,29 @@
 {
-  "fetchedAt": "2026-03-23T19:05:31.644Z",
+  "fetchedAt": "2026-03-23T20:03:30.326Z",
   "count": 60,
   "articles": [
     {
+      "id": "j2a0bw",
+      "title": "Google’s new Pixel 10 ads made me go ‘wait, WHAT are they trying to sell?’",
+      "summary": "Ever watch a TV ad and wonder \"How did this get approved?\" Today, Google has not one but two new ad spots for its six-month-old Pixel 10 phones, and… let's just say they may not come across as intended. First, there's \"With 100x Zoom,\" an ad that appears to suggest that if a vacation rental company lies to you about the view from your hotel room, you should lie to all your friends and family, too! Take a watch below: The YouTube description makes Google's intent fairly clear: \"So even if that…",
+      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/03/chrome_Apdz9O6Gdb.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "source": "The Verge",
+      "sourceUrl": "https://www.theverge.com/tech/898992/google-pixel-10-ads-moving-on-stalker-lying-beach-view-100-zoom",
+      "publishedAt": "2026-03-23T19:49:11.000Z"
+    },
+    {
+      "id": "kkjazi",
+      "title": "Nvidia CEO Jensen Huang says ‘I think we’ve achieved AGI’",
+      "summary": "On a Monday episode of the Lex Fridman podcast, Nvidia CEO Jensen Huang made a hot-button statement: \"I think we've achieved AGI.\" AGI, or artificial general intelligence, is a vaguely defined term that has incited a lot of discussion by tech CEOs, tech workers, and the general public in recent years, as it typically denotes AI that's equal to or surpasses human intelligence. In recent months, tech leaders have tried to distance themselves from the term and create their own terminology that they…",
+      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25835739/STKP210_JENSEN_HUANG_B.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "source": "The Verge",
+      "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/899086/jensen-huang-nvidia-agi",
+      "publishedAt": "2026-03-23T19:42:33.000Z"
+    },
+    {
       "id": "sziagi",
       "title": "Vibe-coding startup Lovable is on the hunt for acquisitions",
-      "summary": "Lovable's founder said the fast-growing vibe coding startup is looking for startups and teams to join its company.",
+      "summary": "Lovable's founder said the fast-growing vibe-coding startup is looking for startups and teams to join its company.",
       "imageUrl": "https://images.unsplash.com/photo-1485827404703-89b55fcc595e?w=800&q=80",
       "source": "TechCrunch",
       "sourceUrl": "https://techcrunch.com/2026/03/23/vibe-coding-startup-lovable-is-on-the-hunt-for-acquisitions/",
@@ -325,24 +343,6 @@
       "source": "Wired",
       "sourceUrl": "https://www.wired.com/story/palantir-developer-conference-ai-war-alex-karp/",
       "publishedAt": "2026-03-20T15:00:00.000Z"
-    },
-    {
-      "id": "f21fcd",
-      "title": "Google Search is now using AI to replace headlines",
-      "summary": "Since roughly the turn of the millennium, Google Search has been the bedrock of the web. People loved Google's trustworthy \"10 blue links\" search experience and its unspoken promise: The website you click is the website you get. Now, Google is beginning to replace news headlines in its search results with ones that are AI-generated. After doing something similar in its Google Discover news feed, it's starting to mess with headlines in the traditional \"10 blue links,\" too. We've found multiple…",
-      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/10455389/mdoying_180117_2249_0206stills.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "source": "The Verge",
-      "sourceUrl": "https://www.theverge.com/tech/896490/google-replace-news-headlines-in-search-canary-coal-mine-experiment",
-      "publishedAt": "2026-03-20T14:30:00.000Z"
-    },
-    {
-      "id": "700sal",
-      "title": "Amazon is making an Alexa phone",
-      "summary": "Over 10 years after shelving the Fire Phone, Amazon is reportedly planning to launch another smartphone, this time focused on Alexa. According to Reuters, the phone, which is code-named \"Transformer,\" will center around Amazon's AI assistant, but Alexa won't \"necessarily be the primary operating system of the phone.\" \"Transformer\" is currently in development in Amazon's ZeroOne group, led by J Allard, who previously worked on the Zune and Xbox at Microsoft. Allard's team has reportedly explored…",
-      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/09/acastro_STK103__03.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "source": "The Verge",
-      "sourceUrl": "https://www.theverge.com/tech/897915/amazon-transformer-alexa-phone",
-      "publishedAt": "2026-03-20T13:42:51.000Z"
     },
     {
       "id": "357zki",
