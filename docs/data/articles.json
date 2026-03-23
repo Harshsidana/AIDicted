@@ -1,7 +1,16 @@
 {
-  "fetchedAt": "2026-03-23T09:39:13.718Z",
+  "fetchedAt": "2026-03-23T12:04:47.016Z",
   "count": 60,
   "articles": [
+    {
+      "id": "kw277f",
+      "title": "Meet the Gods of AI Warfare",
+      "summary": "In its early days, the AI initiative known as Project Maven had its fair share of skeptics at the Pentagon. Today, many of them are true believers.",
+      "imageUrl": "https://media.wired.com/photos/69bda9155b7879007eb95904/master/pass/Big-Story-Pentagon-Embraced-AI-Warfare.jpg",
+      "source": "Wired",
+      "sourceUrl": "https://www.wired.com/story/project-maven-katrina-manson-book-excerpt/",
+      "publishedAt": "2026-03-23T10:00:00.000Z"
+    },
     {
       "id": "r7vvch",
       "title": "The AI Race Is Pressuring Utilities to Squeeze More From Europe’s Power Grids",
@@ -23,7 +32,7 @@
     {
       "id": "vkw7w8",
       "title": "AI influencer awards season is upon us",
-      "summary": "First came the AI beauty pageant. Then the AI music contests. Now, there is an award for AI Personality of the Year - perhaps the inevitable next step for the AI influencer economy as it transforms from quirky novelty into a serious and lucrative industry. The contest, a joint venture between generative AI studio OpenArt and AI-powered creator platform Fanvue, with backing from AI voice company ElevenLabs, opens on Monday and runs for a month. The organizers said it is intended to \"celebrate the…",
+      "summary": "First came the AI beauty pageant. Then the AI music contests. Now, there is an award for AI Personality of the Year - perhaps the inevitable next step for the AI influencer economy as it fights for legitimacy amid an onslaught of AI slop and grifters and transforms from quirky novelty into a serious and lucrative industry. The contest, a joint venture between generative AI studio OpenArt and AI-powered creator platform Fanvue, with backing from AI voice company ElevenLabs, opens on Monday and…",
       "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/03/STK414_AI_CVIRGINIA_I__0001_11.png?quality=90&#038;strip=all&#038;crop=0,0,100,100",
       "source": "The Verge",
       "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/898781/ai-personality-of-the-year-influencer-contest",
@@ -75,8 +84,8 @@
       "publishedAt": "2026-03-22T14:43:51.000Z"
     },
     {
-      "id": "ehxd1r",
-      "title": "Musk says he’s building Terafab chip plant in Austin, Texas",
+      "id": "e9pfv4",
+      "title": "Musk says he’s building a Terafab chip plant in Austin, Texas",
       "summary": "Grok, how do you make chips? | Image: Laura Normand / The Verge Elon Musk announced plans to build a Terafab plant in Austin, Texas, that will be jointly run by Tesla and SpaceX. The goal is to eventually build chips at scale for robotics, artificial intelligence, and space-based data centers for Musk's various companies. Musk has expressed concern, as have other executives, about the chip industry's ability to keep up with demand as the AI industry has boomed. But building a chip fabrication…",
       "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/02/STK171_VRG_Illo_15_Normand_ElonMusk_15.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
       "source": "The Verge",
@@ -343,15 +352,6 @@
       "source": "Wired",
       "sourceUrl": "https://www.wired.com/story/food-tracking-apps-ai-nutrition-weight-loss/",
       "publishedAt": "2026-03-20T10:30:00.000Z"
-    },
-    {
-      "id": "b8zpvl",
-      "title": "My AI Agent ‘Cofounder’ Conquered LinkedIn. Then It Got Banned",
-      "summary": "When social media is constantly pushing people to use AI, why not let AI agents participate?",
-      "imageUrl": "https://media.wired.com/photos/69bc8173510953e5189ef6c0/master/pass/linkedin_ai_agent_company.jpg",
-      "source": "Wired",
-      "sourceUrl": "https://www.wired.com/story/linkedin-invited-my-ai-cofounder-to-give-a-corporate-talk-then-banned-it/",
-      "publishedAt": "2026-03-20T10:00:00.000Z"
     },
     {
       "id": "1orqtu",
