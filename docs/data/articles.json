@@ -1,7 +1,16 @@
 {
-  "fetchedAt": "2026-03-24T10:27:52.454Z",
+  "fetchedAt": "2026-03-24T11:27:07.039Z",
   "count": 60,
   "articles": [
+    {
+      "id": "ibvsgw",
+      "title": "Chris Hayes Has Some Advice for Keeping Up With the News",
+      "summary": "The host of MS Now’s All In, knows how hard it is to stay current. But he also knows where you should focus your attention—and it starts with a sober view of AI.",
+      "imageUrl": "https://media.wired.com/photos/69c1b2b856888c87f24c925c/master/pass/Big-Interview-UV-Solo-Chris-Hayes-Business-2210889473.jpg",
+      "source": "Wired",
+      "sourceUrl": "https://www.wired.com/story/the-big-interview-podcast-chris-hayes/",
+      "publishedAt": "2026-03-24T10:30:00.000Z"
+    },
     {
       "id": "jnn8q4",
       "title": "Your Body Is Betraying Your Right to Privacy",
@@ -343,15 +352,6 @@
       "source": "The Verge",
       "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/898055/trump-new-ai-policy-framework",
       "publishedAt": "2026-03-20T18:17:02.000Z"
-    },
-    {
-      "id": "sx5j95",
-      "title": "At Palantir’s Developer Conference, AI Is Built to Win Wars",
-      "summary": "As business soars, Palantir is doubling down on a vision of AI built for battlefield advantage—and attracting customers who agree.",
-      "imageUrl": "https://media.wired.com/photos/69bc605080392585c27a64b6/master/pass/Backchannel-Inside-Mind-of-Palantir-Business-2249768392.jpg",
-      "source": "Wired",
-      "sourceUrl": "https://www.wired.com/story/palantir-developer-conference-ai-war-alex-karp/",
-      "publishedAt": "2026-03-20T15:00:00.000Z"
     },
     {
       "id": "357zki",
