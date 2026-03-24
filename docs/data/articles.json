@@ -1,7 +1,16 @@
 {
-  "fetchedAt": "2026-03-24T15:13:41.214Z",
+  "fetchedAt": "2026-03-24T16:39:03.605Z",
   "count": 60,
   "articles": [
+    {
+      "id": "7hjt0o",
+      "title": "Meet the former Apple designer building a new AI interface at Hark",
+      "summary": "The company said it would design models, hardware, and interfaces in tandem to deliver a \"seamless end-to-end personal intelligence product.\"",
+      "imageUrl": "https://images.unsplash.com/photo-1550751827-4bd374c3f58b?w=800&q=80",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/03/24/meet-the-former-apple-designer-building-a-new-ai-interface-at-hark/",
+      "publishedAt": "2026-03-24T16:00:00.000Z"
+    },
     {
       "id": "kloqzq",
       "title": "Anthropic’s Claude Code and Cowork can control your computer",
@@ -271,15 +280,6 @@
       "source": "The Verge",
       "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/898722/musk-terafab-chip-plant",
       "publishedAt": "2026-03-22T14:06:48.000Z"
-    },
-    {
-      "id": "kf1c0e",
-      "title": "An exclusive tour of Amazon’s Trainium lab, the chip that’s won over Anthropic, OpenAI, even Apple",
-      "summary": "Shortly after Amazon announced its $50 billion investment in OpenAI, AWS invited me on a private tour of the chip lab at the heart of the deal.",
-      "imageUrl": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=800&q=80",
-      "source": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/03/22/an-exclusive-tour-of-amazons-trainium-lab-the-chip-thats-won-over-anthropic-openai-even-apple/",
-      "publishedAt": "2026-03-22T12:00:00.000Z"
     },
     {
       "id": "7b0paz",
