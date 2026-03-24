@@ -1,7 +1,16 @@
 {
-  "fetchedAt": "2026-03-24T07:58:57.908Z",
+  "fetchedAt": "2026-03-24T10:27:52.454Z",
   "count": 60,
   "articles": [
+    {
+      "id": "jnn8q4",
+      "title": "Your Body Is Betraying Your Right to Privacy",
+      "summary": "Attachment to smart devices and biometric surveillance leaves Americans more vulnerable to police searches than ever. Left unchecked it will only get worse.",
+      "imageUrl": "https://media.wired.com/photos/69c1aa958d470e1446eb5d44/master/pass/Book-Excerpt-Your-Body-Is-Betraying-Your-Right-to-Privacy-Security.jpg",
+      "source": "Wired",
+      "sourceUrl": "https://www.wired.com/story/book-excerpt-your-data-will-be-used-against-you-andrew-guthrie-ferguson/",
+      "publishedAt": "2026-03-24T10:00:00.000Z"
+    },
     {
       "id": "sip9yv",
       "title": "Air Street becomes one of the largest solo VCs in Europe with $232M fund",
@@ -361,15 +370,6 @@
       "source": "MIT Tech Review",
       "sourceUrl": "https://www.technologyreview.com/2026/03/20/1134438/openai-is-throwing-everything-into-building-a-fully-automated-researcher/",
       "publishedAt": "2026-03-20T11:57:16.000Z"
-    },
-    {
-      "id": "2mizqo",
-      "title": "I Learned More Than I Thought I Would From Using Food-Tracking Apps",
-      "summary": "These apps, some of which use AI and computer vision, were helpful for meeting my caloric and nutrition intake goals. But they also gave me some anxiety.",
-      "imageUrl": "https://media.wired.com/photos/69bc9c35f05d6225e8611bc6/master/pass/AI-Powered-Food-Tracking-Apps-Told-Me-What-to-Eat-Gear.jpg",
-      "source": "Wired",
-      "sourceUrl": "https://www.wired.com/story/food-tracking-apps-ai-nutrition-weight-loss/",
-      "publishedAt": "2026-03-20T10:30:00.000Z"
     },
     {
       "id": "1orqtu",
