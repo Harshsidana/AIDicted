@@ -1,7 +1,115 @@
 {
-  "fetchedAt": "2026-03-24T16:39:03.605Z",
+  "fetchedAt": "2026-03-24T20:51:50.288Z",
   "count": 60,
   "articles": [
+    {
+      "id": "mdqjb9",
+      "title": "Arm’s first CPU ever will plug into Meta’s AI datacenters later this year",
+      "summary": "After decades of only licensing its chip designs for others to use, UK-based Arm revealed the first chip it's producing on its own, and the first customer. Dubbed the Arm AGI CPU, it's another chip designed for inference, or running the cloud processing for AI tools like AI agents that can continue to spawn more and more tasks to run at once. The first company in line to use it is Meta, which has reportedly struggled to launch its own AI chips. Meta says it's both the lead partner and…",
+      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/03/20260216_VISION25_ExplodedTight_Chip-01-16x9_16bit_v2-1200x675-1.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "source": "The Verge",
+      "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/899823/arm-agi-cpu-meta",
+      "publishedAt": "2026-03-24T20:43:14.000Z"
+    },
+    {
+      "id": "2c8ajh",
+      "title": "Databricks bought two startups to underpin its new AI security product",
+      "summary": "With an overflowing war chest from its recent $5 billion raise, Databricks is buying startups and looking for more. It acquired Antimatter and SiftD.ai.",
+      "imageUrl": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=800&q=80",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/03/24/databricks-buys-two-startups-lakewatch-antimatter-siftd-ai-security/",
+      "publishedAt": "2026-03-24T20:40:56.000Z"
+    },
+    {
+      "id": "ov21rq",
+      "title": "Arm is releasing the first in-house chip in its 35-year history",
+      "summary": "Arm is producing its own CPU for the first time. It developed the CPU with Meta, which is also the chip's first customer.",
+      "imageUrl": "https://images.unsplash.com/photo-1526374965328-7f61d4dc18c5?w=800&q=80",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/03/24/arm-is-releasing-its-first-in-house-chip-in-its-35-year-history/",
+      "publishedAt": "2026-03-24T19:48:54.000Z"
+    },
+    {
+      "id": "m1cpsk",
+      "title": "OpenAI’s plans to make ChatGPT more like Amazon aren’t going so well",
+      "summary": "OpenAI says it's moving away from Instant Checkout, which allowed users to buy items directly through the ChatGPT interface.",
+      "imageUrl": "https://images.unsplash.com/photo-1620712943543-bcc4688e7485?w=800&q=80",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/03/24/openais-plans-to-make-chatgpt-more-like-amazon-arent-going-so-well/",
+      "publishedAt": "2026-03-24T19:27:56.000Z"
+    },
+    {
+      "id": "oio8yb",
+      "title": "Google TV’s new Gemini features keep fans updated on sports teams and more",
+      "summary": "Three Gemini-powered features are coming to your Google TV. This includes visual responses, deep dives, and sports briefs.",
+      "imageUrl": "https://images.unsplash.com/photo-1550751827-4bd374c3f58b?w=800&q=80",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/03/24/google-tv-new-gemini-features-keep-fans-updated-on-sports-teams-deep-dives-visual-answers/",
+      "publishedAt": "2026-03-24T19:12:11.000Z"
+    },
+    {
+      "id": "624oc4",
+      "title": "OpenAI adds open source tools to help developers build for teen safety",
+      "summary": "Rather than working from scratch to figure out how to make AI safer for teens, developers can use these policies to fortify what they build.",
+      "imageUrl": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=800&q=80",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/03/24/openai-adds-open-source-tools-to-help-developers-build-for-teen-safety/",
+      "publishedAt": "2026-03-24T18:41:34.000Z"
+    },
+    {
+      "id": "siulrz",
+      "title": "Talat’s AI meeting notes stay on your machine, not in the cloud",
+      "summary": "The subscription-free AI meeting notes app is a local-first twist on notetaking tools like Granola.",
+      "imageUrl": "https://images.unsplash.com/photo-1676299081847-824916de030a?w=800&q=80",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/03/24/talats-ai-meeting-notes-stay-on-your-machine-not-in-the-cloud/",
+      "publishedAt": "2026-03-24T18:41:33.000Z"
+    },
+    {
+      "id": "swej9x",
+      "title": "Exclusive eBook: Are we ready to hand AI agents the keys?",
+      "summary": "We’re starting to give AI agents real autonomy, but are we prepared for what could happen next? This subscriber-only eBook explores this and angles from experts, such as “If we continue on the current path … we are basically playing Russian roulette with humanity.” by Grace Huckins June 12, 2025 Related Stories: Access all subscriber-only…",
+      "imageUrl": "https://images.unsplash.com/photo-1485827404703-89b55fcc595e?w=800&q=80",
+      "source": "MIT Tech Review",
+      "sourceUrl": "https://www.technologyreview.com/2026/03/24/1134531/exclusive-ebook-are-we-ready-to-hand-ai-agents-the-keys/",
+      "publishedAt": "2026-03-24T18:17:13.000Z"
+    },
+    {
+      "id": "k4totz",
+      "title": "Doss raises $55M for AI inventory management that plugs into ERP",
+      "summary": "Doss's AI-powered inventory management system integrates with existing ERP systems. The Series B round was co-led by Madrona and Premji Invest.",
+      "imageUrl": "https://images.unsplash.com/photo-1635070041078-e363dbe005cb?w=800&q=80",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/03/24/doss-raises-55m-for-ai-inventory-management-that-plugs-into-erp/",
+      "publishedAt": "2026-03-24T17:18:29.000Z"
+    },
+    {
+      "id": "pl3dz5",
+      "title": "ChatGPT and Gemini are fighting to be the AI bot that sells you stuff",
+      "summary": "The AI-powered shopping rivalry is heating up as Google and OpenAI launch new features to help you buy things while interacting with their chatbots. Now, Google is teaming up with Gap Inc to allow its Gemini AI assistant to purchase clothes on your behalf from any of its stores, which include Gap, Old Navy, Banana Republic, and Athleta, while OpenAI launched an updated shopping interface in ChatGPT. With Google's new partnership, you may see products from one of Gap's brands if you're asking…",
+      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25362057/STK_414_AI_CHATBOT_R2_CVirginia_B.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "source": "The Verge",
+      "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/899677/openai-google-gemini-ai-shopping-features",
+      "publishedAt": "2026-03-24T17:13:00.000Z"
+    },
+    {
+      "id": "69c2zs",
+      "title": "Arm Is Now Making Its Own Chips",
+      "summary": "The chip design firm says Meta, OpenAI, Cerebras, and Cloudflare are among the first customers of its new artificial intelligence hardware.",
+      "imageUrl": "https://media.wired.com/photos/69c1dcea9b0c01414434424c/master/pass/Chip-Design-Firm-Arm-Making-Own-AI-CPU-Business-2250850574.jpg",
+      "source": "Wired",
+      "sourceUrl": "https://www.wired.com/story/chip-design-firm-arm-is-making-its-own-ai-cpu/",
+      "publishedAt": "2026-03-24T17:00:00.000Z"
+    },
+    {
+      "id": "q917jv",
+      "title": "This scientist rewarmed and studied pieces of his friend’s cryopreserved brain",
+      "summary": "L. Stephen Coles’s brain sits cushioned in a vat at a storage facility in Arizona. It has been held there at a temperature of around −146 degrees °C for over a decade, largely undisturbed. That is, apart from the time, a little over a year ago, when scientists slowly lifted the brain to take photos…",
+      "imageUrl": "https://images.unsplash.com/photo-1550751827-4bd374c3f58b?w=800&q=80",
+      "source": "MIT Tech Review",
+      "sourceUrl": "https://www.technologyreview.com/2026/03/24/1134562/cryopreservation-brain-cryonics-organ-transplantation/",
+      "publishedAt": "2026-03-24T16:43:36.000Z"
+    },
     {
       "id": "7hjt0o",
       "title": "Meet the former Apple designer building a new AI interface at Hark",
@@ -21,10 +129,10 @@
       "publishedAt": "2026-03-24T13:32:23.000Z"
     },
     {
-      "id": "fn2loa",
-      "title": "Mirage raises $75M to continue building models for its AI video editing app Captions",
-      "summary": "Mirage, the maker of video editing app Captions, has raised $75 million in growth financing from General Catalyst's Customer Value Fund (CVF).",
-      "imageUrl": "https://images.unsplash.com/photo-1485827404703-89b55fcc595e?w=800&q=80",
+      "id": "59bwk3",
+      "title": "Mirage raises $75M to continue building models for its AI video-editing app Captions",
+      "summary": "Mirage, the maker of video-editing app Captions, has raised $75 million in growth financing from General Catalyst's Customer Value Fund (CVF).",
+      "imageUrl": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=800&q=80",
       "source": "TechCrunch",
       "sourceUrl": "https://techcrunch.com/2026/03/24/mirage-raises-75m-to-continue-building-models-for-its-ai-video-editing-app-captions/",
       "publishedAt": "2026-03-24T13:00:00.000Z"
@@ -147,33 +255,6 @@
       "publishedAt": "2026-03-23T16:00:00.000Z"
     },
     {
-      "id": "x6dav0",
-      "title": "Littlebird raises $11M for its AI-assisted ‘recall’ tool that reads your computer screen",
-      "summary": "Littlebird is building an AI that reads your screen in real time to capture context, answer questions, and automate tasks, without relying on screenshots.",
-      "imageUrl": "https://images.unsplash.com/photo-1531746790095-6c10a4031c5f?w=800&q=80",
-      "source": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/03/23/littlebird-raises-11m-to-capture-context-from-your-computer-so-you-can-query-your-data/",
-      "publishedAt": "2026-03-23T16:00:00.000Z"
-    },
-    {
-      "id": "142xn",
-      "title": "Elizabeth Warren calls Pentagon’s decision to bar Anthropic ‘retaliation’",
-      "summary": "In a letter to Defense Secretary Pete Hegseth, Senator Elizabeth Warren (D-MA) equated the DOD's decision to label Anthropic a \"supply-chain risk\" as retaliation, arguing that the Pentagon could simply have terminated its contract with the AI lab.",
-      "imageUrl": "https://images.unsplash.com/photo-1655720828018-edd2daec9349?w=800&q=80",
-      "source": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/03/23/elizabeth-warren-anthropic-pentagon-defense-supply-chain-risk-retaliation/",
-      "publishedAt": "2026-03-23T15:22:57.000Z"
-    },
-    {
-      "id": "ricmlh",
-      "title": "Sam Altman-backed fusion startup Helion in talks to sell power to OpenAI",
-      "summary": "OpenAI CEO Sam Altman is stepping down as board chair of Helion. His departure comes as reports that the two companies are negotiating a deal that would see Helion sell 12.5% of its power output to OpenAI.",
-      "imageUrl": "https://images.unsplash.com/photo-1526374965328-7f61d4dc18c5?w=800&q=80",
-      "source": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/03/23/sam-altman-openai-fusion-energy-board-helion/",
-      "publishedAt": "2026-03-23T15:03:36.000Z"
-    },
-    {
       "id": "tit5jl",
       "title": "Confronting the CEO of the AI company that impersonated me",
       "summary": "Today, I’m talking with Shishir Mehrotra, who is CEO of Superhuman — that’s the company formerly known as Grammarly, which is still its flagship product. Shishir also used to be the chief product officer at YouTube, and he’s on the board of directors at Spotify. He’s a fascinating guy, and we actually scheduled this interview a month or so ago, thinking we’d talk about AI and what it’s doing to software, platforms, and creativity pretty broadly. Verge subscribers, don’t forget you get exclusive…",
@@ -228,24 +309,6 @@
       "publishedAt": "2026-03-23T00:01:00.000Z"
     },
     {
-      "id": "8l3oxh",
-      "title": "Do you want to build a robot snowman?",
-      "summary": "On the latest episode of the Equity podcast, we recapped CEO Jensen Huang’s GTC keynote and debated what it means for Nvidia’s future.",
-      "imageUrl": "https://images.unsplash.com/photo-1526374965328-7f61d4dc18c5?w=800&q=80",
-      "source": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/03/22/do-you-want-to-build-a-robot-snowman/",
-      "publishedAt": "2026-03-22T19:45:07.000Z"
-    },
-    {
-      "id": "ark3w5",
-      "title": "Cursor admits its new coding model was built on top of Moonshot AI’s Kimi",
-      "summary": "Building on top of a Chinese model feels particularly fraught right now.",
-      "imageUrl": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=800&q=80",
-      "source": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/03/22/cursor-admits-its-new-coding-model-was-built-on-top-of-moonshot-ais-kimi/",
-      "publishedAt": "2026-03-22T18:41:09.000Z"
-    },
-    {
       "id": "dfju59",
       "title": "Crimson Desert dev apologizes for use of AI art",
       "summary": "That’s some sloppy looking slop. | Image: Rex_Spy / Reddit Reviews of Crimson Desert have been mixed, but the bigger issue for the game has been the discovery of what appeared to be AI-generated assets in the final release. Now the developer has acknowledged that AI art was indeed used during the game's creation, but says that it was intended to be replaced before release. In a statement on X, the company said it was conducting a \"comprehensive audit\" to identify and replace any AI-generated…",
@@ -253,24 +316,6 @@
       "source": "The Verge",
       "sourceUrl": "https://www.theverge.com/games/898771/crimson-desert-dev-apologizes-ai-art",
       "publishedAt": "2026-03-22T17:34:34.000Z"
-    },
-    {
-      "id": "kw1dk8",
-      "title": "Elon Musk unveils chip manufacturing plans for SpaceX and Tesla",
-      "summary": "Elon Musk recently outlined ambitious plans for a chip-building collaboration Tesla and SpaceX — but he has a history of overpromising.",
-      "imageUrl": "https://images.unsplash.com/photo-1655720828018-edd2daec9349?w=800&q=80",
-      "source": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/03/22/elon-musk-unveils-chip-manufacturing-plans-for-spacex-and-tesla/",
-      "publishedAt": "2026-03-22T16:20:00.000Z"
-    },
-    {
-      "id": "d0mdv5",
-      "title": "Delve accused of misleading customers with ‘fake compliance’",
-      "summary": "An anonymous Substack post accuses compliance startup Delve of “falsely” convincing “hundreds of customers they were compliant” with privacy and security regulations.",
-      "imageUrl": "https://images.unsplash.com/photo-1635070041078-e363dbe005cb?w=800&q=80",
-      "source": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/03/22/delve-accused-of-misleading-customers-with-fake-compliance/",
-      "publishedAt": "2026-03-22T14:43:51.000Z"
     },
     {
       "id": "e9pfv4",
@@ -289,24 +334,6 @@
       "source": "The Verge",
       "sourceUrl": "https://www.theverge.com/games/897982/gdc-2026-ai-game-developer-conference",
       "publishedAt": "2026-03-22T12:00:00.000Z"
-    },
-    {
-      "id": "q1gzw7",
-      "title": "The gen AI Kool-Aid tastes like eugenics",
-      "summary": "Like many people, director Valerie Veatch was intrigued when OpenAI first released its Sora text-to-video generative AI model to the public in 2024. Though she didn't fully understand the technology, she was curious about what it could do, and she saw that other artists were building online communities to share their new AI creations. The hope of connecting with people drew Veatch into the AI space, but once she was there, she was shocked to see how often the technology would generate images…",
-      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/03/ai-label.png?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "source": "The Verge",
-      "sourceUrl": "https://www.theverge.com/entertainment/897923/ghost-in-the-machine-valerie-veatch-interview",
-      "publishedAt": "2026-03-21T14:00:00.000Z"
-    },
-    {
-      "id": "8frc76",
-      "title": "Gemini task automation is slow, clunky, and super impressive",
-      "summary": "An AI assistant that can actually get things done. I've been testing out Gemini's new task automation on the Pixel 10 Pro and the Galaxy S26 Ultra, which for the first time lets Gemini take the wheel and use apps for you. It's limited to a small subset right now - a handful of food delivery and rideshare services - and it's still in beta. It's slow, it's clunky at times, and it doesn't solve any serious problem you had using your phone. But it's impressive as hell, and I don't think it's…",
-      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/03/dsc03087_processed.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "source": "The Verge",
-      "sourceUrl": "https://www.theverge.com/tech/898282/gemini-task-automation-uber-doordash-hands-on",
-      "publishedAt": "2026-03-21T11:30:00.000Z"
     },
     {
       "id": "jr0ro8",
@@ -363,15 +390,6 @@
       "publishedAt": "2026-03-20T20:50:46.000Z"
     },
     {
-      "id": "f288fl",
-      "title": "Gamers Hate Nvidia's DLSS 5. Developers Aren’t Crazy About It, Either",
-      "summary": "Nvidia’s new AI upscaling gaming technology struck gamers as uncanny and off-putting. Developers don't seem to like it, either, but it could be “the default” in a few years.",
-      "imageUrl": "https://media.wired.com/photos/69bd423627b92679d2037984/master/pass/nvidia-dlss-5.jpeg",
-      "source": "Wired",
-      "sourceUrl": "https://www.wired.com/story/gamers-hate-nvidia-dlss-5-developers-arent-crazy-about-it-either/",
-      "publishedAt": "2026-03-20T19:13:19.000Z"
-    },
-    {
       "id": "357zki",
       "title": "The Download: OpenAI is building a fully automated researcher, and a psychedelic trial blind spot",
       "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. OpenAI is throwing everything into building a fully automated researcher OpenAI has a new grand challenge: building an AI researcher—a fully automated agent-based system capable of tackling large, complex problems by…",
@@ -415,24 +433,6 @@
       "source": "MIT Tech Review",
       "sourceUrl": "https://www.technologyreview.com/2026/03/19/1134413/the-download-quantum-computing-health-recycling-nuclear-waste/",
       "publishedAt": "2026-03-19T12:17:02.000Z"
-    },
-    {
-      "id": "7fzeaf",
-      "title": "Can quantum computers now solve health care problems? We’ll soon find out.",
-      "summary": "I’m standing in front of a quantum computer built out of atoms and light at the UK’s National Quantum Computing Centre on the outskirts of Oxford. On a laboratory table, a complex matrix of mirrors and lenses surrounds a Rubik’s Cube–size cell where 100 cesium atoms are suspended in grid formation by a carefully manipulated…",
-      "imageUrl": "https://images.unsplash.com/photo-1550751827-4bd374c3f58b?w=800&q=80",
-      "source": "MIT Tech Review",
-      "sourceUrl": "https://www.technologyreview.com/2026/03/19/1134409/a-5-million-prize-awaits-proof-that-quantum-computers-can-solve-health-care-problems/",
-      "publishedAt": "2026-03-19T10:51:43.000Z"
-    },
-    {
-      "id": "vpkyuj",
-      "title": "Why the world doesn’t recycle more nuclear waste",
-      "summary": "The prospect of making trash useful is always fascinating to me. Whether it’s used batteries, solar panels, or spent nuclear fuel, getting use out of something destined for disposal sounds like a win all around. In nuclear energy, figuring out what to do with waste has always been a challenge, since the material needs to…",
-      "imageUrl": "https://images.unsplash.com/photo-1550751827-4bd374c3f58b?w=800&q=80",
-      "source": "MIT Tech Review",
-      "sourceUrl": "https://www.technologyreview.com/2026/03/19/1134399/nuclear-waste-reprocessing/",
-      "publishedAt": "2026-03-19T10:00:00.000Z"
     },
     {
       "id": "ku8rv9",
