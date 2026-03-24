@@ -1,7 +1,43 @@
 {
-  "fetchedAt": "2026-03-24T12:06:39.346Z",
+  "fetchedAt": "2026-03-24T15:13:41.214Z",
   "count": 60,
   "articles": [
+    {
+      "id": "kloqzq",
+      "title": "Anthropic’s Claude Code and Cowork can control your computer",
+      "summary": "Claude will ask you for permission to autonomously perform taks on your computer. | Image by Anthropic Anthropic has updated Claude to perform tasks in its Code and Cowork AI tools autonomously by using your computer for you. The new feature can be used to automatically open files, use web browsers and apps, and run dev tools \"with no setup required,\" even when you're away from your computer, according to Anthropic's announcement. These new capabilities are available as a research preview for…",
+      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/03/Anthropic-Claude-Code-Cowork-computer-control.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "source": "The Verge",
+      "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/899430/anthropic-claude-code-cowork-ai-control-computer",
+      "publishedAt": "2026-03-24T13:32:23.000Z"
+    },
+    {
+      "id": "fn2loa",
+      "title": "Mirage raises $75M to continue building models for its AI video editing app Captions",
+      "summary": "Mirage, the maker of video editing app Captions, has raised $75 million in growth financing from General Catalyst's Customer Value Fund (CVF).",
+      "imageUrl": "https://images.unsplash.com/photo-1485827404703-89b55fcc595e?w=800&q=80",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/03/24/mirage-raises-75m-to-continue-building-models-for-its-ai-video-editing-app-captions/",
+      "publishedAt": "2026-03-24T13:00:00.000Z"
+    },
+    {
+      "id": "5c67ci",
+      "title": "Self-propagating malware poisons open source software and wipes Iran-based machines",
+      "summary": "Development houses: It's time to check your networks for infections.",
+      "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2025/05/malware-threat-1000x648.jpg",
+      "source": "Ars Technica",
+      "sourceUrl": "https://arstechnica.com/security/2026/03/self-propagating-malware-poisons-open-source-software-and-wipes-iran-based-machines/",
+      "publishedAt": "2026-03-24T12:38:09.000Z"
+    },
+    {
+      "id": "hp600i",
+      "title": "The Download: tracing AI-fueled delusions, and OpenAI admits Microsoft risks",
+      "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. The hardest question to answer about AI-fueled delusions What actually happens when people spiral into delusion with AI? To find out, Stanford researchers analyzed transcripts from chatbot users who experienced these spirals. Their findings suggest that…",
+      "imageUrl": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=800&q=80",
+      "source": "MIT Tech Review",
+      "sourceUrl": "https://www.technologyreview.com/2026/03/24/1134540/the-download-tracing-ai-fueled-delusions-openai-warns-microsoft-risks/",
+      "publishedAt": "2026-03-24T12:28:27.000Z"
+    },
     {
       "id": "ohg23u",
       "title": "Agile Robots becomes the latest robotics company to partner with Google DeepMind",
@@ -255,15 +291,6 @@
       "publishedAt": "2026-03-22T12:00:00.000Z"
     },
     {
-      "id": "3fds1a",
-      "title": "Are AI tokens the new signing bonus or just a cost of doing business?",
-      "summary": "Maybe tokens really will become the fourth pillar of engineering compensation. But engineers might want to hold the line before embracing this as a straightforward win.",
-      "imageUrl": "https://images.unsplash.com/photo-1655720828018-edd2daec9349?w=800&q=80",
-      "source": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/03/21/are-ai-tokens-the-new-signing-bonus-or-just-a-cost-of-doing-business/",
-      "publishedAt": "2026-03-22T06:20:43.000Z"
-    },
-    {
       "id": "q1gzw7",
       "title": "The gen AI Kool-Aid tastes like eugenics",
       "summary": "Like many people, director Valerie Veatch was intrigued when OpenAI first released its Sora text-to-video generative AI model to the public in 2024. Though she didn't fully understand the technology, she was curious about what it could do, and she saw that other artists were building online communities to share their new AI creations. The hope of connecting with people drew Veatch into the AI space, but once she was there, she was shocked to see how often the technology would generate images…",
@@ -345,15 +372,6 @@
       "publishedAt": "2026-03-20T19:13:19.000Z"
     },
     {
-      "id": "o65kzj",
-      "title": "Trump takes another shot at dismantling state AI regulation",
-      "summary": "The Trump administration on Friday unveiled its new legislative blueprint for AI regulation, and the seven-point plan includes a clear message: The federal government should avoid many AI regulations beyond a set of child safety rules, and it should bar states from messing with the \"national strategy to achieve global AI dominance.\" The plan advises Congress to protect minors using AI services with more safeguards and take action to attempt to prevent electricity costs from spiking due to AI…",
-      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/02/STK470_AI_LAW_CVIRGINIA_C.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "source": "The Verge",
-      "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/898055/trump-new-ai-policy-framework",
-      "publishedAt": "2026-03-20T18:17:02.000Z"
-    },
-    {
       "id": "357zki",
       "title": "The Download: OpenAI is building a fully automated researcher, and a psychedelic trial blind spot",
       "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. OpenAI is throwing everything into building a fully automated researcher OpenAI has a new grand challenge: building an AI researcher—a fully automated agent-based system capable of tackling large, complex problems by…",
@@ -424,15 +442,6 @@
       "source": "Ars Technica",
       "sourceUrl": "https://arstechnica.com/information-technology/2026/03/federal-cyber-experts-called-microsofts-cloud-a-pile-of-shit-approved-it-anyway/",
       "publishedAt": "2026-03-18T17:36:40.000Z"
-    },
-    {
-      "id": "i2b76w",
-      "title": "The Download: The Pentagon’s new AI plans, and next-gen nuclear reactors",
-      "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. The Pentagon is planning for AI companies to train on classified data, defense official says The Pentagon plans to set up secure environments for generative AI companies to train military-specific versions of their…",
-      "imageUrl": "https://images.unsplash.com/photo-1676299081847-824916de030a?w=800&q=80",
-      "source": "MIT Tech Review",
-      "sourceUrl": "https://www.technologyreview.com/2026/03/18/1134371/the-download-the-pentagons-new-ai-plans-and-next-gen-nuclear-reactors/",
-      "publishedAt": "2026-03-18T12:38:00.000Z"
     },
     {
       "id": "5r6sbj",
@@ -532,15 +541,6 @@
       "source": "Ars Technica",
       "sourceUrl": "https://arstechnica.com/security/2026/02/new-airsnitch-attack-breaks-wi-fi-encryption-in-homes-offices-and-enterprises/",
       "publishedAt": "2026-02-26T15:45:18.000Z"
-    },
-    {
-      "id": "hax5kw",
-      "title": "Password managers' promise that they can't see your vaults isn't always true",
-      "summary": "Contrary to what password managers say, a server compromise can mean game over.",
-      "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2022/07/password-login-1000x648.jpeg",
-      "source": "Ars Technica",
-      "sourceUrl": "https://arstechnica.com/security/2026/02/password-managers-promise-that-they-cant-see-your-vaults-isnt-always-true/",
-      "publishedAt": "2026-02-17T20:43:01.000Z"
     }
   ]
 }
