@@ -1,7 +1,16 @@
 {
-  "fetchedAt": "2026-03-25T20:03:47.218Z",
+  "fetchedAt": "2026-03-25T21:04:08.387Z",
   "count": 60,
   "articles": [
+    {
+      "id": "hqg4ls",
+      "title": "Google unveils TurboQuant, a new AI memory compression algorithm — and yes, the internet is calling it ‘Pied Piper’",
+      "summary": "Google’s TurboQuant has the internet joking about Pied Piper from HBO's \"Silicon Valley.\" The compression algorithm promises to shrink AI’s “working memory” by up to 6x, but it’s still just a lab experiment for now.",
+      "imageUrl": "https://images.unsplash.com/photo-1620712943543-bcc4688e7485?w=800&q=80",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/03/25/google-turboquant-ai-memory-compression-silicon-valley-pied-piper/",
+      "publishedAt": "2026-03-25T20:38:45.000Z"
+    },
     {
       "id": "bka2dm",
       "title": "Disney’s big bets on the metaverse and AI slop aren’t going so well",
@@ -12,9 +21,18 @@
       "publishedAt": "2026-03-25T20:02:48.000Z"
     },
     {
+      "id": "lv7sto",
+      "title": "Melania Trump wants a robot to homeschool your child",
+      "summary": "The first lady sees AI and robotics playing a prominent role in the future of American education.",
+      "imageUrl": "https://images.unsplash.com/photo-1676299081847-824916de030a?w=800&q=80",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/03/25/melania-trump-wants-a-robot-to-homeschool-your-child/",
+      "publishedAt": "2026-03-25T18:55:41.000Z"
+    },
+    {
       "id": "jy2l2v",
       "title": "There’s Something Very Dark About a Lot of Those Viral AI Fruit Videos",
-      "summary": "From female fruit being fart-shamed or even sexually assaulted, there’s a misogynistic undercurrent to the fruit slop microdramas, even as they appear to be cultivating genuine fans.",
+      "summary": "With female AI fruit being fart-shamed and even sexually assaulted, there’s a misogynistic undercurrent to the fruit slop microdramas, even as they appear to be cultivating genuine fans.",
       "imageUrl": "https://media.wired.com/photos/69c40a914ff31d9d83686e60/master/pass/ai-fruit-microdrama.jpg",
       "source": "Wired",
       "sourceUrl": "https://www.wired.com/story/theres-something-very-dark-about-a-lot-of-those-viral-ai-fruit-videos/",
@@ -309,15 +327,6 @@
       "publishedAt": "2026-03-24T21:00:30.000Z"
     },
     {
-      "id": "hlda10",
-      "title": "Spotify tests new tool to stop AI slop from being attributed to real artists",
-      "summary": "The idea behind the new tool is to give artists more control over which tracks are associated with their name on Spotify.",
-      "imageUrl": "https://images.unsplash.com/photo-1635070041078-e363dbe005cb?w=800&q=80",
-      "source": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/03/24/spotify-tests-new-tool-to-stop-ai-slop-from-being-attributed-to-real-artists/",
-      "publishedAt": "2026-03-24T20:56:25.000Z"
-    },
-    {
       "id": "6wm3kv",
       "title": "Arm’s first CPU ever will plug into Meta’s AI data centers later this year",
       "summary": "After decades of only licensing its chip designs for others to use, UK-based Arm revealed the first chip it's producing on its own, and the first customer. Dubbed the Arm AGI CPU, it's another chip designed for inference, or running the cloud processing for AI tools like AI agents that can continue to spawn more and more tasks to run at once. The first company in line to use it is Meta, which has reportedly struggled to launch its own AI chips. Meta says it's both the lead partner and…",
@@ -325,15 +334,6 @@
       "source": "The Verge",
       "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/899823/arm-agi-cpu-meta",
       "publishedAt": "2026-03-24T20:43:14.000Z"
-    },
-    {
-      "id": "2c8ajh",
-      "title": "Databricks bought two startups to underpin its new AI security product",
-      "summary": "With an overflowing war chest from its recent $5 billion raise, Databricks is buying startups and looking for more. It acquired Antimatter and SiftD.ai.",
-      "imageUrl": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=800&q=80",
-      "source": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/03/24/databricks-buys-two-startups-lakewatch-antimatter-siftd-ai-security/",
-      "publishedAt": "2026-03-24T20:40:56.000Z"
     },
     {
       "id": "swej9x",
