@@ -1,7 +1,25 @@
 {
-  "fetchedAt": "2026-03-25T09:03:28.700Z",
+  "fetchedAt": "2026-03-25T10:27:26.830Z",
   "count": 60,
   "articles": [
+    {
+      "id": "2l0roy",
+      "title": "Arm’s CEO Insists the Market Needs His New CPU. It Could Piss Everyone Off",
+      "summary": "Arm just confirmed the rumors: It’s producing its own chip for the first time. CEO Rene Haas explains why this won’t alienate the many chipmakers who license the company’s designs.",
+      "imageUrl": "https://media.wired.com/photos/69c2ef3f0355f9e1ff2fd1e1/master/pass/JC_WIRED_ARM_4316_flat.jpg",
+      "source": "Wired",
+      "sourceUrl": "https://www.wired.com/story/arms-ceo-insists-the-market-needs-his-new-cpu-it-could-piss-everyone-off/",
+      "publishedAt": "2026-03-25T10:00:00.000Z"
+    },
+    {
+      "id": "ayeg2e",
+      "title": "The AI Hype Index: AI goes to war",
+      "summary": "AI is at war. Anthropic and the Pentagon feuded over how to weaponize Anthropic’s AI model Claude; then OpenAI swept the Pentagon off its feet with an “opportunistic and sloppy” deal. Users quit ChatGPT in droves. People marched through London in the biggest protest against AI to date. If you’re keeping score, Anthropic—the company founded…",
+      "imageUrl": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=800&q=80",
+      "source": "MIT Tech Review",
+      "sourceUrl": "https://www.technologyreview.com/2026/03/25/1134571/the-ai-hype-index-ai-goes-to-war/",
+      "publishedAt": "2026-03-25T09:00:00.000Z"
+    },
     {
       "id": "j46to6",
       "title": "With $3.5B in fresh capital, Kleiner Perkins is going all in on AI",
@@ -372,15 +390,6 @@
       "publishedAt": "2026-03-21T10:00:00.000Z"
     },
     {
-      "id": "i6aydn",
-      "title": "Anthropic Denies It Could Sabotage AI Tools During War",
-      "summary": "The Department of Defense alleges the AI developer could manipulate models in the middle of war. Company executives argue that’s impossible.",
-      "imageUrl": "https://media.wired.com/photos/69bdd83054a6d8f67d317f75/master/pass/Anthropic-Denies-It-Could-Sabotage-AI-Tools-In-Middle-of-War-Business.jpg",
-      "source": "Wired",
-      "sourceUrl": "https://www.wired.com/story/anthropic-denies-sabotage-ai-tools-war-claude/",
-      "publishedAt": "2026-03-21T00:03:20.000Z"
-    },
-    {
       "id": "2mfn6n",
       "title": "Widely used Trivy scanner compromised in ongoing supply-chain attack",
       "summary": "Admins: Sorry to say, but it's likely a rotate-your-secrets kind of weekend.",
@@ -424,15 +433,6 @@
       "source": "Ars Technica",
       "sourceUrl": "https://arstechnica.com/information-technology/2026/03/cloud-service-providers-ask-eu-regulator-to-reinstate-vmware-partner-program/",
       "publishedAt": "2026-03-19T21:29:53.000Z"
-    },
-    {
-      "id": "e4f7x1",
-      "title": "The Download: Quantum computing for health, and why the world doesn’t recycle more nuclear waste",
-      "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. A $5 million prize awaits proof that quantum computers can solve health care problems In a laboratory on the outskirts of Oxford, a quantum computer built from atoms and light awaits…",
-      "imageUrl": "https://images.unsplash.com/photo-1655720828018-edd2daec9349?w=800&q=80",
-      "source": "MIT Tech Review",
-      "sourceUrl": "https://www.technologyreview.com/2026/03/19/1134413/the-download-quantum-computing-health-recycling-nuclear-waste/",
-      "publishedAt": "2026-03-19T12:17:02.000Z"
     },
     {
       "id": "ku8rv9",
