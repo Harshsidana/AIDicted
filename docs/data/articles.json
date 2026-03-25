@@ -1,7 +1,34 @@
 {
-  "fetchedAt": "2026-03-25T12:05:16.253Z",
+  "fetchedAt": "2026-03-25T13:56:48.631Z",
   "count": 60,
   "articles": [
+    {
+      "id": "9ohwl0",
+      "title": "New Bernie Sanders AI Safety Bill Would Halt Data Center Construction",
+      "summary": "The US senator said on Tuesday that a moratorium would give lawmakers time to \"ensure that AI is safe.\" Alexandria Ocasio-Cortez will introduce a similar bill in the House in the weeks ahead.",
+      "imageUrl": "https://media.wired.com/photos/69c2e3e5a650a44d3b555dcb/master/pass/AOC-Bernie-Sanders-Introduce-Data-Center-Moratorium-Politics-2253720668.jpg",
+      "source": "Wired",
+      "sourceUrl": "https://www.wired.com/story/new-bernie-sanders-ai-safety-bill-would-halt-data-center-construction/",
+      "publishedAt": "2026-03-25T13:28:50.000Z"
+    },
+    {
+      "id": "d4yfot",
+      "title": "With Sift Stack, two ex-SpaceX engineers are bringing the software that helped launch rockets to the factory floor",
+      "summary": "Sift is building the data infrastructure for advanced manufacturing.",
+      "imageUrl": "https://images.unsplash.com/photo-1531746790095-6c10a4031c5f?w=800&q=80",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/03/25/with-sift-stack-two-ex-spacex-engineers-are-bringing-the-software-that-helped-launch-rockets-to-the-factory-floor/",
+      "publishedAt": "2026-03-25T13:00:00.000Z"
+    },
+    {
+      "id": "rbmlj9",
+      "title": "The Download: reawakening frozen brains, and the AI Hype Index returns",
+      "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. This scientist rewarmed and studied pieces of his friend’s cryopreserved brain L. Stephen Coles’s brain sits in a vat at a storage facility in Arizona. It has been held there at a temperature…",
+      "imageUrl": "https://images.unsplash.com/photo-1550751827-4bd374c3f58b?w=800&q=80",
+      "source": "MIT Tech Review",
+      "sourceUrl": "https://www.technologyreview.com/2026/03/25/1134636/the-download-reawakening-frozen-brains-and-the-ai-hype-index-returns/",
+      "publishedAt": "2026-03-25T12:47:44.000Z"
+    },
     {
       "id": "maz034",
       "title": "Agentic commerce runs on truth and context",
@@ -237,15 +264,6 @@
       "publishedAt": "2026-03-24T13:32:23.000Z"
     },
     {
-      "id": "59bwk3",
-      "title": "Mirage raises $75M to continue building models for its AI video-editing app Captions",
-      "summary": "Mirage, the maker of video-editing app Captions, has raised $75 million in growth financing from General Catalyst's Customer Value Fund (CVF).",
-      "imageUrl": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=800&q=80",
-      "source": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/03/24/mirage-raises-75m-to-continue-building-models-for-its-ai-video-editing-app-captions/",
-      "publishedAt": "2026-03-24T13:00:00.000Z"
-    },
-    {
       "id": "5c67ci",
       "title": "Self-propagating malware poisons open source software and wipes Iran-based machines",
       "summary": "Development houses: It's time to check your networks for infections.",
@@ -390,15 +408,6 @@
       "publishedAt": "2026-03-21T10:30:00.000Z"
     },
     {
-      "id": "uqx6vk",
-      "title": "'Jury Duty Presents: Company Retreat' Almost Makes Corporate Culture Seem Fun",
-      "summary": "The Amazon Prime prank series amplifies the hijinks of workplace dynamics, while showing how people find purpose—and community—in their jobs despite impossible situations.",
-      "imageUrl": "https://media.wired.com/photos/69bc59fc89c1dde02548b3cf/master/pass/Jury-Duty-2-Culture-TCDJUDU_ZU012.jpg",
-      "source": "Wired",
-      "sourceUrl": "https://www.wired.com/story/jury-duty-presents-company-retreat-almost-makes-corporate-culture-seem-fun/",
-      "publishedAt": "2026-03-21T10:00:00.000Z"
-    },
-    {
       "id": "2mfn6n",
       "title": "Widely used Trivy scanner compromised in ongoing supply-chain attack",
       "summary": "Admins: Sorry to say, but it's likely a rotate-your-secrets kind of weekend.",
@@ -415,15 +424,6 @@
       "source": "MIT Tech Review",
       "sourceUrl": "https://www.technologyreview.com/2026/03/20/1134448/the-download-openai-building-fully-automated-researcher-psychedelic-drug-trial/",
       "publishedAt": "2026-03-20T13:15:45.000Z"
-    },
-    {
-      "id": "xbl6r",
-      "title": "OpenAI is throwing everything into building a fully automated researcher",
-      "summary": "OpenAI is refocusing its research efforts and throwing its resources into a new grand challenge. The San Francisco firm has set its sights on building what it calls an AI researcher, a fully automated agent-based system that will be able to go off and tackle large, complex problems by itself. ​​OpenAI says that this new…",
-      "imageUrl": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=800&q=80",
-      "source": "MIT Tech Review",
-      "sourceUrl": "https://www.technologyreview.com/2026/03/20/1134438/openai-is-throwing-everything-into-building-a-fully-automated-researcher/",
-      "publishedAt": "2026-03-20T11:57:16.000Z"
     },
     {
       "id": "mytktq",
