@@ -1,7 +1,25 @@
 {
-  "fetchedAt": "2026-03-25T21:04:08.387Z",
+  "fetchedAt": "2026-03-25T22:03:55.638Z",
   "count": 60,
   "articles": [
+    {
+      "id": "yg3reo",
+      "title": "The AI skills gap is here, says AI company, and power users are pulling ahead",
+      "summary": "Anthropic finds AI isn’t replacing jobs yet, but early data shows growing inequality as experienced users gain an edge, raising concerns about future displacement and workforce divides.",
+      "imageUrl": "https://images.unsplash.com/photo-1676299081847-824916de030a?w=800&q=80",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/03/25/the-ai-skills-gap-is-here-says-ai-company-and-power-users-are-pulling-ahead/",
+      "publishedAt": "2026-03-25T21:44:13.000Z"
+    },
+    {
+      "id": "272yh",
+      "title": "Meta is laying off hundreds of employees as it pours money into AI",
+      "summary": "Meta is laying off hundreds of employees across its company, according to reports from The New York Times, NBC News, and The Information. The job cuts impact workers on Meta's recruiting, social media, and sales teams, along with Reality Labs, the division that develops the company's smart glasses and virtual reality headsets. \"Teams across Meta regularly restructure or implement changes to ensure they're in the best position to achieve their goals,\" Meta spokesperson Tracy Clayton says in an…",
+      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25546023/STK043_META_CVIRGINIA_A.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "source": "The Verge",
+      "sourceUrl": "https://www.theverge.com/tech/900946/meta-layoffs-hundreds-employees",
+      "publishedAt": "2026-03-25T21:10:32.000Z"
+    },
     {
       "id": "hqg4ls",
       "title": "Google unveils TurboQuant, a new AI memory compression algorithm — and yes, the internet is calling it ‘Pied Piper’",
@@ -318,15 +336,6 @@
       "publishedAt": "2026-03-24T21:08:10.000Z"
     },
     {
-      "id": "xixd30",
-      "title": "Anthropic hands Claude Code more control, but keeps it on a leash",
-      "summary": "Anthropic’s new auto mode for Claude Code lets AI execute tasks with fewer approvals, reflecting a broader shift toward more autonomous tools that balance speed with safety through built-in safeguards.",
-      "imageUrl": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=800&q=80",
-      "source": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/03/24/anthropic-hands-claude-code-more-control-but-keeps-it-on-a-leash/",
-      "publishedAt": "2026-03-24T21:00:30.000Z"
-    },
-    {
       "id": "6wm3kv",
       "title": "Arm’s first CPU ever will plug into Meta’s AI data centers later this year",
       "summary": "After decades of only licensing its chip designs for others to use, UK-based Arm revealed the first chip it's producing on its own, and the first customer. Dubbed the Arm AGI CPU, it's another chip designed for inference, or running the cloud processing for AI tools like AI agents that can continue to spawn more and more tasks to run at once. The first company in line to use it is Meta, which has reportedly struggled to launch its own AI chips. Meta says it's both the lead partner and…",
@@ -343,15 +352,6 @@
       "source": "MIT Tech Review",
       "sourceUrl": "https://www.technologyreview.com/2026/03/24/1134531/exclusive-ebook-are-we-ready-to-hand-ai-agents-the-keys/",
       "publishedAt": "2026-03-24T18:17:13.000Z"
-    },
-    {
-      "id": "pl3dz5",
-      "title": "ChatGPT and Gemini are fighting to be the AI bot that sells you stuff",
-      "summary": "The AI-powered shopping rivalry is heating up as Google and OpenAI launch new features to help you buy things while interacting with their chatbots. Now, Google is teaming up with Gap Inc to allow its Gemini AI assistant to purchase clothes on your behalf from any of its stores, which include Gap, Old Navy, Banana Republic, and Athleta, while OpenAI launched an updated shopping interface in ChatGPT. With Google's new partnership, you may see products from one of Gap's brands if you're asking…",
-      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25362057/STK_414_AI_CHATBOT_R2_CVirginia_B.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "source": "The Verge",
-      "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/899677/openai-google-gemini-ai-shopping-features",
-      "publishedAt": "2026-03-24T17:13:00.000Z"
     },
     {
       "id": "69c2zs",
