@@ -1,7 +1,70 @@
 {
-  "fetchedAt": "2026-03-25T13:56:48.631Z",
+  "fetchedAt": "2026-03-25T15:13:23.003Z",
   "count": 60,
   "articles": [
+    {
+      "id": "b3bp85",
+      "title": "Senate Democrats are trying to ‘codify’ Anthropic’s red lines on autonomous weapons and mass surveillance",
+      "summary": "Anthropic's fight with the Pentagon is expanding to Congress. Sen. Adam Schiff (D-CA) is working on a new bill to \"codify\" Anthropic's red lines and ensure humans make the ultimate decisions in questions of life and death, and Sen. Elissa Slotkin (D-MI) recently introduced a bill to limit the Defense Department's ability to use AI for mass surveillance of Americans. The Trump administration blacklisted Anthropic earlier this month after it set limits on how the military could use its AI models,…",
+      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/09/STK481_STK432_CONGRESS_GOVERNMENT_CIVRGINIA_C.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "source": "The Verge",
+      "sourceUrl": "https://www.theverge.com/policy/900341/senator-schiff-anthropic-autonomous-weapons-mass-surveillance",
+      "publishedAt": "2026-03-25T15:05:46.000Z"
+    },
+    {
+      "id": "y1iwpr",
+      "title": "OpenAI Enters Its Focus Era by Killing Sora",
+      "summary": "As the ChatGPT-maker eyes an IPO, it's ditching Sora in favor of a unified AI assistant and enterprise coding tools.",
+      "imageUrl": "https://media.wired.com/photos/69c314e588ed936ad6995cd4/master/pass/Sora-Shutdown-Business-2265991722.jpg",
+      "source": "Wired",
+      "sourceUrl": "https://www.wired.com/story/openai-shuts-down-sora-ipo-ai-superapp/",
+      "publishedAt": "2026-03-25T14:57:45.000Z"
+    },
+    {
+      "id": "dmf2he",
+      "title": "Granola raises $125M, hits $1.5B valuation as it expands from meeting notetaker to enterprise AI app",
+      "summary": "Granola's valuation jumped from $250 million to $1.5 billion with this round, and it has added more support for AI agents after users previously complained.",
+      "imageUrl": "https://images.unsplash.com/photo-1526374965328-7f61d4dc18c5?w=800&q=80",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/03/25/granola-raises-125m-hits-1-5b-valuation-as-it-expands-from-meeting-notetaker-to-enterprise-ai-app/",
+      "publishedAt": "2026-03-25T14:48:40.000Z"
+    },
+    {
+      "id": "g5phs1",
+      "title": "Meta launches new initiative to support entrepreneurship, drive AI adoption",
+      "summary": "Meta CEO Mark Zuckerberg said in a memo to staff that small businesses have always been a big part of the company's business model, and that while tens of millions of entrepreneurs already use its platforms to grow and connect with customers, the company wants to do more in the space.",
+      "imageUrl": "https://images.unsplash.com/photo-1485827404703-89b55fcc595e?w=800&q=80",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/03/25/meta-launches-new-initiative-to-support-entrepreneurship-drive-ai-adoption/",
+      "publishedAt": "2026-03-25T14:45:20.000Z"
+    },
+    {
+      "id": "7wq0q8",
+      "title": "Mark Zuckerberg and Jensen Huang are part of Trump’s new ‘tech panel’",
+      "summary": "Mark Zuckerberg. | Image: Cath Virginia / The Verge, Getty Images Meta CEO Mark Zuckerberg, Oracle CEO Larry Ellison, Nvidia CEO Jensen Huang, and Google cofounder Sergey Brin will be the first four members of the President's Council of Advisors on Science and Technology (PCAST), according to the Wall Street Journal. The panel, which will \"weigh in on AI policy,\" will include 13 members to start, but could grow to 24. Trump's AI and crypto czar David Sacks and White House tech advisor Michael…",
+      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/04/STKS507_FTCxMETA_ANTITRUST_CVIRGINIA_2_E.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "source": "The Verge",
+      "sourceUrl": "https://www.theverge.com/policy/900340/trump-tech-panel-mark-zuckerberg-jensen-huang",
+      "publishedAt": "2026-03-25T14:41:21.000Z"
+    },
+    {
+      "id": "atqjnl",
+      "title": "Meta turns to AI to make shopping easier on Instagram and Facebook",
+      "summary": "Meta is using generative AI to provide more product and brand information to consumers when they're shopping in its apps.",
+      "imageUrl": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=800&q=80",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/03/25/meta-turns-to-ai-to-make-shopping-easier-on-instagram-and-facebook/",
+      "publishedAt": "2026-03-25T14:16:17.000Z"
+    },
+    {
+      "id": "5toc4y",
+      "title": "This startup wants to change how mathematicians do math",
+      "summary": "Axiom Math, a startup based in Palo Alto, California, has released a free new AI tool for mathematicians, designed to discover mathematical patterns that could unlock solutions to long-standing problems. The tool, called Axplorer, is a redesign of an existing one called PatternBoost that François Charton, now a research scientist at Axiom, co-developed in 2024…",
+      "imageUrl": "https://images.unsplash.com/photo-1526374965328-7f61d4dc18c5?w=800&q=80",
+      "source": "MIT Tech Review",
+      "sourceUrl": "https://www.technologyreview.com/2026/03/25/1134642/this-startup-wants-to-change-how-mathematicians-do-math/",
+      "publishedAt": "2026-03-25T13:59:17.000Z"
+    },
     {
       "id": "9ohwl0",
       "title": "New Bernie Sanders AI Safety Bill Would Halt Data Center Construction",
@@ -12,10 +75,10 @@
       "publishedAt": "2026-03-25T13:28:50.000Z"
     },
     {
-      "id": "d4yfot",
-      "title": "With Sift Stack, two ex-SpaceX engineers are bringing the software that helped launch rockets to the factory floor",
+      "id": "9ivxh",
+      "title": "With Sift, two ex-SpaceX engineers are bringing the software that helped launch rockets to the factory floor",
       "summary": "Sift is building the data infrastructure for advanced manufacturing.",
-      "imageUrl": "https://images.unsplash.com/photo-1531746790095-6c10a4031c5f?w=800&q=80",
+      "imageUrl": "https://images.unsplash.com/photo-1550751827-4bd374c3f58b?w=800&q=80",
       "source": "TechCrunch",
       "sourceUrl": "https://techcrunch.com/2026/03/25/with-sift-stack-two-ex-spacex-engineers-are-bringing-the-software-that-helped-launch-rockets-to-the-factory-floor/",
       "publishedAt": "2026-03-25T13:00:00.000Z"
@@ -192,15 +255,6 @@
       "publishedAt": "2026-03-24T18:41:34.000Z"
     },
     {
-      "id": "siulrz",
-      "title": "Talat’s AI meeting notes stay on your machine, not in the cloud",
-      "summary": "The subscription-free AI meeting notes app is a local-first twist on notetaking tools like Granola.",
-      "imageUrl": "https://images.unsplash.com/photo-1676299081847-824916de030a?w=800&q=80",
-      "source": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/03/24/talats-ai-meeting-notes-stay-on-your-machine-not-in-the-cloud/",
-      "publishedAt": "2026-03-24T18:41:33.000Z"
-    },
-    {
       "id": "swej9x",
       "title": "Exclusive eBook: Are we ready to hand AI agents the keys?",
       "summary": "We’re starting to give AI agents real autonomy, but are we prepared for what could happen next? This subscriber-only eBook explores this and angles from experts, such as “If we continue on the current path … we are basically playing Russian roulette with humanity.” by Grace Huckins June 12, 2025 Related Stories: Access all subscriber-only…",
@@ -208,15 +262,6 @@
       "source": "MIT Tech Review",
       "sourceUrl": "https://www.technologyreview.com/2026/03/24/1134531/exclusive-ebook-are-we-ready-to-hand-ai-agents-the-keys/",
       "publishedAt": "2026-03-24T18:17:13.000Z"
-    },
-    {
-      "id": "k4totz",
-      "title": "Doss raises $55M for AI inventory management that plugs into ERP",
-      "summary": "Doss's AI-powered inventory management system integrates with existing ERP systems. The Series B round was co-led by Madrona and Premji Invest.",
-      "imageUrl": "https://images.unsplash.com/photo-1635070041078-e363dbe005cb?w=800&q=80",
-      "source": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/03/24/doss-raises-55m-for-ai-inventory-management-that-plugs-into-erp/",
-      "publishedAt": "2026-03-24T17:18:29.000Z"
     },
     {
       "id": "pl3dz5",
@@ -244,15 +289,6 @@
       "source": "MIT Tech Review",
       "sourceUrl": "https://www.technologyreview.com/2026/03/24/1134562/cryopreservation-brain-cryonics-organ-transplantation/",
       "publishedAt": "2026-03-24T16:43:36.000Z"
-    },
-    {
-      "id": "7hjt0o",
-      "title": "Meet the former Apple designer building a new AI interface at Hark",
-      "summary": "The company said it would design models, hardware, and interfaces in tandem to deliver a \"seamless end-to-end personal intelligence product.\"",
-      "imageUrl": "https://images.unsplash.com/photo-1550751827-4bd374c3f58b?w=800&q=80",
-      "source": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/03/24/meet-the-former-apple-designer-building-a-new-ai-interface-at-hark/",
-      "publishedAt": "2026-03-24T16:00:00.000Z"
     },
     {
       "id": "kloqzq",
@@ -372,24 +408,6 @@
       "publishedAt": "2026-03-23T09:00:00.000Z"
     },
     {
-      "id": "vkw7w8",
-      "title": "AI influencer awards season is upon us",
-      "summary": "First came the AI beauty pageant. Then the AI music contests. Now, there is an award for AI Personality of the Year - perhaps the inevitable next step for the AI influencer economy as it fights for legitimacy amid an onslaught of AI slop and grifters and transforms from quirky novelty into a serious and lucrative industry. The contest, a joint venture between generative AI studio OpenArt and AI-powered creator platform Fanvue, with backing from AI voice company ElevenLabs, opens on Monday and…",
-      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/03/STK414_AI_CVIRGINIA_I__0001_11.png?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "source": "The Verge",
-      "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/898781/ai-personality-of-the-year-influencer-contest",
-      "publishedAt": "2026-03-23T00:01:00.000Z"
-    },
-    {
-      "id": "dfju59",
-      "title": "Crimson Desert dev apologizes for use of AI art",
-      "summary": "That’s some sloppy looking slop. | Image: Rex_Spy / Reddit Reviews of Crimson Desert have been mixed, but the bigger issue for the game has been the discovery of what appeared to be AI-generated assets in the final release. Now the developer has acknowledged that AI art was indeed used during the game's creation, but says that it was intended to be replaced before release. In a statement on X, the company said it was conducting a \"comprehensive audit\" to identify and replace any AI-generated…",
-      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/03/found-this-ai-painting-v0-otfba7ufh8qg1.webp?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "source": "The Verge",
-      "sourceUrl": "https://www.theverge.com/games/898771/crimson-desert-dev-apologizes-ai-art",
-      "publishedAt": "2026-03-22T17:34:34.000Z"
-    },
-    {
       "id": "jr0ro8",
       "title": "I Tried DoorDash’s Tasks App and Saw the Bleak Future of AI Gig Work",
       "summary": "I recorded videos of myself doing laundry, scrambling eggs, and walking around the park in DoorDash’s new Tasks app, where gig workers are paid to train AI.",
@@ -399,15 +417,6 @@
       "publishedAt": "2026-03-21T11:00:00.000Z"
     },
     {
-      "id": "kiacnx",
-      "title": "Cyberattack on a Car Breathalyzer Firm Leaves Drivers Stuck",
-      "summary": "Plus: The FBI admits it’s buying phone data to track Americans, Iranian hackers disrupt medical care at Maryland hospitals, and more.",
-      "imageUrl": "https://media.wired.com/photos/69bd936664f16d66cf6343e0/master/pass/Security-Roundup-Hacked-Breathalyzer-Security-523525124.jpg",
-      "source": "Wired",
-      "sourceUrl": "https://www.wired.com/story/security-news-this-week-cyberattack-on-a-car-breathalyzer-firm-leaves-drivers-stuck/",
-      "publishedAt": "2026-03-21T10:30:00.000Z"
-    },
-    {
       "id": "2mfn6n",
       "title": "Widely used Trivy scanner compromised in ongoing supply-chain attack",
       "summary": "Admins: Sorry to say, but it's likely a rotate-your-secrets kind of weekend.",
@@ -415,15 +424,6 @@
       "source": "Ars Technica",
       "sourceUrl": "https://arstechnica.com/security/2026/03/widely-used-trivy-scanner-compromised-in-ongoing-supply-chain-attack/",
       "publishedAt": "2026-03-20T20:50:46.000Z"
-    },
-    {
-      "id": "357zki",
-      "title": "The Download: OpenAI is building a fully automated researcher, and a psychedelic trial blind spot",
-      "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. OpenAI is throwing everything into building a fully automated researcher OpenAI has a new grand challenge: building an AI researcher—a fully automated agent-based system capable of tackling large, complex problems by…",
-      "imageUrl": "https://images.unsplash.com/photo-1676299081847-824916de030a?w=800&q=80",
-      "source": "MIT Tech Review",
-      "sourceUrl": "https://www.technologyreview.com/2026/03/20/1134448/the-download-openai-building-fully-automated-researcher-psychedelic-drug-trial/",
-      "publishedAt": "2026-03-20T13:15:45.000Z"
     },
     {
       "id": "mytktq",
