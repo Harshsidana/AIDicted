@@ -1,7 +1,16 @@
 {
-  "fetchedAt": "2026-03-25T19:27:14.192Z",
+  "fetchedAt": "2026-03-25T20:03:47.218Z",
   "count": 60,
   "articles": [
+    {
+      "id": "bka2dm",
+      "title": "Disney’s big bets on the metaverse and AI slop aren’t going so well",
+      "summary": "Less than a week into his tenure as Disney's newly-appointed CEO, Josh D'Amaro is already dealing with two separate crises that have cast a shadow over the company's future plans. OpenAI is shutting down its Sora image-generation program just months after Disney announced a $1 billion dollar collaboration to bake the tech into Disney Plus. And Fortnite maker Epic is laying off 1,000 employees at a time when we've heard basically nothing about the game studio's $1.5 billion investment deal with…",
+      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/05/darth-vader-fortnite-1920x1080-95ea0f1d91f3.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "source": "The Verge",
+      "sourceUrl": "https://www.theverge.com/streaming/900837/disney-open-ai-sora-epic-fortnite-metaverse",
+      "publishedAt": "2026-03-25T20:02:48.000Z"
+    },
     {
       "id": "jy2l2v",
       "title": "There’s Something Very Dark About a Lot of Those Viral AI Fruit Videos",
@@ -361,15 +370,6 @@
       "source": "MIT Tech Review",
       "sourceUrl": "https://www.technologyreview.com/2026/03/24/1134562/cryopreservation-brain-cryonics-organ-transplantation/",
       "publishedAt": "2026-03-24T16:43:36.000Z"
-    },
-    {
-      "id": "kloqzq",
-      "title": "Anthropic’s Claude Code and Cowork can control your computer",
-      "summary": "Claude will ask you for permission to autonomously perform taks on your computer. | Image by Anthropic Anthropic has updated Claude to perform tasks in its Code and Cowork AI tools autonomously by using your computer for you. The new feature can be used to automatically open files, use web browsers and apps, and run dev tools \"with no setup required,\" even when you're away from your computer, according to Anthropic's announcement. These new capabilities are available as a research preview for…",
-      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/03/Anthropic-Claude-Code-Cowork-computer-control.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "source": "The Verge",
-      "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/899430/anthropic-claude-code-cowork-ai-control-computer",
-      "publishedAt": "2026-03-24T13:32:23.000Z"
     },
     {
       "id": "5c67ci",
