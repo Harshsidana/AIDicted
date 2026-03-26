@@ -1,7 +1,124 @@
 {
-  "fetchedAt": "2026-03-26T11:02:05.510Z",
+  "fetchedAt": "2026-03-26T17:13:15.117Z",
   "count": 60,
   "articles": [
+    {
+      "id": "cliece",
+      "title": "Meta gets ready to launch two new Ray-Ban AI glasses",
+      "summary": "Second-generation Ray-Ban Meta glasses. | Photo by Amelia Holowaty Krales / The Verge This is Lowpass by Janko Roettgers, a newsletter on the ever-evolving intersection of tech and entertainment, syndicated just for The Verge subscribers once a week. Meta and its AI glasses hardware partner EssilorLuxottica are getting ready to launch the next generation of their Ray-Ban AI glasses. That's according to a series of FCC filings for two new Meta Ray-Ban models that were published by the agency…",
+      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/09/257979_RayBan_Meta_Gen2_AKrales_0117.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "source": "The Verge",
+      "sourceUrl": "https://www.theverge.com/column/901314/meta-new-ray-ban-ai-glasses",
+      "publishedAt": "2026-03-26T16:30:00.000Z"
+    },
+    {
+      "id": "6ad9um",
+      "title": "ByteDance’s new AI video generation model, Dreamina Seedance 2.0, comes to CapCut",
+      "summary": "The new model in CapCut will have built-in protections for making video from real faces or unauthorized intellectual property.",
+      "imageUrl": "https://images.unsplash.com/photo-1676299081847-824916de030a?w=800&q=80",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/03/26/bytedances-new-ai-video-generation-model-dreamina-seedance-2-0-comes-to-capcut/",
+      "publishedAt": "2026-03-26T15:25:13.000Z"
+    },
+    {
+      "id": "nqrdv2",
+      "title": "Wikipedia bans AI-generated articles",
+      "summary": "Wikipedia will no longer allow editors to write or rewrite articles using AI. The update, which was added to Wikipedia's guidelines late last week, cites the tendency for AI-written articles to violate \"several of Wikipedia's core content policies\" as the reason for the ban. The change applies to the English version of Wikipedia and will still allow editors to use AI in certain scenarios. That includes using large language models to \"suggest basic copyedits\" to their writing, but only if it…",
+      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/02/STK037_WIKIPEDIA_C.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "source": "The Verge",
+      "sourceUrl": "https://www.theverge.com/tech/901461/wikipedia-ai-generated-article-ban",
+      "publishedAt": "2026-03-26T15:02:52.000Z"
+    },
+    {
+      "id": "6rcc1c",
+      "title": "Senators are pushing to find out how much electricity data centers actually use",
+      "summary": "An Amazon data center in Oregon. | Image: Amazon On Thursday, senators Elizabeth Warren (D-MA) and Josh Hawley (R-MO) sent a letter to the Energy Information Administration (EIA) asking it to collect \"comprehensive, annual energy-use disclosures\" on data centers and make that information publicly available, as first reported by Wired. They're urging the agency to \"establish a mandatory annual reporting requirement for data centers,\" saying the data is \"essential for accurate grid planning,\" and…",
+      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/11/hero-001-10-gallery-data-center-drone-cropped-copy.jpeg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "source": "The Verge",
+      "sourceUrl": "https://www.theverge.com/policy/901404/senators-warren-hawley-eia-letter-data-centers",
+      "publishedAt": "2026-03-26T14:25:32.000Z"
+    },
+    {
+      "id": "aaow6b",
+      "title": "Conntour raises $7M from General Catalyst, YC to build an AI search engine for security video systems",
+      "summary": "Conntour uses AI models to let security teams query camera feeds using natural language to find any object, person, or situation.",
+      "imageUrl": "https://images.unsplash.com/photo-1526374965328-7f61d4dc18c5?w=800&q=80",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/03/26/conntour-raises-7m-from-general-catalyst-yc-to-build-an-ai-search-engine-for-security-video-systems/",
+      "publishedAt": "2026-03-26T13:41:00.000Z"
+    },
+    {
+      "id": "4kza1w",
+      "title": "Cohere launches an open source voice model specifically for transcription",
+      "summary": "Relatively light at just 2 billion parameters, the model is meant for use with consumer-grade GPUs for those who want to self-host it. It currently supports 14 languages.",
+      "imageUrl": "https://images.unsplash.com/photo-1655720828018-edd2daec9349?w=800&q=80",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/03/26/cohere-launches-an-open-source-voice-model-specifically-for-transcription/",
+      "publishedAt": "2026-03-26T13:30:00.000Z"
+    },
+    {
+      "id": "1m9v1e",
+      "title": "Webtoon is adding AI localization tools to its comics platform",
+      "summary": "Canvas, Webtoon's platform for user-uploaded comics, is about to get a major overhaul that's designed to help creators make more money and share their art with a wider audience. Today, Webtoon announced its plans to roll out a number of new features for Canvas that will make it easier for artists to build global followings and gain a deeper understanding of who's engaging with their work. Soon, manga creators who upload their work to Canvas will be able to use an AI-powered translation tool to…",
+      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/03/Screenshot-2026-03-23-at-4.06.41%E2%80%AFPM.jpg?quality=90&#038;strip=all&#038;crop=12.468125915527,0,73.526875305176,100",
+      "source": "The Verge",
+      "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/899108/webtoon-canvas-ai-translation-localization-yongsoo-kim",
+      "publishedAt": "2026-03-26T13:00:00.000Z"
+    },
+    {
+      "id": "81edfd",
+      "title": "EU backs nude app ban and delays to landmark AI rules",
+      "summary": "European lawmakers have voted to delay key parts of the EU AI Act, the bloc's flagship law for regulating artificial intelligence, while also backing proposals to ban nudify apps. The measures, approved by a large majority in the European Parliament, would push back compliance deadlines for developers of high-risk AI systems - those deemed to pose a \"serious risk\" to health, safety, or fundamental rights - until December 2027. Companies developing AI systems covered by sector-specific safety…",
+      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/03/STK450_EU_E.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "source": "The Verge",
+      "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/901315/eu-ai-act-delays-ban-nudify-apps",
+      "publishedAt": "2026-03-26T12:49:01.000Z"
+    },
+    {
+      "id": "j0o029",
+      "title": "The Download: a battery pivot to AI, and rewriting math",
+      "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. Why this battery company is pivoting to AI Qichao Hu doesn’t mince words about the state of the battery industry. “Almost every Western battery company has either died or is going to die. It’s kind of…",
+      "imageUrl": "https://images.unsplash.com/photo-1676299081847-824916de030a?w=800&q=80",
+      "source": "MIT Tech Review",
+      "sourceUrl": "https://www.technologyreview.com/2026/03/26/1134697/the-download-battery-ai-pivot-new-ai-tool-math/",
+      "publishedAt": "2026-03-26T12:42:53.000Z"
+    },
+    {
+      "id": "cc4hs8",
+      "title": "A ‘pound of flesh’ from data centers: one senator’s answer to AI job losses",
+      "summary": "Fears of AI-driven job loss are growing fast, and they’re fueling backlash against data centers. Sen. Mark Warner suggests taxing them to help workers survive the transition.",
+      "imageUrl": "https://images.unsplash.com/photo-1526374965328-7f61d4dc18c5?w=800&q=80",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/03/26/a-pound-of-flesh-from-data-centers-one-senators-answer-to-ai-job-losses/",
+      "publishedAt": "2026-03-26T12:00:00.000Z"
+    },
+    {
+      "id": "6e9d91",
+      "title": "Senators Demand to Know How Much Energy Data Centers Use",
+      "summary": "In a letter sent Thursday morning, Elizabeth Warren and Josh Hawley press the Energy Information Agency to mandate annual electricity disclosure for data centers.",
+      "imageUrl": "https://media.wired.com/photos/69c421794ff31d9d83686f80/master/pass/Elizabeth-Warren-Josh-Hawley-Demand-EIA-Start-Monitoring-How-Much-Energy-Data-Centers-Use-Science-2255930687.jpg",
+      "source": "Wired",
+      "sourceUrl": "https://www.wired.com/story/senators-demand-to-know-how-much-energy-data-centers-use/",
+      "publishedAt": "2026-03-26T12:00:00.000Z"
+    },
+    {
+      "id": "9g1ffu",
+      "title": "OpenAI shelves erotic chatbot ‘indefinitely’",
+      "summary": "OpenAI ​has paused plans to release a sexualized \"adult mode\" for ChatGPT, in its latest move to refocus on the company's core ​products. According to The Financial Times, the erotic chatbot has been shelved \"indefinitely\" after facing pushback from employees and investors due to the problematic and harmful ​effects sexualized AI ​content can have on society. This decision comes in the wake of OpenAI also discontinuing its text-to-video AI platform Sora, citing \"internal discussion about our…",
+      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/07/STK464_PORN_ADULT_CONTENT_A.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "source": "The Verge",
+      "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/901293/openai-adult-mode-erotic-chatbot-shelved-indefinitely",
+      "publishedAt": "2026-03-26T11:58:09.000Z"
+    },
+    {
+      "id": "hdxns",
+      "title": "Mistral releases a new open source model for speech generation",
+      "summary": "The model, which lets enterprises build voice agents for sales and customer engagement, puts Mistral in direct competition with the likes of ElevenLabs, Deepgram, and OpenAI.",
+      "imageUrl": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=800&q=80",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/03/26/mistral-releases-a-new-open-source-model-for-speech-generation/",
+      "publishedAt": "2026-03-26T11:30:00.000Z"
+    },
     {
       "id": "904b9q",
       "title": "‘She’s Never Going to Age’: Porn Stars Are Embracing AI Clones to Stay Forever Young",
@@ -165,15 +282,6 @@
       "publishedAt": "2026-03-25T16:10:00.000Z"
     },
     {
-      "id": "n71vvl",
-      "title": "Google Lyria 3 Pro makes longer AI songs",
-      "summary": "Google is expanding the capabilities of its Lyria 3 music-making AI, enabling it to create tracks up to three minutes long and from within multiple other Google Products. Until now, Lyria had been limited to 30-second clips. Lyria 3 Pro not only increases the maximum length sixfold, it also allows the user to prompt for specific elements like intros, choruses, and bridges for greater control over arrangements. Lyria 3 Pro works much like other popular music generation tools, such as Suno and…",
-      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/05/STK467_AI_Music.webp?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "source": "The Verge",
-      "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/900425/google-lyria-3-pro-ai-music",
-      "publishedAt": "2026-03-25T16:00:00.000Z"
-    },
-    {
       "id": "x2s6yj",
       "title": "Google bumps up Q Day deadline to 2029, far sooner than previously thought",
       "summary": "Company warns entire industry to move off RSA and EC more quickly.",
@@ -190,15 +298,6 @@
       "source": "TechCrunch",
       "sourceUrl": "https://techcrunch.com/2026/03/25/harvey-confirms-11b-valuation-sequoia-triples-down/",
       "publishedAt": "2026-03-25T15:27:15.000Z"
-    },
-    {
-      "id": "b3bp85",
-      "title": "Senate Democrats are trying to ‘codify’ Anthropic’s red lines on autonomous weapons and mass surveillance",
-      "summary": "Anthropic's fight with the Pentagon is expanding to Congress. Sen. Adam Schiff (D-CA) is working on a new bill to \"codify\" Anthropic's red lines and ensure humans make the ultimate decisions in questions of life and death, and Sen. Elissa Slotkin (D-MI) recently introduced a bill to limit the Defense Department's ability to use AI for mass surveillance of Americans. The Trump administration blacklisted Anthropic earlier this month after it set limits on how the military could use its AI models,…",
-      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/09/STK481_STK432_CONGRESS_GOVERNMENT_CIVRGINIA_C.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "source": "The Verge",
-      "sourceUrl": "https://www.theverge.com/policy/900341/senator-schiff-anthropic-autonomous-weapons-mass-surveillance",
-      "publishedAt": "2026-03-25T15:05:46.000Z"
     },
     {
       "id": "3h12pk",
@@ -228,33 +327,6 @@
       "publishedAt": "2026-03-25T14:48:40.000Z"
     },
     {
-      "id": "g5phs1",
-      "title": "Meta launches new initiative to support entrepreneurship, drive AI adoption",
-      "summary": "Meta CEO Mark Zuckerberg said in a memo to staff that small businesses have always been a big part of the company's business model, and that while tens of millions of entrepreneurs already use its platforms to grow and connect with customers, the company wants to do more in the space.",
-      "imageUrl": "https://images.unsplash.com/photo-1485827404703-89b55fcc595e?w=800&q=80",
-      "source": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/03/25/meta-launches-new-initiative-to-support-entrepreneurship-drive-ai-adoption/",
-      "publishedAt": "2026-03-25T14:45:20.000Z"
-    },
-    {
-      "id": "7wq0q8",
-      "title": "Mark Zuckerberg and Jensen Huang are part of Trump’s new ‘tech panel’",
-      "summary": "Mark Zuckerberg. | Image: Cath Virginia / The Verge, Getty Images Meta CEO Mark Zuckerberg, Oracle CTO and executive chairman Larry Ellison, Nvidia CEO Jensen Huang, and Google cofounder Sergey Brin will be the first four members of the President's Council of Advisors on Science and Technology (PCAST), according to the Wall Street Journal. The panel, which will \"weigh in on AI policy,\" will include 13 members to start, but could grow to 24. Trump's AI and crypto czar David Sacks and White House…",
-      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/04/STKS507_FTCxMETA_ANTITRUST_CVIRGINIA_2_E.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "source": "The Verge",
-      "sourceUrl": "https://www.theverge.com/policy/900340/trump-tech-panel-mark-zuckerberg-jensen-huang",
-      "publishedAt": "2026-03-25T14:41:21.000Z"
-    },
-    {
-      "id": "atqjnl",
-      "title": "Meta turns to AI to make shopping easier on Instagram and Facebook",
-      "summary": "Meta is using generative AI to provide more product and brand information to consumers when they're shopping in its apps.",
-      "imageUrl": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=800&q=80",
-      "source": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/03/25/meta-turns-to-ai-to-make-shopping-easier-on-instagram-and-facebook/",
-      "publishedAt": "2026-03-25T14:16:17.000Z"
-    },
-    {
       "id": "5toc4y",
       "title": "This startup wants to change how mathematicians do math",
       "summary": "Axiom Math, a startup based in Palo Alto, California, has released a free new AI tool for mathematicians, designed to discover mathematical patterns that could unlock solutions to long-standing problems. The tool, called Axplorer, is a redesign of an existing one called PatternBoost that François Charton, now a research scientist at Axiom, co-developed in 2024…",
@@ -271,15 +343,6 @@
       "source": "Wired",
       "sourceUrl": "https://www.wired.com/story/new-bernie-sanders-ai-safety-bill-would-halt-data-center-construction/",
       "publishedAt": "2026-03-25T13:28:50.000Z"
-    },
-    {
-      "id": "9ivxh",
-      "title": "With Sift, two ex-SpaceX engineers are bringing the software that helped launch rockets to the factory floor",
-      "summary": "Sift is building the data infrastructure for advanced manufacturing.",
-      "imageUrl": "https://images.unsplash.com/photo-1550751827-4bd374c3f58b?w=800&q=80",
-      "source": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/03/25/with-sift-stack-two-ex-spacex-engineers-are-bringing-the-software-that-helped-launch-rockets-to-the-factory-floor/",
-      "publishedAt": "2026-03-25T13:00:00.000Z"
     },
     {
       "id": "rbmlj9",
@@ -300,24 +363,6 @@
       "publishedAt": "2026-03-25T11:48:13.000Z"
     },
     {
-      "id": "vz24ri",
-      "title": "Anthropic’s Claude Code gets ‘safer’ auto mode",
-      "summary": "Anthropic has launched an \"auto mode\" for Claude Code, a new tool that lets AI make permissions-level decisions on users' behalf. The company says the feature offers vibe coders a safer alternative between constant handholding or giving the model dangerous levels of autonomy. Claude Code is capable of acting independently on users' behalf, a useful but risky feature as it can also do things users don't want, like deleting files, sending out sensitive data, and executing malicious code or hidden…",
-      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/03/STK269_ANTHROPIC_2_A.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "source": "The Verge",
-      "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/900201/anthropic-claude-code-auto-mode",
-      "publishedAt": "2026-03-25T11:39:46.000Z"
-    },
-    {
-      "id": "xd48pe",
-      "title": "Lucid Bots raises $20M to keep up with demand for its window-washing drones",
-      "summary": "Lucid Bots has seen demand accelerate over the last year for its window-cleaning drones and power-washing robots.",
-      "imageUrl": "https://images.unsplash.com/photo-1550751827-4bd374c3f58b?w=800&q=80",
-      "source": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/03/25/lucid-bots-raises-20m-to-keep-up-with-demand-for-its-window-washing-drones/",
-      "publishedAt": "2026-03-25T11:00:00.000Z"
-    },
-    {
       "id": "2l0roy",
       "title": "Arm’s CEO Insists the Market Needs His New CPU. It Could Piss Everyone Off",
       "summary": "Arm just confirmed the rumors: It’s producing its own chip for the first time. CEO Rene Haas explains why this won’t alienate the many chipmakers who license the company’s designs.",
@@ -336,15 +381,6 @@
       "publishedAt": "2026-03-25T09:00:00.000Z"
     },
     {
-      "id": "j46to6",
-      "title": "With $3.5B in fresh capital, Kleiner Perkins is going all in on AI",
-      "summary": "The fundraise includes $1 billion for investing in early-stage startups and $2.5 billion for late-stage growth businesses.",
-      "imageUrl": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=800&q=80",
-      "source": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/03/24/with-3-5b-in-fresh-capital-kleiner-perkins-is-going-all-in-on-ai/",
-      "publishedAt": "2026-03-25T00:47:20.000Z"
-    },
-    {
       "id": "wlzrrl",
       "title": "Pentagon’s ‘Attempt to Cripple’ Anthropic Is Troubling, Judge Says",
       "summary": "During a hearing Tuesday, a district court judge questioned the Department of Defense’s motivations for labeling the Claude AI developer a supply-chain risk.",
@@ -352,24 +388,6 @@
       "source": "Wired",
       "sourceUrl": "https://www.wired.com/story/pentagons-attempt-to-cripple-anthropic-is-troublesome-judge-says/",
       "publishedAt": "2026-03-24T22:13:17.000Z"
-    },
-    {
-      "id": "guu2bo",
-      "title": "OpenAI just gave up on Sora and its billion-dollar Disney deal",
-      "summary": "A frame from a Sora 2-generated video. | Image: OpenAI On Tuesday afternoon, OpenAI announced \"We're saying goodbye to Sora,\" the video generation tool that it launched at the end of 2024, and centered in a massive licensing deal with Disney only a few months ago. The Wall Street Journal reported the move earlier, saying that OpenAI boss Sam Altman had informed staff that both the TikTok-like Sora app and API access for developers would be discontinued, with no plans to roll the feature into…",
-      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/09/ai-label-1.png?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "source": "The Verge",
-      "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/899850/openai-sora-ai-chatgpt",
-      "publishedAt": "2026-03-24T21:08:10.000Z"
-    },
-    {
-      "id": "6wm3kv",
-      "title": "Arm’s first CPU ever will plug into Meta’s AI data centers later this year",
-      "summary": "After decades of only licensing its chip designs for others to use, UK-based Arm revealed the first chip it's producing on its own, and the first customer. Dubbed the Arm AGI CPU, it's another chip designed for inference, or running the cloud processing for AI tools like AI agents that can continue to spawn more and more tasks to run at once. The first company in line to use it is Meta, which has reportedly struggled to launch its own AI chips. Meta says it's both the lead partner and…",
-      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/03/20260216_VISION25_ExplodedTight_Chip-01-16x9_16bit_v2-1200x675-1.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "source": "The Verge",
-      "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/899823/arm-agi-cpu-meta",
-      "publishedAt": "2026-03-24T20:43:14.000Z"
     },
     {
       "id": "swej9x",
@@ -390,15 +408,6 @@
       "publishedAt": "2026-03-24T17:00:00.000Z"
     },
     {
-      "id": "q917jv",
-      "title": "This scientist rewarmed and studied pieces of his friend’s cryopreserved brain",
-      "summary": "L. Stephen Coles’s brain sits cushioned in a vat at a storage facility in Arizona. It has been held there at a temperature of around −146 degrees °C for over a decade, largely undisturbed. That is, apart from the time, a little over a year ago, when scientists slowly lifted the brain to take photos…",
-      "imageUrl": "https://images.unsplash.com/photo-1550751827-4bd374c3f58b?w=800&q=80",
-      "source": "MIT Tech Review",
-      "sourceUrl": "https://www.technologyreview.com/2026/03/24/1134562/cryopreservation-brain-cryonics-organ-transplantation/",
-      "publishedAt": "2026-03-24T16:43:36.000Z"
-    },
-    {
       "id": "5c67ci",
       "title": "Self-propagating malware poisons open source software and wipes Iran-based machines",
       "summary": "Development houses: It's time to check your networks for infections.",
@@ -415,15 +424,6 @@
       "source": "Wired",
       "sourceUrl": "https://www.wired.com/story/the-big-interview-podcast-chris-hayes/",
       "publishedAt": "2026-03-24T10:30:00.000Z"
-    },
-    {
-      "id": "jnn8q4",
-      "title": "Your Body Is Betraying Your Right to Privacy",
-      "summary": "Attachment to smart devices and biometric surveillance leaves Americans more vulnerable to police searches than ever. Left unchecked it will only get worse.",
-      "imageUrl": "https://media.wired.com/photos/69c1aa958d470e1446eb5d44/master/pass/Book-Excerpt-Your-Body-Is-Betraying-Your-Right-to-Privacy-Security.jpg",
-      "source": "Wired",
-      "sourceUrl": "https://www.wired.com/story/book-excerpt-your-data-will-be-used-against-you-andrew-guthrie-ferguson/",
-      "publishedAt": "2026-03-24T10:00:00.000Z"
     },
     {
       "id": "2mfn6n",
