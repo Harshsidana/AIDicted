@@ -1,7 +1,34 @@
 {
-  "fetchedAt": "2026-03-26T17:13:15.117Z",
+  "fetchedAt": "2026-03-26T18:35:04.226Z",
   "count": 60,
   "articles": [
+    {
+      "id": "2txgyg",
+      "title": "OpenAI abandons yet another side quest: ChatGPT’s erotic mode",
+      "summary": "It's only the latest of several side project that the AI startup has ditched over the past week.",
+      "imageUrl": "https://images.unsplash.com/photo-1676299081847-824916de030a?w=800&q=80",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/03/26/openai-abandons-yet-another-side-quest-chatgpts-erotic-mode/",
+      "publishedAt": "2026-03-26T18:34:02.000Z"
+    },
+    {
+      "id": "reiy46",
+      "title": "Data centers get ready — the Senate wants to see your power bills",
+      "summary": "Sens. Josh Hawley and Elizabeth Warren want the Energy Information Administration to gather more details about how data centers use power — and how that affects the grid.",
+      "imageUrl": "https://images.unsplash.com/photo-1655720828018-edd2daec9349?w=800&q=80",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/03/26/data-centers-get-ready-the-senate-wants-to-see-your-power-bills/",
+      "publishedAt": "2026-03-26T18:23:31.000Z"
+    },
+    {
+      "id": "b0mkv7",
+      "title": "Meet the Tech Reporters Using AI to Help Write and Edit Their Stories",
+      "summary": "Independent writers are using AI agents all throughout their reporting process. What’s the value of a human journalist, anyway?",
+      "imageUrl": "https://media.wired.com/photos/69c44c4c4ff31d9d83686fcc/master/pass/Model-Behavior-Newsletter-Writers-Using-AI-to-Write-Their-Columns-Business.jpg",
+      "source": "Wired",
+      "sourceUrl": "https://www.wired.com/story/tech-reporters-using-ai-write-edit-stories/",
+      "publishedAt": "2026-03-26T18:00:00.000Z"
+    },
     {
       "id": "cliece",
       "title": "Meta gets ready to launch two new Ray-Ban AI glasses",
@@ -84,10 +111,10 @@
       "publishedAt": "2026-03-26T12:42:53.000Z"
     },
     {
-      "id": "cc4hs8",
-      "title": "A ‘pound of flesh’ from data centers: one senator’s answer to AI job losses",
+      "id": "guqx94",
+      "title": "A ‘pound of flesh’ from data centers: One senator’s answer to AI job losses",
       "summary": "Fears of AI-driven job loss are growing fast, and they’re fueling backlash against data centers. Sen. Mark Warner suggests taxing them to help workers survive the transition.",
-      "imageUrl": "https://images.unsplash.com/photo-1526374965328-7f61d4dc18c5?w=800&q=80",
+      "imageUrl": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=800&q=80",
       "source": "TechCrunch",
       "sourceUrl": "https://techcrunch.com/2026/03/26/a-pound-of-flesh-from-data-centers-one-senators-answer-to-ai-job-losses/",
       "publishedAt": "2026-03-26T12:00:00.000Z"
@@ -291,15 +318,6 @@
       "publishedAt": "2026-03-25T15:49:17.000Z"
     },
     {
-      "id": "sa3ly6",
-      "title": "Harvey confirms $11B valuation: Sequoia triples down",
-      "summary": "Investors like Sequoia, Andreessen Horowitz, Kleiner Perkins, and Elad Gil can't get enough of AI legal tech startup Harvey.",
-      "imageUrl": "https://images.unsplash.com/photo-1531746790095-6c10a4031c5f?w=800&q=80",
-      "source": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/03/25/harvey-confirms-11b-valuation-sequoia-triples-down/",
-      "publishedAt": "2026-03-25T15:27:15.000Z"
-    },
-    {
       "id": "3h12pk",
       "title": "Why this battery company is pivoting to AI",
       "summary": "Qichao Hu doesn’t mince words about how he sees the state of the battery industry. “Almost every Western battery company has either died or is going to die. It’s kind of the reality,” he says. Hu is the CEO of SES AI, a Massachusetts-based battery company. It once had aims of making huge amounts of…",
@@ -316,15 +334,6 @@
       "source": "Wired",
       "sourceUrl": "https://www.wired.com/story/openai-shuts-down-sora-ipo-ai-superapp/",
       "publishedAt": "2026-03-25T14:57:45.000Z"
-    },
-    {
-      "id": "dmf2he",
-      "title": "Granola raises $125M, hits $1.5B valuation as it expands from meeting notetaker to enterprise AI app",
-      "summary": "Granola's valuation jumped from $250 million to $1.5 billion with this round, and it has added more support for AI agents after users previously complained.",
-      "imageUrl": "https://images.unsplash.com/photo-1526374965328-7f61d4dc18c5?w=800&q=80",
-      "source": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/03/25/granola-raises-125m-hits-1-5b-valuation-as-it-expands-from-meeting-notetaker-to-enterprise-ai-app/",
-      "publishedAt": "2026-03-25T14:48:40.000Z"
     },
     {
       "id": "5toc4y",
@@ -415,15 +424,6 @@
       "source": "Ars Technica",
       "sourceUrl": "https://arstechnica.com/security/2026/03/self-propagating-malware-poisons-open-source-software-and-wipes-iran-based-machines/",
       "publishedAt": "2026-03-24T12:38:09.000Z"
-    },
-    {
-      "id": "ibvsgw",
-      "title": "Chris Hayes Has Some Advice for Keeping Up With the News",
-      "summary": "The host of MS Now’s All In, knows how hard it is to stay current. But he also knows where you should focus your attention—and it starts with a sober view of AI.",
-      "imageUrl": "https://media.wired.com/photos/69c1b2b856888c87f24c925c/master/pass/Big-Interview-UV-Solo-Chris-Hayes-Business-2210889473.jpg",
-      "source": "Wired",
-      "sourceUrl": "https://www.wired.com/story/the-big-interview-podcast-chris-hayes/",
-      "publishedAt": "2026-03-24T10:30:00.000Z"
     },
     {
       "id": "2mfn6n",
