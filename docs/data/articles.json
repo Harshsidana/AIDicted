@@ -1,11 +1,101 @@
 {
-  "fetchedAt": "2026-03-26T18:35:04.226Z",
+  "fetchedAt": "2026-03-27T05:23:58.539Z",
   "count": 60,
   "articles": [
     {
+      "id": "yn2wnc",
+      "title": "Anthropic wins injunction against Trump administration over Defense Department saga",
+      "summary": "A federal judge has ordered that the Trump administration rescind recent restrictions it placed on the AI company.",
+      "imageUrl": "https://images.unsplash.com/photo-1550751827-4bd374c3f58b?w=800&q=80",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/03/26/anthropic-wins-injunction-against-trump-administration-over-defense-department-saga/",
+      "publishedAt": "2026-03-27T01:18:38.000Z"
+    },
+    {
+      "id": "t8m4s",
+      "title": "Judge sides with Anthropic to temporarily block the Pentagon’s ban",
+      "summary": "After Anthropic's weeks-long standoff with the Pentagon, the company won one milestone: A judge granted Anthropic a preliminary injunction in its lawsuit, which sought to reverse its government blacklisting while the judicial process plays out. \"The Department of War's records show that it designated Anthropic as a supply chain risk because of its 'hostile manner through the press,'\" Judge Rita F. Lin, a district judge in the northern district of California, wrote in the order, which will go…",
+      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/02/268367_dod_and_anthropics_public_fight_over_lethal_autonomous_weapons_a_mass_surveillance_CVirginia.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "source": "The Verge",
+      "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/902149/anthropic-dod-pentagon-lawsuit-supply-chain-risk-injunction",
+      "publishedAt": "2026-03-27T00:33:44.000Z"
+    },
+    {
+      "id": "9qih7p",
+      "title": "You can now transfer your chats and personal information from other chatbots directly into Gemini",
+      "summary": "Google is launching \"switching tools\" that, just as it sounds, will make it easier for users of other chatbots to switch to Gemini.",
+      "imageUrl": "https://images.unsplash.com/photo-1526374965328-7f61d4dc18c5?w=800&q=80",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/03/26/you-can-now-transfer-your-chats-and-personal-information-from-other-chatbots-directly-into-gemini/",
+      "publishedAt": "2026-03-26T23:47:56.000Z"
+    },
+    {
+      "id": "tc9ewi",
+      "title": "David Sacks is no longer the White House AI and Crypto Czar",
+      "summary": "David Sacks, the venture capitalist and tech billionaire who'd become Silicon Valley's primary advocate inside the White House and a key architect of its aggressive AI policy initiatives, revealed on Thursday that he was no longer a special government employee - and therefore no longer President Donald Trump's Special Advisor on AI and Crypto. Sacks' official status as an SGE allowed him to work simultaneously in the private sector and for the government, but for no more than 130 days, raising…",
+      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/03/STKP213_DAVID_SACKS_A.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "source": "The Verge",
+      "sourceUrl": "https://www.theverge.com/policy/902140/david-sacks-out-ai-crypto-czar",
+      "publishedAt": "2026-03-26T23:40:22.000Z"
+    },
+    {
+      "id": "mgc4lg",
+      "title": "Anthropic Supply-Chain-Risk Designation Halted by Judge",
+      "summary": "A judge temporarily blocked the Trump administration’s designation, clearing the way for Anthropic to keep doing business without the label starting next week.",
+      "imageUrl": "https://media.wired.com/photos/69c5b0bd07d68ae7468ce59a/master/pass/Apple-Supply-Chain-Risk-Business-2261514689.jpg",
+      "source": "Wired",
+      "sourceUrl": "https://www.wired.com/story/anthropic-supply-chain-risk-designation-injunction/",
+      "publishedAt": "2026-03-26T23:33:05.000Z"
+    },
+    {
+      "id": "7ki39r",
+      "title": "Wikipedia cracks down on the use of AI in article writing",
+      "summary": "The site, whose policies are subject to change, has struggled with the issue of AI-generated writing.",
+      "imageUrl": "https://images.unsplash.com/photo-1485827404703-89b55fcc595e?w=800&q=80",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/03/26/wikipedia-cracks-down-on-the-use-of-ai-in-article-writing/",
+      "publishedAt": "2026-03-26T21:50:10.000Z"
+    },
+    {
+      "id": "r5muft",
+      "title": "Google is making it easier to import another AI’s memory into Gemini",
+      "summary": "After Anthropic updated its tool for copying another AI's memory into Claude earlier this month, Google Gemini is rolling out new \"Import Memory\" and \"Import Chat History\" features on desktop that can help users quickly copy over everything their current AI already knows about them. To use the \"Import Memory\" tool, users copy and paste a suggested prompt from Gemini into their previous AI, then paste the output from the previous AI into Gemini, which should get Gemini caught up on their…",
+      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/02/stk414-chatbot-ai.jpeg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "source": "The Verge",
+      "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/902085/google-gemini-import-memory-chat-history",
+      "publishedAt": "2026-03-26T21:44:37.000Z"
+    },
+    {
+      "id": "fw1hp",
+      "title": "Apple will reportedly allow other AI chatbots to plug into Siri",
+      "summary": "Siri currently has an integration with OpenAI’s ChatGPT. | Photo: Allison Johnson / The Verge Apple's iOS 27 update will allow users to choose the AI chatbot they want to link with Siri. That's according to a report from Bloomberg's Mark Gurman, who says third-party chatbots downloaded from the App Store, like Google's Gemini or Anthropic's Claude, will be able to fetch replies for Siri - similar to how the voice assistant already works with OpenAI's ChatGPT. The new system, reportedly called…",
+      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25698444/DSC08567_processed_2.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "source": "The Verge",
+      "sourceUrl": "https://www.theverge.com/tech/902048/apple-siri-ai-chatbot-update-ios-27",
+      "publishedAt": "2026-03-26T21:31:27.000Z"
+    },
+    {
+      "id": "119gqm",
+      "title": "Apple’s AI Playlist Playground is bad at music",
+      "summary": "Apple Music: \"What do you want to hear?\" Me: \"Atmospheric instrumental black metal to write to.\" Apple Music: \"Here's three metal songs with vocals, a field recording, an ambient electronic track, and a piece of doom jazz.\" I am skeptical of AI's ability to serve up the music I want to begin with, but even I was caught slightly off guard by how underwhelming Apple's new Playlist Playground beta is. YouTube Music's AI playlist generator is far from perfect, but when I gave it the same prompt for…",
+      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/23925980/acastro_STK046_04.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "source": "The Verge",
+      "sourceUrl": "https://www.theverge.com/report/902005/apple-ai-playlist-playground-bad-at-music",
+      "publishedAt": "2026-03-26T20:51:31.000Z"
+    },
+    {
+      "id": "a2fkc",
+      "title": "Google’s ‘live’ AI search assistant can handle conversations in dozens more languages",
+      "summary": "Google is expanding access to Search Live, a feature that lets you search for information using your voice and camera. The AI search assistant is now available in more than 200 countries and territories, as well as dozens of languages, according to an announcement on Thursday. Search Live rolled out broadly in the US last September, allowing you to point your phone's camera at something and ask about it aloud, such as how to install a shelving unit. The AI assistant will then offer an audio…",
+      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/03/Search-Live-Blog-Header.png?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "source": "The Verge",
+      "sourceUrl": "https://www.theverge.com/tech/901816/google-search-live-ai-assistant-expansion",
+      "publishedAt": "2026-03-26T18:47:51.000Z"
+    },
+    {
       "id": "2txgyg",
       "title": "OpenAI abandons yet another side quest: ChatGPT’s erotic mode",
-      "summary": "It's only the latest of several side project that the AI startup has ditched over the past week.",
+      "summary": "It's only the latest of several side projects that the AI startup has ditched over the past week.",
       "imageUrl": "https://images.unsplash.com/photo-1676299081847-824916de030a?w=800&q=80",
       "source": "TechCrunch",
       "sourceUrl": "https://techcrunch.com/2026/03/26/openai-abandons-yet-another-side-quest-chatgpts-erotic-mode/",
@@ -14,7 +104,7 @@
     {
       "id": "reiy46",
       "title": "Data centers get ready — the Senate wants to see your power bills",
-      "summary": "Sens. Josh Hawley and Elizabeth Warren want the Energy Information Administration to gather more details about how data centers use power — and how that affects the grid.",
+      "summary": "Senators Josh Hawley and Elizabeth Warren want the Energy Information Administration to gather more details about how data centers use power — and how that affects the grid.",
       "imageUrl": "https://images.unsplash.com/photo-1655720828018-edd2daec9349?w=800&q=80",
       "source": "TechCrunch",
       "sourceUrl": "https://techcrunch.com/2026/03/26/data-centers-get-ready-the-senate-wants-to-see-your-power-bills/",
@@ -93,15 +183,6 @@
       "publishedAt": "2026-03-26T13:00:00.000Z"
     },
     {
-      "id": "81edfd",
-      "title": "EU backs nude app ban and delays to landmark AI rules",
-      "summary": "European lawmakers have voted to delay key parts of the EU AI Act, the bloc's flagship law for regulating artificial intelligence, while also backing proposals to ban nudify apps. The measures, approved by a large majority in the European Parliament, would push back compliance deadlines for developers of high-risk AI systems - those deemed to pose a \"serious risk\" to health, safety, or fundamental rights - until December 2027. Companies developing AI systems covered by sector-specific safety…",
-      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/03/STK450_EU_E.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "source": "The Verge",
-      "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/901315/eu-ai-act-delays-ban-nudify-apps",
-      "publishedAt": "2026-03-26T12:49:01.000Z"
-    },
-    {
       "id": "j0o029",
       "title": "The Download: a battery pivot to AI, and rewriting math",
       "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. Why this battery company is pivoting to AI Qichao Hu doesn’t mince words about the state of the battery industry. “Almost every Western battery company has either died or is going to die. It’s kind of…",
@@ -111,10 +192,10 @@
       "publishedAt": "2026-03-26T12:42:53.000Z"
     },
     {
-      "id": "guqx94",
-      "title": "A ‘pound of flesh’ from data centers: One senator’s answer to AI job losses",
+      "id": "cc4hs8",
+      "title": "A ‘pound of flesh’ from data centers: one senator’s answer to AI job losses",
       "summary": "Fears of AI-driven job loss are growing fast, and they’re fueling backlash against data centers. Sen. Mark Warner suggests taxing them to help workers survive the transition.",
-      "imageUrl": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=800&q=80",
+      "imageUrl": "https://images.unsplash.com/photo-1526374965328-7f61d4dc18c5?w=800&q=80",
       "source": "TechCrunch",
       "sourceUrl": "https://techcrunch.com/2026/03/26/a-pound-of-flesh-from-data-centers-one-senators-answer-to-ai-job-losses/",
       "publishedAt": "2026-03-26T12:00:00.000Z"
@@ -127,15 +208,6 @@
       "source": "Wired",
       "sourceUrl": "https://www.wired.com/story/senators-demand-to-know-how-much-energy-data-centers-use/",
       "publishedAt": "2026-03-26T12:00:00.000Z"
-    },
-    {
-      "id": "9g1ffu",
-      "title": "OpenAI shelves erotic chatbot ‘indefinitely’",
-      "summary": "OpenAI ​has paused plans to release a sexualized \"adult mode\" for ChatGPT, in its latest move to refocus on the company's core ​products. According to The Financial Times, the erotic chatbot has been shelved \"indefinitely\" after facing pushback from employees and investors due to the problematic and harmful ​effects sexualized AI ​content can have on society. This decision comes in the wake of OpenAI also discontinuing its text-to-video AI platform Sora, citing \"internal discussion about our…",
-      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/07/STK464_PORN_ADULT_CONTENT_A.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "source": "The Verge",
-      "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/901293/openai-adult-mode-erotic-chatbot-shelved-indefinitely",
-      "publishedAt": "2026-03-26T11:58:09.000Z"
     },
     {
       "id": "hdxns",
@@ -201,15 +273,6 @@
       "publishedAt": "2026-03-25T21:44:13.000Z"
     },
     {
-      "id": "272yh",
-      "title": "Meta is laying off hundreds of employees as it pours money into AI",
-      "summary": "Meta is laying off hundreds of employees across its company, according to reports from The New York Times, NBC News, and The Information. The job cuts impact workers on Meta's recruiting, social media, and sales teams, along with Reality Labs, the division that develops the company's smart glasses and virtual reality headsets. \"Teams across Meta regularly restructure or implement changes to ensure they're in the best position to achieve their goals,\" Meta spokesperson Tracy Clayton says in an…",
-      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25546023/STK043_META_CVIRGINIA_A.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "source": "The Verge",
-      "sourceUrl": "https://www.theverge.com/tech/900946/meta-layoffs-hundreds-employees",
-      "publishedAt": "2026-03-25T21:10:32.000Z"
-    },
-    {
       "id": "hqg4ls",
       "title": "Google unveils TurboQuant, a new AI memory compression algorithm — and yes, the internet is calling it ‘Pied Piper’",
       "summary": "Google’s TurboQuant has the internet joking about Pied Piper from HBO's \"Silicon Valley.\" The compression algorithm promises to shrink AI’s “working memory” by up to 6x, but it’s still just a lab experiment for now.",
@@ -217,15 +280,6 @@
       "source": "TechCrunch",
       "sourceUrl": "https://techcrunch.com/2026/03/25/google-turboquant-ai-memory-compression-silicon-valley-pied-piper/",
       "publishedAt": "2026-03-25T20:38:45.000Z"
-    },
-    {
-      "id": "bka2dm",
-      "title": "Disney’s big bets on the metaverse and AI slop aren’t going so well",
-      "summary": "Less than a week into his tenure as Disney's newly appointed CEO, Josh D'Amaro, is already dealing with two separate crises that have cast a shadow over the company's future plans. OpenAI is shutting down its Sora image-generation program just months after Disney announced a $1 billion dollar collaboration to bake the tech into Disney Plus. And Fortnite maker Epic is laying off 1,000 employees at a time when we've heard basically nothing about the game studio's $1.5 billion investment deal with…",
-      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/05/darth-vader-fortnite-1920x1080-95ea0f1d91f3.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "source": "The Verge",
-      "sourceUrl": "https://www.theverge.com/streaming/900837/disney-open-ai-sora-epic-fortnite-metaverse",
-      "publishedAt": "2026-03-25T20:02:48.000Z"
     },
     {
       "id": "lv7sto",
@@ -246,15 +300,6 @@
       "publishedAt": "2026-03-25T18:49:40.000Z"
     },
     {
-      "id": "6m08mx",
-      "title": "Can you monitor a situation without monitors? The Polymarket sports bar tried",
-      "summary": "Attendees wait in line outside the Situation Room by Polymarket pop-up bar in Washington, DC, US, on Friday, March 20, 2026. | Graeme Slona/Bloomberg via Getty Images. Hello and welcome to Regulator, a newsletter for Verge readers who are political junkies, and Washington insiders hooked on technology. If this email has been forwarded to you but you're not a subscriber, sign up here so you can get that pure, uncut Regulator every Wednesday, straight from the source (aka me). I was taking Friday…",
-      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/03/gettyimages-2267134964.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "source": "The Verge",
-      "sourceUrl": "https://www.theverge.com/column/900536/alliance-for-a-better-future-polymarket",
-      "publishedAt": "2026-03-25T18:19:32.000Z"
-    },
-    {
       "id": "hvbemg",
       "title": "OpenClaw Agents Can Be Guilt-Tripped Into Self-Sabotage",
       "summary": "In a controlled experiment, OpenClaw agents proved prone to panic and vulnerable to manipulation. They even disabled their own functionality when gaslit by humans.",
@@ -271,42 +316,6 @@
       "source": "MIT Tech Review",
       "sourceUrl": "https://www.technologyreview.com/2026/03/25/1134664/roundtables-the-next-era-of-space-exploration/",
       "publishedAt": "2026-03-25T17:26:26.000Z"
-    },
-    {
-      "id": "m0n70e",
-      "title": "Bernie Sanders and AOC propose a ban on data center construction",
-      "summary": "Senator Bernie Sanders and Rep. Alexandria Ocasio-Cortez introduced companion legislation to halt construction on new data centers until Congress passes comprehensive AI regulation.",
-      "imageUrl": "https://images.unsplash.com/photo-1635070041078-e363dbe005cb?w=800&q=80",
-      "source": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/03/25/bernie-sanders-and-aoc-propose-a-ban-on-data-center-construction/",
-      "publishedAt": "2026-03-25T17:15:50.000Z"
-    },
-    {
-      "id": "e3ovwp",
-      "title": "Google launches Lyria 3 Pro music generation model",
-      "summary": "Google is launching Lyria 3 Pro, an upgraded music model that generates longer, more customizable tracks, as it expands AI music tools across Gemini, enterprise products, and other services.",
-      "imageUrl": "https://images.unsplash.com/photo-1485827404703-89b55fcc595e?w=800&q=80",
-      "source": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/03/25/google-launches-lyria-3-pro-music-generation-model/",
-      "publishedAt": "2026-03-25T16:37:43.000Z"
-    },
-    {
-      "id": "sb54qi",
-      "title": "Reddit takes on the bots with new ‘human verification’ requirements for fishy behavior",
-      "summary": "Reddit will require suspected automated accounts to verify they’re human, as it ramps up efforts to curb bot-driven spam and manipulation.",
-      "imageUrl": "https://images.unsplash.com/photo-1655720828018-edd2daec9349?w=800&q=80",
-      "source": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/03/25/reddit-bots-new-human-verification-requirements/",
-      "publishedAt": "2026-03-25T16:10:00.000Z"
-    },
-    {
-      "id": "41uyfv",
-      "title": "Reddit accounts with ‘fishy’ bot-like behavior will soon need to prove they’re human",
-      "summary": "Reddit is taking new steps to identify bots on the platform - a process that may require some users to confirm that they're human. In a post on Wednesday, Reddit CEO Steve Huffman writes that the company will introduce a labeling system for accounts registered as bots, and ask users with \"automated\" or \"fishy behavior\" to verify that they're human using methods like fingerprint scanning or submitting their ID. With this update, developers can register automated accounts with Reddit, which will…",
-      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25137774/STK115_Reddit_04.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "source": "The Verge",
-      "sourceUrl": "https://www.theverge.com/tech/900363/reddit-human-verification-bots-crackdown",
-      "publishedAt": "2026-03-25T16:10:00.000Z"
     },
     {
       "id": "x2s6yj",
@@ -406,15 +415,6 @@
       "source": "MIT Tech Review",
       "sourceUrl": "https://www.technologyreview.com/2026/03/24/1134531/exclusive-ebook-are-we-ready-to-hand-ai-agents-the-keys/",
       "publishedAt": "2026-03-24T18:17:13.000Z"
-    },
-    {
-      "id": "69c2zs",
-      "title": "Arm Is Now Making Its Own Chips",
-      "summary": "The chip design firm says Meta, OpenAI, Cerebras, and Cloudflare are among the first customers of its new artificial intelligence hardware.",
-      "imageUrl": "https://media.wired.com/photos/69c1dcea9b0c01414434424c/master/pass/Chip-Design-Firm-Arm-Making-Own-AI-CPU-Business-2250850574.jpg",
-      "source": "Wired",
-      "sourceUrl": "https://www.wired.com/story/chip-design-firm-arm-is-making-its-own-ai-cpu/",
-      "publishedAt": "2026-03-24T17:00:00.000Z"
     },
     {
       "id": "5c67ci",
