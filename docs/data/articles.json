@@ -1,7 +1,16 @@
 {
-  "fetchedAt": "2026-03-27T11:25:45.030Z",
+  "fetchedAt": "2026-03-27T13:52:01.945Z",
   "count": 60,
   "articles": [
+    {
+      "id": "oycbl6",
+      "title": "The Download: the internet’s best weather app, and why people freeze their brains",
+      "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. How a couple of ski bums built the internet’s best weather app The best snow-forecasting app for skiers isn’t a federally-funded service or a big-name brand. It’s OpenSnow, a startup that uses government data, its own AI…",
+      "imageUrl": "https://images.unsplash.com/photo-1526374965328-7f61d4dc18c5?w=800&q=80",
+      "source": "MIT Tech Review",
+      "sourceUrl": "https://www.technologyreview.com/2026/03/27/1134755/the-download-best-weather-forecasting-app-why-people-freeze-brains/",
+      "publishedAt": "2026-03-27T12:32:54.000Z"
+    },
     {
       "id": "42an0j",
       "title": "A New AI Documentary Puts CEOs in the Hot Seat—but Goes Too Easy on Them",
@@ -406,15 +415,6 @@
       "source": "MIT Tech Review",
       "sourceUrl": "https://www.technologyreview.com/2026/03/25/1134516/agentic-commerce-runs-on-truth-and-context/",
       "publishedAt": "2026-03-25T11:48:13.000Z"
-    },
-    {
-      "id": "ayeg2e",
-      "title": "The AI Hype Index: AI goes to war",
-      "summary": "AI is at war. Anthropic and the Pentagon feuded over how to weaponize Anthropic’s AI model Claude; then OpenAI swept the Pentagon off its feet with an “opportunistic and sloppy” deal. Users quit ChatGPT in droves. People marched through London in the biggest protest against AI to date. If you’re keeping score, Anthropic—the company founded…",
-      "imageUrl": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=800&q=80",
-      "source": "MIT Tech Review",
-      "sourceUrl": "https://www.technologyreview.com/2026/03/25/1134571/the-ai-hype-index-ai-goes-to-war/",
-      "publishedAt": "2026-03-25T09:00:00.000Z"
     },
     {
       "id": "5c67ci",
