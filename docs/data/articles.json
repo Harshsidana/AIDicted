@@ -1,7 +1,25 @@
 {
-  "fetchedAt": "2026-03-27T10:27:25.343Z",
+  "fetchedAt": "2026-03-27T11:25:45.030Z",
   "count": 60,
   "articles": [
+    {
+      "id": "42an0j",
+      "title": "A New AI Documentary Puts CEOs in the Hot Seat—but Goes Too Easy on Them",
+      "summary": "The AI Doc: Or How I Became an Apocaloptimist seeks the middle ground on a polarizing technology—and ends up letting tech execs like Sam Altman off the hook.",
+      "imageUrl": "https://media.wired.com/photos/69c45157086bd87019415371/master/pass/AI-Doc-Culture-AI_FP_00001.jpg",
+      "source": "Wired",
+      "sourceUrl": "https://www.wired.com/story/a-new-ai-documentary-puts-ceos-in-the-hot-seat-but-goes-too-easy-on-them/",
+      "publishedAt": "2026-03-27T11:00:00.000Z"
+    },
+    {
+      "id": "r9nope",
+      "title": "I Asked ChatGPT 500 Questions. Here Are the Ads I Saw Most Often",
+      "summary": "Ads are rolling out across the US on ChatGPT’s free tier. I asked OpenAI's bot 500 questions to see what these ads were like and how they related to my prompts.",
+      "imageUrl": "https://media.wired.com/photos/69c566552e06a34450ad87fa/master/pass/Asked-ChatGPT-Questions-Here-Are-Ads-I-Saw-Most-Often-Gear-1258531803.jpg",
+      "source": "Wired",
+      "sourceUrl": "https://www.wired.com/story/i-asked-chatgpt-500-questions-here-are-the-ads-i-saw-most-often/",
+      "publishedAt": "2026-03-27T10:30:00.000Z"
+    },
     {
       "id": "amyv2d",
       "title": "Here’s why some people choose cryonics to store their bodies and brains after death",
@@ -390,15 +408,6 @@
       "publishedAt": "2026-03-25T11:48:13.000Z"
     },
     {
-      "id": "2l0roy",
-      "title": "Arm’s CEO Insists the Market Needs His New CPU. It Could Piss Everyone Off",
-      "summary": "Arm just confirmed the rumors: It’s producing its own chip for the first time. CEO Rene Haas explains why this won’t alienate the many chipmakers who license the company’s designs.",
-      "imageUrl": "https://media.wired.com/photos/69c2ef3f0355f9e1ff2fd1e1/master/pass/JC_WIRED_ARM_4316_flat.jpg",
-      "source": "Wired",
-      "sourceUrl": "https://www.wired.com/story/arms-ceo-insists-the-market-needs-his-new-cpu-it-could-piss-everyone-off/",
-      "publishedAt": "2026-03-25T10:00:00.000Z"
-    },
-    {
       "id": "ayeg2e",
       "title": "The AI Hype Index: AI goes to war",
       "summary": "AI is at war. Anthropic and the Pentagon feuded over how to weaponize Anthropic’s AI model Claude; then OpenAI swept the Pentagon off its feet with an “opportunistic and sloppy” deal. Users quit ChatGPT in droves. People marched through London in the biggest protest against AI to date. If you’re keeping score, Anthropic—the company founded…",
@@ -406,15 +415,6 @@
       "source": "MIT Tech Review",
       "sourceUrl": "https://www.technologyreview.com/2026/03/25/1134571/the-ai-hype-index-ai-goes-to-war/",
       "publishedAt": "2026-03-25T09:00:00.000Z"
-    },
-    {
-      "id": "wlzrrl",
-      "title": "Pentagon’s ‘Attempt to Cripple’ Anthropic Is Troubling, Judge Says",
-      "summary": "During a hearing Tuesday, a district court judge questioned the Department of Defense’s motivations for labeling the Claude AI developer a supply-chain risk.",
-      "imageUrl": "https://media.wired.com/photos/69c30bf9dc53bcd949e45335/master/pass/Pentagon-Attempt-to-Cripple-Anthropic-Troublesome-Business-2268179185.jpg",
-      "source": "Wired",
-      "sourceUrl": "https://www.wired.com/story/pentagons-attempt-to-cripple-anthropic-is-troublesome-judge-says/",
-      "publishedAt": "2026-03-24T22:13:17.000Z"
     },
     {
       "id": "5c67ci",
