@@ -1,7 +1,16 @@
 {
-  "fetchedAt": "2026-03-27T21:45:12.238Z",
+  "fetchedAt": "2026-03-27T22:42:02.368Z",
   "count": 60,
   "articles": [
+    {
+      "id": "tib1yl",
+      "title": "AI Research Is Getting Harder to Separate From Geopolitics",
+      "summary": "A policy change announced by NeurIPS, the world’s leading AI research conference, drew widespread backlash from Chinese researchers this week and then was quickly reversed.",
+      "imageUrl": "https://media.wired.com/photos/69c6b7c2b1e88611bd972d9a/master/pass/Made-In-China-AI-Research-Is-Starting-to-Split-Along-Geopolitical-Lines-Business-2246178146.jpg",
+      "source": "Wired",
+      "sourceUrl": "https://www.wired.com/story/made-in-china-ai-research-is-starting-to-split-along-geopolitical-lines/",
+      "publishedAt": "2026-03-27T21:46:39.000Z"
+    },
     {
       "id": "antr2v",
       "title": "Why SoftBank’s new $40B loan points to a 2026 OpenAI IPO",
@@ -379,15 +388,6 @@
       "source": "MIT Tech Review",
       "sourceUrl": "https://www.technologyreview.com/2026/03/25/1134657/battery-company-ai-pivot-ses/",
       "publishedAt": "2026-03-25T15:02:50.000Z"
-    },
-    {
-      "id": "y1iwpr",
-      "title": "OpenAI Enters Its Focus Era by Killing Sora",
-      "summary": "As the ChatGPT-maker eyes an IPO, it's ditching Sora in favor of a unified AI assistant and enterprise coding tools.",
-      "imageUrl": "https://media.wired.com/photos/69c314e588ed936ad6995cd4/master/pass/Sora-Shutdown-Business-2265991722.jpg",
-      "source": "Wired",
-      "sourceUrl": "https://www.wired.com/story/openai-shuts-down-sora-ipo-ai-superapp/",
-      "publishedAt": "2026-03-25T14:57:45.000Z"
     },
     {
       "id": "5toc4y",
