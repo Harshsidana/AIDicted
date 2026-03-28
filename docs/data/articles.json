@@ -1,7 +1,16 @@
 {
-  "fetchedAt": "2026-03-28T22:37:56.201Z",
+  "fetchedAt": "2026-03-28T23:39:09.463Z",
   "count": 60,
   "articles": [
+    {
+      "id": "lf6y0o",
+      "title": "Bluesky leans into AI with Attie, an app for building custom feeds",
+      "summary": "Bluesky’s new app Attie uses AI to help people build custom feeds the open social networking protocol atproto.",
+      "imageUrl": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=800&q=80",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/03/28/bluesky-leans-into-ai-with-attie-an-app-for-building-custom-feeds/",
+      "publishedAt": "2026-03-28T23:00:00.000Z"
+    },
     {
       "id": "6xadan",
       "title": "Stanford study outlines dangers of asking AI chatbots for personal advice",
@@ -298,15 +307,6 @@
       "source": "TechCrunch",
       "sourceUrl": "https://techcrunch.com/2026/03/26/bytedances-new-ai-video-generation-model-dreamina-seedance-2-0-comes-to-capcut/",
       "publishedAt": "2026-03-26T15:25:13.000Z"
-    },
-    {
-      "id": "aaow6b",
-      "title": "Conntour raises $7M from General Catalyst, YC to build an AI search engine for security video systems",
-      "summary": "Conntour uses AI models to let security teams query camera feeds using natural language to find any object, person, or situation.",
-      "imageUrl": "https://images.unsplash.com/photo-1526374965328-7f61d4dc18c5?w=800&q=80",
-      "source": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/03/26/conntour-raises-7m-from-general-catalyst-yc-to-build-an-ai-search-engine-for-security-video-systems/",
-      "publishedAt": "2026-03-26T13:41:00.000Z"
     },
     {
       "id": "j0o029",
