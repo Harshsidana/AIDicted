@@ -1,7 +1,16 @@
 {
-  "fetchedAt": "2026-03-28T09:47:23.643Z",
+  "fetchedAt": "2026-03-28T13:12:35.476Z",
   "count": 60,
   "articles": [
+    {
+      "id": "urvazk",
+      "title": "Why OpenAI killed Sora",
+      "summary": "On Tuesday morning, everything was business as usual at OpenAI. By the end of the day, the company had announced that it would scrap its video-generation app, Sora, and reverse plans for video generation inside ChatGPT; it would wind down a $1 billion Disney deal; it would shuffle the role of a high-level executive; and it would raise an additional $10 billion from investors, adding up to more than $120 billion total for its latest funding round. OpenAI is now in a frenzy to turn a profit, or at…",
+      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/09/STK201_SAM_ALTMAN_CVIRGINIA_B.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "source": "The Verge",
+      "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/902368/openai-sora-dead-ai-video-generation-competition",
+      "publishedAt": "2026-03-28T12:00:00.000Z"
+    },
     {
       "id": "xdk8rw",
       "title": "A woman’s uterus has been kept alive outside the body for the first time",
@@ -262,15 +271,6 @@
       "source": "The Verge",
       "sourceUrl": "https://www.theverge.com/tech/901461/wikipedia-ai-generated-article-ban",
       "publishedAt": "2026-03-26T15:02:52.000Z"
-    },
-    {
-      "id": "6rcc1c",
-      "title": "Senators are pushing to find out how much electricity data centers actually use",
-      "summary": "An Amazon data center in Oregon. | Image: Amazon On Thursday, senators Elizabeth Warren (D-MA) and Josh Hawley (R-MO) sent a letter to the Energy Information Administration (EIA) asking it to collect \"comprehensive, annual energy-use disclosures\" on data centers and make that information publicly available, as first reported by Wired. They're urging the agency to \"establish a mandatory annual reporting requirement for data centers,\" saying the data is \"essential for accurate grid planning,\" and…",
-      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/11/hero-001-10-gallery-data-center-drone-cropped-copy.jpeg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "source": "The Verge",
-      "sourceUrl": "https://www.theverge.com/policy/901404/senators-warren-hawley-eia-letter-data-centers",
-      "publishedAt": "2026-03-26T14:25:32.000Z"
     },
     {
       "id": "aaow6b",
