@@ -1,7 +1,25 @@
 {
-  "fetchedAt": "2026-03-28T13:12:35.476Z",
+  "fetchedAt": "2026-03-28T14:59:49.734Z",
   "count": 60,
   "articles": [
+    {
+      "id": "7170x3",
+      "title": "Anthropic’s Claude popularity with paying consumers is skyrocketing",
+      "summary": "Estimates for total Claude consumer users are all over the map (we've seen figures ranging from 18 million to 30 million). Anthropic hasn't disclosed this data, but a spokesperson did tell TechCrunch that Claude paid subscriptions have more than doubled this year.",
+      "imageUrl": "https://images.unsplash.com/photo-1620712943543-bcc4688e7485?w=800&q=80",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/03/28/anthropics-claude-popularity-with-paying-consumers-is-skyrocketing/",
+      "publishedAt": "2026-03-28T14:15:00.000Z"
+    },
+    {
+      "id": "6i66tk",
+      "title": "TikTok’s policy for AI ads isn’t working",
+      "summary": "Samsung, like many companies using generative AI in their advertising, hasn’t placed an AI label on several videos shared through its TikTok accounts, and the fine print doesn’t always contain the answers. | Image by Samsung I've been struggling to tell whether the ads appearing in my TikTok feeds have been made with generative AI tools. As someone who spends a great deal of time scrutinizing images and videos for the usual \"tells\" that something was synthetically generated, some of the…",
+      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/03/Samsung-AI-video-promotion.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "source": "The Verge",
+      "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/900400/tiktok-ai-ads-labels-samsung-disclosure",
+      "publishedAt": "2026-03-28T14:00:00.000Z"
+    },
     {
       "id": "urvazk",
       "title": "Why OpenAI killed Sora",
@@ -264,15 +282,6 @@
       "publishedAt": "2026-03-26T15:25:13.000Z"
     },
     {
-      "id": "nqrdv2",
-      "title": "Wikipedia bans AI-generated articles",
-      "summary": "Wikipedia will no longer allow editors to write or rewrite articles using AI. The update, which was added to Wikipedia's guidelines late last week, cites the tendency for AI-written articles to violate \"several of Wikipedia's core content policies\" as the reason for the ban. The change applies to the English version of Wikipedia and will still allow editors to use AI in certain scenarios. That includes using large language models to \"suggest basic copyedits\" to their writing, but only if it…",
-      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/02/STK037_WIKIPEDIA_C.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "source": "The Verge",
-      "sourceUrl": "https://www.theverge.com/tech/901461/wikipedia-ai-generated-article-ban",
-      "publishedAt": "2026-03-26T15:02:52.000Z"
-    },
-    {
       "id": "aaow6b",
       "title": "Conntour raises $7M from General Catalyst, YC to build an AI search engine for security video systems",
       "summary": "Conntour uses AI models to let security teams query camera feeds using natural language to find any object, person, or situation.",
@@ -316,15 +325,6 @@
       "source": "Wired",
       "sourceUrl": "https://www.wired.com/story/senators-demand-to-know-how-much-energy-data-centers-use/",
       "publishedAt": "2026-03-26T12:00:00.000Z"
-    },
-    {
-      "id": "hdxns",
-      "title": "Mistral releases a new open source model for speech generation",
-      "summary": "The model, which lets enterprises build voice agents for sales and customer engagement, puts Mistral in direct competition with the likes of ElevenLabs, Deepgram, and OpenAI.",
-      "imageUrl": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=800&q=80",
-      "source": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/03/26/mistral-releases-a-new-open-source-model-for-speech-generation/",
-      "publishedAt": "2026-03-26T11:30:00.000Z"
     },
     {
       "id": "904b9q",
