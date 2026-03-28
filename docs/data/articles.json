@@ -1,7 +1,16 @@
 {
-  "fetchedAt": "2026-03-28T17:37:27.505Z",
+  "fetchedAt": "2026-03-28T18:53:55.056Z",
   "count": 60,
   "articles": [
+    {
+      "id": "xgj5l6",
+      "title": "Suno leans into customization with v5.5",
+      "summary": "Slop yourself. | Image: Suno Suno just released one of its biggest updates yet with v5.5 of its AI music model. Where previous updates focused mostly on improving fidelity and creating more natural vocals, v5.5 is about giving users more control. It includes three new features: Voices, My Taste, and Custom Models. In the release notes, Suno says that Voices is its most requested feature. It lets users train the vocal model on their own voice. They can upload clean accapellas, finished tracks…",
+      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/03/1774532259-suno_v5-5_blogouterbanner.webp?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "source": "The Verge",
+      "sourceUrl": "https://www.theverge.com/entertainment/903056/suno-ai-music-v5-5-model",
+      "publishedAt": "2026-03-28T18:33:10.000Z"
+    },
     {
       "id": "gprybw",
       "title": "Elon Musk’s last co-founder reportedly leaves xAI",
@@ -21,8 +30,8 @@
       "publishedAt": "2026-03-28T14:15:00.000Z"
     },
     {
-      "id": "6i66tk",
-      "title": "TikTok’s policy for AI ads isn’t working",
+      "id": "nv1ej9",
+      "title": "Why can’t TikTok identify AI generated ads when I can?",
       "summary": "Samsung, like many companies using generative AI in their advertising, hasn’t placed an AI label on several videos shared through its TikTok accounts, and the fine print doesn’t always contain the answers. | Image by Samsung I've been struggling to tell whether the ads appearing in my TikTok feeds have been made with generative AI tools. As someone who spends a great deal of time scrutinizing images and videos for the usual \"tells\" that something was synthetically generated, some of the…",
       "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/03/Samsung-AI-video-promotion.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
       "source": "The Verge",
@@ -271,15 +280,6 @@
       "source": "Wired",
       "sourceUrl": "https://www.wired.com/story/tech-reporters-using-ai-write-edit-stories/",
       "publishedAt": "2026-03-26T18:00:00.000Z"
-    },
-    {
-      "id": "cliece",
-      "title": "Meta gets ready to launch two new Ray-Ban AI glasses",
-      "summary": "Second-generation Ray-Ban Meta glasses. | Photo by Amelia Holowaty Krales / The Verge This is Lowpass by Janko Roettgers, a newsletter on the ever-evolving intersection of tech and entertainment, syndicated just for The Verge subscribers once a week. Meta and its AI glasses hardware partner EssilorLuxottica are getting ready to launch the next generation of their Ray-Ban AI glasses. That's according to a series of FCC filings for two new Meta Ray-Ban models that were published by the agency…",
-      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/09/257979_RayBan_Meta_Gen2_AKrales_0117.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "source": "The Verge",
-      "sourceUrl": "https://www.theverge.com/column/901314/meta-new-ray-ban-ai-glasses",
-      "publishedAt": "2026-03-26T16:30:00.000Z"
     },
     {
       "id": "6ad9um",
