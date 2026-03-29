@@ -1,7 +1,16 @@
 {
-  "fetchedAt": "2026-03-29T21:40:37.606Z",
+  "fetchedAt": "2026-03-29T22:40:14.210Z",
   "count": 60,
   "articles": [
+    {
+      "id": "pyfpmg",
+      "title": "Bluesky’s new app is an AI for customizing your feed",
+      "summary": "The latest app from the team behind Bluesky is Attie, an AI assistant that lets you build your own algorithm. At the Atmosphere conference, Bluesky's former CEO, Jay Graber, and CTO Paul Frazee, unveiled Attie, which is powered by Anthropic's Claude and built on top of Bluesky's underlying AT Protocol (atproto). Attie allows users to create custom feeds using natural language. For example, you could ask for \"posts about folklore, mythology, and traditional music, especially Celtic traditions.\"…",
+      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/03/attie-ai.jpeg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "source": "The Verge",
+      "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/903190/bluesky-attie-ai-custom-feeds",
+      "publishedAt": "2026-03-29T21:44:41.000Z"
+    },
     {
       "id": "7dq29x",
       "title": "Sora’s shutdown could be a reality check moment for AI video",
@@ -271,15 +280,6 @@
       "source": "The Verge",
       "sourceUrl": "https://www.theverge.com/report/902005/apple-ai-playlist-playground-bad-at-music",
       "publishedAt": "2026-03-26T20:51:31.000Z"
-    },
-    {
-      "id": "a2fkc",
-      "title": "Google’s ‘live’ AI search assistant can handle conversations in dozens more languages",
-      "summary": "Google is expanding access to Search Live, a feature that lets you search for information using your voice and camera. The AI search assistant is now available in more than 200 countries and territories, as well as dozens of languages, according to an announcement on Thursday. Search Live rolled out broadly in the US last September, allowing you to point your phone's camera at something and ask about it aloud, such as how to install a shelving unit. The AI assistant will then offer an audio…",
-      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/03/search-live_f20494.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "source": "The Verge",
-      "sourceUrl": "https://www.theverge.com/tech/901816/google-search-live-ai-assistant-expansion",
-      "publishedAt": "2026-03-26T18:47:51.000Z"
     },
     {
       "id": "2txgyg",
