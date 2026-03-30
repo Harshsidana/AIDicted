@@ -1,7 +1,25 @@
 {
-  "fetchedAt": "2026-03-29T23:41:09.918Z",
+  "fetchedAt": "2026-03-30T03:28:39.655Z",
   "count": 60,
   "articles": [
+    {
+      "id": "vgju0l",
+      "title": "Why OpenAI really shut down Sora",
+      "summary": "OpenAI's decision last week to shut down Sora, its AI video-generation tool, just six months after releasing it to the public raised immediate suspicions. The app had invited users to upload their own faces — so was this some kind of elaborate data grab?",
+      "imageUrl": "https://images.unsplash.com/photo-1635070041078-e363dbe005cb?w=800&q=80",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/03/29/why-openai-really-shut-down-sora/",
+      "publishedAt": "2026-03-30T03:09:38.000Z"
+    },
+    {
+      "id": "bp49t3",
+      "title": "All the latest in AI ‘music’",
+      "summary": "People don’t like that they can’t identify AI music. | Image: Cath Virginia / The Verge AI has touched every part of the music industry, from sample sourcing and demo recording, to serving up digital liner notes and building playlists. There are technical and legal challenges, fierce ethical debates, and fears that the slop will simply crush working musicians through sheer volume. Is it art or just an output? What exactly is “really active“? Whether it’s a new model or a new lawsuit, we’re…",
+      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/11/STK467_AI_MUSIC_CVirginia_D.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "source": "The Verge",
+      "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/903196/ai-music-suno-udio-art-lawsuit",
+      "publishedAt": "2026-03-30T01:32:14.000Z"
+    },
     {
       "id": "pyfpmg",
       "title": "Bluesky’s new app is an AI for customizing your feed",
@@ -273,15 +291,6 @@
       "publishedAt": "2026-03-26T21:31:27.000Z"
     },
     {
-      "id": "119gqm",
-      "title": "Apple’s AI Playlist Playground is bad at music",
-      "summary": "Apple Music: \"What do you want to hear?\" Me: \"Atmospheric instrumental black metal to write to.\" Apple Music: \"Here's three metal songs with vocals, a field recording, an ambient electronic track, and a piece of doom jazz.\" I am skeptical of AI's ability to serve up the music I want to begin with, but even I was caught slightly off guard by how underwhelming Apple's new Playlist Playground beta is. YouTube Music's AI playlist generator is far from perfect, but when I gave it the same prompt for…",
-      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/23925980/acastro_STK046_04.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "source": "The Verge",
-      "sourceUrl": "https://www.theverge.com/report/902005/apple-ai-playlist-playground-bad-at-music",
-      "publishedAt": "2026-03-26T20:51:31.000Z"
-    },
-    {
       "id": "2txgyg",
       "title": "OpenAI abandons yet another side quest: ChatGPT’s erotic mode",
       "summary": "It's only the latest of several side projects that the AI startup has ditched over the past week.",
@@ -289,15 +298,6 @@
       "source": "TechCrunch",
       "sourceUrl": "https://techcrunch.com/2026/03/26/openai-abandons-yet-another-side-quest-chatgpts-erotic-mode/",
       "publishedAt": "2026-03-26T18:34:02.000Z"
-    },
-    {
-      "id": "reiy46",
-      "title": "Data centers get ready — the Senate wants to see your power bills",
-      "summary": "Senators Josh Hawley and Elizabeth Warren want the Energy Information Administration to gather more details about how data centers use power — and how that affects the grid.",
-      "imageUrl": "https://images.unsplash.com/photo-1655720828018-edd2daec9349?w=800&q=80",
-      "source": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/03/26/data-centers-get-ready-the-senate-wants-to-see-your-power-bills/",
-      "publishedAt": "2026-03-26T18:23:31.000Z"
     },
     {
       "id": "b0mkv7",
