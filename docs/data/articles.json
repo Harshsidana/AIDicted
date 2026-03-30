@@ -1,12 +1,57 @@
 {
-  "fetchedAt": "2026-03-30T11:59:23.515Z",
+  "fetchedAt": "2026-03-30T13:59:09.176Z",
   "count": 60,
   "articles": [
     {
-      "id": "s5rb5w",
-      "title": "Starcloud raises $170 million Series Ato build data centers in space",
-      "summary": "Starcloud becomes the fastest Y Combinator startup to reach unicorn status, just 17 months after demo day.",
+      "id": "lsgarw",
+      "title": "ScaleOps raises $130M to improve computing efficiency amid AI demand",
+      "summary": "ScaleOps just raised $130M to tackle GPU shortages and soaring AI cloud costs by automating infrastructure in real time.",
       "imageUrl": "https://images.unsplash.com/photo-1526374965328-7f61d4dc18c5?w=800&q=80",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/03/30/scaleops-130m-series-c-kubernetes-efficiency-ai-demand-funding/",
+      "publishedAt": "2026-03-30T13:52:02.000Z"
+    },
+    {
+      "id": "3axktz",
+      "title": "AI chip startup Rebellions raises $400 million at $2.3B valuation in pre-IPO round",
+      "summary": "The startup, which is planning to go public later this year, designs chips specifically for AI inference, another challenger to Nvidia's dominance.",
+      "imageUrl": "https://images.unsplash.com/photo-1550751827-4bd374c3f58b?w=800&q=80",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/03/30/ai-chip-startup-rebellions-raises-400-million-at-2-3b-valuation-in-pre-ipo-round/",
+      "publishedAt": "2026-03-30T13:00:00.000Z"
+    },
+    {
+      "id": "iqqo1p",
+      "title": "Mistral AI raises $830M in debt to set up a data center near Paris",
+      "summary": "Mistral aims to start operating the data center by the second quarter of 2026.",
+      "imageUrl": "https://images.unsplash.com/photo-1526374965328-7f61d4dc18c5?w=800&q=80",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/03/30/mistral-ai-raises-830m-in-debt-to-set-up-a-data-center-near-paris/",
+      "publishedAt": "2026-03-30T12:49:51.000Z"
+    },
+    {
+      "id": "rpjvj0",
+      "title": "Qodo raises $70M for code verification as AI coding scales",
+      "summary": "As AI floods software development with code, Qodo is betting the real challenge is making sure it actually works.",
+      "imageUrl": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=800&q=80",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/03/30/qodo-bets-on-code-verification-as-ai-coding-scales-raises-70m/",
+      "publishedAt": "2026-03-30T12:30:00.000Z"
+    },
+    {
+      "id": "ljazyu",
+      "title": "The Download: brainless human clones and the first uterus kept alive outside a body",
+      "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. Inside the stealthy startup that pitched brainless human clones After operating in secrecy for years, R3 Bio, a California-based startup, suddenly revealed last week that it had raised money to create nonsentient monkey “organ sacks”…",
+      "imageUrl": "https://images.unsplash.com/photo-1676299081847-824916de030a?w=800&q=80",
+      "source": "MIT Tech Review",
+      "sourceUrl": "https://www.technologyreview.com/2026/03/30/1134836/the-download-brainless-human-clones-first-uterus-kept-alive-outside-body/",
+      "publishedAt": "2026-03-30T12:10:00.000Z"
+    },
+    {
+      "id": "fwg6ts",
+      "title": "Starcloud raises $170 million Series A to build data centers in space",
+      "summary": "Starcloud becomes the fastest Y Combinator startup to reach unicorn status, just 17 months after demo day.",
+      "imageUrl": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=800&q=80",
       "source": "TechCrunch",
       "sourceUrl": "https://techcrunch.com/2026/03/30/starcloud-raises-170-million-series-ato-build-data-centers-in-space/",
       "publishedAt": "2026-03-30T11:00:00.000Z"
@@ -237,24 +282,6 @@
       "publishedAt": "2026-03-27T09:00:00.000Z"
     },
     {
-      "id": "848b1y",
-      "title": "David Sacks is done as AI czar — here’s what he’s doing instead",
-      "summary": "Sacks will be much further from the power center in Washington than since the outset of this second Trump administration.",
-      "imageUrl": "https://images.unsplash.com/photo-1485827404703-89b55fcc595e?w=800&q=80",
-      "source": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/03/26/david-sacks-is-done-as-ai-czar-heres-what-hes-doing-instead/",
-      "publishedAt": "2026-03-27T01:26:40.000Z"
-    },
-    {
-      "id": "yn2wnc",
-      "title": "Anthropic wins injunction against Trump administration over Defense Department saga",
-      "summary": "A federal judge has ordered that the Trump administration rescind recent restrictions it placed on the AI company.",
-      "imageUrl": "https://images.unsplash.com/photo-1550751827-4bd374c3f58b?w=800&q=80",
-      "source": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/03/26/anthropic-wins-injunction-against-trump-administration-over-defense-department-saga/",
-      "publishedAt": "2026-03-27T01:18:38.000Z"
-    },
-    {
       "id": "t8m4s",
       "title": "Judge sides with Anthropic to temporarily block the Pentagon’s ban",
       "summary": "After Anthropic's weeks-long standoff with the Pentagon, the company won one milestone: A judge granted Anthropic a preliminary injunction in its lawsuit, which sought to reverse its government blacklisting while the judicial process plays out. \"The Department of War's records show that it designated Anthropic as a supply chain risk because of its 'hostile manner through the press,'\" Judge Rita F. Lin, a district judge in the northern district of California, wrote in the order, which will go…",
@@ -262,15 +289,6 @@
       "source": "The Verge",
       "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/902149/anthropic-dod-pentagon-lawsuit-supply-chain-risk-injunction",
       "publishedAt": "2026-03-27T00:33:44.000Z"
-    },
-    {
-      "id": "9qih7p",
-      "title": "You can now transfer your chats and personal information from other chatbots directly into Gemini",
-      "summary": "Google is launching \"switching tools\" that, just as it sounds, will make it easier for users of other chatbots to switch to Gemini.",
-      "imageUrl": "https://images.unsplash.com/photo-1526374965328-7f61d4dc18c5?w=800&q=80",
-      "source": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/03/26/you-can-now-transfer-your-chats-and-personal-information-from-other-chatbots-directly-into-gemini/",
-      "publishedAt": "2026-03-26T23:47:56.000Z"
     },
     {
       "id": "tc9ewi",
@@ -289,15 +307,6 @@
       "source": "Wired",
       "sourceUrl": "https://www.wired.com/story/anthropic-supply-chain-risk-designation-injunction/",
       "publishedAt": "2026-03-26T23:33:05.000Z"
-    },
-    {
-      "id": "7ki39r",
-      "title": "Wikipedia cracks down on the use of AI in article writing",
-      "summary": "The site, whose policies are subject to change, has struggled with the issue of AI-generated writing.",
-      "imageUrl": "https://images.unsplash.com/photo-1485827404703-89b55fcc595e?w=800&q=80",
-      "source": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/03/26/wikipedia-cracks-down-on-the-use-of-ai-in-article-writing/",
-      "publishedAt": "2026-03-26T21:50:10.000Z"
     },
     {
       "id": "r5muft",
@@ -406,15 +415,6 @@
       "source": "MIT Tech Review",
       "sourceUrl": "https://www.technologyreview.com/2026/03/25/1134657/battery-company-ai-pivot-ses/",
       "publishedAt": "2026-03-25T15:02:50.000Z"
-    },
-    {
-      "id": "5toc4y",
-      "title": "This startup wants to change how mathematicians do math",
-      "summary": "Axiom Math, a startup based in Palo Alto, California, has released a free new AI tool for mathematicians, designed to discover mathematical patterns that could unlock solutions to long-standing problems. The tool, called Axplorer, is a redesign of an existing one called PatternBoost that François Charton, now a research scientist at Axiom, co-developed in 2024…",
-      "imageUrl": "https://images.unsplash.com/photo-1526374965328-7f61d4dc18c5?w=800&q=80",
-      "source": "MIT Tech Review",
-      "sourceUrl": "https://www.technologyreview.com/2026/03/25/1134642/this-startup-wants-to-change-how-mathematicians-do-math/",
-      "publishedAt": "2026-03-25T13:59:17.000Z"
     },
     {
       "id": "5c67ci",
