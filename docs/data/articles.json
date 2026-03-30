@@ -1,7 +1,16 @@
 {
-  "fetchedAt": "2026-03-30T19:15:19.569Z",
+  "fetchedAt": "2026-03-30T21:10:55.769Z",
   "count": 60,
   "articles": [
+    {
+      "id": "v828k3",
+      "title": "As more Americans adopt AI tools, fewer say they can trust the results",
+      "summary": "AI adoption is rising in the U.S., but trust remains low, with most Americans concerned about transparency, regulation, and the technology’s broader societal impact, according to a new Quinnipiac poll.",
+      "imageUrl": "https://images.unsplash.com/photo-1635070041078-e363dbe005cb?w=800&q=80",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/03/30/ai-trust-adoption-poll-more-americans-adopt-tools-fewer-say-they-can-trust-the-results/",
+      "publishedAt": "2026-03-30T20:24:53.000Z"
+    },
     {
       "id": "lgxz0r",
       "title": "There are more AI health tools than ever—but how well do they work?",
@@ -253,15 +262,6 @@
       "source": "The Verge",
       "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/902546/data-centers-ai-energy-power-grids-controversy",
       "publishedAt": "2026-03-27T18:35:53.000Z"
-    },
-    {
-      "id": "be5xjv",
-      "title": "VCs are betting billions on AI’s next wave, so why is OpenAI killing Sora?",
-      "summary": "When an 82-year-old Kentucky woman was offered $26 million from an AI company that wanted to build a data center on her land, she said no. Sure, that same company can try to rezone 2,000 acres nearby anyway, but as AI infrastructure stretches further into the real world, the real world is starting to push back. That tension is everywhere […]",
-      "imageUrl": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=800&q=80",
-      "source": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/podcast/vcs-are-betting-billions-on-ais-next-wave-so-why-is-openai-killing-sora/",
-      "publishedAt": "2026-03-27T15:40:19.000Z"
     },
     {
       "id": "4w0yqt",
