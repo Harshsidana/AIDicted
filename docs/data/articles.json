@@ -1,7 +1,25 @@
 {
-  "fetchedAt": "2026-03-30T13:59:09.176Z",
+  "fetchedAt": "2026-03-30T15:18:23.351Z",
   "count": 60,
   "articles": [
+    {
+      "id": "n7a9k8",
+      "title": "Okta’s CEO is betting big on AI agent identity",
+      "summary": "Today, I’m talking with Todd McKinnon, who is co-founder and CEO of Okta, a platform that lets big companies manage security and identity across all the apps and services their employees use. Think of it like login management — actually, that’s a great way to think about it because the way most people encounter Okta is that it’s the thing that makes you log in again right before joining a meeting several times a week, so then you’re late for the meeting… Can you tell we use Okta? Anyhow, all of…",
+      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/03/DCD_McKinnon_Okta.png?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "source": "The Verge",
+      "sourceUrl": "https://www.theverge.com/podcast/902264/oktas-ceo-is-betting-big-on-ai-agent-identity",
+      "publishedAt": "2026-03-30T15:15:00.000Z"
+    },
+    {
+      "id": "2jj10u",
+      "title": "Mantis Biotech is making ‘digital twins’ of humans to help solve medicine’s data availability problem",
+      "summary": "Mantis takes disparate sources of data to make synthetic datasets that can be used to build so-called \"digital twins\" of the human body, representing anatomy, physiology and behavior.",
+      "imageUrl": "https://images.unsplash.com/photo-1655720828018-edd2daec9349?w=800&q=80",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/03/30/mantis-biotech-is-making-digital-twins-of-humans-to-help-solve-medicines-data-availability-problem/",
+      "publishedAt": "2026-03-30T14:30:00.000Z"
+    },
     {
       "id": "lsgarw",
       "title": "ScaleOps raises $130M to improve computing efficiency amid AI demand",
@@ -237,15 +255,6 @@
       "publishedAt": "2026-03-27T15:00:00.000Z"
     },
     {
-      "id": "rnthu3",
-      "title": "OpenAI shuts down Sora while Meta gets shut out in court",
-      "summary": "When an 82-year-old Kentucky woman was offered $26 million from an AI company that wanted to build a data center on her land, she said no. Sure, that same company can try to rezone 2,000 acres nearby anyway, but as AI infrastructure stretches further into the real world, the real world is starting to push back. That tension is everywhere […]",
-      "imageUrl": "https://images.unsplash.com/photo-1531746790095-6c10a4031c5f?w=800&q=80",
-      "source": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/video/openai-shuts-down-sora-while-meta-gets-shut-out-in-court/",
-      "publishedAt": "2026-03-27T13:30:00.000Z"
-    },
-    {
       "id": "oycbl6",
       "title": "The Download: the internet’s best weather app, and why people freeze their brains",
       "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. How a couple of ski bums built the internet’s best weather app The best snow-forecasting app for skiers isn’t a federally-funded service or a big-name brand. It’s OpenSnow, a startup that uses government data, its own AI…",
@@ -316,15 +325,6 @@
       "source": "The Verge",
       "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/902085/google-gemini-import-memory-chat-history",
       "publishedAt": "2026-03-26T21:44:37.000Z"
-    },
-    {
-      "id": "fw1hp",
-      "title": "Apple will reportedly allow other AI chatbots to plug into Siri",
-      "summary": "Siri currently has an integration with OpenAI’s ChatGPT. | Photo: Allison Johnson / The Verge Apple's iOS 27 update will allow users to choose the AI chatbot they want to link with Siri. That's according to a report from Bloomberg's Mark Gurman, who says third-party chatbots downloaded from the App Store, like Google's Gemini or Anthropic's Claude, will be able to fetch replies for Siri - similar to how the voice assistant already works with OpenAI's ChatGPT. The new system, reportedly called…",
-      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25698444/DSC08567_processed_2.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "source": "The Verge",
-      "sourceUrl": "https://www.theverge.com/tech/902048/apple-siri-ai-chatbot-update-ios-27",
-      "publishedAt": "2026-03-26T21:31:27.000Z"
     },
     {
       "id": "b0mkv7",
