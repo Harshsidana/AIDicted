@@ -1,7 +1,25 @@
 {
-  "fetchedAt": "2026-03-30T15:18:23.351Z",
+  "fetchedAt": "2026-03-30T16:34:28.519Z",
   "count": 60,
   "articles": [
+    {
+      "id": "lgxz0r",
+      "title": "There are more AI health tools than ever—but how well do they work?",
+      "summary": "Earlier this month, Microsoft launched Copilot Health, a new space within its Copilot app where users will be able to connect their medical records and ask specific questions about their health. A couple of days earlier, Amazon had announced that Health AI, an LLM-based tool previously restricted to members of its One Medical service, would…",
+      "imageUrl": "https://images.unsplash.com/photo-1620712943543-bcc4688e7485?w=800&q=80",
+      "source": "MIT Tech Review",
+      "sourceUrl": "https://www.technologyreview.com/2026/03/30/1134795/there-are-more-ai-health-tools-than-ever-but-how-well-do-they-work/",
+      "publishedAt": "2026-03-30T16:00:00.000Z"
+    },
+    {
+      "id": "yq7o4k",
+      "title": "The Pentagon’s culture war tactic against Anthropic has backfired",
+      "summary": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here. Last Thursday, a California judge temporarily blocked the Pentagon from labeling Anthropic a supply chain risk and ordering government agencies to stop using its AI. It’s the latest development in the month-long…",
+      "imageUrl": "https://images.unsplash.com/photo-1485827404703-89b55fcc595e?w=800&q=80",
+      "source": "MIT Tech Review",
+      "sourceUrl": "https://www.technologyreview.com/2026/03/30/1134881/the-pentagons-culture-war-tactic-against-anthropic-has-backfired/",
+      "publishedAt": "2026-03-30T15:42:50.000Z"
+    },
     {
       "id": "n7a9k8",
       "title": "Okta’s CEO is betting big on AI agent identity",
@@ -390,15 +408,6 @@
       "publishedAt": "2026-03-25T18:49:40.000Z"
     },
     {
-      "id": "3pzej0",
-      "title": "Roundtables: The Next Era of Space Exploration",
-      "summary": "Listen to the session or watch below Whether it’s the race to find life on Mars, the campaign to outsmart killer asteroids, or the quest to make the moon a permanent home to astronauts, scientists’ efforts in space can tell us more about where humanity is headed. This subscriber-only discussion examines the progress and possibilities…",
-      "imageUrl": "https://images.unsplash.com/photo-1620712943543-bcc4688e7485?w=800&q=80",
-      "source": "MIT Tech Review",
-      "sourceUrl": "https://www.technologyreview.com/2026/03/25/1134664/roundtables-the-next-era-of-space-exploration/",
-      "publishedAt": "2026-03-25T17:26:26.000Z"
-    },
-    {
       "id": "x2s6yj",
       "title": "Google bumps up Q Day deadline to 2029, far sooner than previously thought",
       "summary": "Company warns entire industry to move off RSA and EC more quickly.",
@@ -406,15 +415,6 @@
       "source": "Ars Technica",
       "sourceUrl": "https://arstechnica.com/security/2026/03/google-bumps-up-q-day-estimate-to-2029-far-sooner-than-previously-thought/",
       "publishedAt": "2026-03-25T15:49:17.000Z"
-    },
-    {
-      "id": "3h12pk",
-      "title": "Why this battery company is pivoting to AI",
-      "summary": "Qichao Hu doesn’t mince words about how he sees the state of the battery industry. “Almost every Western battery company has either died or is going to die. It’s kind of the reality,” he says. Hu is the CEO of SES AI, a Massachusetts-based battery company. It once had aims of making huge amounts of…",
-      "imageUrl": "https://images.unsplash.com/photo-1531746790095-6c10a4031c5f?w=800&q=80",
-      "source": "MIT Tech Review",
-      "sourceUrl": "https://www.technologyreview.com/2026/03/25/1134657/battery-company-ai-pivot-ses/",
-      "publishedAt": "2026-03-25T15:02:50.000Z"
     },
     {
       "id": "5c67ci",
