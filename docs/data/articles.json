@@ -1,7 +1,43 @@
 {
-  "fetchedAt": "2026-03-31T13:52:53.149Z",
+  "fetchedAt": "2026-03-31T16:34:48.190Z",
   "count": 60,
   "articles": [
+    {
+      "id": "iltid7",
+      "title": "Nomadic raises $8.4 million to wrangle the data pouring off autonomous vehicles",
+      "summary": "The company turns footage from robots into structured, searchable datasets with a deep learning model.",
+      "imageUrl": "https://images.unsplash.com/photo-1676299081847-824916de030a?w=800&q=80",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/03/31/nomadic-raises-8-4-million-to-wrangle-the-data-pouring-off-avs/",
+      "publishedAt": "2026-03-31T15:00:00.000Z"
+    },
+    {
+      "id": "9jcqny",
+      "title": "Art schools are being torn apart by AI",
+      "summary": "The curriculum at creative institutions is evolving to handle gen AI tools, and a lot of people aren’t happy about it. | Image by Cath Virginia / The Verge When my baby brother, a 3D modelling and animation student, talks to me about his projects and studies, the pride I usually feel is becoming increasingly tainted by a growing sense of dread. As a creative professional and former design student myself, I understand all too well how fierce the competition for postgraduate jobs will be, but his…",
+      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/03/268425_How_art_schools_are_teaching_AI__CVirginia.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "source": "The Verge",
+      "sourceUrl": "https://www.theverge.com/tech/903954/art-schools-generative-ai-education-creative-jobs",
+      "publishedAt": "2026-03-31T15:00:00.000Z"
+    },
+    {
+      "id": "95glhk",
+      "title": "Shifting to AI model customization is an architectural imperative",
+      "summary": "In the early days of large language models (LLMs), we grew accustomed to massive 10x jumps in reasoning and coding capability with every new model iteration. Today, those jumps have flattened into incremental gains. The exception is domain-specialized intelligence, where true step-function improvements are still the norm. When a model is fused with an organization’s…",
+      "imageUrl": "https://images.unsplash.com/photo-1655720828018-edd2daec9349?w=800&q=80",
+      "source": "MIT Tech Review",
+      "sourceUrl": "https://www.technologyreview.com/2026/03/31/1134762/shifting-to-ai-model-customization-is-an-architectural-imperative/",
+      "publishedAt": "2026-03-31T14:12:50.000Z"
+    },
+    {
+      "id": "mnoagp",
+      "title": "Exclusive: Runway launches $10M fund, Builders program to support early stage AI startups",
+      "summary": "Runway is launching a $10 million fund and startup program to back companies building with its AI video models, as it pushes toward interactive, real-time “video intelligence” applications.",
+      "imageUrl": "https://images.unsplash.com/photo-1485827404703-89b55fcc595e?w=800&q=80",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/03/31/exclusive-runway-launches-10m-fund-builders-program-to-support-early-stage-ai-startups/",
+      "publishedAt": "2026-03-31T14:00:00.000Z"
+    },
     {
       "id": "x12r9x",
       "title": "With its new app store, Ring bets on AI to go beyond home security",
@@ -228,15 +264,6 @@
       "publishedAt": "2026-03-28T23:00:00.000Z"
     },
     {
-      "id": "6xadan",
-      "title": "Stanford study outlines dangers of asking AI chatbots for personal advice",
-      "summary": "While there’s been plenty of debate about AI sycophancy, a new study by Stanford computer scientists attempts to measure how harmful that tendency might be.",
-      "imageUrl": "https://images.unsplash.com/photo-1526374965328-7f61d4dc18c5?w=800&q=80",
-      "source": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/03/28/stanford-study-outlines-dangers-of-asking-ai-chatbots-for-personal-advice/",
-      "publishedAt": "2026-03-28T20:45:54.000Z"
-    },
-    {
       "id": "xgj5l6",
       "title": "Suno leans into customization with v5.5",
       "summary": "Slop yourself. | Image: Suno Suno just released one of its biggest updates yet with v5.5 of its AI music model. Where previous updates focused mostly on improving fidelity and creating more natural vocals, v5.5 is about giving users more control. It includes three new features: Voices, My Taste, and Custom Models. In the release notes, Suno says that Voices is its most requested feature. It lets users train the vocal model on their own voice. They can upload clean accapellas, finished tracks…",
@@ -244,15 +271,6 @@
       "source": "The Verge",
       "sourceUrl": "https://www.theverge.com/entertainment/903056/suno-ai-music-v5-5-model",
       "publishedAt": "2026-03-28T18:33:10.000Z"
-    },
-    {
-      "id": "gprybw",
-      "title": "Elon Musk’s last co-founder reportedly leaves xAI",
-      "summary": "All but two of Musk's 11 xAI co-founders departed before this week.",
-      "imageUrl": "https://images.unsplash.com/photo-1635070041078-e363dbe005cb?w=800&q=80",
-      "source": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/03/28/elon-musks-last-co-founder-reportedly-leaves-xai/",
-      "publishedAt": "2026-03-28T16:11:16.000Z"
     },
     {
       "id": "nv1ej9",
@@ -354,15 +372,6 @@
       "publishedAt": "2026-03-27T00:33:44.000Z"
     },
     {
-      "id": "tc9ewi",
-      "title": "David Sacks is no longer the White House AI and Crypto Czar",
-      "summary": "David Sacks, the venture capitalist and tech billionaire who'd become Silicon Valley's primary advocate inside the White House and a key architect of its aggressive AI policy initiatives, revealed on Thursday that he was no longer a special government employee - and therefore no longer President Donald Trump's Special Advisor on AI and Crypto. Sacks' official status as an SGE allowed him to work simultaneously in the private sector and for the government, but for no more than 130 days, raising…",
-      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/03/STKP213_DAVID_SACKS_A.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "source": "The Verge",
-      "sourceUrl": "https://www.theverge.com/policy/902140/david-sacks-out-ai-crypto-czar",
-      "publishedAt": "2026-03-26T23:40:22.000Z"
-    },
-    {
       "id": "mgc4lg",
       "title": "Anthropic Supply-Chain-Risk Designation Halted by Judge",
       "summary": "A judge temporarily blocked the Trump administration’s designation, clearing the way for Anthropic to keep doing business without the label starting next week.",
@@ -379,15 +388,6 @@
       "source": "Wired",
       "sourceUrl": "https://www.wired.com/story/tech-reporters-using-ai-write-edit-stories/",
       "publishedAt": "2026-03-26T18:00:00.000Z"
-    },
-    {
-      "id": "j0o029",
-      "title": "The Download: a battery pivot to AI, and rewriting math",
-      "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. Why this battery company is pivoting to AI Qichao Hu doesn’t mince words about the state of the battery industry. “Almost every Western battery company has either died or is going to die. It’s kind of…",
-      "imageUrl": "https://images.unsplash.com/photo-1676299081847-824916de030a?w=800&q=80",
-      "source": "MIT Tech Review",
-      "sourceUrl": "https://www.technologyreview.com/2026/03/26/1134697/the-download-battery-ai-pivot-new-ai-tool-math/",
-      "publishedAt": "2026-03-26T12:42:53.000Z"
     },
     {
       "id": "6e9d91",
