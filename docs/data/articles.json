@@ -1,12 +1,30 @@
 {
-  "fetchedAt": "2026-03-31T20:06:16.803Z",
+  "fetchedAt": "2026-03-31T22:04:24.253Z",
   "count": 60,
   "articles": [
     {
-      "id": "oq772w",
-      "title": "Yupp.ai shuts down after raising $33M from a16z crypto’s Chris Dixon",
-      "summary": "Less than a year after launching, with checks from some of the biggest names in Silicon Valley, crowdsourced AI model feedback startup Yupp.ai is closing its business, the company said Tuesday.",
-      "imageUrl": "https://images.unsplash.com/photo-1550751827-4bd374c3f58b?w=800&q=80",
+      "id": "ga34b0",
+      "title": "OpenAI, not yet public, raises $3B from retail investors in monster $122B fund raise",
+      "summary": "OpenAI's latest funding round, led by Amazon, Nvidia, and SoftBank, values the AI lab at $852 billion as it nears an IPO.",
+      "imageUrl": "https://images.unsplash.com/photo-1655720828018-edd2daec9349?w=800&q=80",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/03/31/openai-not-yet-public-raises-3b-from-retail-investors-in-monster-122b-fund-raise/",
+      "publishedAt": "2026-03-31T21:25:04.000Z"
+    },
+    {
+      "id": "fsns94",
+      "title": "You can now use ChatGPT with Apple’s CarPlay",
+      "summary": "ChatGPT is now accessible from your CarPlay dashboard if you have iOS 26.4 or newer and the latest version of the ChatGPT app, 9to5Mac reports. Apple's recently-launched iOS 26.4 update added support for \"voice-based conversational apps\" in CarPlay, opening the door to let you use AI chatbots with voice features through Apple's in-car platform. When using ChatGPT through CarPlay, the app doesn't show text conversations, according to 9to5Mac - instead, you can only have conversations with the app…",
+      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25462047/STK155_OPEN_AI_CVirginia_2_D.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "source": "The Verge",
+      "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/904676/apple-carplay-openai-chatgpt",
+      "publishedAt": "2026-03-31T21:03:18.000Z"
+    },
+    {
+      "id": "ig4nhy",
+      "title": "Yupp shuts down after raising $33M from a16z crypto’s Chris Dixon",
+      "summary": "Less than a year after launching, with checks from some of the biggest names in Silicon Valley, crowdsourced AI model feedback startup Yupp is closing its business, the company said Tuesday.",
+      "imageUrl": "https://images.unsplash.com/photo-1485827404703-89b55fcc595e?w=800&q=80",
       "source": "TechCrunch",
       "sourceUrl": "https://techcrunch.com/2026/03/31/yupp-ai-shuts-down-33m-a16z-crypto-chris-dixon/",
       "publishedAt": "2026-03-31T20:01:07.000Z"
@@ -255,15 +273,6 @@
       "publishedAt": "2026-03-30T09:00:00.000Z"
     },
     {
-      "id": "vgju0l",
-      "title": "Why OpenAI really shut down Sora",
-      "summary": "OpenAI's decision last week to shut down Sora, its AI video-generation tool, just six months after releasing it to the public, raised immediate suspicions. The app had invited users to upload their own faces — so was this some kind of elaborate data grab?",
-      "imageUrl": "https://images.unsplash.com/photo-1635070041078-e363dbe005cb?w=800&q=80",
-      "source": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/03/29/why-openai-really-shut-down-sora/",
-      "publishedAt": "2026-03-30T03:09:38.000Z"
-    },
-    {
       "id": "bp49t3",
       "title": "All the latest in AI ‘music’",
       "summary": "People don’t like that they can’t identify AI music. | Image: Cath Virginia / The Verge AI has touched every part of the music industry, from sample sourcing and demo recording, to serving up digital liner notes and building playlists. There are technical and legal challenges, fierce ethical debates, and fears that the slop will simply crush working musicians through sheer volume. Is it art or just an output? What exactly is “really active“? Whether it’s a new model or a new lawsuit, we’re…",
@@ -325,15 +334,6 @@
       "source": "Wired",
       "sourceUrl": "https://www.wired.com/story/made-in-china-ai-research-is-starting-to-split-along-geopolitical-lines/",
       "publishedAt": "2026-03-27T21:46:39.000Z"
-    },
-    {
-      "id": "gg26v1",
-      "title": "The latest in data centers, AI, and energy",
-      "summary": "Massive new data centers are the physical foundation for tech companies’ hopes and dreams for AI. But the rush to expand warehouses full of energy-hungry servers has also kicked up fights across the world over their impact on power grids, utility bills, nearby communities, and the environment. From audacious plans to launch data centers into space to the latest legal battles over pollution, The Verge has the biggest news and reporting surrounding data centers. Senators are pushing to find out…",
-      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/12/258090_EOY_2025_CVirginia_DATA_CENTER.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "source": "The Verge",
-      "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/902546/data-centers-ai-energy-power-grids-controversy",
-      "publishedAt": "2026-03-27T18:35:53.000Z"
     },
     {
       "id": "4w0yqt",
