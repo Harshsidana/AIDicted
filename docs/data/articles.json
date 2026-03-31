@@ -1,7 +1,34 @@
 {
-  "fetchedAt": "2026-03-31T17:59:27.985Z",
+  "fetchedAt": "2026-03-31T20:06:16.803Z",
   "count": 60,
   "articles": [
+    {
+      "id": "oq772w",
+      "title": "Yupp.ai shuts down after raising $33M from a16z crypto’s Chris Dixon",
+      "summary": "Less than a year after launching, with checks from some of the biggest names in Silicon Valley, crowdsourced AI model feedback startup Yupp.ai is closing its business, the company said Tuesday.",
+      "imageUrl": "https://images.unsplash.com/photo-1550751827-4bd374c3f58b?w=800&q=80",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/03/31/yupp-ai-shuts-down-33m-a16z-crypto-chris-dixon/",
+      "publishedAt": "2026-03-31T20:01:07.000Z"
+    },
+    {
+      "id": "yakfa8",
+      "title": "Quantum computers need vastly fewer resources than thought to break vital encryption",
+      "summary": "No, the sky isn't falling, but Q Day is coming, and it won't be as expensive as thought.",
+      "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2024/03/GettyImages-1070527780-1152x648.jpg",
+      "source": "Ars Technica",
+      "sourceUrl": "https://arstechnica.com/security/2026/03/new-quantum-computing-advances-heighten-threat-to-elliptic-curve-cryptosystems/",
+      "publishedAt": "2026-03-31T18:25:33.000Z"
+    },
+    {
+      "id": "86vd58",
+      "title": "The Galaxy S26’s photo app can sloppify your memories",
+      "summary": "Love to see the BACKSST BOYS at the Sphere. The Google Pixel 9 walked so that the Samsung Galaxy S26 could run. Google introduced AI editing tools to Photos slowly. It started with changes to the background - make the sky more blue, or remove crowds of tourists. Things got weird once the company added natural language requests and let you ask for basically any change. There were some guardrails, but in many cases it was easy to prompt your way around them into creating a potentially harmful…",
+      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/03/ai-label-17.png?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "source": "The Verge",
+      "sourceUrl": "https://www.theverge.com/tech/904176/samsung-galaxy-s26-ai-photo-assist-slop",
+      "publishedAt": "2026-03-31T18:15:00.000Z"
+    },
     {
       "id": "4gctpj",
       "title": "Alexa+ gets new food ordering experiences with Uber Eats and Grubhub",
@@ -255,15 +282,6 @@
       "publishedAt": "2026-03-29T21:44:41.000Z"
     },
     {
-      "id": "7dq29x",
-      "title": "Sora’s shutdown could be a reality check moment for AI video",
-      "summary": "Is this just normal corporate strategy, or are we about to see a broader pullback on AI-generated video?",
-      "imageUrl": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=800&q=80",
-      "source": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/03/29/soras-shutdown-could-be-a-reality-check-moment-for-ai-video/",
-      "publishedAt": "2026-03-29T16:30:00.000Z"
-    },
-    {
       "id": "xgj5l6",
       "title": "Suno leans into customization with v5.5",
       "summary": "Slop yourself. | Image: Suno Suno just released one of its biggest updates yet with v5.5 of its AI music model. Where previous updates focused mostly on improving fidelity and creating more natural vocals, v5.5 is about giving users more control. It includes three new features: Voices, My Taste, and Custom Models. In the release notes, Suno says that Voices is its most requested feature. It lets users train the vocal model on their own voice. They can upload clean accapellas, finished tracks…",
@@ -361,15 +379,6 @@
       "source": "MIT Tech Review",
       "sourceUrl": "https://www.technologyreview.com/2026/03/27/1134705/cryonics-store-bodies-brains-after-death/",
       "publishedAt": "2026-03-27T09:00:00.000Z"
-    },
-    {
-      "id": "t8m4s",
-      "title": "Judge sides with Anthropic to temporarily block the Pentagon’s ban",
-      "summary": "After Anthropic's weeks-long standoff with the Pentagon, the company won one milestone: A judge granted Anthropic a preliminary injunction in its lawsuit, which sought to reverse its government blacklisting while the judicial process plays out. \"The Department of War's records show that it designated Anthropic as a supply chain risk because of its 'hostile manner through the press,'\" Judge Rita F. Lin, a district judge in the northern district of California, wrote in the order, which will go…",
-      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/02/268367_dod_and_anthropics_public_fight_over_lethal_autonomous_weapons_a_mass_surveillance_CVirginia.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "source": "The Verge",
-      "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/902149/anthropic-dod-pentagon-lawsuit-supply-chain-risk-injunction",
-      "publishedAt": "2026-03-27T00:33:44.000Z"
     },
     {
       "id": "mgc4lg",
@@ -532,15 +541,6 @@
       "source": "Ars Technica",
       "sourceUrl": "https://arstechnica.com/security/2026/03/llms-can-unmask-pseudonymous-users-at-scale-with-surprising-accuracy/",
       "publishedAt": "2026-03-03T12:30:24.000Z"
-    },
-    {
-      "id": "uo2cn5",
-      "title": "Google quantum-proofs HTTPS by squeezing 15kB of data into 700-byte space",
-      "summary": "Merkle Tree Certificate support is already in Chrome. Soon, it will be everywhere.",
-      "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2025/06/https-1152x648.jpg",
-      "source": "Ars Technica",
-      "sourceUrl": "https://arstechnica.com/security/2026/02/google-is-using-clever-math-to-quantum-proof-https-certificates/",
-      "publishedAt": "2026-02-28T01:26:41.000Z"
     }
   ]
 }
