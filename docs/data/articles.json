@@ -1,7 +1,52 @@
 {
-  "fetchedAt": "2026-03-31T11:54:52.387Z",
+  "fetchedAt": "2026-03-31T13:52:53.149Z",
   "count": 60,
   "articles": [
+    {
+      "id": "x12r9x",
+      "title": "With its new app store, Ring bets on AI to go beyond home security",
+      "summary": "Ring's app store will allow the company to target broader use cases beyond security, like elder care or business needs.",
+      "imageUrl": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=800&q=80",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/03/31/ring-app-store-bets-on-ai-to-go-beyond-home-security/",
+      "publishedAt": "2026-03-31T13:00:00.000Z"
+    },
+    {
+      "id": "v8xj8r",
+      "title": "You can order Grubhub and Uber Eats ‘conversationally’ with Alexa Plus",
+      "summary": "Amazon is giving you a new way to order food through Grubhub and Uber Eats with Alexa without having to endure an awkward exchange just to add fries. Amazon said the entire process is meant to be conversational, building your order in a similar manner to ordering in a restaurant. That means changing your order, modifying an item, or adding a drink mid-conversation is as simple as saying so, without having to wait for Alexa to finish talking. Amazon said Alexa will only step in when you need help…",
+      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/03/Food-Ordering_Echo-Show_Customization.png?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "source": "The Verge",
+      "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/903938/alexa-plus-order-food-grubhub-uber-eats",
+      "publishedAt": "2026-03-31T13:00:00.000Z"
+    },
+    {
+      "id": "co1wke",
+      "title": "AI Has Flooded All the Weather Apps",
+      "summary": "Weather forecasting has gotten a big boost from machine learning. How that translates into what users see can vary.",
+      "imageUrl": "https://media.wired.com/photos/69c5a16aef09a65ca95d7cdb/master/pass/Gear_AI_IsHereForYourWeatherApp_2400x1350.jpg",
+      "source": "Wired",
+      "sourceUrl": "https://www.wired.com/story/ai-has-flooded-all-the-weather-apps/",
+      "publishedAt": "2026-03-31T13:00:00.000Z"
+    },
+    {
+      "id": "9rttjz",
+      "title": "The Download: AI health tools and the Pentagon’s Anthropic culture war",
+      "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. There are more AI health tools than ever—but how well do they work? In the last few months alone, Microsoft, Amazon, and OpenAI have all launched medical chatbots. There’s a clear demand…",
+      "imageUrl": "https://images.unsplash.com/photo-1676299081847-824916de030a?w=800&q=80",
+      "source": "MIT Tech Review",
+      "sourceUrl": "https://www.technologyreview.com/2026/03/31/1134934/the-download-testing-ai-health-tools-pentagon-anthropic-culture-war-backfires/",
+      "publishedAt": "2026-03-31T12:10:00.000Z"
+    },
+    {
+      "id": "s5gf0e",
+      "title": "AI benchmarks are broken. Here’s what we need instead.",
+      "summary": "For decades, artificial intelligence has been evaluated through the question of whether machines outperform humans. From chess to advanced math, from coding to essay writing, the performance of AI models and applications is tested against that of individual humans completing tasks. This framing is seductive: An AI vs. human comparison on isolated problems with clear…",
+      "imageUrl": "https://images.unsplash.com/photo-1620712943543-bcc4688e7485?w=800&q=80",
+      "source": "MIT Tech Review",
+      "sourceUrl": "https://www.technologyreview.com/2026/03/31/1134833/ai-benchmarks-are-broken-heres-what-we-need-instead/",
+      "publishedAt": "2026-03-31T12:01:08.000Z"
+    },
     {
       "id": "bgrybd",
       "title": "15% of Americans say they’d be willing to work for an AI boss, according to new poll",
@@ -210,15 +255,6 @@
       "publishedAt": "2026-03-28T16:11:16.000Z"
     },
     {
-      "id": "7170x3",
-      "title": "Anthropic’s Claude popularity with paying consumers is skyrocketing",
-      "summary": "Estimates for total Claude consumer users are all over the map (we've seen figures ranging from 18 million to 30 million). Anthropic hasn't disclosed this data, but a spokesperson did tell TechCrunch that Claude paid subscriptions have more than doubled this year.",
-      "imageUrl": "https://images.unsplash.com/photo-1620712943543-bcc4688e7485?w=800&q=80",
-      "source": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/03/28/anthropics-claude-popularity-with-paying-consumers-is-skyrocketing/",
-      "publishedAt": "2026-03-28T14:15:00.000Z"
-    },
-    {
       "id": "nv1ej9",
       "title": "Why can’t TikTok identify AI generated ads when I can?",
       "summary": "Samsung, like many companies using generative AI in their advertising, hasn’t placed an AI label on several videos shared through its TikTok accounts, and the fine print doesn’t always contain the answers. | Image by Samsung I've been struggling to tell whether the ads appearing in my TikTok feeds have been made with generative AI tools. As someone who spends a great deal of time scrutinizing images and videos for the usual \"tells\" that something was synthetically generated, some of the…",
@@ -336,15 +372,6 @@
       "publishedAt": "2026-03-26T23:33:05.000Z"
     },
     {
-      "id": "r5muft",
-      "title": "Google is making it easier to import another AI’s memory into Gemini",
-      "summary": "After Anthropic updated its tool for copying another AI's memory into Claude earlier this month, Google Gemini is rolling out new \"Import Memory\" and \"Import Chat History\" features on desktop that can help users quickly copy over everything their current AI already knows about them. To use the \"Import Memory\" tool, users copy and paste a suggested prompt from Gemini into their previous AI, then paste the output from the previous AI into Gemini, which should get Gemini caught up on their…",
-      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/02/stk414-chatbot-ai.jpeg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "source": "The Verge",
-      "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/902085/google-gemini-import-memory-chat-history",
-      "publishedAt": "2026-03-26T21:44:37.000Z"
-    },
-    {
       "id": "b0mkv7",
       "title": "Meet the Tech Reporters Using AI to Help Write and Edit Their Stories",
       "summary": "Independent writers are using AI agents all throughout their reporting process. What’s the value of a human journalist, anyway?",
@@ -379,33 +406,6 @@
       "source": "Wired",
       "sourceUrl": "https://www.wired.com/story/shes-never-going-to-age-porn-stars-are-embracing-ai-clones-to-stay-forever-young/",
       "publishedAt": "2026-03-26T10:30:00.000Z"
-    },
-    {
-      "id": "fpa2ht",
-      "title": "The snow gods: How a couple of ski bums built the internet’s best weather app",
-      "summary": "The best snow-forecasting app for skiers and snowboarders isn’t from any of the federally funded weather services. Nor from any of the big-name brands. It’s an independent app startup that leverages government data, its own AI models, and decades of alpine-life experience to offer better snow (and soon avalanche) predictions than anything else out there.…",
-      "imageUrl": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=800&q=80",
-      "source": "MIT Tech Review",
-      "sourceUrl": "https://www.technologyreview.com/2026/03/26/1134470/the-snow-gods-how-a-couple-of-ski-bums-built-the-internets-best-weather-app/",
-      "publishedAt": "2026-03-26T10:00:00.000Z"
-    },
-    {
-      "id": "w58mrc",
-      "title": "Are high gas prices good news for EVs? It’s complicated.",
-      "summary": "I live in a dense city with plentiful public transportation options and limited parking, so I don’t own a car. I’m often utterly clueless about the current price of gasoline. But as the conflict in Iran has escalated, fossil-fuel prices have been on a roller-coaster, and I’ve started paying attention. In the US, average gas…",
-      "imageUrl": "https://images.unsplash.com/photo-1655720828018-edd2daec9349?w=800&q=80",
-      "source": "MIT Tech Review",
-      "sourceUrl": "https://www.technologyreview.com/2026/03/26/1134677/gas-prices-electric-vehicles/",
-      "publishedAt": "2026-03-26T10:00:00.000Z"
-    },
-    {
-      "id": "jy2l2v",
-      "title": "There’s Something Very Dark About a Lot of Those Viral AI Fruit Videos",
-      "summary": "With female AI fruit being fart-shamed and even sexually assaulted, there’s a misogynistic undercurrent to the fruit slop microdramas, even as they appear to be cultivating genuine fans.",
-      "imageUrl": "https://media.wired.com/photos/69c40a914ff31d9d83686e60/master/pass/ai-fruit-microdrama.jpg",
-      "source": "Wired",
-      "sourceUrl": "https://www.wired.com/story/theres-something-very-dark-about-a-lot-of-those-viral-ai-fruit-videos/",
-      "publishedAt": "2026-03-25T18:49:40.000Z"
     },
     {
       "id": "x2s6yj",
