@@ -1,7 +1,25 @@
 {
-  "fetchedAt": "2026-04-01T09:47:30.746Z",
+  "fetchedAt": "2026-04-01T11:06:34.003Z",
   "count": 60,
   "articles": [
+    {
+      "id": "17pquj",
+      "title": "Baidu’s robotaxis froze in traffic creating chaos",
+      "summary": "A Baidu Apollo robotaxi in Wuhan, China. | Image: Bloomberg via Getty Images Numerous robotaxis operated by Chinese tech giant Baidu froze in a major city on Tuesday, reportedly trapping passengers inside, stranding them on highways, and causing at least one accident in snarled traffic. Police in Wuhan confirmed receiving multiple reports of Baidu's Apollo Go robotaxis stopping in the middle of streets and being unable to move. Police said no injuries have been reported and that preliminary…",
+      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/04/gettyimages-2152484525.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "source": "The Verge",
+      "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/905012/baidu-apollo-robotaxi-freeze-china",
+      "publishedAt": "2026-04-01T10:39:52.000Z"
+    },
+    {
+      "id": "s74ir3",
+      "title": "Watching a 7.5-Hour Movie in Theaters Made Me More Hopeful About Our Collective Brain Rot",
+      "summary": "Sátántango is considered a holy rite for hardcore cinephiles. It also helped me confront my dwindling attention span.",
+      "imageUrl": "https://media.wired.com/photos/69cab7ea75c0a81462c59741/master/pass/Watching-7.5-Hour-Movie-in-Theaters-Culture-2212426465.jpg",
+      "source": "Wired",
+      "sourceUrl": "https://www.wired.com/story/watching-a-75-hour-movie-in-theaters-made-me-more-hopeful-about-our-collective-brainrot/",
+      "publishedAt": "2026-04-01T10:30:00.000Z"
+    },
     {
       "id": "8it9nd",
       "title": "I Asked ChatGPT What WIRED’s Reviewers Recommend—Its Answers Were All Wrong",
@@ -318,15 +336,6 @@
       "publishedAt": "2026-03-28T18:33:10.000Z"
     },
     {
-      "id": "nv1ej9",
-      "title": "Why can’t TikTok identify AI generated ads when I can?",
-      "summary": "Samsung, like many companies using generative AI in their advertising, hasn’t placed an AI label on several videos shared through its TikTok accounts, and the fine print doesn’t always contain the answers. | Image by Samsung I've been struggling to tell whether the ads appearing in my TikTok feeds have been made with generative AI tools. As someone who spends a great deal of time scrutinizing images and videos for the usual \"tells\" that something was synthetically generated, some of the…",
-      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/03/Samsung-AI-video-promotion.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "source": "The Verge",
-      "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/900400/tiktok-ai-ads-labels-samsung-disclosure",
-      "publishedAt": "2026-03-28T14:00:00.000Z"
-    },
-    {
       "id": "xdk8rw",
       "title": "A woman’s uterus has been kept alive outside the body for the first time",
       "summary": "“Think of this as a human body,” says Javier González. In front of me is essentially a metal box on wheels. Standing at around a meter in height, it reminds me of a stainless-steel counter in a restaurant kitchen. It is covered in flexible plastic tubing—which act as veins and arteries—connecting a series of transparent…",
@@ -406,15 +415,6 @@
       "source": "Wired",
       "sourceUrl": "https://www.wired.com/story/tech-reporters-using-ai-write-edit-stories/",
       "publishedAt": "2026-03-26T18:00:00.000Z"
-    },
-    {
-      "id": "6e9d91",
-      "title": "Senators Demand to Know How Much Energy Data Centers Use",
-      "summary": "In a letter sent Thursday morning, Elizabeth Warren and Josh Hawley press the Energy Information Agency to mandate annual electricity disclosure for data centers.",
-      "imageUrl": "https://media.wired.com/photos/69c421794ff31d9d83686f80/master/pass/Elizabeth-Warren-Josh-Hawley-Demand-EIA-Start-Monitoring-How-Much-Energy-Data-Centers-Use-Science-2255930687.jpg",
-      "source": "Wired",
-      "sourceUrl": "https://www.wired.com/story/senators-demand-to-know-how-much-energy-data-centers-use/",
-      "publishedAt": "2026-03-26T12:00:00.000Z"
     },
     {
       "id": "x2s6yj",
