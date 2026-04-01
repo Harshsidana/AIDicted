@@ -1,7 +1,34 @@
 {
-  "fetchedAt": "2026-03-31T22:04:24.253Z",
+  "fetchedAt": "2026-04-01T00:00:59.318Z",
   "count": 60,
   "articles": [
+    {
+      "id": "c27ze7",
+      "title": "Anthropic is having a month",
+      "summary": "A human really borks things at Anthropic for the second time this week.",
+      "imageUrl": "https://images.unsplash.com/photo-1526374965328-7f61d4dc18c5?w=800&q=80",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/03/31/anthropic-is-having-a-month/",
+      "publishedAt": "2026-03-31T23:58:26.000Z"
+    },
+    {
+      "id": "puxz77",
+      "title": "Salesforce announces an AI-heavy makeover for Slack, with 30 new features",
+      "summary": "Slack just got a whole lot more useful.",
+      "imageUrl": "https://images.unsplash.com/photo-1485827404703-89b55fcc595e?w=800&q=80",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/03/31/salesforce-announces-an-ai-heavy-makeover-for-slack-with-30-new-features/",
+      "publishedAt": "2026-03-31T22:46:25.000Z"
+    },
+    {
+      "id": "70l4eq",
+      "title": "Claude Code leak exposes a Tamagotchi-style ‘pet’ and an always-on agent",
+      "summary": "After Anthropic released Claude Code's 2.1.88 update, users quickly discovered that it contained a package with a source map file containing its TypeScript codebase, with one person on X calling attention to the leak and posting a file containing the code. The leaked data reportedly contains more than 512,000 lines of code and provides a look into the inner workings of the AI-powered coding tool, as reported earlier by Ars Technica and VentureBeat. Users who have dug into the code claim to have…",
+      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/08/STKB364_CLAUDE_D.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "source": "The Verge",
+      "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/904776/anthropic-claude-source-code-leak",
+      "publishedAt": "2026-03-31T22:24:19.000Z"
+    },
     {
       "id": "ga34b0",
       "title": "OpenAI, not yet public, raises $3B from retail investors in monster $122B fund raise",
@@ -14,7 +41,7 @@
     {
       "id": "fsns94",
       "title": "You can now use ChatGPT with Apple’s CarPlay",
-      "summary": "ChatGPT is now accessible from your CarPlay dashboard if you have iOS 26.4 or newer and the latest version of the ChatGPT app, 9to5Mac reports. Apple's recently-launched iOS 26.4 update added support for \"voice-based conversational apps\" in CarPlay, opening the door to let you use AI chatbots with voice features through Apple's in-car platform. When using ChatGPT through CarPlay, the app doesn't show text conversations, according to 9to5Mac - instead, you can only have conversations with the app…",
+      "summary": "ChatGPT is now accessible from your CarPlay dashboard if you have iOS 26.4 or newer and the latest version of the ChatGPT app, 9to5Mac reports. Apple's recently launched iOS 26.4 update added support for \"voice-based conversational apps\" in CarPlay, opening the door to let you use AI chatbots with voice features through Apple's in-car platform. When using ChatGPT through CarPlay, the app doesn't show text conversations, according to 9to5Mac - instead, you can only have conversations with the app…",
       "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25462047/STK155_OPEN_AI_CVirginia_2_D.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
       "source": "The Verge",
       "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/904676/apple-carplay-openai-chatgpt",
@@ -228,15 +255,6 @@
       "publishedAt": "2026-03-30T12:49:51.000Z"
     },
     {
-      "id": "rpjvj0",
-      "title": "Qodo raises $70M for code verification as AI coding scales",
-      "summary": "As AI floods software development with code, Qodo is betting the real challenge is making sure it actually works.",
-      "imageUrl": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=800&q=80",
-      "source": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/03/30/qodo-bets-on-code-verification-as-ai-coding-scales-raises-70m/",
-      "publishedAt": "2026-03-30T12:30:00.000Z"
-    },
-    {
       "id": "ljazyu",
       "title": "The Download: brainless human clones and the first uterus kept alive outside a body",
       "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. Inside the stealthy startup that pitched brainless human clones After operating in secrecy for years, R3 Bio, a California-based startup, suddenly revealed last week that it had raised money to create nonsentient monkey “organ sacks”…",
@@ -244,15 +262,6 @@
       "source": "MIT Tech Review",
       "sourceUrl": "https://www.technologyreview.com/2026/03/30/1134836/the-download-brainless-human-clones-first-uterus-kept-alive-outside-body/",
       "publishedAt": "2026-03-30T12:10:00.000Z"
-    },
-    {
-      "id": "fwg6ts",
-      "title": "Starcloud raises $170 million Series A to build data centers in space",
-      "summary": "Starcloud becomes the fastest Y Combinator startup to reach unicorn status, just 17 months after demo day.",
-      "imageUrl": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=800&q=80",
-      "source": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/03/30/starcloud-raises-170-million-series-ato-build-data-centers-in-space/",
-      "publishedAt": "2026-03-30T11:00:00.000Z"
     },
     {
       "id": "ghg8l7",
@@ -307,15 +316,6 @@
       "source": "The Verge",
       "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/900400/tiktok-ai-ads-labels-samsung-disclosure",
       "publishedAt": "2026-03-28T14:00:00.000Z"
-    },
-    {
-      "id": "urvazk",
-      "title": "Why OpenAI killed Sora",
-      "summary": "On Tuesday morning, everything was business as usual at OpenAI. By the end of the day, the company had announced that it would scrap its video-generation app, Sora, and reverse plans for video generation inside ChatGPT; it would wind down a $1 billion Disney deal; it would shuffle the role of a high-level executive; and it would raise an additional $10 billion from investors, adding up to more than $120 billion total for its latest funding round. OpenAI is now in a frenzy to turn a profit, or at…",
-      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/09/STK201_SAM_ALTMAN_CVIRGINIA_B.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "source": "The Verge",
-      "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/902368/openai-sora-dead-ai-video-generation-competition",
-      "publishedAt": "2026-03-28T12:00:00.000Z"
     },
     {
       "id": "xdk8rw",
