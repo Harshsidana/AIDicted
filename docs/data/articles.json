@@ -1,11 +1,38 @@
 {
-  "fetchedAt": "2026-04-01T18:10:47.433Z",
+  "fetchedAt": "2026-04-01T20:55:24.733Z",
   "count": 60,
   "articles": [
     {
+      "id": "teknzn",
+      "title": "Meta’s natural gas binge could power South Dakota",
+      "summary": "Meta's upcoming Hyperion AI data center will be powered by 10 new natural gas plants.",
+      "imageUrl": "https://images.unsplash.com/photo-1655720828018-edd2daec9349?w=800&q=80",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/04/01/metas-natural-gas-binge-could-power-south-dakota/",
+      "publishedAt": "2026-04-01T18:35:36.000Z"
+    },
+    {
+      "id": "6sco07",
+      "title": "AI Models Lie, Cheat, and Steal to Protect Other Models From Being Deleted",
+      "summary": "A new study from researchers at UC Berkeley and UC Santa Cruz suggests models will disobey human commands to protect their own kind.",
+      "imageUrl": "https://media.wired.com/photos/69cc304a8c1335f8c43d570c/master/pass/AI-Lab-AI-Protecting-AI-Business.jpg",
+      "source": "Wired",
+      "sourceUrl": "https://www.wired.com/story/ai-models-lie-cheat-steal-protect-other-models-research/",
+      "publishedAt": "2026-04-01T18:30:00.000Z"
+    },
+    {
+      "id": "jad0us",
+      "title": "‘Thank You for Generating With Us!’ Hollywood's AI Acolytes Stay on the Hype Train",
+      "summary": "Star Wars producer Kathleen Kennedy was one of the few skeptics at the Runway AI Summit, where AI was compared to fire and the printing press just a week after Sora’s death.",
+      "imageUrl": "https://media.wired.com/photos/69cd4ac4a4b79e3877561536/master/pass/ASAP_KathleenKennedy_Treatment.jpg",
+      "source": "Wired",
+      "sourceUrl": "https://www.wired.com/story/thank-you-for-generating-with-us-hollywoods-ai-acolytes-stay-on-the-hype-train/",
+      "publishedAt": "2026-04-01T18:13:34.000Z"
+    },
+    {
       "id": "tt08rm",
       "title": "Cognichip wants AI to design the chips that power AI, and just raised $60M to try",
-      "summary": "The firm says it can can reduce the cost of chip development by more than 75% and cut the timeline by more than half.",
+      "summary": "The firm says it can reduce the cost of chip development by more than 75% and cut the timeline by more than half.",
       "imageUrl": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=800&q=80",
       "source": "TechCrunch",
       "sourceUrl": "https://techcrunch.com/2026/04/01/cognichip-wants-ai-to-design-the-chips-that-power-ai-and-just-raised-60m-to-try/",
@@ -300,15 +327,6 @@
       "publishedAt": "2026-03-30T15:15:00.000Z"
     },
     {
-      "id": "2jj10u",
-      "title": "Mantis Biotech is making ‘digital twins’ of humans to help solve medicine’s data availability problem",
-      "summary": "Mantis takes disparate sources of data to make synthetic datasets that can be used to build so-called \"digital twins\" of the human body, representing anatomy, physiology and behavior.",
-      "imageUrl": "https://images.unsplash.com/photo-1655720828018-edd2daec9349?w=800&q=80",
-      "source": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/03/30/mantis-biotech-is-making-digital-twins-of-humans-to-help-solve-medicines-data-availability-problem/",
-      "publishedAt": "2026-03-30T14:30:00.000Z"
-    },
-    {
       "id": "ljazyu",
       "title": "The Download: brainless human clones and the first uterus kept alive outside a body",
       "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. Inside the stealthy startup that pitched brainless human clones After operating in secrecy for years, R3 Bio, a California-based startup, suddenly revealed last week that it had raised money to create nonsentient monkey “organ sacks”…",
@@ -397,24 +415,6 @@
       "source": "Wired",
       "sourceUrl": "https://www.wired.com/story/i-asked-chatgpt-500-questions-here-are-the-ads-i-saw-most-often/",
       "publishedAt": "2026-03-27T10:30:00.000Z"
-    },
-    {
-      "id": "mgc4lg",
-      "title": "Anthropic Supply-Chain-Risk Designation Halted by Judge",
-      "summary": "A judge temporarily blocked the Trump administration’s designation, clearing the way for Anthropic to keep doing business without the label starting next week.",
-      "imageUrl": "https://media.wired.com/photos/69c5b0bd07d68ae7468ce59a/master/pass/Apple-Supply-Chain-Risk-Business-2261514689.jpg",
-      "source": "Wired",
-      "sourceUrl": "https://www.wired.com/story/anthropic-supply-chain-risk-designation-injunction/",
-      "publishedAt": "2026-03-26T23:33:05.000Z"
-    },
-    {
-      "id": "b0mkv7",
-      "title": "Meet the Tech Reporters Using AI to Help Write and Edit Their Stories",
-      "summary": "Independent writers are using AI agents all throughout their reporting process. What’s the value of a human journalist, anyway?",
-      "imageUrl": "https://media.wired.com/photos/69c44c4c4ff31d9d83686fcc/master/pass/Model-Behavior-Newsletter-Writers-Using-AI-to-Write-Their-Columns-Business.jpg",
-      "source": "Wired",
-      "sourceUrl": "https://www.wired.com/story/tech-reporters-using-ai-write-edit-stories/",
-      "publishedAt": "2026-03-26T18:00:00.000Z"
     },
     {
       "id": "x2s6yj",
