@@ -1,7 +1,16 @@
 {
-  "fetchedAt": "2026-04-01T06:00:44.147Z",
+  "fetchedAt": "2026-04-01T09:47:30.746Z",
   "count": 60,
   "articles": [
+    {
+      "id": "8it9nd",
+      "title": "I Asked ChatGPT What WIRED’s Reviewers Recommend—Its Answers Were All Wrong",
+      "summary": "Want to know what our reviewers have actually tested and picked as the best TVs, headphones, and laptops? Ask ChatGPT, and it'll give you the wrong answers.",
+      "imageUrl": "https://media.wired.com/photos/69cc506cc2fe4f23a0fb523c/master/pass/Looking-for-WIREDs-Best-Product-Reccommendations--ChatGPT-Isnt-Trustworthy-Gear.jpg",
+      "source": "Wired",
+      "sourceUrl": "https://www.wired.com/story/i-asked-chatgpt-what-wired-reviewers-recommend-its-answers-were-all-wrong/",
+      "publishedAt": "2026-04-01T09:30:00.000Z"
+    },
     {
       "id": "jtassc",
       "title": "Mercor says it was hit by cyberattack tied to compromise of open-source LiteLLM project",
@@ -406,15 +415,6 @@
       "source": "Wired",
       "sourceUrl": "https://www.wired.com/story/senators-demand-to-know-how-much-energy-data-centers-use/",
       "publishedAt": "2026-03-26T12:00:00.000Z"
-    },
-    {
-      "id": "904b9q",
-      "title": "‘She’s Never Going to Age’: Porn Stars Are Embracing AI Clones to Stay Forever Young",
-      "summary": "AI companion platforms like OhChat and SinfulX are offering adult creators digital twins, who are always at their peak and stay monetizing.",
-      "imageUrl": "https://media.wired.com/photos/69c34605b292103938c0401f/master/pass/culture_ai_clone_porn_stars.jpg",
-      "source": "Wired",
-      "sourceUrl": "https://www.wired.com/story/shes-never-going-to-age-porn-stars-are-embracing-ai-clones-to-stay-forever-young/",
-      "publishedAt": "2026-03-26T10:30:00.000Z"
     },
     {
       "id": "x2s6yj",
