@@ -1,7 +1,34 @@
 {
-  "fetchedAt": "2026-04-01T12:08:27.134Z",
+  "fetchedAt": "2026-04-01T14:12:02.511Z",
   "count": 60,
   "articles": [
+    {
+      "id": "ajq3p2",
+      "title": "Less than a month: StrictlyVC San Francisco brings leaders from TDK Ventures, Replit, and more together",
+      "summary": "StrictlyVC San Francisco brings leaders from TDK Ventures, Replit, and more together on April 30. Space is limited. Register here for your pass.",
+      "imageUrl": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=800&q=80",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/04/01/join-the-first-strictlyvc-of-2026-in-sf-with-leaders-from-tdk-ventures-and-replits-co-founder/",
+      "publishedAt": "2026-04-01T14:00:00.000Z"
+    },
+    {
+      "id": "s4p8d",
+      "title": "AI can push your Stream Deck buttons for you",
+      "summary": "If you're tired of controlling Stream Deck devices by manually pushing buttons, then good news: Elgato will now let you delegate that task to a chatbot instead. The Stream Deck 7.4 software update released today introduces Model Context Protocol (MCP) support, allowing AI assistants like Claude, ChatGPT, and Nvidia G-Assist to find and activate Stream Deck actions on your behalf. \"You still set up actions in Stream Deck app the same way you always have. MCP adds a new way to trigger them,\"…",
+      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/24595940/236572_BOTM_Stream_Deck_DSeifert_0008.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "source": "The Verge",
+      "sourceUrl": "https://www.theverge.com/tech/905021/elgato-stream-deck-mcp-ai-agent-update",
+      "publishedAt": "2026-04-01T12:38:58.000Z"
+    },
+    {
+      "id": "kowpnr",
+      "title": "The Download: gig workers training humanoids, and better AI benchmarks",
+      "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. The gig workers who are training humanoid robots at home When Zeus, a medical student in Nigeria, returns to his apartment from a long day at the hospital, he straps his…",
+      "imageUrl": "https://images.unsplash.com/photo-1526374965328-7f61d4dc18c5?w=800&q=80",
+      "source": "MIT Tech Review",
+      "sourceUrl": "https://www.technologyreview.com/2026/04/01/1134993/the-download-gig-workers-training-humanoids-better-ai-benchmarks/",
+      "publishedAt": "2026-04-01T12:10:00.000Z"
+    },
     {
       "id": "4x1nb6",
       "title": "The gig workers who are training humanoid robots at home",
@@ -23,15 +50,15 @@
     {
       "id": "s74ir3",
       "title": "Watching a 7.5-Hour Movie in Theaters Made Me More Hopeful About Our Collective Brain Rot",
-      "summary": "Sátántango is considered a holy rite for hardcore cinephiles. It also helped me confront my dwindling attention span.",
+      "summary": "Sátántango is considered a holy rite for hardcore cinephiles. In a packed screening with no cellphones in sight, it also offered a salve for brain rot.",
       "imageUrl": "https://media.wired.com/photos/69cab7ea75c0a81462c59741/master/pass/Watching-7.5-Hour-Movie-in-Theaters-Culture-2212426465.jpg",
       "source": "Wired",
       "sourceUrl": "https://www.wired.com/story/watching-a-75-hour-movie-in-theaters-made-me-more-hopeful-about-our-collective-brainrot/",
       "publishedAt": "2026-04-01T10:30:00.000Z"
     },
     {
-      "id": "8it9nd",
-      "title": "I Asked ChatGPT What WIRED’s Reviewers Recommend—Its Answers Were All Wrong",
+      "id": "etqccd",
+      "title": "I Asked ChatGPT What WIRED’s Reviewers Recommend. Its Answers Were All Wrong",
       "summary": "Want to know what our reviewers have actually tested and picked as the best TVs, headphones, and laptops? Ask ChatGPT, and it'll give you the wrong answers.",
       "imageUrl": "https://media.wired.com/photos/69cc506cc2fe4f23a0fb523c/master/pass/Looking-for-WIREDs-Best-Product-Reccommendations--ChatGPT-Isnt-Trustworthy-Gear.jpg",
       "source": "Wired",
@@ -282,15 +309,6 @@
       "publishedAt": "2026-03-30T13:52:02.000Z"
     },
     {
-      "id": "3axktz",
-      "title": "AI chip startup Rebellions raises $400 million at $2.3B valuation in pre-IPO round",
-      "summary": "The startup, which is planning to go public later this year, designs chips specifically for AI inference, another challenger to Nvidia's dominance.",
-      "imageUrl": "https://images.unsplash.com/photo-1550751827-4bd374c3f58b?w=800&q=80",
-      "source": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/03/30/ai-chip-startup-rebellions-raises-400-million-at-2-3b-valuation-in-pre-ipo-round/",
-      "publishedAt": "2026-03-30T13:00:00.000Z"
-    },
-    {
       "id": "ljazyu",
       "title": "The Download: brainless human clones and the first uterus kept alive outside a body",
       "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. Inside the stealthy startup that pitched brainless human clones After operating in secrecy for years, R3 Bio, a California-based startup, suddenly revealed last week that it had raised money to create nonsentient monkey “organ sacks”…",
@@ -336,15 +354,6 @@
       "publishedAt": "2026-03-29T21:44:41.000Z"
     },
     {
-      "id": "xgj5l6",
-      "title": "Suno leans into customization with v5.5",
-      "summary": "Slop yourself. | Image: Suno Suno just released one of its biggest updates yet with v5.5 of its AI music model. Where previous updates focused mostly on improving fidelity and creating more natural vocals, v5.5 is about giving users more control. It includes three new features: Voices, My Taste, and Custom Models. In the release notes, Suno says that Voices is its most requested feature. It lets users train the vocal model on their own voice. They can upload clean accapellas, finished tracks…",
-      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/03/1774532259-suno_v5-5_blogouterbanner.webp?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "source": "The Verge",
-      "sourceUrl": "https://www.theverge.com/entertainment/903056/suno-ai-music-v5-5-model",
-      "publishedAt": "2026-03-28T18:33:10.000Z"
-    },
-    {
       "id": "xdk8rw",
       "title": "A woman’s uterus has been kept alive outside the body for the first time",
       "summary": "“Think of this as a human body,” says Javier González. In front of me is essentially a metal box on wheels. Standing at around a meter in height, it reminds me of a stainless-steel counter in a restaurant kitchen. It is covered in flexible plastic tubing—which act as veins and arteries—connecting a series of transparent…",
@@ -370,15 +379,6 @@
       "source": "Wired",
       "sourceUrl": "https://www.wired.com/story/apple-50-year-anniversary-artificial-intelligence-iphone/",
       "publishedAt": "2026-03-27T15:00:00.000Z"
-    },
-    {
-      "id": "oycbl6",
-      "title": "The Download: the internet’s best weather app, and why people freeze their brains",
-      "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. How a couple of ski bums built the internet’s best weather app The best snow-forecasting app for skiers isn’t a federally-funded service or a big-name brand. It’s OpenSnow, a startup that uses government data, its own AI…",
-      "imageUrl": "https://images.unsplash.com/photo-1526374965328-7f61d4dc18c5?w=800&q=80",
-      "source": "MIT Tech Review",
-      "sourceUrl": "https://www.technologyreview.com/2026/03/27/1134755/the-download-best-weather-forecasting-app-why-people-freeze-brains/",
-      "publishedAt": "2026-03-27T12:32:54.000Z"
     },
     {
       "id": "ncesn7",
