@@ -1,11 +1,47 @@
 {
-  "fetchedAt": "2026-04-02T18:10:18.356Z",
+  "fetchedAt": "2026-04-02T20:44:18.209Z",
   "count": 60,
   "articles": [
     {
+      "id": "svsqi0",
+      "title": "OpenAI Acquires Tech Talk Show ‘TBPN’—and Buys Itself Some Positive News",
+      "summary": "OpenAI is acquiring TBPN, a business talk show that’s popular among Silicon Valley elites, as it continues to battle its negative public image.",
+      "imageUrl": "https://media.wired.com/photos/69ceb0342d07f16b3b533631/master/pass/OpenAI-Focus-Lasted-2-Weeks-Business-2265991721.jpg",
+      "source": "Wired",
+      "sourceUrl": "https://www.wired.com/story/openai-acquires-tbpn-buys-positive-news-coverage/",
+      "publishedAt": "2026-04-02T19:29:48.000Z"
+    },
+    {
+      "id": "pylhme",
+      "title": "OpenAI acquires TBPN, the buzzy founder-led business talk show",
+      "summary": "TBPN, Silicon Valley's cult-favorite tech podcast, will operate independently, even as it's overseen by chief political operative Chris Lehane.",
+      "imageUrl": "https://images.unsplash.com/photo-1635070041078-e363dbe005cb?w=800&q=80",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/04/02/openai-acquires-tbpn-the-buzzy-founder-led-business-talk-show/",
+      "publishedAt": "2026-04-02T19:21:00.000Z"
+    },
+    {
+      "id": "xuoyx0",
+      "title": "A New Google-Funded Data Center Will Be Powered by a Massive Gas Plant",
+      "summary": "Documents show that one of Google’s new data centers would be powered by a natural gas plant that emits millions of tons of emissions each year—an increasingly common trend in the industry.",
+      "imageUrl": "https://media.wired.com/photos/69cda0ecca819c3b6fb66073/master/pass/As-Google-Builds-Out-Renewables-Its-Also-Leaning-on-Fossil-Fuels-Science.jpg",
+      "source": "Wired",
+      "sourceUrl": "https://www.wired.com/story/a-new-google-funded-data-center-will-be-powered-by-a-massive-gas-plant/",
+      "publishedAt": "2026-04-02T18:27:29.000Z"
+    },
+    {
+      "id": "aw2dzz",
+      "title": "Elon Musk is about to be a very busy boy!",
+      "summary": "To be honest, I thought Elon Musk would confidentially file for SpaceX's IPO on the 20th of this month, rather than the 1st. But maybe that just means he's moved on to other numbers, and we should all mark our calendars for June 7th as an IPO date just in case. Based on the April 1st filing, and the general length of an SEC review before the S-1 document becomes public, the earliest I am expecting a SpaceX IPO is June. (At least, assuming there is still anyone left at the SEC who wants to do…",
+      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/03/STKB355_SPACE_X_IPO_A.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "source": "The Verge",
+      "sourceUrl": "https://www.theverge.com/tech/906027/elon-musk-lawsuit-ipo-spacex-tesla",
+      "publishedAt": "2026-04-02T18:15:00.000Z"
+    },
+    {
       "id": "gop7qw",
       "title": "OpenAI just bought TBPN",
-      "summary": "OpenAI has purchased TBPN, the viral online talk show that often interviews AI executives and other tech leaders. The show - which goes live every weekday, often for a three-hour duration - considers channels like Bloomberg and CNBC as its competition and counts OpenAI CEO Sam Altman, as well as executives from Meta, Microsoft, Palantir, and Andreessen Horowitz, among its past guests. TBPN host John Coogan wrote on X, \"This is a full circle moment for me as I've worked with [Altman] for well…",
+      "summary": "OpenAI has purchased TBPN, an online talk show that often interviews AI executives and other tech leaders. The show goes live every weekday at 2PM PT, often for a three-hour duration, counting OpenAI CEO Sam Altman, as well as executives from Meta, Microsoft, Palantir, and Andreessen Horowitz, among its past guests, and Bloomberg, CNBC, and Fox Business as its competitors. TBPN's livestream is primarily available on X and YouTube, but many users watch it on X. OpenAI's purchase comes as a…",
       "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/03/STK155_OPEN_AI_CVirginia__C.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
       "source": "The Verge",
       "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/906022/openai-buys-tbpn",
@@ -300,15 +336,6 @@
       "publishedAt": "2026-03-31T15:00:00.000Z"
     },
     {
-      "id": "9jcqny",
-      "title": "Art schools are being torn apart by AI",
-      "summary": "The curriculum at creative institutions is evolving to handle gen AI tools, and a lot of people aren’t happy about it. | Image by Cath Virginia / The Verge When my baby brother, a 3D modelling and animation student, talks to me about his projects and studies, the pride I usually feel is becoming increasingly tainted by a growing sense of dread. As a creative professional and former design student myself, I understand all too well how fierce the competition for postgraduate jobs will be, but his…",
-      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/03/268425_How_art_schools_are_teaching_AI__CVirginia.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "source": "The Verge",
-      "sourceUrl": "https://www.theverge.com/tech/903954/art-schools-generative-ai-education-creative-jobs",
-      "publishedAt": "2026-03-31T15:00:00.000Z"
-    },
-    {
       "id": "95glhk",
       "title": "Shifting to AI model customization is an architectural imperative",
       "summary": "In the early days of large language models (LLMs), we grew accustomed to massive 10x jumps in reasoning and coding capability with every new model iteration. Today, those jumps have flattened into incremental gains. The exception is domain-specialized intelligence, where true step-function improvements are still the norm. When a model is fused with an organization’s…",
@@ -325,15 +352,6 @@
       "source": "TechCrunch",
       "sourceUrl": "https://techcrunch.com/2026/03/31/exclusive-runway-launches-10m-fund-builders-program-to-support-early-stage-ai-startups/",
       "publishedAt": "2026-03-31T14:00:00.000Z"
-    },
-    {
-      "id": "x12r9x",
-      "title": "With its new app store, Ring bets on AI to go beyond home security",
-      "summary": "Ring's app store will allow the company to target broader use cases beyond security, like elder care or business needs.",
-      "imageUrl": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=800&q=80",
-      "source": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/03/31/ring-app-store-bets-on-ai-to-go-beyond-home-security/",
-      "publishedAt": "2026-03-31T13:00:00.000Z"
     },
     {
       "id": "co1wke",
@@ -397,24 +415,6 @@
       "source": "Wired",
       "sourceUrl": "https://www.wired.com/story/documents-reveal-palantir-irs-contract-fraud-clean-energy-credits/",
       "publishedAt": "2026-03-30T09:30:00.000Z"
-    },
-    {
-      "id": "tib1yl",
-      "title": "AI Research Is Getting Harder to Separate From Geopolitics",
-      "summary": "A policy change announced by NeurIPS, the world’s leading AI research conference, drew widespread backlash from Chinese researchers this week and then was quickly reversed.",
-      "imageUrl": "https://media.wired.com/photos/69c6b7c2b1e88611bd972d9a/master/pass/Made-In-China-AI-Research-Is-Starting-to-Split-Along-Geopolitical-Lines-Business-2246178146.jpg",
-      "source": "Wired",
-      "sourceUrl": "https://www.wired.com/story/made-in-china-ai-research-is-starting-to-split-along-geopolitical-lines/",
-      "publishedAt": "2026-03-27T21:46:39.000Z"
-    },
-    {
-      "id": "4w0yqt",
-      "title": "Apple Still Plans to Sell iPhones When It Turns 100",
-      "summary": "As the tech giant turns 50, WIRED spoke to executives about how they plan to win in the AI era.",
-      "imageUrl": "https://media.wired.com/photos/69c5b9b4b9e372b94d2465cd/master/pass/Backchannel-Future-of-Apple-Business-1005306778..jpg",
-      "source": "Wired",
-      "sourceUrl": "https://www.wired.com/story/apple-50-year-anniversary-artificial-intelligence-iphone/",
-      "publishedAt": "2026-03-27T15:00:00.000Z"
     },
     {
       "id": "x2s6yj",
