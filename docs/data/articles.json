@@ -1,7 +1,16 @@
 {
-  "fetchedAt": "2026-04-02T14:04:09.576Z",
+  "fetchedAt": "2026-04-02T15:35:58.769Z",
   "count": 60,
   "articles": [
+    {
+      "id": "itr6h6",
+      "title": "It’s not easy to get depression-detecting AI through the FDA",
+      "summary": "For the past seven years, the California-based startup Kintsugi has been developing AI designed to detect signs of depression and anxiety from a person's speech. But after failing to secure FDA clearance in time, the company is shutting down and releasing most of its technology as open-source. Some elements may even find a second life beyond healthcare, like detecting deepfake audio. Mental health assessments still largely rely on patient questionnaires and clinical interviews, rather than the…",
+      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/09/STK_414_AI_CHATBOT_R2_CVirginia_D.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "source": "The Verge",
+      "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/905864/depression-detecting-ai-kintsugi-clinical-ai-startup-shut-down",
+      "publishedAt": "2026-04-02T15:33:23.000Z"
+    },
     {
       "id": "l60pis",
       "title": "Microsoft’s new ‘superintelligence’ game plan is all about business",
@@ -352,15 +361,6 @@
       "source": "MIT Tech Review",
       "sourceUrl": "https://www.technologyreview.com/2026/03/30/1134881/the-pentagons-culture-war-tactic-against-anthropic-has-backfired/",
       "publishedAt": "2026-03-30T15:42:50.000Z"
-    },
-    {
-      "id": "n7a9k8",
-      "title": "Okta’s CEO is betting big on AI agent identity",
-      "summary": "Today, I’m talking with Todd McKinnon, who is co-founder and CEO of Okta, a platform that lets big companies manage security and identity across all the apps and services their employees use. Think of it like login management — actually, that’s a great way to think about it because the way most people encounter Okta is that it’s the thing that makes you log in again right before joining a meeting several times a week, so then you’re late for the meeting… Can you tell we use Okta? Anyhow, all of…",
-      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/03/DCD_McKinnon_Okta.png?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "source": "The Verge",
-      "sourceUrl": "https://www.theverge.com/podcast/902264/oktas-ceo-is-betting-big-on-ai-agent-identity",
-      "publishedAt": "2026-03-30T15:15:00.000Z"
     },
     {
       "id": "ljazyu",
