@@ -1,7 +1,16 @@
 {
-  "fetchedAt": "2026-04-03T21:03:17.682Z",
+  "fetchedAt": "2026-04-03T21:58:57.460Z",
   "count": 60,
   "articles": [
+    {
+      "id": "rlxbfl",
+      "title": "Meta Pauses Work With Mercor After Data Breach Puts AI Industry Secrets at Risk",
+      "summary": "Major AI labs are investigating a security incident that impacted Mercor, a leading data vendor. The incident could have exposed key data about how they train AI models.",
+      "imageUrl": "https://media.wired.com/photos/69d0349ce79739f75ca71863/master/pass/security_Mercor3_GettyImages-1429228638-copy-2.jpg",
+      "source": "Wired",
+      "sourceUrl": "https://www.wired.com/story/meta-pauses-work-with-mercor-after-data-breach-puts-ai-industry-secrets-at-risk/",
+      "publishedAt": "2026-04-03T21:28:14.000Z"
+    },
     {
       "id": "4pfdua",
       "title": "OpenAI executive shuffle includes new role for COO Brad Lightcap to lead ‘special projects’",
@@ -10,6 +19,15 @@
       "source": "TechCrunch",
       "sourceUrl": "https://techcrunch.com/2026/04/03/openai-executive-shuffle-new-roles-coo-brad-lightcap-fidji-simo-kate-rouch/",
       "publishedAt": "2026-04-03T20:35:34.000Z"
+    },
+    {
+      "id": "hmw5q2",
+      "title": "OpenClaw gives users yet another reason to be freaked out about security",
+      "summary": "The viral AI agentic tool let attackers silently gain admin unauthenticated access.",
+      "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2026/02/bluecrayfish-1152x648.jpg",
+      "source": "Ars Technica",
+      "sourceUrl": "https://arstechnica.com/security/2026/04/heres-why-its-prudent-for-openclaw-users-to-assume-compromise/",
+      "publishedAt": "2026-04-03T20:30:15.000Z"
     },
     {
       "id": "xu7f0k",
@@ -345,15 +363,6 @@
       "publishedAt": "2026-04-01T11:00:00.000Z"
     },
     {
-      "id": "5c9op2",
-      "title": "I Watched a 7.5-Hour Movie in Theaters to Confront My Dwindling Attention Span",
-      "summary": "Sátántango is considered a holy rite for hardcore cinephiles. In a packed screening with no cellphones in sight, it also offered a salve for brain rot.",
-      "imageUrl": "https://media.wired.com/photos/69cab7ea75c0a81462c59741/master/pass/Watching-7.5-Hour-Movie-in-Theaters-Culture-2212426465.jpg",
-      "source": "Wired",
-      "sourceUrl": "https://www.wired.com/story/watching-a-75-hour-movie-in-theaters-made-me-more-hopeful-about-our-collective-brainrot/",
-      "publishedAt": "2026-04-01T10:30:00.000Z"
-    },
-    {
       "id": "an56ix",
       "title": "Mercor says it was hit by cyberattack tied to compromise of open source LiteLLM project",
       "summary": "The AI recruiting startup confirmed a security incident after an extortion hacking crew took credit for stealing data from the company's systems.",
@@ -532,15 +541,6 @@
       "source": "Ars Technica",
       "sourceUrl": "https://arstechnica.com/tech-policy/2026/03/leading-ai-datacenter-companies-sign-pledge-to-buy-their-own-power/",
       "publishedAt": "2026-03-05T18:41:28.000Z"
-    },
-    {
-      "id": "qmksig",
-      "title": "Downdetector, Speedtest sold to IT service-provider Accenture in $1.2B deal",
-      "summary": "Accenture plans to buy Ookla, which also includes RootMetrics and Ekahau.",
-      "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2026/03/GettyImages-1795499144-1152x648.jpg",
-      "source": "Ars Technica",
-      "sourceUrl": "https://arstechnica.com/information-technology/2026/03/downdetector-speedtest-sold-to-it-service-provider-accenture-in-1-2b-deal/",
-      "publishedAt": "2026-03-03T22:20:06.000Z"
     }
   ]
 }
