@@ -1,7 +1,25 @@
 {
-  "fetchedAt": "2026-04-03T11:43:48.632Z",
+  "fetchedAt": "2026-04-03T13:21:28.544Z",
   "count": 60,
   "articles": [
+    {
+      "id": "ucj4dz",
+      "title": "Apple’s best product ever",
+      "summary": "All week, we've been asking you to help us rank the 50 best products Apple ever made, as we mark the company's 50th anniversary. Thanks to everyone who pitched in - we ended up with more than 1.6 million votes! We also have lots of other coverage of Apple's first half century, and you should check it all out. All those votes later, we have some answers. And some thoughts. Verge subscribers, don't forget you get exclusive access to ad-free Vergecast wherever you get your podcasts. Head here. Not…",
+      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/04/VRG_VST_0402_Site.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "source": "The Verge",
+      "sourceUrl": "https://www.theverge.com/podcast/906548/best-apple-product-vergecast",
+      "publishedAt": "2026-04-03T12:52:41.000Z"
+    },
+    {
+      "id": "ms0lp5",
+      "title": "Chatbots are now prescribing psychiatric drugs",
+      "summary": "Utah is allowing an AI system to prescribe psychiatric drugs without a doctor. It's only the second time the state - and the country - has delegated this kind of clinical authority to AI. State officials say it could bring costs down and ease care shortages, but physicians warn the system is opaque, risky, and unlikely to expand mental health care to those who need it. The one-year pilot, announced last week, will allow Legion Health's AI chatbot to renew certain prescriptions for psychiatric…",
+      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/04/STKS524_AI_HEALTH_E.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "source": "The Verge",
+      "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/906525/ai-chatbot-prescribe-refill-psychiatric-drugs",
+      "publishedAt": "2026-04-03T11:43:21.000Z"
+    },
     {
       "id": "zdlh3v",
       "title": "The 3 Best Portable Jump Starters in 2026: Get Charged Up",
@@ -300,15 +318,6 @@
       "publishedAt": "2026-03-31T22:46:25.000Z"
     },
     {
-      "id": "70l4eq",
-      "title": "Claude Code leak exposes a Tamagotchi-style ‘pet’ and an always-on agent",
-      "summary": "After Anthropic released Claude Code's 2.1.88 update, users quickly discovered that it contained a package with a source map file containing its TypeScript codebase, with one person on X calling attention to the leak and posting a file containing the code. The leaked data reportedly contains more than 512,000 lines of code and provides a look into the inner workings of the AI-powered coding tool, as reported earlier by Ars Technica and VentureBeat. Users who have dug into the code claim to have…",
-      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/08/STKB364_CLAUDE_D.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "source": "The Verge",
-      "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/904776/anthropic-claude-source-code-leak",
-      "publishedAt": "2026-03-31T22:24:19.000Z"
-    },
-    {
       "id": "ga34b0",
       "title": "OpenAI, not yet public, raises $3B from retail investors in monster $122B fund raise",
       "summary": "OpenAI's latest funding round, led by Amazon, Nvidia, and SoftBank, values the AI lab at $852 billion as it nears an IPO.",
@@ -316,15 +325,6 @@
       "source": "TechCrunch",
       "sourceUrl": "https://techcrunch.com/2026/03/31/openai-not-yet-public-raises-3b-from-retail-investors-in-monster-122b-fund-raise/",
       "publishedAt": "2026-03-31T21:25:04.000Z"
-    },
-    {
-      "id": "fsns94",
-      "title": "You can now use ChatGPT with Apple’s CarPlay",
-      "summary": "ChatGPT is now accessible from your CarPlay dashboard if you have iOS 26.4 or newer and the latest version of the ChatGPT app, 9to5Mac reports. Apple's recently launched iOS 26.4 update added support for \"voice-based conversational apps\" in CarPlay, opening the door to let you use AI chatbots with voice features through Apple's in-car platform. When using ChatGPT through CarPlay, the app doesn't show text conversations, according to 9to5Mac - instead, you can only have conversations with the app…",
-      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25462047/STK155_OPEN_AI_CVirginia_2_D.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "source": "The Verge",
-      "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/904676/apple-carplay-openai-chatgpt",
-      "publishedAt": "2026-03-31T21:03:18.000Z"
     },
     {
       "id": "ig4nhy",
