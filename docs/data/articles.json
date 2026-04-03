@@ -1,7 +1,70 @@
 {
-  "fetchedAt": "2026-04-03T18:03:45.817Z",
+  "fetchedAt": "2026-04-03T21:03:17.682Z",
   "count": 60,
   "articles": [
+    {
+      "id": "4pfdua",
+      "title": "OpenAI executive shuffle includes new role for COO Brad Lightcap to lead ‘special projects’",
+      "summary": "In addition to Lightcap's new role, OpenAI CMO Kate Rouch will be stepping away from the company to focus on cancer recovery, with a plan to return when her health allows.",
+      "imageUrl": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=800&q=80",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/04/03/openai-executive-shuffle-new-roles-coo-brad-lightcap-fidji-simo-kate-rouch/",
+      "publishedAt": "2026-04-03T20:35:34.000Z"
+    },
+    {
+      "id": "xu7f0k",
+      "title": "Anthropic buys biotech startup Coefficient Bio in $400M deal: Reports",
+      "summary": "Anthropic has purchased the stealth biotech AI startup Coefficient Bio in a $400 million stock deal, according to The Information and Eric Newcomer.",
+      "imageUrl": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=800&q=80",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/04/03/anthropic-buys-biotech-startup-coefficient-bio-in-400m-deal-reports/",
+      "publishedAt": "2026-04-03T20:28:40.000Z"
+    },
+    {
+      "id": "iyyisd",
+      "title": "OpenAI’s AGI boss is taking a leave of absence",
+      "summary": "OpenAI is undergoing another round of C-suite changes, according to an internal memo viewed by The Verge. Fidji Simo, OpenAI's CEO of AGI deployment - who was until recently the company's CEO of Applications - says in the memo that she will be stepping away on medical leave \"for the next several weeks\" due to a neuroimmune condition. While she's out, OpenAI president Greg Brockman will be in charge of product, including leading OpenAI's super app efforts. On the business side, CSO Jason Kwon,…",
+      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/04/gettyimages-1239231852.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "source": "The Verge",
+      "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/906965/openais-agi-boss-is-taking-a-leave-of-absence",
+      "publishedAt": "2026-04-03T20:22:59.000Z"
+    },
+    {
+      "id": "7jd1cc",
+      "title": "Anthropic ramps up its political activities with a new PAC",
+      "summary": "With the midterms right around the corner, the new group is positioned to back candidates who support the AI company's policy agenda.",
+      "imageUrl": "https://images.unsplash.com/photo-1550751827-4bd374c3f58b?w=800&q=80",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/04/03/anthropic-ramps-up-its-political-activities-with-a-new-pac/",
+      "publishedAt": "2026-04-03T20:22:18.000Z"
+    },
+    {
+      "id": "81j87l",
+      "title": "AI companies are building huge natural gas plants to power data centers. What could go wrong?",
+      "summary": "Meta, Microsoft, and Google are all betting big on new natural gas power plants to run their AI data centers. They may regret it.",
+      "imageUrl": "https://images.unsplash.com/photo-1655720828018-edd2daec9349?w=800&q=80",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/04/03/ai-energy-microsoft-meta-google-natural-gas-mining-fomo/",
+      "publishedAt": "2026-04-03T19:48:22.000Z"
+    },
+    {
+      "id": "jvg207",
+      "title": "OpenAI’s Fidji Simo Is Taking Medical Leave Amid an Executive Shake-Up",
+      "summary": "The company is undergoing major leadership restructuring as its CEO of AGI deployment goes on leave for “several weeks.”",
+      "imageUrl": "https://media.wired.com/photos/69d0149cf17585df8fd63f56/master/pass/Fidji-Leave-of-Absence-Business-2198337396.jpg",
+      "source": "Wired",
+      "sourceUrl": "https://www.wired.com/story/openais-fidji-simo-is-taking-a-leave-of-absence/",
+      "publishedAt": "2026-04-03T19:38:35.000Z"
+    },
+    {
+      "id": "4lk4x2",
+      "title": "People would rather have an Amazon warehouse in their backyard than a data center",
+      "summary": "A new poll shows that the debate over data centers is far from settled.",
+      "imageUrl": "https://images.unsplash.com/photo-1620712943543-bcc4688e7485?w=800&q=80",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/04/03/people-would-rather-have-an-amazon-warehouse-in-their-backyard-than-a-data-center/",
+      "publishedAt": "2026-04-03T19:20:36.000Z"
+    },
     {
       "id": "tslevy",
       "title": "Four things we’d need to put data centers in space",
@@ -113,7 +176,7 @@
     {
       "id": "fzeydy",
       "title": "New Rowhammer attacks give complete control of machines running Nvidia GPUs",
-      "summary": "Both GDDRHammer and GeForge hammer GPU memory in ways that compromise the CPU.",
+      "summary": "GDDRHammer, GeForge and GPUBreach hammer GPU memory in ways that hijack the CPU.",
       "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2023/07/exploit-vulnerability-security.jpg",
       "source": "Ars Technica",
       "sourceUrl": "https://arstechnica.com/security/2026/04/new-rowhammer-attacks-give-complete-control-of-machines-running-nvidia-gpus/",
@@ -282,15 +345,6 @@
       "publishedAt": "2026-04-01T11:00:00.000Z"
     },
     {
-      "id": "131avt",
-      "title": "Baidu’s robotaxis froze in traffic, creating chaos",
-      "summary": "A Baidu Apollo robotaxi in Wuhan, China. | Image: Bloomberg via Getty Images Numerous robotaxis operated by Chinese tech giant Baidu froze in a major city on Tuesday, reportedly trapping passengers inside, stranding them on highways, and causing at least one accident in snarled traffic. Police in Wuhan confirmed receiving multiple reports of Baidu's Apollo Go robotaxis stopping in the middle of streets and being unable to move. Police said no injuries have been reported and that preliminary…",
-      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/04/gettyimages-2152484525.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "source": "The Verge",
-      "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/905012/baidu-apollo-robotaxi-freeze-china",
-      "publishedAt": "2026-04-01T10:39:52.000Z"
-    },
-    {
       "id": "5c9op2",
       "title": "I Watched a 7.5-Hour Movie in Theaters to Confront My Dwindling Attention Span",
       "summary": "Sátántango is considered a holy rite for hardcore cinephiles. In a packed screening with no cellphones in sight, it also offered a salve for brain rot.",
@@ -298,15 +352,6 @@
       "source": "Wired",
       "sourceUrl": "https://www.wired.com/story/watching-a-75-hour-movie-in-theaters-made-me-more-hopeful-about-our-collective-brainrot/",
       "publishedAt": "2026-04-01T10:30:00.000Z"
-    },
-    {
-      "id": "etqccd",
-      "title": "I Asked ChatGPT What WIRED’s Reviewers Recommend. Its Answers Were All Wrong",
-      "summary": "Want to know what our reviewers have actually tested and picked as the best TVs, headphones, and laptops? Ask ChatGPT, and it'll give you the wrong answers.",
-      "imageUrl": "https://media.wired.com/photos/69cc506cc2fe4f23a0fb523c/master/pass/Looking-for-WIREDs-Best-Product-Reccommendations--ChatGPT-Isnt-Trustworthy-Gear.jpg",
-      "source": "Wired",
-      "sourceUrl": "https://www.wired.com/story/i-asked-chatgpt-what-wired-reviewers-recommend-its-answers-were-all-wrong/",
-      "publishedAt": "2026-04-01T09:30:00.000Z"
     },
     {
       "id": "an56ix",
@@ -327,33 +372,6 @@
       "publishedAt": "2026-03-31T23:58:26.000Z"
     },
     {
-      "id": "puxz77",
-      "title": "Salesforce announces an AI-heavy makeover for Slack, with 30 new features",
-      "summary": "Slack just got a whole lot more useful.",
-      "imageUrl": "https://images.unsplash.com/photo-1485827404703-89b55fcc595e?w=800&q=80",
-      "source": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/03/31/salesforce-announces-an-ai-heavy-makeover-for-slack-with-30-new-features/",
-      "publishedAt": "2026-03-31T22:46:25.000Z"
-    },
-    {
-      "id": "ga34b0",
-      "title": "OpenAI, not yet public, raises $3B from retail investors in monster $122B fund raise",
-      "summary": "OpenAI's latest funding round, led by Amazon, Nvidia, and SoftBank, values the AI lab at $852 billion as it nears an IPO.",
-      "imageUrl": "https://images.unsplash.com/photo-1655720828018-edd2daec9349?w=800&q=80",
-      "source": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/03/31/openai-not-yet-public-raises-3b-from-retail-investors-in-monster-122b-fund-raise/",
-      "publishedAt": "2026-03-31T21:25:04.000Z"
-    },
-    {
-      "id": "ig4nhy",
-      "title": "Yupp shuts down after raising $33M from a16z crypto’s Chris Dixon",
-      "summary": "Less than a year after launching, with checks from some of the biggest names in Silicon Valley, crowdsourced AI model feedback startup Yupp is closing its business, the company said Tuesday.",
-      "imageUrl": "https://images.unsplash.com/photo-1485827404703-89b55fcc595e?w=800&q=80",
-      "source": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/03/31/yupp-ai-shuts-down-33m-a16z-crypto-chris-dixon/",
-      "publishedAt": "2026-03-31T20:01:07.000Z"
-    },
-    {
       "id": "yakfa8",
       "title": "Quantum computers need vastly fewer resources than thought to break vital encryption",
       "summary": "No, the sky isn't falling, but Q Day is coming, and it won't be as expensive as thought.",
@@ -361,24 +379,6 @@
       "source": "Ars Technica",
       "sourceUrl": "https://arstechnica.com/security/2026/03/new-quantum-computing-advances-heighten-threat-to-elliptic-curve-cryptosystems/",
       "publishedAt": "2026-03-31T18:25:33.000Z"
-    },
-    {
-      "id": "4gctpj",
-      "title": "Alexa+ gets new food ordering experiences with Uber Eats and Grubhub",
-      "summary": "You can now order from Uber Eats and Grubhub using Alexa+, an experience Amazon says will be similar to chatting with a waiter at a restaurant or placing an order at a drive-thru.",
-      "imageUrl": "https://images.unsplash.com/photo-1485827404703-89b55fcc595e?w=800&q=80",
-      "source": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/03/31/alexa-plus-new-food-ordering-experiences-with-uber-eats-and-grubhub/",
-      "publishedAt": "2026-03-31T17:41:35.000Z"
-    },
-    {
-      "id": "iltid7",
-      "title": "Nomadic raises $8.4 million to wrangle the data pouring off autonomous vehicles",
-      "summary": "The company turns footage from robots into structured, searchable datasets with a deep learning model.",
-      "imageUrl": "https://images.unsplash.com/photo-1676299081847-824916de030a?w=800&q=80",
-      "source": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/03/31/nomadic-raises-8-4-million-to-wrangle-the-data-pouring-off-avs/",
-      "publishedAt": "2026-03-31T15:00:00.000Z"
     },
     {
       "id": "95glhk",
