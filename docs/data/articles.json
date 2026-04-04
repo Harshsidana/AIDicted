@@ -1,7 +1,16 @@
 {
-  "fetchedAt": "2026-04-04T11:36:04.257Z",
+  "fetchedAt": "2026-04-04T13:13:35.257Z",
   "count": 60,
   "articles": [
+    {
+      "id": "6wg2ad",
+      "title": "Really, you made this without AI? Prove it",
+      "summary": "\"This looks like AI.\" It's a phrase I dread seeing as a writer who dabbles in illustration and amateur photography. In a world where generative AI technology is increasingly adept at mimicking the work of humans, people are naturally skeptical when online platforms refuse to label even obvious AI content. This leads me to one conclusion: maybe we should start labeling human-made text, images, audio, and video with something akin to a universally recognized Fair Trade logo. The machines sure as…",
+      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/04/Human-made-ai-free-labels-hero.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "source": "The Verge",
+      "sourceUrl": "https://www.theverge.com/tech/906453/human-made-ai-free-logo-creative-content",
+      "publishedAt": "2026-04-04T13:00:00.000Z"
+    },
     {
       "id": "65s0p0",
       "title": "Hackers Are Posting the Claude Code Leak With Bonus Malware",
@@ -280,15 +289,6 @@
       "source": "The Verge",
       "sourceUrl": "https://www.theverge.com/report/905791/mustafa-suleyman-microsoft-ai-transcription-model",
       "publishedAt": "2026-04-02T14:00:00.000Z"
-    },
-    {
-      "id": "y39g7z",
-      "title": "Google Home’s latest update makes Gemini better at understanding your commands",
-      "summary": "Google is launching another update to its Home app, which is supposed to make controlling your smart home with its Gemini AI assistant \"more natural and reliable,\" according to this week's release notes. With the update, you can describe the type of lighting you want, such as \"the color of the ocean,\" and Gemini will pick the color based on your prompt. You can also use more natural and precise language when asking Gemini to control your appliances or climate. That means you can now tell Gemini…",
-      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/04/google-home-display.webp?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "source": "The Verge",
-      "sourceUrl": "https://www.theverge.com/tech/905805/google-home-gemini-temperature-controls-lighting",
-      "publishedAt": "2026-04-02T13:30:12.000Z"
     },
     {
       "id": "q8xoi0",
