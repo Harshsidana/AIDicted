@@ -1,7 +1,25 @@
 {
-  "fetchedAt": "2026-04-03T23:42:14.500Z",
+  "fetchedAt": "2026-04-04T02:50:12.173Z",
   "count": 60,
   "articles": [
+    {
+      "id": "ssj71h",
+      "title": "Anthropic is having a moment in the private markets; SpaceX could spoil the party",
+      "summary": "Glen Anderson, president of Rainmaker Securities, says the secondary market for private shares has never been more active — with Anthropic the hottest trade around, OpenAI losing ground, and SpaceX's looming IPO poised to reshape the landscape for everyone.",
+      "imageUrl": "https://images.unsplash.com/photo-1635070041078-e363dbe005cb?w=800&q=80",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/04/03/anthropic-is-having-a-moment-in-the-private-markets-spacex-could-spoil-the-party/",
+      "publishedAt": "2026-04-04T01:31:00.000Z"
+    },
+    {
+      "id": "x6qtay",
+      "title": "Anthropic essentially bans OpenClaw from Claude by making subscribers pay extra",
+      "summary": "Using OpenClaw with Claude AI is about to get a lot more expensive, thanks to Anthropic's new policy changes. Beginning April 4th at 3PM ET, users will \"no longer be able to use your Claude subscription limits for third-party harnesses including OpenClaw,\" according to an email sent to users on Friday evening. Instead, if users want to use OpenClaw with Claude, they'll have to use a \"pay-as-you-go option\" that will be billed separate from their Claude subscription. With OpenClaw creator Peter…",
+      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/02/STKB382_OPEN_CLAW_D.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "source": "The Verge",
+      "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/907074/anthropic-openclaw-claude-subscription-ban",
+      "publishedAt": "2026-04-03T23:52:49.000Z"
+    },
     {
       "id": "rlxbfl",
       "title": "Meta Pauses Work With Mercor After Data Breach Puts AI Industry Secrets at Risk",
@@ -336,15 +354,6 @@
       "publishedAt": "2026-04-01T14:00:00.000Z"
     },
     {
-      "id": "s4p8d",
-      "title": "AI can push your Stream Deck buttons for you",
-      "summary": "If you're tired of controlling Stream Deck devices by manually pushing buttons, then good news: Elgato will now let you delegate that task to a chatbot instead. The Stream Deck 7.4 software update released today introduces Model Context Protocol (MCP) support, allowing AI assistants like Claude, ChatGPT, and Nvidia G-Assist to find and activate Stream Deck actions on your behalf. \"You still set up actions in Stream Deck app the same way you always have. MCP adds a new way to trigger them,\"…",
-      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/24595940/236572_BOTM_Stream_Deck_DSeifert_0008.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "source": "The Verge",
-      "sourceUrl": "https://www.theverge.com/tech/905021/elgato-stream-deck-mcp-ai-agent-update",
-      "publishedAt": "2026-04-01T12:38:58.000Z"
-    },
-    {
       "id": "kowpnr",
       "title": "The Download: gig workers training humanoids, and better AI benchmarks",
       "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. The gig workers who are training humanoid robots at home When Zeus, a medical student in Nigeria, returns to his apartment from a long day at the hospital, he straps his…",
@@ -370,15 +379,6 @@
       "source": "TechCrunch",
       "sourceUrl": "https://techcrunch.com/2026/03/31/mercor-says-it-was-hit-by-cyberattack-tied-to-compromise-of-open-source-litellm-project/",
       "publishedAt": "2026-04-01T01:42:59.000Z"
-    },
-    {
-      "id": "c27ze7",
-      "title": "Anthropic is having a month",
-      "summary": "A human really borks things at Anthropic for the second time this week.",
-      "imageUrl": "https://images.unsplash.com/photo-1526374965328-7f61d4dc18c5?w=800&q=80",
-      "source": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/03/31/anthropic-is-having-a-month/",
-      "publishedAt": "2026-03-31T23:58:26.000Z"
     },
     {
       "id": "yakfa8",
