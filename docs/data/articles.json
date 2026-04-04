@@ -1,7 +1,16 @@
 {
-  "fetchedAt": "2026-04-04T07:33:44.196Z",
+  "fetchedAt": "2026-04-04T10:42:38.724Z",
   "count": 60,
   "articles": [
+    {
+      "id": "65s0p0",
+      "title": "Hackers Are Posting the Claude Code Leak With Bonus Malware",
+      "summary": "Plus: The FBI says a recent hack of its wiretap tools poses a national security risk, attackers stole Cisco source code as part of an ongoing supply chain hacking spree, and more.",
+      "imageUrl": "https://media.wired.com/photos/69d03b9326dd2d3a7ba902f2/master/pass/security_roundup_claude_GettyImages-2181575875.jpg",
+      "source": "Wired",
+      "sourceUrl": "https://www.wired.com/story/security-news-this-week-hackers-are-posting-the-claude-code-leak-with-bonus-malware/",
+      "publishedAt": "2026-04-04T10:30:00.000Z"
+    },
     {
       "id": "ssj71h",
       "title": "Anthropic is having a moment in the private markets; SpaceX could spoil the party",
@@ -325,15 +334,6 @@
       "source": "Wired",
       "sourceUrl": "https://www.wired.com/story/ai-models-lie-cheat-steal-protect-other-models-research/",
       "publishedAt": "2026-04-01T18:30:00.000Z"
-    },
-    {
-      "id": "jad0us",
-      "title": "‘Thank You for Generating With Us!’ Hollywood's AI Acolytes Stay on the Hype Train",
-      "summary": "Star Wars producer Kathleen Kennedy was one of the few skeptics at the Runway AI Summit, where AI was compared to fire and the printing press just a week after Sora’s death.",
-      "imageUrl": "https://media.wired.com/photos/69cd4ac4a4b79e3877561536/master/pass/ASAP_KathleenKennedy_Treatment.jpg",
-      "source": "Wired",
-      "sourceUrl": "https://www.wired.com/story/thank-you-for-generating-with-us-hollywoods-ai-acolytes-stay-on-the-hype-train/",
-      "publishedAt": "2026-04-01T18:13:34.000Z"
     },
     {
       "id": "tt08rm",
