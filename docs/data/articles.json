@@ -1,7 +1,25 @@
 {
-  "fetchedAt": "2026-04-05T11:37:26.341Z",
+  "fetchedAt": "2026-04-05T14:06:47.124Z",
   "count": 60,
   "articles": [
+    {
+      "id": "wv4ji2",
+      "title": "I let Gemini in Google Maps plan my day and it went surprisingly well",
+      "summary": "Take me to the tacos, Gemini. You may be familiar with Gemini as the thing that's in every Google service you use - whether you want it or not. While it's been a constant, sometimes unwelcome presence in Gmail for at least the past year, it's a relatively new addition to Maps. And you know what? It's kind of great. To put it to the test, I had Gemini plan a day-long itinerary for me around the city. After an hour or so of having Gemini find stuff for me - playgrounds near the new light rail…",
+      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/04/IMG_0562.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "source": "The Verge",
+      "sourceUrl": "https://www.theverge.com/tech/907015/gemini-google-maps-hands-on",
+      "publishedAt": "2026-04-05T14:00:00.000Z"
+    },
+    {
+      "id": "99cdwg",
+      "title": "Grammarly’s sloppelganger saga",
+      "summary": "This is The Stepback, a weekly newsletter breaking down one essential story from the tech world. For more on the ups and downs of AI, follow Stevie Bonifield. The Stepback arrives in our subscribers' inboxes at 8AM ET. Opt in for The Stepback here. How it started Most people probably know Grammarly for its browser extension that suggests how to spruce up your emails, but over the past few years, it's been eyeing bigger ambitions. In October, the company formerly known as Grammarly made a public…",
+      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/04/268400_Grammarlys_sloppelganger_saga_CVirginia.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "source": "The Verge",
+      "sourceUrl": "https://www.theverge.com/column/906606/grammarly-expert-review-ai-saga",
+      "publishedAt": "2026-04-05T12:00:00.000Z"
+    },
     {
       "id": "ly0uzj",
       "title": "A folk musician became a target for AI fakes and a copyright troll",
@@ -237,15 +255,6 @@
       "publishedAt": "2026-04-02T18:15:00.000Z"
     },
     {
-      "id": "gop7qw",
-      "title": "OpenAI just bought TBPN",
-      "summary": "OpenAI has purchased TBPN, an online talk show that often interviews AI executives and other tech leaders. The show goes live every weekday at 2PM PT, often for a three-hour duration, counting OpenAI CEO Sam Altman, as well as executives from Meta, Microsoft, Palantir, and Andreessen Horowitz, among its past guests, and Bloomberg, CNBC, and Fox Business as its competitors. TBPN's livestream is primarily available on X and YouTube, but many users watch it on X. OpenAI's purchase comes as a…",
-      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/03/STK155_OPEN_AI_CVirginia__C.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "source": "The Verge",
-      "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/906022/openai-buys-tbpn",
-      "publishedAt": "2026-04-02T17:40:07.000Z"
-    },
-    {
       "id": "fzeydy",
       "title": "New Rowhammer attacks give complete control of machines running Nvidia GPUs",
       "summary": "GDDRHammer, GeForge and GPUBreach hammer GPU memory in ways that hijack the CPU.",
@@ -289,15 +298,6 @@
       "source": "Wired",
       "sourceUrl": "https://www.wired.com/story/anthropic-claude-research-functional-emotions/",
       "publishedAt": "2026-04-02T16:00:00.000Z"
-    },
-    {
-      "id": "itr6h6",
-      "title": "It’s not easy to get depression-detecting AI through the FDA",
-      "summary": "For the past seven years, the California-based startup Kintsugi has been developing AI designed to detect signs of depression and anxiety from a person's speech. But after failing to secure FDA clearance in time, the company is shutting down and releasing most of its technology as open-source. Some elements may even find a second life beyond healthcare, like detecting deepfake audio. Mental health assessments still largely rely on patient questionnaires and clinical interviews, rather than the…",
-      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/09/STK_414_AI_CHATBOT_R2_CVirginia_D.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "source": "The Verge",
-      "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/905864/depression-detecting-ai-kintsugi-clinical-ai-startup-shut-down",
-      "publishedAt": "2026-04-02T15:33:23.000Z"
     },
     {
       "id": "q8xoi0",
