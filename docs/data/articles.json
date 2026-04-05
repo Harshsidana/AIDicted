@@ -1,7 +1,25 @@
 {
-  "fetchedAt": "2026-04-05T15:03:27.265Z",
+  "fetchedAt": "2026-04-05T15:57:48.765Z",
   "count": 60,
   "articles": [
+    {
+      "id": "hs3gu8",
+      "title": "Can orbital data centers help justify a massive valuation for SpaceX?",
+      "summary": "On the latest episode of TechCrunch’s Equity podcast, we debated Elon Musk's vision for data centers in space.",
+      "imageUrl": "https://images.unsplash.com/photo-1526374965328-7f61d4dc18c5?w=800&q=80",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/04/05/can-orbital-data-centers-help-justify-a-massive-valuation-for-spacex/",
+      "publishedAt": "2026-04-05T15:40:58.000Z"
+    },
+    {
+      "id": "rqagvq",
+      "title": "In Japan, the robot isn’t coming for your job; it’s filling the one nobody wants",
+      "summary": "Driven by labor shortages, Japan is pushing physical AI from pilot projects into real-world deployment.",
+      "imageUrl": "https://images.unsplash.com/photo-1531746790095-6c10a4031c5f?w=800&q=80",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/04/05/japan-is-proving-experimental-physical-ai-is-ready-for-the-real-world/",
+      "publishedAt": "2026-04-05T14:00:00.000Z"
+    },
     {
       "id": "wv4ji2",
       "title": "I let Gemini in Google Maps plan my day and it went surprisingly well",
@@ -343,24 +361,6 @@
       "source": "Wired",
       "sourceUrl": "https://www.wired.com/story/ai-models-lie-cheat-steal-protect-other-models-research/",
       "publishedAt": "2026-04-01T18:30:00.000Z"
-    },
-    {
-      "id": "tt08rm",
-      "title": "Cognichip wants AI to design the chips that power AI, and just raised $60M to try",
-      "summary": "The firm says it can reduce the cost of chip development by more than 75% and cut the timeline by more than half.",
-      "imageUrl": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=800&q=80",
-      "source": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/04/01/cognichip-wants-ai-to-design-the-chips-that-power-ai-and-just-raised-60m-to-try/",
-      "publishedAt": "2026-04-01T16:00:00.000Z"
-    },
-    {
-      "id": "ajq3p2",
-      "title": "Less than a month: StrictlyVC San Francisco brings leaders from TDK Ventures, Replit, and more together",
-      "summary": "StrictlyVC San Francisco brings leaders from TDK Ventures, Replit, and more together on April 30. Space is limited. Register here for your pass.",
-      "imageUrl": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=800&q=80",
-      "source": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/04/01/join-the-first-strictlyvc-of-2026-in-sf-with-leaders-from-tdk-ventures-and-replits-co-founder/",
-      "publishedAt": "2026-04-01T14:00:00.000Z"
     },
     {
       "id": "kowpnr",
