@@ -1,7 +1,16 @@
 {
-  "fetchedAt": "2026-04-05T15:57:48.765Z",
+  "fetchedAt": "2026-04-05T17:40:20.199Z",
   "count": 60,
   "articles": [
+    {
+      "id": "un3uvw",
+      "title": "Suno is a music copyright nightmare",
+      "summary": "AI music platform Suno's policy is that it does not permit the use of copyrighted material. You can upload your own tracks to remix or set your original lyrics to AI-generated music. But, it's supposed to recognize and stop you from using other people's songs and lyrics. Now, no system is perfect, but it turns out that Suno's copyright filters are incredibly easy to fool. With minimal effort and some free software, Suno will spit out AI-generated imitations of popular songs like Beyonc&eacute;'s…",
+      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/09/STKB368_SUNO_C.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "source": "The Verge",
+      "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/906896/sunos-copyright-ai-music-covers",
+      "publishedAt": "2026-04-05T16:00:00.000Z"
+    },
     {
       "id": "hs3gu8",
       "title": "Can orbital data centers help justify a massive valuation for SpaceX?",
@@ -262,15 +271,6 @@
       "source": "Wired",
       "sourceUrl": "https://www.wired.com/story/a-new-google-funded-data-center-will-be-powered-by-a-massive-gas-plant/",
       "publishedAt": "2026-04-02T18:27:29.000Z"
-    },
-    {
-      "id": "aw2dzz",
-      "title": "Elon Musk is about to be a very busy boy!",
-      "summary": "To be honest, I thought Elon Musk would confidentially file for SpaceX's IPO on the 20th of this month, rather than the 1st. But maybe that just means he's moved on to other numbers, and we should all mark our calendars for June 7th as an IPO date just in case. Based on the April 1st filing, and the general length of an SEC review before the S-1 document becomes public, the earliest I am expecting a SpaceX IPO is June. (At least, assuming there is still anyone left at the SEC who wants to do…",
-      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/03/STKB355_SPACE_X_IPO_A.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "source": "The Verge",
-      "sourceUrl": "https://www.theverge.com/tech/906027/elon-musk-lawsuit-ipo-spacex-tesla",
-      "publishedAt": "2026-04-02T18:15:00.000Z"
     },
     {
       "id": "fzeydy",
