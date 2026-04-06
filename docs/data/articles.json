@@ -1,7 +1,16 @@
 {
-  "fetchedAt": "2026-04-06T11:04:09.173Z",
+  "fetchedAt": "2026-04-06T12:06:45.235Z",
   "count": 60,
   "articles": [
+    {
+      "id": "yhesoc",
+      "title": "AI is changing how small online sellers decide what to make",
+      "summary": "For years Mike McClary sold the Guardian LTE Flashlight, a heavy-duty black model, online through his small outdoor brand. The product, designed for brightness and durability, became one of his most popular items ever. Even after he stopped offering it around 2017, customers kept sending him emails asking where they could buy it. When McClary…",
+      "imageUrl": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=800&q=80",
+      "source": "MIT Tech Review",
+      "sourceUrl": "https://www.technologyreview.com/2026/04/06/1135118/ai-online-seller-alibaba-accio/",
+      "publishedAt": "2026-04-06T11:00:00.000Z"
+    },
     {
       "id": "ei0g5b",
       "title": "The Ridiculously Nerdy Intel Bet That Could Rake in Billions",
@@ -424,15 +433,6 @@
       "source": "MIT Tech Review",
       "sourceUrl": "https://www.technologyreview.com/2026/03/30/1134795/there-are-more-ai-health-tools-than-ever-but-how-well-do-they-work/",
       "publishedAt": "2026-03-30T16:00:00.000Z"
-    },
-    {
-      "id": "yq7o4k",
-      "title": "The Pentagon’s culture war tactic against Anthropic has backfired",
-      "summary": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here. Last Thursday, a California judge temporarily blocked the Pentagon from labeling Anthropic a supply chain risk and ordering government agencies to stop using its AI. It’s the latest development in the month-long…",
-      "imageUrl": "https://images.unsplash.com/photo-1485827404703-89b55fcc595e?w=800&q=80",
-      "source": "MIT Tech Review",
-      "sourceUrl": "https://www.technologyreview.com/2026/03/30/1134881/the-pentagons-culture-war-tactic-against-anthropic-has-backfired/",
-      "publishedAt": "2026-03-30T15:42:50.000Z"
     },
     {
       "id": "x2s6yj",
