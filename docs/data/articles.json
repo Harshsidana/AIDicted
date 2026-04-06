@@ -1,7 +1,34 @@
 {
-  "fetchedAt": "2026-04-06T14:57:24.832Z",
+  "fetchedAt": "2026-04-06T15:57:23.416Z",
   "count": 60,
   "articles": [
+    {
+      "id": "od878g",
+      "title": "OpenAI’s vision for the AI economy: public wealth funds, robot taxes, and a four-day work week",
+      "summary": "OpenAI proposes taxes on AI profits, public wealth funds, and expanded safety nets to address job loss and inequality, blending redistribution with capitalism as policymakers debate AI’s economic impact.",
+      "imageUrl": "https://images.unsplash.com/photo-1485827404703-89b55fcc595e?w=800&q=80",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/04/06/openais-vision-for-the-ai-economy-public-wealth-funds-robot-taxes-and-a-four-day-work-week/",
+      "publishedAt": "2026-04-06T15:55:55.000Z"
+    },
+    {
+      "id": "21fir3",
+      "title": "Iran threatens OpenAI’s Stargate data center in Abu Dhabi",
+      "summary": "An October 2025 image of OpenAI’s UAE Stargate data center under construction. | Image: G42 Iran's Islamic Revolutionary Guard Corps (IRGC) has published a video threatening OpenAI's planned Abu Dhabi datacenter if the US follows through on threats to attack the country's power plants, as reported earlier by Tom's Hardware. The video, which was published to an Iranian state-backed news outlet's X account on April 3rd, says the IRGC will carry out the \"complete and utter annihilation\" of…",
+      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/10/Stargate-UAE-2.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "source": "The Verge",
+      "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/907427/iran-openai-stargate-datacenter-uae-abu-dhabi-threat",
+      "publishedAt": "2026-04-06T15:54:19.000Z"
+    },
+    {
+      "id": "17cd9o",
+      "title": "Cisco CEO Chuck Robbins wants data centers in space",
+      "summary": "Today, I’m talking with Chuck Robbins, CEO of Cisco. Cisco is one of those big companies that everyone has heard of but that most of us don’t have to interact with very much; it’s not really a consumer brand. But all of us are in some way using Cisco’s products and services every day because it makes a huge amount of networking equipment for other big companies, like telecoms and ISPs. It’s a guarantee that somewhere between me recording this and you watching, listening to, or reading it, the…",
+      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/04/DCD-Chuck-Robbins-Cisco.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "source": "The Verge",
+      "sourceUrl": "https://www.theverge.com/podcast/906727/cisco-ceo-chuck-robbins-data-centers-space-ai-elon-musk-interview",
+      "publishedAt": "2026-04-06T15:15:00.000Z"
+    },
     {
       "id": "ms9l2r",
       "title": "Startup Battlefield 200 applications open: A chance for VC access, TechCrunch coverage, and $100K",
@@ -255,15 +282,6 @@
       "publishedAt": "2026-04-03T17:03:19.000Z"
     },
     {
-      "id": "8tbd79",
-      "title": "The Facebook insider building content moderation for the AI era",
-      "summary": "Moonbounce has raised $12 million to grow its AI control engine that converts content moderation policies into consistent, predictable AI behavior.",
-      "imageUrl": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=800&q=80",
-      "source": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/04/03/moonbounce-fundraise-content-moderation-for-the-ai-era/",
-      "publishedAt": "2026-04-03T14:00:15.000Z"
-    },
-    {
       "id": "ucj4dz",
       "title": "Apple’s best product ever",
       "summary": "All week, we've been asking you to help us rank the 50 best products Apple ever made, as we mark the company's 50th anniversary. Thanks to everyone who pitched in - we ended up with more than 1.6 million votes! We also have lots of other coverage of Apple's first half century, and you should check it all out. All those votes later, we have some answers. And some thoughts. Verge subscribers, don't forget you get exclusive access to ad-free Vergecast wherever you get your podcasts. Head here. Not…",
@@ -273,15 +291,6 @@
       "publishedAt": "2026-04-03T12:52:41.000Z"
     },
     {
-      "id": "ms0lp5",
-      "title": "Chatbots are now prescribing psychiatric drugs",
-      "summary": "Utah is allowing an AI system to prescribe psychiatric drugs without a doctor. It's only the second time the state - and the country - has delegated this kind of clinical authority to AI. State officials say it could bring costs down and ease care shortages, but physicians warn the system is opaque, risky, and unlikely to expand mental health care to those who need it. The one-year pilot, announced last week, will allow Legion Health's AI chatbot to renew certain prescriptions for psychiatric…",
-      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/04/STKS524_AI_HEALTH_E.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "source": "The Verge",
-      "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/906525/ai-chatbot-prescribe-refill-psychiatric-drugs",
-      "publishedAt": "2026-04-03T11:43:21.000Z"
-    },
-    {
       "id": "zdlh3v",
       "title": "The 3 Best Portable Jump Starters in 2026: Get Charged Up",
       "summary": "The new crop of portable jump starters means you'll never be stuck waiting on a tow. Here are the devices we'd trust.",
@@ -289,15 +298,6 @@
       "source": "Wired",
       "sourceUrl": "https://www.wired.com/story/best-portable-jump-starters/",
       "publishedAt": "2026-04-03T10:39:00.000Z"
-    },
-    {
-      "id": "1l5w54",
-      "title": "PSA: Anyone with a link can view your Granola notes by default",
-      "summary": "If you use the AI-powered note-taking app Granola, you might want to double-check your privacy settings. Though Granola says your notes are \"private by default,\" it makes them viewable to anyone with a link, and also uses them for internal AI training unless you opt out. Granola describes itself as an \"AI notepad for people in back-to-back meetings.\" It integrates with your calendar to capture audio from your meetings, and then uses AI to generate a bulleted list of what you've heard, which it…",
-      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/04/granola-logo.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "source": "The Verge",
-      "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/906253/granola-note-links-ai-training-psa",
-      "publishedAt": "2026-04-02T21:56:16.000Z"
     },
     {
       "id": "s44i7i",
