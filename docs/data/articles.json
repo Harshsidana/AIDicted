@@ -1,7 +1,43 @@
 {
-  "fetchedAt": "2026-04-08T18:48:18.509Z",
+  "fetchedAt": "2026-04-08T21:24:35.545Z",
   "count": 60,
   "articles": [
+    {
+      "id": "np9gxx",
+      "title": "Poke makes AI agents as easy as sending a text",
+      "summary": "Poke brings AI agents to everyday users via text message by handling tasks and automations without complex setup, apps, or technical know-how.",
+      "imageUrl": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=800&q=80",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/04/08/poke-makes-ai-agents-as-easy-as-sending-a-text/",
+      "publishedAt": "2026-04-08T21:05:13.000Z"
+    },
+    {
+      "id": "oqb9g7",
+      "title": "OpenAI made economic proposals — here’s what DC thinks of them",
+      "summary": "Happy ceasefire day and welcome to Regulator, a newsletter for Verge subscribers about Big Tech's rocky journey through the world of politics. If you're not a subscriber yet, you can do so here, but my only request is that you sign up before Donald Trump decides to revisit his previous threats toward Iran and kickstart World War III. I'm back after being waylaid last week by the deadly combo of a moderate cold and the beginning of pollen season. (Twenty-one percent of the District's acreage is…",
+      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/03/STK155_OPEN_AI_4_CVirginia_D.png?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "source": "The Verge",
+      "sourceUrl": "https://www.theverge.com/column/908880/openai-made-economic-proposals-heres-what-dc-thinks-of-them",
+      "publishedAt": "2026-04-08T20:14:00.000Z"
+    },
+    {
+      "id": "c48j0y",
+      "title": "AWS boss explains why investing billions in both Anthropic and OpenAI is an OK conflict",
+      "summary": "AWS has an ingrained culture of handling competition, he explained, because the cloud giant also competes with its partners.",
+      "imageUrl": "https://images.unsplash.com/photo-1485827404703-89b55fcc595e?w=800&q=80",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/04/08/aws-boss-explains-why-investing-billions-in-both-anthropic-and-openai-is-an-ok-conflict/",
+      "publishedAt": "2026-04-08T20:09:14.000Z"
+    },
+    {
+      "id": "w3wy2n",
+      "title": "Meta’s New AI Model Gives Mark Zuckerberg a Seat at the Big Kid’s Table",
+      "summary": "Muse Spark is Meta’s first model since its AI reboot, and the benchmarks suggest formidable performance.",
+      "imageUrl": "https://media.wired.com/photos/69d69875661a1966c2be199c/master/pass/Meta-Abandons-OpenSource-Models-Business-2243527585.jpg",
+      "source": "Wired",
+      "sourceUrl": "https://www.wired.com/story/muse-spark-meta-open-source-closed-source/",
+      "publishedAt": "2026-04-08T18:51:09.000Z"
+    },
     {
       "id": "cdg1sf",
       "title": "Tubi is the first streamer to launch a native app within ChatGPT",
@@ -246,15 +282,6 @@
       "publishedAt": "2026-04-07T15:43:17.000Z"
     },
     {
-      "id": "n8mmxd",
-      "title": "Google Maps can now write captions for your photos using AI",
-      "summary": "Google is rolling out new features to make it easier for users to contribute local knowledge to Maps. Most notably, Gemini can now create captions when users are looking to share a photo or video about a place.",
-      "imageUrl": "https://images.unsplash.com/photo-1550751827-4bd374c3f58b?w=800&q=80",
-      "source": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/04/07/google-maps-can-now-write-captions-for-your-photos-using-ai/",
-      "publishedAt": "2026-04-07T15:30:00.000Z"
-    },
-    {
       "id": "4i3lu5",
       "title": "Desalination plants in the Middle East are increasingly vulnerable",
       "summary": "MIT Technology Review Explains: Let our writers untangle the complex, messy world of technology to help you understand what’s coming next. You can read more from the series here. As the conflict in Iran has escalated, a crucial resource is under fire: the desalination technology that supplies water across much of the region. In early…",
@@ -262,15 +289,6 @@
       "source": "MIT Tech Review",
       "sourceUrl": "https://www.technologyreview.com/2026/04/07/1135235/desalination-technology-water/",
       "publishedAt": "2026-04-07T14:54:06.000Z"
-    },
-    {
-      "id": "6ug94z",
-      "title": "4 days left to save close to $500 on TechCrunch Disrupt 2026 passes",
-      "summary": "Four days left to save up to $482 on your TechCrunch Disrupt 2026 ticket. These low rates will disappear on April 10 at 11:59 p.m. PT. Register now.",
-      "imageUrl": "https://images.unsplash.com/photo-1676299081847-824916de030a?w=800&q=80",
-      "source": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/04/07/4-days-left-to-save-close-to-500-on-techcrunch-disrupt-2026-passes/",
-      "publishedAt": "2026-04-07T14:00:00.000Z"
     },
     {
       "id": "ab8iq1",
@@ -316,15 +334,6 @@
       "source": "The Verge",
       "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/907427/iran-openai-stargate-datacenter-uae-abu-dhabi-threat",
       "publishedAt": "2026-04-06T15:54:19.000Z"
-    },
-    {
-      "id": "17cd9o",
-      "title": "Cisco CEO Chuck Robbins wants data centers in space",
-      "summary": "Today, I’m talking with Chuck Robbins, CEO of Cisco. Cisco is one of those big companies that everyone has heard of but that most of us don’t have to interact with very much; it’s not really a consumer brand. But all of us are in some way using Cisco’s products and services every day because it makes a huge amount of networking equipment for other big companies, like telecoms and ISPs. It’s a guarantee that somewhere between me recording this and you watching, listening to, or reading it, the…",
-      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/04/DCD-Chuck-Robbins-Cisco.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "source": "The Verge",
-      "sourceUrl": "https://www.theverge.com/podcast/906727/cisco-ceo-chuck-robbins-data-centers-space-ai-elon-musk-interview",
-      "publishedAt": "2026-04-06T15:15:00.000Z"
     },
     {
       "id": "yhesoc",
@@ -397,15 +406,6 @@
       "source": "Wired",
       "sourceUrl": "https://www.wired.com/story/best-portable-jump-starters/",
       "publishedAt": "2026-04-03T10:39:00.000Z"
-    },
-    {
-      "id": "s44i7i",
-      "title": "‘Uncanny Valley’: Iran’s Threats on US Tech, Trump’s Plans for Midterms, and Polymarket’s Pop-up Flop",
-      "summary": "In this episode, we discuss Iran’s threats to target US tech firms, gear up for the midterm elections, and get a scene report from the Polymarket pop-up bar in DC.",
-      "imageUrl": "https://media.wired.com/photos/69cda03bbbb99516b24f8b5f/master/pass/Uncanny-Valley-Trump-Iran-Tech-Companies-Security-2268129741.jpg",
-      "source": "Wired",
-      "sourceUrl": "https://www.wired.com/story/uncanny-valley-podcast-iran-targets-us-tech-polymarket-pop-up-trump-midterms/",
-      "publishedAt": "2026-04-02T21:04:22.000Z"
     },
     {
       "id": "fzeydy",
