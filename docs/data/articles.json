@@ -1,7 +1,25 @@
 {
-  "fetchedAt": "2026-04-08T17:18:20.913Z",
+  "fetchedAt": "2026-04-08T18:48:18.509Z",
   "count": 60,
   "articles": [
+    {
+      "id": "cdg1sf",
+      "title": "Tubi is the first streamer to launch a native app within ChatGPT",
+      "summary": "Tubi becomes the first streaming service to offer an app integration within ChatGPT, the AI chatbot that millions of users turn to for answers.",
+      "imageUrl": "https://images.unsplash.com/photo-1655720828018-edd2daec9349?w=800&q=80",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/04/08/tubi-is-the-first-streamer-to-launch-a-native-app-within-chatgpt/",
+      "publishedAt": "2026-04-08T18:23:06.000Z"
+    },
+    {
+      "id": "o4huu4",
+      "title": "The US Army Is Building Its Own Chatbot for Combat",
+      "summary": "The AI system, trained on real military data, is meant to give soldiers mission-critical information.",
+      "imageUrl": "https://media.wired.com/photos/69d585fca17189a9bfdc3917/master/pass/AI-Lab-Victor-Army-LLM-Business.jpg",
+      "source": "Wired",
+      "sourceUrl": "https://www.wired.com/story/army-developing-ai-system-victor-chatbot-soldiers/",
+      "publishedAt": "2026-04-08T18:00:00.000Z"
+    },
     {
       "id": "rhvg4l",
       "title": "5 Burning Questions About Elon Musk’s Terafab Chip Partnership with Intel",
@@ -264,15 +282,6 @@
       "publishedAt": "2026-04-07T14:00:00.000Z"
     },
     {
-      "id": "gxwpgq",
-      "title": "The AI gold rush is pulling private wealth into riskier, earlier bets",
-      "summary": "On a recent episode of Equity, we talked to Arena Private Wealth to explore a growing trend: family offices bypassing VCs to gain direct exposure to AI startups, turning them from passive investors into active participants.",
-      "imageUrl": "https://images.unsplash.com/photo-1550751827-4bd374c3f58b?w=800&q=80",
-      "source": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/04/07/the-ai-gold-rush-is-pulling-private-wealth-into-riskier-earlier-bets/",
-      "publishedAt": "2026-04-07T13:00:00.000Z"
-    },
-    {
       "id": "b412so",
       "title": "The Download: AI’s impact on jobs, and data centres in space",
       "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. The one piece of data that could actually shed light on your job and AI Within Silicon Valley’s orbit, an AI-fueled jobs apocalypse is spoken about as a given. Now even economists who have…",
@@ -397,15 +406,6 @@
       "source": "Wired",
       "sourceUrl": "https://www.wired.com/story/uncanny-valley-podcast-iran-targets-us-tech-polymarket-pop-up-trump-midterms/",
       "publishedAt": "2026-04-02T21:04:22.000Z"
-    },
-    {
-      "id": "svsqi0",
-      "title": "OpenAI Acquires Tech Talk Show ‘TBPN’—and Buys Itself Some Positive News",
-      "summary": "OpenAI is acquiring TBPN, a business talk show that’s popular among Silicon Valley elites, as it continues to battle its negative public image.",
-      "imageUrl": "https://media.wired.com/photos/69ceb0342d07f16b3b533631/master/pass/OpenAI-Focus-Lasted-2-Weeks-Business-2265991721.jpg",
-      "source": "Wired",
-      "sourceUrl": "https://www.wired.com/story/openai-acquires-tbpn-buys-positive-news-coverage/",
-      "publishedAt": "2026-04-02T19:29:48.000Z"
     },
     {
       "id": "fzeydy",
