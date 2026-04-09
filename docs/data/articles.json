@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-04-09T20:26:37.827Z",
+  "fetchedAt": "2026-04-09T21:24:11.135Z",
   "count": 60,
   "articles": [
     {
@@ -12,10 +12,19 @@
       "publishedAt": "2026-04-09T20:11:55.000Z"
     },
     {
-      "id": "ykdcuv",
-      "title": "After data breach, $10B valued startup Mercor is having a month",
+      "id": "tx7wx1",
+      "title": "“Negative” views of Broadcom driving thousands of VMware migrations, rival says",
+      "summary": "Western Union exec says there were \"challenges\" working with Broadcom.",
+      "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2026/04/GettyImages-1934095718-1152x648.jpg",
+      "source": "Ars Technica",
+      "sourceUrl": "https://arstechnica.com/information-technology/2026/04/nutanix-claims-it-has-poached-30000-vmware-customers/",
+      "publishedAt": "2026-04-09T19:44:31.000Z"
+    },
+    {
+      "id": "r23hp2",
+      "title": "After data breach, $10B-valued startup Mercor is having a month",
       "summary": "After falling victim to a hacker, Mercor is facing lawsuits and reportedly losing big-name customers.",
-      "imageUrl": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=800&q=80",
+      "imageUrl": "https://images.unsplash.com/photo-1655720828018-edd2daec9349?w=800&q=80",
       "source": "TechCrunch",
       "sourceUrl": "https://techcrunch.com/2026/04/09/after-data-breach-10b-valued-startup-mercor-is-having-a-month/",
       "publishedAt": "2026-04-09T19:33:54.000Z"
@@ -55,6 +64,15 @@
       "source": "Wired",
       "sourceUrl": "https://www.wired.com/story/black-forest-labs-ai-image-generation/",
       "publishedAt": "2026-04-09T18:00:00.000Z"
+    },
+    {
+      "id": "pmr90z",
+      "title": "Google’s Gemini AI can answer your questions with 3D models and simulations",
+      "summary": "Google's latest upgrade for Gemini will allow the chatbot to generate interactive 3D models and simulations in response to your questions. With the new feature, you may see options to rotate the AI-generated model, manually adjust sliders on it, or input different values to change the simulation in real-time. When trying out the feature for myself, I asked Gemini to make a simulation of the Moon orbiting the Earth, and it created a 3D model with a few different ways to interact with it. Along…",
+      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/02/STK255_Google_Gemini_D.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "source": "The Verge",
+      "sourceUrl": "https://www.theverge.com/tech/909391/google-gemini-ai-3d-models-simulations",
+      "publishedAt": "2026-04-09T17:57:58.000Z"
     },
     {
       "id": "k3zv1m",
@@ -363,15 +381,6 @@
       "publishedAt": "2026-04-07T18:00:00.000Z"
     },
     {
-      "id": "fj1r0b",
-      "title": "Suno and major music labels reportedly clash over AI music sharing",
-      "summary": "The AI-powered musicmaker Suno is struggling to reach licensing deals with Universal Music Group and Sony Music Entertainment. That's according to a report from the Financial Times, which says both sides can't agree on whether users should be able to share the AI-generated songs they create. \"Universal wants AI-generated tracks to stay inside apps such as Suno and not spread freely across the internet. Suno, however, wants users to be able to share and distribute those songs more widely,\" the…",
-      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/01/STK467_AI_MUSIC_CVirginia_B.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "source": "The Verge",
-      "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/908119/suno-sony-universal-music-ai-disagreement",
-      "publishedAt": "2026-04-07T16:21:22.000Z"
-    },
-    {
       "id": "4i3lu5",
       "title": "Desalination plants in the Middle East are increasingly vulnerable",
       "summary": "MIT Technology Review Explains: Let our writers untangle the complex, messy world of technology to help you understand what’s coming next. You can read more from the series here. As the conflict in Iran has escalated, a crucial resource is under fire: the desalination technology that supplies water across much of the region. In early…",
@@ -532,15 +541,6 @@
       "source": "Ars Technica",
       "sourceUrl": "https://arstechnica.com/security/2026/03/14000-routers-are-infected-by-malware-thats-highly-resistant-to-takedowns/",
       "publishedAt": "2026-03-11T21:27:16.000Z"
-    },
-    {
-      "id": "usx076",
-      "title": "Feds take notice of iOS vulnerabilities exploited under mysterious circumstances",
-      "summary": "The long, strange trip of a large assembly of advanced iOS exploits.",
-      "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2026/03/iphone-14-1152x648.jpg",
-      "source": "Ars Technica",
-      "sourceUrl": "https://arstechnica.com/security/2026/03/cisa-adds-3-ios-flaws-to-its-catalog-of-known-exploited-vulnerabilities/",
-      "publishedAt": "2026-03-06T19:41:33.000Z"
     }
   ]
 }
