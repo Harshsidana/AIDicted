@@ -1,7 +1,16 @@
 {
-  "fetchedAt": "2026-04-09T00:00:42.038Z",
+  "fetchedAt": "2026-04-09T03:35:55.618Z",
   "count": 60,
   "articles": [
+    {
+      "id": "pklcjt",
+      "title": "Gemini gets notebooks to help you organize projects",
+      "summary": "Google's Gemini is getting a feature called \"notebooks\" to help you organize things about certain topics in a single place while using the AI chatbot, the company announced on Wednesday. You can pull in things like files, past conversations, and custom instructions into notebooks that Gemini can then use as context while you're talking with it. Notebooks sound a lot like ChatGPT's Projects feature, which launched in 2024 and similarly lets users store things about a certain topic in one spot.…",
+      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/02/STK255_Google_Gemini_A.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "source": "The Verge",
+      "sourceUrl": "https://www.theverge.com/tech/909031/google-gemini-notebooks-notebooklm",
+      "publishedAt": "2026-04-09T00:06:12.000Z"
+    },
     {
       "id": "lxsft9",
       "title": "Conflicting Rulings Leave Anthropic in ‘Supply-Chain Risk’ Limbo",
@@ -12,10 +21,10 @@
       "publishedAt": "2026-04-08T22:27:26.000Z"
     },
     {
-      "id": "66hrgp",
-      "title": "AI agent Poke makes setting up automations as easy as sending a text",
+      "id": "2zftk9",
+      "title": "Poke makes using AI agents as easy as sending a text",
       "summary": "Poke brings AI agents to everyday users via text message by handling tasks and automations without complex setup, apps, or technical know-how.",
-      "imageUrl": "https://images.unsplash.com/photo-1526374965328-7f61d4dc18c5?w=800&q=80",
+      "imageUrl": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=800&q=80",
       "source": "TechCrunch",
       "sourceUrl": "https://techcrunch.com/2026/04/08/poke-makes-ai-agents-as-easy-as-sending-a-text/",
       "publishedAt": "2026-04-08T21:05:13.000Z"
@@ -343,15 +352,6 @@
       "source": "MIT Tech Review",
       "sourceUrl": "https://www.technologyreview.com/2026/04/06/1135187/the-one-piece-of-data-that-could-actually-shed-light-on-your-job-and-ai/",
       "publishedAt": "2026-04-06T16:33:35.000Z"
-    },
-    {
-      "id": "21fir3",
-      "title": "Iran threatens OpenAI’s Stargate data center in Abu Dhabi",
-      "summary": "An October 2025 image of OpenAI’s UAE Stargate data center under construction. | Image: G42 Iran's Islamic Revolutionary Guard Corps (IRGC) has published a video threatening OpenAI's planned Abu Dhabi data center if the US follows through on threats to attack the country's power plants, as reported earlier by Tom's Hardware. The video, which was published to an Iranian state-backed news outlet's X account on April 3rd, says the IRGC will carry out the \"complete and utter annihilation\" of…",
-      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/10/Stargate-UAE-2.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "source": "The Verge",
-      "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/907427/iran-openai-stargate-datacenter-uae-abu-dhabi-threat",
-      "publishedAt": "2026-04-06T15:54:19.000Z"
     },
     {
       "id": "yhesoc",
