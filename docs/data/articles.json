@@ -1,7 +1,52 @@
 {
-  "fetchedAt": "2026-04-09T11:58:20.284Z",
+  "fetchedAt": "2026-04-09T16:04:16.855Z",
   "count": 60,
   "articles": [
+    {
+      "id": "9l3jax",
+      "title": "Amazon CEO takes aim at Nvidia, Intel, Starlink, more in annual shareholder letter",
+      "summary": "Andy Jassy's annual shareholder letter reads something like a diss track to a wide range of competitors as he defends spending $200 billion in capex.",
+      "imageUrl": "https://images.unsplash.com/photo-1676299081847-824916de030a?w=800&q=80",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/04/09/amazon-ceo-takes-aim-at-nvidia-intel-starlink-more-in-annual-shareholder-letter/",
+      "publishedAt": "2026-04-09T14:27:57.000Z"
+    },
+    {
+      "id": "gc2734",
+      "title": "Final 2 days to save up to $500 on your TechCrunch Disrupt 2026 ticket",
+      "summary": "Ticket discounts of up to $500 will end tomorrow, April 10, at 11:59 p.m. PT. After that, prices for TechCrunch Disrupt 2026 go up again. Miss this, and you’ll be paying more for the same access to one of the most anticipated tech epicenters of the year. Register now to lock in these savings.",
+      "imageUrl": "https://images.unsplash.com/photo-1676299081847-824916de030a?w=800&q=80",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/04/09/final-2-days-to-save-up-to-500-on-your-techcrunch-disrupt-2026-ticket/",
+      "publishedAt": "2026-04-09T14:00:00.000Z"
+    },
+    {
+      "id": "g5p97d",
+      "title": "The AI industry’s race for profits is now existential",
+      "summary": "Today on Decoder, let’s talk about the looming AI monetization cliff, and whether some of the biggest companies in the space can become real, profitable businesses before they careen right off it. My guest today is Hayden Field, who’s our senior AI reporter here at The Verge. She’s been keeping close tabs on both Anthropic and OpenAI, and how these two companies in particular tell us a whole lot about the AI industry in 2026. You’ve certainly heard a version of the monetization cliff story…",
+      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/04/DCD_0409.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "source": "The Verge",
+      "sourceUrl": "https://www.theverge.com/podcast/909042/ai-monetization-cliff-anthropic-openai-profitable-ai-existential-moment",
+      "publishedAt": "2026-04-09T14:00:00.000Z"
+    },
+    {
+      "id": "gl0bw2",
+      "title": "The Pro-Iran Meme Machine Trolling Trump With AI Lego Cartoons",
+      "summary": "Since the beginning of the Iran war, the group Explosive Media has released over a dozen viral videos mocking Trump and the US.",
+      "imageUrl": "https://media.wired.com/photos/69d681be0aa0c0c6d4da5c6c/master/pass/GettyImages-825967636.jpg",
+      "source": "Wired",
+      "sourceUrl": "https://www.wired.com/story/inside-the-pro-iran-meme-machine-trolling-trump-with-ai-lego-cartoons/",
+      "publishedAt": "2026-04-09T13:25:21.000Z"
+    },
+    {
+      "id": "3oht1k",
+      "title": "The Download: AstroTurf wars and exponential AI growth",
+      "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. Is fake grass a bad idea? The AstroTurf wars are far from over. In 2001, Americans installed just over 7 million square meters of synthetic turf. By 2024, that number was 79 million square meters—enough to carpet all of Manhattan and then some. The…",
+      "imageUrl": "https://images.unsplash.com/photo-1655720828018-edd2daec9349?w=800&q=80",
+      "source": "MIT Tech Review",
+      "sourceUrl": "https://www.technologyreview.com/2026/04/09/1135514/the-download-astroturf-wars-exponential-ai-growth-desalination-numbers/",
+      "publishedAt": "2026-04-09T12:25:10.000Z"
+    },
     {
       "id": "bwh12n",
       "title": "Google makes it easy to deepfake yourself",
@@ -309,15 +354,6 @@
       "publishedAt": "2026-04-07T18:00:00.000Z"
     },
     {
-      "id": "87ol1d",
-      "title": "Uber is the latest to be won over by Amazon’s AI chips",
-      "summary": "Uber is expanding its AWS contract to run more of its ride-sharing features on Amazon's chips. This is a thumb-of-the nose at Oracle and Google.",
-      "imageUrl": "https://images.unsplash.com/photo-1526374965328-7f61d4dc18c5?w=800&q=80",
-      "source": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/04/07/uber-is-the-latest-to-be-won-over-by-amazons-ai-chips/",
-      "publishedAt": "2026-04-07T16:46:59.000Z"
-    },
-    {
       "id": "fj1r0b",
       "title": "Suno and major music labels reportedly clash over AI music sharing",
       "summary": "The AI-powered musicmaker Suno is struggling to reach licensing deals with Universal Music Group and Sony Music Entertainment. That's according to a report from the Financial Times, which says both sides can't agree on whether users should be able to share the AI-generated songs they create. \"Universal wants AI-generated tracks to stay inside apps such as Suno and not spread freely across the internet. Suno, however, wants users to be able to share and distribute those songs more widely,\" the…",
@@ -325,24 +361,6 @@
       "source": "The Verge",
       "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/908119/suno-sony-universal-music-ai-disagreement",
       "publishedAt": "2026-04-07T16:21:22.000Z"
-    },
-    {
-      "id": "jmvdrm",
-      "title": "Anthropic ups compute deal with Google and Broadcom amid skyrocketing demand",
-      "summary": "Anthropic bulked up its compute deal with Google and Broadcom as the company has seen its run-rate revenue surge to $30 billion.",
-      "imageUrl": "https://images.unsplash.com/photo-1655720828018-edd2daec9349?w=800&q=80",
-      "source": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/04/07/anthropic-compute-deal-google-broadcom-tpus/",
-      "publishedAt": "2026-04-07T16:05:56.000Z"
-    },
-    {
-      "id": "qlr1fd",
-      "title": "Intel will help build Elon Musk’s Terafab AI chip factory",
-      "summary": "Elon Musk's Terafab AI chip project in Austin, Texas, is gaining a crucial new partner: Intel. On Tuesday, the American chipmaker announced it was signing on to help design and build the sprawling facility, which would supply AI chips to Musk's two companies, SpaceX (newly merged with xAI) and Tesla. Musk needs AI chips to power his plans to build a \"robot army\" that includes self-driving cars and humanoid robots, as well as for the data centers he plans on launching into space. SpaceX plans on…",
-      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/01/acastro_STK094_02.jpeg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "source": "The Verge",
-      "sourceUrl": "https://www.theverge.com/transportation/907976/elon-musk-terafab-intel-ai-chip-spacex-tesla",
-      "publishedAt": "2026-04-07T15:43:17.000Z"
     },
     {
       "id": "4i3lu5",
@@ -408,15 +426,6 @@
       "publishedAt": "2026-04-04T10:30:00.000Z"
     },
     {
-      "id": "rlxbfl",
-      "title": "Meta Pauses Work With Mercor After Data Breach Puts AI Industry Secrets at Risk",
-      "summary": "Major AI labs are investigating a security incident that impacted Mercor, a leading data vendor. The incident could have exposed key data about how they train AI models.",
-      "imageUrl": "https://media.wired.com/photos/69d0349ce79739f75ca71863/master/pass/security_Mercor3_GettyImages-1429228638-copy-2.jpg",
-      "source": "Wired",
-      "sourceUrl": "https://www.wired.com/story/meta-pauses-work-with-mercor-after-data-breach-puts-ai-industry-secrets-at-risk/",
-      "publishedAt": "2026-04-03T21:28:14.000Z"
-    },
-    {
       "id": "hmw5q2",
       "title": "OpenClaw gives users yet another reason to be freaked out about security",
       "summary": "The viral AI agentic tool let attackers silently gain admin unauthenticated access.",
@@ -424,15 +433,6 @@
       "source": "Ars Technica",
       "sourceUrl": "https://arstechnica.com/security/2026/04/heres-why-its-prudent-for-openclaw-users-to-assume-compromise/",
       "publishedAt": "2026-04-03T20:30:15.000Z"
-    },
-    {
-      "id": "tslevy",
-      "title": "Four things we’d need to put data centers in space",
-      "summary": "MIT Technology Review Explains: Let our writers untangle the complex, messy world of technology to help you understand what’s coming next. You can read more from the series here. In January, Elon Musk’s SpaceX filed an application with the US Federal Communications Commission to launch up to one million data centers into Earth’s orbit. The…",
-      "imageUrl": "https://images.unsplash.com/photo-1550751827-4bd374c3f58b?w=800&q=80",
-      "source": "MIT Tech Review",
-      "sourceUrl": "https://www.technologyreview.com/2026/04/03/1135073/four-things-wed-need-to-put-data-centers-in-space/",
-      "publishedAt": "2026-04-03T17:03:19.000Z"
     },
     {
       "id": "fzeydy",
