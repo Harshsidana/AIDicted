@@ -1,7 +1,16 @@
 {
-  "fetchedAt": "2026-04-09T10:41:55.182Z",
+  "fetchedAt": "2026-04-09T11:58:20.284Z",
   "count": 60,
   "articles": [
+    {
+      "id": "bwh12n",
+      "title": "Google makes it easy to deepfake yourself",
+      "summary": "YouTube Shorts is rolling out a new AI-powered feature giving creators an easy way to realistically clone themselves on camera. The launch, hinted at earlier this year, reflects the platform's fraught relationship with AI-generated content, adding more generative features while struggling to contain AI slop, deepfake scams, and impersonations. YouTube says the new tool will let users create a digital version of themselves, called an avatar, that can be inserted into existing Shorts videos or…",
+      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/04/acastro_STK092_03.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "source": "The Verge",
+      "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/909104/youtube-shorts-make-ai-avatar",
+      "publishedAt": "2026-04-09T10:53:49.000Z"
+    },
     {
       "id": "7v3hxq",
       "title": "Is fake grass a bad idea? The AstroTurf wars are far from over.",
@@ -361,15 +370,6 @@
       "source": "MIT Tech Review",
       "sourceUrl": "https://www.technologyreview.com/2026/04/07/1135208/the-download-ai-impact-jobs-data-centres-space/",
       "publishedAt": "2026-04-07T12:10:00.000Z"
-    },
-    {
-      "id": "5071x4",
-      "title": "Gemini is making it faster for distressed users to reach mental health resources",
-      "summary": "Google says it has updated Gemini to better direct users to get mental health resources during moments of crisis. The change comes as the tech giant faces a wrongful death lawsuit alleging its chatbot \"coached\" a man to die by suicide, the latest in a string of lawsuits alleging tangible harm from AI products. When a conversation indicates a user is in a potential crisis related to suicide or self-harm, Gemini already launches a \"Help is available\" module that directs users to mental health…",
-      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/04/STK255_Google_Gemini_B_474198.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "source": "The Verge",
-      "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/907842/google-gemini-mental-health-interface-update",
-      "publishedAt": "2026-04-07T10:09:57.000Z"
     },
     {
       "id": "ioab5",
