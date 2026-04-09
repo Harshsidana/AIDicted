@@ -1,11 +1,29 @@
 {
-  "fetchedAt": "2026-04-09T22:08:15.947Z",
+  "fetchedAt": "2026-04-09T23:11:29.560Z",
   "count": 60,
   "articles": [
     {
+      "id": "dh182y",
+      "title": "ChatGPT has a new $100 per month Pro subscription",
+      "summary": "OpenAI has announced a new version of its ChatGPT Pro subscription that costs $100 per month. The new Pro tier offers \"5x more\" usage of its Codex coding tool than the $20 per month Plus subscription and \"is best for longer, high-effort Codex sessions,\" OpenAI says. The company is introducing the new tier as it tries to win over users from Anthropic and its popular Claude Code tool. ChatGPT's $100 per month option will directly compete with Anthropic's \"Max\" tier for Claude, which costs the same…",
+      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25462046/STK155_OPEN_AI_CVirginia_2_C.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "source": "The Verge",
+      "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/909599/chatgpt-pro-subscription-new",
+      "publishedAt": "2026-04-09T22:57:15.000Z"
+    },
+    {
+      "id": "b7vevy",
+      "title": "Florida launches investigation into OpenAI",
+      "summary": "Florida Attorney General James Uthmeier is launching an investigation into OpenAI over public safety and national security risks, as reported earlier by Reuters. In a statement on Thursday, Uthmeier says there are concerns that OpenAI's data and technology are \"falling into the hands of America's enemies, such as the Chinese Communist Party.\" Uthmeier also says that OpenAI's ChatGPT has been \"linked to criminal behavior\" related to child sexual abuse material and the \"encouragement\" of…",
+      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/02/STK155_OPEN_AI_2025_CVirgiia_C.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "source": "The Verge",
+      "sourceUrl": "https://www.theverge.com/policy/909557/openai-florida-investigation",
+      "publishedAt": "2026-04-09T22:17:06.000Z"
+    },
+    {
       "id": "yuqxoa",
       "title": "ChatGPT finally offers $100/month Pro plan",
-      "summary": "OpenAI announced on Thursday something that power users have been asking for: a $100/month plan. Previously subscriptions jumped from $20 to $200 per month.",
+      "summary": "OpenAI announced on Thursday something that power users have been asking for: a $100/month plan. Previously, subscriptions jumped from $20 to $200 per month.",
       "imageUrl": "https://images.unsplash.com/photo-1531746790095-6c10a4031c5f?w=800&q=80",
       "source": "TechCrunch",
       "sourceUrl": "https://techcrunch.com/2026/04/09/chatgpt-pro-plan-100-month-codex/",
@@ -354,15 +372,6 @@
       "publishedAt": "2026-04-08T11:00:08.000Z"
     },
     {
-      "id": "rstjbj",
-      "title": "Spotify’s Prompted Playlists can help you find new podcasts to listen to",
-      "summary": "On Tuesday, Spotify expanded its Prompted Playlists feature to include podcasts, an update that could make it easier for Premium users to find new shows to listen to. Prompted Playlists were originally launched as a beta feature in December, but previously only worked for music. You can use the feature to effectively generate customized Discover Weekly playlists using text prompts to \"steer the algorithm\" toward specific genres or themes. Tuesday's update allows you to do the same thing with…",
-      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/05/VRG_Illo_STK130_K_Radtke_Spotify_Podcast_1.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "source": "The Verge",
-      "sourceUrl": "https://www.theverge.com/entertainment/908339/spotify-prompted-playlists-podcasts",
-      "publishedAt": "2026-04-07T20:13:23.000Z"
-    },
-    {
       "id": "swg9ju",
       "title": "Anthropic Teams Up With Its Rivals to Keep AI From Hacking Everything",
       "summary": "The AI lab's Project Glasswing will bring together Apple, Google, and more than 45 other organizations. They'll use the new Claude Mythos Preview model to test advancing AI cybersecurity capabilities.",
@@ -370,15 +379,6 @@
       "source": "Wired",
       "sourceUrl": "https://www.wired.com/story/anthropic-mythos-preview-project-glasswing/",
       "publishedAt": "2026-04-07T18:49:50.000Z"
-    },
-    {
-      "id": "i201zn",
-      "title": "A new Anthropic model found security problems ‘in every major operating system and web browser’",
-      "summary": "Anthropic is debuting a new AI model as part of a cybersecurity partnership with Nvidia, Google, Amazon Web Services, Apple, Microsoft, and other companies. Project Glasswing, as it's called, is billed as a way for large companies, and potentially even the government, to flag vulnerabilities in their systems with virtually no human intervention. Anthropic is offering its launch partners access to Claude Mythos Preview, a new general-purpose model that it's not currently planning to publicly…",
-      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/04/STK461_INTERNET_CHILD_SAFETY_Stock_B_CVirginia.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "source": "The Verge",
-      "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/908114/anthropic-project-glasswing-cybersecurity",
-      "publishedAt": "2026-04-07T18:00:00.000Z"
     },
     {
       "id": "4i3lu5",
