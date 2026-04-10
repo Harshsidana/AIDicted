@@ -1,7 +1,70 @@
 {
-  "fetchedAt": "2026-04-10T08:09:06.111Z",
+  "fetchedAt": "2026-04-10T13:56:24.127Z",
   "count": 60,
   "articles": [
+    {
+      "id": "hbaaks",
+      "title": "Fear and loathing at OpenAI",
+      "summary": "Sam Altman's tenure at OpenAI has been… messy. Messy to the point where Altman was briefly fired from his role as CEO, only to be reinstated days later, at which point he began reshaping the organization permanently. This week, The New Yorker published a deep look at Altman, his time at OpenAI, and the questions about whether he's the right person to be in charge of a technology as important and transformative as artificial intelligence. Verge subscribers, don't forget you get exclusive access…",
+      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/04/VRG_VST_0410_Site.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "source": "The Verge",
+      "sourceUrl": "https://www.theverge.com/podcast/909621/openai-sam-altman-drama-vergecast",
+      "publishedAt": "2026-04-10T12:23:18.000Z"
+    },
+    {
+      "id": "vwhaxn",
+      "title": "The Download: an exclusive Jeff VanderMeer story and AI models too scary to release",
+      "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. Constellations —Constellations is a short story by Jeff VanderMeer, the author of the critically acclaimed, bestselling Southern Reach series. A spacecraft has crash-landed on a hostile planet. The only survivors…",
+      "imageUrl": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=800&q=80",
+      "source": "MIT Tech Review",
+      "sourceUrl": "https://www.technologyreview.com/2026/04/10/1135618/the-download-jeff-vandermeer-short-story-and-ai-models-too-danger-to-release/",
+      "publishedAt": "2026-04-10T12:10:00.000Z"
+    },
+    {
+      "id": "26sob7",
+      "title": "Gen Z’s love-hate relationship with AI",
+      "summary": "Gen Z is increasingly disillusioned with AI - just not enough to stop using it. A new Gallup report released this week, based on responses from nearly 1,600 people ages 14 to 29 across the US, suggests the hype is wearing off for the digital-native generation as AI becomes more embedded in school and work. Enthusiasm is falling and resentment is growing, even as many young people feel they still need to use the technology. Gallup's poll, conducted in February and March this year, found Gen Z's…",
+      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/04/STK414_AI_CVIRGINIA_2_A.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "source": "The Verge",
+      "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/909687/gen-z-doesnt-like-ai-gallup",
+      "publishedAt": "2026-04-10T11:23:28.000Z"
+    },
+    {
+      "id": "vypbds",
+      "title": "AI Podcasters Really Want to Tell You How to Keep a Man Happy",
+      "summary": "Videos of fake relationship guru podcasters are reinforcing gender tropes and racking up millions of views, all the while driving sales to AI influencer schools.",
+      "imageUrl": "https://media.wired.com/photos/69d6e881e2485977e01e633f/master/pass/AI-Podcasters-Telling-You-How-to-Keep-A-Man-Culture.jpg",
+      "source": "Wired",
+      "sourceUrl": "https://www.wired.com/story/ai-podcasters-really-want-to-tell-you-how-to-keep-a-man-happy/",
+      "publishedAt": "2026-04-10T10:30:00.000Z"
+    },
+    {
+      "id": "fyw7n3",
+      "title": "Constellations",
+      "summary": "I. We had crash-landed on the planet. We were far from home. The spaceship could not be repaired, and the rescue beacon had failed. Besides me, only the astrogator, part of the captain, and the ship’s AI mind were left. Outside, the atmosphere registered as hostile to most organisms. We huddled in the lifeboat, which…",
+      "imageUrl": "https://images.unsplash.com/photo-1676299081847-824916de030a?w=800&q=80",
+      "source": "MIT Tech Review",
+      "sourceUrl": "https://www.technologyreview.com/2026/04/10/1135106/jeff-vandermeer-constellations-science-fiction/",
+      "publishedAt": "2026-04-10T10:00:00.000Z"
+    },
+    {
+      "id": "60hhyi",
+      "title": "Meta’s New AI Asked for My Raw Health Data—and Gave Me Terrible Advice",
+      "summary": "Meta’s Muse Spark model offers to analyze users’ health data, including lab results. Beyond the obvious privacy risks, it’s not a capable stand-in for a real doctor.",
+      "imageUrl": "https://media.wired.com/photos/69d8273352260a3f1748cbdd/master/pass/gear_meta_doctor_getty.jpg",
+      "source": "Wired",
+      "sourceUrl": "https://www.wired.com/story/metas-new-ai-asked-for-my-raw-health-data-and-gave-me-terrible-advice/",
+      "publishedAt": "2026-04-10T09:30:00.000Z"
+    },
+    {
+      "id": "4e1iyx",
+      "title": "Microsoft starts removing Copilot buttons from Windows 11 apps",
+      "summary": "Microsoft is starting to remove \"unnecessary\" Copilot buttons from its Windows 11 apps. In the latest version of the Notepad app for Windows Insiders, Microsoft has removed the Copilot button in favor of a \"writing tools\" menu. The Copilot button in the Snipping Tool app also no longer appears when you select an area to capture. The change is part of \"reducing unnecessary Copilot entry points, starting with apps like Snipping Tool, Photos, Widgets and Notepad,\" that Microsoft promised to…",
+      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/04/copilotbutton.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "source": "The Verge",
+      "sourceUrl": "https://www.theverge.com/news/909640/microsoft-removing-copilot-windows-11-buttons",
+      "publishedAt": "2026-04-10T09:22:06.000Z"
+    },
     {
       "id": "894rrb",
       "title": "OpenAI Backs Bill That Would Limit Liability for AI-Enabled Mass Deaths or Financial Disasters",
@@ -104,7 +167,7 @@
     {
       "id": "pmr90z",
       "title": "Google’s Gemini AI can answer your questions with 3D models and simulations",
-      "summary": "Google's latest upgrade for Gemini will allow the chatbot to generate interactive 3D models and simulations in response to your questions. With the new feature, you may see options to rotate the AI-generated model, manually adjust sliders on it, or input different values to change the simulation in real-time. When trying out the feature for myself, I asked Gemini to make a simulation of the Moon orbiting the Earth, and it created a 3D model with a few different ways to interact with it. Along…",
+      "summary": "Google's latest upgrade for Gemini will allow the chatbot to generate interactive 3D models and simulations in response to your questions. With the new feature, you may see options to rotate the AI-generated model, manually adjust sliders on it, or input different values to change the simulation in real time. When trying out the feature for myself, I asked Gemini to make a simulation of the Moon orbiting the Earth, and it created a 3D model with a few different ways to interact with it. Along…",
       "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/02/STK255_Google_Gemini_D.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
       "source": "The Verge",
       "sourceUrl": "https://www.theverge.com/tech/909391/google-gemini-ai-3d-models-simulations",
@@ -291,24 +354,6 @@
       "publishedAt": "2026-04-08T17:13:33.000Z"
     },
     {
-      "id": "3zh768",
-      "title": "Anthropic’s New Product Aims to Handle the Hard Part of Building AI Agents",
-      "summary": "Amid rapid enterprise growth, Anthropic is trying to lower the barrier to entry for businesses to build AI agents with Claude.",
-      "imageUrl": "https://media.wired.com/photos/69d55aad5eeab2b48af87714/master/pass/Business_AnthropicLaunchesClaudeManagedAgents.jpg",
-      "source": "Wired",
-      "sourceUrl": "https://www.wired.com/story/anthropic-launches-claude-managed-agents/",
-      "publishedAt": "2026-04-08T17:00:00.000Z"
-    },
-    {
-      "id": "7a53lm",
-      "title": "Meta is reentering the AI race with a new model called Muse Spark",
-      "summary": "Meta Superintelligence Labs is launching its first model since Mark Zuckerberg spent billions overhauling the company's AI efforts. Called Muse Spark, the model now powers the Meta AI app and the Meta AI website in the US, per the company's announcement. In the coming weeks, Meta says, it will appear in WhatsApp, Instagram, Facebook, Messenger, and Meta's smart glasses, as well as roll out in other countries. Like Google Gemini, which easily integrates into Google's product suite, Meta touts…",
-      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/10/257980_Meta_Ray-Ban_Display_AKrales_0312.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "source": "The Verge",
-      "sourceUrl": "https://www.theverge.com/tech/908769/meta-muse-spark-ai-model-launch-rollout",
-      "publishedAt": "2026-04-08T16:12:54.000Z"
-    },
-    {
       "id": "fp6p3f",
       "title": "Astropad’s Workbench reimagines remote desktop for AI agents, not IT support",
       "summary": "Astropad’s Workbench lets users remotely monitor and control AI agents on Mac Minis from iPhone or iPad, with low-latency streaming and mobile access.",
@@ -345,15 +390,6 @@
       "publishedAt": "2026-04-08T14:00:00.000Z"
     },
     {
-      "id": "bzcbl0",
-      "title": "The vibes are off at OpenAI",
-      "summary": "OpenAI is in a relatively precarious position. The company is and has been a funding behemoth - just over a week ago, it closed $122 billion in funding at a post-money valuation of $852 billion. It's potentially planning for an IPO later this year. ChatGPT's longtime lead in consumer-facing AI led it to name-brand status akin to \"Kleenex\" for tissues. But in recent months, a slew of executive reshufflings, discontinued projects, and other news has raised questions about how stable the company…",
-      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25431704/STK201_SAM_ALTMAN_CVIRGINIA_C.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "source": "The Verge",
-      "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/908513/the-vibes-are-off-at-openai",
-      "publishedAt": "2026-04-08T13:47:38.000Z"
-    },
-    {
       "id": "epohz6",
       "title": "The Download: water threats in Iran and AI’s impact on what entrepreneurs make",
       "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. Desalination plants in the Middle East are increasingly vulnerable As the conflict in Iran has escalated, a crucial resource is under fire: the desalinization technology that supplies water in the region. President…",
@@ -363,15 +399,6 @@
       "publishedAt": "2026-04-08T12:10:00.000Z"
     },
     {
-      "id": "jd2mtd",
-      "title": "Unionized ProPublica staff are on strike over AI, layoffs, and wages",
-      "summary": "Unionized staff at ProPublica, one of the country's leading nonprofit newsrooms, are walking off the job for 24 hours beginning Wednesday and asking the public to honor a digital picket line. The roughly 150 members of the ProPublica Guild are in the midst of negotiating a collective bargaining agreement after unionizing in 2023. The union says key issues are still in contention, including protections around the use of AI, \"just cause\" provisions around disciplining or firing an employee, layoff…",
-      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/04/STK149_AI_Writing.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "source": "The Verge",
-      "sourceUrl": "https://www.theverge.com/news/908401/propublica-union-strike-negotiations-ai-layoffs",
-      "publishedAt": "2026-04-08T11:53:28.000Z"
-    },
-    {
       "id": "11dv1j",
       "title": "Thousands of consumer routers hacked by Russia's military",
       "summary": "End-of-life routers in homes and small offices hacked in 120 countries.",
@@ -379,15 +406,6 @@
       "source": "Ars Technica",
       "sourceUrl": "https://arstechnica.com/security/2026/04/russias-military-hacks-thousands-of-consumer-routers-to-steal-credentials/",
       "publishedAt": "2026-04-08T11:00:08.000Z"
-    },
-    {
-      "id": "swg9ju",
-      "title": "Anthropic Teams Up With Its Rivals to Keep AI From Hacking Everything",
-      "summary": "The AI lab's Project Glasswing will bring together Apple, Google, and more than 45 other organizations. They'll use the new Claude Mythos Preview model to test advancing AI cybersecurity capabilities.",
-      "imageUrl": "https://media.wired.com/photos/69d4e951d8b67218cd4b81ad/master/pass/04072026_New%20Anthropic%20Industry%20Coalition%20Racing%20to%20Use%20Private%20Claude%20Mythos%20Model%20To%20Secure%20Software.jpg",
-      "source": "Wired",
-      "sourceUrl": "https://www.wired.com/story/anthropic-mythos-preview-project-glasswing/",
-      "publishedAt": "2026-04-07T18:49:50.000Z"
     },
     {
       "id": "4i3lu5",
@@ -415,24 +433,6 @@
       "source": "MIT Tech Review",
       "sourceUrl": "https://www.technologyreview.com/2026/04/07/1135208/the-download-ai-impact-jobs-data-centres-space/",
       "publishedAt": "2026-04-07T12:10:00.000Z"
-    },
-    {
-      "id": "ioab5",
-      "title": "The one piece of data that could actually shed light on your job and AI",
-      "summary": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here. Within Silicon Valley’s orbit, an AI-fueled jobs apocalypse is spoken about as a given. The mood is so grim that a societal impacts researcher at Anthropic, responding Wednesday to a call for…",
-      "imageUrl": "https://images.unsplash.com/photo-1531746790095-6c10a4031c5f?w=800&q=80",
-      "source": "MIT Tech Review",
-      "sourceUrl": "https://www.technologyreview.com/2026/04/06/1135187/the-one-piece-of-data-that-could-actually-shed-light-on-your-job-and-ai/",
-      "publishedAt": "2026-04-06T16:33:35.000Z"
-    },
-    {
-      "id": "yhesoc",
-      "title": "AI is changing how small online sellers decide what to make",
-      "summary": "For years Mike McClary sold the Guardian LTE Flashlight, a heavy-duty black model, online through his small outdoor brand. The product, designed for brightness and durability, became one of his most popular items ever. Even after he stopped offering it around 2017, customers kept sending him emails asking where they could buy it. When McClary…",
-      "imageUrl": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=800&q=80",
-      "source": "MIT Tech Review",
-      "sourceUrl": "https://www.technologyreview.com/2026/04/06/1135118/ai-online-seller-alibaba-accio/",
-      "publishedAt": "2026-04-06T11:00:00.000Z"
     },
     {
       "id": "hmw5q2",
