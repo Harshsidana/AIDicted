@@ -1,7 +1,25 @@
 {
-  "fetchedAt": "2026-04-10T17:26:18.318Z",
+  "fetchedAt": "2026-04-10T18:10:19.868Z",
   "count": 60,
   "articles": [
+    {
+      "id": "rxijoh",
+      "title": "Anthropic’s Mythos Will Force a Cybersecurity Reckoning—Just Not the One You Think",
+      "summary": "The new AI model is being heralded—and feared—as a hacker’s superweapon. Experts say its arrival is a wake-up call for developers who have long made security an afterthought.",
+      "imageUrl": "https://media.wired.com/photos/69d81392ce1f65d162ddb2f0/master/pass/Security_Anthropic_Getty.jpg",
+      "source": "Wired",
+      "sourceUrl": "https://www.wired.com/story/anthropics-mythos-will-force-a-cybersecurity-reckoning-just-not-the-one-you-think/",
+      "publishedAt": "2026-04-10T18:08:37.000Z"
+    },
+    {
+      "id": "sg4u5w",
+      "title": "The Iranian Lego AI video creators credit their virality to ‘heart’",
+      "summary": "Donald Trump has spun the recent rescue of a downed airman whose fighter jet was destroyed behind Iranian borders as a resounding success. But the story is very different in one of the many viral, AI-generated Lego videos that have been produced by Iranian content creation group Explosive Media in the weeks since the US and Israel began dropping bombs on the country. In Explosive Media's music video take on how things played out, the US military is a joke for losing multiple planes and…",
+      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/04/Screenshot-2026-04-10-at-12.40.05PM.png?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "source": "The Verge",
+      "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/909948/explosive-media-lego-iran-war-trump-netanyahu",
+      "publishedAt": "2026-04-10T17:30:00.000Z"
+    },
     {
       "id": "td36sr",
       "title": "Stalking victim sues OpenAI, claims ChatGPT fueled her abuser’s delusions and ignored her warnings",
@@ -21,10 +39,10 @@
       "publishedAt": "2026-04-10T16:38:43.000Z"
     },
     {
-      "id": "u5ex0l",
-      "title": "Suspect Arrested For Allegedly Throwing Molotov Cocktail at Sam Altman's Home",
-      "summary": "An attacker allegedly threw a molotov cocktail at the OpenAI CEO's residence before making threats outside of the startup's headquarters.",
-      "imageUrl": "https://media.wired.com/photos/69d92427fd497469d089ae63/master/pass/Attacked-Sam-Altman-Home-Business-1170855901.jpg",
+      "id": "peqm4z",
+      "title": "Suspect Arrested for Allegedly Throwing Molotov Cocktail at Sam Altman’s Home",
+      "summary": "An attacker allegedly threw a molotov cocktail at the OpenAI CEO’s residence before making threats outside of the startup’s headquarters.",
+      "imageUrl": "https://media.wired.com/photos/69d930fa862e81dfa45e021e/master/pass/Sam-Altman-Intruder.jpg",
       "source": "Wired",
       "sourceUrl": "https://www.wired.com/story/sam-altman-home-attack-openai-san-franisco-office-threat/",
       "publishedAt": "2026-04-10T16:32:19.000Z"
@@ -354,15 +372,6 @@
       "publishedAt": "2026-04-08T20:49:11.000Z"
     },
     {
-      "id": "oqb9g7",
-      "title": "OpenAI made economic proposals — here’s what DC thinks of them",
-      "summary": "Happy ceasefire day and welcome to Regulator, a newsletter for Verge subscribers about Big Tech's rocky journey through the world of politics. If you're not a subscriber yet, you can do so here, but my only request is that you sign up before Donald Trump decides to revisit his previous threats toward Iran and kickstart World War III. I'm back after being waylaid last week by the deadly combo of a moderate cold and the beginning of pollen season. (Twenty-one percent of the District's acreage is…",
-      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/03/STK155_OPEN_AI_4_CVirginia_D.png?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "source": "The Verge",
-      "sourceUrl": "https://www.theverge.com/column/908880/openai-made-economic-proposals-heres-what-dc-thinks-of-them",
-      "publishedAt": "2026-04-08T20:14:00.000Z"
-    },
-    {
       "id": "c48j0y",
       "title": "AWS boss explains why investing billions in both Anthropic and OpenAI is an OK conflict",
       "summary": "AWS has an ingrained culture of handling competition, he explained, because the cloud giant also competes with its partners.",
@@ -370,15 +379,6 @@
       "source": "TechCrunch",
       "sourceUrl": "https://techcrunch.com/2026/04/08/aws-boss-explains-why-investing-billions-in-both-anthropic-and-openai-is-an-ok-conflict/",
       "publishedAt": "2026-04-08T20:09:14.000Z"
-    },
-    {
-      "id": "w3wy2n",
-      "title": "Meta’s New AI Model Gives Mark Zuckerberg a Seat at the Big Kid’s Table",
-      "summary": "Muse Spark is Meta’s first model since its AI reboot, and the benchmarks suggest formidable performance.",
-      "imageUrl": "https://media.wired.com/photos/69d69875661a1966c2be199c/master/pass/Meta-Abandons-OpenSource-Models-Business-2243527585.jpg",
-      "source": "Wired",
-      "sourceUrl": "https://www.wired.com/story/muse-spark-meta-open-source-closed-source/",
-      "publishedAt": "2026-04-08T18:51:09.000Z"
     },
     {
       "id": "cdg1sf",
