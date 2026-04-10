@@ -1,7 +1,25 @@
 {
-  "fetchedAt": "2026-04-10T20:04:09.595Z",
+  "fetchedAt": "2026-04-10T21:05:03.600Z",
   "count": 60,
   "articles": [
+    {
+      "id": "870blj",
+      "title": "Anthropic temporarily banned OpenClaw’s creator from accessing Claude",
+      "summary": "This ban took place after Claude's pricing changed for OpenClaw users last week.",
+      "imageUrl": "https://images.unsplash.com/photo-1620712943543-bcc4688e7485?w=800&q=80",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/04/10/anthropic-temporarily-banned-openclaws-creator-from-accessing-claude/",
+      "publishedAt": "2026-04-10T20:27:52.000Z"
+    },
+    {
+      "id": "bzww19",
+      "title": "20-year-old man arrested for allegedly throwing a Molotov cocktail at Sam Altman’s house",
+      "summary": "San Francisco police have arrested a 20-year-old man suspected of throwing a Molotov cocktail at OpenAI CEO Sam Altman's Russian Hill house early Friday morning, The San Francisco Standard reports. The incident was caught on surveillance cameras shortly before 7AM ET. Later that morning, someone matching the suspect's description was seen making threats outside OpenAI's Mission Bay offices, where he was arrested around 9AM ET. OpenAI spokesperson Jamie Radice confirmed the incident in a…",
+      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/04/gettyimages-1778705436.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "source": "The Verge",
+      "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/910393/openai-sam-altman-house-molotov-cocktail",
+      "publishedAt": "2026-04-10T20:16:57.000Z"
+    },
     {
       "id": "rxijoh",
       "title": "Anthropic’s Mythos Will Force a Cybersecurity Reckoning—Just Not the One You Think",
@@ -15,7 +33,7 @@
       "id": "sg4u5w",
       "title": "The Iranian Lego AI video creators credit their virality to ‘heart’",
       "summary": "Donald Trump has spun the recent rescue of a downed airman whose fighter jet was destroyed behind Iranian borders as a resounding success. But the story is very different in one of the many viral, AI-generated Lego videos that have been produced by Iranian content creation group Explosive Media in the weeks since the US and Israel began dropping bombs on the country. In Explosive Media's music video take on how things played out, the US military is a joke for losing multiple planes and…",
-      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/04/Screenshot-2026-04-10-at-12.40.05PM.png?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/04/LEGO_IRAN.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
       "source": "The Verge",
       "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/909948/explosive-media-lego-iran-war-trump-netanyahu",
       "publishedAt": "2026-04-10T17:30:00.000Z"
@@ -336,15 +354,6 @@
       "publishedAt": "2026-04-09T09:30:00.000Z"
     },
     {
-      "id": "pklcjt",
-      "title": "Gemini gets notebooks to help you organize projects",
-      "summary": "Google's Gemini is getting a feature called \"notebooks\" to help you organize things about certain topics in a single place while using the AI chatbot, the company announced on Wednesday. You can pull in things like files, past conversations, and custom instructions into notebooks that Gemini can then use as context while you're talking with it. Notebooks sound a lot like ChatGPT's Projects feature, which launched in 2024 and similarly lets users store things about a certain topic in one spot.…",
-      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/02/STK255_Google_Gemini_A.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "source": "The Verge",
-      "sourceUrl": "https://www.theverge.com/tech/909031/google-gemini-notebooks-notebooklm",
-      "publishedAt": "2026-04-09T00:06:12.000Z"
-    },
-    {
       "id": "l2ykcz",
       "title": "Anthropic vs. the Pentagon: This Time, a US Court Has Ruled in the Government's Favor",
       "summary": "A US appeals court ruling is at odds with a separate, lower court decision from March, leaving uncertainty about if and how the US military can use the AI company's Claude model.",
@@ -379,15 +388,6 @@
       "source": "TechCrunch",
       "sourceUrl": "https://techcrunch.com/2026/04/08/aws-boss-explains-why-investing-billions-in-both-anthropic-and-openai-is-an-ok-conflict/",
       "publishedAt": "2026-04-08T20:09:14.000Z"
-    },
-    {
-      "id": "cdg1sf",
-      "title": "Tubi is the first streamer to launch a native app within ChatGPT",
-      "summary": "Tubi becomes the first streaming service to offer an app integration within ChatGPT, the AI chatbot that millions of users turn to for answers.",
-      "imageUrl": "https://images.unsplash.com/photo-1655720828018-edd2daec9349?w=800&q=80",
-      "source": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/04/08/tubi-is-the-first-streamer-to-launch-a-native-app-within-chatgpt/",
-      "publishedAt": "2026-04-08T18:23:06.000Z"
     },
     {
       "id": "ipqqmp",
