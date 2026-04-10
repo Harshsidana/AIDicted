@@ -1,7 +1,43 @@
 {
-  "fetchedAt": "2026-04-10T16:03:13.271Z",
+  "fetchedAt": "2026-04-10T17:26:18.318Z",
   "count": 60,
   "articles": [
+    {
+      "id": "td36sr",
+      "title": "Stalking victim sues OpenAI, claims ChatGPT fueled her abuser’s delusions and ignored her warnings",
+      "summary": "OpenAI ignored three warnings that a ChatGPT user was dangerous — including its own mass-casualty flag — while he stalked and harassed his ex-girlfriend, a new lawsuit alleges.",
+      "imageUrl": "https://images.unsplash.com/photo-1676299081847-824916de030a?w=800&q=80",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/04/10/stalking-victim-sues-openai-claims-chatgpt-fueled-her-abusers-delusions-and-ignored-her-warnings/",
+      "publishedAt": "2026-04-10T16:41:34.000Z"
+    },
+    {
+      "id": "e4ajsg",
+      "title": "TechCrunch is heading to Tokyo — and bringing the Startup Battlefield with it",
+      "summary": "SusHi Tech 2026 is zeroing in on four technology domains reshaping society: AI, Robotics, Resilience, and Entertainment. Expect live demos of humanoid robots, sessions on autonomous driving's software revolution, deep dives into cyber defense and climate tech, and candid conversations about how AI is rewriting the global music and anime industries.",
+      "imageUrl": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=800&q=80",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/04/10/techcrunch-is-heading-to-tokyo-and-bringing-the-startup-battlefield-with-it/",
+      "publishedAt": "2026-04-10T16:38:43.000Z"
+    },
+    {
+      "id": "u5ex0l",
+      "title": "Suspect Arrested For Allegedly Throwing Molotov Cocktail at Sam Altman's Home",
+      "summary": "An attacker allegedly threw a molotov cocktail at the OpenAI CEO's residence before making threats outside of the startup's headquarters.",
+      "imageUrl": "https://media.wired.com/photos/69d92427fd497469d089ae63/master/pass/Attacked-Sam-Altman-Home-Business-1170855901.jpg",
+      "source": "Wired",
+      "sourceUrl": "https://www.wired.com/story/sam-altman-home-attack-openai-san-franisco-office-threat/",
+      "publishedAt": "2026-04-10T16:32:19.000Z"
+    },
+    {
+      "id": "uhqxdg",
+      "title": "This Startup Wants You to Pay Up to Talk With AI Versions of Human Experts",
+      "summary": "Onix is launching a “Substack of bots,” where digital twins of health and wellness influencers dispense advice 24/7. And maybe hawk their products.",
+      "imageUrl": "https://media.wired.com/photos/69d7e1f9ba44cf4c6fc2717f/master/pass/Backchannel-Worst-Application-of-AI-Yet-Business-1443132344.jpg",
+      "source": "Wired",
+      "sourceUrl": "https://www.wired.com/story/onix-substack-ai-platform-therapy-medicine-nutrition/",
+      "publishedAt": "2026-04-10T16:00:00.000Z"
+    },
     {
       "id": "7qndf9",
       "title": "What’s in a name? Moderna’s “vaccine” vs. “therapy” dilemma",
@@ -352,42 +388,6 @@
       "source": "TechCrunch",
       "sourceUrl": "https://techcrunch.com/2026/04/08/tubi-is-the-first-streamer-to-launch-a-native-app-within-chatgpt/",
       "publishedAt": "2026-04-08T18:23:06.000Z"
-    },
-    {
-      "id": "o4huu4",
-      "title": "The US Army Is Building Its Own Chatbot for Combat",
-      "summary": "The AI system, trained on real military data, is meant to give soldiers mission-critical information.",
-      "imageUrl": "https://media.wired.com/photos/69d585fca17189a9bfdc3917/master/pass/AI-Lab-Victor-Army-LLM-Business.jpg",
-      "source": "Wired",
-      "sourceUrl": "https://www.wired.com/story/army-developing-ai-system-victor-chatbot-soldiers/",
-      "publishedAt": "2026-04-08T18:00:00.000Z"
-    },
-    {
-      "id": "rhvg4l",
-      "title": "5 Burning Questions About Elon Musk’s Terafab Chip Partnership with Intel",
-      "summary": "Intel’s role in Elon Musk’s ambitious chip venture is still murky, raising questions about what the partnership actually entails—and whether it can work at all.",
-      "imageUrl": "https://media.wired.com/photos/69d58724a4ccef95d80999c9/master/pass/Five-Key-Questions-About-Elon-Terafab-Deal-with-Intel-Business.jpg",
-      "source": "Wired",
-      "sourceUrl": "https://www.wired.com/story/5-burning-questions-about-elon-musks-terafab-chip-partnership-with-intel/",
-      "publishedAt": "2026-04-08T17:13:33.000Z"
-    },
-    {
-      "id": "fp6p3f",
-      "title": "Astropad’s Workbench reimagines remote desktop for AI agents, not IT support",
-      "summary": "Astropad’s Workbench lets users remotely monitor and control AI agents on Mac Minis from iPhone or iPad, with low-latency streaming and mobile access.",
-      "imageUrl": "https://images.unsplash.com/photo-1550751827-4bd374c3f58b?w=800&q=80",
-      "source": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/04/08/astropads-workbench-reimagines-remote-desktop-for-ai-agents-not-it-support/",
-      "publishedAt": "2026-04-08T16:01:09.000Z"
-    },
-    {
-      "id": "ki57gr",
-      "title": "OpenAI releases a new safety blueprint to address the rise in child sexual exploitation",
-      "summary": "OpenAI's new Child Safety Blueprint aims to tackle the alarming rise in child sexual exploitation linked to advancements in AI.",
-      "imageUrl": "https://images.unsplash.com/photo-1635070041078-e363dbe005cb?w=800&q=80",
-      "source": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/04/08/openai-releases-a-new-safety-blueprint-to-address-the-rise-in-child-sexual-exploitation/",
-      "publishedAt": "2026-04-08T15:23:44.000Z"
     },
     {
       "id": "ipqqmp",
