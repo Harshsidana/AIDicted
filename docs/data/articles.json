@@ -1,7 +1,16 @@
 {
-  "fetchedAt": "2026-04-11T14:07:57.640Z",
+  "fetchedAt": "2026-04-11T15:57:59.504Z",
   "count": 60,
   "articles": [
+    {
+      "id": "jdy6rm",
+      "title": "Your article about AI doesn’t need AI art",
+      "summary": "The illustration for The New Yorker's profile of OpenAI CEO Sam Altman is a jump scare. Altman stands in a blue sweater with a blank expression. Around his head hovers a cluster of disembodied faces - creepy alt-Altmans, their expressions ranging from anger to open-mouthed woe. Some barely look like Altman. One final face rests in his hands. And at the bottom, there's a disclosure that might spook many illustrators far more: \"Visual by David Szauder; Generated using A.I.\" Szauder is a…",
+      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/04/268452_New_Yorker_AI_art_CVirginia3.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "source": "The Verge",
+      "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/910460/new-yorker-david-szauder-illustration-generative-ai",
+      "publishedAt": "2026-04-11T15:00:00.000Z"
+    },
     {
       "id": "ale7r",
       "title": "My baby deer plushie told me that Mitski’s dad was a CIA operative",
@@ -289,15 +298,6 @@
       "source": "Wired",
       "sourceUrl": "https://www.wired.com/story/black-forest-labs-ai-image-generation/",
       "publishedAt": "2026-04-09T18:00:00.000Z"
-    },
-    {
-      "id": "pmr90z",
-      "title": "Google’s Gemini AI can answer your questions with 3D models and simulations",
-      "summary": "Google's latest upgrade for Gemini will allow the chatbot to generate interactive 3D models and simulations in response to your questions. With the new feature, you may see options to rotate the AI-generated model, manually adjust sliders on it, or input different values to change the simulation in real time. When trying out the feature for myself, I asked Gemini to make a simulation of the Moon orbiting the Earth, and it created a 3D model with a few different ways to interact with it. Along…",
-      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/02/STK255_Google_Gemini_D.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "source": "The Verge",
-      "sourceUrl": "https://www.theverge.com/tech/909391/google-gemini-ai-3d-models-simulations",
-      "publishedAt": "2026-04-09T17:57:58.000Z"
     },
     {
       "id": "k3zv1m",
