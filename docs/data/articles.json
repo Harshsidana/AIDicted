@@ -1,7 +1,16 @@
 {
-  "fetchedAt": "2026-04-11T09:51:51.339Z",
+  "fetchedAt": "2026-04-11T10:45:09.966Z",
   "count": 60,
   "articles": [
+    {
+      "id": "eojc9l",
+      "title": "Your Push Notifications Aren’t Safe From the FBI",
+      "summary": "Plus: Iran’s internet blackout hits the 1,000-hour mark, cryptocurrency scams result in a record amount of money stolen from Americans, and more.",
+      "imageUrl": "https://media.wired.com/photos/69d99028b8bdc021bdac9df6/master/pass/Security-News-This-Week-Your-Push-Notifications-Arent-Safe-From-the-FBI-Security.jpg",
+      "source": "Wired",
+      "sourceUrl": "https://www.wired.com/story/security-news-this-week-your-push-notifications-arent-safe-from-the-fbi/",
+      "publishedAt": "2026-04-11T10:30:00.000Z"
+    },
     {
       "id": "7qdxr3",
       "title": "How the Internet Broke Everyone’s Bullshit Detectors",
@@ -352,15 +361,6 @@
       "source": "MIT Tech Review",
       "sourceUrl": "https://www.technologyreview.com/2026/04/09/1135495/desalination-technology-numbers/",
       "publishedAt": "2026-04-09T10:00:00.000Z"
-    },
-    {
-      "id": "qn7rzx",
-      "title": "This AI Wearable From Ex-Apple Engineers Looks Like an iPod Shuffle",
-      "summary": "Two former Apple Vision Pro developers made an AI wearable that only listens when you tap it. They hope to win where other AI gadgets have fumbled: privacy.",
-      "imageUrl": "https://media.wired.com/photos/69d67ff20c95e3e9dba17bfa/master/pass/gear_wearable_Book-Worm_9218.jpg",
-      "source": "Wired",
-      "sourceUrl": "https://www.wired.com/story/this-ai-button-wearable-from-ex-apple-engineers-looks-like-an-ipod-shuffle/",
-      "publishedAt": "2026-04-09T09:30:00.000Z"
     },
     {
       "id": "2zftk9",
