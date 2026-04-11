@@ -1,7 +1,16 @@
 {
-  "fetchedAt": "2026-04-11T16:51:29.652Z",
+  "fetchedAt": "2026-04-11T19:42:37.503Z",
   "count": 60,
   "articles": [
+    {
+      "id": "yajsrf",
+      "title": "Sam Altman responds to ‘incendiary’ New Yorker article after attack on his home",
+      "summary": "The OpenAI CEO's new blog post responds to both an apparent attack on his home and an in-depth New Yorker profile raising questions about his trustworthiness.",
+      "imageUrl": "https://images.unsplash.com/photo-1526374965328-7f61d4dc18c5?w=800&q=80",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/04/11/sam-altman-responds-to-incendiary-new-yorker-article-after-attack-on-his-home/",
+      "publishedAt": "2026-04-11T17:18:22.000Z"
+    },
     {
       "id": "jdy6rm",
       "title": "Your article about AI doesn’t need AI art",
@@ -379,15 +388,6 @@
       "source": "Ars Technica",
       "sourceUrl": "https://arstechnica.com/security/2026/04/iran-linked-hackers-disrupt-operations-at-us-critical-infrastructure-sites/",
       "publishedAt": "2026-04-08T20:49:11.000Z"
-    },
-    {
-      "id": "c48j0y",
-      "title": "AWS boss explains why investing billions in both Anthropic and OpenAI is an OK conflict",
-      "summary": "AWS has an ingrained culture of handling competition, he explained, because the cloud giant also competes with its partners.",
-      "imageUrl": "https://images.unsplash.com/photo-1485827404703-89b55fcc595e?w=800&q=80",
-      "source": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/04/08/aws-boss-explains-why-investing-billions-in-both-anthropic-and-openai-is-an-ok-conflict/",
-      "publishedAt": "2026-04-08T20:09:14.000Z"
     },
     {
       "id": "ipqqmp",
