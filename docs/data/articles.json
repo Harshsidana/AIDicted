@@ -1,7 +1,16 @@
 {
-  "fetchedAt": "2026-04-11T08:55:23.169Z",
+  "fetchedAt": "2026-04-11T09:51:51.339Z",
   "count": 60,
   "articles": [
+    {
+      "id": "7qdxr3",
+      "title": "How the Internet Broke Everyone’s Bullshit Detectors",
+      "summary": "From AI-generated images to restricted satellite data, the systems used to verify what’s real online are struggling to keep up.",
+      "imageUrl": "https://media.wired.com/clips/69d8f8b670354d7c78851625/master/pass/Fake_lead_1%20(1).mp4",
+      "source": "Wired",
+      "sourceUrl": "https://www.wired.com/story/how-the-internet-broke-everyones-bullshit-detectors/",
+      "publishedAt": "2026-04-11T09:30:00.000Z"
+    },
     {
       "id": "870blj",
       "title": "Anthropic temporarily banned OpenClaw’s creator from accessing Claude",
@@ -352,15 +361,6 @@
       "source": "Wired",
       "sourceUrl": "https://www.wired.com/story/this-ai-button-wearable-from-ex-apple-engineers-looks-like-an-ipod-shuffle/",
       "publishedAt": "2026-04-09T09:30:00.000Z"
-    },
-    {
-      "id": "l2ykcz",
-      "title": "Anthropic vs. the Pentagon: This Time, a US Court Has Ruled in the Government's Favor",
-      "summary": "A US appeals court ruling is at odds with a separate, lower court decision from March, leaving uncertainty about if and how the US military can use the AI company's Claude model.",
-      "imageUrl": "https://media.wired.com/photos/69cea9a12b790324f16d5a40/master/pass/Anthropic-Supply-Chain-Risk-Business.jpg",
-      "source": "Wired",
-      "sourceUrl": "https://www.wired.com/story/anthropic-appeals-court-ruling/",
-      "publishedAt": "2026-04-08T22:27:26.000Z"
     },
     {
       "id": "2zftk9",
