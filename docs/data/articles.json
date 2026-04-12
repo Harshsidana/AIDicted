@@ -1,7 +1,25 @@
 {
-  "fetchedAt": "2026-04-12T14:10:17.454Z",
+  "fetchedAt": "2026-04-12T15:07:42.718Z",
   "count": 60,
   "articles": [
+    {
+      "id": "icedmi",
+      "title": "From LLMs to hallucinations, here’s a simple guide to common AI terms",
+      "summary": "The rise of AI has brought an avalanche of new terms and slang. Here is a glossary with definitions of some of the most important words and phrases you might encounter.",
+      "imageUrl": "https://images.unsplash.com/photo-1531746790095-6c10a4031c5f?w=800&q=80",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/04/12/artificial-intelligence-definition-glossary-hallucinations-guide-to-common-ai-terms/",
+      "publishedAt": "2026-04-12T15:07:08.000Z"
+    },
+    {
+      "id": "me399x",
+      "title": "At the HumanX conference, everyone was talking about Claude",
+      "summary": "Anthropic was the star of the show at San Francisco's AI-centric conference.",
+      "imageUrl": "https://images.unsplash.com/photo-1526374965328-7f61d4dc18c5?w=800&q=80",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/04/12/at-the-humanx-conference-everyone-was-talking-about-claude/",
+      "publishedAt": "2026-04-12T15:00:00.000Z"
+    },
     {
       "id": "s9pu0b",
       "title": "The AI code wars are heating up",
@@ -327,15 +345,6 @@
       "publishedAt": "2026-04-09T14:27:57.000Z"
     },
     {
-      "id": "gc2734",
-      "title": "Final 2 days to save up to $500 on your TechCrunch Disrupt 2026 ticket",
-      "summary": "Ticket discounts of up to $500 will end tomorrow, April 10, at 11:59 p.m. PT. After that, prices for TechCrunch Disrupt 2026 go up again. Miss this, and you’ll be paying more for the same access to one of the most anticipated tech events of the year. Register now to lock in these savings.",
-      "imageUrl": "https://images.unsplash.com/photo-1676299081847-824916de030a?w=800&q=80",
-      "source": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/04/09/final-2-days-to-save-up-to-500-on-your-techcrunch-disrupt-2026-ticket/",
-      "publishedAt": "2026-04-09T14:00:00.000Z"
-    },
-    {
       "id": "gl0bw2",
       "title": "The Pro-Iran Meme Machine Trolling Trump With AI Lego Cartoons",
       "summary": "Since the beginning of the Iran war, the group Explosive Media has released over a dozen viral videos mocking Trump and the US.",
@@ -370,15 +379,6 @@
       "source": "MIT Tech Review",
       "sourceUrl": "https://www.technologyreview.com/2026/04/09/1135495/desalination-technology-numbers/",
       "publishedAt": "2026-04-09T10:00:00.000Z"
-    },
-    {
-      "id": "2zftk9",
-      "title": "Poke makes using AI agents as easy as sending a text",
-      "summary": "Poke brings AI agents to everyday users via text message by handling tasks and automations without complex setup, apps, or technical know-how.",
-      "imageUrl": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=800&q=80",
-      "source": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/04/08/poke-makes-ai-agents-as-easy-as-sending-a-text/",
-      "publishedAt": "2026-04-08T21:05:13.000Z"
     },
     {
       "id": "tek926",
