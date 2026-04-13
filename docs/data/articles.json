@@ -1,7 +1,34 @@
 {
-  "fetchedAt": "2026-04-13T12:07:06.214Z",
+  "fetchedAt": "2026-04-13T14:15:16.415Z",
   "count": 60,
   "articles": [
+    {
+      "id": "affj84",
+      "title": "Mark Zuckerberg is reportedly building an AI clone to replace him in meetings",
+      "summary": "Meta CEO Mark Zuckerberg could soon have an AI clone of himself to interact with and provide feedback to employees, according to a report from the Financial Times. Sources tell the outlet that Meta is training the AI avatar on Zuckerberg's image and voice, along with his mannerisms, tone, and public statements, \"so that employees might feel more connected to the founder through interactions with it.\" Meta may start allowing creators to make AI avatars of themselves if the experiment with…",
+      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25546252/STK169_Mark_Zuckerburg_CVIRGINIA_D.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "source": "The Verge",
+      "sourceUrl": "https://www.theverge.com/tech/910990/meta-ceo-mark-zuckerberg-ai-clone",
+      "publishedAt": "2026-04-13T13:40:03.000Z"
+    },
+    {
+      "id": "ab1mt9",
+      "title": "Want to understand the current state of AI? Check out these charts.",
+      "summary": "If you’re following AI news, you’re probably getting whiplash. AI is a gold rush. AI is a bubble. AI is taking your job. AI can’t even read a clock. The 2026 AI Index from Stanford University’s Institute for Human-Centered Artificial Intelligence, AI’s annual report card, comes out today and cuts through some of that noise. …",
+      "imageUrl": "https://images.unsplash.com/photo-1676299081847-824916de030a?w=800&q=80",
+      "source": "MIT Tech Review",
+      "sourceUrl": "https://www.technologyreview.com/2026/04/13/1135675/want-to-understand-the-current-state-of-ai-check-out-these-charts/",
+      "publishedAt": "2026-04-13T13:00:00.000Z"
+    },
+    {
+      "id": "yq9ckd",
+      "title": "The Download: how humans make decisions, and Moderna’s “vaccine” word games",
+      "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. You have no choice in reading this article—maybe How do humans make decisions? The question has been on Uri Maoz’s mind since he read an article in his early twenties suggesting…",
+      "imageUrl": "https://images.unsplash.com/photo-1635070041078-e363dbe005cb?w=800&q=80",
+      "source": "MIT Tech Review",
+      "sourceUrl": "https://www.technologyreview.com/2026/04/13/1135707/the-download-how-humans-make-decisions-and-modernas-vaccine-word-games/",
+      "publishedAt": "2026-04-13T12:10:00.000Z"
+    },
     {
       "id": "orvof7",
       "title": "The Internet's Most Powerful Archiving Tool Is in Peril",
@@ -300,15 +327,6 @@
       "publishedAt": "2026-04-10T09:30:00.000Z"
     },
     {
-      "id": "4e1iyx",
-      "title": "Microsoft starts removing Copilot buttons from Windows 11 apps",
-      "summary": "Microsoft is starting to remove \"unnecessary\" Copilot buttons from its Windows 11 apps. In the latest version of the Notepad app for Windows Insiders, Microsoft has removed the Copilot button in favor of a \"writing tools\" menu. The Copilot button in the Snipping Tool app also no longer appears when you select an area to capture. The change is part of \"reducing unnecessary Copilot entry points, starting with apps like Snipping Tool, Photos, Widgets and Notepad,\" that Microsoft promised to…",
-      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/04/copilotbutton.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "source": "The Verge",
-      "sourceUrl": "https://www.theverge.com/news/909640/microsoft-removing-copilot-windows-11-buttons",
-      "publishedAt": "2026-04-10T09:22:06.000Z"
-    },
-    {
       "id": "894rrb",
       "title": "OpenAI Backs Bill That Would Limit Liability for AI-Enabled Mass Deaths or Financial Disasters",
       "summary": "The ChatGPT-maker testified in favor of an Illinois bill that would limit when AI labs can be held liable—even in cases where their products cause “critical harm.”",
@@ -406,24 +424,6 @@
       "source": "Ars Technica",
       "sourceUrl": "https://arstechnica.com/security/2026/04/iran-linked-hackers-disrupt-operations-at-us-critical-infrastructure-sites/",
       "publishedAt": "2026-04-08T20:49:11.000Z"
-    },
-    {
-      "id": "ipqqmp",
-      "title": "Mustafa Suleyman: AI development won’t hit a wall anytime soon—here’s why",
-      "summary": "We evolved for a linear world. If you walk for an hour, you cover a certain distance. Walk for two hours and you cover double that distance. This intuition served us well on the savannah. But it catastrophically fails when confronting AI and the core exponential trends at its heart. From the time I began…",
-      "imageUrl": "https://images.unsplash.com/photo-1531746790095-6c10a4031c5f?w=800&q=80",
-      "source": "MIT Tech Review",
-      "sourceUrl": "https://www.technologyreview.com/2026/04/08/1135398/mustafa-suleyman-ai-future/",
-      "publishedAt": "2026-04-08T14:00:00.000Z"
-    },
-    {
-      "id": "epohz6",
-      "title": "The Download: water threats in Iran and AI’s impact on what entrepreneurs make",
-      "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. Desalination plants in the Middle East are increasingly vulnerable As the conflict in Iran has escalated, a crucial resource is under fire: the desalinization technology that supplies water in the region. President…",
-      "imageUrl": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=800&q=80",
-      "source": "MIT Tech Review",
-      "sourceUrl": "https://www.technologyreview.com/2026/04/08/1135405/the-download-water-threats-iran-ais-impact-on-entrepreneurs-make/",
-      "publishedAt": "2026-04-08T12:10:00.000Z"
     },
     {
       "id": "11dv1j",
