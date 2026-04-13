@@ -1,7 +1,16 @@
 {
-  "fetchedAt": "2026-04-13T10:52:42.460Z",
+  "fetchedAt": "2026-04-13T12:07:06.214Z",
   "count": 60,
   "articles": [
+    {
+      "id": "orvof7",
+      "title": "The Internet's Most Powerful Archiving Tool Is in Peril",
+      "summary": "As major news outlets cut off the Wayback Machine, journalists and advocacy groups are rallying to protect the Internet Archive’s vast collection of web pages.",
+      "imageUrl": "https://media.wired.com/photos/69d9793c27ad448072aa787f/master/pass/Internet-Archive-In-Peril-Business-1408988884.jpg",
+      "source": "Wired",
+      "sourceUrl": "https://www.wired.com/story/the-internets-most-powerful-archiving-tool-is-in-mortal-peril/",
+      "publishedAt": "2026-04-13T11:00:00.000Z"
+    },
     {
       "id": "z7ro7z",
       "title": "AI Agents Are Coming for Your Dating Life",
@@ -361,15 +370,6 @@
       "source": "TechCrunch",
       "sourceUrl": "https://techcrunch.com/2026/04/09/is-anthropic-limiting-the-release-of-mythos-to-protect-the-internet-or-anthropic/",
       "publishedAt": "2026-04-09T18:50:05.000Z"
-    },
-    {
-      "id": "fwsln",
-      "title": "The 70-Person AI Image Startup Taking on Silicon Valley's Giants",
-      "summary": "Black Forest Labs has long punched above its weight in the AI image generation space. Its next move? Powering physical AI.",
-      "imageUrl": "https://media.wired.com/photos/69d56806948761f395b6962c/master/pass/Model-Behavior-Black-Forest-Labs-Business-2193762181.jpg",
-      "source": "Wired",
-      "sourceUrl": "https://www.wired.com/story/black-forest-labs-ai-image-generation/",
-      "publishedAt": "2026-04-09T18:00:00.000Z"
     },
     {
       "id": "3oht1k",
