@@ -1,7 +1,52 @@
 {
-  "fetchedAt": "2026-04-13T14:15:16.415Z",
+  "fetchedAt": "2026-04-13T17:15:27.091Z",
   "count": 60,
   "articles": [
+    {
+      "id": "of8ki2",
+      "title": "Read OpenAI’s latest internal memo about beating the competition — including Anthropic",
+      "summary": "OpenAI released a report breaking down how people use ChatGPT and who they are. | Image: The Verge OpenAI's chief revenue officer, Denise Dresser, sent a four-page memo to employees on Sunday about the company's strategic direction, emphasizing the need to lock in users and grow its enterprise business. The memo, which was viewed by The Verge, repeatedly underlines the importance of building a moat around its AI products, to combat how easy it is for users to switch between whichever model is…",
+      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/04/STK_414_AI_CHATBOT_R2_CVirginia_B.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "source": "The Verge",
+      "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/911118/openai-memo-cro-ai-competition-anthropic",
+      "publishedAt": "2026-04-13T16:21:08.000Z"
+    },
+    {
+      "id": "exw6nq",
+      "title": "Meta Is Warned That Facial Recognition Glasses Will Arm Sexual Predators",
+      "summary": "More than 70 organizations, including the ACLU, EPIC, and Fight for the Future, say the AI smart glasses feature would endanger abuse victims, immigrants, and LGBTQ+ people.",
+      "imageUrl": "https://media.wired.com/photos/69dd120fd5415cb89341a838/master/pass/GettyImages-2265766888.jpg",
+      "source": "Wired",
+      "sourceUrl": "https://www.wired.com/story/meta-ray-ban-oakley-smart-glasses-no-face-recognition-civil-society/",
+      "publishedAt": "2026-04-13T16:01:30.000Z"
+    },
+    {
+      "id": "os6f8i",
+      "title": "Why opinion on AI is so divided",
+      "summary": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here. In an industry that doesn’t stand still, Stanford’s AI Index, an annual roundup of key results and trends, is a chance to take a breath. (It’s a marathon, not a sprint, after…",
+      "imageUrl": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=800&q=80",
+      "source": "MIT Tech Review",
+      "sourceUrl": "https://www.technologyreview.com/2026/04/13/1135720/why-opinion-on-ai-is-so-divided/",
+      "publishedAt": "2026-04-13T15:48:28.000Z"
+    },
+    {
+      "id": "fo76ou",
+      "title": "Microsoft is testing OpenClaw-like AI bots for 365 Copilot",
+      "summary": "Microsoft is looking into ways it can integrate OpenClaw-style features into 365 Copilot, according to a report from The Information. The test reportedly comes as part of efforts to make its 365 Copilot AI assistant \"run autonomously around the clock\" while completing tasks on behalf of users. Omar Shahine, Microsoft's corporate vice president, confirmed to The Information that the company is \"exploring the potential of technologies like OpenClaw in an enterprise context.\" OpenClaw is an…",
+      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/02/STKB382_OPEN_CLAW_C.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "source": "The Verge",
+      "sourceUrl": "https://www.theverge.com/tech/911080/microsoft-ai-openclaw-365-businesses",
+      "publishedAt": "2026-04-13T15:41:09.000Z"
+    },
+    {
+      "id": "o3egwa",
+      "title": "Vercel CEO Guillermo Rauch signals IPO readiness as AI agents fuel revenue surge",
+      "summary": "\"The company is ready and getting more ready for every day,\" Rauch said about an IPO at HumanX conference.",
+      "imageUrl": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=800&q=80",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/04/13/vercel-ceo-guillermo-rauch-signals-ipo-readiness-as-ai-agents-fuel-revenue-surge/",
+      "publishedAt": "2026-04-13T15:22:29.000Z"
+    },
     {
       "id": "affj84",
       "title": "Mark Zuckerberg is reportedly building an AI clone to replace him in meetings",
@@ -273,15 +318,6 @@
       "publishedAt": "2026-04-10T14:00:00.000Z"
     },
     {
-      "id": "hbaaks",
-      "title": "Fear and loathing at OpenAI",
-      "summary": "Sam Altman's tenure at OpenAI has been… messy. Messy to the point where Altman was briefly fired from his role as CEO, only to be reinstated days later, at which point he began reshaping the organization permanently. This week, The New Yorker published a deep look at Altman, his time at OpenAI, and the questions about whether he's the right person to be in charge of a technology as important and transformative as artificial intelligence. Verge subscribers, don't forget you get exclusive access…",
-      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/04/VRG_VST_0410_Site.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "source": "The Verge",
-      "sourceUrl": "https://www.theverge.com/podcast/909621/openai-sam-altman-drama-vergecast",
-      "publishedAt": "2026-04-10T12:23:18.000Z"
-    },
-    {
       "id": "vwhaxn",
       "title": "The Download: an exclusive Jeff VanderMeer story and AI models too scary to release",
       "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. Constellations —Constellations is a short story by Jeff VanderMeer, the author of the critically acclaimed, bestselling Southern Reach series. A spacecraft has crash-landed on a hostile planet. The only survivors…",
@@ -289,15 +325,6 @@
       "source": "MIT Tech Review",
       "sourceUrl": "https://www.technologyreview.com/2026/04/10/1135618/the-download-jeff-vandermeer-short-story-and-ai-models-too-danger-to-release/",
       "publishedAt": "2026-04-10T12:10:00.000Z"
-    },
-    {
-      "id": "26sob7",
-      "title": "Gen Z’s love-hate relationship with AI",
-      "summary": "Gen Z is increasingly disillusioned with AI - just not enough to stop using it. A new Gallup report released this week, based on responses from nearly 1,600 people ages 14 to 29 across the US, suggests the hype is wearing off for the digital-native generation as AI becomes more embedded in school and work. Enthusiasm is falling and resentment is growing, even as many young people feel they still need to use the technology. Gallup's poll, conducted in February and March this year, found Gen Z's…",
-      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/04/STK414_AI_CVIRGINIA_2_A.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "source": "The Verge",
-      "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/909687/gen-z-doesnt-like-ai-gallup",
-      "publishedAt": "2026-04-10T11:23:28.000Z"
     },
     {
       "id": "vypbds",
@@ -325,15 +352,6 @@
       "source": "Wired",
       "sourceUrl": "https://www.wired.com/story/metas-new-ai-asked-for-my-raw-health-data-and-gave-me-terrible-advice/",
       "publishedAt": "2026-04-10T09:30:00.000Z"
-    },
-    {
-      "id": "894rrb",
-      "title": "OpenAI Backs Bill That Would Limit Liability for AI-Enabled Mass Deaths or Financial Disasters",
-      "summary": "The ChatGPT-maker testified in favor of an Illinois bill that would limit when AI labs can be held liable—even in cases where their products cause “critical harm.”",
-      "imageUrl": "https://media.wired.com/photos/69d81fc99011397f817a1986/master/pass/OpenAI-Backs-Bill-That-Lets-AI-Labs-Dodge-Liability-for-Critical-Harms-Business-2244268254.jpg",
-      "source": "Wired",
-      "sourceUrl": "https://www.wired.com/story/openai-backs-bill-exempt-ai-firms-model-harm-lawsuits/",
-      "publishedAt": "2026-04-10T00:19:53.000Z"
     },
     {
       "id": "yuqxoa",
@@ -381,15 +399,6 @@
       "publishedAt": "2026-04-09T19:10:07.000Z"
     },
     {
-      "id": "xc45u0",
-      "title": "Is Anthropic limiting the release of Mythos to protect the internet — or Anthropic?",
-      "summary": "Anthropic said this week that it limited the release of its newest model, dubbed Mythos, because it is too capable of finding security exploits in software relied upon by users around the world. Are real cybersecurity concerns a cover for a bigger problem at the frontier lab?",
-      "imageUrl": "https://images.unsplash.com/photo-1526374965328-7f61d4dc18c5?w=800&q=80",
-      "source": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/04/09/is-anthropic-limiting-the-release-of-mythos-to-protect-the-internet-or-anthropic/",
-      "publishedAt": "2026-04-09T18:50:05.000Z"
-    },
-    {
       "id": "3oht1k",
       "title": "The Download: AstroTurf wars and exponential AI growth",
       "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. Is fake grass a bad idea? The AstroTurf wars are far from over. In 2001, Americans installed just over 7 million square meters of synthetic turf. By 2024, that number was 79 million square meters—enough to carpet all of Manhattan and then some. The…",
@@ -405,15 +414,6 @@
       "imageUrl": "https://images.unsplash.com/photo-1635070041078-e363dbe005cb?w=800&q=80",
       "source": "MIT Tech Review",
       "sourceUrl": "https://www.technologyreview.com/2026/04/09/1135092/astroturf-fake-grass-artificial-heated-debates/",
-      "publishedAt": "2026-04-09T10:00:00.000Z"
-    },
-    {
-      "id": "fsftb2",
-      "title": "Desalination technology, by the numbers",
-      "summary": "When I started digging into desalination technology for a new story, I couldn’t help but obsess over the numbers. I’d known on some level that desalination—pulling salt out of seawater to produce fresh water—was an increasingly important technology, especially in water-stressed regions including the Middle East. But just how much some countries rely on desalination,…",
-      "imageUrl": "https://images.unsplash.com/photo-1550751827-4bd374c3f58b?w=800&q=80",
-      "source": "MIT Tech Review",
-      "sourceUrl": "https://www.technologyreview.com/2026/04/09/1135495/desalination-technology-numbers/",
       "publishedAt": "2026-04-09T10:00:00.000Z"
     },
     {
