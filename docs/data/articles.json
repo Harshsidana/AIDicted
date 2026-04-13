@@ -1,7 +1,43 @@
 {
-  "fetchedAt": "2026-04-13T08:30:40.325Z",
+  "fetchedAt": "2026-04-13T10:52:42.460Z",
   "count": 60,
   "articles": [
+    {
+      "id": "z7ro7z",
+      "title": "AI Agents Are Coming for Your Dating Life",
+      "summary": "The developers of Pixel Societies are using AI agents to simulate social interactions. It's an attempt optimize the process of choosing new colleagues, friends, and even romantic partners.",
+      "imageUrl": "https://media.wired.com/photos/69cd210dfdbcdf48a7c7710a/master/pass/Business_CananAIAgentDateOnYourBehalf_2400x1350.gif",
+      "source": "Wired",
+      "sourceUrl": "https://www.wired.com/story/ai-agents-are-coming-for-your-dating-life-next/",
+      "publishedAt": "2026-04-13T10:00:00.000Z"
+    },
+    {
+      "id": "w04xww",
+      "title": "Job titles of the future: Wildlife first responder",
+      "summary": "Grizzly bears have made such a comeback across eastern Montana that in 2017, the state hired its first-ever prairie-based grizzly manager: wildlife biologist Wesley Sarmento. For some seven years, Sarmento worked to keep both the bears, which are still listed as threatened under the Endangered Species Act, and the humans, who are sprawling into once-wild…",
+      "imageUrl": "https://images.unsplash.com/photo-1655720828018-edd2daec9349?w=800&q=80",
+      "source": "MIT Tech Review",
+      "sourceUrl": "https://www.technologyreview.com/2026/04/13/1135156/job-titles-wildlife-first-responder-wesley-sarmento/",
+      "publishedAt": "2026-04-13T10:00:00.000Z"
+    },
+    {
+      "id": "4ug5nq",
+      "title": "You have no choice in reading this article—maybe",
+      "summary": "Uri Maoz loved doing his human research, back when he was getting his PhD. He was studying a very specific topic in computational neuroscience: how the brain instructs our arms to move and how our gray matter in turn perceives that motion. Then his professor asked him to deliver an undergrad lecture. Maoz assumed his…",
+      "imageUrl": "https://images.unsplash.com/photo-1635070041078-e363dbe005cb?w=800&q=80",
+      "source": "MIT Tech Review",
+      "sourceUrl": "https://www.technologyreview.com/2026/04/13/1135162/uri-maoz-does-free-will-exist/",
+      "publishedAt": "2026-04-13T10:00:00.000Z"
+    },
+    {
+      "id": "4mnrd1",
+      "title": "Sam Altman reportedly targeted in second attack",
+      "summary": "Sam Altman was seemingly targeted by a second attack on Sunday morning, with two suspects arrested following a shooting at his Russian Hill residence, The San Francisco Standard reports. The suspects were arrested and charged with negligent discharge, according to a police report on the incident, citing surveillance footage that appears to show a vehicle passenger firing a weapon at Altman's home. This follows an earlier attack on Friday, in which a 20-year-old man was arrested for allegedly…",
+      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25431700/STK201_SAM_ALTMAN_CVIRGINIA_A.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "source": "The Verge",
+      "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/910890/openai-sam-altman-second-home-attack-shooting",
+      "publishedAt": "2026-04-13T09:25:57.000Z"
+    },
     {
       "id": "rbs7bg",
       "title": "The largest orbital compute cluster is open for business",
@@ -273,15 +309,6 @@
       "publishedAt": "2026-04-10T00:19:53.000Z"
     },
     {
-      "id": "dh182y",
-      "title": "ChatGPT has a new $100 per month Pro subscription",
-      "summary": "OpenAI has announced a new version of its ChatGPT Pro subscription that costs $100 per month. The new Pro tier offers \"5x more\" usage of its Codex coding tool than the $20 per month Plus subscription and \"is best for longer, high-effort Codex sessions,\" OpenAI says. The company is introducing the new tier as it tries to win over users from Anthropic and its popular Claude Code tool. ChatGPT's $100 per month option will directly compete with Anthropic's \"Max\" tier for Claude, which costs the same…",
-      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25462046/STK155_OPEN_AI_CVirginia_2_C.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "source": "The Verge",
-      "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/909599/chatgpt-pro-subscription-new",
-      "publishedAt": "2026-04-09T22:57:15.000Z"
-    },
-    {
       "id": "yuqxoa",
       "title": "ChatGPT finally offers $100/month Pro plan",
       "summary": "OpenAI announced on Thursday something that power users have been asking for: a $100/month plan. Previously, subscriptions jumped from $20 to $200 per month.",
@@ -345,15 +372,6 @@
       "publishedAt": "2026-04-09T18:00:00.000Z"
     },
     {
-      "id": "gl0bw2",
-      "title": "The Pro-Iran Meme Machine Trolling Trump With AI Lego Cartoons",
-      "summary": "Since the beginning of the Iran war, the group Explosive Media has released over a dozen viral videos mocking Trump and the US.",
-      "imageUrl": "https://media.wired.com/photos/69d681be0aa0c0c6d4da5c6c/master/pass/GettyImages-825967636.jpg",
-      "source": "Wired",
-      "sourceUrl": "https://www.wired.com/story/inside-the-pro-iran-meme-machine-trolling-trump-with-ai-lego-cartoons/",
-      "publishedAt": "2026-04-09T13:25:21.000Z"
-    },
-    {
       "id": "3oht1k",
       "title": "The Download: AstroTurf wars and exponential AI growth",
       "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. Is fake grass a bad idea? The AstroTurf wars are far from over. In 2001, Americans installed just over 7 million square meters of synthetic turf. By 2024, that number was 79 million square meters—enough to carpet all of Manhattan and then some. The…",
@@ -415,24 +433,6 @@
       "source": "Ars Technica",
       "sourceUrl": "https://arstechnica.com/security/2026/04/russias-military-hacks-thousands-of-consumer-routers-to-steal-credentials/",
       "publishedAt": "2026-04-08T11:00:08.000Z"
-    },
-    {
-      "id": "4i3lu5",
-      "title": "Desalination plants in the Middle East are increasingly vulnerable",
-      "summary": "MIT Technology Review Explains: Let our writers untangle the complex, messy world of technology to help you understand what’s coming next. You can read more from the series here. As the conflict in Iran has escalated, a crucial resource is under fire: the desalination technology that supplies water across much of the region. In early…",
-      "imageUrl": "https://images.unsplash.com/photo-1531746790095-6c10a4031c5f?w=800&q=80",
-      "source": "MIT Tech Review",
-      "sourceUrl": "https://www.technologyreview.com/2026/04/07/1135235/desalination-technology-water/",
-      "publishedAt": "2026-04-07T14:54:06.000Z"
-    },
-    {
-      "id": "ab8iq1",
-      "title": "Enabling agent-first process redesign",
-      "summary": "Unlike static, rules-based systems, AI agents can learn, adapt, and optimize processes dynamically. As they interact with data, systems, people, and other agents in real time, AI agents can execute entire workflows autonomously. But unlocking their potential requires redesigning processes around agents rather than bolting them onto fragmented legacy workflows using traditional optimization methods. Companies…",
-      "imageUrl": "https://images.unsplash.com/photo-1635070041078-e363dbe005cb?w=800&q=80",
-      "source": "MIT Tech Review",
-      "sourceUrl": "https://www.technologyreview.com/2026/04/07/1134966/enabling-agent-first-process-redesign/",
-      "publishedAt": "2026-04-07T14:00:00.000Z"
     },
     {
       "id": "hmw5q2",
