@@ -1,7 +1,16 @@
 {
-  "fetchedAt": "2026-04-14T00:09:07.320Z",
+  "fetchedAt": "2026-04-14T03:50:51.158Z",
   "count": 60,
   "articles": [
+    {
+      "id": "6whroj",
+      "title": "OpenAI has bought AI personal finance startup Hiro",
+      "summary": "The acquisition indicates a capability that OpenAI is building into ChatGPT: financial planning.",
+      "imageUrl": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=800&q=80",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/04/13/openai-has-bought-ai-personal-finance-startup-hiro/",
+      "publishedAt": "2026-04-14T00:23:33.000Z"
+    },
     {
       "id": "cmd07c",
       "title": "Daniel Moreno-Gama is facing federal charges for attacking Sam Altman’s home and OpenAI’s HQ",
@@ -379,15 +388,6 @@
       "source": "TechCrunch",
       "sourceUrl": "https://techcrunch.com/2026/04/09/chatgpt-pro-plan-100-month-codex/",
       "publishedAt": "2026-04-09T21:29:11.000Z"
-    },
-    {
-      "id": "ntwlb",
-      "title": "Florida AG announces investigation into OpenAI over shooting that allegedly involved ChatGPT",
-      "summary": "ChatGPT had reportedly been used to plan the attack that killed two and injured five at Florida State University last April. The family of one victim has said that they plan to sue OpenAI over the incident.",
-      "imageUrl": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=800&q=80",
-      "source": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/04/09/florida-ag-investigation-openai-chatgpt-shooting/",
-      "publishedAt": "2026-04-09T20:11:55.000Z"
     },
     {
       "id": "tx7wx1",
