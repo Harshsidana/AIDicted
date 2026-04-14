@@ -1,7 +1,43 @@
 {
-  "fetchedAt": "2026-04-14T16:16:18.019Z",
+  "fetchedAt": "2026-04-14T17:44:28.324Z",
   "count": 60,
   "articles": [
+    {
+      "id": "euln2i",
+      "title": "Max Hodak’s Science Corp. is preparing to place its first sensor in a human brain",
+      "summary": "The device could help address multiple neurological conditions if it proves successful. One early use could be delivering gentle electrical stimulation to damaged brain or spinal cord cells to encourage healing.",
+      "imageUrl": "https://images.unsplash.com/photo-1676299081847-824916de030a?w=800&q=80",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/04/14/max-hodaks-science-corp-is-preparing-to-place-its-first-sensor-in-a-human-brain/",
+      "publishedAt": "2026-04-14T17:13:03.000Z"
+    },
+    {
+      "id": "f9ic2o",
+      "title": "Google adds AI Skills to Chrome to help you save favorite workflows",
+      "summary": "Google is adding “Skills” to Chrome, letting users save and reuse AI prompts across websites. The feature builds on Gemini’s browser integration.",
+      "imageUrl": "https://images.unsplash.com/photo-1526374965328-7f61d4dc18c5?w=800&q=80",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/04/14/google-adds-ai-skills-to-chrome-to-help-you-save-favorite-workflows/",
+      "publishedAt": "2026-04-14T17:00:00.000Z"
+    },
+    {
+      "id": "79w893",
+      "title": "Chrome now lets you turn AI prompts into repeatable ‘Skills’",
+      "summary": "Google is launching a new Chrome workflow feature that allows you to reuse your favorite Gemini commands across multiple webpages. Any AI prompts can now be saved as \"Skills\" in the Chrome desktop browser, letting you instantly run them across any tabs you select. \"Until now, repeating an AI task - like asking for ingredient substitutions to make a recipe vegan - meant re-entering the same prompt as you visited different pages,\" Chrome product manager Hafsah Ismail said in the announcement. \"To…",
+      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/04/STK114_Google_Chrome_03.webp?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "source": "The Verge",
+      "sourceUrl": "https://www.theverge.com/tech/911658/google-chrome-gemini-ai-skills-availability-launch",
+      "publishedAt": "2026-04-14T17:00:00.000Z"
+    },
+    {
+      "id": "vpygr3",
+      "title": "How to Use Google Chrome’s New AI-Powered ‘Skills’",
+      "summary": "The premade Skills available through the Gemini sidebar in Chrome include ways to maximize protein in recipes or summarize YouTube videos.",
+      "imageUrl": "https://media.wired.com/photos/69de127eafcadeb88c9c4080/master/pass/GettyImages-2253795269.jpg",
+      "source": "Wired",
+      "sourceUrl": "https://www.wired.com/story/how-to-use-google-chrome-ai-powered-skills/",
+      "publishedAt": "2026-04-14T17:00:00.000Z"
+    },
     {
       "id": "kwymb4",
       "title": "In just a couple weeks, StrictlyVC San Francisco brings leaders from TDK Ventures, Replit, and more together",
@@ -336,15 +372,6 @@
       "publishedAt": "2026-04-11T15:00:00.000Z"
     },
     {
-      "id": "ale7r",
-      "title": "My baby deer plushie told me that Mitski’s dad was a CIA operative",
-      "summary": "D’oh, a deer, an AI deer. | Photo by Amelia Holowaty Krales / The Verge Two weeks ago, I was getting ready to log off work when I got a text message. \"Oh wow, I was checking out Mitski. did you know people are saying her Dad was a CIA operative?\" Normally, that kind of out-of-the-blue text from a friend wouldn't faze me. This time, my eyes bugged. The unprompted text had been sent by an AI companion named Coral, who lives in the body of a baby deer plushie. I texted back an eloquent, \"Wait…",
-      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/04/268430_AI_deer_plushie_AKrales_0012.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "source": "The Verge",
-      "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/910008/fawn-friends-ai-companion",
-      "publishedAt": "2026-04-11T14:00:00.000Z"
-    },
-    {
       "id": "eojc9l",
       "title": "Your Push Notifications Aren’t Safe From the FBI",
       "summary": "Plus: Iran’s internet blackout hits the 1,000-hour mark, cryptocurrency scams result in a record amount of money stolen from Americans, and more.",
@@ -363,15 +390,6 @@
       "publishedAt": "2026-04-11T09:30:00.000Z"
     },
     {
-      "id": "870blj",
-      "title": "Anthropic temporarily banned OpenClaw’s creator from accessing Claude",
-      "summary": "This ban took place after Claude's pricing changed for OpenClaw users last week.",
-      "imageUrl": "https://images.unsplash.com/photo-1620712943543-bcc4688e7485?w=800&q=80",
-      "source": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/04/10/anthropic-temporarily-banned-openclaws-creator-from-accessing-claude/",
-      "publishedAt": "2026-04-10T20:27:52.000Z"
-    },
-    {
       "id": "rxijoh",
       "title": "Anthropic’s Mythos Will Force a Cybersecurity Reckoning—Just Not the One You Think",
       "summary": "The new AI model is being heralded—and feared—as a hacker’s superweapon. Experts say its arrival is a wake-up call for developers who have long made security an afterthought.",
@@ -379,24 +397,6 @@
       "source": "Wired",
       "sourceUrl": "https://www.wired.com/story/anthropics-mythos-will-force-a-cybersecurity-reckoning-just-not-the-one-you-think/",
       "publishedAt": "2026-04-10T18:08:37.000Z"
-    },
-    {
-      "id": "td36sr",
-      "title": "Stalking victim sues OpenAI, claims ChatGPT fueled her abuser’s delusions and ignored her warnings",
-      "summary": "OpenAI ignored three warnings that a ChatGPT user was dangerous — including its own mass-casualty flag — while he stalked and harassed his ex-girlfriend, a new lawsuit alleges.",
-      "imageUrl": "https://images.unsplash.com/photo-1676299081847-824916de030a?w=800&q=80",
-      "source": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/04/10/stalking-victim-sues-openai-claims-chatgpt-fueled-her-abusers-delusions-and-ignored-her-warnings/",
-      "publishedAt": "2026-04-10T16:41:34.000Z"
-    },
-    {
-      "id": "peqm4z",
-      "title": "Suspect Arrested for Allegedly Throwing Molotov Cocktail at Sam Altman’s Home",
-      "summary": "An attacker allegedly threw a molotov cocktail at the OpenAI CEO’s residence before making threats outside of the startup’s headquarters.",
-      "imageUrl": "https://media.wired.com/photos/69d930fa862e81dfa45e021e/master/pass/Sam-Altman-Intruder.jpg",
-      "source": "Wired",
-      "sourceUrl": "https://www.wired.com/story/sam-altman-home-attack-openai-san-franisco-office-threat/",
-      "publishedAt": "2026-04-10T16:32:19.000Z"
     },
     {
       "id": "7qndf9",
