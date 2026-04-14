@@ -1,7 +1,34 @@
 {
-  "fetchedAt": "2026-04-14T09:56:36.502Z",
+  "fetchedAt": "2026-04-14T11:12:49.691Z",
   "count": 60,
   "articles": [
+    {
+      "id": "4fvmoy",
+      "title": "Coming soon: 10 Things That Matter in AI Right Now",
+      "summary": "Each year we compile our 10 Breakthrough Technologies list, featuring our educated predictions for which technologies will have the biggest impact on how we live and work. This year, however, we had a dilemma. While our final picks encompass all our core coverage areas (energy, AI, and biotech, plus a few more), our 2026 list…",
+      "imageUrl": "https://images.unsplash.com/photo-1620712943543-bcc4688e7485?w=800&q=80",
+      "source": "MIT Tech Review",
+      "sourceUrl": "https://www.technologyreview.com/2026/04/14/1135298/coming-soon-10-things-that-matter-in-ai-right-now/",
+      "publishedAt": "2026-04-14T11:00:00.000Z"
+    },
+    {
+      "id": "wlg6fi",
+      "title": "Silicon Valley Is Spending Millions to Stop One of Its Own",
+      "summary": "Alex Bores, a former Palantir employee, helped pass one of the country’s toughest AI laws. Now Silicon Valley’s biggest names are trying to stop his rise to Congress.",
+      "imageUrl": "https://media.wired.com/photos/69dd3923d295d33b0cbbe7c1/master/pass/Big-Interview-UV-Solo-Alex-Bores-Politics-2259873774.jpg",
+      "source": "Wired",
+      "sourceUrl": "https://www.wired.com/story/the-big-interview-podcast-new-york-state-representative-alex-bores/",
+      "publishedAt": "2026-04-14T10:30:00.000Z"
+    },
+    {
+      "id": "swpf0l",
+      "title": "The problem with thinking you’re part Neanderthal",
+      "summary": "You’ve probably heard some version of this idea before: that many of us have an “inner Neanderthal.” That is to say, around 45,000 years ago, when Homo sapiens first arrived in Europe, they met members of a cousin species—the broad-browed, heavier-set Neanderthals—and, well, one thing led to another, which is why some people now carry…",
+      "imageUrl": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=800&q=80",
+      "source": "MIT Tech Review",
+      "sourceUrl": "https://www.technologyreview.com/2026/04/14/1135169/problem-thinking-part-neanderthal-human-evolution/",
+      "publishedAt": "2026-04-14T10:00:00.000Z"
+    },
     {
       "id": "6whroj",
       "title": "OpenAI has bought AI personal finance startup Hiro",
@@ -363,15 +390,6 @@
       "publishedAt": "2026-04-10T12:10:00.000Z"
     },
     {
-      "id": "vypbds",
-      "title": "AI Podcasters Really Want to Tell You How to Keep a Man Happy",
-      "summary": "Videos of fake relationship guru podcasters are reinforcing gender tropes and racking up millions of views, all the while driving sales to AI influencer schools.",
-      "imageUrl": "https://media.wired.com/photos/69d6e881e2485977e01e633f/master/pass/AI-Podcasters-Telling-You-How-to-Keep-A-Man-Culture.jpg",
-      "source": "Wired",
-      "sourceUrl": "https://www.wired.com/story/ai-podcasters-really-want-to-tell-you-how-to-keep-a-man-happy/",
-      "publishedAt": "2026-04-10T10:30:00.000Z"
-    },
-    {
       "id": "fyw7n3",
       "title": "Constellations",
       "summary": "I. We had crash-landed on the planet. We were far from home. The spaceship could not be repaired, and the rescue beacon had failed. Besides me, only the astrogator, part of the captain, and the ship’s AI mind were left. Outside, the atmosphere registered as hostile to most organisms. We huddled in the lifeboat, which…",
@@ -397,24 +415,6 @@
       "source": "Ars Technica",
       "sourceUrl": "https://arstechnica.com/information-technology/2026/04/nutanix-claims-it-has-poached-30000-vmware-customers/",
       "publishedAt": "2026-04-09T19:44:31.000Z"
-    },
-    {
-      "id": "3oht1k",
-      "title": "The Download: AstroTurf wars and exponential AI growth",
-      "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. Is fake grass a bad idea? The AstroTurf wars are far from over. In 2001, Americans installed just over 7 million square meters of synthetic turf. By 2024, that number was 79 million square meters—enough to carpet all of Manhattan and then some. The…",
-      "imageUrl": "https://images.unsplash.com/photo-1655720828018-edd2daec9349?w=800&q=80",
-      "source": "MIT Tech Review",
-      "sourceUrl": "https://www.technologyreview.com/2026/04/09/1135514/the-download-astroturf-wars-exponential-ai-growth-desalination-numbers/",
-      "publishedAt": "2026-04-09T12:25:10.000Z"
-    },
-    {
-      "id": "7v3hxq",
-      "title": "Is fake grass a bad idea? The AstroTurf wars are far from over.",
-      "summary": "A rare warm spell in January melted enough snow to uncover Cornell University’s newest athletic field, built for field hockey. Months before, it was a meadow teeming with birds and bugs; now it’s more than an acre of synthetic turf roughly the color of the felt on a pool table, almost digital in its saturation.…",
-      "imageUrl": "https://images.unsplash.com/photo-1635070041078-e363dbe005cb?w=800&q=80",
-      "source": "MIT Tech Review",
-      "sourceUrl": "https://www.technologyreview.com/2026/04/09/1135092/astroturf-fake-grass-artificial-heated-debates/",
-      "publishedAt": "2026-04-09T10:00:00.000Z"
     },
     {
       "id": "tek926",
