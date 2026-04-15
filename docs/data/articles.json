@@ -1,7 +1,79 @@
 {
-  "fetchedAt": "2026-04-15T15:49:22.308Z",
+  "fetchedAt": "2026-04-15T18:43:03.999Z",
   "count": 60,
   "articles": [
+    {
+      "id": "ypxus6",
+      "title": "AI learning app Gizmo levels up with 13M users and a $22M investment",
+      "summary": "Gizmo, an AI-powered learning platform, has attracted more than 13 million users and just secured $22 million in Series A funding.",
+      "imageUrl": "https://images.unsplash.com/photo-1635070041078-e363dbe005cb?w=800&q=80",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/04/15/ai-learning-app-gizmo-levels-up-with-13m-users-and-a-22m-investment/",
+      "publishedAt": "2026-04-15T18:38:10.000Z"
+    },
+    {
+      "id": "pzrrlf",
+      "title": "Can AI judge journalism? A Thiel-backed startup says yes, even if it risks chilling whistleblowers",
+      "summary": "Objection, a Thiel-backed startup, aims to use AI to judge journalism, letting users pay to challenge stories. Critics warn it could chill whistleblowers and reshape how media accountability works.",
+      "imageUrl": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=800&q=80",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/04/15/can-ai-judge-journalism-a-thiel-backed-startup-says-yes-even-if-it-risks-chilling-whistleblowers/",
+      "publishedAt": "2026-04-15T18:33:20.000Z"
+    },
+    {
+      "id": "mvmdow",
+      "title": "Google rolls out a native Gemini app for Mac",
+      "summary": "You can share anything on their screen with Gemini to get help with what they're looking at in the moment, including local files.",
+      "imageUrl": "https://images.unsplash.com/photo-1485827404703-89b55fcc595e?w=800&q=80",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/04/15/google-rolls-out-a-native-gemini-app-for-mac/",
+      "publishedAt": "2026-04-15T18:22:13.000Z"
+    },
+    {
+      "id": "34tf85",
+      "title": "Google launches a Gemini AI app on Mac",
+      "summary": "Google is launching a new Gemini app on Mac that allows you to interact with the AI assistant without switching windows on your desktop. With the app, you can use the Option + Space shortcut to pull up a floating chat bubble, where you can ask Gemini questions and share your window. Before sharing your window, you'll need to give Gemini permission to access your system's information before sharing your window. From there, the AI assistant will pull information from what you're looking at to help…",
+      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/04/Gemini-for-MacOS_03_Capsule-Image_16x9.png?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "source": "The Verge",
+      "sourceUrl": "https://www.theverge.com/tech/912638/google-gemini-mac-app",
+      "publishedAt": "2026-04-15T18:10:15.000Z"
+    },
+    {
+      "id": "mejp0b",
+      "title": "AI Could Democratize One of Tech's Most Valuable Resources",
+      "summary": "AI is making it easier to design chips and optimize software for different silicon. Some startups envision a revolution in chipmaking.",
+      "imageUrl": "https://media.wired.com/photos/69dea084bbe4a9ff56b3014b/master/pass/AL-Lab-AI-Could-Democratize-One-of-Techs-Most-Valuable-Resources-Business.jpg",
+      "source": "Wired",
+      "sourceUrl": "https://www.wired.com/story/ai-could-democratize-one-of-techs-most-valuable-resources/",
+      "publishedAt": "2026-04-15T18:00:00.000Z"
+    },
+    {
+      "id": "7dnh8g",
+      "title": "The musician-turned-biotech-founder waiting to fundraise",
+      "summary": "When Grammy-nominated singer-songwriter Aloe Blacc got COVID despite being vaccinated and boosted, he tried to fund research for a better solution. What he quickly found out? You can’t just write a check in biotech. Regulators require a commercialization plan, and philanthropy doesn’t move science through clinical trials or get you a license on university IP. Now, he’s bootstrapping a cancer drug platform targeting pancreatic cancer, a disease that […]",
+      "imageUrl": "https://images.unsplash.com/photo-1655720828018-edd2daec9349?w=800&q=80",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/podcast/the-musician-turned-biotech-founder-waiting-to-fundraise/",
+      "publishedAt": "2026-04-15T17:58:28.000Z"
+    },
+    {
+      "id": "um47jx",
+      "title": "India’s vibe-coding startup Emergent enters OpenClaw-like AI agent space",
+      "summary": "Emergent's Wingman lets users manage and automate tasks through chat on platforms like WhatsApp and Telegram.",
+      "imageUrl": "https://images.unsplash.com/photo-1620712943543-bcc4688e7485?w=800&q=80",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/04/15/indias-vibe-coding-startup-emergent-enters-openclaw-like-ai-agent-space/",
+      "publishedAt": "2026-04-15T17:24:18.000Z"
+    },
+    {
+      "id": "asjmfz",
+      "title": "Allbirds announced a switch from shoes to AI and its stock jumped 600 percent",
+      "summary": "Allbirds had a hit a decade ago with its Wool Runner shoes, but after a $4 billion IPO in 2021, the business never turned a profit, and sales dropped nearly 50 percent between 2022 and 2025. The company recently announced it would sell off its name and assets for $39 million to American Exchange after closing the remaining stores. That shell listing, however, still has some use as the Financial Times points out, and now CEO Joe Vernachio has announced a plan to raise $50 million from an unnamed…",
+      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/04/gettyimages-1253153052.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "source": "The Verge",
+      "sourceUrl": "https://www.theverge.com/news/912484/allbirds-ai-hyperscale",
+      "publishedAt": "2026-04-15T16:13:30.000Z"
+    },
     {
       "id": "m1g64c",
       "title": "Allbirds Is Pivoting to AI Compute. Sure, Why Not",
@@ -219,24 +291,6 @@
       "publishedAt": "2026-04-14T15:21:44.000Z"
     },
     {
-      "id": "8ncltf",
-      "title": "Google brings its Gemini Personal Intelligence feature to India",
-      "summary": "The feature lets users connect Google accounts like Gmail and Photos to get personalized answers.",
-      "imageUrl": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=800&q=80",
-      "source": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/04/14/google-brings-its-gemini-personal-intelligence-feature-to-india/",
-      "publishedAt": "2026-04-14T14:48:34.000Z"
-    },
-    {
-      "id": "gns7sg",
-      "title": "How vibe-coding app Anything is rebuilding after getting booted from the App Store twice",
-      "summary": "Anything is planning to launch a desktop companion app to aid mobile app development after its App Store removal.",
-      "imageUrl": "https://images.unsplash.com/photo-1550751827-4bd374c3f58b?w=800&q=80",
-      "source": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/04/14/how-vibe-coding-app-anything-is-rebuilding-after-getting-booted-from-the-app-store-twice/",
-      "publishedAt": "2026-04-14T14:22:44.000Z"
-    },
-    {
       "id": "fsakkm",
       "title": "Has Google’s AI watermarking system been reverse-engineered?",
       "summary": "A software developer claims to have reverse-engineered Google DeepMind's SynthID system, showing how AI watermarks can be stripped from generated images or manually inserted into other works. A claim that, according to Google, isn't true. The developer, going by the username Aloshdenny, has open-sourced their work on GitHub and documented his process, claiming all it required was 200 Gemini-generated images, signal processing, and \"way too much free time.\" A little weed also seemed to help. \"No…",
@@ -291,15 +345,6 @@
       "publishedAt": "2026-04-14T10:00:00.000Z"
     },
     {
-      "id": "6whroj",
-      "title": "OpenAI has bought AI personal finance startup Hiro",
-      "summary": "The acquisition indicates a capability that OpenAI is building into ChatGPT: financial planning.",
-      "imageUrl": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=800&q=80",
-      "source": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/04/13/openai-has-bought-ai-personal-finance-startup-hiro/",
-      "publishedAt": "2026-04-14T00:23:33.000Z"
-    },
-    {
       "id": "cmd07c",
       "title": "Daniel Moreno-Gama is facing federal charges for attacking Sam Altman’s home and OpenAI’s HQ",
       "summary": "Daniel Moreno-Gama is now facing federal charges after allegedly traveling from Texas to California with the intent to kill OpenAI CEO Sam Altman. On April 10th, he was arrested after throwing a Molotov cocktail at OpenAI CEO Sam Altman's home and attempting to break into OpenAI's headquarters. According to prosecutors, at the HQ, \"Moreno-Gama attempted to break the glass doors of the building with a chair and stated that he had come to burn down the location and kill anyone inside.\" His charges…",
@@ -325,24 +370,6 @@
       "source": "The Verge",
       "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/911267/ai-influencers-coachella",
       "publishedAt": "2026-04-13T19:53:46.000Z"
-    },
-    {
-      "id": "mm00px",
-      "title": "Microsoft is working on yet another OpenClaw-like agent",
-      "summary": "The new features would be geared toward enterprise customers, with better security controls than the famously risky open source OpenClaw agent.",
-      "imageUrl": "https://images.unsplash.com/photo-1620712943543-bcc4688e7485?w=800&q=80",
-      "source": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/04/13/microsoft-is-working-on-yet-another-openclaw-like-agent/",
-      "publishedAt": "2026-04-13T19:05:19.000Z"
-    },
-    {
-      "id": "84ddhw",
-      "title": "Stanford report highlights growing disconnect between AI insiders and everyone else",
-      "summary": "Stanford’s latest AI Index shows a widening gap between experts and the public, with rising anxiety over jobs, healthcare, and the economy.",
-      "imageUrl": "https://images.unsplash.com/photo-1485827404703-89b55fcc595e?w=800&q=80",
-      "source": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/04/13/stanford-report-highlights-growing-disconnect-between-ai-insiders-and-everyone-else/",
-      "publishedAt": "2026-04-13T18:55:37.000Z"
     },
     {
       "id": "of8ki2",
@@ -372,24 +399,6 @@
       "publishedAt": "2026-04-13T15:48:28.000Z"
     },
     {
-      "id": "mz6p84",
-      "title": "Microsoft is testing OpenClaw-like AI bots for Copilot",
-      "summary": "Microsoft is looking into ways it can integrate OpenClaw-style features into its Copilot AI assistant, according to a report from The Information. The test reportedly comes as part of efforts to make Microsoft 365 Copilot \"run autonomously around the clock\" while completing tasks on behalf of users. Omar Shahine, Microsoft's corporate vice president, confirmed to The Information that the company is \"exploring the potential of technologies like OpenClaw in an enterprise context.\" OpenClaw is an…",
-      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/02/STKB382_OPEN_CLAW_C.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "source": "The Verge",
-      "sourceUrl": "https://www.theverge.com/tech/911080/microsoft-ai-openclaw-365-businesses",
-      "publishedAt": "2026-04-13T15:41:09.000Z"
-    },
-    {
-      "id": "affj84",
-      "title": "Mark Zuckerberg is reportedly building an AI clone to replace him in meetings",
-      "summary": "Meta CEO Mark Zuckerberg could soon have an AI clone of himself to interact with and provide feedback to employees, according to a report from the Financial Times. Sources tell the outlet that Meta is training the AI avatar on Zuckerberg's image and voice, along with his mannerisms, tone, and public statements, \"so that employees might feel more connected to the founder through interactions with it.\" Meta may start allowing creators to make AI avatars of themselves if the experiment with…",
-      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25546252/STK169_Mark_Zuckerburg_CVIRGINIA_D.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "source": "The Verge",
-      "sourceUrl": "https://www.theverge.com/tech/910990/meta-ceo-mark-zuckerberg-ai-clone",
-      "publishedAt": "2026-04-13T13:40:03.000Z"
-    },
-    {
       "id": "orvof7",
       "title": "The Internet's Most Powerful Archiving Tool Is in Peril",
       "summary": "As major news outlets cut off the Wayback Machine, journalists and advocacy groups are rallying to protect the Internet Archive’s vast collection of web pages.",
@@ -397,15 +406,6 @@
       "source": "Wired",
       "sourceUrl": "https://www.wired.com/story/the-internets-most-powerful-archiving-tool-is-in-mortal-peril/",
       "publishedAt": "2026-04-13T11:00:00.000Z"
-    },
-    {
-      "id": "z7ro7z",
-      "title": "AI Agents Are Coming for Your Dating Life",
-      "summary": "The developers of Pixel Societies are using AI agents to simulate social interactions. It's an attempt optimize the process of choosing new colleagues, friends, and even romantic partners.",
-      "imageUrl": "https://media.wired.com/photos/69cd210dfdbcdf48a7c7710a/master/pass/Business_CananAIAgentDateOnYourBehalf_2400x1350.gif",
-      "source": "Wired",
-      "sourceUrl": "https://www.wired.com/story/ai-agents-are-coming-for-your-dating-life-next/",
-      "publishedAt": "2026-04-13T10:00:00.000Z"
     },
     {
       "id": "tx7wx1",
