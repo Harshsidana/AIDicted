@@ -1,7 +1,25 @@
 {
-  "fetchedAt": "2026-04-15T14:12:06.324Z",
+  "fetchedAt": "2026-04-15T15:49:22.308Z",
   "count": 60,
   "articles": [
+    {
+      "id": "m1g64c",
+      "title": "Allbirds Is Pivoting to AI Compute. Sure, Why Not",
+      "summary": "Once a $4 billion apparel juggernaut, Allbirds will rebrand as NewBird AI, a “GPU-as-a-Service” company. Hey, if you can't beat ’em, join ’em.",
+      "imageUrl": "https://media.wired.com/photos/69df97b621acbf548f6fdef0/master/pass/GettyImages-1134284112.jpg",
+      "source": "Wired",
+      "sourceUrl": "https://www.wired.com/story/allbirds-is-pivoting-to-ai-compute-sure-why-not/",
+      "publishedAt": "2026-04-15T14:58:08.000Z"
+    },
+    {
+      "id": "pzge6f",
+      "title": "After sale of its shoe business, Allbirds pivots to AI",
+      "summary": "Allbirds is ditching wool sneakers for AI servers, rebranding as NewBird AI after locking in a $50M convertible financing facility.",
+      "imageUrl": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=800&q=80",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/04/15/after-sale-of-its-shoe-business-allbirds-pivots-to-ai/",
+      "publishedAt": "2026-04-15T14:24:31.000Z"
+    },
     {
       "id": "cfwljm",
       "title": "Reid Hoffman weighs in on the ‘tokenmaxxing’ debate",
@@ -363,15 +381,6 @@
       "publishedAt": "2026-04-13T15:41:09.000Z"
     },
     {
-      "id": "o3egwa",
-      "title": "Vercel CEO Guillermo Rauch signals IPO readiness as AI agents fuel revenue surge",
-      "summary": "While many startups founded prior to the emergence of ChatGPT are struggling to position themselves for the AI era, Vercel, a 10-year-old dev tool and website hosting platform, is benefiting from the explosion of AI-generated apps and agents.",
-      "imageUrl": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=800&q=80",
-      "source": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/04/13/vercel-ceo-guillermo-rauch-signals-ipo-readiness-as-ai-agents-fuel-revenue-surge/",
-      "publishedAt": "2026-04-13T15:22:29.000Z"
-    },
-    {
       "id": "affj84",
       "title": "Mark Zuckerberg is reportedly building an AI clone to replace him in meetings",
       "summary": "Meta CEO Mark Zuckerberg could soon have an AI clone of himself to interact with and provide feedback to employees, according to a report from the Financial Times. Sources tell the outlet that Meta is training the AI avatar on Zuckerberg's image and voice, along with his mannerisms, tone, and public statements, \"so that employees might feel more connected to the founder through interactions with it.\" Meta may start allowing creators to make AI avatars of themselves if the experiment with…",
@@ -397,15 +406,6 @@
       "source": "Wired",
       "sourceUrl": "https://www.wired.com/story/ai-agents-are-coming-for-your-dating-life-next/",
       "publishedAt": "2026-04-13T10:00:00.000Z"
-    },
-    {
-      "id": "eojc9l",
-      "title": "Your Push Notifications Aren’t Safe From the FBI",
-      "summary": "Plus: Iran’s internet blackout hits the 1,000-hour mark, cryptocurrency scams result in a record amount of money stolen from Americans, and more.",
-      "imageUrl": "https://media.wired.com/photos/69d99028b8bdc021bdac9df6/master/pass/Security-News-This-Week-Your-Push-Notifications-Arent-Safe-From-the-FBI-Security.jpg",
-      "source": "Wired",
-      "sourceUrl": "https://www.wired.com/story/security-news-this-week-your-push-notifications-arent-safe-from-the-fbi/",
-      "publishedAt": "2026-04-11T10:30:00.000Z"
     },
     {
       "id": "tx7wx1",
