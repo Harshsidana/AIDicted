@@ -1,7 +1,16 @@
 {
-  "fetchedAt": "2026-04-15T05:38:12.016Z",
+  "fetchedAt": "2026-04-15T09:45:51.478Z",
   "count": 60,
   "articles": [
+    {
+      "id": "r5u2m5",
+      "title": "Building trust in the AI era with privacy-led UX",
+      "summary": "The practice of privacy-led user experience (UX) is a design philosophy that treats transparency around data collection and usage as an integral part of the customer relationship. An undertapped opportunity in digital marketing, privacy-led UX treats user consent not as a tick-box compliance exercise, but rather as the first overture in an ongoing customer relationship.…",
+      "imageUrl": "https://images.unsplash.com/photo-1531746790095-6c10a4031c5f?w=800&q=80",
+      "source": "MIT Tech Review",
+      "sourceUrl": "https://www.technologyreview.com/2026/04/15/1135530/building-trust-in-the-ai-era-with-privacy-led-ux/",
+      "publishedAt": "2026-04-15T06:00:00.000Z"
+    },
     {
       "id": "t16zn8",
       "title": "Anthropic’s rise is giving some OpenAI investors second thoughts",
@@ -315,15 +324,6 @@
       "imageUrl": "https://images.unsplash.com/photo-1655720828018-edd2daec9349?w=800&q=80",
       "source": "MIT Tech Review",
       "sourceUrl": "https://www.technologyreview.com/2026/04/13/1135156/job-titles-wildlife-first-responder-wesley-sarmento/",
-      "publishedAt": "2026-04-13T10:00:00.000Z"
-    },
-    {
-      "id": "4ug5nq",
-      "title": "You have no choice in reading this article—maybe",
-      "summary": "Uri Maoz loved doing his human research, back when he was getting his PhD. He was studying a very specific topic in computational neuroscience: how the brain instructs our arms to move and how our gray matter in turn perceives that motion. Then his professor asked him to deliver an undergrad lecture. Maoz assumed his…",
-      "imageUrl": "https://images.unsplash.com/photo-1635070041078-e363dbe005cb?w=800&q=80",
-      "source": "MIT Tech Review",
-      "sourceUrl": "https://www.technologyreview.com/2026/04/13/1135162/uri-maoz-does-free-will-exist/",
       "publishedAt": "2026-04-13T10:00:00.000Z"
     },
     {
