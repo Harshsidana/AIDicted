@@ -1,7 +1,52 @@
 {
-  "fetchedAt": "2026-04-15T09:45:51.478Z",
+  "fetchedAt": "2026-04-15T12:12:17.928Z",
   "count": 60,
   "articles": [
+    {
+      "id": "84wmxn",
+      "title": "Cyberscammers are bypassing banks’ security with illicit tools sold on Telegram",
+      "summary": "From inside a money-laundering center in Cambodia, an employee opens a popular Vietnamese banking app on his phone. The app asks him to upload a photo associated with the account, so he clicks on a picture of a 30-something Asian man. Next, the app requests to open the camera for a video “liveness” check. The…",
+      "imageUrl": "https://images.unsplash.com/photo-1550751827-4bd374c3f58b?w=800&q=80",
+      "source": "MIT Tech Review",
+      "sourceUrl": "https://www.technologyreview.com/2026/04/15/1135898/cyberscammers-bypassing-bank-telegram/",
+      "publishedAt": "2026-04-15T11:26:12.000Z"
+    },
+    {
+      "id": "pj09us",
+      "title": "AI Slop Is Making the Internet Fake-Happy",
+      "summary": "A new study examines the impact of the rise of AI-generated websites on the internet—and found some surprising results.",
+      "imageUrl": "https://media.wired.com/photos/69de82bee716e7137086c443/master/pass/Business_Upto35PercentoftheInternetIsAISlop.jpg",
+      "source": "Wired",
+      "sourceUrl": "https://www.wired.com/story/ai-slop-is-changing-the-internet-just-not-how-you-might-think/",
+      "publishedAt": "2026-04-15T11:00:00.000Z"
+    },
+    {
+      "id": "1sh73h",
+      "title": "Grok’s sexual deepfakes almost got it banned from Apple’s App Store. Almost.",
+      "summary": "Apple quietly threatened to kick Elon Musk's AI app, Grok, from its App Store in January over its failure to curb the surge of nonconsensual sexual deepfakes flooding X, according to NBC News. It was a muted show of force from one of tech's most powerful gatekeepers, made behind closed doors even as the undressing crisis unfolded in full public view and criticism over Apple's cowardice mounted. In a letter obtained by NBC News, Apple told US senators it \"contacted the teams behind both X and…",
+      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/04/STK468_APPLE_ANTITRUST_CVIRGINIA_G.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "source": "The Verge",
+      "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/912297/apple-app-store-ban-grok-x-deepfakes",
+      "publishedAt": "2026-04-15T10:55:22.000Z"
+    },
+    {
+      "id": "55uhy5",
+      "title": "The Deepfake Nudes Crisis in Schools Is Much Worse Than You Thought",
+      "summary": "An analysis by WIRED and Indicator found nearly 90 schools and 600 students around the world impacted by AI-generated deepfake nude images—and the problem shows no signs of going away.",
+      "imageUrl": "https://media.wired.com/photos/69deb8f5fa20dbfacc2b0a3c/master/pass/041426-deepfake-crisis-schools.jpg",
+      "source": "Wired",
+      "sourceUrl": "https://www.wired.com/story/deepfake-nudify-schools-global-crisis/",
+      "publishedAt": "2026-04-15T10:00:00.000Z"
+    },
+    {
+      "id": "4iko7z",
+      "title": "No one’s sure if synthetic mirror life will kill us all",
+      "summary": "For four days in February 2019, some 30 synthetic biologists and ethicists hunkered down at a conference center in Northern Virginia to brainstorm high-risk, cutting-­edge, irresistibly exciting ideas that the National Science Foundation should fund. By the end of the meeting, they’d landed on a compelling contender: making “mirror” bacteria. Should they come to be,…",
+      "imageUrl": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=800&q=80",
+      "source": "MIT Tech Review",
+      "sourceUrl": "https://www.technologyreview.com/2026/04/15/1135197/synthetic-mirror-life-microbes-kill-us-all/",
+      "publishedAt": "2026-04-15T09:00:00.000Z"
+    },
     {
       "id": "r5u2m5",
       "title": "Building trust in the AI era with privacy-led UX",
@@ -291,15 +336,6 @@
       "publishedAt": "2026-04-13T13:00:00.000Z"
     },
     {
-      "id": "yq9ckd",
-      "title": "The Download: how humans make decisions, and Moderna’s “vaccine” word games",
-      "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. You have no choice in reading this article—maybe How do humans make decisions? The question has been on Uri Maoz’s mind since he read an article in his early twenties suggesting…",
-      "imageUrl": "https://images.unsplash.com/photo-1635070041078-e363dbe005cb?w=800&q=80",
-      "source": "MIT Tech Review",
-      "sourceUrl": "https://www.technologyreview.com/2026/04/13/1135707/the-download-how-humans-make-decisions-and-modernas-vaccine-word-games/",
-      "publishedAt": "2026-04-13T12:10:00.000Z"
-    },
-    {
       "id": "orvof7",
       "title": "The Internet's Most Powerful Archiving Tool Is in Peril",
       "summary": "As major news outlets cut off the Wayback Machine, journalists and advocacy groups are rallying to protect the Internet Archive’s vast collection of web pages.",
@@ -315,15 +351,6 @@
       "imageUrl": "https://media.wired.com/photos/69cd210dfdbcdf48a7c7710a/master/pass/Business_CananAIAgentDateOnYourBehalf_2400x1350.gif",
       "source": "Wired",
       "sourceUrl": "https://www.wired.com/story/ai-agents-are-coming-for-your-dating-life-next/",
-      "publishedAt": "2026-04-13T10:00:00.000Z"
-    },
-    {
-      "id": "w04xww",
-      "title": "Job titles of the future: Wildlife first responder",
-      "summary": "Grizzly bears have made such a comeback across eastern Montana that in 2017, the state hired its first-ever prairie-based grizzly manager: wildlife biologist Wesley Sarmento. For some seven years, Sarmento worked to keep both the bears, which are still listed as threatened under the Endangered Species Act, and the humans, who are sprawling into once-wild…",
-      "imageUrl": "https://images.unsplash.com/photo-1655720828018-edd2daec9349?w=800&q=80",
-      "source": "MIT Tech Review",
-      "sourceUrl": "https://www.technologyreview.com/2026/04/13/1135156/job-titles-wildlife-first-responder-wesley-sarmento/",
       "publishedAt": "2026-04-13T10:00:00.000Z"
     },
     {
@@ -372,15 +399,6 @@
       "publishedAt": "2026-04-12T15:07:08.000Z"
     },
     {
-      "id": "s9pu0b",
-      "title": "The AI code wars are heating up",
-      "summary": "This is The Stepback, a weekly newsletter breaking down one essential story from the tech world. For more on the AI coding and vibe-coding booms, follow David Pierce. The Stepback arrives in our subscribers' inboxes at 8AM ET. Opt in for The Stepback here. How it started Writing code was a killer app for AI even before anyone was really talking about AI. In the spring of 2021, 18 months before the world knew the word \"ChatGPT,\" Microsoft debuted the very first product of a partnership with a…",
-      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/04/268441_AI_CODING_RACE_CVIRGINIA.gif?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "source": "The Verge",
-      "sourceUrl": "https://www.theverge.com/column/910019/ai-coding-wars-openai-google-anthropic",
-      "publishedAt": "2026-04-12T12:00:00.000Z"
-    },
-    {
       "id": "eojc9l",
       "title": "Your Push Notifications Aren’t Safe From the FBI",
       "summary": "Plus: Iran’s internet blackout hits the 1,000-hour mark, cryptocurrency scams result in a record amount of money stolen from Americans, and more.",
@@ -388,24 +406,6 @@
       "source": "Wired",
       "sourceUrl": "https://www.wired.com/story/security-news-this-week-your-push-notifications-arent-safe-from-the-fbi/",
       "publishedAt": "2026-04-11T10:30:00.000Z"
-    },
-    {
-      "id": "7qdxr3",
-      "title": "How the Internet Broke Everyone’s Bullshit Detectors",
-      "summary": "From AI-generated images to restricted satellite data, the systems used to verify what’s real online are struggling to keep up.",
-      "imageUrl": "https://media.wired.com/clips/69d8f8b670354d7c78851625/master/pass/Fake_lead_1%20(1).mp4",
-      "source": "Wired",
-      "sourceUrl": "https://www.wired.com/story/how-the-internet-broke-everyones-bullshit-detectors/",
-      "publishedAt": "2026-04-11T09:30:00.000Z"
-    },
-    {
-      "id": "rxijoh",
-      "title": "Anthropic’s Mythos Will Force a Cybersecurity Reckoning—Just Not the One You Think",
-      "summary": "The new AI model is being heralded—and feared—as a hacker’s superweapon. Experts say its arrival is a wake-up call for developers who have long made security an afterthought.",
-      "imageUrl": "https://media.wired.com/photos/69d81392ce1f65d162ddb2f0/master/pass/Security_Anthropic_Getty.jpg",
-      "source": "Wired",
-      "sourceUrl": "https://www.wired.com/story/anthropics-mythos-will-force-a-cybersecurity-reckoning-just-not-the-one-you-think/",
-      "publishedAt": "2026-04-10T18:08:37.000Z"
     },
     {
       "id": "tx7wx1",
