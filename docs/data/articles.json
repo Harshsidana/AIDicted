@@ -1,7 +1,43 @@
 {
-  "fetchedAt": "2026-04-16T08:15:05.254Z",
+  "fetchedAt": "2026-04-16T11:15:37.579Z",
   "count": 60,
   "articles": [
+    {
+      "id": "kwyf6p",
+      "title": "This Beanie Is Designed to Read Your Thoughts",
+      "summary": "California-based startup Sabi is developing a thought-to-text wearable that could usher in the cyborg future.",
+      "imageUrl": "https://media.wired.com/photos/69df9cc95ba8ba60af0b1ac8/master/pass/Sabi-3.jpeg",
+      "source": "Wired",
+      "sourceUrl": "https://www.wired.com/story/this-beanie-is-designed-to-read-your-thoughts/",
+      "publishedAt": "2026-04-16T11:00:00.000Z"
+    },
+    {
+      "id": "5aj0pj",
+      "title": "The noise we make is hurting animals. Can we learn to shut up?",
+      "summary": "When the covid-19 pandemic started, Jennifer Phillips thought about the songs of the sparrows. They were easier to hear, because the world had suddenly become quieter. Car traffic plummeted as people sheltered at home and shifted to remote work. Air travel collapsed. Cities—normally filled with the honking, screeching, engine-gunning riot of transportation—became as silent as…",
+      "imageUrl": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=800&q=80",
+      "source": "MIT Tech Review",
+      "sourceUrl": "https://www.technologyreview.com/2026/04/16/1135179/anthropogenic-noise-hurting-animals/",
+      "publishedAt": "2026-04-16T10:00:00.000Z"
+    },
+    {
+      "id": "cbgdib",
+      "title": "The quest to measure our relationship with nature",
+      "summary": "As a movement, environmentalism has been pretty misanthropic. Understandably so—we humans have done some destructive things to the ecosystems around us. In the 21st century, though, mainstream conservation is learning that humans can be a force for good. Foresters are turning to Indigenous burning practices to prevent wildfires. Biologists are realizing that flower-dotted meadows were…",
+      "imageUrl": "https://images.unsplash.com/photo-1531746790095-6c10a4031c5f?w=800&q=80",
+      "source": "MIT Tech Review",
+      "sourceUrl": "https://www.technologyreview.com/2026/04/16/1135245/measure-relationship-with-nature-index/",
+      "publishedAt": "2026-04-16T10:00:00.000Z"
+    },
+    {
+      "id": "uc0s10",
+      "title": "Is carbon removal in trouble?",
+      "summary": "Last week, news outlets reported that Microsoft was pausing carbon removal purchases. It was something of a bombshell. The thing is, Microsoft is the carbon removal market. The company has single-handedly purchased something like 80% of all contracted carbon removal. If you’re looking for someone to pay you to suck carbon dioxide out of the…",
+      "imageUrl": "https://images.unsplash.com/photo-1635070041078-e363dbe005cb?w=800&q=80",
+      "source": "MIT Tech Review",
+      "sourceUrl": "https://www.technologyreview.com/2026/04/16/1135928/carbon-removal-microsoft/",
+      "publishedAt": "2026-04-16T10:00:00.000Z"
+    },
     {
       "id": "qdbfit",
       "title": "DeepL, known for text translation, now wants to translate your voice",
@@ -327,15 +363,6 @@
       "publishedAt": "2026-04-14T12:04:47.000Z"
     },
     {
-      "id": "4fvmoy",
-      "title": "Coming soon: 10 Things That Matter in AI Right Now",
-      "summary": "Each year we compile our 10 Breakthrough Technologies list, featuring our educated predictions for which technologies will have the biggest impact on how we live and work. This year, however, we had a dilemma. While our final picks encompass all our core coverage areas (energy, AI, and biotech, plus a few more), our 2026 list…",
-      "imageUrl": "https://images.unsplash.com/photo-1620712943543-bcc4688e7485?w=800&q=80",
-      "source": "MIT Tech Review",
-      "sourceUrl": "https://www.technologyreview.com/2026/04/14/1135298/coming-soon-10-things-that-matter-in-ai-right-now/",
-      "publishedAt": "2026-04-14T11:00:00.000Z"
-    },
-    {
       "id": "wlg6fi",
       "title": "Silicon Valley Is Spending Millions to Stop One of Its Own",
       "summary": "Alex Bores, a former Palantir employee, helped pass one of the country’s toughest AI laws. Now Silicon Valley’s biggest names are trying to stop his rise to Congress.",
@@ -343,15 +370,6 @@
       "source": "Wired",
       "sourceUrl": "https://www.wired.com/story/the-big-interview-podcast-new-york-state-representative-alex-bores/",
       "publishedAt": "2026-04-14T10:30:00.000Z"
-    },
-    {
-      "id": "swpf0l",
-      "title": "The problem with thinking you’re part Neanderthal",
-      "summary": "You’ve probably heard some version of this idea before: that many of us have an “inner Neanderthal.” That is to say, around 45,000 years ago, when Homo sapiens first arrived in Europe, they met members of a cousin species—the broad-browed, heavier-set Neanderthals—and, well, one thing led to another, which is why some people now carry…",
-      "imageUrl": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=800&q=80",
-      "source": "MIT Tech Review",
-      "sourceUrl": "https://www.technologyreview.com/2026/04/14/1135169/problem-thinking-part-neanderthal-human-evolution/",
-      "publishedAt": "2026-04-14T10:00:00.000Z"
     },
     {
       "id": "cmd07c",
@@ -388,24 +406,6 @@
       "source": "Wired",
       "sourceUrl": "https://www.wired.com/story/meta-ray-ban-oakley-smart-glasses-no-face-recognition-civil-society/",
       "publishedAt": "2026-04-13T16:01:30.000Z"
-    },
-    {
-      "id": "os6f8i",
-      "title": "Why opinion on AI is so divided",
-      "summary": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here. In an industry that doesn’t stand still, Stanford’s AI Index, an annual roundup of key results and trends, is a chance to take a breath. (It’s a marathon, not a sprint, after…",
-      "imageUrl": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=800&q=80",
-      "source": "MIT Tech Review",
-      "sourceUrl": "https://www.technologyreview.com/2026/04/13/1135720/why-opinion-on-ai-is-so-divided/",
-      "publishedAt": "2026-04-13T15:48:28.000Z"
-    },
-    {
-      "id": "orvof7",
-      "title": "The Internet's Most Powerful Archiving Tool Is in Peril",
-      "summary": "As major news outlets cut off the Wayback Machine, journalists and advocacy groups are rallying to protect the Internet Archive’s vast collection of web pages.",
-      "imageUrl": "https://media.wired.com/photos/69d9793c27ad448072aa787f/master/pass/Internet-Archive-In-Peril-Business-1408988884.jpg",
-      "source": "Wired",
-      "sourceUrl": "https://www.wired.com/story/the-internets-most-powerful-archiving-tool-is-in-mortal-peril/",
-      "publishedAt": "2026-04-13T11:00:00.000Z"
     },
     {
       "id": "tx7wx1",
