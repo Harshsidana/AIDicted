@@ -1,7 +1,25 @@
 {
-  "fetchedAt": "2026-04-16T18:12:27.827Z",
+  "fetchedAt": "2026-04-16T19:46:13.577Z",
   "count": 60,
   "articles": [
+    {
+      "id": "uty9x8",
+      "title": "OpenAI takes aim at Anthropic with beefed-up Codex that gives it more power over your desktop",
+      "summary": "OpenAI's agentic coding tool has gotten a major makeover, with a variety of new powers and abilities.",
+      "imageUrl": "https://images.unsplash.com/photo-1485827404703-89b55fcc595e?w=800&q=80",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/04/16/openai-takes-aim-at-anthropic-with-beefed-up-codex-that-gives-it-more-power-over-your-desktop/",
+      "publishedAt": "2026-04-16T19:18:41.000Z"
+    },
+    {
+      "id": "8xsglo",
+      "title": "Anthropic CPO leaves Figma’s board after reports he will offer a competing product",
+      "summary": "Krieger's departure and any forthcoming design tools will be another data point for investors who fear the SaaSpocalypse — that the largest AI labs will come to dominate software businesses, a thesis that has rocked public markets at times this year.",
+      "imageUrl": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=800&q=80",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/04/16/anthropic-cpo-leaves-figmas-board-after-reports-he-will-offer-a-competing-product/",
+      "publishedAt": "2026-04-16T18:28:42.000Z"
+    },
     {
       "id": "tonn5l",
       "title": "The Battle for OpenAI’s Soul",
@@ -30,9 +48,9 @@
       "publishedAt": "2026-04-16T17:00:00.000Z"
     },
     {
-      "id": "eteowc",
-      "title": "OpenAI’s big Codex update is a direct shot at Anthropic’s Claude Code",
-      "summary": "Codex can control apps on your desktop like Tic Tac Toe. | Image: OpenAI OpenAI is beefing up its agentic coding and development system Codex with a suite of updates that let it use your computer, generate images, and remember from past experiences. Codex will now be able to operate desktop apps on your computer, OpenAI says in a blog post announcing the update. It can work in the background, meaning it won't interfere with your own work in other apps, and multiple agents can work in parallel.…",
+      "id": "78ibke",
+      "title": "OpenAI’s big Codex update is a direct shot at Claude Code",
+      "summary": "Codex can control apps on your desktop like Tic Tac Toe. | Image: OpenAI OpenAI is beefing up its agentic coding and development system, Codex, with a suite of updates that let it use your computer, generate images, and remember from past experiences. The package of updates comes as OpenAI's rivalry with Anthropic intensifies, following the stellar successes of Claude Code and OpenAI aggressively shifting resources to catch up. Codex will now be able to operate desktop apps on your computer,…",
       "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/04/Screenshot-2026-04-16-at-13.01.11.png?quality=90&#038;strip=all&#038;crop=0,5.8356559824806,100,89.31166633486",
       "source": "The Verge",
       "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/913034/openai-codex-updates-use-macos",
@@ -298,24 +316,6 @@
       "source": "TechCrunch",
       "sourceUrl": "https://techcrunch.com/2026/04/15/linkedin-data-shows-ai-isnt-to-blame-for-hiring-decline-yet/",
       "publishedAt": "2026-04-15T18:51:54.000Z"
-    },
-    {
-      "id": "ypxus6",
-      "title": "AI learning app Gizmo levels up with 13M users and a $22M investment",
-      "summary": "Gizmo, an AI-powered learning platform, has attracted more than 13 million users and just secured $22 million in Series A funding.",
-      "imageUrl": "https://images.unsplash.com/photo-1635070041078-e363dbe005cb?w=800&q=80",
-      "source": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/04/15/ai-learning-app-gizmo-levels-up-with-13m-users-and-a-22m-investment/",
-      "publishedAt": "2026-04-15T18:38:10.000Z"
-    },
-    {
-      "id": "pzrrlf",
-      "title": "Can AI judge journalism? A Thiel-backed startup says yes, even if it risks chilling whistleblowers",
-      "summary": "Objection, a Thiel-backed startup, aims to use AI to judge journalism, letting users pay to challenge stories. Critics warn it could chill whistleblowers and reshape how media accountability works.",
-      "imageUrl": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=800&q=80",
-      "source": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/04/15/can-ai-judge-journalism-a-thiel-backed-startup-says-yes-even-if-it-risks-chilling-whistleblowers/",
-      "publishedAt": "2026-04-15T18:33:20.000Z"
     },
     {
       "id": "34tf85",
