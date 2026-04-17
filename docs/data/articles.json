@@ -1,7 +1,43 @@
 {
-  "fetchedAt": "2026-04-17T19:41:44.072Z",
+  "fetchedAt": "2026-04-17T20:56:14.339Z",
   "count": 60,
   "articles": [
+    {
+      "id": "p0s2rt",
+      "title": "Should you stare into Sam Altman’s orb before your next date?",
+      "summary": "Tinder users who prove they're a real person by visiting an identity-verifying orb will soon be able to get five free boosts in the app - and it's just the latest service to embrace the orb. World, which was co-founded by OpenAI CEO Sam Altman, initially tested Tinder verification using its facial scanning orbs through a pilot program in Japan last year. It's now expanding the service to \"select markets, including Japan and the United States.\" To verify that they're not a bot or an AI agent,…",
+      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/04/world-id-tinder-verify.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "source": "The Verge",
+      "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/914385/world-id-tinder-identity-verifying-orb",
+      "publishedAt": "2026-04-17T20:42:47.000Z"
+    },
+    {
+      "id": "bk3m6e",
+      "title": "Kevin Weil and Bill Peebles exit OpenAI as company continues to shed ‘side quests’",
+      "summary": "Kevin Weil and Bill Peebles are leaving OpenAI as the company shuts down Sora and folds its science team, signaling a sharp pivot away from consumer moonshots toward enterprise AI.",
+      "imageUrl": "https://images.unsplash.com/photo-1485827404703-89b55fcc595e?w=800&q=80",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/04/17/kevin-weil-and-bill-peebles-exit-openai-as-company-continues-to-shed-side-quests/",
+      "publishedAt": "2026-04-17T20:38:17.000Z"
+    },
+    {
+      "id": "3kqu4y",
+      "title": "Anthropic’s new cybersecurity model could get it back in the government’s good graces",
+      "summary": "The Trump administration has spent nearly two months fighting with AI company Anthropic. It's dubbed the company a \"RADICAL LEFT, WOKE COMPANY\" full of \"Leftwing nut jobs\" and a menace to national security. But some of the ice may reportedly be melting between the two, thanks to Anthropic's buzzy new cybersecurity-focused model: Claude Mythos Preview. Anthropic's relationship with the Pentagon soured quickly in late February after the company refused to budge on two red lines: using its…",
+      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25469941/STK202_DARIO_AMODEI_CVIRGINIA_D.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "source": "The Verge",
+      "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/914229/tides-turning-anthropic-trump-administration-cybersecurity-mythos-preview",
+      "publishedAt": "2026-04-17T20:14:21.000Z"
+    },
+    {
+      "id": "2ldujd",
+      "title": "OpenAI Executive Kevin Weil Is Leaving the Company",
+      "summary": "The former Instagram VP is departing the ChatGPT-maker, which is folding the AI science application he led into Codex.",
+      "imageUrl": "https://media.wired.com/photos/69e28bd5c90ceaca5deef659/master/pass/Kevin-Weil-Leaving-OpenAI-Business-2212179127.jpg",
+      "source": "Wired",
+      "sourceUrl": "https://www.wired.com/story/openai-executive-kevin-weil-is-leaving-the-company/",
+      "publishedAt": "2026-04-17T19:56:42.000Z"
+    },
     {
       "id": "f3fk04",
       "title": "Sources: Cursor in talks to raise $2B+ at $50B valuation as enterprise growth surges",
@@ -12,9 +48,9 @@
       "publishedAt": "2026-04-17T19:17:26.000Z"
     },
     {
-      "id": "zevovt",
-      "title": "“Tokenmaxxing” is making developers less productive than they think",
-      "summary": "There's a lot more code—but it's a lot more expensive and requires a lot more rewriting.",
+      "id": "v5vry1",
+      "title": "‘Tokenmaxxing’ is making developers less productive than they think",
+      "summary": "There's a lot more code — but it's a lot more expensive and requires a lot more rewriting.",
       "imageUrl": "https://images.unsplash.com/photo-1485827404703-89b55fcc595e?w=800&q=80",
       "source": "TechCrunch",
       "sourceUrl": "https://techcrunch.com/2026/04/17/tokenmaxxing-is-making-developers-less-productive-than-they-think/",
@@ -264,15 +300,6 @@
       "publishedAt": "2026-04-16T16:14:03.000Z"
     },
     {
-      "id": "tlai50",
-      "title": "Roblox’s AI assistant gets new agentic tools to plan, build, and test games",
-      "summary": "The new tools are designed to help creators throughout the entire development process.",
-      "imageUrl": "https://images.unsplash.com/photo-1485827404703-89b55fcc595e?w=800&q=80",
-      "source": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/04/16/robloxs-ai-assistant-gets-new-agentic-tools-to-plan-build-and-test-games/",
-      "publishedAt": "2026-04-16T16:00:00.000Z"
-    },
-    {
       "id": "khhxvt",
       "title": "Gemini can now pull from Google Photos to generate personalized images",
       "summary": "An example image from Google. Google's Personal Intelligence feature, which lets Gemini pull data from apps like Google Photos to offer responses tailored to you, can now use that data and its Nano Banana 2 image model to create images based on your personal context. With the feature, you can use prompts like \"Design my dream house\" or \"Create a picture of my desert island essentials\" and the photos Gemini creates will \"automatically reflect your specific tastes and lifestyle, gleaned from the…",
@@ -300,15 +327,6 @@
       "publishedAt": "2026-04-16T14:00:00.000Z"
     },
     {
-      "id": "egy50v",
-      "title": "Character.AI’s new Books mode turns reading into roleplay",
-      "summary": "Mired in controversy and legal woes over concerns about its chatbots' interactions with users, particularly teens, Character.AI seems to be playing it safer with a new \"Books\" mode. The new format lets users step inside familiar worlds for a more structured roleplaying experience, one the company hopes will broaden perceptions of what AI roleplay can be beyond romancing minors, encouraging violence, and promoting self-harm. In a blog post, Character.AI said Books is launching with a catalog of…",
-      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/04/c.aiBooks-Header-Image.png?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "source": "The Verge",
-      "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/912997/character-ai-books-mode",
-      "publishedAt": "2026-04-16T14:00:00.000Z"
-    },
-    {
       "id": "pchzw8",
       "title": "Anthropic Plots Major London Expansion",
       "summary": "As tensions with the US government mount, Anthropic has leased a new office with enough space to quadruple its 200-person head count in London.",
@@ -316,15 +334,6 @@
       "source": "Wired",
       "sourceUrl": "https://www.wired.com/story/anthropic-plots-major-london-expansion/",
       "publishedAt": "2026-04-16T13:49:35.000Z"
-    },
-    {
-      "id": "nif457",
-      "title": "Canva’s AI 2.0 update goes all in on prompt-powered design tools",
-      "summary": "Canva has overhauled its design and workspace suite as it attempts to become the ultimate centralized hub for AI-powered content creation. The platform announced its Canva AI 2.0 update today, introducing updated tools and new prompt-based editing capabilities that allow users to make or adjust their work by describing what they want to create to Canva's AI assistant in their own words. The update includes a new orchestration layer for Canva's AI models that lets creatives and marketers access…",
-      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/04/Canva-AI-2.0.png?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "source": "The Verge",
-      "sourceUrl": "https://www.theverge.com/tech/913068/canva-ai-2-update-prompt-based-editing-availability",
-      "publishedAt": "2026-04-16T13:07:09.000Z"
     },
     {
       "id": "le67fa",
@@ -406,15 +415,6 @@
       "source": "Wired",
       "sourceUrl": "https://www.wired.com/story/allbirds-is-pivoting-to-ai-compute-sure-why-not/",
       "publishedAt": "2026-04-15T14:58:08.000Z"
-    },
-    {
-      "id": "pj09us",
-      "title": "AI Slop Is Making the Internet Fake-Happy",
-      "summary": "A new study examines the impact of the rise of AI-generated websites on the internet—and found some surprising results.",
-      "imageUrl": "https://media.wired.com/photos/69de82bee716e7137086c443/master/pass/Business_Upto35PercentoftheInternetIsAISlop.jpg",
-      "source": "Wired",
-      "sourceUrl": "https://www.wired.com/story/ai-slop-is-changing-the-internet-just-not-how-you-might-think/",
-      "publishedAt": "2026-04-15T11:00:00.000Z"
     },
     {
       "id": "tx7wx1",
