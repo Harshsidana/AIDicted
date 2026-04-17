@@ -1,7 +1,25 @@
 {
-  "fetchedAt": "2026-04-17T14:04:07.254Z",
+  "fetchedAt": "2026-04-17T15:38:27.454Z",
   "count": 60,
   "articles": [
+    {
+      "id": "eqvmq4",
+      "title": "Anthropic launches Claude Design, a new product for creating quick visuals",
+      "summary": "The company says Claude Design is intended to help people like founders and product managers without a design background share their ideas more easily.",
+      "imageUrl": "https://images.unsplash.com/photo-1620712943543-bcc4688e7485?w=800&q=80",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/04/17/anthropic-launches-claude-design-a-new-product-for-creating-quick-visuals/",
+      "publishedAt": "2026-04-17T15:00:00.000Z"
+    },
+    {
+      "id": "1wy5tp",
+      "title": "Pie Day 2026",
+      "summary": "Ellie’s Pi Day post: https://mitadmissions.org/blogs/entry/pi-day-2026-food-institute/ How Ellie orchestrated the baking of 30 pies: https://mitadmissions.org/blogs/entry/behind-the-scenes-of-thirty-pies/",
+      "imageUrl": "https://images.unsplash.com/photo-1635070041078-e363dbe005cb?w=800&q=80",
+      "source": "MIT Tech Review",
+      "sourceUrl": "https://www.technologyreview.com/2026/04/17/1136121/pie-day-links/",
+      "publishedAt": "2026-04-17T14:07:41.000Z"
+    },
     {
       "id": "oon18g",
       "title": "The ‘AI is inevitable’ trap",
@@ -291,15 +309,6 @@
       "publishedAt": "2026-04-16T13:00:00.000Z"
     },
     {
-      "id": "ku0xef",
-      "title": "This simulation startup wants to be the Cursor for physical AI",
-      "summary": "Antioch raised an $8.5 million seed round to create simulation tools for a new generation of robot builders.",
-      "imageUrl": "https://images.unsplash.com/photo-1676299081847-824916de030a?w=800&q=80",
-      "source": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/04/16/this-simulation-startup-wants-to-be-the-cursor-for-physical-ai/",
-      "publishedAt": "2026-04-16T12:30:00.000Z"
-    },
-    {
       "id": "egfwby",
       "title": "The Download: cyberscammers’ banking bypasses, and carbon removal troubles",
       "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. Cyberscammers are bypassing banks’ security with illicit tools sold on Telegram Inside a money-laundering center in Cambodia, an employee opens a banking app on his phone. It asks for a photo linked to the…",
@@ -342,15 +351,6 @@
       "imageUrl": "https://images.unsplash.com/photo-1531746790095-6c10a4031c5f?w=800&q=80",
       "source": "MIT Tech Review",
       "sourceUrl": "https://www.technologyreview.com/2026/04/16/1135245/measure-relationship-with-nature-index/",
-      "publishedAt": "2026-04-16T10:00:00.000Z"
-    },
-    {
-      "id": "uc0s10",
-      "title": "Is carbon removal in trouble?",
-      "summary": "Last week, news outlets reported that Microsoft was pausing carbon removal purchases. It was something of a bombshell. The thing is, Microsoft is the carbon removal market. The company has single-handedly purchased something like 80% of all contracted carbon removal. If you’re looking for someone to pay you to suck carbon dioxide out of the…",
-      "imageUrl": "https://images.unsplash.com/photo-1635070041078-e363dbe005cb?w=800&q=80",
-      "source": "MIT Tech Review",
-      "sourceUrl": "https://www.technologyreview.com/2026/04/16/1135928/carbon-removal-microsoft/",
       "publishedAt": "2026-04-16T10:00:00.000Z"
     },
     {
