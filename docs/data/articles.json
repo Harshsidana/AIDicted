@@ -1,7 +1,34 @@
 {
-  "fetchedAt": "2026-04-17T20:56:14.339Z",
+  "fetchedAt": "2026-04-17T22:52:19.672Z",
   "count": 60,
   "articles": [
+    {
+      "id": "aigtr8",
+      "title": "Sam Altman’s project World looks to scale its human verification empire. First stop: Tinder.",
+      "summary": "World, which has raised eyebrows (but also a lot of interest) with its Orb-centered anonymous verification project, is looking to expand its influence via a bevy of new partnerships.",
+      "imageUrl": "https://images.unsplash.com/photo-1526374965328-7f61d4dc18c5?w=800&q=80",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/04/17/sam-altmans-project-world-looks-to-scale-its-human-verification-empire-first-stop-tinder/",
+      "publishedAt": "2026-04-17T22:34:02.000Z"
+    },
+    {
+      "id": "qf5zx9",
+      "title": "US-sanctioned currency exchange says $15 million heist done by \"unfriendly states\"",
+      "summary": "Grinex says needed hacking resources \"available exclusively to ... unfriendly states.\"",
+      "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2026/04/cryptocurrency-1152x648.jpg",
+      "source": "Ars Technica",
+      "sourceUrl": "https://arstechnica.com/security/2026/04/russia-friendly-exchange-says-western-special-service-behind-15-million-cyberattack/",
+      "publishedAt": "2026-04-17T21:28:35.000Z"
+    },
+    {
+      "id": "9uru0y",
+      "title": "OpenAI’s former Sora boss is leaving",
+      "summary": "Last month, OpenAI gave up on its Sora video generation tool, and on Friday, the Sora team's leader, Bill Peebles, announced that he is leaving the company. OpenAI has been shifting its priorities as part of an effort to avoid \"side quests,\" and Peebles' departure is just one of many recent changes as the company moves to focus more on coding and enterprise use. As part of a note Peebles posted on X, he said: I am immensely grateful to Sam, Mark, Aditya and Jakub for fostering a research…",
+      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/08/STK155_OPEN_AI_4_CVirginia_D.png?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "source": "The Verge",
+      "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/914463/openai-sora-bill-peebles-kevin-weil-leaving-departing",
+      "publishedAt": "2026-04-17T21:13:25.000Z"
+    },
     {
       "id": "p0s2rt",
       "title": "Should you stare into Sam Altman’s orb before your next date?",
@@ -291,15 +318,6 @@
       "publishedAt": "2026-04-16T16:15:00.000Z"
     },
     {
-      "id": "edbidr",
-      "title": "AI traffic to US retailers rose 393% in Q1, and it’s boosting their revenue too",
-      "summary": "Adobe says AI traffic to U.S. retail sites also jumped 269% in March, with visitors converting better and generating more revenue than non-AI shoppers.",
-      "imageUrl": "https://images.unsplash.com/photo-1676299081847-824916de030a?w=800&q=80",
-      "source": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/04/16/ai-traffic-to-us-retailers-rose-393-in-q1-and-its-boosting-their-revenue-too/",
-      "publishedAt": "2026-04-16T16:14:03.000Z"
-    },
-    {
       "id": "khhxvt",
       "title": "Gemini can now pull from Google Photos to generate personalized images",
       "summary": "An example image from Google. Google's Personal Intelligence feature, which lets Gemini pull data from apps like Google Photos to offer responses tailored to you, can now use that data and its Nano Banana 2 image model to create images based on your personal context. With the feature, you can use prompts like \"Design my dream house\" or \"Create a picture of my desert island essentials\" and the photos Gemini creates will \"automatically reflect your specific tastes and lifestyle, gleaned from the…",
@@ -316,15 +334,6 @@
       "source": "The Verge",
       "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/913184/anthropic-claude-opus-4-7-cybersecurity",
       "publishedAt": "2026-04-16T15:59:24.000Z"
-    },
-    {
-      "id": "989kfs",
-      "title": "Ronan Farrow on Sam Altman’s ‘unconstrained’ relationship with the truth",
-      "summary": "Today on Decoder, I’m talking with Ronan Farrow, one of the biggest stars of investigative reporting working today. He broke the Harvey Weinstein story, among many, many others. And just last week, he and co-author Andrew Marantz published an incredible deep-dive feature in The New Yorker about OpenAI CEO Sam Altman, his trustworthiness, and the rise of OpenAI itself. One note before we go any further here —The New Yorker published that story and Ronan and I had this conversation before we knew…",
-      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/04/altman_illo.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "source": "The Verge",
-      "sourceUrl": "https://www.theverge.com/podcast/911753/sam-altman-openai-ronan-farrow-new-yorker-feature-trust-liar-ai-industry",
-      "publishedAt": "2026-04-16T14:00:00.000Z"
     },
     {
       "id": "pchzw8",
@@ -532,15 +541,6 @@
       "source": "Ars Technica",
       "sourceUrl": "https://arstechnica.com/security/2026/03/supply-chain-attack-using-invisible-code-hits-github-and-other-repositories/",
       "publishedAt": "2026-03-13T20:18:08.000Z"
-    },
-    {
-      "id": "999120",
-      "title": "The who, what, and why of the attack that has shut down Stryker's Windows network",
-      "summary": "Company says it doesn't know how long it will take to restore its Microsoft environment.",
-      "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2026/01/data-wiper-malware-1152x648.jpg",
-      "source": "Ars Technica",
-      "sourceUrl": "https://arstechnica.com/security/2026/03/whats-known-about-wiper-attack-on-stryker-a-major-supplier-of-lifesaving-devices/",
-      "publishedAt": "2026-03-12T22:18:11.000Z"
     }
   ]
 }
