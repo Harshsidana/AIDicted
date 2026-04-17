@@ -1,7 +1,16 @@
 {
-  "fetchedAt": "2026-04-17T11:05:41.296Z",
+  "fetchedAt": "2026-04-17T12:10:46.155Z",
   "count": 60,
   "articles": [
+    {
+      "id": "im0ag2",
+      "title": "Recent advances push Big Tech closer to the Q-Day danger zone",
+      "summary": "Here's which players are winning the race to transition to post-quantum crypto.",
+      "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2024/03/GettyImages-1070527780-1152x648.jpg",
+      "source": "Ars Technica",
+      "sourceUrl": "https://arstechnica.com/security/2026/04/while-some-big-tech-players-accelerate-pqc-readiness-others-stay-the-course/",
+      "publishedAt": "2026-04-17T11:00:50.000Z"
+    },
     {
       "id": "xlxie",
       "title": "The case for fixing everything",
@@ -75,8 +84,8 @@
       "publishedAt": "2026-04-16T18:28:42.000Z"
     },
     {
-      "id": "tonn5l",
-      "title": "The Battle for OpenAI’s Soul",
+      "id": "o6rkyg",
+      "title": "Musk v. Altman Is a Battle for OpenAI’s Soul",
       "summary": "In Musk v. Altman, a jury will soon determine whether OpenAI has strayed from its founding mission to ensure AGI benefits humanity. Here’s what to know.",
       "imageUrl": "https://media.wired.com/photos/69e012ba1dd3a88684d3127b/master/pass/Model-Behavior-Musk-v-Altman.jpg",
       "source": "Wired",
@@ -532,15 +541,6 @@
       "source": "Ars Technica",
       "sourceUrl": "https://arstechnica.com/security/2026/03/whats-known-about-wiper-attack-on-stryker-a-major-supplier-of-lifesaving-devices/",
       "publishedAt": "2026-03-12T22:18:11.000Z"
-    },
-    {
-      "id": "55s",
-      "title": "14,000 routers are infected by malware that's highly resistant to takedowns",
-      "summary": "Most of the devices are made by Asus and are located in the US.",
-      "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2019/04/GettyImages-926536690-1152x648.jpg",
-      "source": "Ars Technica",
-      "sourceUrl": "https://arstechnica.com/security/2026/03/14000-routers-are-infected-by-malware-thats-highly-resistant-to-takedowns/",
-      "publishedAt": "2026-03-11T21:27:16.000Z"
     }
   ]
 }
