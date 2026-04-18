@@ -1,7 +1,25 @@
 {
-  "fetchedAt": "2026-04-18T21:03:37.227Z",
+  "fetchedAt": "2026-04-18T22:00:31.728Z",
   "count": 60,
   "articles": [
+    {
+      "id": "dcp2qf",
+      "title": "Tesla brings its robotaxi service to Dallas and Houston",
+      "summary": "Tesla is expanding its robotaxi service to Dallas and Houston, according to a social media post from the company. The post says simply that “Robotaxi is now rolling out in Dallas & Houston 🤠” and includes a 14-second video showing Tesla vehicles driving without human monitors or drivers in the front seat. The company now […]",
+      "imageUrl": "https://images.unsplash.com/photo-1526374965328-7f61d4dc18c5?w=800&q=80",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/04/18/tesla-brings-its-robotaxi-service-to-dallas-and-houston/",
+      "publishedAt": "2026-04-18T21:37:15.000Z"
+    },
+    {
+      "id": "cwbicj",
+      "title": "The RAM shortage could last years",
+      "summary": "According to Nikkei Asia, even as suppliers ramp up DRAM production, manufacturers are only expected to meet 60 percent of demand by the end of 2027. SK Group chairman has even said that shortages could last until 2030. The world's largest memory makers - Samsung, SK Hynix, and Micron - are all working to add new fabrication capacity, but almost none of it will be online until at least 2027, if not 2028. SK opened a fab in Cheongju in February, but that is the only increase in production among…",
+      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/12/STKS523_RAM_SHORTAGE_B.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "source": "The Verge",
+      "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/914672/the-ram-shortage-could-last-years",
+      "publishedAt": "2026-04-18T21:08:45.000Z"
+    },
     {
       "id": "3t2jo3",
       "title": "AI chip startup Cerebras files for IPO",
@@ -30,21 +48,21 @@
       "publishedAt": "2026-04-18T13:00:00.000Z"
     },
     {
-      "id": "24vh86",
-      "title": "Schematik Is ‘Cursor for Hardware.’ Anthropic Wants In",
-      "summary": "Schematik is a program that aims to help people vibe code for physical devices. Hopefully, it won’t blow anything up.",
-      "imageUrl": "https://media.wired.com/photos/69e261f2c08b65b67742964b/master/pass/IMG_0608%202.jpeg",
-      "source": "Wired",
-      "sourceUrl": "https://www.wired.com/story/schematik-is-cursor-for-hardware-anthropic-wants-in-on-it/",
-      "publishedAt": "2026-04-18T10:30:00.000Z"
-    },
-    {
       "id": "inggrw",
       "title": "It Takes 2 Minutes to Hack the EU’s New Age-Verification App",
       "summary": "Plus: Major data breaches at a gym chain and hotel giant, a disruptive DDoS attack against Bluesky, dubious ICE hires, and more.",
       "imageUrl": "https://media.wired.com/photos/69e297a5b6d175715986c107/master/pass/security_EU_Age_Getty_1.jpg",
       "source": "Wired",
       "sourceUrl": "https://www.wired.com/story/security-news-this-week-it-takes-2-minutes-to-hack-the-eus-new-age-verification-app/",
+      "publishedAt": "2026-04-18T10:30:00.000Z"
+    },
+    {
+      "id": "24vh86",
+      "title": "Schematik Is ‘Cursor for Hardware.’ Anthropic Wants In",
+      "summary": "Schematik is a program that aims to help people vibe code for physical devices. Hopefully, it won’t blow anything up.",
+      "imageUrl": "https://media.wired.com/photos/69e261f2c08b65b67742964b/master/pass/IMG_0608%202.jpeg",
+      "source": "Wired",
+      "sourceUrl": "https://www.wired.com/story/schematik-is-cursor-for-hardware-anthropic-wants-in-on-it/",
       "publishedAt": "2026-04-18T10:30:00.000Z"
     },
     {
@@ -282,15 +300,6 @@
       "publishedAt": "2026-04-16T20:26:44.000Z"
     },
     {
-      "id": "uty9x8",
-      "title": "OpenAI takes aim at Anthropic with beefed-up Codex that gives it more power over your desktop",
-      "summary": "OpenAI's agentic coding tool has gotten a major makeover, with a variety of new powers and abilities.",
-      "imageUrl": "https://images.unsplash.com/photo-1485827404703-89b55fcc595e?w=800&q=80",
-      "source": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/04/16/openai-takes-aim-at-anthropic-with-beefed-up-codex-that-gives-it-more-power-over-your-desktop/",
-      "publishedAt": "2026-04-16T19:18:41.000Z"
-    },
-    {
       "id": "o6rkyg",
       "title": "Musk v. Altman Is a Battle for OpenAI’s Soul",
       "summary": "In Musk v. Altman, a jury will soon determine whether OpenAI has strayed from its founding mission to ensure AGI benefits humanity. Here’s what to know.",
@@ -343,15 +352,6 @@
       "source": "The Verge",
       "sourceUrl": "https://www.theverge.com/tech/913202/gemini-personal-intelligence-images-nano-banana",
       "publishedAt": "2026-04-16T16:00:00.000Z"
-    },
-    {
-      "id": "p95sj4",
-      "title": "Anthropic releases a new Opus model amid Mythos Preview buzz",
-      "summary": "Anthropic has released its most powerful \"generally available\" model to date: Claude Opus 4.7. The company called it a step up from Opus 4.6 for advanced software engineering tasks, particularly in complex coding areas that in the past required more hand-holding. It's also supposed to be better at analyzing images and following instructions, and it can exhibit more \"creativity\" when creating slides and documents, per Anthropic. Opus 4.7 comes on the heels of Mythos Preview, the buzzy…",
-      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/01/STKB364_CLAUDE_2_C.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "source": "The Verge",
-      "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/913184/anthropic-claude-opus-4-7-cybersecurity",
-      "publishedAt": "2026-04-16T15:59:24.000Z"
     },
     {
       "id": "pchzw8",
