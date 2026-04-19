@@ -1,7 +1,25 @@
 {
-  "fetchedAt": "2026-04-19T19:02:49.193Z",
+  "fetchedAt": "2026-04-19T20:03:05.947Z",
   "count": 60,
   "articles": [
+    {
+      "id": "7ar1gn",
+      "title": "Cloud development platform Vercel was hacked",
+      "summary": "Vercel, a major development platform that hosts and deploys web apps, was compromised, and the hackers are attempting to sell stolen data. A person claiming to be a member of ShinyHunters, which was behind the recent hack of Rockstar Games, posted some data online, including employee names, email addresses, and activity time stamps. Vercel confirmed in a post on X that a \"security incident\" had occurred, and that it impacted a \"limited subset\" of its customers. Vercel said that a compromised…",
+      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/04/Screenshot-2026-04-19-at-3.53.46PM.png?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "source": "The Verge",
+      "sourceUrl": "https://www.theverge.com/tech/914723/vercel-hacked",
+      "publishedAt": "2026-04-19T19:54:52.000Z"
+    },
+    {
+      "id": "d3ycaa",
+      "title": "The 12-month window",
+      "summary": "A lot of AI startups exist partly because the foundation models haven't expanded into their category yet. As many jokingly acknowledge, that won't last forever.",
+      "imageUrl": "https://images.unsplash.com/photo-1550751827-4bd374c3f58b?w=800&q=80",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/04/19/the-12-month-window/",
+      "publishedAt": "2026-04-19T19:30:00.000Z"
+    },
     {
       "id": "97ca1u",
       "title": "Palantir posts mini-manifesto denouncing inclusivity and ‘regressive’ cultures",
@@ -291,15 +309,6 @@
       "publishedAt": "2026-04-16T22:55:30.000Z"
     },
     {
-      "id": "sdwynt",
-      "title": "Luma launches AI-powered production studio with faith-focused Wonder Project",
-      "summary": "The studio's first project will be about Moses and star Academy Award-winner Ben Kingsley, to be released this spring on Prime Video.",
-      "imageUrl": "https://images.unsplash.com/photo-1676299081847-824916de030a?w=800&q=80",
-      "source": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/04/16/luma-launches-ai-powered-production-studio-with-faith-focused-wonder-project/",
-      "publishedAt": "2026-04-16T21:58:08.000Z"
-    },
-    {
       "id": "o6rkyg",
       "title": "Musk v. Altman Is a Battle for OpenAI’s Soul",
       "summary": "In Musk v. Altman, a jury will soon determine whether OpenAI has strayed from its founding mission to ensure AGI benefits humanity. Here’s what to know.",
@@ -343,15 +352,6 @@
       "source": "Wired",
       "sourceUrl": "https://www.wired.com/story/google-ai-mode-update-tries-to-kill-tab-hopping-in-chrome/",
       "publishedAt": "2026-04-16T17:00:00.000Z"
-    },
-    {
-      "id": "khhxvt",
-      "title": "Gemini can now pull from Google Photos to generate personalized images",
-      "summary": "An example image from Google. Google's Personal Intelligence feature, which lets Gemini pull data from apps like Google Photos to offer responses tailored to you, can now use that data and its Nano Banana 2 image model to create images based on your personal context. With the feature, you can use prompts like \"Design my dream house\" or \"Create a picture of my desert island essentials\" and the photos Gemini creates will \"automatically reflect your specific tastes and lifestyle, gleaned from the…",
-      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/04/Screenshot-2026-04-16-at-8.32.59AM.png?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "source": "The Verge",
-      "sourceUrl": "https://www.theverge.com/tech/913202/gemini-personal-intelligence-images-nano-banana",
-      "publishedAt": "2026-04-16T16:00:00.000Z"
     },
     {
       "id": "pchzw8",
