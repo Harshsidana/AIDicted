@@ -1,7 +1,16 @@
 {
-  "fetchedAt": "2026-04-20T10:55:01.273Z",
+  "fetchedAt": "2026-04-20T12:09:38.210Z",
   "count": 60,
   "articles": [
+    {
+      "id": "kvsziy",
+      "title": "Tech CEOs Think AI Will Let Them Be Everywhere at Once",
+      "summary": "Mark Zuckerberg and Jack Dorsey have different visions for how to use AI for management purposes, but both imagine a system of heightened control.",
+      "imageUrl": "https://media.wired.com/photos/69e1401ea5e5befd53e0b86f/master/pass/Culture_TechCEOsThinkAIWillLetThemBeEverywhereatOnce.jpg",
+      "source": "Wired",
+      "sourceUrl": "https://www.wired.com/story/tech-ceos-using-ai-to-be-everywhere-at-once/",
+      "publishedAt": "2026-04-20T11:00:00.000Z"
+    },
     {
       "id": "rgo4g3",
       "title": "Colossal Biosciences said it cloned red wolves. Is it for real?",
@@ -415,15 +424,6 @@
       "source": "MIT Tech Review",
       "sourceUrl": "https://www.technologyreview.com/2026/04/16/1136029/humans-in-the-loop-ai-war-illusion/",
       "publishedAt": "2026-04-16T12:00:00.000Z"
-    },
-    {
-      "id": "kwyf6p",
-      "title": "This Beanie Is Designed to Read Your Thoughts",
-      "summary": "California-based startup Sabi is developing a thought-to-text wearable that could usher in the cyborg future.",
-      "imageUrl": "https://media.wired.com/photos/69df9cc95ba8ba60af0b1ac8/master/pass/Sabi-3.jpeg",
-      "source": "Wired",
-      "sourceUrl": "https://www.wired.com/story/this-beanie-is-designed-to-read-your-thoughts/",
-      "publishedAt": "2026-04-16T11:00:00.000Z"
     },
     {
       "id": "tx7wx1",
