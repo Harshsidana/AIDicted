@@ -1,7 +1,25 @@
 {
-  "fetchedAt": "2026-04-20T18:35:38.943Z",
+  "fetchedAt": "2026-04-20T21:25:35.729Z",
   "count": 60,
   "articles": [
+    {
+      "id": "hs8t6d",
+      "title": "Silicon Valley has forgotten what normal people want",
+      "summary": "The long-term risks of the All-In Podcast, illustrated. | Image: Cath Virginia / The Verge, Turbosquid, Getty Images One of the most mortifying things about knowing a lot of techies is listening to them tell me excitedly about some very important discovery that they believe they have made. Recently, I ran into an acquaintance of mine, who began talking my ear off about an amazing discovery he'd made with LLMs. Knowledge, it turns out, is structured into language! You could put one word into…",
+      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/04/268457_HUBRIS_CVIRGINIA.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "source": "The Verge",
+      "sourceUrl": "https://www.theverge.com/tldr/915176/nft-metaverse-ai-weirdos",
+      "publishedAt": "2026-04-20T20:30:00.000Z"
+    },
+    {
+      "id": "ubzt0b",
+      "title": "It’s not just one thing — it’s another thing",
+      "summary": "This sentence construction (\"It's not just this — it's that\") has become so common in AI-generated writing that it's no longer just a clue that a piece of writing may be synthetic — it's almost a guarantee.",
+      "imageUrl": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=800&q=80",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/04/20/ai-writing-its-not-just-this-its-that-barrons/",
+      "publishedAt": "2026-04-20T19:37:07.000Z"
+    },
     {
       "id": "nj9kyr",
       "title": "Fortnite developers can make AI characters now — just don’t try to date them",
@@ -282,15 +300,6 @@
       "publishedAt": "2026-04-17T17:14:51.000Z"
     },
     {
-      "id": "otax4t",
-      "title": "Tokenmaxxing, OpenAI’s shopping spree, and the AI Anxiety Gap",
-      "summary": "The gap between AI insiders and everyone else is widening, and the spending, suspicion, and even new vocabulary are starting to show it. While OpenAI is busy buying up everything from finance apps to talk shows, a certain shoe company just rebranded as an AI infrastructure play, and Anthropic unveiled a model it says is too powerful to release publicly …but apparently not too […]",
-      "imageUrl": "https://images.unsplash.com/photo-1676299081847-824916de030a?w=800&q=80",
-      "source": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/podcast/tokenmaxxing-openais-shopping-spree-and-the-ai-anxiety-gap/",
-      "publishedAt": "2026-04-17T15:57:40.000Z"
-    },
-    {
       "id": "ept8od",
       "title": "Dairy Queen is putting an AI chatbot in its drive-thrus",
       "summary": "Dairy Queen is becoming the latest fast food chain to get in on AI, as it's bringing a chatbot to dozens of its drive-thrus across the US and Canada. It aims to help speed up drive-thru service and \"encourage customers to add more food to their orders,\" according to The Wall Street Journal. Following a test last year, Dairy Queen is widely launching the tech built by Presto, an AI company that already works with chains like Carl's Jr., Hardee's, Taco John's, and Fazoli's. In 2023, a report from…",
@@ -379,15 +388,6 @@
       "source": "Wired",
       "sourceUrl": "https://www.wired.com/story/the-uk-launches-its-dollar675-million-sovereign-ai-fund/",
       "publishedAt": "2026-04-16T17:30:00.000Z"
-    },
-    {
-      "id": "78ibke",
-      "title": "OpenAI’s big Codex update is a direct shot at Claude Code",
-      "summary": "Codex can control apps on your desktop like Tic Tac Toe. | Image: OpenAI OpenAI is beefing up its agentic coding and development system, Codex, with a suite of updates that let it use your computer, generate images, and remember from past experiences. The package of updates comes as OpenAI's rivalry with Anthropic intensifies, following the stellar successes of Claude Code and OpenAI aggressively shifting resources to catch up. Codex will now be able to operate desktop apps on your computer,…",
-      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/04/Screenshot-2026-04-16-at-13.01.11.png?quality=90&#038;strip=all&#038;crop=0,5.8356559824806,100,89.31166633486",
-      "source": "The Verge",
-      "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/913034/openai-codex-updates-use-macos",
-      "publishedAt": "2026-04-16T17:00:00.000Z"
     },
     {
       "id": "td1ntm",
