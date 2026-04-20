@@ -1,7 +1,25 @@
 {
-  "fetchedAt": "2026-04-20T12:09:38.210Z",
+  "fetchedAt": "2026-04-20T14:20:13.250Z",
   "count": 60,
   "articles": [
+    {
+      "id": "6glajr",
+      "title": "Prego Has a Dinner-Conversation-Recording Device, Capisce?",
+      "summary": "The pasta-sauce company has partnered with the nonprofit StoryCorps on a device designed to record family conversations around the table and save them for all time.",
+      "imageUrl": "https://media.wired.com/photos/69e162684f4f8c52a7b1a820/master/pass/Prego-AI-Dinner-Bot-Gear-Prego_ConnectionKeeper-5.jpg",
+      "source": "Wired",
+      "sourceUrl": "https://www.wired.com/story/prego-has-a-dinner-recording-device-capiche/",
+      "publishedAt": "2026-04-20T13:00:00.000Z"
+    },
+    {
+      "id": "o5b21",
+      "title": "The Download: murderous ‘mirror’ bacteria, and Chinese workers fighting AI doubles",
+      "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. No one’s sure if synthetic mirror life will kill us all In February 2019, a group of scientists proposed a high-risk, cutting-edge, irresistibly exciting idea that the National Science Foundation should…",
+      "imageUrl": "https://images.unsplash.com/photo-1485827404703-89b55fcc595e?w=800&q=80",
+      "source": "MIT Tech Review",
+      "sourceUrl": "https://www.technologyreview.com/2026/04/20/1136154/the-download-murderous-mirror-bacteria-chinese-workers-fight-ai-agents/",
+      "publishedAt": "2026-04-20T12:10:00.000Z"
+    },
     {
       "id": "kvsziy",
       "title": "Tech CEOs Think AI Will Let Them Be Everywhere at Once",
@@ -381,15 +399,6 @@
       "publishedAt": "2026-04-16T17:00:00.000Z"
     },
     {
-      "id": "pchzw8",
-      "title": "Anthropic Plots Major London Expansion",
-      "summary": "As tensions with the US government mount, Anthropic has leased a new office with enough space to quadruple its 200-person head count in London.",
-      "imageUrl": "https://media.wired.com/photos/69e0da3dae2b670940bc0783/master/pass/GettyImages-2261514586.jpg",
-      "source": "Wired",
-      "sourceUrl": "https://www.wired.com/story/anthropic-plots-major-london-expansion/",
-      "publishedAt": "2026-04-16T13:49:35.000Z"
-    },
-    {
       "id": "le67fa",
       "title": "Making AI operational in constrained public sector environments",
       "summary": "The AI boom has hit across industries, and public sector organizations are facing pressure to accelerate adoption. At the same time, government institutions face distinct constraints around security, governance, and operations that set them apart from their business counterparts. For this reason, purpose-built small language models (SLMs) offer a promising path to operationalize AI in…",
@@ -415,15 +424,6 @@
       "source": "MIT Tech Review",
       "sourceUrl": "https://www.technologyreview.com/2026/04/16/1136034/the-download-cyberscammers-banking-bypasses-microsoft-carbon-removal-troubles/",
       "publishedAt": "2026-04-16T12:10:00.000Z"
-    },
-    {
-      "id": "mzi8fp",
-      "title": "Why having “humans in the loop” in an AI war is an illusion",
-      "summary": "The availability of artificial intelligence for use in warfare is at the center of a legal battle between Anthropic and the Pentagon. This debate has become urgent, with AI playing a bigger role than ever before in the current conflict with Iran. AI is no longer just helping humans analyze intelligence. It is now an…",
-      "imageUrl": "https://images.unsplash.com/photo-1676299081847-824916de030a?w=800&q=80",
-      "source": "MIT Tech Review",
-      "sourceUrl": "https://www.technologyreview.com/2026/04/16/1136029/humans-in-the-loop-ai-war-illusion/",
-      "publishedAt": "2026-04-16T12:00:00.000Z"
     },
     {
       "id": "tx7wx1",
