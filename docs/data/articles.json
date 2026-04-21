@@ -1,7 +1,34 @@
 {
-  "fetchedAt": "2026-04-20T22:10:58.104Z",
+  "fetchedAt": "2026-04-21T00:08:30.269Z",
   "count": 60,
   "articles": [
+    {
+      "id": "tqjo7q",
+      "title": "Anthropic takes $5B from Amazon and pledges $100B in cloud spending in return",
+      "summary": "Amazon has made another circular AI deal: It's investing another $5 billion in Anthropic. Anthropic has agreed to spend $100 billion on AWS in return.",
+      "imageUrl": "https://images.unsplash.com/photo-1635070041078-e363dbe005cb?w=800&q=80",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/04/20/anthropic-takes-5b-from-amazon-and-pledges-100b-in-cloud-spending-in-return/",
+      "publishedAt": "2026-04-20T23:10:27.000Z"
+    },
+    {
+      "id": "ddblz2",
+      "title": "A Humanoid Robot Set a Half-Marathon Record in China",
+      "summary": "An autonomous robot from the company Honor ran a half marathon in 50:26, beating the human record by 7 minutes.",
+      "imageUrl": "https://media.wired.com/photos/69e67707d27252207be01419/master/pass/robotchino1.jpg",
+      "source": "Wired",
+      "sourceUrl": "https://www.wired.com/story/a-humanoid-robot-set-a-half-marathon-record-in-china/",
+      "publishedAt": "2026-04-20T22:33:27.000Z"
+    },
+    {
+      "id": "lttvxn",
+      "title": "Google rolls out Gemini in Chrome in 7 new countries",
+      "summary": "Google is rolling out Gemini in Chrome in Australia, Indonesia, Japan, the Philippines, Singapore, South Korea, and Vietnam. The company is rolling this feature out to both desktop and iOS in all of these countries except Japan.",
+      "imageUrl": "https://images.unsplash.com/photo-1620712943543-bcc4688e7485?w=800&q=80",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/04/20/google-rolls-out-gemini-in-chrome-in-seven-new-countries/",
+      "publishedAt": "2026-04-20T22:00:00.000Z"
+    },
     {
       "id": "hs8t6d",
       "title": "Silicon Valley has forgotten what normal people want",
@@ -264,24 +291,6 @@
       "publishedAt": "2026-04-17T19:56:42.000Z"
     },
     {
-      "id": "f3fk04",
-      "title": "Sources: Cursor in talks to raise $2B+ at $50B valuation as enterprise growth surges",
-      "summary": "Returning backers a16z and Thrive are expected to lead the round.",
-      "imageUrl": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=800&q=80",
-      "source": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/04/17/sources-cursor-in-talks-to-raise-2b-at-50b-valuation-as-enterprise-growth-surges/",
-      "publishedAt": "2026-04-17T19:17:26.000Z"
-    },
-    {
-      "id": "v5vry1",
-      "title": "‘Tokenmaxxing’ is making developers less productive than they think",
-      "summary": "There's a lot more code — but it's a lot more expensive and requires a lot more rewriting.",
-      "imageUrl": "https://images.unsplash.com/photo-1485827404703-89b55fcc595e?w=800&q=80",
-      "source": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/04/17/tokenmaxxing-is-making-developers-less-productive-than-they-think/",
-      "publishedAt": "2026-04-17T18:42:45.000Z"
-    },
-    {
       "id": "kcen10",
       "title": "This charming gadget writes bad AI poetry",
       "summary": "I kind of wish it just took pictures. I've never been as charmed and frustrated by one gadget as I have with the Poetry Camera. It's a delightful object. White and cherry red with a color-matched woven strap, it looks playful and adorably lo-fi. If I saw it on a store shelf, I'd absolutely pick it up. But aside from obviously appealing, I'm not exactly sure what it is. I mean, I know what it is. It's a camera that makes AI poems instead of photos. You take a picture, and instead of printing a…",
@@ -388,15 +397,6 @@
       "source": "Wired",
       "sourceUrl": "https://www.wired.com/story/the-uk-launches-its-dollar675-million-sovereign-ai-fund/",
       "publishedAt": "2026-04-16T17:30:00.000Z"
-    },
-    {
-      "id": "td1ntm",
-      "title": "Google's AI Mode Update Tries to Kill Tab Hopping in Chrome",
-      "summary": "Google latest update to AI Mode in its Chrome browser is designed to keep the chatbot-style search tool always around once you start an online search journey.",
-      "imageUrl": "https://media.wired.com/photos/69e0dd9494c73a543425c2c6/master/pass/GettyImages-2261781731.jpg",
-      "source": "Wired",
-      "sourceUrl": "https://www.wired.com/story/google-ai-mode-update-tries-to-kill-tab-hopping-in-chrome/",
-      "publishedAt": "2026-04-16T17:00:00.000Z"
     },
     {
       "id": "le67fa",
