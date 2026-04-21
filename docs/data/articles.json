@@ -1,7 +1,52 @@
 {
-  "fetchedAt": "2026-04-21T17:12:22.864Z",
+  "fetchedAt": "2026-04-21T18:40:27.483Z",
   "count": 60,
   "articles": [
+    {
+      "id": "9w3yf9",
+      "title": "Mozilla Used Anthropic’s Mythos to Find and Fix 151 Bugs in Firefox",
+      "summary": "The Firefox team doesn’t think emerging AI capabilities will upend cybersecurity long term, but they warn that software developers are likely in for a rocky transition.",
+      "imageUrl": "https://media.wired.com/photos/69e6df06b405035df7b7ce2e/master/pass/security_GettyImages-2214075816.jpg",
+      "source": "Wired",
+      "sourceUrl": "https://www.wired.com/story/mozilla-used-anthropics-mythos-to-find-271-bugs-in-firefox/",
+      "publishedAt": "2026-04-21T18:30:00.000Z"
+    },
+    {
+      "id": "i34mko",
+      "title": "Framework’s first eGPUs turn its laptop into a desktop PC",
+      "summary": "Remember when Framework made the first laptop where you can easily upgrade its entire internal video card in three minutes flat? The company's getting into the external graphics game, too. As promised last August, you'll be able to turn the Framework Laptop 16's GPU modules into external ones instead. Or, you can plug in a desktop graphics card (or network card, or other PCIe cards) for more power than most laptops ever dream of having, with eight lanes of PCI-Express bandwidth. Framework's…",
+      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/04/eGPU_Install_02.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "source": "The Verge",
+      "sourceUrl": "https://www.theverge.com/gadgets/915328/framework-oculink-egpu-dev-kit-laptop-16",
+      "publishedAt": "2026-04-21T18:07:24.000Z"
+    },
+    {
+      "id": "26rx2f",
+      "title": "Tim Cook’s Legacy Is Turning Apple Into a Subscription",
+      "summary": "The soon-to-exit Apple CEO went all in on services. Now, the incoming CEO, John Ternus, will need to embrace the AI era.",
+      "imageUrl": "https://media.wired.com/photos/69e6b3bd8d2fd342f277fdb0/master/pass/Tim-Cook-Steps-Down-Business-2233926863.jpg",
+      "source": "Wired",
+      "sourceUrl": "https://www.wired.com/story/apple-tim-cook-subscription-business/",
+      "publishedAt": "2026-04-21T17:35:12.000Z"
+    },
+    {
+      "id": "q6mzpk",
+      "title": "Celebrities will be able to find and request removal of AI deepfakes on YouTube",
+      "summary": "YouTube is expanding its AI deepfake monitoring feature to Hollywood - meaning some celebrity AI videos could soon disappear. The platform's likeness detection feature searches YouTube for AI deepfake content and flags it for public figures enrolled in the program. Public figures can use it to keep track of AI content on YouTube of themselves or request removal (takedowns are evaluated against YouTube's privacy policy, and not every request will be approved). YouTube began testing the feature…",
+      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/03/STK419_DEEPFAKE_3_CVIRGINIA_C.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "source": "The Verge",
+      "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/915872/celebrities-will-be-able-to-find-and-request-removal-of-ai-deepfakes-on-youtube",
+      "publishedAt": "2026-04-21T17:30:24.000Z"
+    },
+    {
+      "id": "1ui2yd",
+      "title": "Building agent-first governance and security",
+      "summary": "As AI agents increasingly work alongside humans across organizations, companies could be inadvertently opening a new attack surface. Insecure agents can be manipulated to access sensitive systems and proprietary data, increasing enterprise risk. In some modern enterprises, non-human identities (NHI) are outpacing human identities, and that trend will explode with agentic AI. Solid governance and…",
+      "imageUrl": "https://images.unsplash.com/photo-1531746790095-6c10a4031c5f?w=800&q=80",
+      "source": "MIT Tech Review",
+      "sourceUrl": "https://www.technologyreview.com/2026/04/21/1136158/building-agent-first-governance-and-security/",
+      "publishedAt": "2026-04-21T17:22:54.000Z"
+    },
     {
       "id": "52nq78",
       "title": "Clarifai deletes 3 million photos that OkCupid provided to train facial recognition AI, report says",
@@ -327,24 +372,6 @@
       "publishedAt": "2026-04-17T21:13:25.000Z"
     },
     {
-      "id": "p0s2rt",
-      "title": "Should you stare into Sam Altman’s orb before your next date?",
-      "summary": "Tinder users who prove they're a real person by visiting an identity-verifying orb will soon be able to get five free boosts in the app - and it's just the latest service to embrace the orb. World, which was co-founded by OpenAI CEO Sam Altman, initially tested Tinder verification using its facial scanning orbs through a pilot program in Japan last year. It's now expanding the service to \"select markets, including Japan and the United States.\" To verify that they're not a bot or an AI agent,…",
-      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/04/world-id-tinder-verify.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "source": "The Verge",
-      "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/914385/world-id-tinder-identity-verifying-orb",
-      "publishedAt": "2026-04-17T20:42:47.000Z"
-    },
-    {
-      "id": "3kqu4y",
-      "title": "Anthropic’s new cybersecurity model could get it back in the government’s good graces",
-      "summary": "The Trump administration has spent nearly two months fighting with AI company Anthropic. It's dubbed the company a \"RADICAL LEFT, WOKE COMPANY\" full of \"Leftwing nut jobs\" and a menace to national security. But some of the ice may reportedly be melting between the two, thanks to Anthropic's buzzy new cybersecurity-focused model: Claude Mythos Preview. Anthropic's relationship with the Pentagon soured quickly in late February after the company refused to budge on two red lines: using its…",
-      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25469941/STK202_DARIO_AMODEI_CVIRGINIA_D.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "source": "The Verge",
-      "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/914229/tides-turning-anthropic-trump-administration-cybersecurity-mythos-preview",
-      "publishedAt": "2026-04-17T20:14:21.000Z"
-    },
-    {
       "id": "2ldujd",
       "title": "OpenAI Executive Kevin Weil Is Leaving the Company",
       "summary": "The former Instagram VP is departing the ChatGPT-maker, which is folding the AI science application he led into Codex.",
@@ -361,15 +388,6 @@
       "source": "Wired",
       "sourceUrl": "https://www.wired.com/story/gazing-into-sam-altmans-orb-now-proves-youre-human-on-tinder/",
       "publishedAt": "2026-04-17T17:14:51.000Z"
-    },
-    {
-      "id": "202ez4",
-      "title": "AI Drafting My Stories? Over My Dead Body",
-      "summary": "AI-assisted writing is creeping into newsrooms under the guise of efficiency. But the trade-off may be more profound than publishers are willing to admit.",
-      "imageUrl": "https://media.wired.com/photos/69e1650c3768d90cb0bbf6c2/master/pass/Backchannel-Issue-With-AI-Doing-the-Writing-Busines-491874561.jpg",
-      "source": "Wired",
-      "sourceUrl": "https://www.wired.com/story/backchannel-the-problem-with-letting-ai-do-the-writing/",
-      "publishedAt": "2026-04-17T15:46:06.000Z"
     },
     {
       "id": "1wy5tp",
@@ -415,24 +433,6 @@
       "source": "MIT Tech Review",
       "sourceUrl": "https://www.technologyreview.com/2026/04/17/1135416/how-robots-learn-brief-contemporary-history/",
       "publishedAt": "2026-04-17T10:00:00.000Z"
-    },
-    {
-      "id": "o6rkyg",
-      "title": "Musk v. Altman Is a Battle for OpenAI’s Soul",
-      "summary": "In Musk v. Altman, a jury will soon determine whether OpenAI has strayed from its founding mission to ensure AGI benefits humanity. Here’s what to know.",
-      "imageUrl": "https://media.wired.com/photos/69e012ba1dd3a88684d3127b/master/pass/Model-Behavior-Musk-v-Altman.jpg",
-      "source": "Wired",
-      "sourceUrl": "https://www.wired.com/story/musk-v-altman-trial-openai-xai/",
-      "publishedAt": "2026-04-16T18:00:00.000Z"
-    },
-    {
-      "id": "le67fa",
-      "title": "Making AI operational in constrained public sector environments",
-      "summary": "The AI boom has hit across industries, and public sector organizations are facing pressure to accelerate adoption. At the same time, government institutions face distinct constraints around security, governance, and operations that set them apart from their business counterparts. For this reason, purpose-built small language models (SLMs) offer a promising path to operationalize AI in…",
-      "imageUrl": "https://images.unsplash.com/photo-1485827404703-89b55fcc595e?w=800&q=80",
-      "source": "MIT Tech Review",
-      "sourceUrl": "https://www.technologyreview.com/2026/04/16/1135216/making-ai-operational-in-constrained-public-sector-environments/",
-      "publishedAt": "2026-04-16T13:00:00.000Z"
     },
     {
       "id": "tx7wx1",
