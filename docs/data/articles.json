@@ -1,96 +1,96 @@
 {
-  "fetchedAt": "2026-04-21T21:23:02.274Z",
+  "fetchedAt": "2026-04-21T22:10:52.619Z",
   "count": 60,
   "articles": [
     {
-      "id": "3wt4ga",
-      "title": "10 Things That Matter in AI Right Now",
-      "summary": "Read the full article from MIT Tech Review.",
+      "id": "hye0e3",
+      "title": "The new word in home construction could be “plastics”",
+      "summary": "Single-use plastics are a persistent source of environmental pollution, and the need to house a growing global population puts increasing pressure on resources such as timber. MIT engineers have an idea that could make a dent in both problems at once. In a recent study, a team led by mechanical engineering professor David Hardt, SM…",
+      "imageUrl": "https://images.unsplash.com/photo-1635070041078-e363dbe005cb?w=800&q=80",
+      "source": "MIT Tech Review",
+      "sourceUrl": "https://www.technologyreview.com/2026/04/21/1134856/the-new-word-in-home-construction-could-be-plastics/",
+      "publishedAt": "2026-04-21T21:00:00.000Z"
+    },
+    {
+      "id": "3ja1vp",
+      "title": "A natural protein may protect the GI tract from infection",
+      "summary": "Embedded in the body’s mucosal surfaces, proteins called lectins bind to sugars found on cell surfaces. A team led by MIT chemistry professor Laura Kiessling has found that one such protein, intelectin-2, both helps fortify the mucosal barrier and offers broad-spectrum protection against harmful bacteria found in the GI tract. Intelectin-2 binds to a sugar…",
       "imageUrl": "https://images.unsplash.com/photo-1655720828018-edd2daec9349?w=800&q=80",
       "source": "MIT Tech Review",
-      "sourceUrl": "https://www.technologyreview.com/2026/04/21/1135643/10-ai-artificial-intelligence-trends-technologies-research-2026/",
-      "publishedAt": "2026-04-21T20:45:00.000Z"
+      "sourceUrl": "https://www.technologyreview.com/2026/04/21/1134858/a-natural-protein-may-protect-the-gi-tract-from-infection/",
+      "publishedAt": "2026-04-21T21:00:00.000Z"
     },
     {
-      "id": "t4y8vs",
-      "title": "LLMs+",
-      "summary": "When ChatGPT launched as an experimental prototype in late 2022, OpenAI’s chatbot became an everyday everything app for hundreds of millions of people. LLMs like ChatGPT were the new future: The entire tech industry was consumed by the inferno, with companies racing to spin up rival products. The ashes of the old tech world still…",
-      "imageUrl": "https://images.unsplash.com/photo-1485827404703-89b55fcc595e?w=800&q=80",
+      "id": "vqy9zf",
+      "title": "This tool could show how consciousness works",
+      "summary": "How does the physical matter in our brains translate into thoughts, sensations, and emotions? It’s hard to explore that question without neurosurgery. But in a recent paper, MIT philosopher Matthias Michel, Lincoln Lab researcher Daniel Freeman, and colleagues outline a strategy for doing so with an emerging tool called transcranial focused ultrasound. This noninvasive technology…",
+      "imageUrl": "https://images.unsplash.com/photo-1620712943543-bcc4688e7485?w=800&q=80",
       "source": "MIT Tech Review",
-      "sourceUrl": "https://www.technologyreview.com/2026/04/21/1135645/llm-large-language-models-ai/",
-      "publishedAt": "2026-04-21T20:45:00.000Z"
+      "sourceUrl": "https://www.technologyreview.com/2026/04/21/1134862/this-tool-could-show-how-consciousness-works/",
+      "publishedAt": "2026-04-21T21:00:00.000Z"
     },
     {
-      "id": "jldxu0",
-      "title": "Supercharged scams",
-      "summary": "When ChatGPT was released to the public in late 2022, it opened people’s eyes to how easily generative AI could churn out vast amounts of human-seeming text from simple prompts. This quickly caught the attention of criminals, who soon began using large language models to produce malicious emails—both the untargeted spam kind and more sophisticated,…",
-      "imageUrl": "https://images.unsplash.com/photo-1635070041078-e363dbe005cb?w=800&q=80",
+      "id": "vjfx3a",
+      "title": "Early life may have breathed oxygen earlier than believed",
+      "summary": "Around 2.3 billion years ago, a pivotal period known as the Great Oxidation Event set the evolutionary course for oxygen-breathing life on Earth. But MIT geobiologists and colleagues have found evidence that some early forms of life evolved the ability to use oxygen hundreds of millions of years before that. By mapping enzyme sequences from…",
+      "imageUrl": "https://images.unsplash.com/photo-1526374965328-7f61d4dc18c5?w=800&q=80",
       "source": "MIT Tech Review",
-      "sourceUrl": "https://www.technologyreview.com/2026/04/21/1135647/supercharged-scams-ai-artificial-intelligence/",
-      "publishedAt": "2026-04-21T20:45:00.000Z"
+      "sourceUrl": "https://www.technologyreview.com/2026/04/21/1134867/early-life-may-have-breathed-oxygen-earlier-than-believed/",
+      "publishedAt": "2026-04-21T21:00:00.000Z"
     },
     {
-      "id": "dz2o1e",
-      "title": "World models",
-      "summary": "AI systems have already gained impressive mastery over the digital world, but the physical world is still humanity’s domain. As it turns out, building an AI system that can compose a novel or code an app is far easier than developing one that can fold laundry or navigate a city street. To get there, many…",
-      "imageUrl": "https://images.unsplash.com/photo-1635070041078-e363dbe005cb?w=800&q=80",
-      "source": "MIT Tech Review",
-      "sourceUrl": "https://www.technologyreview.com/2026/04/21/1135650/world-models-ai-artificial-intelligence/",
-      "publishedAt": "2026-04-21T20:45:00.000Z"
-    },
-    {
-      "id": "tl1ds2",
-      "title": "Weaponized deepfakes",
-      "summary": "For years, experts have warned that deepfakes—AI-generated videos, images, or audio recordings of people doing or saying things they haven’t actually done in real life—could be deployed in malicious ways. These dangers are now here. Improvements in deepfake technology, and the widespread availability of easy-to-use and cheap (or free) generative models, have made it easier…",
+      "id": "pgj67k",
+      "title": "Analog computing from waste heat",
+      "summary": "Heat generated by electronic devices is usually a problem, but a team led by Giuseppe Romano, a research scientist at MIT’s Institute for Soldier Nanotechnologies, has found a way to use it for data processing that doesn’t rely on electricity. In this analog computing method, input data is encoded not as binary 1s and 0s…",
       "imageUrl": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=800&q=80",
       "source": "MIT Tech Review",
-      "sourceUrl": "https://www.technologyreview.com/2026/04/21/1135652/weaponized-deepfakes-ai-artificial-intelligence/",
-      "publishedAt": "2026-04-21T20:45:00.000Z"
+      "sourceUrl": "https://www.technologyreview.com/2026/04/21/1134870/analog-computing-from-waste-heat/",
+      "publishedAt": "2026-04-21T21:00:00.000Z"
     },
     {
-      "id": "tmod58",
-      "title": "Agent orchestration",
-      "summary": "When people say AI will speed up drug development or fear that it will bring about mass layoffs, what they have in mind—whether they know it or not—are AI agents. ChatGPT made large language models a mass consumer product. But to change the world, AI needs to do more than just talk back: It needs…",
-      "imageUrl": "https://images.unsplash.com/photo-1676299081847-824916de030a?w=800&q=80",
+      "id": "3j9uzj",
+      "title": "Get ready for hotter, muggier, stormier summers",
+      "summary": "A long stretch of humid heat followed by a powerful thunderstorm is a familiar weather pattern in the tropics, but it’s also becoming more common in midlatitude regions such as the US Midwest. A recent study by two MIT scientists identifies a key atmospheric condition that determines how hot, humid, and stormy such a region…",
+      "imageUrl": "https://images.unsplash.com/photo-1620712943543-bcc4688e7485?w=800&q=80",
       "source": "MIT Tech Review",
-      "sourceUrl": "https://www.technologyreview.com/2026/04/21/1135654/agent-orchestration-ai-artificial-intelligence/",
-      "publishedAt": "2026-04-21T20:45:00.000Z"
+      "sourceUrl": "https://www.technologyreview.com/2026/04/21/1134873/get-ready-for-hotter-muggier-stormier-summers/",
+      "publishedAt": "2026-04-21T21:00:00.000Z"
     },
     {
-      "id": "c8kygc",
-      "title": "Humanoid data",
-      "summary": "I was recently invited to join an app that would pay me cryptocurrency to film myself doing tasks like putting food into a bowl, microwaving it, and then taking it out. Another website suggested I try a new game in which I’d remotely control a robotic arm in Shenzhen, China, as it completed puzzles and…",
+      "id": "mbpac9",
+      "title": "Recent books from the MIT community",
+      "summary": "Priority Technologies: Ensuring US Security and Shared ProsperityEdited by Elisabeth B. Reynolds, professor of the practice of urban studies and planning and former executive director of the MIT Task Force on the Work of the Future MIT PRESS, 2026, $24.95 The Shape of Wonder: How Scientists Think, Work, and LiveBy Alan Lightman, professor of the practice…",
+      "imageUrl": "https://images.unsplash.com/photo-1531746790095-6c10a4031c5f?w=800&q=80",
+      "source": "MIT Tech Review",
+      "sourceUrl": "https://www.technologyreview.com/2026/04/21/1134879/recent-books-from-the-mit-community-28/",
+      "publishedAt": "2026-04-21T21:00:00.000Z"
+    },
+    {
+      "id": "2qd933",
+      "title": "AI at MIT",
+      "summary": "At MIT, AI has become so pervasive that you can almost find your way into it without meaning to. Take Sili Deng, an associate professor of mechanical engineering. Deng says she still doesn’t know whether she’d have gone all in on artificial intelligence had it not been for the covid pandemic. She had joined the faculty…",
+      "imageUrl": "https://images.unsplash.com/photo-1531746790095-6c10a4031c5f?w=800&q=80",
+      "source": "MIT Tech Review",
+      "sourceUrl": "https://www.technologyreview.com/2026/04/21/1134938/ai-at-mit/",
+      "publishedAt": "2026-04-21T21:00:00.000Z"
+    },
+    {
+      "id": "pk5acx",
+      "title": "Inventor recalls eye imaging breakthrough",
+      "summary": "If you’ve been to an eye doctor and had an image taken of the inside of your eye, chances are good it was done with optical coherence tomography (OCT)—a technology invented by clinician-scientist David Huang ’85, SM ’89, PhD ’93, and now used in 40 million procedures per year. OCT is a noninvasive technique used…",
+      "imageUrl": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=800&q=80",
+      "source": "MIT Tech Review",
+      "sourceUrl": "https://www.technologyreview.com/2026/04/21/1134945/inventor-recalls-eye-imaging-breakthrough/",
+      "publishedAt": "2026-04-21T21:00:00.000Z"
+    },
+    {
+      "id": "ux02vv",
+      "title": "Caring for service dogs",
+      "summary": "Brenda Schafer Kennedy, SM ’93, knows that sometimes the best medicine comes with four legs and fur. Kennedy is the chief veterinary and research officer for Canine Companions, a California-based, nationwide organization that provides assistance dogs at no cost to children, veterans, and adults with disabilities. “The need is enormous: One in four people in…",
       "imageUrl": "https://images.unsplash.com/photo-1550751827-4bd374c3f58b?w=800&q=80",
       "source": "MIT Tech Review",
-      "sourceUrl": "https://www.technologyreview.com/2026/04/21/1135656/humanoid-data-robot-training-ai-artificial-intelligence/",
-      "publishedAt": "2026-04-21T20:45:00.000Z"
-    },
-    {
-      "id": "fa4xjw",
-      "title": "China’s open-source bet",
-      "summary": "Silicon Valley AI companies follow a familiar playbook: Keep the secret sauce behind an API, and charge for every drop. China’s leading AI labs are playing a different game: They ship models as downloadable “open-weight” packages. This lets developers adapt the models and run them on their own hardware to build products without negotiating a…",
-      "imageUrl": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=800&q=80",
-      "source": "MIT Tech Review",
-      "sourceUrl": "https://www.technologyreview.com/2026/04/21/1135658/china-open-source-models-ai-artificial-intelligence/",
-      "publishedAt": "2026-04-21T20:45:00.000Z"
-    },
-    {
-      "id": "x9srb0",
-      "title": "Artificial scientists",
-      "summary": "AI companies frequently invoke the possibility of AI-enabled scientific discovery as a justification for their existence: If the technology eventually cures cancer and solves climate change, then all the carbon emissions and slop videos will have been well worth it. Already, LLMs can assist scientists in all sorts of ways. They can point people to…",
-      "imageUrl": "https://images.unsplash.com/photo-1655720828018-edd2daec9349?w=800&q=80",
-      "source": "MIT Tech Review",
-      "sourceUrl": "https://www.technologyreview.com/2026/04/21/1135663/artificial-scientists-ai-artificial-intelligence/",
-      "publishedAt": "2026-04-21T20:45:00.000Z"
-    },
-    {
-      "id": "rrx24g",
-      "title": "Resistance",
-      "summary": "Turns out not everyone wants to live in the future that AI companies are building. People from all walks of life are speaking out against rising electricity bills from data centers, disappearing jobs, chatbots’ impact on teen mental health, the military’s use of AI, and copyright infringement—among other concerns. This anti-AI movement is taking shape…",
-      "imageUrl": "https://images.unsplash.com/photo-1655720828018-edd2daec9349?w=800&q=80",
-      "source": "MIT Tech Review",
-      "sourceUrl": "https://www.technologyreview.com/2026/04/21/1135665/resistance-ai-artificial-intelligence-backlash-protests/",
-      "publishedAt": "2026-04-21T20:45:00.000Z"
+      "sourceUrl": "https://www.technologyreview.com/2026/04/21/1134948/caring-for-service-dogs/",
+      "publishedAt": "2026-04-21T21:00:00.000Z"
     },
     {
       "id": "bztw8u",
