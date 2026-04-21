@@ -1,7 +1,34 @@
 {
-  "fetchedAt": "2026-04-21T10:03:41.618Z",
+  "fetchedAt": "2026-04-21T11:41:15.574Z",
   "count": 60,
   "articles": [
+    {
+      "id": "8y0a2d",
+      "title": "Yelp is making its AI chatbot way more useful",
+      "summary": "Yelp is giving its chatbot assistant a major upgrade, turning the platform into something closer to a digital concierge with a suite of new features designed for \"getting things done.\" The move, one of several AI-focused updates in recent months, is part of a broader industry push to make AI more relevant and practically useful to consumers while turning huge troves of user-generated data into a competitive edge. In a press release, Yelp says the Yelp Assistant chatbot will be at \"the center of…",
+      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/04/Yelp-Assistant_-Making-Beauty-Appointments-via-Vagaro.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "source": "The Verge",
+      "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/915626/yelp-ai-assistant-chatbot-major-upgrade",
+      "publishedAt": "2026-04-21T11:00:00.000Z"
+    },
+    {
+      "id": "k8l7b2",
+      "title": "This Scammer Used an AI-Generated MAGA Girl to Grift ‘Super Dumb’ Men",
+      "summary": "A med student says he’s made thousands of dollars selling photos and videos of a young conservative woman he created using generative tools. He’s not alone.",
+      "imageUrl": "https://media.wired.com/photos/69de96afb083bab80bea1c92/master/pass/MAGA-AI-Womanfluencers-Culture.jpg",
+      "source": "Wired",
+      "sourceUrl": "https://www.wired.com/story/ai-generated-maga-girls/",
+      "publishedAt": "2026-04-21T11:00:00.000Z"
+    },
+    {
+      "id": "8isnrp",
+      "title": "Digging for clues about the North Pole’s past",
+      "summary": "In the past, even with an icebreaker and during peak melt season, getting to the North Pole wasn’t a sure bet. It took favorable winds to crack the frozen ocean surface, and ships had to fight through ice that had grown many meters thick over several winters. In the summer of 2025, though, Jochen Knies…",
+      "imageUrl": "https://images.unsplash.com/photo-1550751827-4bd374c3f58b?w=800&q=80",
+      "source": "MIT Tech Review",
+      "sourceUrl": "https://www.technologyreview.com/2026/04/21/1135231/digging-for-truth-north-pole-past-seabed/",
+      "publishedAt": "2026-04-21T10:00:00.000Z"
+    },
     {
       "id": "tqjo7q",
       "title": "Anthropic takes $5B from Amazon and pledges $100B in cloud spending in return",
@@ -336,15 +363,6 @@
       "publishedAt": "2026-04-17T14:07:41.000Z"
     },
     {
-      "id": "oon18g",
-      "title": "The ‘AI is inevitable’ trap",
-      "summary": "In the latest sign of AI silly season, Allbirds, the shoe company, told the world it was now an AI company and briefly managed to septuple its stock price. The Newbird AI story is really just one of a bunch of things this week that made us wonder: have we reached the peak of AI, or at least a peak of AI? Verge subscribers, don't forget you get exclusive access to ad-free Vergecast wherever you get your podcasts. Head here. Not a subscriber? You can sign up here. On this episode of The Vergecast,…",
-      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/04/VRG_VST_0417_Site.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "source": "The Verge",
-      "sourceUrl": "https://www.theverge.com/podcast/913792/ai-divide-sam-altman-vergecast",
-      "publishedAt": "2026-04-17T13:24:34.000Z"
-    },
-    {
       "id": "xjautx",
       "title": "The Download: bad news for inner Neanderthals, and AI warfare’s human illusion",
       "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. The problem with thinking you’re part Neanderthal There’s a theory that many of us have an “inner Neanderthal.” The idea is that Homo sapiens and a cousin species once bred, leaving…",
@@ -390,15 +408,6 @@
       "publishedAt": "2026-04-16T18:00:00.000Z"
     },
     {
-      "id": "ixs86o",
-      "title": "The UK Launches Its $675 Million Sovereign AI Fund",
-      "summary": "In a bid to minimize dependence on technology from other countries, the UK government is plowing resources into homegrown AI startups.",
-      "imageUrl": "https://media.wired.com/photos/69dff76f67d3fd19de3c134e/master/pass/Business_UKLaunchesSovereignAIFund_03.jpg",
-      "source": "Wired",
-      "sourceUrl": "https://www.wired.com/story/the-uk-launches-its-dollar675-million-sovereign-ai-fund/",
-      "publishedAt": "2026-04-16T17:30:00.000Z"
-    },
-    {
       "id": "le67fa",
       "title": "Making AI operational in constrained public sector environments",
       "summary": "The AI boom has hit across industries, and public sector organizations are facing pressure to accelerate adoption. At the same time, government institutions face distinct constraints around security, governance, and operations that set them apart from their business counterparts. For this reason, purpose-built small language models (SLMs) offer a promising path to operationalize AI in…",
@@ -415,15 +424,6 @@
       "source": "MIT Tech Review",
       "sourceUrl": "https://www.technologyreview.com/2026/04/16/1135554/treating-enterprise-ai-as-an-operating-layer/",
       "publishedAt": "2026-04-16T13:00:00.000Z"
-    },
-    {
-      "id": "egfwby",
-      "title": "The Download: cyberscammers’ banking bypasses, and carbon removal troubles",
-      "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. Cyberscammers are bypassing banks’ security with illicit tools sold on Telegram Inside a money-laundering center in Cambodia, an employee opens a banking app on his phone. It asks for a photo linked to the…",
-      "imageUrl": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=800&q=80",
-      "source": "MIT Tech Review",
-      "sourceUrl": "https://www.technologyreview.com/2026/04/16/1136034/the-download-cyberscammers-banking-bypasses-microsoft-carbon-removal-troubles/",
-      "publishedAt": "2026-04-16T12:10:00.000Z"
     },
     {
       "id": "tx7wx1",
