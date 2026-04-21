@@ -1,7 +1,34 @@
 {
-  "fetchedAt": "2026-04-21T11:41:15.574Z",
+  "fetchedAt": "2026-04-21T14:01:37.584Z",
   "count": 60,
   "articles": [
+    {
+      "id": "dblnd2",
+      "title": "John Ternus’s first big problem is AI",
+      "summary": "Less than a year ago, Apple made headlines for a lack of AI announcements at its annual WWDC event. Ten months later, the company has announced that hardware executive John Ternus will succeed longtime CEO Tim Cook as chief executive - and the official release doesn't mention AI once. Ternus, currently Apple's SVP of hardware engineering, will take over as CEO on September 1st, after Cook's decade and a half in the role. Ternus is a 25-year veteran of the company and the first Apple CEO in about…",
+      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/04/JohnTernus.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "source": "The Verge",
+      "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/915662/john-ternus-apple-ceo-tim-cook-ai-problem-siri",
+      "publishedAt": "2026-04-21T13:37:55.000Z"
+    },
+    {
+      "id": "g7u0f3",
+      "title": "GRAI believes AI can make music more social, not replace artists",
+      "summary": "AI music startup GRAI says fans want to remix tracks, not generate songs from scratch.",
+      "imageUrl": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=800&q=80",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/04/21/grai-believes-ai-can-make-music-more-social-not-replace-artists/",
+      "publishedAt": "2026-04-21T13:00:00.000Z"
+    },
+    {
+      "id": "kd1po3",
+      "title": "The Download: turning down human noise, and LA’s stunning subway upgrade",
+      "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. The noise we make is hurting animals. Can we learn to shut up? As human society has expanded, animals have started struggling to hear one another. For many birds, the noise…",
+      "imageUrl": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=800&q=80",
+      "source": "MIT Tech Review",
+      "sourceUrl": "https://www.technologyreview.com/2026/04/21/1136246/the-download-human-noise-la-subway-upgrade/",
+      "publishedAt": "2026-04-21T12:10:00.000Z"
+    },
     {
       "id": "8y0a2d",
       "title": "Yelp is making its AI chatbot way more useful",
@@ -291,15 +318,6 @@
       "publishedAt": "2026-04-17T20:42:47.000Z"
     },
     {
-      "id": "bk3m6e",
-      "title": "Kevin Weil and Bill Peebles exit OpenAI as company continues to shed ‘side quests’",
-      "summary": "Kevin Weil and Bill Peebles are leaving OpenAI as the company shuts down Sora and folds its science team, signaling a sharp pivot away from consumer moonshots toward enterprise AI.",
-      "imageUrl": "https://images.unsplash.com/photo-1485827404703-89b55fcc595e?w=800&q=80",
-      "source": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/04/17/kevin-weil-and-bill-peebles-exit-openai-as-company-continues-to-shed-side-quests/",
-      "publishedAt": "2026-04-17T20:38:17.000Z"
-    },
-    {
       "id": "3kqu4y",
       "title": "Anthropic’s new cybersecurity model could get it back in the government’s good graces",
       "summary": "The Trump administration has spent nearly two months fighting with AI company Anthropic. It's dubbed the company a \"RADICAL LEFT, WOKE COMPANY\" full of \"Leftwing nut jobs\" and a menace to national security. But some of the ice may reportedly be melting between the two, thanks to Anthropic's buzzy new cybersecurity-focused model: Claude Mythos Preview. Anthropic's relationship with the Pentagon soured quickly in late February after the company refused to budge on two red lines: using its…",
@@ -334,15 +352,6 @@
       "source": "Wired",
       "sourceUrl": "https://www.wired.com/story/gazing-into-sam-altmans-orb-now-proves-youre-human-on-tinder/",
       "publishedAt": "2026-04-17T17:14:51.000Z"
-    },
-    {
-      "id": "ept8od",
-      "title": "Dairy Queen is putting an AI chatbot in its drive-thrus",
-      "summary": "Dairy Queen is becoming the latest fast food chain to get in on AI, as it's bringing a chatbot to dozens of its drive-thrus across the US and Canada. It aims to help speed up drive-thru service and \"encourage customers to add more food to their orders,\" according to The Wall Street Journal. Following a test last year, Dairy Queen is widely launching the tech built by Presto, an AI company that already works with chains like Carl's Jr., Hardee's, Taco John's, and Fazoli's. In 2023, a report from…",
-      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/04/gettyimages-2236326005.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "source": "The Verge",
-      "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/913928/dairy-queen-ai-drive-thru-presto",
-      "publishedAt": "2026-04-17T15:46:37.000Z"
     },
     {
       "id": "202ez4",
@@ -414,15 +423,6 @@
       "imageUrl": "https://images.unsplash.com/photo-1485827404703-89b55fcc595e?w=800&q=80",
       "source": "MIT Tech Review",
       "sourceUrl": "https://www.technologyreview.com/2026/04/16/1135216/making-ai-operational-in-constrained-public-sector-environments/",
-      "publishedAt": "2026-04-16T13:00:00.000Z"
-    },
-    {
-      "id": "l0v9tm",
-      "title": "Treating enterprise AI as an operating layer",
-      "summary": "There’s a fault line running through enterprise AI, and it’s not the one getting the most attention. The public conversation still tracks foundation models and benchmarks—GPT versus Gemini, reasoning scores, and marginal capability gains. But in practice, the more durable advantage is structural: who owns the operating layer where intelligence is applied, governed, and improved.…",
-      "imageUrl": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=800&q=80",
-      "source": "MIT Tech Review",
-      "sourceUrl": "https://www.technologyreview.com/2026/04/16/1135554/treating-enterprise-ai-as-an-operating-layer/",
       "publishedAt": "2026-04-16T13:00:00.000Z"
     },
     {
