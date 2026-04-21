@@ -1,7 +1,106 @@
 {
-  "fetchedAt": "2026-04-21T20:08:54.122Z",
+  "fetchedAt": "2026-04-21T21:23:02.274Z",
   "count": 60,
   "articles": [
+    {
+      "id": "3wt4ga",
+      "title": "10 Things That Matter in AI Right Now",
+      "summary": "Read the full article from MIT Tech Review.",
+      "imageUrl": "https://images.unsplash.com/photo-1655720828018-edd2daec9349?w=800&q=80",
+      "source": "MIT Tech Review",
+      "sourceUrl": "https://www.technologyreview.com/2026/04/21/1135643/10-ai-artificial-intelligence-trends-technologies-research-2026/",
+      "publishedAt": "2026-04-21T20:45:00.000Z"
+    },
+    {
+      "id": "t4y8vs",
+      "title": "LLMs+",
+      "summary": "When ChatGPT launched as an experimental prototype in late 2022, OpenAI’s chatbot became an everyday everything app for hundreds of millions of people. LLMs like ChatGPT were the new future: The entire tech industry was consumed by the inferno, with companies racing to spin up rival products. The ashes of the old tech world still…",
+      "imageUrl": "https://images.unsplash.com/photo-1485827404703-89b55fcc595e?w=800&q=80",
+      "source": "MIT Tech Review",
+      "sourceUrl": "https://www.technologyreview.com/2026/04/21/1135645/llm-large-language-models-ai/",
+      "publishedAt": "2026-04-21T20:45:00.000Z"
+    },
+    {
+      "id": "jldxu0",
+      "title": "Supercharged scams",
+      "summary": "When ChatGPT was released to the public in late 2022, it opened people’s eyes to how easily generative AI could churn out vast amounts of human-seeming text from simple prompts. This quickly caught the attention of criminals, who soon began using large language models to produce malicious emails—both the untargeted spam kind and more sophisticated,…",
+      "imageUrl": "https://images.unsplash.com/photo-1635070041078-e363dbe005cb?w=800&q=80",
+      "source": "MIT Tech Review",
+      "sourceUrl": "https://www.technologyreview.com/2026/04/21/1135647/supercharged-scams-ai-artificial-intelligence/",
+      "publishedAt": "2026-04-21T20:45:00.000Z"
+    },
+    {
+      "id": "dz2o1e",
+      "title": "World models",
+      "summary": "AI systems have already gained impressive mastery over the digital world, but the physical world is still humanity’s domain. As it turns out, building an AI system that can compose a novel or code an app is far easier than developing one that can fold laundry or navigate a city street. To get there, many…",
+      "imageUrl": "https://images.unsplash.com/photo-1635070041078-e363dbe005cb?w=800&q=80",
+      "source": "MIT Tech Review",
+      "sourceUrl": "https://www.technologyreview.com/2026/04/21/1135650/world-models-ai-artificial-intelligence/",
+      "publishedAt": "2026-04-21T20:45:00.000Z"
+    },
+    {
+      "id": "tl1ds2",
+      "title": "Weaponized deepfakes",
+      "summary": "For years, experts have warned that deepfakes—AI-generated videos, images, or audio recordings of people doing or saying things they haven’t actually done in real life—could be deployed in malicious ways. These dangers are now here. Improvements in deepfake technology, and the widespread availability of easy-to-use and cheap (or free) generative models, have made it easier…",
+      "imageUrl": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=800&q=80",
+      "source": "MIT Tech Review",
+      "sourceUrl": "https://www.technologyreview.com/2026/04/21/1135652/weaponized-deepfakes-ai-artificial-intelligence/",
+      "publishedAt": "2026-04-21T20:45:00.000Z"
+    },
+    {
+      "id": "tmod58",
+      "title": "Agent orchestration",
+      "summary": "When people say AI will speed up drug development or fear that it will bring about mass layoffs, what they have in mind—whether they know it or not—are AI agents. ChatGPT made large language models a mass consumer product. But to change the world, AI needs to do more than just talk back: It needs…",
+      "imageUrl": "https://images.unsplash.com/photo-1676299081847-824916de030a?w=800&q=80",
+      "source": "MIT Tech Review",
+      "sourceUrl": "https://www.technologyreview.com/2026/04/21/1135654/agent-orchestration-ai-artificial-intelligence/",
+      "publishedAt": "2026-04-21T20:45:00.000Z"
+    },
+    {
+      "id": "c8kygc",
+      "title": "Humanoid data",
+      "summary": "I was recently invited to join an app that would pay me cryptocurrency to film myself doing tasks like putting food into a bowl, microwaving it, and then taking it out. Another website suggested I try a new game in which I’d remotely control a robotic arm in Shenzhen, China, as it completed puzzles and…",
+      "imageUrl": "https://images.unsplash.com/photo-1550751827-4bd374c3f58b?w=800&q=80",
+      "source": "MIT Tech Review",
+      "sourceUrl": "https://www.technologyreview.com/2026/04/21/1135656/humanoid-data-robot-training-ai-artificial-intelligence/",
+      "publishedAt": "2026-04-21T20:45:00.000Z"
+    },
+    {
+      "id": "fa4xjw",
+      "title": "China’s open-source bet",
+      "summary": "Silicon Valley AI companies follow a familiar playbook: Keep the secret sauce behind an API, and charge for every drop. China’s leading AI labs are playing a different game: They ship models as downloadable “open-weight” packages. This lets developers adapt the models and run them on their own hardware to build products without negotiating a…",
+      "imageUrl": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=800&q=80",
+      "source": "MIT Tech Review",
+      "sourceUrl": "https://www.technologyreview.com/2026/04/21/1135658/china-open-source-models-ai-artificial-intelligence/",
+      "publishedAt": "2026-04-21T20:45:00.000Z"
+    },
+    {
+      "id": "x9srb0",
+      "title": "Artificial scientists",
+      "summary": "AI companies frequently invoke the possibility of AI-enabled scientific discovery as a justification for their existence: If the technology eventually cures cancer and solves climate change, then all the carbon emissions and slop videos will have been well worth it. Already, LLMs can assist scientists in all sorts of ways. They can point people to…",
+      "imageUrl": "https://images.unsplash.com/photo-1655720828018-edd2daec9349?w=800&q=80",
+      "source": "MIT Tech Review",
+      "sourceUrl": "https://www.technologyreview.com/2026/04/21/1135663/artificial-scientists-ai-artificial-intelligence/",
+      "publishedAt": "2026-04-21T20:45:00.000Z"
+    },
+    {
+      "id": "rrx24g",
+      "title": "Resistance",
+      "summary": "Turns out not everyone wants to live in the future that AI companies are building. People from all walks of life are speaking out against rising electricity bills from data centers, disappearing jobs, chatbots’ impact on teen mental health, the military’s use of AI, and copyright infringement—among other concerns. This anti-AI movement is taking shape…",
+      "imageUrl": "https://images.unsplash.com/photo-1655720828018-edd2daec9349?w=800&q=80",
+      "source": "MIT Tech Review",
+      "sourceUrl": "https://www.technologyreview.com/2026/04/21/1135665/resistance-ai-artificial-intelligence-backlash-protests/",
+      "publishedAt": "2026-04-21T20:45:00.000Z"
+    },
+    {
+      "id": "bztw8u",
+      "title": "Apple’s John Ternus will run one of the world’s most powerful companies; the job is a minefield",
+      "summary": "Apple's top job comes with almost unrivaled power and money, but it comes with plenty of baggage, too.",
+      "imageUrl": "https://images.unsplash.com/photo-1635070041078-e363dbe005cb?w=800&q=80",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/04/21/apples-john-ternus-will-run-one-of-the-worlds-most-powerful-companies-the-job-is-a-minefield/",
+      "publishedAt": "2026-04-21T20:23:24.000Z"
+    },
     {
       "id": "6stzg8",
       "title": "AI research lab NeoCognition lands $40M seed to build agents that learn like humans",
@@ -93,15 +192,6 @@
       "publishedAt": "2026-04-21T17:30:24.000Z"
     },
     {
-      "id": "1ui2yd",
-      "title": "Building agent-first governance and security",
-      "summary": "As AI agents increasingly work alongside humans across organizations, companies could be inadvertently opening a new attack surface. Insecure agents can be manipulated to access sensitive systems and proprietary data, increasing enterprise risk. In some modern enterprises, non-human identities (NHI) are outpacing human identities, and that trend will explode with agentic AI. Solid governance and…",
-      "imageUrl": "https://images.unsplash.com/photo-1531746790095-6c10a4031c5f?w=800&q=80",
-      "source": "MIT Tech Review",
-      "sourceUrl": "https://www.technologyreview.com/2026/04/21/1136158/building-agent-first-governance-and-security/",
-      "publishedAt": "2026-04-21T17:22:54.000Z"
-    },
-    {
       "id": "52nq78",
       "title": "Clarifai deletes 3 million photos that OkCupid provided to train facial recognition AI, report says",
       "summary": "The photo deletion comes after an FTC settlement with Clarifai. The company had asked OkCupid — whose executives had invested in Clarifai — to share data in 2014, according to court documents.",
@@ -174,15 +264,6 @@
       "publishedAt": "2026-04-21T12:35:20.000Z"
     },
     {
-      "id": "kd1po3",
-      "title": "The Download: turning down human noise, and LA’s stunning subway upgrade",
-      "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. The noise we make is hurting animals. Can we learn to shut up? As human society has expanded, animals have started struggling to hear one another. For many birds, the noise…",
-      "imageUrl": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=800&q=80",
-      "source": "MIT Tech Review",
-      "sourceUrl": "https://www.technologyreview.com/2026/04/21/1136246/the-download-human-noise-la-subway-upgrade/",
-      "publishedAt": "2026-04-21T12:10:00.000Z"
-    },
-    {
       "id": "8y0a2d",
       "title": "Yelp is making its AI chatbot way more useful",
       "summary": "Yelp is giving its chatbot assistant a major upgrade, turning the platform into something closer to a digital concierge with a suite of new features designed for \"getting things done.\" The move, one of several AI-focused updates in recent months, is part of a broader industry push to make AI more relevant and practically useful to consumers while turning huge troves of user-generated data into a competitive edge. In a press release, Yelp says the Yelp Assistant chatbot will be at \"the center of…",
@@ -199,15 +280,6 @@
       "source": "Wired",
       "sourceUrl": "https://www.wired.com/story/ai-generated-maga-girls/",
       "publishedAt": "2026-04-21T11:00:00.000Z"
-    },
-    {
-      "id": "8isnrp",
-      "title": "Digging for clues about the North Pole’s past",
-      "summary": "In the past, even with an icebreaker and during peak melt season, getting to the North Pole wasn’t a sure bet. It took favorable winds to crack the frozen ocean surface, and ships had to fight through ice that had grown many meters thick over several winters. In the summer of 2025, though, Jochen Knies…",
-      "imageUrl": "https://images.unsplash.com/photo-1550751827-4bd374c3f58b?w=800&q=80",
-      "source": "MIT Tech Review",
-      "sourceUrl": "https://www.technologyreview.com/2026/04/21/1135231/digging-for-truth-north-pole-past-seabed/",
-      "publishedAt": "2026-04-21T10:00:00.000Z"
     },
     {
       "id": "tqjo7q",
@@ -291,15 +363,6 @@
       "publishedAt": "2026-04-20T13:00:00.000Z"
     },
     {
-      "id": "o5b21",
-      "title": "The Download: murderous ‘mirror’ bacteria, and Chinese workers fighting AI doubles",
-      "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. No one’s sure if synthetic mirror life will kill us all In February 2019, a group of scientists proposed a high-risk, cutting-edge, irresistibly exciting idea that the National Science Foundation should…",
-      "imageUrl": "https://images.unsplash.com/photo-1485827404703-89b55fcc595e?w=800&q=80",
-      "source": "MIT Tech Review",
-      "sourceUrl": "https://www.technologyreview.com/2026/04/20/1136154/the-download-murderous-mirror-bacteria-chinese-workers-fight-ai-agents/",
-      "publishedAt": "2026-04-20T12:10:00.000Z"
-    },
-    {
       "id": "kvsziy",
       "title": "Tech CEOs Think AI Will Let Them Be Everywhere at Once",
       "summary": "Mark Zuckerberg and Jack Dorsey have different visions for how to use AI for management purposes, but both imagine a system of heightened control.",
@@ -307,24 +370,6 @@
       "source": "Wired",
       "sourceUrl": "https://www.wired.com/story/tech-ceos-using-ai-to-be-everywhere-at-once/",
       "publishedAt": "2026-04-20T11:00:00.000Z"
-    },
-    {
-      "id": "rgo4g3",
-      "title": "Colossal Biosciences said it cloned red wolves. Is it for real?",
-      "summary": "If you want to capture something wolflike, it’s best to embark before dawn. So on a morning this January, with the eastern horizon still pink-hued, I drove with two young scientists into a blanket of fog. Forty miles to the west, the industrial sprawl of Houston spawned a golden glow. Tanner Broussard’s old Toyota Tacoma…",
-      "imageUrl": "https://images.unsplash.com/photo-1526374965328-7f61d4dc18c5?w=800&q=80",
-      "source": "MIT Tech Review",
-      "sourceUrl": "https://www.technologyreview.com/2026/04/20/1135222/red-wolves-colossal-biosciences-clones/",
-      "publishedAt": "2026-04-20T10:00:00.000Z"
-    },
-    {
-      "id": "yfutrr",
-      "title": "Chinese tech workers are starting to train their AI doubles—and pushing back",
-      "summary": "Tech workers in China are being instructed by their bosses to train AI agents to replace them—and it’s prompting a wave of soul-searching among otherwise enthusiastic early adopters. Earlier this month a GitHub project called Colleague Skill, which claimed workers could use it to “distill” their colleagues’ skills and personality traits and replicate them with…",
-      "imageUrl": "https://images.unsplash.com/photo-1620712943543-bcc4688e7485?w=800&q=80",
-      "source": "MIT Tech Review",
-      "sourceUrl": "https://www.technologyreview.com/2026/04/20/1136149/chinese-tech-workers-ai-colleagues/",
-      "publishedAt": "2026-04-20T09:00:00.000Z"
     },
     {
       "id": "j6s6z7",
@@ -343,15 +388,6 @@
       "source": "The Verge",
       "sourceUrl": "https://www.theverge.com/tech/914723/vercel-hacked",
       "publishedAt": "2026-04-19T19:54:52.000Z"
-    },
-    {
-      "id": "d3ycaa",
-      "title": "The 12-month window",
-      "summary": "A lot of AI startups exist partly because the foundation models haven't expanded into their category yet. As many jokingly acknowledge, that won't last forever.",
-      "imageUrl": "https://images.unsplash.com/photo-1550751827-4bd374c3f58b?w=800&q=80",
-      "source": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/04/19/the-12-month-window/",
-      "publishedAt": "2026-04-19T19:30:00.000Z"
     },
     {
       "id": "inggrw",
@@ -390,24 +426,6 @@
       "publishedAt": "2026-04-17T19:56:42.000Z"
     },
     {
-      "id": "1wy5tp",
-      "title": "Pie Day 2026",
-      "summary": "Ellie’s Pi Day post: https://mitadmissions.org/blogs/entry/pi-day-2026-food-institute/ How Ellie orchestrated the baking of 30 pies: https://mitadmissions.org/blogs/entry/behind-the-scenes-of-thirty-pies/",
-      "imageUrl": "https://images.unsplash.com/photo-1635070041078-e363dbe005cb?w=800&q=80",
-      "source": "MIT Tech Review",
-      "sourceUrl": "https://www.technologyreview.com/2026/04/17/1136121/pie-day-links/",
-      "publishedAt": "2026-04-17T14:07:41.000Z"
-    },
-    {
-      "id": "xjautx",
-      "title": "The Download: bad news for inner Neanderthals, and AI warfare’s human illusion",
-      "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. The problem with thinking you’re part Neanderthal There’s a theory that many of us have an “inner Neanderthal.” The idea is that Homo sapiens and a cousin species once bred, leaving…",
-      "imageUrl": "https://images.unsplash.com/photo-1635070041078-e363dbe005cb?w=800&q=80",
-      "source": "MIT Tech Review",
-      "sourceUrl": "https://www.technologyreview.com/2026/04/17/1136112/the-download-inner-neanderthal-ai-war-human-in-the-loop/",
-      "publishedAt": "2026-04-17T12:10:00.000Z"
-    },
-    {
       "id": "im0ag2",
       "title": "Recent advances push Big Tech closer to the Q-Day danger zone",
       "summary": "Here's which players are winning the race to transition to post-quantum crypto.",
@@ -415,24 +433,6 @@
       "source": "Ars Technica",
       "sourceUrl": "https://arstechnica.com/security/2026/04/while-some-big-tech-players-accelerate-pqc-readiness-others-stay-the-course/",
       "publishedAt": "2026-04-17T11:00:50.000Z"
-    },
-    {
-      "id": "xlxie",
-      "title": "The case for fixing everything",
-      "summary": "The handsome new book Maintenance: Of Everything, Part One, by the tech industry legend Stewart Brand, promises to be the first in a series offering “a comprehensive overview of the civilizational importance of maintenance.” One of Brand’s several biographers described him as a mainstay of both counterculture and cyberculture, and with Maintenance, Brand wants us…",
-      "imageUrl": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=800&q=80",
-      "source": "MIT Tech Review",
-      "sourceUrl": "https://www.technologyreview.com/2026/04/17/1135408/book-review-stewart-brand-fixing-everything-maintenance/",
-      "publishedAt": "2026-04-17T10:00:00.000Z"
-    },
-    {
-      "id": "fm2ndi",
-      "title": "How robots learn: A brief, contemporary history",
-      "summary": "Roboticists used to dream big but build small. They’d hope to match or exceed the extraordinary complexity of the human body, and then they’d spend their career refining robotic arms for auto plants. Aim for C-3P0; end up with the Roomba. The real ambition for many of these researchers was the robot of science fiction—one…",
-      "imageUrl": "https://images.unsplash.com/photo-1655720828018-edd2daec9349?w=800&q=80",
-      "source": "MIT Tech Review",
-      "sourceUrl": "https://www.technologyreview.com/2026/04/17/1135416/how-robots-learn-brief-contemporary-history/",
-      "publishedAt": "2026-04-17T10:00:00.000Z"
     },
     {
       "id": "tx7wx1",
