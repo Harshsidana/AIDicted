@@ -1,7 +1,34 @@
 {
-  "fetchedAt": "2026-04-21T22:10:52.619Z",
+  "fetchedAt": "2026-04-21T23:09:24.198Z",
   "count": 60,
   "articles": [
+    {
+      "id": "4h2ajq",
+      "title": "SpaceX is working with Cursor and has an option to buy the startup for $60 billion",
+      "summary": "Only Elon would do this before an IPO.",
+      "imageUrl": "https://images.unsplash.com/photo-1550751827-4bd374c3f58b?w=800&q=80",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/04/21/spacex-is-working-with-cursor-and-has-an-option-to-buy-the-startup-for-60-billion/",
+      "publishedAt": "2026-04-21T22:58:22.000Z"
+    },
+    {
+      "id": "6o2af9",
+      "title": "SpaceX cuts a deal to maybe buy Cursor for $60 billion",
+      "summary": "With an IPO looming for Elon Musk's SpaceX / xAI / X combo platter of companies, SpaceX has announced an odd arrangement to either acquire the automated programming platform Cursor for $60 billion or pay a fee of $10 billion. Buying this startup that's focused on AI coding could help xAI's tools compete with market leader Anthropic, as well as the other competitors. A report by The Information this week said Sergey Brin has directed Google's \"strike team\" to help its agentic AI tools catch up,…",
+      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/05/STKB355_SPACEX_C.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "source": "The Verge",
+      "sourceUrl": "https://www.theverge.com/science/916427/spacex-cursor-potential-deal-acquisition",
+      "publishedAt": "2026-04-21T22:45:37.000Z"
+    },
+    {
+      "id": "f7cwtm",
+      "title": "Roundtables: Unveiling The 10 Things That Matter in AI Right Now",
+      "summary": "Listen to the session or watch below Watch a special edition of Roundtables simulcast live from EmTech AI, MIT Technology Review’s signature conference for AI leadership. Subscribers got an exclusive first look at a new list capturing 10 key technologies, emerging trends, bold ideas, and powerful movements in AI that you need to know about…",
+      "imageUrl": "https://images.unsplash.com/photo-1526374965328-7f61d4dc18c5?w=800&q=80",
+      "source": "MIT Tech Review",
+      "sourceUrl": "https://www.technologyreview.com/2026/04/21/1135486/roundtables-unveiling-the-10-things-that-matter-in-ai-right-now/",
+      "publishedAt": "2026-04-21T22:09:25.000Z"
+    },
     {
       "id": "hye0e3",
       "title": "The new word in home construction could be “plastics”",
@@ -81,15 +108,6 @@
       "imageUrl": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=800&q=80",
       "source": "MIT Tech Review",
       "sourceUrl": "https://www.technologyreview.com/2026/04/21/1134945/inventor-recalls-eye-imaging-breakthrough/",
-      "publishedAt": "2026-04-21T21:00:00.000Z"
-    },
-    {
-      "id": "ux02vv",
-      "title": "Caring for service dogs",
-      "summary": "Brenda Schafer Kennedy, SM ’93, knows that sometimes the best medicine comes with four legs and fur. Kennedy is the chief veterinary and research officer for Canine Companions, a California-based, nationwide organization that provides assistance dogs at no cost to children, veterans, and adults with disabilities. “The need is enormous: One in four people in…",
-      "imageUrl": "https://images.unsplash.com/photo-1550751827-4bd374c3f58b?w=800&q=80",
-      "source": "MIT Tech Review",
-      "sourceUrl": "https://www.technologyreview.com/2026/04/21/1134948/caring-for-service-dogs/",
       "publishedAt": "2026-04-21T21:00:00.000Z"
     },
     {
@@ -370,24 +388,6 @@
       "source": "Wired",
       "sourceUrl": "https://www.wired.com/story/tech-ceos-using-ai-to-be-everywhere-at-once/",
       "publishedAt": "2026-04-20T11:00:00.000Z"
-    },
-    {
-      "id": "j6s6z7",
-      "title": "OpenAI’s existential questions",
-      "summary": "On the latest episode of Equity, we discuss OpenAI's latest acquisitions and whether they address \"two big existential problems\" for the company.",
-      "imageUrl": "https://images.unsplash.com/photo-1531746790095-6c10a4031c5f?w=800&q=80",
-      "source": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/04/19/openais-existential-questions/",
-      "publishedAt": "2026-04-19T21:24:06.000Z"
-    },
-    {
-      "id": "7ar1gn",
-      "title": "Cloud development platform Vercel was hacked",
-      "summary": "Vercel, a major development platform that hosts and deploys web apps, was compromised, and the hackers are attempting to sell stolen data. A person claiming to be a member of ShinyHunters, which was behind the recent hack of Rockstar Games, posted some data online, including employee names, email addresses, and activity time stamps. Vercel confirmed in a post on X that a \"security incident\" had occurred, and that it impacted a \"limited subset\" of its customers. Vercel said that a compromised…",
-      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/04/Screenshot-2026-04-19-at-3.53.46PM.png?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "source": "The Verge",
-      "sourceUrl": "https://www.theverge.com/tech/914723/vercel-hacked",
-      "publishedAt": "2026-04-19T19:54:52.000Z"
     },
     {
       "id": "inggrw",
