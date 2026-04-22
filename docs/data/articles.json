@@ -1,7 +1,43 @@
 {
-  "fetchedAt": "2026-04-22T18:40:49.533Z",
+  "fetchedAt": "2026-04-22T21:28:13.987Z",
   "count": 60,
   "articles": [
+    {
+      "id": "7e099p",
+      "title": "AI failure could trigger the next financial crisis, warns Elizabeth Warren",
+      "summary": "\"I know a bubble when I see one.\" That's what Sen. Elizabeth Warren (D-MA), who led the push to create a new consumer financial regulator in the wake of the 2008 recession, told a crowd at a Vanderbilt Policy Accelerator event in Washington, DC on Wednesday. Warren warned of what she called \"striking\" parallels to that crisis in the AI industry. While she believes the technology has \"enormous potential,\" she warned that AI companies' massive spending and borrowing practices are creating a…",
+      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25563184/2160975539.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "source": "The Verge",
+      "sourceUrl": "https://www.theverge.com/policy/917026/ai-economy-bubble-elizabeth-warren",
+      "publishedAt": "2026-04-22T20:29:05.000Z"
+    },
+    {
+      "id": "5medqp",
+      "title": "OpenAI now lets teams make custom bots that can do work on their own",
+      "summary": "OpenAI is giving users of its Business, Enterprise, Edu, and Teachers plans access to cloud-based \"workspace\" agents available in ChatGPT that can perform business tasks. In its blog post, OpenAI gives examples of agents like one that finds product feedback on the web and sends a report in Slack and a sales agent that can draft follow-up emails in Gmail. These new agents follow increasing interest in agents across the AI landscape, especially after OpenClaw - the AI agent formerly known as…",
+      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/08/STK155_OPEN_AI_4_CVirginia_B.png?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "source": "The Verge",
+      "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/917065/openai-chatgpt-workspace-agents-custom-teams-bots",
+      "publishedAt": "2026-04-22T20:09:02.000Z"
+    },
+    {
+      "id": "bego4k",
+      "title": "How SpaceX preempted a $2B fundraise with a $60B buyout offer",
+      "summary": "Cursor was on track to close a $2 billion funding round this week but chose to halt discussions after SpaceX offered a $10 billion \"collaboration fee\" and a path to a $60 billion acquisition.",
+      "imageUrl": "https://images.unsplash.com/photo-1531746790095-6c10a4031c5f?w=800&q=80",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/04/22/how-spacex-preempted-a-2b-fundraise-with-a-60b-buyout-offer/",
+      "publishedAt": "2026-04-22T19:51:51.000Z"
+    },
+    {
+      "id": "zhfctg",
+      "title": "Microsoft issues emergency update for macOS and Linux ASP.NET threat",
+      "summary": "When authentication fails, things can go very, very wrong.",
+      "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2023/07/exploit-vulnerability-security.jpg",
+      "source": "Ars Technica",
+      "sourceUrl": "https://arstechnica.com/security/2026/04/microsoft-issues-emergency-update-for-macos-and-linux-asp-net-threat/",
+      "publishedAt": "2026-04-22T19:32:56.000Z"
+    },
     {
       "id": "bcwv3",
       "title": "Google Cloud launches two new AI chips to compete with Nvidia",
@@ -23,17 +59,17 @@
     {
       "id": "et7nb0",
       "title": "Watch Sony’s elite ping-pong robot beat top-ranked players",
-      "summary": "Ace is the first robot that can beat the best human players while following the official rules of table tennis. | Image: Sony AI Humans have been building ping-pong playing robots for decades, such as Omron's FOREPHUS that challenged amateur competitors at CES 2017. What sets Ace apart from the rest is that the robot, which was developed by Sony's AI division, is the first that can hold its own against top-ranked human players and occasionally even beat them in matches that follow the official…",
+      "summary": "Ace is the first robot that can beat the best human players while following the official rules of table tennis. | Image: Sony AI Humans have been building ping-pong playing robots for decades, such as Omron's FORPHEUS that challenged amateur competitors at CES 2017. What sets Ace apart from the rest is that the robot, which was developed by Sony's AI division, is the first that can hold its own against top-ranked human players and occasionally even beat them in matches that follow the official…",
       "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/04/sony_ace_robot.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
       "source": "The Verge",
       "sourceUrl": "https://www.theverge.com/tech/916800/sony-ai-ace-ping-pong-table-tennis-robot-cameras",
       "publishedAt": "2026-04-22T17:43:38.000Z"
     },
     {
-      "id": "emisd9",
-      "title": "Google turns Chrome into an AI coworker for the workplace",
-      "summary": "Google brings Gemini-powered 'auto browse' capabilities to Chrome for enterprise users, letting workers automate tasks like research, data entry, and more.",
-      "imageUrl": "https://images.unsplash.com/photo-1526374965328-7f61d4dc18c5?w=800&q=80",
+      "id": "m2uqp4",
+      "title": "Google turns Chrome into an AI co-worker for the workplace",
+      "summary": "Google brings Gemini-powered \"auto browse\" capabilities to Chrome for enterprise users, letting workers automate tasks like research, data entry, and more.",
+      "imageUrl": "https://images.unsplash.com/photo-1655720828018-edd2daec9349?w=800&q=80",
       "source": "TechCrunch",
       "sourceUrl": "https://techcrunch.com/2026/04/22/google-turns-chrome-into-an-ai-coworker-for-the-workplace/",
       "publishedAt": "2026-04-22T17:30:00.000Z"
@@ -318,15 +354,6 @@
       "publishedAt": "2026-04-21T19:00:05.000Z"
     },
     {
-      "id": "gvjfmf",
-      "title": "ChatGPT’s new Images 2.0 model is surprisingly good at generating text",
-      "summary": "ChatGPT Images 2.0, the newest image-generation model from OpenAI, shows just how much AI capabilities have evolved over the last few years.",
-      "imageUrl": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=800&q=80",
-      "source": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/04/21/chatgpts-new-images-2-0-model-is-surprisingly-good-at-generating-text/",
-      "publishedAt": "2026-04-21T19:00:00.000Z"
-    },
-    {
       "id": "8jdk39",
       "title": "OpenAI’s updated image generator can now pull information from the web",
       "summary": "An image generated by ChatGPT Images 2.0. | Image: OpenAI OpenAI is rolling out the latest version of its AI-powered image generator with new \"thinking capabilities,\" allowing it to search the web to help it create multiple images from a single prompt. On Tuesday, OpenAI announced that ChatGPT Images 2.0 can now create more \"sophisticated\" images, with improvements to its ability to follow instructions, preserve details of your choosing, and generate text. It's powered by OpenAI's new GPT Image…",
@@ -354,15 +381,6 @@
       "publishedAt": "2026-04-21T18:30:00.000Z"
     },
     {
-      "id": "i34mko",
-      "title": "Framework’s first eGPUs turn its laptop into a desktop PC",
-      "summary": "Remember when Framework made the first laptop where you can easily upgrade its entire internal video card in three minutes flat? The company's getting into the external graphics game, too. As promised last August, you'll be able to turn the Framework Laptop 16's GPU modules into external ones instead. Or, you can plug in a desktop graphics card (or network card, or other PCIe cards) for more power than most laptops ever dream of having, with eight lanes of PCI-Express bandwidth. Framework's…",
-      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/04/eGPU_Install_02.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "source": "The Verge",
-      "sourceUrl": "https://www.theverge.com/gadgets/915328/framework-oculink-egpu-dev-kit-laptop-16",
-      "publishedAt": "2026-04-21T18:07:24.000Z"
-    },
-    {
       "id": "26rx2f",
       "title": "Tim Cook’s Legacy Is Turning Apple Into a Subscription",
       "summary": "The soon-to-exit Apple CEO went all in on services. Now, the incoming CEO, John Ternus, will need to embrace the AI era.",
@@ -370,15 +388,6 @@
       "source": "Wired",
       "sourceUrl": "https://www.wired.com/story/apple-tim-cook-subscription-business/",
       "publishedAt": "2026-04-21T17:35:12.000Z"
-    },
-    {
-      "id": "q6mzpk",
-      "title": "Celebrities will be able to find and request removal of AI deepfakes on YouTube",
-      "summary": "YouTube is expanding its AI deepfake monitoring feature to Hollywood - meaning some celebrity AI videos could soon disappear. The platform's likeness detection feature searches YouTube for AI deepfake content and flags it for public figures enrolled in the program. Public figures can use it to keep track of AI content on YouTube of themselves or request removal (takedowns are evaluated against YouTube's privacy policy, and not every request will be approved). YouTube began testing the feature…",
-      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/03/STK419_DEEPFAKE_3_CVIRGINIA_C.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "source": "The Verge",
-      "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/915872/celebrities-will-be-able-to-find-and-request-removal-of-ai-deepfakes-on-youtube",
-      "publishedAt": "2026-04-21T17:30:24.000Z"
     },
     {
       "id": "gn5nok",
@@ -532,15 +541,6 @@
       "source": "Ars Technica",
       "sourceUrl": "https://arstechnica.com/information-technology/2026/03/federal-cyber-experts-called-microsofts-cloud-a-pile-of-shit-approved-it-anyway/",
       "publishedAt": "2026-03-18T17:36:40.000Z"
-    },
-    {
-      "id": "5r6sbj",
-      "title": "Researchers disclose vulnerabilities in IP KVMs from four manufacturers",
-      "summary": "Internet-exposed devices that give BIOS-level access? What could possibly go wrong?",
-      "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2023/07/exploit-vulnerability-security.jpg",
-      "source": "Ars Technica",
-      "sourceUrl": "https://arstechnica.com/security/2026/03/researchers-disclose-vulnerabilities-in-ip-kvms-from-4-manufacturers/",
-      "publishedAt": "2026-03-17T17:07:12.000Z"
     }
   ]
 }
