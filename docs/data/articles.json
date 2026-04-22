@@ -1,7 +1,52 @@
 {
-  "fetchedAt": "2026-04-22T11:40:06.119Z",
+  "fetchedAt": "2026-04-22T14:01:22.258Z",
   "count": 60,
   "articles": [
+    {
+      "id": "qxb5iv",
+      "title": "AI is spitting out more potential drugs than ever. This start-up wants to figure out which ones matter.",
+      "summary": "10x Science has raised a $4.8 million seed round to help pharmaceutical researchers understand complex molecules.",
+      "imageUrl": "https://images.unsplash.com/photo-1635070041078-e363dbe005cb?w=800&q=80",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/04/22/ai-is-spitting-out-more-potential-drugs-than-ever-this-start-up-wants-to-figure-out-which-ones-matter/",
+      "publishedAt": "2026-04-22T13:00:00.000Z"
+    },
+    {
+      "id": "3ai2z8",
+      "title": "The Download: introducing the 10 Things That Matter in AI Right Now",
+      "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. Introducing: 10 Things That Matter in AI Right Now What actually matters in AI right now? It’s getting harder to tell amid the constant launches, hype, and warnings. To cut through…",
+      "imageUrl": "https://images.unsplash.com/photo-1620712943543-bcc4688e7485?w=800&q=80",
+      "source": "MIT Tech Review",
+      "sourceUrl": "https://www.technologyreview.com/2026/04/22/1136310/the-download-10-things-that-matter-in-ai-right-now/",
+      "publishedAt": "2026-04-22T12:10:00.000Z"
+    },
+    {
+      "id": "ezx0lf",
+      "title": "The most interesting startups showcased at Google Cloud Next 2026",
+      "summary": "Google wants AI startups on its cloud and has showcased a long list of them at its annual conference.",
+      "imageUrl": "https://images.unsplash.com/photo-1531746790095-6c10a4031c5f?w=800&q=80",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/04/22/the-most-interesting-startups-showcased-at-google-cloud-next-2026/",
+      "publishedAt": "2026-04-22T12:00:00.000Z"
+    },
+    {
+      "id": "qb0x24",
+      "title": "Google Maps is about to get a big dose of AI",
+      "summary": "Generative AI is being infused into Google's popular feature within Maps.",
+      "imageUrl": "https://images.unsplash.com/photo-1550751827-4bd374c3f58b?w=800&q=80",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/04/22/google-maps-is-about-to-get-a-big-dose-of-ai/",
+      "publishedAt": "2026-04-22T12:00:00.000Z"
+    },
+    {
+      "id": "1pd0dy",
+      "title": "Exclusive: Google deepens Thinking Machines Lab ties with new multi-billion-dollar deal",
+      "summary": "Mira Murati's Thinking Machines Lab has signed a multi-billion-dollar deal with Google Cloud for AI infrastructure powered by Nvidia's latest GB300 chips, TechCrunch has exclusively learned.",
+      "imageUrl": "https://images.unsplash.com/photo-1485827404703-89b55fcc595e?w=800&q=80",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/04/22/exclusive-google-deepens-thinking-machines-lab-ties-with-new-multi-billion-dollar-deal/",
+      "publishedAt": "2026-04-22T12:00:00.000Z"
+    },
     {
       "id": "1g6hmy",
       "title": "AI needs a strong data fabric to deliver business value",
@@ -144,15 +189,6 @@
       "imageUrl": "https://images.unsplash.com/photo-1620712943543-bcc4688e7485?w=800&q=80",
       "source": "MIT Tech Review",
       "sourceUrl": "https://www.technologyreview.com/2026/04/21/1134862/this-tool-could-show-how-consciousness-works/",
-      "publishedAt": "2026-04-21T21:00:00.000Z"
-    },
-    {
-      "id": "vjfx3a",
-      "title": "Early life may have breathed oxygen earlier than believed",
-      "summary": "Around 2.3 billion years ago, a pivotal period known as the Great Oxidation Event set the evolutionary course for oxygen-breathing life on Earth. But MIT geobiologists and colleagues have found evidence that some early forms of life evolved the ability to use oxygen hundreds of millions of years before that. By mapping enzyme sequences from…",
-      "imageUrl": "https://images.unsplash.com/photo-1526374965328-7f61d4dc18c5?w=800&q=80",
-      "source": "MIT Tech Review",
-      "sourceUrl": "https://www.technologyreview.com/2026/04/21/1134867/early-life-may-have-breathed-oxygen-earlier-than-believed/",
       "publishedAt": "2026-04-21T21:00:00.000Z"
     },
     {
@@ -309,15 +345,6 @@
       "publishedAt": "2026-04-21T13:37:55.000Z"
     },
     {
-      "id": "g7u0f3",
-      "title": "GRAI believes AI can make music more social, not replace artists",
-      "summary": "AI music startup GRAI says fans want to remix tracks, not generate songs from scratch.",
-      "imageUrl": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=800&q=80",
-      "source": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/04/21/grai-believes-ai-can-make-music-more-social-not-replace-artists/",
-      "publishedAt": "2026-04-21T13:00:00.000Z"
-    },
-    {
       "id": "gn5nok",
       "title": "Contrary to popular superstition, AES 128 is just fine in a post-quantum world",
       "summary": "A stubborn misconception is hampering the already hard work of quantum readiness.",
@@ -345,15 +372,6 @@
       "publishedAt": "2026-04-21T11:00:00.000Z"
     },
     {
-      "id": "tqjo7q",
-      "title": "Anthropic takes $5B from Amazon and pledges $100B in cloud spending in return",
-      "summary": "Amazon has made another circular AI deal: It's investing another $5 billion in Anthropic. Anthropic has agreed to spend $100 billion on AWS in return.",
-      "imageUrl": "https://images.unsplash.com/photo-1635070041078-e363dbe005cb?w=800&q=80",
-      "source": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/04/20/anthropic-takes-5b-from-amazon-and-pledges-100b-in-cloud-spending-in-return/",
-      "publishedAt": "2026-04-20T23:10:27.000Z"
-    },
-    {
       "id": "ddblz2",
       "title": "A Humanoid Robot Set a Half-Marathon Record in China",
       "summary": "An autonomous robot from the company Honor ran a half marathon in 50:26, beating the human record by 7 minutes.",
@@ -363,15 +381,6 @@
       "publishedAt": "2026-04-20T22:33:27.000Z"
     },
     {
-      "id": "2cqznj",
-      "title": "Google rolls out Gemini in Chrome in APAC countries",
-      "summary": "Google is rolling out Gemini in Chrome in Australia, Indonesia, Japan, the Philippines, Singapore, South Korea, and Vietnam. The company is rolling this feature out to both desktop and iOS in all of these countries except Japan.",
-      "imageUrl": "https://images.unsplash.com/photo-1531746790095-6c10a4031c5f?w=800&q=80",
-      "source": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/04/20/google-rolls-out-gemini-in-chrome-in-seven-new-countries/",
-      "publishedAt": "2026-04-20T22:00:00.000Z"
-    },
-    {
       "id": "hs8t6d",
       "title": "Silicon Valley has forgotten what normal people want",
       "summary": "The long-term risks of the All-In Podcast, illustrated. | Image: Cath Virginia / The Verge, Turbosquid, Getty Images One of the most mortifying things about knowing a lot of techies is listening to them tell me excitedly about some very important discovery that they believe they have made. Recently, I ran into an acquaintance of mine, who began talking my ear off about an amazing discovery he'd made with LLMs. Knowledge, it turns out, is structured into language! You could put one word into…",
@@ -379,15 +388,6 @@
       "source": "The Verge",
       "sourceUrl": "https://www.theverge.com/tldr/915176/nft-metaverse-ai-weirdos",
       "publishedAt": "2026-04-20T20:30:00.000Z"
-    },
-    {
-      "id": "ubzt0b",
-      "title": "It’s not just one thing — it’s another thing",
-      "summary": "This sentence construction (\"It's not just this — it's that\") has become so common in AI-generated writing that it's no longer just a clue that a piece of writing may be synthetic — it's almost a guarantee.",
-      "imageUrl": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=800&q=80",
-      "source": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/04/20/ai-writing-its-not-just-this-its-that-barrons/",
-      "publishedAt": "2026-04-20T19:37:07.000Z"
     },
     {
       "id": "6glajr",
