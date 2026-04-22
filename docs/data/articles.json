@@ -1,7 +1,25 @@
 {
-  "fetchedAt": "2026-04-22T14:01:22.258Z",
+  "fetchedAt": "2026-04-22T15:51:23.040Z",
   "count": 60,
   "articles": [
+    {
+      "id": "tmdtdd",
+      "title": "Now Meta will track what employees do on their computers to train its AI agents",
+      "summary": "Meta employees' activity at work is now being used to train the company's AI agents. As reported by Reuters, Meta is installing a tool it calls Model Capability Initiative (MCI) on US-based employees' computers that runs in work-related apps and websites, recording mouse movements, clicks, keystrokes, and occasional screenshots. The data from this tool will be used to train the company's AI models to get better at interacting with computers the way humans do, including automating work tasks like…",
+      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/10/STK043_VRG_Illo_N_Barclay_1_Meta-1.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "source": "The Verge",
+      "sourceUrl": "https://www.theverge.com/tech/916681/meta-ai-agents-employee-tracking",
+      "publishedAt": "2026-04-22T14:22:35.000Z"
+    },
+    {
+      "id": "70bcun",
+      "title": "OpenAI teams up with Infosys to bring AI tools to more businesses",
+      "summary": "Infosys said the integration will be used to help its clients modernize software development, automate workflows, and deploy AI systems, initially focusing software engineering, legacy modernization, and DevOps.",
+      "imageUrl": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=800&q=80",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/04/22/openai-teams-up-with-infosys-to-bring-ai-tools-to-more-businesses/",
+      "publishedAt": "2026-04-22T14:22:10.000Z"
+    },
     {
       "id": "qxb5iv",
       "title": "AI is spitting out more potential drugs than ever. This start-up wants to figure out which ones matter.",
@@ -158,7 +176,7 @@
     {
       "id": "f7cwtm",
       "title": "Roundtables: Unveiling The 10 Things That Matter in AI Right Now",
-      "summary": "Listen to the session or watch below Watch a special edition of Roundtables simulcast live from EmTech AI, MIT Technology Review’s signature conference for AI leadership. Subscribers got an exclusive first look at a new list capturing 10 key technologies, emerging trends, bold ideas, and powerful movements in AI that you need to know about…",
+      "summary": "Listen to the session or watch below Subscribers saw a special edition of Roundtables simulcast live from EmTech AI, MIT Technology Review’s signature conference for AI leadership. Subscribers got an exclusive first look at a new list capturing 10 key technologies, emerging trends, bold ideas, and powerful movements in AI that you need to know…",
       "imageUrl": "https://images.unsplash.com/photo-1526374965328-7f61d4dc18c5?w=800&q=80",
       "source": "MIT Tech Review",
       "sourceUrl": "https://www.technologyreview.com/2026/04/21/1135486/roundtables-unveiling-the-10-things-that-matter-in-ai-right-now/",
@@ -327,15 +345,6 @@
       "publishedAt": "2026-04-21T15:24:29.000Z"
     },
     {
-      "id": "f77mob",
-      "title": "YouTube expands its AI likeness detection technology to celebrities",
-      "summary": "YouTube is expanding its AI likeness detection tool to celebrities, giving talent and their reps a way to find and remove deepfakes.",
-      "imageUrl": "https://images.unsplash.com/photo-1620712943543-bcc4688e7485?w=800&q=80",
-      "source": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/04/21/youtube-expands-its-ai-likeness-detection-technology-to-celebrities/",
-      "publishedAt": "2026-04-21T15:02:06.000Z"
-    },
-    {
       "id": "f1t5tn",
       "title": "John Ternus’ first big problem is AI",
       "summary": "Less than a year ago, Apple made headlines for a lack of AI announcements at its annual WWDC event. Ten months later, the company has announced that hardware executive John Ternus will succeed longtime CEO Tim Cook as chief executive - and the official release doesn't mention AI once. Ternus, currently Apple's SVP of hardware engineering, will take over as CEO on September 1st, after Cook's decade and a half in the role. Ternus is a 25-year veteran of the company and the first Apple CEO in about…",
@@ -379,15 +388,6 @@
       "source": "Wired",
       "sourceUrl": "https://www.wired.com/story/a-humanoid-robot-set-a-half-marathon-record-in-china/",
       "publishedAt": "2026-04-20T22:33:27.000Z"
-    },
-    {
-      "id": "hs8t6d",
-      "title": "Silicon Valley has forgotten what normal people want",
-      "summary": "The long-term risks of the All-In Podcast, illustrated. | Image: Cath Virginia / The Verge, Turbosquid, Getty Images One of the most mortifying things about knowing a lot of techies is listening to them tell me excitedly about some very important discovery that they believe they have made. Recently, I ran into an acquaintance of mine, who began talking my ear off about an amazing discovery he'd made with LLMs. Knowledge, it turns out, is structured into language! You could put one word into…",
-      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/04/268457_HUBRIS_CVIRGINIA.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "source": "The Verge",
-      "sourceUrl": "https://www.theverge.com/tldr/915176/nft-metaverse-ai-weirdos",
-      "publishedAt": "2026-04-20T20:30:00.000Z"
     },
     {
       "id": "6glajr",
