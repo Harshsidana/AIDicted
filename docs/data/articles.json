@@ -1,7 +1,16 @@
 {
-  "fetchedAt": "2026-04-23T21:53:44.879Z",
+  "fetchedAt": "2026-04-23T22:55:58.549Z",
   "count": 60,
   "articles": [
+    {
+      "id": "65grsn",
+      "title": "Claude is connecting directly to your personal apps like Spotify, Uber Eats, and TurboTax",
+      "summary": "Claude users can access more apps with Anthropic's AI now thanks to new connectors for everything from hiking to grocery shopping. Anthropic already supported connecting numerous work-related apps to Claude, like Microsoft apps, but this expansion focuses on personal apps like Audible, Spotify, Uber, AllTrails, TripAdvisor, Instacart, TurboTax, and others. Some of these apps, such as Spotify, already have similar connectors in OpenAI's ChatGPT. Once an app is connected, Claude will suggest…",
+      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/04/anthropic-claude-personal-apps.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "source": "The Verge",
+      "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/917871/anthropic-claude-personal-app-connectors",
+      "publishedAt": "2026-04-23T22:27:11.000Z"
+    },
     {
       "id": "k7n61h",
       "title": "Bret Taylor’s Sierra buys YC-backed AI startup Fragment",
@@ -10,6 +19,15 @@
       "source": "TechCrunch",
       "sourceUrl": "https://techcrunch.com/2026/04/23/bret-taylors-sierra-buys-yc-backed-ai-startup-fragment/",
       "publishedAt": "2026-04-23T21:00:00.000Z"
+    },
+    {
+      "id": "rcuthn",
+      "title": "In a first, a ransomware family is confirmed to be quantum-safe",
+      "summary": "Technically speaking, there's no practical benefit to use PQC. So why is it being used?",
+      "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2025/07/GettyImages-1952157610-1152x648-1753386930.jpg",
+      "source": "Ars Technica",
+      "sourceUrl": "https://arstechnica.com/security/2026/04/now-even-ransomware-is-using-post-quantum-cryptography/",
+      "publishedAt": "2026-04-23T20:41:23.000Z"
     },
     {
       "id": "ipdu5w",
@@ -282,15 +300,6 @@
       "publishedAt": "2026-04-22T17:30:00.000Z"
     },
     {
-      "id": "v90mea",
-      "title": "Anthropic’s Mythos rollout has missed America’s cybersecurity agency",
-      "summary": "Several US federal agencies are taking up Anthropic's new cybersecurity model to find vulnerabilities, but one is reportedly not getting in on the action: the nation's central cybersecurity coordinator. On Tuesday, Axios reported that the Cybersecurity and Infrastructure Security Agency (CISA) didn't have access to Mythos Preview, which Anthropic has touted as a powerful tool for finding and patching security vulnerabilities. Meanwhile, other agencies like Commerce Department and National…",
-      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/04/STK269_ANTHROPIC_2_D.webp?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "source": "The Verge",
-      "sourceUrl": "https://www.theverge.com/policy/916758/anthropic-mythos-preview-cisa-left-out",
-      "publishedAt": "2026-04-22T16:57:36.000Z"
-    },
-    {
       "id": "ensmln",
       "title": "AI Tools Are Helping Mediocre North Korean Hackers Steal Millions",
       "summary": "One group of hackers used AI for everything from vibe coding their malware to creating fake company websites—and stole as much as $12 million in three months.",
@@ -532,15 +541,6 @@
       "source": "Ars Technica",
       "sourceUrl": "https://arstechnica.com/information-technology/2026/03/cloud-service-providers-ask-eu-regulator-to-reinstate-vmware-partner-program/",
       "publishedAt": "2026-03-19T21:29:53.000Z"
-    },
-    {
-      "id": "ku8rv9",
-      "title": "Federal cyber experts called Microsoft's cloud a \"pile of shit,\" approved it anyway",
-      "summary": "One Microsoft product was approved despite years of concerns about its security.",
-      "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2025/09/microsoft-logo-1024x648.jpg",
-      "source": "Ars Technica",
-      "sourceUrl": "https://arstechnica.com/information-technology/2026/03/federal-cyber-experts-called-microsofts-cloud-a-pile-of-shit-approved-it-anyway/",
-      "publishedAt": "2026-03-18T17:36:40.000Z"
     }
   ]
 }
