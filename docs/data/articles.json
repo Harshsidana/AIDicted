@@ -1,7 +1,70 @@
 {
-  "fetchedAt": "2026-04-23T12:03:41.570Z",
+  "fetchedAt": "2026-04-23T14:19:43.737Z",
   "count": 60,
   "articles": [
+    {
+      "id": "22l9vq",
+      "title": "Grab a ticket today: The first StrictlyVC of 2026 kicks off in just a week in San Francisco",
+      "summary": "StrictlyVC San Francisco is in just a week. Now’s the time to grab yourself a ticket. Join VCs and founders at Sentro Filipino Cultural Center on April 30.",
+      "imageUrl": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=800&q=80",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/04/23/grab-a-ticket-today-the-first-strictlyvc-of-2026-kicks-off-in-just-a-week-in-san-francisco/",
+      "publishedAt": "2026-04-23T14:00:00.000Z"
+    },
+    {
+      "id": "80labv",
+      "title": "Another customer of troubled startup Delve suffered a big security incident",
+      "summary": "TechCrunch has confirmed that Delve was the compliance company that performed the security certifications for Context AI, the AI agent training startup that last week disclosed a security incident.",
+      "imageUrl": "https://images.unsplash.com/photo-1620712943543-bcc4688e7485?w=800&q=80",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/04/23/another-customer-of-troubled-startup-delve-suffered-a-big-security-incident/",
+      "publishedAt": "2026-04-23T14:00:00.000Z"
+    },
+    {
+      "id": "tke7vn",
+      "title": "THE PEOPLE DO NOT YEARN FOR AUTOMATION",
+      "summary": "Today on Decoder, I want to lay out an idea that’s been banging around my head for weeks now as we’ve been reporting on AI and having conversations here on this show. I’ve been calling it software brain, and it’s a particular way of seeing the world that fits everything into algorithms, databases and loops — software. Software brain is powerful stuff. It’s a way of thinking that basically created our modern world. Marc Andreessen, the literal embodiment of software brain, called it in 2011 when…",
+      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/04/VRG_DCD_Software_Brain.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "source": "The Verge",
+      "sourceUrl": "https://www.theverge.com/podcast/917029/software-brain-ai-backlash-databases-automation",
+      "publishedAt": "2026-04-23T14:00:00.000Z"
+    },
+    {
+      "id": "qqa6bz",
+      "title": "You’re about to feel the AI money squeeze",
+      "summary": "Earlier this month, millions of OpenClaw users woke up to a sweeping mandate: The viral AI agent tool, which this year took the worldwide tech industry by storm, had been severely restricted by Anthropic. Anthropic, like other leading AI labs, was under immense pressure to lessen the strain on its systems and start turning a profit. So if the users wanted its Claude AI to power their popular agents, they'd have to start paying handsomely for the privilege. \"Our subscriptions weren't built for…",
+      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/04/vincentkilbride-theverge-ai-monetisation.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "source": "The Verge",
+      "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/917380/ai-monetization-anthropic-openai-token-economics-revenue",
+      "publishedAt": "2026-04-23T13:45:00.000Z"
+    },
+    {
+      "id": "88zr4y",
+      "title": "AI galaxy hunters are adding to the global GPU crunch",
+      "summary": "Astronomers are turning to GPUs to find needles in the galactic haystack.",
+      "imageUrl": "https://images.unsplash.com/photo-1635070041078-e363dbe005cb?w=800&q=80",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/04/23/ai-galaxy-hunters-are-adding-to-the-global-gpu-crunch/",
+      "publishedAt": "2026-04-23T13:00:00.000Z"
+    },
+    {
+      "id": "r402b7",
+      "title": "The Download: introducing the Nature issue",
+      "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. Introducing: the Nature issue When we talk about “nature,” we usually mean something untouched by humans. But little of that world exists today. From microplastics in rainforest wildlife to artificial light…",
+      "imageUrl": "https://images.unsplash.com/photo-1635070041078-e363dbe005cb?w=800&q=80",
+      "source": "MIT Tech Review",
+      "sourceUrl": "https://www.technologyreview.com/2026/04/23/1136346/the-download-introducing-nature-issue/",
+      "publishedAt": "2026-04-23T12:10:00.000Z"
+    },
+    {
+      "id": "rbsojr",
+      "title": "Beehiiv rolls out new creator tools, including webinars and customizable paywalls",
+      "summary": "Beehiiv is clearly done being just a newsletter platform based on today's launch of a new webinar feature, customizable paywalls, and more.",
+      "imageUrl": "https://images.unsplash.com/photo-1620712943543-bcc4688e7485?w=800&q=80",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/04/23/beehiiv-rolls-out-new-creator-tools-including-webinars-and-customizable-paywalls/",
+      "publishedAt": "2026-04-23T12:00:00.000Z"
+    },
     {
       "id": "z5kb5v",
       "title": "Microsoft launches ‘vibe working’ in Word, Excel, and PowerPoint",
@@ -68,7 +131,7 @@
     {
       "id": "7e099p",
       "title": "AI failure could trigger the next financial crisis, warns Elizabeth Warren",
-      "summary": "\"I know a bubble when I see one.\" That's what Sen. Elizabeth Warren (D-MA), who led the push to create a new consumer financial regulator in the wake of the 2008 recession, told a crowd at a Vanderbilt Policy Accelerator event in Washington, DC on Wednesday. Warren warned of what she called \"striking\" parallels to that crisis in the AI industry. While she believes the technology has \"enormous potential,\" she warned that AI companies' massive spending and borrowing practices are creating a…",
+      "summary": "\"I know a bubble when I see one.\" That's what Sen. Elizabeth Warren (D-MA), who led the push to create a new consumer financial regulator in the wake of the 2008 recession, told a crowd at a Vanderbilt Policy Accelerator event in Washington, DC, on Wednesday. Warren warned of what she called \"striking\" parallels to that crisis in the AI industry. While she believes the technology has \"enormous potential,\" she warned that AI companies' massive spending and borrowing practices are creating a…",
       "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25563184/2160975539.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
       "source": "The Verge",
       "sourceUrl": "https://www.theverge.com/policy/917026/ai-economy-bubble-elizabeth-warren",
@@ -219,33 +282,6 @@
       "publishedAt": "2026-04-22T12:10:00.000Z"
     },
     {
-      "id": "41kb7b",
-      "title": "Exclusive: Google deepens Thinking Machines Lab ties with new multibillion-dollar deal",
-      "summary": "Mira Murati's Thinking Machines Lab has signed a multibillion-dollar deal with Google Cloud for AI infrastructure powered by Nvidia's latest GB300 chips, TechCrunch has exclusively learned.",
-      "imageUrl": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=800&q=80",
-      "source": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/04/22/exclusive-google-deepens-thinking-machines-lab-ties-with-new-multi-billion-dollar-deal/",
-      "publishedAt": "2026-04-22T12:00:00.000Z"
-    },
-    {
-      "id": "qb0x24",
-      "title": "Google Maps is about to get a big dose of AI",
-      "summary": "The new features, announced at Cloud Next in Las Vegas this week, add generative AI capabilities to Google's mapping platform, giving it enhanced visual and data analytics powers.",
-      "imageUrl": "https://images.unsplash.com/photo-1550751827-4bd374c3f58b?w=800&q=80",
-      "source": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/04/22/google-maps-is-about-to-get-a-big-dose-of-ai/",
-      "publishedAt": "2026-04-22T12:00:00.000Z"
-    },
-    {
-      "id": "ezx0lf",
-      "title": "The most interesting startups showcased at Google Cloud Next 2026",
-      "summary": "Google wants AI startups on its cloud and has showcased a long list of them at its annual conference.",
-      "imageUrl": "https://images.unsplash.com/photo-1531746790095-6c10a4031c5f?w=800&q=80",
-      "source": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/04/22/the-most-interesting-startups-showcased-at-google-cloud-next-2026/",
-      "publishedAt": "2026-04-22T12:00:00.000Z"
-    },
-    {
       "id": "1g6hmy",
       "title": "AI needs a strong data fabric to deliver business value",
       "summary": "Artificial intelligence is moving quickly in the enterprise, from experimentation to everyday use. Organizations are deploying copilots, agents, and predictive systems across finance, supply chains, human resources, and customer operations. By the end of 2025, half of companies used AI in at least three business functions, according to a recent survey. But as AI becomes…",
@@ -318,24 +354,6 @@
       "publishedAt": "2026-04-22T09:18:40.000Z"
     },
     {
-      "id": "9d04ba",
-      "title": "Meta will record employees’ keystrokes and use it to train its AI models",
-      "summary": "Meta says that it has a new internal tool that is converting mouse movements and button clicks into data that can train its AI models.",
-      "imageUrl": "https://images.unsplash.com/photo-1635070041078-e363dbe005cb?w=800&q=80",
-      "source": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/04/21/meta-will-record-employees-keystrokes-and-use-it-to-train-its-ai-models/",
-      "publishedAt": "2026-04-21T23:45:21.000Z"
-    },
-    {
-      "id": "6o2af9",
-      "title": "SpaceX cuts a deal to maybe buy Cursor for $60 billion",
-      "summary": "With an IPO looming for Elon Musk's SpaceX / xAI / X combo platter of companies, SpaceX has announced an odd arrangement to either acquire the automated programming platform Cursor for $60 billion or pay a fee of $10 billion. Buying this startup that's focused on AI coding could help xAI's tools compete with market leader Anthropic, as well as the other competitors. A report by The Information this week said Sergey Brin has directed Google's \"strike team\" to help its agentic AI tools catch up,…",
-      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/05/STKB355_SPACEX_C.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "source": "The Verge",
-      "sourceUrl": "https://www.theverge.com/science/916427/spacex-cursor-potential-deal-acquisition",
-      "publishedAt": "2026-04-21T22:45:37.000Z"
-    },
-    {
       "id": "f7cwtm",
       "title": "Roundtables: Unveiling The 10 Things That Matter in AI Right Now",
       "summary": "Listen to the session or watch below Subscribers saw a special edition of Roundtables simulcast live from EmTech AI, MIT Technology Review’s signature conference for AI leadership. Subscribers got an exclusive first look at a new list capturing 10 key technologies, emerging trends, bold ideas, and powerful movements in AI that you need to know…",
@@ -352,24 +370,6 @@
       "source": "MIT Tech Review",
       "sourceUrl": "https://www.technologyreview.com/2026/04/21/1134856/the-new-word-in-home-construction-could-be-plastics/",
       "publishedAt": "2026-04-21T21:00:00.000Z"
-    },
-    {
-      "id": "3ja1vp",
-      "title": "A natural protein may protect the GI tract from infection",
-      "summary": "Embedded in the body’s mucosal surfaces, proteins called lectins bind to sugars found on cell surfaces. A team led by MIT chemistry professor Laura Kiessling has found that one such protein, intelectin-2, both helps fortify the mucosal barrier and offers broad-spectrum protection against harmful bacteria found in the GI tract. Intelectin-2 binds to a sugar…",
-      "imageUrl": "https://images.unsplash.com/photo-1655720828018-edd2daec9349?w=800&q=80",
-      "source": "MIT Tech Review",
-      "sourceUrl": "https://www.technologyreview.com/2026/04/21/1134858/a-natural-protein-may-protect-the-gi-tract-from-infection/",
-      "publishedAt": "2026-04-21T21:00:00.000Z"
-    },
-    {
-      "id": "kbtbbt",
-      "title": "AI backlash is coming for elections",
-      "summary": "Ask Americans how they feel about AI and most say they have concerns. Communities have mounted resistance to data center projects, stalling them across the US. On social media, anger at AI companies and executives is unrestrained - sometimes to the point of condoning violence. But look at the issues that most campaigns are focused on, and AI is far less prevalent, experts say. More than 60 percent of both Republicans and Democrats polled by Ipsos earlier this year agree that the government…",
-      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25334821/STK466_ELECTION_2024_CVirginia_C.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "source": "The Verge",
-      "sourceUrl": "https://www.theverge.com/policy/916210/ai-midterm-elections-data-centers-jobs",
-      "publishedAt": "2026-04-21T19:00:05.000Z"
     },
     {
       "id": "i3bgdt",
