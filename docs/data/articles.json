@@ -1,7 +1,16 @@
 {
-  "fetchedAt": "2026-04-23T20:32:59.740Z",
+  "fetchedAt": "2026-04-23T21:53:44.879Z",
   "count": 60,
   "articles": [
+    {
+      "id": "k7n61h",
+      "title": "Bret Taylor’s Sierra buys YC-backed AI startup Fragment",
+      "summary": "Sierra, the AI customer service agent startup founded by technologist Bret Taylor, announced today that it has acquired the YC-backed French startup Fragment.",
+      "imageUrl": "https://images.unsplash.com/photo-1620712943543-bcc4688e7485?w=800&q=80",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/04/23/bret-taylors-sierra-buys-yc-backed-ai-startup-fragment/",
+      "publishedAt": "2026-04-23T21:00:00.000Z"
+    },
     {
       "id": "ipdu5w",
       "title": "Meta is laying off 10 percent of its staff",
@@ -271,15 +280,6 @@
       "source": "TechCrunch",
       "sourceUrl": "https://techcrunch.com/2026/04/22/google-turns-chrome-into-an-ai-coworker-for-the-workplace/",
       "publishedAt": "2026-04-22T17:30:00.000Z"
-    },
-    {
-      "id": "x347el",
-      "title": "Google makes an interesting choice with its new agent-building tool for enterprises",
-      "summary": "Gemini Enterprise Agent Platform takes an interesting approach: It is geared for IT and technical users.",
-      "imageUrl": "https://images.unsplash.com/photo-1485827404703-89b55fcc595e?w=800&q=80",
-      "source": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/04/22/google-makes-an-interesting-choice-with-its-new-agent-building-tool-for-enterprises/",
-      "publishedAt": "2026-04-22T16:58:27.000Z"
     },
     {
       "id": "v90mea",
