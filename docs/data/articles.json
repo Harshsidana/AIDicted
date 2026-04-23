@@ -1,11 +1,74 @@
 {
-  "fetchedAt": "2026-04-23T17:54:17.793Z",
+  "fetchedAt": "2026-04-23T20:32:59.740Z",
   "count": 60,
   "articles": [
     {
+      "id": "ipdu5w",
+      "title": "Meta is laying off 10 percent of its staff",
+      "summary": "Mark Zuckerberg presenting at Meta Connect on September 17th, 2025. | Bloomberg via Getty Images Meta is planning to layoff around 10 percent of employees in May, according to a memo from the company's chief people officer, Janelle Gale, published by Bloomberg. That means approximately 8,000 people will see their jobs cut. Meta will also be closing around 6,000 open roles, according to Gale. The cuts follow Meta's significant investments in AI, including spending huge sums to hire top talent and…",
+      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/04/gettyimages-2235448475.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "source": "The Verge",
+      "sourceUrl": "https://www.theverge.com/tech/917690/meta-is-laying-off-10-percent-of-its-staff",
+      "publishedAt": "2026-04-23T19:41:07.000Z"
+    },
+    {
+      "id": "5t4kfd",
+      "title": "Meet Noscroll, an AI bot that does your doomscrolling for you",
+      "summary": "Noscroll wants to cure doomscrolling with an AI bot that reads the internet for you.",
+      "imageUrl": "https://images.unsplash.com/photo-1676299081847-824916de030a?w=800&q=80",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/04/23/meet-noscroll-an-ai-bot-that-does-your-doomscrolling-for-you/",
+      "publishedAt": "2026-04-23T19:38:25.000Z"
+    },
+    {
+      "id": "ctxpdr",
+      "title": "Apple’s Next Chapter, SpaceX and Cursor Strike a Deal, and Palantir’s Controversial Manifesto",
+      "summary": "In this week’s episode of Uncanny Valley, we talk about Tim Cook’s legacy as CEO at Apple and what his long-rumored departure means for the future of one of the world's biggest companies.",
+      "imageUrl": "https://media.wired.com/photos/69e9325b3ea6d24e4cfdd4c8/master/pass/Uncanny-Valley-Tim-Cook-Business-2233926826.jpg",
+      "source": "Wired",
+      "sourceUrl": "https://www.wired.com/story/uncanny-valley-podcast-apple-next-chapter-spacex-cursor-deal-palantir-manifesto/",
+      "publishedAt": "2026-04-23T19:26:11.000Z"
+    },
+    {
+      "id": "ap6iwx",
+      "title": "OpenAI releases GPT-5.5, bringing company one step closer to an AI ‘super app’",
+      "summary": "OpenAI says its latest model offers increased capabilities across a broad variety of categories.",
+      "imageUrl": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=800&q=80",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/04/23/openai-chatgpt-gpt-5-5-ai-model-superapp/",
+      "publishedAt": "2026-04-23T18:29:29.000Z"
+    },
+    {
+      "id": "xjurnp",
+      "title": "Anthropic’s Mythos breach was humiliating",
+      "summary": "Anthropic's tightly controlled rollout of Claude Mythos has taken an awkward turn. After spending weeks insisting the AI model is so capable at cybersecurity that it is too dangerous to release publicly, it appears the model fell into the wrong hands anyway. According to Bloomberg, a \"small group of unauthorized users\" has had access to Mythos - whose existence was first revealed in a leak - since the day Anthropic announced plans to offer it to a select group of companies for testing. Anthropic…",
+      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/23318433/akrales_220309_4977_0182.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "source": "The Verge",
+      "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/917644/anthropic-claude-mythos-breach-humiliation",
+      "publishedAt": "2026-04-23T18:24:56.000Z"
+    },
+    {
+      "id": "duia9k",
+      "title": "At 'AI Coachella,' Stanford Students Line Up to Learn From Silicon Valley Royalty",
+      "summary": "CS 153 has gone viral on the Palo Alto campus—and on X. Not everyone is happy about it.",
+      "imageUrl": "https://media.wired.com/photos/69e7fd9ba92c502cace442f8/master/pass/Model-Behavior-AI-Coachella-Stanford-Business.jpg",
+      "source": "Wired",
+      "sourceUrl": "https://www.wired.com/story/stanford-cs-class-ai-coachella-ben-horowitz/",
+      "publishedAt": "2026-04-23T18:24:37.000Z"
+    },
+    {
+      "id": "3sg6o2",
+      "title": "OpenAI says its new GPT-5.5 model is more efficient and better at coding",
+      "summary": "OpenAI just announced its new GPT-5.5 model, which the company calls its \"smartest and most intuitive to use model yet, and the next step toward a new way of getting work done on a computer.\" OpenAI just released GPT-5.4 last month, but says that the new GPT-5.5 \"excels\" at tasks like writing and debugging code, doing research online, making spreadsheets and documents, and doing that work across different tools. \"Instead of carefully managing every step, you can give GPT-5.5 a messy, multi-part…",
+      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/03/STK155_OPEN_AI_CVirginia__C.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "source": "The Verge",
+      "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/917612/openai-gpt-5-5-chatgpt",
+      "publishedAt": "2026-04-23T18:00:00.000Z"
+    },
+    {
       "id": "qlh1u9",
       "title": "Era raises $11M to build a software platform for AI gadgets",
-      "summary": "Era thinks that we will see many form factors of AI hardware, including glasses, rings, and pendants",
+      "summary": "Era thinks that we will see many form factors of AI hardware, including glasses, rings, and pendants.",
       "imageUrl": "https://images.unsplash.com/photo-1526374965328-7f61d4dc18c5?w=800&q=80",
       "source": "TechCrunch",
       "sourceUrl": "https://techcrunch.com/2026/04/23/era-computer-raises-11m-to-build-a-software-platform-for-ai-gadgets/",
@@ -228,24 +291,6 @@
       "publishedAt": "2026-04-22T16:57:36.000Z"
     },
     {
-      "id": "8cq058",
-      "title": "AI Overviews are coming to your Gmail at work",
-      "summary": "The AI Overviews will offer instant summaries pulled from across multiple emails.",
-      "imageUrl": "https://images.unsplash.com/photo-1550751827-4bd374c3f58b?w=800&q=80",
-      "source": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/04/22/ai-overviews-are-coming-to-your-gmail-at-work/",
-      "publishedAt": "2026-04-22T16:46:10.000Z"
-    },
-    {
-      "id": "em9nv2",
-      "title": "Google Meet will take AI notes for in-person meetings too",
-      "summary": "Google's AI meeting notetaker is no longer limited to Google Meets - Gemini can also generate summaries and transcripts of in-person meetings now, as well as meetings on Zoom and Microsoft Teams, as first reported by 9to5Google. Support for in-person meetings was previously limited to alpha users and only available on Android. Google's support page for the feature notes that, \"If a user who is not in person wants to join the meeting, you can transition the meeting to a normal video call.\" The…",
-      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/05/STKB354_GOOGLE_MEET_B.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "source": "The Verge",
-      "sourceUrl": "https://www.theverge.com/tech/916779/google-meet-ai-notetaker-in-person-meetings",
-      "publishedAt": "2026-04-22T16:38:19.000Z"
-    },
-    {
       "id": "ensmln",
       "title": "AI Tools Are Helping Mediocre North Korean Hackers Steal Millions",
       "summary": "One group of hackers used AI for everything from vibe coding their malware to creating fake company websites—and stole as much as $12 million in three months.",
@@ -253,24 +298,6 @@
       "source": "Wired",
       "sourceUrl": "https://www.wired.com/story/ai-tools-are-helping-mediocre-north-korean-hackers-steal-millions/",
       "publishedAt": "2026-04-22T16:00:00.000Z"
-    },
-    {
-      "id": "tmdtdd",
-      "title": "Now Meta will track what employees do on their computers to train its AI agents",
-      "summary": "Meta employees' activity at work is now being used to train the company's AI agents. As reported by Reuters, Meta is installing a tool it calls Model Capability Initiative (MCI) on US-based employees' computers that runs in work-related apps and websites, recording mouse movements, clicks, keystrokes, and occasional screenshots. The data from this tool will be used to train the company's AI models to get better at interacting with computers the way humans do, including automating work tasks like…",
-      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/10/STK043_VRG_Illo_N_Barclay_1_Meta-1.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "source": "The Verge",
-      "sourceUrl": "https://www.theverge.com/tech/916681/meta-ai-agents-employee-tracking",
-      "publishedAt": "2026-04-22T14:22:35.000Z"
-    },
-    {
-      "id": "70bcun",
-      "title": "OpenAI teams up with Infosys to bring AI tools to more businesses",
-      "summary": "Infosys said the integration will be used to help its clients modernize software development, automate workflows, and deploy AI systems, initially focusing software engineering, legacy modernization, and DevOps.",
-      "imageUrl": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=800&q=80",
-      "source": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/04/22/openai-teams-up-with-infosys-to-bring-ai-tools-to-more-businesses/",
-      "publishedAt": "2026-04-22T14:22:10.000Z"
     },
     {
       "id": "3ai2z8",
@@ -345,15 +372,6 @@
       "publishedAt": "2026-04-22T09:30:00.000Z"
     },
     {
-      "id": "s077er",
-      "title": "Anthropic’s most dangerous AI model just fell into the wrong hands",
-      "summary": "Anthropic's Mythos AI model, a powerful cybersecurity tool that the company said could be dangerous in the wrong hands, has been accessed by a \"small group of unauthorized users,\" Bloomberg reports. An unnamed member of the group, identified only as \"a third-party contractor for Anthropic,\" told the publication that members of a private online forum got into Mythos via a mix of tactics, utilizing the contractor's access and \"commonly used internet sleuthing tools.\" The Claude Mythos Preview is a…",
-      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25469782/STK269_ANTHROPIC_D.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "source": "The Verge",
-      "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/916501/anthropic-mythos-unauthorized-users-access-security",
-      "publishedAt": "2026-04-22T09:18:40.000Z"
-    },
-    {
       "id": "f7cwtm",
       "title": "Roundtables: Unveiling The 10 Things That Matter in AI Right Now",
       "summary": "Listen to the session or watch below Subscribers saw a special edition of Roundtables simulcast live from EmTech AI, MIT Technology Review’s signature conference for AI leadership. Subscribers got an exclusive first look at a new list capturing 10 key technologies, emerging trends, bold ideas, and powerful movements in AI that you need to know…",
@@ -406,24 +424,6 @@
       "source": "Ars Technica",
       "sourceUrl": "https://arstechnica.com/security/2026/04/contrary-to-popular-superstition-aes-128-is-just-fine-in-a-post-quantum-world/",
       "publishedAt": "2026-04-21T12:35:20.000Z"
-    },
-    {
-      "id": "k8l7b2",
-      "title": "This Scammer Used an AI-Generated MAGA Girl to Grift ‘Super Dumb’ Men",
-      "summary": "A med student says he’s made thousands of dollars selling photos and videos of a young conservative woman he created using generative tools. He’s not alone.",
-      "imageUrl": "https://media.wired.com/photos/69de96afb083bab80bea1c92/master/pass/MAGA-AI-Womanfluencers-Culture.jpg",
-      "source": "Wired",
-      "sourceUrl": "https://www.wired.com/story/ai-generated-maga-girls/",
-      "publishedAt": "2026-04-21T11:00:00.000Z"
-    },
-    {
-      "id": "ddblz2",
-      "title": "A Humanoid Robot Set a Half-Marathon Record in China",
-      "summary": "An autonomous robot from the company Honor ran a half marathon in 50:26, beating the human record by 7 minutes.",
-      "imageUrl": "https://media.wired.com/photos/69e67707d27252207be01419/master/pass/robotchino1.jpg",
-      "source": "Wired",
-      "sourceUrl": "https://www.wired.com/story/a-humanoid-robot-set-a-half-marathon-record-in-china/",
-      "publishedAt": "2026-04-20T22:33:27.000Z"
     },
     {
       "id": "qf5zx9",
