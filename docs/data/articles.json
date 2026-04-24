@@ -1,7 +1,25 @@
 {
-  "fetchedAt": "2026-04-24T10:40:57.890Z",
+  "fetchedAt": "2026-04-24T12:01:20.480Z",
   "count": 60,
   "articles": [
+    {
+      "id": "mr4z8p",
+      "title": "In another wild turn for AI chips, Meta signs deal for millions of Amazon AI CPUs",
+      "summary": "Meta has commandeered a big chunk of Amazon's homegrown CPUs (not GPUs) for AI agentic workloads, signaling that a new kind of chip race has begun.",
+      "imageUrl": "https://images.unsplash.com/photo-1676299081847-824916de030a?w=800&q=80",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/04/24/in-another-wild-turn-for-ai-chips-meta-signs-deal-for-millions-of-amazon-ai-cpus/",
+      "publishedAt": "2026-04-24T12:00:00.000Z"
+    },
+    {
+      "id": "s9xg8u",
+      "title": "Elon Musk and Sam Altman’s court showdown will dish the dirt",
+      "summary": "Might as well jump, as the poet David Lee Roth once said. | Image: Cath Virginia / The Verge Elon Musk cofounded OpenAI, and then flounced off in a huff when he wasn't anointed CEO, leaving Sam Altman as the last power-hungry man standing. Now, Musk is back with a lawsuit, and a trial is scheduled to start in Oakland, California, on April 27th. Theoretically, it's a legal case about whether OpenAI defrauded Musk. But that's not really what we're all doing here. This is about mess. Over the past…",
+      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/04/268474_musk_vs_altman_CVirginia2.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "source": "The Verge",
+      "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/917755/musk-altman-openai-xai-gossip",
+      "publishedAt": "2026-04-24T12:00:00.000Z"
+    },
     {
       "id": "7n8vd3",
       "title": "China’s DeepSeek previews new AI model a year after jolting US rivals",
@@ -273,15 +291,6 @@
       "publishedAt": "2026-04-22T22:11:15.000Z"
     },
     {
-      "id": "7e099p",
-      "title": "AI failure could trigger the next financial crisis, warns Elizabeth Warren",
-      "summary": "\"I know a bubble when I see one.\" That's what Sen. Elizabeth Warren (D-MA), who led the push to create a new consumer financial regulator in the wake of the 2008 recession, told a crowd at a Vanderbilt Policy Accelerator event in Washington, DC, on Wednesday. Warren warned of what she called \"striking\" parallels to that crisis in the AI industry. While she believes the technology has \"enormous potential,\" she warned that AI companies' massive spending and borrowing practices are creating a…",
-      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25563184/2160975539.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "source": "The Verge",
-      "sourceUrl": "https://www.theverge.com/policy/917026/ai-economy-bubble-elizabeth-warren",
-      "publishedAt": "2026-04-22T20:29:05.000Z"
-    },
-    {
       "id": "bego4k",
       "title": "How SpaceX preempted a $2B fundraise with a $60B buyout offer",
       "summary": "Cursor was on track to close a $2 billion funding round this week but chose to halt discussions after SpaceX offered a $10 billion \"collaboration fee\" and a path to a $60 billion acquisition.",
@@ -316,15 +325,6 @@
       "source": "Wired",
       "sourceUrl": "https://www.wired.com/story/ai-model-phishing-attack-cybersecurity/",
       "publishedAt": "2026-04-22T18:00:00.000Z"
-    },
-    {
-      "id": "m2uqp4",
-      "title": "Google turns Chrome into an AI co-worker for the workplace",
-      "summary": "Google brings Gemini-powered \"auto browse\" capabilities to Chrome for enterprise users, letting workers automate tasks like research, data entry, and more.",
-      "imageUrl": "https://images.unsplash.com/photo-1655720828018-edd2daec9349?w=800&q=80",
-      "source": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/04/22/google-turns-chrome-into-an-ai-coworker-for-the-workplace/",
-      "publishedAt": "2026-04-22T17:30:00.000Z"
     },
     {
       "id": "ensmln",
