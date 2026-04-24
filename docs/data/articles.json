@@ -1,7 +1,52 @@
 {
-  "fetchedAt": "2026-04-24T08:33:00.809Z",
+  "fetchedAt": "2026-04-24T10:40:57.890Z",
   "count": 60,
   "articles": [
+    {
+      "id": "7n8vd3",
+      "title": "China’s DeepSeek previews new AI model a year after jolting US rivals",
+      "summary": "Chinese AI company DeepSeek released a preview of its hotly anticipated next-generation AI model V4 on Friday, saying that the open-source model can compete with leading closed-source systems from US rivals including Anthropic, Google, and OpenAI. DeepSeek says V4 marks a major improvement over prior models, especially in coding, a capability that has become central to AI agents and helped drive the success of tools like ChatGPT Codex and Claude Code. The release is also a milestone for China's…",
+      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/04/STKB320_DEEPSEEK_AI_CVIRGINIA_C.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "source": "The Verge",
+      "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/918035/deepseek-preview-v4-ai-model",
+      "publishedAt": "2026-04-24T09:45:30.000Z"
+    },
+    {
+      "id": "cvn4vn",
+      "title": "Prestigious photo contest answers ‘what is a photo?’",
+      "summary": "The three finalists for the World Press Photo of the year. | Image: World Press Photo We love to muse over how \"real\" photography is defined here at The Verge now that generative AI is so prolific, and the World Press Photo competition might have the answer. The prestigious award celebrates the best of photojournalism, where capturing reality is paramount. The winning entry for 2026 - \"Separated by ICE,\" captured by photojournalist Carol Guzy - was announced yesterday. The harrowing photograph…",
+      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/04/WPP-2026_POY_Finalists.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "source": "The Verge",
+      "sourceUrl": "https://www.theverge.com/gadgets/918016/prestigious-photo-contest-answers-what-is-a-photo",
+      "publishedAt": "2026-04-24T09:40:07.000Z"
+    },
+    {
+      "id": "w227at",
+      "title": "The Men Behind Your Favorite AI Gay Thirst Traps",
+      "summary": "A viral red carpet moment shone light on a group of hunky Instagram influencers—and the followers who are too horny to care that they’re not real.",
+      "imageUrl": "https://media.wired.com/photos/69e8007028d4e7b7573ef27b/master/pass/The-Gay-AI-Influencers-Taking-IG%E2%80%94and-Red-Carpet%E2%80%94by-Storm-Culture.jpg",
+      "source": "Wired",
+      "sourceUrl": "https://www.wired.com/story/gay-ai-instagram-influencers-red-carpet/",
+      "publishedAt": "2026-04-24T09:30:00.000Z"
+    },
+    {
+      "id": "bufq6o",
+      "title": "5 Reasons to Think Twice Before Using ChatGPT—or Any Chatbot—for Financial Advice",
+      "summary": "As people increasingly rely on AI chatbots for guidance, even on financial matters, a healthy dose of skepticism is critical.",
+      "imageUrl": "https://media.wired.com/photos/69ea22cb7c6d09c92685b0af/master/pass/financial-advice-chat-gpt.jpg",
+      "source": "Wired",
+      "sourceUrl": "https://www.wired.com/story/5-reasons-to-think-twice-before-using-chatgpt-for-financial-advice/",
+      "publishedAt": "2026-04-24T09:00:00.000Z"
+    },
+    {
+      "id": "4spijb",
+      "title": "Health-care AI is here. We don’t know if it actually helps patients.",
+      "summary": "I don’t need to tell you that AI is everywhere. Or that it is being used, increasingly, in hospitals. Doctors are using AI to help them with notetaking. AI-based tools are trawling through patient records, flagging people who may require certain support or treatments. They are also used to interpret medical exam results and X-rays. A…",
+      "imageUrl": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=800&q=80",
+      "source": "MIT Tech Review",
+      "sourceUrl": "https://www.technologyreview.com/2026/04/24/1136352/health-care-ai-dont-know-actually-helps-patients/",
+      "publishedAt": "2026-04-24T09:00:00.000Z"
+    },
     {
       "id": "65grsn",
       "title": "Claude is connecting directly to your personal apps like Spotify, Uber Eats, and TurboTax",
@@ -237,15 +282,6 @@
       "publishedAt": "2026-04-22T20:29:05.000Z"
     },
     {
-      "id": "5medqp",
-      "title": "OpenAI now lets teams make custom bots that can do work on their own",
-      "summary": "OpenAI is giving users of its Business, Enterprise, Edu, and Teachers plans access to cloud-based \"workspace\" agents available in ChatGPT that can perform business tasks. In its blog post, OpenAI gives examples of agents like one that finds product feedback on the web and sends a report in Slack and a sales agent that can draft follow-up emails in Gmail. These new agents follow increasing interest in agents across the AI landscape, especially after OpenClaw - the AI agent formerly known as…",
-      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/08/STK155_OPEN_AI_4_CVirginia_B.png?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "source": "The Verge",
-      "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/917065/openai-chatgpt-workspace-agents-custom-teams-bots",
-      "publishedAt": "2026-04-22T20:09:02.000Z"
-    },
-    {
       "id": "bego4k",
       "title": "How SpaceX preempted a $2B fundraise with a $60B buyout offer",
       "summary": "Cursor was on track to close a $2 billion funding round this week but chose to halt discussions after SpaceX offered a $10 billion \"collaboration fee\" and a path to a $60 billion acquisition.",
@@ -280,15 +316,6 @@
       "source": "Wired",
       "sourceUrl": "https://www.wired.com/story/ai-model-phishing-attack-cybersecurity/",
       "publishedAt": "2026-04-22T18:00:00.000Z"
-    },
-    {
-      "id": "et7nb0",
-      "title": "Watch Sony’s elite ping-pong robot beat top-ranked players",
-      "summary": "Ace is the first robot that can beat the best human players while following the official rules of table tennis. | Image: Sony AI Humans have been building ping-pong playing robots for decades, such as Omron's FORPHEUS that challenged amateur competitors at CES 2017. What sets Ace apart from the rest is that the robot, which was developed by Sony's AI division, is the first that can hold its own against top-ranked human players and occasionally even beat them in matches that follow the official…",
-      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/04/sony_ace_robot.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "source": "The Verge",
-      "sourceUrl": "https://www.theverge.com/tech/916800/sony-ai-ace-ping-pong-table-tennis-robot-cameras",
-      "publishedAt": "2026-04-22T17:43:38.000Z"
     },
     {
       "id": "m2uqp4",
@@ -390,15 +417,6 @@
       "publishedAt": "2026-04-21T22:09:25.000Z"
     },
     {
-      "id": "hye0e3",
-      "title": "The new word in home construction could be “plastics”",
-      "summary": "Single-use plastics are a persistent source of environmental pollution, and the need to house a growing global population puts increasing pressure on resources such as timber. MIT engineers have an idea that could make a dent in both problems at once. In a recent study, a team led by mechanical engineering professor David Hardt, SM…",
-      "imageUrl": "https://images.unsplash.com/photo-1635070041078-e363dbe005cb?w=800&q=80",
-      "source": "MIT Tech Review",
-      "sourceUrl": "https://www.technologyreview.com/2026/04/21/1134856/the-new-word-in-home-construction-could-be-plastics/",
-      "publishedAt": "2026-04-21T21:00:00.000Z"
-    },
-    {
       "id": "i3bgdt",
       "title": "OpenAI Beefs Up ChatGPT’s Image Generation Model",
       "summary": "The ChatGPT Images 2.0 model is here. Our testing shows it’s better at creating more detailed images and rendering text, but it still struggles with languages other than English.",
@@ -406,24 +424,6 @@
       "source": "Wired",
       "sourceUrl": "https://www.wired.com/story/openai-beefs-up-chatgpts-image-generation-model/",
       "publishedAt": "2026-04-21T19:00:00.000Z"
-    },
-    {
-      "id": "sth04a",
-      "title": "Mozilla Used Anthropic’s Mythos to Find and Fix 271 Bugs in Firefox",
-      "summary": "The Firefox team doesn’t think emerging AI capabilities will upend cybersecurity long term, but they warn that software developers are likely in for a rocky transition.",
-      "imageUrl": "https://media.wired.com/photos/69e6df06b405035df7b7ce2e/master/pass/security_GettyImages-2214075816.jpg",
-      "source": "Wired",
-      "sourceUrl": "https://www.wired.com/story/mozilla-used-anthropics-mythos-to-find-271-bugs-in-firefox/",
-      "publishedAt": "2026-04-21T18:30:00.000Z"
-    },
-    {
-      "id": "26rx2f",
-      "title": "Tim Cook’s Legacy Is Turning Apple Into a Subscription",
-      "summary": "The soon-to-exit Apple CEO went all in on services. Now, the incoming CEO, John Ternus, will need to embrace the AI era.",
-      "imageUrl": "https://media.wired.com/photos/69e6b3bd8d2fd342f277fdb0/master/pass/Tim-Cook-Steps-Down-Business-2233926863.jpg",
-      "source": "Wired",
-      "sourceUrl": "https://www.wired.com/story/apple-tim-cook-subscription-business/",
-      "publishedAt": "2026-04-21T17:35:12.000Z"
     },
     {
       "id": "gn5nok",
