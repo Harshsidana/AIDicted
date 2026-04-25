@@ -1,7 +1,16 @@
 {
-  "fetchedAt": "2026-04-25T08:08:47.999Z",
+  "fetchedAt": "2026-04-25T10:25:46.627Z",
   "count": 60,
   "articles": [
+    {
+      "id": "sm65gp",
+      "title": "Ace the Ping-Pong Robot Can Whup Your Ass",
+      "summary": "Ace can read the trajectory of a ball, adjust the racket angle, and respond with strokes that keep the exchange alive with real players.",
+      "imageUrl": "https://media.wired.com/photos/69ea3dfba5897da10992cdf4/master/pass/178826162",
+      "source": "Wired",
+      "sourceUrl": "https://www.wired.com/story/ace-the-robot-wants-to-become-the-world-table-tennis-champion/",
+      "publishedAt": "2026-04-25T09:30:00.000Z"
+    },
     {
       "id": "nd0oqy",
       "title": "Three reasons why DeepSeek’s new model matters",
@@ -397,15 +406,6 @@
       "source": "MIT Tech Review",
       "sourceUrl": "https://www.technologyreview.com/2026/04/22/1135295/ai-needs-a-strong-data-fabric-to-deliver-business-value/",
       "publishedAt": "2026-04-22T10:05:06.000Z"
-    },
-    {
-      "id": "txl4fg",
-      "title": "Join Our Livestream: Musk v. Altman and the Future of OpenAI",
-      "summary": "On May 8, we’re going live to answer your questions about the Musk v. Altman trial that could determine the fate of OpenAI.",
-      "imageUrl": "https://media.wired.com/photos/69e7bb297bc055b07603a318/master/pass/livestream_q&a_MuskVSAltman-Business.jpg",
-      "source": "Wired",
-      "sourceUrl": "https://www.wired.com/story/livestream-musk-v-altman-trial/",
-      "publishedAt": "2026-04-22T10:00:00.000Z"
     },
     {
       "id": "cpe3a7",
