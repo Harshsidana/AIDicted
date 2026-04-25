@@ -1,7 +1,16 @@
 {
-  "fetchedAt": "2026-04-25T20:03:34.111Z",
+  "fetchedAt": "2026-04-25T21:06:54.823Z",
   "count": 60,
   "articles": [
+    {
+      "id": "gmtc3d",
+      "title": "Maine’s governor vetoes data center moratorium",
+      "summary": "L.D. 307 would have imposed the country’s first statewide moratorium on new data centers — lasting, in this case, until November 1, 2027.",
+      "imageUrl": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=800&q=80",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/04/25/maines-governor-vetoes-data-center-moratorium/",
+      "publishedAt": "2026-04-25T20:57:08.000Z"
+    },
     {
       "id": "kcut0d",
       "title": "OpenAI CEO apologizes to Tumbler Ridge community",
@@ -271,15 +280,6 @@
       "source": "The Verge",
       "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/917871/anthropic-claude-personal-app-connectors",
       "publishedAt": "2026-04-23T22:27:11.000Z"
-    },
-    {
-      "id": "k7n61h",
-      "title": "Bret Taylor’s Sierra buys YC-backed AI startup Fragment",
-      "summary": "Sierra, the AI customer service agent startup founded by technologist Bret Taylor, announced today that it has acquired the YC-backed French startup Fragment.",
-      "imageUrl": "https://images.unsplash.com/photo-1620712943543-bcc4688e7485?w=800&q=80",
-      "source": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/04/23/bret-taylors-sierra-buys-yc-backed-ai-startup-fragment/",
-      "publishedAt": "2026-04-23T21:00:00.000Z"
     },
     {
       "id": "rcuthn",
