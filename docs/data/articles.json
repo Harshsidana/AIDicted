@@ -1,11 +1,56 @@
 {
-  "fetchedAt": "2026-04-27T16:09:57.685Z",
+  "fetchedAt": "2026-04-27T17:50:30.688Z",
   "count": 60,
   "articles": [
     {
+      "id": "6dxriy",
+      "title": "OpenAI ends Microsoft legal peril over its $50B Amazon deal",
+      "summary": "OpenAI has won major concessions from its largest shareholder, Microsoft, that will allow it to sell products on AWS, while Microsoft get more cash in a revenue-share agreement.",
+      "imageUrl": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=800&q=80",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/04/27/openai-ends-microsoft-legal-peril-over-its-50b-amazon-deal/",
+      "publishedAt": "2026-04-27T17:40:38.000Z"
+    },
+    {
+      "id": "5p6mw7",
+      "title": "DeepMind’s David Silver just raised $1.1B to build an AI that learns without human data",
+      "summary": "Ineffable Intelligence, a British AI lab founded a mere few months ago by former DeepMind researcher David Silver, has raised $1.1 billion in funding at a valuation of $5.1 billion.",
+      "imageUrl": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=800&q=80",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/04/27/deepminds-david-silver-just-raised-1-1b-to-build-an-ai-that-learns-without-human-data/",
+      "publishedAt": "2026-04-27T17:24:21.000Z"
+    },
+    {
+      "id": "pqgpv0",
+      "title": "Microsoft and OpenAI’s famed AGI agreement is dead",
+      "summary": "OpenAI and Microsoft's partnership-turned-situationship just got even less committed. And a clause about artificial general intelligence, which has for years dictated the future of their deal, has officially been dropped. On Monday morning, Microsoft announced a handful of big changes to its long-standing OpenAI deal. Microsoft will remain OpenAI's \"primary cloud partner, and OpenAI products will ship first on Azure, unless Microsoft cannot and chooses not to support the necessary capabilities.\"…",
+      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25431707/STK201_SAM_ALTMAN_CVIRGINIA_D.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "source": "The Verge",
+      "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/918981/openai-microsoft-renegotiate-contract",
+      "publishedAt": "2026-04-27T16:15:47.000Z"
+    },
+    {
+      "id": "v1rtxm",
+      "title": "The missing step between hype and profit",
+      "summary": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here. In February, I picked up a flyer at an anti-AI march in London. I can’t say for sure whether or not its writers meant to riff on South Park’s underpants gnomes. But…",
+      "imageUrl": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=800&q=80",
+      "source": "MIT Tech Review",
+      "sourceUrl": "https://www.technologyreview.com/2026/04/27/1136456/the-missing-step-between-hype-and-profit/",
+      "publishedAt": "2026-04-27T16:13:41.000Z"
+    },
+    {
+      "id": "s44kc8",
+      "title": "Investors back Skye’s AI home screen app for iPhone ahead of launch",
+      "summary": "Skye's new AI app attracted investors before it even launched — a sign of interest in a more AI-aware iPhone.",
+      "imageUrl": "https://images.unsplash.com/photo-1550751827-4bd374c3f58b?w=800&q=80",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/04/27/investors-back-skye-signull-labs-ai-home-screen-app-for-iphone-ahead-of-launch/",
+      "publishedAt": "2026-04-27T16:13:02.000Z"
+    },
+    {
       "id": "h7lzal",
       "title": "Elon Musk and Sam Altman’s court battle over the future of OpenAI",
-      "summary": "Sam Altman and Elon Musk are set to face off in a high-stakes trial that could alter the future of tech’s leading AI startup, OpenAI. The trial begins with jury selection on April 27th, as Musk pushes forward his 2024 lawsuit that accuses OpenAI of abandoning its founding mission of developing AI to benefit humanity and shifting focus to boosting profits instead. Musk was a cofounder of OpenAI and claims that Altman and co-founder Greg Brockman tricked him into giving the company money, only to…",
+      "summary": "Sam Altman and Elon Musk are set to face off in a high-stakes trial that could alter the future of tech’s leading AI startup, OpenAI. The trial begins with jury selection on April 27th, as Musk pushes forward his 2024 lawsuit that accuses OpenAI of abandoning its founding mission of developing AI to benefit humanity and shifting focus to boosting profits instead. Musk was a cofounder of OpenAI and claims that Altman and cofounder Greg Brockman tricked him into giving the company money, only to…",
       "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/04/268474_musk_vs_altman_CVirginia.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
       "source": "The Verge",
       "sourceUrl": "https://www.theverge.com/tech/917225/sam-altman-elon-musk-openai-lawsuit",
@@ -86,7 +131,7 @@
     {
       "id": "3idok4",
       "title": "To buy this Bay Area home, you’ll need Anthropic equity",
-      "summary": "Someone’s offering an unusual deal for a 13-acre property in Mill Valley, just north of South Francisco.",
+      "summary": "Someone’s offering an unusual deal for a 13-acre property in Mill Valley, just north of San Francisco.",
       "imageUrl": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=800&q=80",
       "source": "TechCrunch",
       "sourceUrl": "https://techcrunch.com/2026/04/26/to-buy-this-bay-area-home-youll-need-anthropic-equity/",
@@ -201,24 +246,6 @@
       "publishedAt": "2026-04-24T19:00:39.000Z"
     },
     {
-      "id": "ci2cej",
-      "title": "Google to invest up to $40B in Anthropic in cash and compute",
-      "summary": "Google plans up to $40B investment in Anthropic as AI rivals race to secure massive compute capacity, following the limited release of its powerful, cybersecurity-focused Mythos model.",
-      "imageUrl": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=800&q=80",
-      "source": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/04/24/google-to-invest-up-to-40b-in-anthropic-in-cash-and-compute/",
-      "publishedAt": "2026-04-24T18:00:03.000Z"
-    },
-    {
-      "id": "gmoi1r",
-      "title": "Apple’s new CEO, and why Elon Musk wants to buy Cursor for $60B",
-      "summary": "A new era is on the way for Apple as Tim Cook plans to step down from his CEO role in September, handing the reins to hardware chief John Ternus. Ternus may be inheriting one of the most durable businesses in tech, but he’s also stepping into a very different ecosystem than the one Cook spent decades shaping. The App […]",
-      "imageUrl": "https://images.unsplash.com/photo-1485827404703-89b55fcc595e?w=800&q=80",
-      "source": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/podcast/apples-new-ceo-and-why-elon-musk-wants-to-buy-cursor-for-60b/",
-      "publishedAt": "2026-04-24T17:45:57.000Z"
-    },
-    {
       "id": "7zt8ew",
       "title": "AI-Designed Drugs by a DeepMind Spinoff Are Headed to Human Trials",
       "summary": "Isomorphic Labs president Max Jaderberg said at WIRED Health in London that the startup has built a “broad and exciting pipeline of new medicines.”",
@@ -235,15 +262,6 @@
       "source": "The Verge",
       "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/917996/project-maven-military-ai-katrina-manson",
       "publishedAt": "2026-04-24T17:00:00.000Z"
-    },
-    {
-      "id": "x5hax2",
-      "title": "Marked-up Mac minis flood eBay amid shortages driven by AI",
-      "summary": "Apple’s sold-out Mac mini is spawning marked-up eBay listings as demand surges for the compact desktop, now favored for running local AI models and tools.",
-      "imageUrl": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=800&q=80",
-      "source": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/04/24/mac-mini-price-expensive-ebay-shortage-ai-memory/",
-      "publishedAt": "2026-04-24T16:42:19.000Z"
     },
     {
       "id": "oafeai",
@@ -345,15 +363,6 @@
       "publishedAt": "2026-04-23T20:41:23.000Z"
     },
     {
-      "id": "ipdu5w",
-      "title": "Meta is laying off 10 percent of its staff",
-      "summary": "Mark Zuckerberg presenting at Meta Connect on September 17th, 2025. | Bloomberg via Getty Images Meta is planning to layoff around 10 percent of employees in May, according to a memo from the company's chief people officer, Janelle Gale, published by Bloomberg. That means approximately 8,000 people will see their jobs cut. Meta will also be closing around 6,000 open roles, according to Gale. The cuts follow Meta's significant investments in AI, including spending huge sums to hire top talent and…",
-      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/04/gettyimages-2235448475.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "source": "The Verge",
-      "sourceUrl": "https://www.theverge.com/tech/917690/meta-is-laying-off-10-percent-of-its-staff",
-      "publishedAt": "2026-04-23T19:41:07.000Z"
-    },
-    {
       "id": "ctxpdr",
       "title": "Apple’s Next Chapter, SpaceX and Cursor Strike a Deal, and Palantir’s Controversial Manifesto",
       "summary": "In this week’s episode of Uncanny Valley, we talk about Tim Cook’s legacy as CEO at Apple and what his long-rumored departure means for the future of one of the world's biggest companies.",
@@ -424,15 +433,6 @@
       "source": "MIT Tech Review",
       "sourceUrl": "https://www.technologyreview.com/2026/04/22/1135295/ai-needs-a-strong-data-fabric-to-deliver-business-value/",
       "publishedAt": "2026-04-22T10:05:06.000Z"
-    },
-    {
-      "id": "cpe3a7",
-      "title": "3 things Michelle Kim is into right now",
-      "summary": "Isegye Idol If you thought K-pop was weird, virtual idols—humans who perform as anime-style digital characters via motion capture—will blow your mind. My favorite is a girl group called Isegye Idol, created by Woowakgood, a Korean VTuber (a streamer who likewise performs as a digital persona). Isegye Idol’s six members are anonymous, which seems to…",
-      "imageUrl": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=800&q=80",
-      "source": "MIT Tech Review",
-      "sourceUrl": "https://www.technologyreview.com/2026/04/22/1135423/3-things-michelle-kim/",
-      "publishedAt": "2026-04-22T10:00:00.000Z"
     },
     {
       "id": "gn5nok",
