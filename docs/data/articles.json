@@ -1,7 +1,25 @@
 {
-  "fetchedAt": "2026-04-27T07:16:45.083Z",
+  "fetchedAt": "2026-04-27T11:52:16.923Z",
   "count": 60,
   "articles": [
+    {
+      "id": "2csmeb",
+      "title": "The AI-designed car is taking shape",
+      "summary": "The auto design world is full of advanced 3D visualization tools and VR sculpting platforms, but your average new car still enters the world as a sketch. Those sketches traditionally see endless iteration and refinement from all angles before being turned into 3D models by hand, some dying in the digital world, others sculpted into clay to better visualize lines and profiles. That's just the beginning of a design and development process that often takes a half-decade or more. That means many new…",
+      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/04/side.png?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "source": "The Verge",
+      "sourceUrl": "https://www.theverge.com/transportation/918411/gm-ai-car-design-nissan-neural-concept",
+      "publishedAt": "2026-04-27T11:00:00.000Z"
+    },
+    {
+      "id": "2cbnx",
+      "title": "Meta inks deal for solar power at night, beamed from space",
+      "summary": "Overview Energy's first contract with Meta is a small step toward a future of space-based solar power.",
+      "imageUrl": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=800&q=80",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/04/27/meta-inks-deal-for-solar-power-at-night-beamed-from-space/",
+      "publishedAt": "2026-04-27T10:00:00.000Z"
+    },
     {
       "id": "3idok4",
       "title": "To buy this Bay Area home, you’ll need Anthropic equity",
@@ -86,7 +104,7 @@
     {
       "id": "nd0oqy",
       "title": "Three reasons why DeepSeek’s new model matters",
-      "summary": "On Friday, Chinese AI firm DeepSeek released a preview of V4, its long-awaited new flagship model. Notably, the model can process much longer prompts than its last generation, thanks to a new design that helps it handle large amounts of text more efficiently. Like DeepSeek’s previous models, V4 is open source, meaning it is available…",
+      "summary": "On April 24, Chinese AI firm DeepSeek released a preview of V4, its long-awaited new flagship model. The model can process much longer prompts than its last generation, thanks to a new design that helps it handle large amounts of text more efficiently. Like DeepSeek’s previous models, V4 is open source, meaning it is available…",
       "imageUrl": "https://images.unsplash.com/photo-1526374965328-7f61d4dc18c5?w=800&q=80",
       "source": "MIT Tech Review",
       "sourceUrl": "https://www.technologyreview.com/2026/04/24/1136422/why-deepseeks-v4-matters/",
@@ -199,15 +217,6 @@
       "source": "TechCrunch",
       "sourceUrl": "https://techcrunch.com/video/tim-cook-is-stepping-down-what-happens-to-apple-now/",
       "publishedAt": "2026-04-24T14:00:00.000Z"
-    },
-    {
-      "id": "wriltl",
-      "title": "Nothing introduces an AI-powered dictation tool",
-      "summary": "Nothing's new on-device dictation tool supports over 100 languages.",
-      "imageUrl": "https://images.unsplash.com/photo-1635070041078-e363dbe005cb?w=800&q=80",
-      "source": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/04/24/nothing-introduces-an-ai-powered-dictation-tool/",
-      "publishedAt": "2026-04-24T13:41:42.000Z"
     },
     {
       "id": "gvckl0",
@@ -334,15 +343,6 @@
       "source": "The Verge",
       "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/917612/openai-gpt-5-5-chatgpt",
       "publishedAt": "2026-04-23T18:00:00.000Z"
-    },
-    {
-      "id": "tke7vn",
-      "title": "THE PEOPLE DO NOT YEARN FOR AUTOMATION",
-      "summary": "Today on Decoder, I want to lay out an idea that’s been banging around my head for weeks now as we’ve been reporting on AI and having conversations here on this show. I’ve been calling it software brain, and it’s a particular way of seeing the world that fits everything into algorithms, databases and loops — software. Software brain is powerful stuff. It’s a way of thinking that basically created our modern world. Marc Andreessen, the literal embodiment of software brain, called it in 2011 when…",
-      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/04/VRG_DCD_Software_Brain.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "source": "The Verge",
-      "sourceUrl": "https://www.theverge.com/podcast/917029/software-brain-ai-backlash-databases-automation",
-      "publishedAt": "2026-04-23T14:00:00.000Z"
     },
     {
       "id": "r402b7",
