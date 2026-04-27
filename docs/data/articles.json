@@ -1,7 +1,34 @@
 {
-  "fetchedAt": "2026-04-27T19:43:07.595Z",
+  "fetchedAt": "2026-04-27T22:27:43.018Z",
   "count": 60,
   "articles": [
+    {
+      "id": "rrd68a",
+      "title": "Open source package with 1 million monthly downloads stole user credentials",
+      "summary": "If you're one of millions using element-data, it's time to check for compromise.",
+      "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2025/06/browser-security-threat-1152x627.jpg",
+      "source": "Ars Technica",
+      "sourceUrl": "https://arstechnica.com/security/2026/04/open-source-package-with-1-million-monthly-downloads-stole-user-credentials/",
+      "publishedAt": "2026-04-27T21:04:03.000Z"
+    },
+    {
+      "id": "j7sc29",
+      "title": "Canonical lays out a plan for AI in Ubuntu Linux",
+      "summary": "One of the most popular Linux distributions is about to get an influx of AI features. As reported by Phoronix, Jon Seager, VP of engineering at Ubuntu developer Canonical, shared a blog post on Monday detailing plans to add AI features to the Linux distro over the next year. As the post states, the AI features \"will come in two forms: first as a means of enhancing existing OS functionality with AI models in the background, and latterly in the form of 'AI native' features and workflows for those…",
+      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/09/STK_414_AI_CHATBOT_R2_CVirginia_D.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "source": "The Verge",
+      "sourceUrl": "https://www.theverge.com/tech/919411/canonical-ubuntu-linux-ai-features",
+      "publishedAt": "2026-04-27T20:47:45.000Z"
+    },
+    {
+      "id": "lmuud6",
+      "title": "Elon Musk Boosts New Yorker’s Sam Altman Exposé on X as Trial Begins",
+      "summary": "The move comes as the trial for Elon Musk’s lawsuit against OpenAI kicks off in federal court in Oakland.",
+      "imageUrl": "https://media.wired.com/photos/69efb98c62f06e966778ac07/master/pass/GettyImages-491588398.jpg",
+      "source": "Wired",
+      "sourceUrl": "https://www.wired.com/story/elon-musk-boost-new-yorker-article-sam-altman-x/",
+      "publishedAt": "2026-04-27T20:08:51.000Z"
+    },
     {
       "id": "bjueag",
       "title": "Google employees ask Sundar Pichai to say no to classified military AI use",
@@ -14,7 +41,7 @@
     {
       "id": "6dxriy",
       "title": "OpenAI ends Microsoft legal peril over its $50B Amazon deal",
-      "summary": "OpenAI has won major concessions from its largest shareholder, Microsoft, that will allow it to sell products on AWS, while Microsoft get more cash in a revenue-share agreement.",
+      "summary": "OpenAI has won major concessions from its largest shareholder, Microsoft, that will allow it to sell products on AWS, while Microsoft gets more cash in a revenue-share agreement.",
       "imageUrl": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=800&q=80",
       "source": "TechCrunch",
       "sourceUrl": "https://techcrunch.com/2026/04/27/openai-ends-microsoft-legal-peril-over-its-50b-amazon-deal/",
@@ -95,7 +122,7 @@
     {
       "id": "8xv7mf",
       "title": "OpenAI could be making a phone with AI agents replacing apps",
-      "summary": "The phone could go into mass production in 2028, an analyst says.",
+      "summary": "There have been plenty of rumors about OpenAI's hardware plans, which involve launching a pair of earbuds. A new note from industry analyst Ming-Chi Kuo suggests that the AI company might be working on a phone in collaboration with MediaTek, Qualcomm, and Luxshare.",
       "imageUrl": "https://images.unsplash.com/photo-1531746790095-6c10a4031c5f?w=800&q=80",
       "source": "TechCrunch",
       "sourceUrl": "https://techcrunch.com/2026/04/27/openai-could-be-making-a-phone-with-ai-agents-replacing-apps/",
@@ -318,15 +345,6 @@
       "publishedAt": "2026-04-24T09:45:30.000Z"
     },
     {
-      "id": "cvn4vn",
-      "title": "Prestigious photo contest answers ‘what is a photo?’",
-      "summary": "The three finalists for the World Press Photo of the year. | Image: World Press Photo We love to muse over how \"real\" photography is defined here at The Verge now that generative AI is so prolific, and the World Press Photo competition might have the answer. The prestigious award celebrates the best of photojournalism, where capturing reality is paramount. The winning entry for 2026 - \"Separated by ICE,\" captured by photojournalist Carol Guzy - was announced yesterday. The harrowing photograph…",
-      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/04/WPP-2026_POY_Finalists.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "source": "The Verge",
-      "sourceUrl": "https://www.theverge.com/gadgets/918016/prestigious-photo-contest-answers-what-is-a-photo",
-      "publishedAt": "2026-04-24T09:40:07.000Z"
-    },
-    {
       "id": "g1df0g",
       "title": "These AI Thirst Trap Creators Say They’re Misunderstood",
       "summary": "A viral red carpet moment shone light on a group of hunky Instagram influencers—and the followers who are too horny to care that they’re not real.",
@@ -397,15 +415,6 @@
       "source": "MIT Tech Review",
       "sourceUrl": "https://www.technologyreview.com/2026/04/23/1136329/fusion-power-cost/",
       "publishedAt": "2026-04-23T10:00:00.000Z"
-    },
-    {
-      "id": "df16pn",
-      "title": "Sam Altman’s Orb Company Promoted a Bruno Mars Partnership That Doesn't Exist",
-      "summary": "“To be clear, we were never approached … nor were we in any discussions regarding a partnership or tour access,” a spokesperson for the artist tells WIRED.",
-      "imageUrl": "https://media.wired.com/photos/69e9205d27d28cd206268af9/master/pass/Sam-Altman-Orb-Company-Invented-Partnership-with-Bruno-Mars-Business.jpg",
-      "source": "Wired",
-      "sourceUrl": "https://www.wired.com/story/sam-altman-orb-company-bruno-mars-partnership-fake/",
-      "publishedAt": "2026-04-22T22:11:15.000Z"
     },
     {
       "id": "zhfctg",
@@ -532,15 +541,6 @@
       "source": "Ars Technica",
       "sourceUrl": "https://arstechnica.com/security/2026/03/self-propagating-malware-poisons-open-source-software-and-wipes-iran-based-machines/",
       "publishedAt": "2026-03-24T12:38:09.000Z"
-    },
-    {
-      "id": "2mfn6n",
-      "title": "Widely used Trivy scanner compromised in ongoing supply-chain attack",
-      "summary": "Admins: Sorry to say, but it's likely a rotate-your-secrets kind of weekend.",
-      "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2020/10/malware-1000x648.jpg",
-      "source": "Ars Technica",
-      "sourceUrl": "https://arstechnica.com/security/2026/03/widely-used-trivy-scanner-compromised-in-ongoing-supply-chain-attack/",
-      "publishedAt": "2026-03-20T20:50:46.000Z"
     }
   ]
 }
