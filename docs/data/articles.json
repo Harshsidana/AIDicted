@@ -1,7 +1,52 @@
 {
-  "fetchedAt": "2026-04-27T11:52:16.923Z",
+  "fetchedAt": "2026-04-27T14:19:09.144Z",
   "count": 60,
   "articles": [
+    {
+      "id": "6gdw2u",
+      "title": "The Man Behind AlphaGo Thinks AI Is Taking the Wrong Path",
+      "summary": "David Silver has a new billion-dollar company that aims to build AI “superlearners.”",
+      "imageUrl": "https://media.wired.com/photos/69eba31172fa130deff56162/master/pass/Man-Behind-Alpha-Zero-Business-DavidSilver-2.jpg",
+      "source": "Wired",
+      "sourceUrl": "https://www.wired.com/story/david-silver-ai-ineffable-intelligence-reinforcement-learning/",
+      "publishedAt": "2026-04-27T14:00:00.000Z"
+    },
+    {
+      "id": "1dfzb4",
+      "title": "China blocks Meta’s $2B Manus deal after months-long probe",
+      "summary": "China has ordered Meta to unwind its multibillion-dollar Manus acquisition, dealing a potential setback to Zuckerberg’s push into AI agents.",
+      "imageUrl": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=800&q=80",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/04/27/china-vetoes-metas-2b-manus-deal-after-months-long-probe/",
+      "publishedAt": "2026-04-27T13:16:55.000Z"
+    },
+    {
+      "id": "8xv7mf",
+      "title": "OpenAI could be making a phone with AI agents replacing apps",
+      "summary": "The phone could go in mass production in 2028, an analyst says.",
+      "imageUrl": "https://images.unsplash.com/photo-1531746790095-6c10a4031c5f?w=800&q=80",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/04/27/openai-could-be-making-a-phone-with-ai-agents-replacing-apps/",
+      "publishedAt": "2026-04-27T13:08:59.000Z"
+    },
+    {
+      "id": "pc9n5r",
+      "title": "Rebuilding the data stack for AI",
+      "summary": "Artificial intelligence may be dominating boardroom agendas, but many enterprises are discovering that the biggest obstacle to meaningful adoption is the state of their data. While consumer-facing AI tools have dazzled users with speed and ease, enterprise leaders are discovering that deploying AI at scale requires something far less glamorous but far more consequential: data…",
+      "imageUrl": "https://images.unsplash.com/photo-1620712943543-bcc4688e7485?w=800&q=80",
+      "source": "MIT Tech Review",
+      "sourceUrl": "https://www.technologyreview.com/2026/04/27/1136322/rebuilding-the-data-stack-for-ai/",
+      "publishedAt": "2026-04-27T13:00:00.000Z"
+    },
+    {
+      "id": "uk3u7p",
+      "title": "The Download: DeepSeek’s latest AI breakthrough, and the race to build world models",
+      "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. Three reasons why DeepSeek’s new model matters On Friday, Chinese AI firm DeepSeek released a preview of V4, its long-awaited new flagship model. Notably, the model can process much longer prompts…",
+      "imageUrl": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=800&q=80",
+      "source": "MIT Tech Review",
+      "sourceUrl": "https://www.technologyreview.com/2026/04/27/1136438/the-download-deepseek-v4-ai-world-models/",
+      "publishedAt": "2026-04-27T12:10:00.000Z"
+    },
     {
       "id": "2csmeb",
       "title": "The AI-designed car is taking shape",
@@ -201,24 +246,6 @@
       "publishedAt": "2026-04-24T14:43:07.000Z"
     },
     {
-      "id": "njcntx",
-      "title": "Uber CTO Praveen Neppalli Naga joins stacked StrictlyVC SF lineup for April 30 event",
-      "summary": "Surprise! StrictlyVC San Francisco, which will kick off this year’s events lineup for TechCrunch on April 30 at the Sentro Filipino Cultural Center, is getting a new addition to its increasingly stacked lineup of speakers. Uber CTO Praveen Neppalli Naga will join the rest of the lineup to discuss operating at scale in the age of AI.",
-      "imageUrl": "https://images.unsplash.com/photo-1635070041078-e363dbe005cb?w=800&q=80",
-      "source": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/04/24/uber-cto-praveen-neppalli-naga-joins-stacked-strictlyvc-sf-lineup-for-april-30-event/",
-      "publishedAt": "2026-04-24T14:00:00.000Z"
-    },
-    {
-      "id": "rio7lf",
-      "title": "Tim Cook is stepping down. What happens to Apple now?",
-      "summary": "Tim Cook plans to step down from his CEO role in September, handing the reins to hardware chief John Ternus. Ternus may be inheriting one of the most durable businesses in tech, but he’s also stepping into a very different ecosystemthan the one Cook spent decades shaping. The App Store’s 30% cut is under pressure, the behind-the-scenes power Apple once […]",
-      "imageUrl": "https://images.unsplash.com/photo-1655720828018-edd2daec9349?w=800&q=80",
-      "source": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/video/tim-cook-is-stepping-down-what-happens-to-apple-now/",
-      "publishedAt": "2026-04-24T14:00:00.000Z"
-    },
-    {
       "id": "gvckl0",
       "title": "The Download: supercharged scams and studying AI healthcare",
       "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. We’re in a new era of AI-driven scams When ChatGPT was released in late 2022, it showed how easily generative AI could create human-like text. This quickly caught the eye of…",
@@ -275,7 +302,7 @@
     {
       "id": "4spijb",
       "title": "Health-care AI is here. We don’t know if it actually helps patients.",
-      "summary": "I don’t need to tell you that AI is everywhere. Or that it is being used, increasingly, in hospitals. Doctors are using AI to help them with notetaking. AI-based tools are trawling through patient records, flagging people who may require certain support or treatments. They are also used to interpret medical exam results and X-rays. A…",
+      "summary": "I don’t need to tell you that AI is everywhere. Or that it is being used, increasingly, in hospitals. Doctors are using AI to help them with note-taking. AI-based tools are trawling through patient records, flagging people who may require certain support or treatments. They are also used to interpret medical exam results and x-rays. A…",
       "imageUrl": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=800&q=80",
       "source": "MIT Tech Review",
       "sourceUrl": "https://www.technologyreview.com/2026/04/24/1136352/health-care-ai-dont-know-actually-helps-patients/",
@@ -381,15 +408,6 @@
       "publishedAt": "2026-04-22T19:32:56.000Z"
     },
     {
-      "id": "s9yqun",
-      "title": "5 AI Models Tried to Scam Me. Some of Them Were Scary Good",
-      "summary": "The cyber capabilities of AI models have experts rattled. AI’s social skills may be just as dangerous.",
-      "imageUrl": "https://media.wired.com/photos/69e80107d6f72fef368f93fe/master/pass/AI-Lab-Headed-for-Superhuman-AI-Scams-Business.jpg",
-      "source": "Wired",
-      "sourceUrl": "https://www.wired.com/story/ai-model-phishing-attack-cybersecurity/",
-      "publishedAt": "2026-04-22T18:00:00.000Z"
-    },
-    {
       "id": "3ai2z8",
       "title": "The Download: introducing the 10 Things That Matter in AI Right Now",
       "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. Introducing: 10 Things That Matter in AI Right Now What actually matters in AI right now? It’s getting harder to tell amid the constant launches, hype, and warnings. To cut through…",
@@ -414,24 +432,6 @@
       "imageUrl": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=800&q=80",
       "source": "MIT Tech Review",
       "sourceUrl": "https://www.technologyreview.com/2026/04/22/1135423/3-things-michelle-kim/",
-      "publishedAt": "2026-04-22T10:00:00.000Z"
-    },
-    {
-      "id": "5mddef",
-      "title": "One town’s scheme to get rid of its geese",
-      "summary": "“Pull over!” I order my brother one sunny February afternoon. Our target is in sight: a gaggle of Canada geese, pecking at grass near the dog park. As I approach, tiptoeing over their grayish-white poop, I notice that one bird wears a white cuff around its slender black neck. It’s a GPS tracker—part of a…",
-      "imageUrl": "https://images.unsplash.com/photo-1655720828018-edd2daec9349?w=800&q=80",
-      "source": "MIT Tech Review",
-      "sourceUrl": "https://www.technologyreview.com/2026/04/22/1135430/california-town-scheme-get-rid-geese/",
-      "publishedAt": "2026-04-22T10:00:00.000Z"
-    },
-    {
-      "id": "e3v69a",
-      "title": "There is no nature anymore",
-      "summary": "When people talk about “nature,” they’re generally talking about things that aren’t made by human beings. Rocks. Reefs. Red wolves. But while there is plenty of God’s creation to go around, it is hard to think of anything on Earth that human hands haven’t affected. In the Brazilian rainforest, scientists have found microplastics in the…",
-      "imageUrl": "https://images.unsplash.com/photo-1485827404703-89b55fcc595e?w=800&q=80",
-      "source": "MIT Tech Review",
-      "sourceUrl": "https://www.technologyreview.com/2026/04/22/1135440/editors-letter-may-2026/",
       "publishedAt": "2026-04-22T10:00:00.000Z"
     },
     {
