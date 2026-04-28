@@ -1,10 +1,145 @@
 {
-  "fetchedAt": "2026-04-28T11:23:19.273Z",
+  "fetchedAt": "2026-04-28T19:51:10.130Z",
   "count": 60,
   "articles": [
     {
-      "id": "u7918k",
-      "title": "Google and Pentagon reportedly agree deal for ‘any lawful’ use of AI",
+      "id": "q1zk5s",
+      "title": "Amazon is already offering new OpenAI products on AWS",
+      "summary": "A day after OpenAI got Microsoft to agree to end exclusive rights, AWS announced a slate of OpenAI model offerings, including a new agent service.",
+      "imageUrl": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=800&q=80",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/04/28/amazon-is-already-offering-new-openai-products-on-aws/",
+      "publishedAt": "2026-04-28T19:48:02.000Z"
+    },
+    {
+      "id": "rfngrl",
+      "title": "Live updates from Elon Musk and Sam Altman’s court battle over the future of OpenAI",
+      "summary": "Sam Altman and Elon Musk are set to face off in a high-stakes trial that could alter the future of tech’s leading AI startup, OpenAI. In 2024, Musk filed a lawsuit accusing OpenAI of abandoning its founding mission of developing AI to benefit humanity and shifting focus to boosting profits instead. The trial began with jury selection on April 27th. The trial began with jury selection on April 27th, before Elon Musk took the stand on Tuesday as the first witness called. Musk was a cofounder of…",
+      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/04/268474_musk_vs_altman_CVirginia.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "source": "The Verge",
+      "sourceUrl": "https://www.theverge.com/tech/917225/sam-altman-elon-musk-openai-lawsuit",
+      "publishedAt": "2026-04-28T19:27:50.000Z"
+    },
+    {
+      "id": "o1jj57",
+      "title": "Elon Musk takes the stand in high-profile trial against OpenAI",
+      "summary": "Elon Musk officially began his testimony in the trial he has brought against OpenAI CEO Sam Altman and company president Greg Brockman. The three were on the initial founding team of OpenAI, with Musk investing up to $38 million early on before the co-founders' relationship soured over disagreements over company structure and mission, including whether or not OpenAI should be folded into Musk-owned Tesla. Musk walked away and, years later, founded xAI - his own direct competitor to OpenAI, which…",
+      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/01/VRG_Illo_STK022_K_Radtke_Musk_Bolts.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "source": "The Verge",
+      "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/917052/elon-musk-takes-stand-trial-openai-sam-altman",
+      "publishedAt": "2026-04-28T19:00:13.000Z"
+    },
+    {
+      "id": "umb3bl",
+      "title": "Amazon launches an AI-powered audio Q&A experience on product pages",
+      "summary": "Amazon's new \"Join the chat\" feature lets you ask questions about products and receive AI-powered audio responses.",
+      "imageUrl": "https://images.unsplash.com/photo-1620712943543-bcc4688e7485?w=800&q=80",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/04/28/amazon-launches-an-ai-powered-audio-qa-experience-on-product-pages/",
+      "publishedAt": "2026-04-28T18:49:54.000Z"
+    },
+    {
+      "id": "9w8d8f",
+      "title": "‘It’s Undignified’: Hundreds of Workers Training Meta’s AI Could Be Laid Off",
+      "summary": "More than 700 people working for a Meta contractor in Ireland are at risk of losing their jobs, documents show.",
+      "imageUrl": "https://media.wired.com/photos/69f0fa6eb90e944fb5c0bece/master/pass/Hundreds-of-Workers-Training-Meta-AI-Are-Being-Laid-Off-Business-1246766082.jpg",
+      "source": "Wired",
+      "sourceUrl": "https://www.wired.com/story/meta-covalen-ai-workers-layoffs/",
+      "publishedAt": "2026-04-28T18:36:47.000Z"
+    },
+    {
+      "id": "nopsjx",
+      "title": "Google expands Pentagon’s access to its AI after Anthropic’s refusal",
+      "summary": "After Anthropic refused to allow the DoD to use its AI for domestic mass surveillance and autonomous weapons, Google has signed a new contract with the department.",
+      "imageUrl": "https://images.unsplash.com/photo-1620712943543-bcc4688e7485?w=800&q=80",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/04/28/google-expands-pentagons-access-to-its-ai-after-anthropics-refusal/",
+      "publishedAt": "2026-04-28T18:15:00.000Z"
+    },
+    {
+      "id": "71ijbp",
+      "title": "Claude can now plug directly into Photoshop, Blender, and Ableton",
+      "summary": "Claude’s new Blender connector lets you debug scenes, build new tools, and batch-apply object changes directly from the chatbot interface. | Image: Anthropic Anthropic has launched a set of connectors for Claude that allow the AI chatbot to tap into popular creative software, including Adobe's Creative Cloud apps, Affinity, Blender, Ableton, Autodesk, and more. This marks the company's latest efforts to break into the creative industry following its launch of Claude Design earlier this month.…",
+      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/04/Claude-creative-connectors-Blender-.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "source": "The Verge",
+      "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/919648/anthropic-claude-creative-connectors-adobe-blender",
+      "publishedAt": "2026-04-28T16:49:08.000Z"
+    },
+    {
+      "id": "ays0b4",
+      "title": "Lovable launches its vibe-coding app on iOS and Android",
+      "summary": "The app allows developers to vibe code web apps and websites on the go.",
+      "imageUrl": "https://images.unsplash.com/photo-1526374965328-7f61d4dc18c5?w=800&q=80",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/04/28/lovable-launches-its-vibe-coding-app-on-ios-and-android/",
+      "publishedAt": "2026-04-28T16:09:30.000Z"
+    },
+    {
+      "id": "60umh2",
+      "title": "Musk and Altman go to court",
+      "summary": "The trial between Elon Musk and OpenAI is officially upon us. And it is going to be a mess. As the two sides fight over the early days of AI, who deserves credit and cash for what, and more, we're likely to spend the next few weeks hearing a lot of important people's secrets made extremely public. Which may be exactly what Musk is going for. Verge subscribers, don't forget you get exclusive access to ad-free Vergecast wherever you get your podcasts. Head here. Not a subscriber? You can sign up…",
+      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/04/VRG_VST_0428_Site.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "source": "The Verge",
+      "sourceUrl": "https://www.theverge.com/podcast/919534/musk-openai-trial-vergecast",
+      "publishedAt": "2026-04-28T14:47:21.000Z"
+    },
+    {
+      "id": "8hgtzk",
+      "title": "YouTube is testing an AI-powered search feature that shows guided answers",
+      "summary": "YouTube is rolling out the new AI search feature to Premium subscribers in the U.S. on an opt-in basis.",
+      "imageUrl": "https://images.unsplash.com/photo-1550751827-4bd374c3f58b?w=800&q=80",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/04/28/youtube-is-testing-an-ai-powered-search-feature-that-shows-guided-answers/",
+      "publishedAt": "2026-04-28T13:54:06.000Z"
+    },
+    {
+      "id": "6sj9si",
+      "title": "BCI startup Neurable looks to license its ‘mind-reading’ tech for consumer wearables",
+      "summary": "The startup specializes in \"non-invasive\" \"mind-reading\" tech — a kind of neural data collection that, its CEO hopes, will have all sorts of consumer applications.",
+      "imageUrl": "https://images.unsplash.com/photo-1635070041078-e363dbe005cb?w=800&q=80",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/04/28/bci-startup-neurable-looks-to-license-its-mind-reading-tech-for-consumer-wearables/",
+      "publishedAt": "2026-04-28T13:19:34.000Z"
+    },
+    {
+      "id": "4dn91q",
+      "title": "Red Hat’s OpenClaw maintainer just made enterprise Claw deployments a lot safer",
+      "summary": "Tank OS puts OpenClaw AI agents into a container that lets it run reliably and more safely, especially for those running fleets of them.",
+      "imageUrl": "https://images.unsplash.com/photo-1655720828018-edd2daec9349?w=800&q=80",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/04/28/red-hats-openclaw-maintainer-just-made-enterprise-claw-deployments-a-lot-safer/",
+      "publishedAt": "2026-04-28T13:00:00.000Z"
+    },
+    {
+      "id": "kuvn3a",
+      "title": "The Race Is on to Keep AI Agents From Running Wild With Your Credit Cards",
+      "summary": "AI agents may soon be buying your stuff for you. The FIDO Alliance has teamed up with Google and Mastercard to try to ensure that shopping in the near future isn't a complete disaster.",
+      "imageUrl": "https://media.wired.com/photos/69ef5ffea87ec1fab4d8a468/master/pass/GettyImages-1223459427.jpg",
+      "source": "Wired",
+      "sourceUrl": "https://www.wired.com/story/the-race-is-on-to-keep-ai-agents-from-running-wild-with-your-credit-cards/",
+      "publishedAt": "2026-04-28T13:00:00.000Z"
+    },
+    {
+      "id": "immuco",
+      "title": "The Download: Musk and Altman’s legal showdown, and AI’s profit problem",
+      "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. Elon Musk and Sam Altman are going to court over OpenAI’s future Elon Musk and OpenAI CEO Sam Altman head to trial this week in a case with sweeping consequences. Ahead…",
+      "imageUrl": "https://images.unsplash.com/photo-1550751827-4bd374c3f58b?w=800&q=80",
+      "source": "MIT Tech Review",
+      "sourceUrl": "https://www.technologyreview.com/2026/04/28/1136479/the-download-musk-altman-openai-trial-ai-profit-problem/",
+      "publishedAt": "2026-04-28T12:10:00.000Z"
+    },
+    {
+      "id": "qyp4k",
+      "title": "Otter’s new feature lets users search across their enterprise tools",
+      "summary": "With this launch, users can connect their Gmail, Google Drive, Notion, Jira, and Salesforce accounts and query that data along with existing meeting data. The company said that it will soon allow connections with Microsoft Outlook, Teams, SharePoint, and Slack.",
+      "imageUrl": "https://images.unsplash.com/photo-1550751827-4bd374c3f58b?w=800&q=80",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/04/28/otters-new-feature-lets-users-search-across-their-enterprise-tools/",
+      "publishedAt": "2026-04-28T12:00:00.000Z"
+    },
+    {
+      "id": "702lr1",
+      "title": "Google and Pentagon reportedly agree on deal for ‘any lawful’ use of AI",
       "summary": "Google has signed a classified deal that allows the US Department of Defense to use its AI models for \"any lawful government purpose,\" The Information reports. The agreement was reported less than a day after Google employees demanded CEO Sundar Pichai block the Pentagon from using its AI amid concerns that it would be used in \"inhumane or extremely harmful ways.\" If the agreement is confirmed, it would place Google alongside OpenAI and xAI, which have also made classified AI deals with the US…",
       "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/24925007/236780_Google_AntiTrust_Trial_Custom_Art_CVirginia__0001_5.png?quality=90&#038;strip=all&#038;crop=0,0,100,100",
       "source": "The Verge",
@@ -23,7 +158,7 @@
     {
       "id": "d5ztpj",
       "title": "The Bloomberg Terminal Is Getting an AI Makeover, Like It or Not",
-      "summary": "WIRED spoke with Bloomberg's chief technology officer about the big, chatbot-style changes coming to the iconic platform for traders.",
+      "summary": "WIRED spoke with Bloomberg’s chief technology officer about the big, chatbot-style changes coming to the iconic platform for traders.",
       "imageUrl": "https://media.wired.com/photos/69e8f8b80a0e9a68acb2cc2c/master/pass/Bloomberg-Overhauls-Terminal-With-AI-Business-AP-22088642035693.jpg",
       "source": "Wired",
       "sourceUrl": "https://www.wired.com/story/the-bloomberg-terminal-is-getting-an-ai-makeover-like-it-or-not/",
@@ -120,15 +255,6 @@
       "publishedAt": "2026-04-27T17:24:21.000Z"
     },
     {
-      "id": "pqgpv0",
-      "title": "Microsoft and OpenAI’s famed AGI agreement is dead",
-      "summary": "OpenAI and Microsoft's partnership-turned-situationship just got even less committed. And a clause about artificial general intelligence, which has for years dictated the future of their deal, has officially been dropped. On Monday morning, Microsoft announced a handful of big changes to its long-standing OpenAI deal. Microsoft will remain OpenAI's \"primary cloud partner, and OpenAI products will ship first on Azure, unless Microsoft cannot and chooses not to support the necessary capabilities.\"…",
-      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25431707/STK201_SAM_ALTMAN_CVIRGINIA_D.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "source": "The Verge",
-      "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/918981/openai-microsoft-renegotiate-contract",
-      "publishedAt": "2026-04-27T16:15:47.000Z"
-    },
-    {
       "id": "v1rtxm",
       "title": "The missing step between hype and profit",
       "summary": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here. In February, I picked up a flyer at an anti-AI march in London. I can’t say for sure whether or not its writers meant to riff on South Park’s underpants gnomes. But…",
@@ -145,24 +271,6 @@
       "source": "TechCrunch",
       "sourceUrl": "https://techcrunch.com/2026/04/27/investors-back-skye-signull-labs-ai-home-screen-app-for-iphone-ahead-of-launch/",
       "publishedAt": "2026-04-27T16:13:02.000Z"
-    },
-    {
-      "id": "h7lzal",
-      "title": "Elon Musk and Sam Altman’s court battle over the future of OpenAI",
-      "summary": "Sam Altman and Elon Musk are set to face off in a high-stakes trial that could alter the future of tech’s leading AI startup, OpenAI. The trial begins with jury selection on April 27th, as Musk pushes forward his 2024 lawsuit that accuses OpenAI of abandoning its founding mission of developing AI to benefit humanity and shifting focus to boosting profits instead. Musk was a cofounder of OpenAI and claims that Altman and cofounder Greg Brockman tricked him into giving the company money, only to…",
-      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/04/268474_musk_vs_altman_CVirginia.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "source": "The Verge",
-      "sourceUrl": "https://www.theverge.com/tech/917225/sam-altman-elon-musk-openai-lawsuit",
-      "publishedAt": "2026-04-27T15:50:29.000Z"
-    },
-    {
-      "id": "w0w6qy",
-      "title": "Canva apologizes after its AI tool replaces ‘Palestine’ in designs",
-      "summary": "I suddenly feel so much better about every embarrassing typo I’ve ever made. | Original Illustration (left) by Agathe Singer One of Canva's new AI features has been caught replacing the word \"Palestine\" in designs. The Magic Layers feature - which is designed to break flat images out into separate editable components - isn't supposed to make visible alterations to user designs, but it was found by X user @ros_ie9 to automatically switch the phrase \"cats for Palestine\" to \"cats for Ukraine.\" The…",
-      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/04/Canva-Magic-Layers-AI-Palestine-switched.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "source": "The Verge",
-      "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/919028/canva-magic-layers-ai-replacing-palestine",
-      "publishedAt": "2026-04-27T14:29:23.000Z"
     },
     {
       "id": "6gdw2u",
@@ -210,15 +318,6 @@
       "publishedAt": "2026-04-27T12:10:00.000Z"
     },
     {
-      "id": "2csmeb",
-      "title": "The AI-designed car is taking shape",
-      "summary": "The auto design world is full of advanced 3D visualization tools and VR sculpting platforms, but your average new car still enters the world as a sketch. Those sketches traditionally see endless iteration and refinement from all angles before being turned into 3D models by hand, some dying in the digital world, others sculpted into clay to better visualize lines and profiles. That's just the beginning of a design and development process that often takes a half-decade or more. That means many new…",
-      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/04/side.png?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "source": "The Verge",
-      "sourceUrl": "https://www.theverge.com/transportation/918411/gm-ai-car-design-nissan-neural-concept",
-      "publishedAt": "2026-04-27T11:00:00.000Z"
-    },
-    {
       "id": "2cbnx",
       "title": "Meta inks deal for solar power at night, beamed from space",
       "summary": "Overview Energy's first contract with Meta is a small step toward a future of space-based solar power.",
@@ -235,60 +334,6 @@
       "source": "TechCrunch",
       "sourceUrl": "https://techcrunch.com/2026/04/26/to-buy-this-bay-area-home-youll-need-anthropic-equity/",
       "publishedAt": "2026-04-26T15:30:00.000Z"
-    },
-    {
-      "id": "nq0c0s",
-      "title": "Anthropic created a test marketplace for agent-on-agent commerce",
-      "summary": "In a recent experiment, Anthropic created a classified marketplace where AI agents represented both buyers and sellers, striking real deals for real goods and real money.",
-      "imageUrl": "https://images.unsplash.com/photo-1485827404703-89b55fcc595e?w=800&q=80",
-      "source": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/04/25/anthropic-created-a-test-marketplace-for-agent-on-agent-commerce/",
-      "publishedAt": "2026-04-25T21:43:37.000Z"
-    },
-    {
-      "id": "gmtc3d",
-      "title": "Maine’s governor vetoes data center moratorium",
-      "summary": "L.D. 307 would have imposed the country’s first statewide moratorium on new data centers — lasting, in this case, until November 1, 2027.",
-      "imageUrl": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=800&q=80",
-      "source": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/04/25/maines-governor-vetoes-data-center-moratorium/",
-      "publishedAt": "2026-04-25T20:57:08.000Z"
-    },
-    {
-      "id": "kcut0d",
-      "title": "OpenAI CEO apologizes to Tumbler Ridge community",
-      "summary": "In a letter to the residents of Tumbler Ridge, Canada, OpenAI CEO Sam Altman said he is “deeply sorry” that his company failed to alert law enforcement about the suspect in a recent mass shooting.",
-      "imageUrl": "https://images.unsplash.com/photo-1676299081847-824916de030a?w=800&q=80",
-      "source": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/04/25/openai-ceo-apologizes-to-tumbler-ridge-community/",
-      "publishedAt": "2026-04-25T17:17:56.000Z"
-    },
-    {
-      "id": "qa4lit",
-      "title": "Why Cohere is merging with Aleph Alpha",
-      "summary": "Canadian AI startup Cohere is taking over Germany-based Aleph Alpha with support from Schwarz Group. With the blessing of their governments, the companies intend to offer a sovereign alternative to enterprises in an AI landscape dominated by American players.",
-      "imageUrl": "https://images.unsplash.com/photo-1485827404703-89b55fcc595e?w=800&q=80",
-      "source": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/04/25/why-cohere-is-merging-with-aleph-alpha/",
-      "publishedAt": "2026-04-25T16:00:00.000Z"
-    },
-    {
-      "id": "3yyx1s",
-      "title": "Why Tokyo is the most important tech destination of 2026",
-      "summary": "SusHi Tech Tokyo 2026 has four tightly defined technology domains, each backed by live demonstrations, dedicated exhibit floors, and sessions featuring the people actually building and funding these technologies globally.",
-      "imageUrl": "https://images.unsplash.com/photo-1485827404703-89b55fcc595e?w=800&q=80",
-      "source": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/04/25/why-tokyo-is-the-most-important-tech-destination-of-2026/",
-      "publishedAt": "2026-04-25T15:03:00.000Z"
-    },
-    {
-      "id": "yihu1p",
-      "title": "Apple under Ternus: what comes next for the tech giant’s hardware strategy",
-      "summary": "John Ternus, Apple's incoming CEO, is a hardware guy, signaling Apple may be putting devices back at the center of its strategy.",
-      "imageUrl": "https://images.unsplash.com/photo-1550751827-4bd374c3f58b?w=800&q=80",
-      "source": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/04/25/apple-under-ternus-what-comes-next-for-the-tech-giants-hardware-strategy/",
-      "publishedAt": "2026-04-25T15:00:00.000Z"
     },
     {
       "id": "6pxcnh",
@@ -316,24 +361,6 @@
       "source": "MIT Tech Review",
       "sourceUrl": "https://www.technologyreview.com/2026/04/24/1136422/why-deepseeks-v4-matters/",
       "publishedAt": "2026-04-24T21:40:58.000Z"
-    },
-    {
-      "id": "rbkpjb",
-      "title": "Meta’s loss is Thinking Machines’ gain",
-      "summary": "Meta has been poaching talent from Thinking Machines Lab. But it's a two-way street.",
-      "imageUrl": "https://images.unsplash.com/photo-1676299081847-824916de030a?w=800&q=80",
-      "source": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/04/24/metas-loss-is-thinking-machines-gain/",
-      "publishedAt": "2026-04-24T20:52:07.000Z"
-    },
-    {
-      "id": "nsatzj",
-      "title": "ComfyUI hits $500M valuation as creators seek more control over AI-generated media",
-      "summary": "ComfyUI, whose tools give creators more control over AI image, video, and audio generation, just raised $30 million.",
-      "imageUrl": "https://images.unsplash.com/photo-1526374965328-7f61d4dc18c5?w=800&q=80",
-      "source": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/04/24/comfyui-hits-500m-valuation-as-creators-seek-more-control-over-ai-generated-media/",
-      "publishedAt": "2026-04-24T19:49:35.000Z"
     },
     {
       "id": "fzf4bz",
@@ -370,24 +397,6 @@
       "source": "MIT Tech Review",
       "sourceUrl": "https://www.technologyreview.com/2026/04/24/1136400/the-download-supercharged-scams-questionable-ai-healthcare/",
       "publishedAt": "2026-04-24T12:10:00.000Z"
-    },
-    {
-      "id": "g1df0g",
-      "title": "These AI Thirst Trap Creators Say They’re Misunderstood",
-      "summary": "A viral red carpet moment shone light on a group of hunky Instagram influencers—and the followers who are too horny to care that they’re not real.",
-      "imageUrl": "https://media.wired.com/photos/69e8007028d4e7b7573ef27b/master/pass/The-Gay-AI-Influencers-Taking-IG%E2%80%94and-Red-Carpet%E2%80%94by-Storm-Culture.jpg",
-      "source": "Wired",
-      "sourceUrl": "https://www.wired.com/story/gay-ai-instagram-influencers-red-carpet/",
-      "publishedAt": "2026-04-24T09:30:00.000Z"
-    },
-    {
-      "id": "bufq6o",
-      "title": "5 Reasons to Think Twice Before Using ChatGPT—or Any Chatbot—for Financial Advice",
-      "summary": "As people increasingly rely on AI chatbots for guidance, even on financial matters, a healthy dose of skepticism is critical.",
-      "imageUrl": "https://media.wired.com/photos/69ea22cb7c6d09c92685b0af/master/pass/financial-advice-chat-gpt.jpg",
-      "source": "Wired",
-      "sourceUrl": "https://www.wired.com/story/5-reasons-to-think-twice-before-using-chatgpt-for-financial-advice/",
-      "publishedAt": "2026-04-24T09:00:00.000Z"
     },
     {
       "id": "4spijb",
@@ -433,15 +442,6 @@
       "source": "Ars Technica",
       "sourceUrl": "https://arstechnica.com/security/2026/04/microsoft-issues-emergency-update-for-macos-and-linux-asp-net-threat/",
       "publishedAt": "2026-04-22T19:32:56.000Z"
-    },
-    {
-      "id": "3ai2z8",
-      "title": "The Download: introducing the 10 Things That Matter in AI Right Now",
-      "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. Introducing: 10 Things That Matter in AI Right Now What actually matters in AI right now? It’s getting harder to tell amid the constant launches, hype, and warnings. To cut through…",
-      "imageUrl": "https://images.unsplash.com/photo-1620712943543-bcc4688e7485?w=800&q=80",
-      "source": "MIT Tech Review",
-      "sourceUrl": "https://www.technologyreview.com/2026/04/22/1136310/the-download-10-things-that-matter-in-ai-right-now/",
-      "publishedAt": "2026-04-22T12:10:00.000Z"
     },
     {
       "id": "gn5nok",
