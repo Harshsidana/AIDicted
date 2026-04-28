@@ -1,7 +1,25 @@
 {
-  "fetchedAt": "2026-04-28T09:29:53.581Z",
+  "fetchedAt": "2026-04-28T11:23:19.273Z",
   "count": 60,
   "articles": [
+    {
+      "id": "u7918k",
+      "title": "Google and Pentagon reportedly agree deal for ‘any lawful’ use of AI",
+      "summary": "Google has signed a classified deal that allows the US Department of Defense to use its AI models for \"any lawful government purpose,\" The Information reports. The agreement was reported less than a day after Google employees demanded CEO Sundar Pichai block the Pentagon from using its AI amid concerns that it would be used in \"inhumane or extremely harmful ways.\" If the agreement is confirmed, it would place Google alongside OpenAI and xAI, which have also made classified AI deals with the US…",
+      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/24925007/236780_Google_AntiTrust_Trial_Custom_Art_CVirginia__0001_5.png?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "source": "The Verge",
+      "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/919494/google-pentagon-classified-ai-deal",
+      "publishedAt": "2026-04-28T11:09:32.000Z"
+    },
+    {
+      "id": "rnh0ez",
+      "title": "Attack of the killer script kiddies",
+      "summary": "Last August, some of the best cybersecurity teams in the business gathered in Las Vegas to demonstrate the strength of their AI bug-finding systems at DARPA's Artificial Intelligence Cyber Challenge (AIxCC). The tools had scanned 54 million lines of actual software code that DARPA had injected with artificial flaws. The teams were capable enough to identify most of the artificial bugs, but their automated tools went beyond that - they found more than a dozen bugs that DARPA hadn't inserted at…",
+      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/04/rogers-script-kiddies-ANIMATION.gif?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "source": "The Verge",
+      "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/915660/mythos-script-kiddies-hackers-attack-cybersecurity-ai",
+      "publishedAt": "2026-04-28T11:00:00.000Z"
+    },
     {
       "id": "d5ztpj",
       "title": "The Bloomberg Terminal Is Getting an AI Makeover, Like It or Not",
@@ -336,15 +354,6 @@
       "publishedAt": "2026-04-24T17:17:36.000Z"
     },
     {
-      "id": "je3u3s",
-      "title": "How Project Maven taught the military to love AI",
-      "summary": "In the first 24 hours of the assault on Iran, the US military struck more than 1,000 targets, nearly double the scale of the \"shock and awe\" attack on Iraq over two decades ago. This acceleration was made possible by AI systems that speed up the targeting process. Chief among them is the Maven Smart System. In her new book, Project Maven: A Marine Colonel, His Team, and the Dawn of AI Warfare, journalist Katrina Manson investigates the development of Maven from its inception in 2017 as an…",
-      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/04/268484_How_the_US_embraced_AI_warfare_CVirginia.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "source": "The Verge",
-      "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/917996/project-maven-military-ai-katrina-manson",
-      "publishedAt": "2026-04-24T17:00:00.000Z"
-    },
-    {
       "id": "oafeai",
       "title": "Apple's Next CEO Needs to Launch a Killer AI Product",
       "summary": "Tim Cook was a great CEO, but he didn’t crack AI. It’s job number 1 for John Ternus.",
@@ -352,15 +361,6 @@
       "source": "Wired",
       "sourceUrl": "https://www.wired.com/story/apples-next-ceo-needs-to-launch-a-killer-ai-product/",
       "publishedAt": "2026-04-24T15:00:00.000Z"
-    },
-    {
-      "id": "hlfroz",
-      "title": "AirPods, Touch Bars, and the rest of Tim Cook’s legacy",
-      "summary": "We knew at some point Tim Cook would step down from his position as Apple's CEO. Over the last year, it has become increasingly obvious that John Ternus was his likely successor. The news this week was still a surprise, though - and this year's succession could lead to some important changes at the most influential company in tech. Verge subscribers, don't forget you get exclusive access to ad-free Vergecast wherever you get your podcasts. Head here. Not a subscriber? You can sign up here. On…",
-      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/04/VRG_VST_0424_Site.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "source": "The Verge",
-      "sourceUrl": "https://www.theverge.com/podcast/917965/apple-ceo-cook-ternus-transition",
-      "publishedAt": "2026-04-24T14:43:07.000Z"
     },
     {
       "id": "gvckl0",
