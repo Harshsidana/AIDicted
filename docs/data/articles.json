@@ -1,7 +1,34 @@
 {
-  "fetchedAt": "2026-04-27T23:30:53.513Z",
+  "fetchedAt": "2026-04-28T03:54:45.147Z",
   "count": 60,
   "articles": [
+    {
+      "id": "cfzk3u",
+      "title": "Jury selection in Musk v. Altman: ‘People don’t like him’",
+      "summary": "On Monday, the courtroom battle between Elon Musk and Sam Altman over alleged broken promises at OpenAI started, as usual, with jury selection. The only tricky part? A lot of the prospective jurors already have an opinion about Elon Musk, and it's not a good one. The Verge reporter Elizabeth Lopatto, who was there at the courthouse, quoted statements from some of the juror questionnaires: \"Elon Musk is a greedy, racist, homophobic piece of garbage.\" \"Elon Musk is a world-class jerk.\" \"I very…",
+      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/23906796/VRG_Illo_STK022_K_Radtke_Musk_Scales_2.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "source": "The Verge",
+      "sourceUrl": "https://www.theverge.com/tech/919469/elon-musk-dont-like",
+      "publishedAt": "2026-04-28T03:39:33.000Z"
+    },
+    {
+      "id": "gwxl2p",
+      "title": "Some Musk v. Altman Jurors Don't Like Elon Musk",
+      "summary": "Musk’s lawsuit challenges OpenAI’s evolution under Sam Altman. But during jury selection, several potential jurors voiced negative views of Musk himself.",
+      "imageUrl": "https://media.wired.com/photos/69efe08a87c24c30ec966a36/master/pass/Model-Behavior-Musk-Altman-Jury-Business.jpg",
+      "source": "Wired",
+      "sourceUrl": "https://www.wired.com/story/some-musk-v-altman-jurors-dont-like-elon-musk/",
+      "publishedAt": "2026-04-28T00:39:30.000Z"
+    },
+    {
+      "id": "i32j7n",
+      "title": "Google is testing AI chatbot search for YouTube",
+      "summary": "Google is trying out an AI Mode-like search experience for YouTube. The company is now testing \"a new way to search on YouTube that feels more like a conversation,\" with results pulling in things like longform videos, YouTube Shorts, and text about what you're searching for. The \"experiment\" is now available if you're a YouTube Premium subscriber in the US who is 18 or older. I turned it on for my account. Now, in the search bar, I see an \"Ask YouTube\" button, and clicking the search bar shows…",
+      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/04/Screenshot-2026-04-27-at-4.55.32PM.png?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "source": "The Verge",
+      "sourceUrl": "https://www.theverge.com/streaming/919441/google-ask-youtube-ai-chatbot-search",
+      "publishedAt": "2026-04-28T00:01:54.000Z"
+    },
     {
       "id": "l2a5c9",
       "title": "Elon Musk and Sam Altman are going to court over OpenAI’s future",
@@ -336,24 +363,6 @@
       "publishedAt": "2026-04-24T12:10:00.000Z"
     },
     {
-      "id": "o3vh0j",
-      "title": "Musk vs. Altman is here, and it’s going to get messy",
-      "summary": "Might as well jump, as the poet David Lee Roth once said. | Image: Cath Virginia / The Verge Elon Musk cofounded OpenAI, and then flounced off in a huff when he wasn't anointed CEO, leaving Sam Altman as the last power-hungry man standing. Now, Musk is back with a lawsuit, and a trial is scheduled to start in Oakland, California, on April 27th. Theoretically, it's a legal case about whether OpenAI defrauded Musk. But that's not really what we're all doing here. This is about mess. Over the past…",
-      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/04/268474_musk_vs_altman_CVirginia2.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "source": "The Verge",
-      "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/917755/musk-altman-openai-xai-gossip",
-      "publishedAt": "2026-04-24T12:00:00.000Z"
-    },
-    {
-      "id": "7n8vd3",
-      "title": "China’s DeepSeek previews new AI model a year after jolting US rivals",
-      "summary": "Chinese AI company DeepSeek released a preview of its hotly anticipated next-generation AI model V4 on Friday, saying that the open-source model can compete with leading closed-source systems from US rivals including Anthropic, Google, and OpenAI. DeepSeek says V4 marks a major improvement over prior models, especially in coding, a capability that has become central to AI agents and helped drive the success of tools like ChatGPT Codex and Claude Code. The release is also a milestone for China's…",
-      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/04/STKB320_DEEPSEEK_AI_CVIRGINIA_C.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "source": "The Verge",
-      "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/918035/deepseek-preview-v4-ai-model",
-      "publishedAt": "2026-04-24T09:45:30.000Z"
-    },
-    {
       "id": "g1df0g",
       "title": "These AI Thirst Trap Creators Say They’re Misunderstood",
       "summary": "A viral red carpet moment shone light on a group of hunky Instagram influencers—and the followers who are too horny to care that they’re not real.",
@@ -397,15 +406,6 @@
       "source": "Wired",
       "sourceUrl": "https://www.wired.com/story/uncanny-valley-podcast-apple-next-chapter-spacex-cursor-deal-palantir-manifesto/",
       "publishedAt": "2026-04-23T19:26:11.000Z"
-    },
-    {
-      "id": "duia9k",
-      "title": "At 'AI Coachella,' Stanford Students Line Up to Learn From Silicon Valley Royalty",
-      "summary": "CS 153 has gone viral on the Palo Alto campus—and on X. Not everyone is happy about it.",
-      "imageUrl": "https://media.wired.com/photos/69e7fd9ba92c502cace442f8/master/pass/Model-Behavior-AI-Coachella-Stanford-Business.jpg",
-      "source": "Wired",
-      "sourceUrl": "https://www.wired.com/story/stanford-cs-class-ai-coachella-ben-horowitz/",
-      "publishedAt": "2026-04-23T18:24:37.000Z"
     },
     {
       "id": "r402b7",
