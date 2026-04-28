@@ -1,7 +1,25 @@
 {
-  "fetchedAt": "2026-04-28T19:51:10.130Z",
+  "fetchedAt": "2026-04-28T21:13:06.047Z",
   "count": 60,
   "articles": [
+    {
+      "id": "27dnar",
+      "title": "Elon Musk tells the jury that all he wants to do is save humanity",
+      "summary": "On the stand, Elon Musk is positioning himself as a savior. In the high-profile trial between him and his fellow OpenAI co-founder, now CEO, Sam Altman, Musk opened by going through his background. He went as far back as being raised in South Africa and arriving in Canada for college with \"2,500 in Canadian travelers' checks and a bag of clothes and books,\" then spent an unusually long time talking about his past, from Zip2 to PayPal to the current, more familiar slate of companies he now runs.…",
+      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/04/STK022_ELON_MUSK_CVIRGINIA4_J.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "source": "The Verge",
+      "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/920048/elon-musk-testimony-save-humanity",
+      "publishedAt": "2026-04-28T20:46:54.000Z"
+    },
+    {
+      "id": "v3etfj",
+      "title": "Taylor Swift is stepping up the legal war on AI copycats",
+      "summary": "Taylor Swift has been at the center of AI imitation controversies for years, and now, she's become the latest celebrity who's escalating attempts to protect herself from AI copycats. As usual, however, the legal system intersects with technology in complicated ways - and Swift's efforts may be a long shot. In trademark applications filed last week, Swift's team asked for protection for two phrases spoken by the singer: Hey, it's Taylor Swift and Hey, it's Taylor. The trademark applications,…",
+      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/04/gettyimages-2268536362.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "source": "The Verge",
+      "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/919827/taylor-swift-trademarks-ai-copycats",
+      "publishedAt": "2026-04-28T20:30:00.000Z"
+    },
     {
       "id": "q1zk5s",
       "title": "Amazon is already offering new OpenAI products on AWS",
@@ -14,7 +32,7 @@
     {
       "id": "rfngrl",
       "title": "Live updates from Elon Musk and Sam Altman’s court battle over the future of OpenAI",
-      "summary": "Sam Altman and Elon Musk are set to face off in a high-stakes trial that could alter the future of tech’s leading AI startup, OpenAI. In 2024, Musk filed a lawsuit accusing OpenAI of abandoning its founding mission of developing AI to benefit humanity and shifting focus to boosting profits instead. The trial began with jury selection on April 27th. The trial began with jury selection on April 27th, before Elon Musk took the stand on Tuesday as the first witness called. Musk was a cofounder of…",
+      "summary": "Sam Altman and Elon Musk are facing off in a high-stakes trial that could alter the future of OpenAI and its most well-known product, ChatGPT. In 2024, Musk filed a lawsuit accusing OpenAI of abandoning its founding mission of developing AI to benefit humanity and shifting focus to boosting profits instead. The trial began with jury selection on April 27th, before Elon Musk took the stand on Tuesday as the first witness called, portraying his interest in founding OpenAI as an effort to help save…",
       "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/04/268474_musk_vs_altman_CVirginia.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
       "source": "The Verge",
       "sourceUrl": "https://www.theverge.com/tech/917225/sam-altman-elon-musk-openai-lawsuit",
@@ -210,15 +228,6 @@
       "publishedAt": "2026-04-27T21:04:03.000Z"
     },
     {
-      "id": "j7sc29",
-      "title": "Canonical lays out a plan for AI in Ubuntu Linux",
-      "summary": "One of the most popular Linux distributions is about to get an influx of AI features. As reported by Phoronix, Jon Seager, VP of engineering at Ubuntu developer Canonical, shared a blog post on Monday detailing plans to add AI features to the Linux distro over the next year. As the post states, the AI features \"will come in two forms: first as a means of enhancing existing OS functionality with AI models in the background, and latterly in the form of 'AI native' features and workflows for those…",
-      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/09/STK_414_AI_CHATBOT_R2_CVirginia_D.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "source": "The Verge",
-      "sourceUrl": "https://www.theverge.com/tech/919411/canonical-ubuntu-linux-ai-features",
-      "publishedAt": "2026-04-27T20:47:45.000Z"
-    },
-    {
       "id": "lmuud6",
       "title": "Elon Musk Boosts New Yorker’s Sam Altman Exposé on X as Trial Begins",
       "summary": "The move comes as the trial for Elon Musk’s lawsuit against OpenAI kicks off in federal court in Oakland.",
@@ -226,15 +235,6 @@
       "source": "Wired",
       "sourceUrl": "https://www.wired.com/story/elon-musk-boost-new-yorker-article-sam-altman-x/",
       "publishedAt": "2026-04-27T20:08:51.000Z"
-    },
-    {
-      "id": "bjueag",
-      "title": "Google employees ask Sundar Pichai to say no to classified military AI use",
-      "summary": "Google CEO Sundar Pichai arrives for the inauguration of President Donald Trump. | Getty Images Over 600 Google employees signed a letter to CEO Sundar Pichai demanding that Google block the Pentagon from using its AI models for classified purposes, reports the The Washington Post. Its organizers claim many of the signers work in Google's DeepMind AI lab, and include more than 20 principals, directors, and vice presidents. According to the Post, the letter says that \"The only way to guarantee…",
-      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/04/gettyimages-2194442232.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "source": "The Verge",
-      "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/919326/google-ai-pentagon-classified-letter",
-      "publishedAt": "2026-04-27T18:17:12.000Z"
     },
     {
       "id": "6dxriy",
