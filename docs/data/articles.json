@@ -1,7 +1,34 @@
 {
-  "fetchedAt": "2026-04-29T07:04:46.719Z",
+  "fetchedAt": "2026-04-29T09:34:37.516Z",
   "count": 60,
   "articles": [
+    {
+      "id": "akoadp",
+      "title": "General Motors is adding Gemini to four million cars",
+      "summary": "Gemini is coming to Cadillac, Chevrolet, Buick, and GMC vehicles. | Image: General Motors General Motors is planning to bring Google's Gemini AI assistant to around four million vehicles across the US. Model year 2022 and newer Cadillac, Chevrolet, Buick, and GMC vehicles with Google built-in will be eligible for the AI upgrade, which will be rolled out via over-the-air software updates for GM's infotainment system \"over several months,\" according to GM's announcement. GM says this update…",
+      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/04/Google-Gemini-AI-in-a-Chevrolet.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "source": "The Verge",
+      "sourceUrl": "https://www.theverge.com/transportation/920285/general-motors-gm-gemini-ai-update",
+      "publishedAt": "2026-04-29T09:14:38.000Z"
+    },
+    {
+      "id": "wtfl9f",
+      "title": "How AI Could Help Combat Antibiotic Resistance",
+      "summary": "At WIRED Health, British surgeon Ara Darzi said AI is set to transform the diagnosis and treatment of drug-resistant infections. But a lack of incentives means innovation may not reach patients.",
+      "imageUrl": "https://media.wired.com/photos/69ea459b31b8426862a83c48/master/pass/XT502056.jpg",
+      "source": "Wired",
+      "sourceUrl": "https://www.wired.com/story/wired-health-2026-tackling-antimicrobial-resistance-ara-darzi/",
+      "publishedAt": "2026-04-29T09:00:00.000Z"
+    },
+    {
+      "id": "4z5s06",
+      "title": "It’s time to make a plan for nuclear waste",
+      "summary": "Today, nuclear energy enjoys a rare moment of support across the political spectrum in the US. Interest from tech companies that are scrambling to meet demand for massive data centers has sparked a resurgence of money and attention in the industry. That newfound interest is exactly why it’s time to talk about an old problem:…",
+      "imageUrl": "https://images.unsplash.com/photo-1526374965328-7f61d4dc18c5?w=800&q=80",
+      "source": "MIT Tech Review",
+      "sourceUrl": "https://www.technologyreview.com/2026/04/29/1136659/plan-nuclear-waste/",
+      "publishedAt": "2026-04-29T08:00:00.000Z"
+    },
     {
       "id": "x5bsl4",
       "title": "At his OpenAI trial, Musk relitigates an old friendship",
@@ -219,15 +246,6 @@
       "publishedAt": "2026-04-28T08:30:00.000Z"
     },
     {
-      "id": "cfzk3u",
-      "title": "Jury selection in Musk v. Altman: ‘People don’t like him’",
-      "summary": "On Monday, the courtroom battle between Elon Musk and Sam Altman over alleged broken promises at OpenAI started, as usual, with jury selection. The only tricky part? A lot of the prospective jurors already have an opinion about Elon Musk, and it's not a good one. The Verge reporter Elizabeth Lopatto, who was there at the courthouse, quoted statements from some of the juror questionnaires: \"Elon Musk is a greedy, racist, homophobic piece of garbage.\" \"Elon Musk is a world-class jerk.\" \"I very…",
-      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/23906796/VRG_Illo_STK022_K_Radtke_Musk_Scales_2.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "source": "The Verge",
-      "sourceUrl": "https://www.theverge.com/tech/919469/elon-musk-dont-like",
-      "publishedAt": "2026-04-28T03:39:33.000Z"
-    },
-    {
       "id": "gwxl2p",
       "title": "Some Musk v. Altman Jurors Don't Like Elon Musk",
       "summary": "Musk’s lawsuit challenges OpenAI’s evolution under Sam Altman. But during jury selection, several potential jurors voiced negative views of Musk himself.",
@@ -363,15 +381,6 @@
       "publishedAt": "2026-04-25T10:30:00.000Z"
     },
     {
-      "id": "sm65gp",
-      "title": "Ace the Ping-Pong Robot Can Whup Your Ass",
-      "summary": "Ace can read the trajectory of a ball, adjust the racket angle, and respond with strokes that keep the exchange alive with real players.",
-      "imageUrl": "https://media.wired.com/photos/69ea3dfba5897da10992cdf4/master/pass/178826162",
-      "source": "Wired",
-      "sourceUrl": "https://www.wired.com/story/ace-the-robot-wants-to-become-the-world-table-tennis-champion/",
-      "publishedAt": "2026-04-25T09:30:00.000Z"
-    },
-    {
       "id": "nd0oqy",
       "title": "Three reasons why DeepSeek’s new model matters",
       "summary": "On April 24, Chinese AI firm DeepSeek released a preview of V4, its long-awaited new flagship model. The model can process much longer prompts than its last generation, thanks to a new design that helps it handle large amounts of text more efficiently. Like DeepSeek’s previous models, V4 is open source, meaning it is available…",
@@ -424,15 +433,6 @@
       "source": "MIT Tech Review",
       "sourceUrl": "https://www.technologyreview.com/2026/04/23/1136346/the-download-introducing-nature-issue/",
       "publishedAt": "2026-04-23T12:10:00.000Z"
-    },
-    {
-      "id": "yenxll",
-      "title": "Will fusion power get cheap? Don’t count on it.",
-      "summary": "Fusion power could provide a steady, zero-emissions source of electricity in the future—if companies can get plants built and running. But a new study suggests that even if that future arrives, it might not come cheap. Technologies tend to get less expensive over time. Lithium-ion batteries are now about 90% cheaper than they were in…",
-      "imageUrl": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=800&q=80",
-      "source": "MIT Tech Review",
-      "sourceUrl": "https://www.technologyreview.com/2026/04/23/1136329/fusion-power-cost/",
-      "publishedAt": "2026-04-23T10:00:00.000Z"
     },
     {
       "id": "zhfctg",
