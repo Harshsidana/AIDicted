@@ -1,7 +1,43 @@
 {
-  "fetchedAt": "2026-04-29T14:22:15.154Z",
+  "fetchedAt": "2026-04-29T16:15:22.306Z",
   "count": 60,
   "articles": [
+    {
+      "id": "eak0e7",
+      "title": "Google Photos launches an AI try-on feature for clothes you already have",
+      "summary": "Google Photos is launching a new AI-powered feature you can use to virtually try on clothes you already have. Using the photos in your gallery, Google will create a virtual \"wardrobe,\" allowing you to mix and match outfits, save the looks you like, and share them with friends. A video shared by Google shows how Photos organizes your outfits and individual pieces of clothing into a virtual \"wardrobe.\" You can browse through the outfits you were captured wearing, as well as create new ones by…",
+      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/05/STKB353_GOOGLE_PHOTOS_C.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "source": "The Verge",
+      "sourceUrl": "https://www.theverge.com/tech/920420/google-photos-ai-try-on-wardrobe",
+      "publishedAt": "2026-04-29T16:00:00.000Z"
+    },
+    {
+      "id": "rfngrl",
+      "title": "Live updates from Elon Musk and Sam Altman’s court battle over the future of OpenAI",
+      "summary": "Sam Altman and Elon Musk are facing off in a high-stakes trial that could alter the future of OpenAI and its most well-known product, ChatGPT. In 2024, Musk filed a lawsuit accusing OpenAI of abandoning its founding mission of developing AI to benefit humanity and shifting focus to boosting profits instead. The trial began with jury selection on April 27th, before Elon Musk took the stand on Tuesday as the first witness called, portraying his interest in founding OpenAI as an effort to help save…",
+      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/04/268474_musk_vs_altman_CVirginia.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "source": "The Verge",
+      "sourceUrl": "https://www.theverge.com/tech/917225/sam-altman-elon-musk-openai-lawsuit",
+      "publishedAt": "2026-04-29T15:35:32.000Z"
+    },
+    {
+      "id": "7me74w",
+      "title": "Tumbler Ridge families sue OpenAI for not alerting police to the suspect’s ChatGPT activity",
+      "summary": "Seven families of victims injured or killed in the Tumbler Ridge school shooting in Canada have filed lawsuits against OpenAI and CEO Sam Altman, accusing the company and its leadership of negligence after they failed to alert police to the suspected shooter's ChatGPT activity. The families allege OpenAI stayed silent after its systems flagged activity by shooting suspect Jesse Van Rootselaar in order to protect the company's reputation and upcoming initial public offering (IPO). The Wall Street…",
+      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/04/gettyimages-2260765297.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "source": "The Verge",
+      "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/920479/tumbler-ridge-chagpt-openai-lawsuit",
+      "publishedAt": "2026-04-29T14:47:57.000Z"
+    },
+    {
+      "id": "ijzkxy",
+      "title": "ChatGPT downloads are slowing — and may cause problems for OpenAI’s IPO",
+      "summary": "ChatGPT is struggling to keep up its once-explosive growth as users uninstall the app or opt for rival chatbots instead. According to data from market intelligence firm Sensor Tower, ChatGPT experienced a 132 percent increase in uninstalls year over year in April. Its uninstall rate was even higher last month, up 413 percent year-over-year, following OpenAI's deal with the Pentagon in February. While ChatGPT is still growing its user base, Sensor Tower says that growth is slowing down - ChatGPT…",
+      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25844039/STK155_OPEN_AI_CVirginia__A.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "source": "The Verge",
+      "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/920476/openai-chatgpt-downloads-slow-down-ipo",
+      "publishedAt": "2026-04-29T14:43:41.000Z"
+    },
     {
       "id": "mpoqxw",
       "title": "Larry’s risky business",
@@ -156,24 +192,6 @@
       "publishedAt": "2026-04-28T21:35:17.000Z"
     },
     {
-      "id": "27dnar",
-      "title": "Elon Musk tells the jury that all he wants to do is save humanity",
-      "summary": "On the stand, Elon Musk is positioning himself as a savior. In the high-profile trial between him and his fellow OpenAI cofounder, now CEO, Sam Altman, Musk opened by going through his background. He went as far back as being raised in South Africa and arriving in Canada for college with \"2,500 in Canadian travelers' checks and a bag of clothes and books,\" then spent an unusually long time talking about his past, from Zip2 to PayPal to the current, more familiar slate of companies he now runs.…",
-      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/04/STK022_ELON_MUSK_CVIRGINIA4_J.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "source": "The Verge",
-      "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/920048/elon-musk-testimony-save-humanity",
-      "publishedAt": "2026-04-28T20:46:54.000Z"
-    },
-    {
-      "id": "v3etfj",
-      "title": "Taylor Swift is stepping up the legal war on AI copycats",
-      "summary": "Taylor Swift has been at the center of AI imitation controversies for years, and now, she's become the latest celebrity who's escalating attempts to protect herself from AI copycats. As usual, however, the legal system intersects with technology in complicated ways - and Swift's efforts may be a long shot. In trademark applications filed last week, Swift's team asked for protection for two phrases spoken by the singer: \"Hey, it's Taylor Swift\" and \"Hey, it's Taylor.\" The trademark applications,…",
-      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/04/gettyimages-2268536362.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "source": "The Verge",
-      "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/919827/taylor-swift-trademarks-ai-copycats",
-      "publishedAt": "2026-04-28T20:30:00.000Z"
-    },
-    {
       "id": "q1zk5s",
       "title": "Amazon is already offering new OpenAI products on AWS",
       "summary": "A day after OpenAI got Microsoft to agree to end exclusive rights, AWS announced a slate of OpenAI model offerings, including a new agent service.",
@@ -181,24 +199,6 @@
       "source": "TechCrunch",
       "sourceUrl": "https://techcrunch.com/2026/04/28/amazon-is-already-offering-new-openai-products-on-aws/",
       "publishedAt": "2026-04-28T19:48:02.000Z"
-    },
-    {
-      "id": "rfngrl",
-      "title": "Live updates from Elon Musk and Sam Altman’s court battle over the future of OpenAI",
-      "summary": "Sam Altman and Elon Musk are facing off in a high-stakes trial that could alter the future of OpenAI and its most well-known product, ChatGPT. In 2024, Musk filed a lawsuit accusing OpenAI of abandoning its founding mission of developing AI to benefit humanity and shifting focus to boosting profits instead. The trial began with jury selection on April 27th, before Elon Musk took the stand on Tuesday as the first witness called, portraying his interest in founding OpenAI as an effort to help save…",
-      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/04/268474_musk_vs_altman_CVirginia.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "source": "The Verge",
-      "sourceUrl": "https://www.theverge.com/tech/917225/sam-altman-elon-musk-openai-lawsuit",
-      "publishedAt": "2026-04-28T19:27:50.000Z"
-    },
-    {
-      "id": "o1jj57",
-      "title": "Elon Musk takes the stand in high-profile trial against OpenAI",
-      "summary": "Elon Musk officially began his testimony in the trial he has brought against OpenAI CEO Sam Altman and company president Greg Brockman. The three were on the initial founding team of OpenAI, with Musk investing up to $38 million early on before the co-founders' relationship soured over disagreements over company structure and mission, including whether or not OpenAI should be folded into Musk-owned Tesla. Musk walked away and, years later, founded xAI - his own direct competitor to OpenAI, which…",
-      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/01/VRG_Illo_STK022_K_Radtke_Musk_Bolts.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "source": "The Verge",
-      "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/917052/elon-musk-takes-stand-trial-openai-sam-altman",
-      "publishedAt": "2026-04-28T19:00:13.000Z"
     },
     {
       "id": "umb3bl",
