@@ -1,7 +1,52 @@
 {
-  "fetchedAt": "2026-04-29T19:48:47.517Z",
+  "fetchedAt": "2026-04-29T22:33:29.068Z",
   "count": 60,
   "articles": [
+    {
+      "id": "i4kfcv",
+      "title": "Google Cloud surpasses $20B but says growth was capacity-constrained",
+      "summary": "Google Cloud topped $20B in quarterly revenue for the first time, fueled by surging demand for AI. But capacity constraints mean it could have grown even faster.",
+      "imageUrl": "https://images.unsplash.com/photo-1531746790095-6c10a4031c5f?w=800&q=80",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/04/29/google-cloud-surpasses-20b-but-says-growth-was-capacity-constrained/",
+      "publishedAt": "2026-04-29T22:20:48.000Z"
+    },
+    {
+      "id": "7csdqm",
+      "title": "Google gains 25M subscriptions in Q1, driven by YouTube and Google One",
+      "summary": "Google added 25M paid subscriptions in Q1, reaching 350M total, as YouTube and Google One grow.",
+      "imageUrl": "https://images.unsplash.com/photo-1676299081847-824916de030a?w=800&q=80",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/04/29/google-gains-25m-subscriptions-in-q1-driven-by-youtube-and-google-one/",
+      "publishedAt": "2026-04-29T20:59:00.000Z"
+    },
+    {
+      "id": "lcnaz1",
+      "title": "Emergency First Responders Say Waymos Are Getting Worse",
+      "summary": "“I believe the technology was deployed too quickly in too vast amounts, with hundreds of vehicles, when it wasn’t really ready,” one police official told federal regulators last month.",
+      "imageUrl": "https://media.wired.com/photos/69f2023315173e86b113088a/master/pass/GettyImages-2259269133.jpg",
+      "source": "Wired",
+      "sourceUrl": "https://www.wired.com/story/emergency-first-responders-say-waymos-are-getting-worse/",
+      "publishedAt": "2026-04-29T20:45:37.000Z"
+    },
+    {
+      "id": "xt042g",
+      "title": "Taylor Swift Wants to Trademark Her Likeness. These TikTok Deepfake Ads Show Why",
+      "summary": "Researchers show scammers are using AI-manipulated footage of celebrity interviews to trick users into sharing their personal data.",
+      "imageUrl": "https://media.wired.com/photos/69f2427e8cf66a0c9e78249e/master/pass/TaylorSwiftDeepFakes_1080x1080.jpg",
+      "source": "Wired",
+      "sourceUrl": "https://www.wired.com/story/taylor-swift-rihanna-tiktok-deepfake-ads/",
+      "publishedAt": "2026-04-29T20:36:53.000Z"
+    },
+    {
+      "id": "c6zw9t",
+      "title": "Google Search queries hit an ‘all time high’ last quarter",
+      "summary": "Google Search queries hit an \"all time high\" in the first quarter of 2026, according to a statement from CEO Sundar Pichai published as part of Alphabet's earnings on Wednesday. \"Our AI investments and full stack approach are lighting up every part of the business,\" Pichai says. \"Search had a strong quarter with AI experiences driving usage, queries at an all time high, and 19% revenue growth.\" He also notes that Q1 was \"our strongest quarter ever for our consumer AI plans, driven by the Gemini…",
+      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/23951561/VRG_Illo_STK179_L_Normand_SundarPichai_Neutral.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "source": "The Verge",
+      "sourceUrl": "https://www.theverge.com/tech/920815/google-alphabet-q1-2026-earnings-sundar-pichai",
+      "publishedAt": "2026-04-29T20:28:11.000Z"
+    },
     {
       "id": "l47nms",
       "title": "Is AI video just a prequel? Runway’s CEO thinks world models are next",
@@ -165,15 +210,6 @@
       "publishedAt": "2026-04-29T10:39:21.000Z"
     },
     {
-      "id": "ubwsb6",
-      "title": "GitHub rushed to fix a critical vulnerability in less than six hours",
-      "summary": "GitHub employees fixed a critical remote code execution vulnerability in less than six hours last month. Wiz Research used AI models to uncover a vulnerability in GitHub's internal git infrastructure that could have allowed attackers to access millions of public and private code repositories. \"Our security team immediately began validating the bug bounty report. Within 40 minutes, we had reproduced the vulnerability internally and confirmed the severity,\" explains Alexis Wales, GitHub chief…",
-      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/10/acastro_220504_STK121_0001.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "source": "The Verge",
-      "sourceUrl": "https://www.theverge.com/news/920295/github-remote-code-execution-vulnerability-fix",
-      "publishedAt": "2026-04-29T10:04:25.000Z"
-    },
-    {
       "id": "dm2ufk",
       "title": "I've Covered Robots for Years. This One Is Different",
       "summary": "From sorting chicken nuggets to screwing in lightbulbs, Eka’s robotic claw feels like we're approaching a ChatGPT moment for the physical world.",
@@ -291,24 +327,6 @@
       "publishedAt": "2026-04-28T13:54:06.000Z"
     },
     {
-      "id": "6sj9si",
-      "title": "BCI startup Neurable looks to license its ‘mind-reading’ tech for consumer wearables",
-      "summary": "The startup specializes in \"non-invasive\" \"mind-reading\" tech — a kind of neural data collection that, its CEO hopes, will have all sorts of consumer applications.",
-      "imageUrl": "https://images.unsplash.com/photo-1635070041078-e363dbe005cb?w=800&q=80",
-      "source": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/04/28/bci-startup-neurable-looks-to-license-its-mind-reading-tech-for-consumer-wearables/",
-      "publishedAt": "2026-04-28T13:19:34.000Z"
-    },
-    {
-      "id": "4dn91q",
-      "title": "Red Hat’s OpenClaw maintainer just made enterprise Claw deployments a lot safer",
-      "summary": "Tank OS puts OpenClaw AI agents into a container that lets it run reliably and more safely, especially for those running fleets of them.",
-      "imageUrl": "https://images.unsplash.com/photo-1655720828018-edd2daec9349?w=800&q=80",
-      "source": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/04/28/red-hats-openclaw-maintainer-just-made-enterprise-claw-deployments-a-lot-safer/",
-      "publishedAt": "2026-04-28T13:00:00.000Z"
-    },
-    {
       "id": "kuvn3a",
       "title": "The Race Is on to Keep AI Agents From Running Wild With Your Credit Cards",
       "summary": "AI agents may soon be buying your stuff for you. The FIDO Alliance has teamed up with Google and Mastercard to try to ensure that shopping in the near future isn't a complete disaster.",
@@ -336,15 +354,6 @@
       "publishedAt": "2026-04-28T08:30:00.000Z"
     },
     {
-      "id": "gwxl2p",
-      "title": "Some Musk v. Altman Jurors Don't Like Elon Musk",
-      "summary": "Musk’s lawsuit challenges OpenAI’s evolution under Sam Altman. But during jury selection, several potential jurors voiced negative views of Musk himself.",
-      "imageUrl": "https://media.wired.com/photos/69efe08a87c24c30ec966a36/master/pass/Model-Behavior-Musk-Altman-Jury-Business.jpg",
-      "source": "Wired",
-      "sourceUrl": "https://www.wired.com/story/some-musk-v-altman-jurors-dont-like-elon-musk/",
-      "publishedAt": "2026-04-28T00:39:30.000Z"
-    },
-    {
       "id": "l2a5c9",
       "title": "Elon Musk and Sam Altman are going to court over OpenAI’s future",
       "summary": "After a yearslong legal feud, Elon Musk and OpenAI CEO Sam Altman are heading to trial this week in Northern California in a case that could have sweeping consequences. Ahead of OpenAI’s highly anticipated IPO, the court could rule on whether the company is allowed to exist as a for-profit enterprise and might even oust…",
@@ -361,15 +370,6 @@
       "source": "Ars Technica",
       "sourceUrl": "https://arstechnica.com/security/2026/04/open-source-package-with-1-million-monthly-downloads-stole-user-credentials/",
       "publishedAt": "2026-04-27T21:04:03.000Z"
-    },
-    {
-      "id": "lmuud6",
-      "title": "Elon Musk Boosts New Yorker’s Sam Altman Exposé on X as Trial Begins",
-      "summary": "The move comes as the trial for Elon Musk’s lawsuit against OpenAI kicks off in federal court in Oakland.",
-      "imageUrl": "https://media.wired.com/photos/69efb98c62f06e966778ac07/master/pass/GettyImages-491588398.jpg",
-      "source": "Wired",
-      "sourceUrl": "https://www.wired.com/story/elon-musk-boost-new-yorker-article-sam-altman-x/",
-      "publishedAt": "2026-04-27T20:08:51.000Z"
     },
     {
       "id": "v1rtxm",
