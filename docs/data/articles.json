@@ -1,12 +1,48 @@
 {
-  "fetchedAt": "2026-04-29T16:15:22.306Z",
+  "fetchedAt": "2026-04-29T17:58:30.440Z",
   "count": 60,
   "articles": [
+    {
+      "id": "dksrca",
+      "title": "Ubuntu’s AI plans have Linux users looking for a ‘kill switch’",
+      "summary": "Canonical's plan to add AI features to Ubuntu has some users asking for \"a version of Ubuntu that does not include these features,\" while others say they'll stick with older versions of the Linux distro or even switch to a different one. After Canonical's announcement earlier this week that it's bringing AI features to Ubuntu, replies included requests for an AI \"kill switch\" or a way to disable the upcoming features, and comparisons to Microsoft's addition of AI features into Windows 11.…",
+      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/03/STK414_AI_CHATBOT_E.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "source": "The Verge",
+      "sourceUrl": "https://www.theverge.com/tech/920723/linux-ubuntu-ai-features-ai-kill-switch",
+      "publishedAt": "2026-04-29T17:32:02.000Z"
+    },
+    {
+      "id": "qxkhon",
+      "title": "Sanctioned Chinese AI Firm SenseTime Releases Image Model Built for Speed",
+      "summary": "With US restrictions limiting its access to advanced tech, SenseTime is doubling down on open source with a new model optimized to run on Chinese-made chips.",
+      "imageUrl": "https://media.wired.com/photos/69f11e18364b858d165e91bf/master/pass/SenseTime-AI-Models-Chinese-Chips-Business-2154581485.jpg",
+      "source": "Wired",
+      "sourceUrl": "https://www.wired.com/story/chinese-ai-giant-sensetime-is-running-its-new-model-on-chinese-chips/",
+      "publishedAt": "2026-04-29T17:23:52.000Z"
+    },
+    {
+      "id": "2apgwq",
+      "title": "Google Photos uses AI to make the iconic closet from ‘Clueless’ a reality",
+      "summary": "Google recreates Cher's closet from \"Clueless\" with AI.",
+      "imageUrl": "https://images.unsplash.com/photo-1550751827-4bd374c3f58b?w=800&q=80",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/04/29/google-photos-uses-ai-to-make-the-iconic-closet-from-clueless-a-reality/",
+      "publishedAt": "2026-04-29T16:42:33.000Z"
+    },
+    {
+      "id": "733xn8",
+      "title": "More Gemini features are coming to Google TV",
+      "summary": "Google TV just got more Gemini features, including the ability to transform photos and videos with tools Nano Banana and Veo.",
+      "imageUrl": "https://images.unsplash.com/photo-1635070041078-e363dbe005cb?w=800&q=80",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/04/29/more-gemini-features-are-coming-to-google-tv/",
+      "publishedAt": "2026-04-29T16:40:49.000Z"
+    },
     {
       "id": "eak0e7",
       "title": "Google Photos launches an AI try-on feature for clothes you already have",
       "summary": "Google Photos is launching a new AI-powered feature you can use to virtually try on clothes you already have. Using the photos in your gallery, Google will create a virtual \"wardrobe,\" allowing you to mix and match outfits, save the looks you like, and share them with friends. A video shared by Google shows how Photos organizes your outfits and individual pieces of clothing into a virtual \"wardrobe.\" You can browse through the outfits you were captured wearing, as well as create new ones by…",
-      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/05/STKB353_GOOGLE_PHOTOS_C.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/04/wardrobe-try-on.png?quality=90&#038;strip=all&#038;crop=0,0,100,100",
       "source": "The Verge",
       "sourceUrl": "https://www.theverge.com/tech/920420/google-photos-ai-try-on-wardrobe",
       "publishedAt": "2026-04-29T16:00:00.000Z"
@@ -21,8 +57,8 @@
       "publishedAt": "2026-04-29T15:35:32.000Z"
     },
     {
-      "id": "7me74w",
-      "title": "Tumbler Ridge families sue OpenAI for not alerting police to the suspect’s ChatGPT activity",
+      "id": "vaswpo",
+      "title": "Tumbler Ridge families are suing OpenAI",
       "summary": "Seven families of victims injured or killed in the Tumbler Ridge school shooting in Canada have filed lawsuits against OpenAI and CEO Sam Altman, accusing the company and its leadership of negligence after they failed to alert police to the suspected shooter's ChatGPT activity. The families allege OpenAI stayed silent after its systems flagged activity by shooting suspect Jesse Van Rootselaar in order to protect the company's reputation and upcoming initial public offering (IPO). The Wall Street…",
       "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/04/gettyimages-2260765297.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
       "source": "The Verge",
@@ -120,8 +156,8 @@
       "publishedAt": "2026-04-29T10:00:00.000Z"
     },
     {
-      "id": "pbkzoo",
-      "title": "Colby Adcock’s Scout AI raises $100M to train its models for war. We visited its bootcamp",
+      "id": "jg56fg",
+      "title": "Colby Adcock’s Scout AI raises $100M to train its models for war: We visited its bootcamp",
       "summary": "We visited Scout AI's training ground where it's working on AI agents that can help individual soldiers control fleets of autonomous vehicles.",
       "imageUrl": "https://images.unsplash.com/photo-1635070041078-e363dbe005cb?w=800&q=80",
       "source": "TechCrunch",
@@ -172,15 +208,6 @@
       "source": "Wired",
       "sourceUrl": "https://www.wired.com/story/openai-really-wants-codex-to-shut-up-about-goblins/",
       "publishedAt": "2026-04-28T23:45:05.000Z"
-    },
-    {
-      "id": "nzrvp8",
-      "title": "Elon Musk appeared more petty than prepared",
-      "summary": "Today the first witness was sworn in in Musk v. Altman: Elon Musk. I was surprised by how flat he seemed. This is not the first time I've seen Musk in court. During his defamation suit, he turned on the charm and the jury responded by finding him not guilty. Today he looked adrift and unprepared. The only times he showed real animation were when he was bragging about how much he'd done for OpenAI. The direct examination is a way of telling a story through questions; it's important to make the…",
-      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/04/STK022_ELON_MUSK_CVIRGINIA4_G.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "source": "The Verge",
-      "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/920191/elon-musk-sam-altman-trial-day-one",
-      "publishedAt": "2026-04-28T23:17:12.000Z"
     },
     {
       "id": "alqpwz",
@@ -345,15 +372,6 @@
       "publishedAt": "2026-04-27T17:40:38.000Z"
     },
     {
-      "id": "5p6mw7",
-      "title": "DeepMind’s David Silver just raised $1.1B to build an AI that learns without human data",
-      "summary": "Ineffable Intelligence, a British AI lab founded a mere few months ago by former DeepMind researcher David Silver, has raised $1.1 billion in funding at a valuation of $5.1 billion.",
-      "imageUrl": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=800&q=80",
-      "source": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/04/27/deepminds-david-silver-just-raised-1-1b-to-build-an-ai-that-learns-without-human-data/",
-      "publishedAt": "2026-04-27T17:24:21.000Z"
-    },
-    {
       "id": "v1rtxm",
       "title": "The missing step between hype and profit",
       "summary": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here. In February, I picked up a flyer at an anti-AI march in London. I can’t say for sure whether or not its writers meant to riff on South Park’s underpants gnomes. But…",
@@ -361,24 +379,6 @@
       "source": "MIT Tech Review",
       "sourceUrl": "https://www.technologyreview.com/2026/04/27/1136456/the-missing-step-between-hype-and-profit/",
       "publishedAt": "2026-04-27T16:13:41.000Z"
-    },
-    {
-      "id": "s44kc8",
-      "title": "Investors back Skye’s AI home screen app for iPhone ahead of launch",
-      "summary": "Skye's new AI app attracted investors before it even launched — a sign of interest in a more AI-aware iPhone.",
-      "imageUrl": "https://images.unsplash.com/photo-1550751827-4bd374c3f58b?w=800&q=80",
-      "source": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/04/27/investors-back-skye-signull-labs-ai-home-screen-app-for-iphone-ahead-of-launch/",
-      "publishedAt": "2026-04-27T16:13:02.000Z"
-    },
-    {
-      "id": "6gdw2u",
-      "title": "The Man Behind AlphaGo Thinks AI Is Taking the Wrong Path",
-      "summary": "David Silver has a new billion-dollar company that aims to build AI “superlearners.”",
-      "imageUrl": "https://media.wired.com/photos/69eba31172fa130deff56162/master/pass/Man-Behind-Alpha-Zero-Business-DavidSilver-2.jpg",
-      "source": "Wired",
-      "sourceUrl": "https://www.wired.com/story/david-silver-ai-ineffable-intelligence-reinforcement-learning/",
-      "publishedAt": "2026-04-27T14:00:00.000Z"
     },
     {
       "id": "pc9n5r",
