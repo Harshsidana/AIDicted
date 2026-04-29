@@ -1,7 +1,25 @@
 {
-  "fetchedAt": "2026-04-28T22:32:28.817Z",
+  "fetchedAt": "2026-04-29T00:00:34.656Z",
   "count": 60,
   "articles": [
+    {
+      "id": "454smu",
+      "title": "OpenAI Really Wants Codex to Shut Up About Goblins",
+      "summary": "“Never talk about goblins, gremlins, raccoons, trolls, ogres, pigeons, or other animals or creatures unless it is absolutely and unambiguously relevant,” reads OpenAI's coding agent instructions.",
+      "imageUrl": "https://media.wired.com/photos/69f144197df9442e8d9b4623/master/pass/biz_gremlin_GettyImages-163004531.jpg",
+      "source": "Wired",
+      "sourceUrl": "https://www.wired.com/story/openai-really-wants-codex-to-shut-up-about-goblins/",
+      "publishedAt": "2026-04-28T23:45:05.000Z"
+    },
+    {
+      "id": "nzrvp8",
+      "title": "Elon Musk appeared more petty than prepared",
+      "summary": "Today the first witness was sworn in in Musk v. Altman: Elon Musk. I was surprised by how flat he seemed. This is not the first time I've seen Musk in court. During his defamation suit, he turned on the charm and the jury responded by finding him not guilty. Today he looked adrift and unprepared. The only times he showed real animation were when he was bragging about how much he'd done for OpenAI. The direct examination is a way of telling a story through questions; it's important to make the…",
+      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/04/STK022_ELON_MUSK_CVIRGINIA4_G.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "source": "The Verge",
+      "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/920191/elon-musk-sam-altman-trial-day-one",
+      "publishedAt": "2026-04-28T23:17:12.000Z"
+    },
     {
       "id": "alqpwz",
       "title": "Elon Musk Testifies That He Started OpenAI to Prevent a ‘Terminator Outcome’",
@@ -210,15 +228,6 @@
       "publishedAt": "2026-04-28T00:39:30.000Z"
     },
     {
-      "id": "i32j7n",
-      "title": "Google is testing AI chatbot search for YouTube",
-      "summary": "Google is trying out an AI Mode-like search experience for YouTube. The company is now testing \"a new way to search on YouTube that feels more like a conversation,\" with results pulling in things like longform videos, YouTube Shorts, and text about what you're searching for. The \"experiment\" is now available if you're a YouTube Premium subscriber in the US who is 18 or older. I turned it on for my account. Now, in the search bar, I see an \"Ask YouTube\" button, and clicking the search bar shows…",
-      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/04/Screenshot-2026-04-27-at-4.55.32PM.png?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "source": "The Verge",
-      "sourceUrl": "https://www.theverge.com/streaming/919441/google-ask-youtube-ai-chatbot-search",
-      "publishedAt": "2026-04-28T00:01:54.000Z"
-    },
-    {
       "id": "l2a5c9",
       "title": "Elon Musk and Sam Altman are going to court over OpenAI’s future",
       "summary": "After a yearslong legal feud, Elon Musk and OpenAI CEO Sam Altman are heading to trial this week in Northern California in a case that could have sweeping consequences. Ahead of OpenAI’s highly anticipated IPO, the court could rule on whether the company is allowed to exist as a for-profit enterprise and might even oust…",
@@ -379,15 +388,6 @@
       "source": "Ars Technica",
       "sourceUrl": "https://arstechnica.com/security/2026/04/why-are-top-university-websites-serving-porn-it-comes-down-to-shoddy-housekeeping/",
       "publishedAt": "2026-04-24T19:00:39.000Z"
-    },
-    {
-      "id": "7zt8ew",
-      "title": "AI-Designed Drugs by a DeepMind Spinoff Are Headed to Human Trials",
-      "summary": "Isomorphic Labs president Max Jaderberg said at WIRED Health in London that the startup has built a “broad and exciting pipeline of new medicines.”",
-      "imageUrl": "https://media.wired.com/photos/69ea468e0e9dbe999945f7fa/master/pass/XT502412.jpg",
-      "source": "Wired",
-      "sourceUrl": "https://www.wired.com/story/wired-health-2026-how-ai-is-powering-drug-discovery-max-jaderberg/",
-      "publishedAt": "2026-04-24T17:17:36.000Z"
     },
     {
       "id": "gvckl0",
