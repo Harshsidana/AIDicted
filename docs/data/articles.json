@@ -1,7 +1,97 @@
 {
-  "fetchedAt": "2026-04-29T09:34:37.516Z",
+  "fetchedAt": "2026-04-29T14:22:15.154Z",
   "count": 60,
   "articles": [
+    {
+      "id": "mpoqxw",
+      "title": "Larry’s risky business",
+      "summary": "Oracular spectacular? | Image: Cath Virginia / The Verge If you want to know whether the AI bubble is bursting, there's only one publicly traded company that will tell you: Oracle. That's right, the database company. Oracle has burned its boats and pivoted to AI, but not in any kind of usual way. It is not a foundation model builder like OpenAI or Anthropic, obviously. It's not quite a neocloud, though it has entered the same bare-metal business as CoreWeave. It is a software-as-a-service…",
+      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/04/68456_ORACLE_BELLWEATHER7.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "source": "The Verge",
+      "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/920378/oracle-openai-datacenter-buildout",
+      "publishedAt": "2026-04-29T13:57:16.000Z"
+    },
+    {
+      "id": "9njnzt",
+      "title": "Firestorm Labs raises $82M to take drone factories into the field",
+      "summary": "A defense startup just raised $82 million to put drone factories inside shipping containers and bring manufacturing to the front lines.",
+      "imageUrl": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=800&q=80",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/04/29/firestorm-labs-raises-82m-to-take-drone-factories-into-the-field/",
+      "publishedAt": "2026-04-29T13:10:57.000Z"
+    },
+    {
+      "id": "djt4rz",
+      "title": "Meet Shapes, the app bringing humans and AI into the same group chats",
+      "summary": "Think Discord chats, but with AI characters in addition to humans.",
+      "imageUrl": "https://images.unsplash.com/photo-1531746790095-6c10a4031c5f?w=800&q=80",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/04/29/meet-shapes-the-app-bringing-humans-and-ai-into-the-same-group-chats/",
+      "publishedAt": "2026-04-29T13:00:00.000Z"
+    },
+    {
+      "id": "v3npmh",
+      "title": "Taylor Swift deepfakes are pushing scams on TikTok",
+      "summary": "Scammers are using AI-generated videos of celebrities including Taylor Swift and Rihanna to promote shady services on TikTok, according to authentication company Copyleaks. The ads typically show celebrities in interview settings, such as red carpets, podcasts, or talk shows, and often manipulate real footage with AI, the company said. Many promote rewards programs claiming users can earn money by watching TikTok content and giving feedback. TikTok's official branding appears in some of the ads,…",
+      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/04/gettyimages-2267995710.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "source": "The Verge",
+      "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/920351/ai-celebrity-deepfake-ads-tiktok-copyleaks",
+      "publishedAt": "2026-04-29T13:00:00.000Z"
+    },
+    {
+      "id": "la7pgx",
+      "title": "The Download: storing nuclear waste and orchestrating agents",
+      "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. It’s time to make a plan for nuclear waste Today, nuclear energy enjoys rare support across the political spectrum. Public approval has spiked, and Big Tech is throwing money around to…",
+      "imageUrl": "https://images.unsplash.com/photo-1655720828018-edd2daec9349?w=800&q=80",
+      "source": "MIT Tech Review",
+      "sourceUrl": "https://www.technologyreview.com/2026/04/29/1136666/the-download-nuclear-waste-orchestrated-ai-agents/",
+      "publishedAt": "2026-04-29T12:10:00.000Z"
+    },
+    {
+      "id": "3d320y",
+      "title": "Why a recent supply-chain attack singled out security firms Checkmarx and Bitwarden",
+      "summary": "Security firms find themselves especially exposed.",
+      "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2021/07/data-breach.jpeg",
+      "source": "Ars Technica",
+      "sourceUrl": "https://arstechnica.com/information-technology/2026/04/why-a-recent-supply-chain-attack-singled-out-security-firms-checkmarx-and-bitwarden/",
+      "publishedAt": "2026-04-29T11:00:24.000Z"
+    },
+    {
+      "id": "mo2r7d",
+      "title": "China freezes new robotaxi licenses after Baidu chaos",
+      "summary": "A Baidu Apollo Go robotaxi in Wuhan, China. | Image: Bloomberg via Getty Images China has suspended new licenses for autonomous vehicles, Bloomberg reports, citing unnamed people familiar with the matter. The move comes after dozens of robotaxis operated by Chinese tech giant Baidu ground to a halt in traffic last month in Wuhan, creating chaos. The restrictions will prevent companies from adding new driverless cars to their fleets, expanding into new cities, or starting new test projects. It is…",
+      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/04/gettyimages-2152484525.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "source": "The Verge",
+      "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/920312/china-suspends-autonomous-vehicle-permits-baidu-chaos",
+      "publishedAt": "2026-04-29T10:39:21.000Z"
+    },
+    {
+      "id": "ubwsb6",
+      "title": "GitHub rushed to fix a critical vulnerability in less than six hours",
+      "summary": "GitHub employees fixed a critical remote code execution vulnerability in less than six hours last month. Wiz Research used AI models to uncover a vulnerability in GitHub's internal git infrastructure that could have allowed attackers to access millions of public and private code repositories. \"Our security team immediately began validating the bug bounty report. Within 40 minutes, we had reproduced the vulnerability internally and confirmed the severity,\" explains Alexis Wales, GitHub chief…",
+      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/10/acastro_220504_STK121_0001.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "source": "The Verge",
+      "sourceUrl": "https://www.theverge.com/news/920295/github-remote-code-execution-vulnerability-fix",
+      "publishedAt": "2026-04-29T10:04:25.000Z"
+    },
+    {
+      "id": "dm2ufk",
+      "title": "I've Covered Robots for Years. This One Is Different",
+      "summary": "From sorting chicken nuggets to screwing in lightbulbs, Eka’s robotic claw feels like we're approaching a ChatGPT moment for the physical world.",
+      "imageUrl": "https://media.wired.com/photos/69f11fc37df9442e8d9b4374/master/pass/20260320-wired-eka-robotics-0429.jpg",
+      "source": "Wired",
+      "sourceUrl": "https://www.wired.com/story/when-robots-have-their-chatgpt-moment-remember-these-pincers/",
+      "publishedAt": "2026-04-29T10:00:00.000Z"
+    },
+    {
+      "id": "pbkzoo",
+      "title": "Colby Adcock’s Scout AI raises $100M to train its models for war. We visited its bootcamp",
+      "summary": "We visited Scout AI's training ground where it's working on AI agents that can help individual soldiers control fleets of autonomous vehicles.",
+      "imageUrl": "https://images.unsplash.com/photo-1635070041078-e363dbe005cb?w=800&q=80",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/04/29/coby-adcocks-scout-ai-raises-100-million-to-train-models-for-war-we-visited-its-bootcamp/",
+      "publishedAt": "2026-04-29T09:45:00.000Z"
+    },
     {
       "id": "akoadp",
       "title": "General Motors is adding Gemini to four million cars",
@@ -68,7 +158,7 @@
     {
       "id": "27dnar",
       "title": "Elon Musk tells the jury that all he wants to do is save humanity",
-      "summary": "On the stand, Elon Musk is positioning himself as a savior. In the high-profile trial between him and his fellow OpenAI co-founder, now CEO, Sam Altman, Musk opened by going through his background. He went as far back as being raised in South Africa and arriving in Canada for college with \"2,500 in Canadian travelers' checks and a bag of clothes and books,\" then spent an unusually long time talking about his past, from Zip2 to PayPal to the current, more familiar slate of companies he now runs.…",
+      "summary": "On the stand, Elon Musk is positioning himself as a savior. In the high-profile trial between him and his fellow OpenAI cofounder, now CEO, Sam Altman, Musk opened by going through his background. He went as far back as being raised in South Africa and arriving in Canada for college with \"2,500 in Canadian travelers' checks and a bag of clothes and books,\" then spent an unusually long time talking about his past, from Zip2 to PayPal to the current, more familiar slate of companies he now runs.…",
       "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/04/STK022_ELON_MUSK_CVIRGINIA4_J.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
       "source": "The Verge",
       "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/920048/elon-musk-testimony-save-humanity",
@@ -138,15 +228,6 @@
       "publishedAt": "2026-04-28T18:15:00.000Z"
     },
     {
-      "id": "71ijbp",
-      "title": "Claude can now plug directly into Photoshop, Blender, and Ableton",
-      "summary": "Claude’s new Blender connector lets you debug scenes, build new tools, and batch-apply object changes directly from the chatbot interface. | Image: Anthropic Anthropic has launched a set of connectors for Claude that allow the AI chatbot to tap into popular creative software, including Adobe's Creative Cloud apps, Affinity, Blender, Ableton, Autodesk, and more. This marks the company's latest efforts to break into the creative industry following its launch of Claude Design earlier this month.…",
-      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/04/Claude-creative-connectors-Blender-.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "source": "The Verge",
-      "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/919648/anthropic-claude-creative-connectors-adobe-blender",
-      "publishedAt": "2026-04-28T16:49:08.000Z"
-    },
-    {
       "id": "ays0b4",
       "title": "Lovable launches its vibe-coding app on iOS and Android",
       "summary": "The app allows developers to vibe code web apps and websites on the go.",
@@ -154,15 +235,6 @@
       "source": "TechCrunch",
       "sourceUrl": "https://techcrunch.com/2026/04/28/lovable-launches-its-vibe-coding-app-on-ios-and-android/",
       "publishedAt": "2026-04-28T16:09:30.000Z"
-    },
-    {
-      "id": "60umh2",
-      "title": "Musk and Altman go to court",
-      "summary": "The trial between Elon Musk and OpenAI is officially upon us. And it is going to be a mess. As the two sides fight over the early days of AI, who deserves credit and cash for what, and more, we're likely to spend the next few weeks hearing a lot of important people's secrets made extremely public. Which may be exactly what Musk is going for. Verge subscribers, don't forget you get exclusive access to ad-free Vergecast wherever you get your podcasts. Head here. Not a subscriber? You can sign up…",
-      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/04/VRG_VST_0428_Site.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "source": "The Verge",
-      "sourceUrl": "https://www.theverge.com/podcast/919534/musk-openai-trial-vergecast",
-      "publishedAt": "2026-04-28T14:47:21.000Z"
     },
     {
       "id": "8hgtzk",
@@ -217,24 +289,6 @@
       "source": "TechCrunch",
       "sourceUrl": "https://techcrunch.com/2026/04/28/otters-new-feature-lets-users-search-across-their-enterprise-tools/",
       "publishedAt": "2026-04-28T12:00:00.000Z"
-    },
-    {
-      "id": "702lr1",
-      "title": "Google and Pentagon reportedly agree on deal for ‘any lawful’ use of AI",
-      "summary": "Google has signed a classified deal that allows the US Department of Defense to use its AI models for \"any lawful government purpose,\" The Information reports. The agreement was reported less than a day after Google employees demanded CEO Sundar Pichai block the Pentagon from using its AI amid concerns that it would be used in \"inhumane or extremely harmful ways.\" If the agreement is confirmed, it would place Google alongside OpenAI and xAI, which have also made classified AI deals with the US…",
-      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/24925007/236780_Google_AntiTrust_Trial_Custom_Art_CVirginia__0001_5.png?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "source": "The Verge",
-      "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/919494/google-pentagon-classified-ai-deal",
-      "publishedAt": "2026-04-28T11:09:32.000Z"
-    },
-    {
-      "id": "rnh0ez",
-      "title": "Attack of the killer script kiddies",
-      "summary": "Last August, some of the best cybersecurity teams in the business gathered in Las Vegas to demonstrate the strength of their AI bug-finding systems at DARPA's Artificial Intelligence Cyber Challenge (AIxCC). The tools had scanned 54 million lines of actual software code that DARPA had injected with artificial flaws. The teams were capable enough to identify most of the artificial bugs, but their automated tools went beyond that - they found more than a dozen bugs that DARPA hadn't inserted at…",
-      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/04/rogers-script-kiddies-ANIMATION.gif?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "source": "The Verge",
-      "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/915660/mythos-script-kiddies-hackers-attack-cybersecurity-ai",
-      "publishedAt": "2026-04-28T11:00:00.000Z"
     },
     {
       "id": "d5ztpj",
@@ -327,24 +381,6 @@
       "publishedAt": "2026-04-27T14:00:00.000Z"
     },
     {
-      "id": "1dfzb4",
-      "title": "China blocks Meta’s $2B Manus deal after months-long probe",
-      "summary": "China has ordered Meta to unwind its multibillion-dollar Manus acquisition, dealing a potential setback to Zuckerberg’s push into AI agents.",
-      "imageUrl": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=800&q=80",
-      "source": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/04/27/china-vetoes-metas-2b-manus-deal-after-months-long-probe/",
-      "publishedAt": "2026-04-27T13:16:55.000Z"
-    },
-    {
-      "id": "8xv7mf",
-      "title": "OpenAI could be making a phone with AI agents replacing apps",
-      "summary": "There have been plenty of rumors about OpenAI's hardware plans, which involve launching a pair of earbuds. A new note from industry analyst Ming-Chi Kuo suggests that the AI company might be working on a phone in collaboration with MediaTek, Qualcomm, and Luxshare.",
-      "imageUrl": "https://images.unsplash.com/photo-1531746790095-6c10a4031c5f?w=800&q=80",
-      "source": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/04/27/openai-could-be-making-a-phone-with-ai-agents-replacing-apps/",
-      "publishedAt": "2026-04-27T13:08:59.000Z"
-    },
-    {
       "id": "pc9n5r",
       "title": "Rebuilding the data stack for AI",
       "summary": "Artificial intelligence may be dominating boardroom agendas, but many enterprises are discovering that the biggest obstacle to meaningful adoption is the state of their data. While consumer-facing AI tools have dazzled users with speed and ease, enterprise leaders are discovering that deploying AI at scale requires something far less glamorous but far more consequential: data…",
@@ -361,24 +397,6 @@
       "source": "MIT Tech Review",
       "sourceUrl": "https://www.technologyreview.com/2026/04/27/1136438/the-download-deepseek-v4-ai-world-models/",
       "publishedAt": "2026-04-27T12:10:00.000Z"
-    },
-    {
-      "id": "2cbnx",
-      "title": "Meta inks deal for solar power at night, beamed from space",
-      "summary": "Overview Energy's first contract with Meta is a small step toward a future of space-based solar power.",
-      "imageUrl": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=800&q=80",
-      "source": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/04/27/meta-inks-deal-for-solar-power-at-night-beamed-from-space/",
-      "publishedAt": "2026-04-27T10:00:00.000Z"
-    },
-    {
-      "id": "6pxcnh",
-      "title": "Discord Sleuths Gained Unauthorized Access to Anthropic’s Mythos",
-      "summary": "Plus: Spy firms tap into a global telecom weakness to track targets, 500,000 UK health records go up for sale on Alibaba, Apple patches a revealing notification bug, and more.",
-      "imageUrl": "https://media.wired.com/photos/69ebf499d9b235ed1b8f0693/master/pass/Security-News-This-Week-Discord-Group-Reportedly-Guessed-Its-Way-Into-Anthropic-Mythos-Security.jpg",
-      "source": "Wired",
-      "sourceUrl": "https://www.wired.com/story/security-news-this-week-discord-sleuths-gained-unauthorized-access-to-anthropics-mythos/",
-      "publishedAt": "2026-04-25T10:30:00.000Z"
     },
     {
       "id": "nd0oqy",
@@ -424,15 +442,6 @@
       "source": "Ars Technica",
       "sourceUrl": "https://arstechnica.com/security/2026/04/now-even-ransomware-is-using-post-quantum-cryptography/",
       "publishedAt": "2026-04-23T20:41:23.000Z"
-    },
-    {
-      "id": "r402b7",
-      "title": "The Download: introducing the Nature issue",
-      "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. Introducing: the Nature issue When we talk about “nature,” we usually mean something untouched by humans. But little of that world exists today. From microplastics in rainforest wildlife to artificial light…",
-      "imageUrl": "https://images.unsplash.com/photo-1635070041078-e363dbe005cb?w=800&q=80",
-      "source": "MIT Tech Review",
-      "sourceUrl": "https://www.technologyreview.com/2026/04/23/1136346/the-download-introducing-nature-issue/",
-      "publishedAt": "2026-04-23T12:10:00.000Z"
     },
     {
       "id": "zhfctg",
@@ -532,15 +541,6 @@
       "source": "Ars Technica",
       "sourceUrl": "https://arstechnica.com/security/2026/03/google-bumps-up-q-day-estimate-to-2029-far-sooner-than-previously-thought/",
       "publishedAt": "2026-03-25T15:49:17.000Z"
-    },
-    {
-      "id": "5c67ci",
-      "title": "Self-propagating malware poisons open source software and wipes Iran-based machines",
-      "summary": "Development houses: It's time to check your networks for infections.",
-      "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2025/05/malware-threat-1000x648.jpg",
-      "source": "Ars Technica",
-      "sourceUrl": "https://arstechnica.com/security/2026/03/self-propagating-malware-poisons-open-source-software-and-wipes-iran-based-machines/",
-      "publishedAt": "2026-03-24T12:38:09.000Z"
     }
   ]
 }
