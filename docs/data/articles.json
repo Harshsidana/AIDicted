@@ -1,7 +1,70 @@
 {
-  "fetchedAt": "2026-04-30T16:04:49.154Z",
+  "fetchedAt": "2026-04-30T17:51:50.695Z",
   "count": 60,
   "articles": [
+    {
+      "id": "aadjjv",
+      "title": "Google’s Gemini AI assistant is hitting the road in millions of vehicles",
+      "summary": "Google announced on Thursday that it will begin rolling out Gemini to cars with Google built-in, marking a significant upgrade from the current Google Assistant. The move signals Google’s push to bring more advanced, conversational AI into the driving experience. The announcement follows closely behind news from General Motors, which revealed yesterday that Gemini is […]",
+      "imageUrl": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=800&q=80",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/04/30/googles-gemini-ai-assistant-is-hitting-the-road-in-millions-of-vehicles/",
+      "publishedAt": "2026-04-30T17:46:54.000Z"
+    },
+    {
+      "id": "vs32c6",
+      "title": "Elon Musk Seemingly Admits xAI Has Used OpenAI's Models to Train Its Own",
+      "summary": "While answering questions under oath, Musk argued it’s standard practice for AI labs to use their competitors' models.",
+      "imageUrl": "https://media.wired.com/photos/69f3848c17e0528daa0ec80c/master/pass/Musk-Admits-to-Partly-Distilling-OpenAI-Models-Business-2273133893.jpg",
+      "source": "Wired",
+      "sourceUrl": "https://www.wired.com/story/elon-musk-distill-openai-models-partly-xai/",
+      "publishedAt": "2026-04-30T17:41:14.000Z"
+    },
+    {
+      "id": "ao89rq",
+      "title": "OpenAI Rolls Out ‘Advanced’ Security Mode for At-Risk Accounts",
+      "summary": "OpenAI is rolling out Advanced Account Security for people concerned that their ChatGPT or Codex accounts could be potential targets of phishing attacks.",
+      "imageUrl": "https://media.wired.com/photos/69f3851f013dbae7ce7c178e/master/pass/security_chatgpt_GettyImages-2271059989.jpg",
+      "source": "Wired",
+      "sourceUrl": "https://www.wired.com/story/openai-chatgpt-codex-advanced-account-security/",
+      "publishedAt": "2026-04-30T17:30:39.000Z"
+    },
+    {
+      "id": "bfnaua",
+      "title": "Stripe introduces Link, a digital wallet that autonomous AI agents can use, too",
+      "summary": "Link lets users connect cards, banks, and subscriptions, then authorize AI agents to spend securely via approval flows.",
+      "imageUrl": "https://images.unsplash.com/photo-1620712943543-bcc4688e7485?w=800&q=80",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/04/30/stripe-link-digital-wallet-ai-agents-shopping/",
+      "publishedAt": "2026-04-30T17:15:19.000Z"
+    },
+    {
+      "id": "rfngrl",
+      "title": "Live updates from Elon Musk and Sam Altman’s court battle over the future of OpenAI",
+      "summary": "Sam Altman and Elon Musk are facing off in a high-stakes trial that could alter the future of OpenAI and its most well-known product, ChatGPT. In 2024, Musk filed a lawsuit accusing OpenAI of abandoning its founding mission of developing AI to benefit humanity and shifting focus to boosting profits instead. The trial began with jury selection on April 27th, before Elon Musk took the stand on Tuesday as the first witness called, portraying his interest in founding OpenAI as an effort to help save…",
+      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/04/268474_musk_vs_altman_CVirginia.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "source": "The Verge",
+      "sourceUrl": "https://www.theverge.com/tech/917225/sam-altman-elon-musk-openai-lawsuit",
+      "publishedAt": "2026-04-30T16:57:14.000Z"
+    },
+    {
+      "id": "czt05g",
+      "title": "Meta is running get-rich-quick ads for its AI tools",
+      "summary": "Manus, an AI company Meta acquired for $2 billion last year is running ads promising quick, easy money with AI: Find local businesses without websites or with bad websites, have AI build them one, then call them up and sell it to them. As part of the campaign, Manus was paying content creators to build out Instagram, YouTube, and TikTok accounts that promote its AI product as an easy, lucrative gig. (The creators' TikTok accounts were taken down after The Verge inquired about them.) Some of…",
+      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/04/get-rich-quick_70fa93.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "source": "The Verge",
+      "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/915970/meta-manus-ai-ads-website-slop",
+      "publishedAt": "2026-04-30T16:48:13.000Z"
+    },
+    {
+      "id": "epag9e",
+      "title": "Salesforce is crowdsourcing its AI roadmap — with customers",
+      "summary": "Salesforce lets its customers lead its product roadmap with the thinking that if one enterprise customer has a problem, the others likely do too.",
+      "imageUrl": "https://images.unsplash.com/photo-1531746790095-6c10a4031c5f?w=800&q=80",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/04/30/salesforce-is-crowdsourcing-its-ai-roadmap-with-customers/",
+      "publishedAt": "2026-04-30T16:06:49.000Z"
+    },
     {
       "id": "pl82eu",
       "title": "Gemini is rolling out to cars with Google built-in",
@@ -19,6 +82,15 @@
       "source": "The Verge",
       "sourceUrl": "https://www.theverge.com/tech/921210/microsoft-openai-partnership-divorce-notepad",
       "publishedAt": "2026-04-30T16:00:00.000Z"
+    },
+    {
+      "id": "huk18j",
+      "title": "This startup’s new mechanistic interpretability tool lets you debug LLMs",
+      "summary": "The San Francisco–based startup Goodfire just released a new tool, called Silico, that lets researchers and engineers peer inside an AI model and adjust its parameters—the settings that determine a model’s behavior—during training. This could give model makers more fine-grained control over how this technology is built than was once thought possible. Goodfire claims Silico…",
+      "imageUrl": "https://images.unsplash.com/photo-1526374965328-7f61d4dc18c5?w=800&q=80",
+      "source": "MIT Tech Review",
+      "sourceUrl": "https://www.technologyreview.com/2026/04/30/1136721/this-startups-new-mechanistic-interpretability-tool-lets-you-debug-llms/",
+      "publishedAt": "2026-04-30T15:59:41.000Z"
     },
     {
       "id": "6cc631",
@@ -140,20 +212,11 @@
     {
       "id": "4jmd4z",
       "title": "Sources: Anthropic could raise a new $50B round at a valuation of $900B",
-      "summary": "The maker of Claude has received multiple pre-emptive offers at valuations in the $850 billion to $900 billion range, according to sources familiar with the matter.",
+      "summary": "The maker of Claude has received multiple preemptive offers at valuations in the $850 billion to $900 billion range, according to sources familiar with the matter.",
       "imageUrl": "https://images.unsplash.com/photo-1676299081847-824916de030a?w=800&q=80",
       "source": "TechCrunch",
       "sourceUrl": "https://techcrunch.com/2026/04/29/sources-anthropic-could-raise-a-new-50b-round-at-a-valuation-of-900b/",
       "publishedAt": "2026-04-30T00:07:15.000Z"
-    },
-    {
-      "id": "qn3u0w",
-      "title": "Elon Musk’s worst enemy in court is Elon Musk",
-      "summary": "Just a simple country CEO who was being tricked by that sophisticated lawyer. | Image: Cath Virginia / The Verge, Getty Images About five hours into Elon Musk's testimony, I typed the following sentence into my notes: \"I have never been more sympathetic to Sam Altman in my life.\" Musk's direct testimony was an improvement over yesterday - even if his lawyer kept asking leading questions to cue him in how to answer. But that memory was immediately obliterated by an absolutely miserable…",
-      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/04/STK022_ELON_MUSK_CVIRGINIA4_H.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "source": "The Verge",
-      "sourceUrl": "https://www.theverge.com/tech/921022/elon-musk-cross-openai-altman",
-      "publishedAt": "2026-04-30T00:01:24.000Z"
     },
     {
       "id": "j0ocet",
@@ -237,15 +300,6 @@
       "publishedAt": "2026-04-29T20:36:53.000Z"
     },
     {
-      "id": "c6zw9t",
-      "title": "Google Search queries hit an ‘all time high’ last quarter",
-      "summary": "Google Search queries hit an \"all time high\" in the first quarter of 2026, according to a statement from CEO Sundar Pichai published as part of Alphabet's earnings on Wednesday. \"Our AI investments and full stack approach are lighting up every part of the business,\" Pichai says. \"Search had a strong quarter with AI experiences driving usage, queries at an all time high, and 19% revenue growth.\" He also notes that Q1 was \"our strongest quarter ever for our consumer AI plans, driven by the Gemini…",
-      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/23951561/VRG_Illo_STK179_L_Normand_SundarPichai_Neutral.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "source": "The Verge",
-      "sourceUrl": "https://www.theverge.com/tech/920815/google-alphabet-q1-2026-earnings-sundar-pichai",
-      "publishedAt": "2026-04-29T20:28:11.000Z"
-    },
-    {
       "id": "l47nms",
       "title": "Is AI video just a prequel? Runway’s CEO thinks world models are next",
       "summary": "AI-generated video has gone from novelty to creative tool almost overnight, and Runway has a front row seat to the shift. The New York-based company has raised close to $860 million at a $5.3 billion valuation, and its models are going toe-to-toe with the most well-funded labs in the world, including Google and OpenAI. The technology goes way beyond […]",
@@ -255,15 +309,6 @@
       "publishedAt": "2026-04-29T18:59:44.000Z"
     },
     {
-      "id": "sk57v",
-      "title": "Parallel Web Systems hits $2B valuation five months after its last big raise",
-      "summary": "The AI agent-tool startup founded by former Twitter CEO Parag Agrawal has raised $100 million, led by Sequoia, months after raising a previous $100 million.",
-      "imageUrl": "https://images.unsplash.com/photo-1655720828018-edd2daec9349?w=800&q=80",
-      "source": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/04/29/parallel-web-systems-hits-2b-valuation-five-months-after-its-last-big-raise/",
-      "publishedAt": "2026-04-29T18:33:05.000Z"
-    },
-    {
       "id": "qxkhon",
       "title": "Sanctioned Chinese AI Firm SenseTime Releases Image Model Built for Speed",
       "summary": "With US restrictions limiting its access to advanced tech, SenseTime is doubling down on open source with a new model optimized to run on Chinese-made chips.",
@@ -271,24 +316,6 @@
       "source": "Wired",
       "sourceUrl": "https://www.wired.com/story/chinese-ai-giant-sensetime-is-running-its-new-model-on-chinese-chips/",
       "publishedAt": "2026-04-29T17:23:52.000Z"
-    },
-    {
-      "id": "2apgwq",
-      "title": "Google Photos uses AI to make the iconic closet from ‘Clueless’ a reality",
-      "summary": "Google says the new feature will leverage AI technology to automatically create a copy of your wardrobe that's based on the pieces of clothing appearing in your Google Photos library.",
-      "imageUrl": "https://images.unsplash.com/photo-1550751827-4bd374c3f58b?w=800&q=80",
-      "source": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/04/29/google-photos-uses-ai-to-make-the-iconic-closet-from-clueless-a-reality/",
-      "publishedAt": "2026-04-29T16:42:33.000Z"
-    },
-    {
-      "id": "733xn8",
-      "title": "More Gemini features are coming to Google TV",
-      "summary": "Google TV just got more Gemini features, including the ability to transform photos and videos with tools Nano Banana and Veo.",
-      "imageUrl": "https://images.unsplash.com/photo-1635070041078-e363dbe005cb?w=800&q=80",
-      "source": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/04/29/more-gemini-features-are-coming-to-google-tv/",
-      "publishedAt": "2026-04-29T16:40:49.000Z"
     },
     {
       "id": "la7pgx",
@@ -334,24 +361,6 @@
       "source": "MIT Tech Review",
       "sourceUrl": "https://www.technologyreview.com/2026/04/29/1136659/plan-nuclear-waste/",
       "publishedAt": "2026-04-29T08:00:00.000Z"
-    },
-    {
-      "id": "454smu",
-      "title": "OpenAI Really Wants Codex to Shut Up About Goblins",
-      "summary": "“Never talk about goblins, gremlins, raccoons, trolls, ogres, pigeons, or other animals or creatures unless it is absolutely and unambiguously relevant,” reads OpenAI’s coding agent instructions.",
-      "imageUrl": "https://media.wired.com/photos/69f144197df9442e8d9b4623/master/pass/biz_gremlin_GettyImages-163004531.jpg",
-      "source": "Wired",
-      "sourceUrl": "https://www.wired.com/story/openai-really-wants-codex-to-shut-up-about-goblins/",
-      "publishedAt": "2026-04-28T23:45:05.000Z"
-    },
-    {
-      "id": "alqpwz",
-      "title": "Elon Musk Testifies That He Started OpenAI to Prevent a ‘Terminator Outcome’",
-      "summary": "The judge also warned Musk and Sam Altman to curb their “propensity to use social media to make things worse outside the courtroom” after both sides traded attacks online.",
-      "imageUrl": "https://media.wired.com/photos/69f0ecdcb1c2fecb9fce2560/master/pass/Model-Behavior-Musk-Testifies-Business.jpg",
-      "source": "Wired",
-      "sourceUrl": "https://www.wired.com/story/model-behavior-elon-musk-testifies-at-musk-v-altman-trial/",
-      "publishedAt": "2026-04-28T21:35:17.000Z"
     },
     {
       "id": "immuco",
@@ -424,15 +433,6 @@
       "source": "Ars Technica",
       "sourceUrl": "https://arstechnica.com/security/2026/04/why-are-top-university-websites-serving-porn-it-comes-down-to-shoddy-housekeeping/",
       "publishedAt": "2026-04-24T19:00:39.000Z"
-    },
-    {
-      "id": "gvckl0",
-      "title": "The Download: supercharged scams and studying AI healthcare",
-      "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. We’re in a new era of AI-driven scams When ChatGPT was released in late 2022, it showed how easily generative AI could create human-like text. This quickly caught the eye of…",
-      "imageUrl": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=800&q=80",
-      "source": "MIT Tech Review",
-      "sourceUrl": "https://www.technologyreview.com/2026/04/24/1136400/the-download-supercharged-scams-questionable-ai-healthcare/",
-      "publishedAt": "2026-04-24T12:10:00.000Z"
     },
     {
       "id": "rcuthn",
