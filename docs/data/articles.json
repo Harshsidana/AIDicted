@@ -1,7 +1,16 @@
 {
-  "fetchedAt": "2026-04-30T07:10:47.426Z",
+  "fetchedAt": "2026-04-30T09:35:38.102Z",
   "count": 60,
   "articles": [
+    {
+      "id": "fq226i",
+      "title": "Reid Hoffman Thinks Doctors Should Ask AI for a Second Opinion",
+      "summary": "The LinkedIn cofounder now has an AI drug discovery startup—and thinks not asking chatbots for medical advice is “bordering on committing malpractice.”",
+      "imageUrl": "https://media.wired.com/photos/69ef9664677c4219ddb764c5/master/pass/Reid-Hoffman-WIRED-Health-Science-XT503179.jpg",
+      "source": "Wired",
+      "sourceUrl": "https://www.wired.com/story/reid-hoffman-ai-doctor-second-opinion-wired-health/",
+      "publishedAt": "2026-04-30T09:00:00.000Z"
+    },
     {
       "id": "qk0zxo",
       "title": "SoftBank is creating a robotics company that builds data centers — and already eyeing a $100B IPO",
@@ -334,15 +343,6 @@
       "source": "Wired",
       "sourceUrl": "https://www.wired.com/story/meta-covalen-ai-workers-layoffs/",
       "publishedAt": "2026-04-28T18:36:47.000Z"
-    },
-    {
-      "id": "kuvn3a",
-      "title": "The Race Is on to Keep AI Agents From Running Wild With Your Credit Cards",
-      "summary": "AI agents may soon be buying your stuff for you. The FIDO Alliance has teamed up with Google and Mastercard to try to ensure that shopping in the near future isn't a complete disaster.",
-      "imageUrl": "https://media.wired.com/photos/69ef5ffea87ec1fab4d8a468/master/pass/GettyImages-1223459427.jpg",
-      "source": "Wired",
-      "sourceUrl": "https://www.wired.com/story/the-race-is-on-to-keep-ai-agents-from-running-wild-with-your-credit-cards/",
-      "publishedAt": "2026-04-28T13:00:00.000Z"
     },
     {
       "id": "immuco",
