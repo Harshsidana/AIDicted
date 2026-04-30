@@ -1,11 +1,29 @@
 {
-  "fetchedAt": "2026-04-30T19:43:49.432Z",
+  "fetchedAt": "2026-04-30T21:09:45.961Z",
   "count": 60,
   "articles": [
     {
+      "id": "h5ca51",
+      "title": "The most severe Linux threat to surface in years catches the world flat-footed",
+      "summary": "CopyFail threatens multi-tenant servers, CI/CD work flows, Kubernetes containers, and more.",
+      "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2023/09/code-vulnerability-security-1000x648.jpg",
+      "source": "Ars Technica",
+      "sourceUrl": "https://arstechnica.com/security/2026/04/as-the-most-severe-linux-threat-in-years-surfaces-the-world-scrambles/",
+      "publishedAt": "2026-04-30T20:20:48.000Z"
+    },
+    {
+      "id": "30sv28",
+      "title": "Legal AI startup Legora hits $5.6B valuation and its battle with Harvey just got hotter",
+      "summary": "The two wildly fast-growing rivals have raised massive sums, pushed into each other's home turf and now have dueling ad campaigns.",
+      "imageUrl": "https://images.unsplash.com/photo-1635070041078-e363dbe005cb?w=800&q=80",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/04/30/legal-ai-startup-legora-hits-5-6-valuation-and-its-battle-with-harvey-just-got-hotter/",
+      "publishedAt": "2026-04-30T20:14:47.000Z"
+    },
+    {
       "id": "yh13ym",
       "title": "After dissing Anthropic for limiting Mythos, OpenAI restricts access to Cyber, too",
-      "summary": "OpenAI will begin rolling out it cybersecurity testing tool, GPT-5.5 Cyber only \"to critical cyber defenders\" at first.",
+      "summary": "OpenAI will begin rolling out its cybersecurity testing tool, GPT-5.5 Cyber only \"to critical cyber defenders\" at first.",
       "imageUrl": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=800&q=80",
       "source": "TechCrunch",
       "sourceUrl": "https://techcrunch.com/2026/04/30/after-dissing-anthropic-for-limiting-mythos-openai-restricts-access-to-cyber-too/",
@@ -291,15 +309,6 @@
       "publishedAt": "2026-04-29T23:58:26.000Z"
     },
     {
-      "id": "cor54z",
-      "title": "Satya Nadella says he’s ready to ‘exploit’ the new OpenAI deal",
-      "summary": "Microsoft gets to offer OpenAI's tech to its cloud customers and doesn't have to pay for it. \"We fully plan to exploit it,\" Nadella said.",
-      "imageUrl": "https://images.unsplash.com/photo-1655720828018-edd2daec9349?w=800&q=80",
-      "source": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/04/29/satya-nadella-says-hes-ready-to-exploit-the-new-openai-deal/",
-      "publishedAt": "2026-04-29T23:55:23.000Z"
-    },
-    {
       "id": "8d92wk",
       "title": "How Elon Musk Squeezed OpenAI: They ‘Are Gonna Want to Kill Me’",
       "summary": "Tensions flared on the third day of trial in Musk v. Altman as OpenAI’s lawyers cross-examined Musk.",
@@ -532,15 +541,6 @@
       "source": "Ars Technica",
       "sourceUrl": "https://arstechnica.com/security/2026/03/new-quantum-computing-advances-heighten-threat-to-elliptic-curve-cryptosystems/",
       "publishedAt": "2026-03-31T18:25:33.000Z"
-    },
-    {
-      "id": "x2s6yj",
-      "title": "Google bumps up Q Day deadline to 2029, far sooner than previously thought",
-      "summary": "Company warns entire industry to move off RSA and EC more quickly.",
-      "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2025/07/GettyImages-1952157610-1152x648-1753386930.jpg",
-      "source": "Ars Technica",
-      "sourceUrl": "https://arstechnica.com/security/2026/03/google-bumps-up-q-day-estimate-to-2029-far-sooner-than-previously-thought/",
-      "publishedAt": "2026-03-25T15:49:17.000Z"
     }
   ]
 }
