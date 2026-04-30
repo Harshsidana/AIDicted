@@ -1,7 +1,43 @@
 {
-  "fetchedAt": "2026-04-30T11:45:00.869Z",
+  "fetchedAt": "2026-04-30T14:17:05.435Z",
   "count": 60,
   "articles": [
+    {
+      "id": "a5vx54",
+      "title": "OpenAI talks about not talking about goblins",
+      "summary": "OpenAI is opening up about its goblin problem. After a report from Wired revealed instructions to OpenAI's coding model to \"never talk about goblins, gremlins, raccoons, trolls, ogres, pigeons, or other animals or creatures,\" the AI startup published an explanation on its website, calling references to the creatures a \"strange habit\" its models developed as a result of their training. As outlined in the blog post, OpenAI began noticing metaphors referencing goblins and other creatures starting…",
+      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25461999/STK155_OPEN_AI_CVirginia_A.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "source": "The Verge",
+      "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/921181/openai-codex-goblins",
+      "publishedAt": "2026-04-30T13:42:29.000Z"
+    },
+    {
+      "id": "rf1hz5",
+      "title": "Verified by Spotify badge lets you know this artist isn’t AI",
+      "summary": "Spotify is launching a new verification program to combat spam, fakes, and AI. Some artists will now have a \"Verified by Spotify\" badge and a green checkmark on their profile, indicating that the company has confirmed a real person is behind the music and the profile. At least at launch, Spotify says that AI personas or profiles that primarily upload AI-generated music are not eligible for the verification program. It did leave the door open to the possibility in the future, though, saying, \"the…",
+      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/04/S4A_Verified_Header_Ravyn.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "source": "The Verge",
+      "sourceUrl": "https://www.theverge.com/tech/921048/verified-by-spotify-badge",
+      "publishedAt": "2026-04-30T13:08:23.000Z"
+    },
+    {
+      "id": "2vfqz6",
+      "title": "The Download: the North Pole’s future and humanoid data",
+      "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. Digging for clues about the North Pole’s past In the past, getting to the North Pole involved a treacherous trip through ice many meters thick. But last year, a research vessel…",
+      "imageUrl": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=800&q=80",
+      "source": "MIT Tech Review",
+      "sourceUrl": "https://www.technologyreview.com/2026/04/30/1136713/the-download-north-pole-future-humanoid-data/",
+      "publishedAt": "2026-04-30T12:10:00.000Z"
+    },
+    {
+      "id": "das0yc",
+      "title": "Meta says its business AI now facilitates 10 million conversations a week",
+      "summary": "Meta said over 8 billion advertisers have used at least one of its gen AI tools",
+      "imageUrl": "https://images.unsplash.com/photo-1635070041078-e363dbe005cb?w=800&q=80",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/04/30/meta-says-its-business-ai-now-facilitates-10-million-conversations-a-week/",
+      "publishedAt": "2026-04-30T12:08:45.000Z"
+    },
     {
       "id": "q7kyzq",
       "title": "Meta lost 20 million users last quarter",
@@ -246,24 +282,6 @@
       "publishedAt": "2026-04-29T16:00:00.000Z"
     },
     {
-      "id": "rfngrl",
-      "title": "Live updates from Elon Musk and Sam Altman’s court battle over the future of OpenAI",
-      "summary": "Sam Altman and Elon Musk are facing off in a high-stakes trial that could alter the future of OpenAI and its most well-known product, ChatGPT. In 2024, Musk filed a lawsuit accusing OpenAI of abandoning its founding mission of developing AI to benefit humanity and shifting focus to boosting profits instead. The trial began with jury selection on April 27th, before Elon Musk took the stand on Tuesday as the first witness called, portraying his interest in founding OpenAI as an effort to help save…",
-      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/04/268474_musk_vs_altman_CVirginia.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "source": "The Verge",
-      "sourceUrl": "https://www.theverge.com/tech/917225/sam-altman-elon-musk-openai-lawsuit",
-      "publishedAt": "2026-04-29T15:35:32.000Z"
-    },
-    {
-      "id": "vaswpo",
-      "title": "Tumbler Ridge families are suing OpenAI",
-      "summary": "Seven families of victims injured or killed in the Tumbler Ridge school shooting in Canada have filed lawsuits against OpenAI and CEO Sam Altman, accusing the company and its leadership of negligence after they failed to alert police to the suspected shooter's ChatGPT activity. The families allege OpenAI stayed silent after its systems flagged activity by shooting suspect Jesse Van Rootselaar in order to protect the company's reputation and upcoming initial public offering (IPO). The Wall Street…",
-      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/04/gettyimages-2260765297.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "source": "The Verge",
-      "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/920479/tumbler-ridge-chagpt-openai-lawsuit",
-      "publishedAt": "2026-04-29T14:47:57.000Z"
-    },
-    {
       "id": "9njnzt",
       "title": "Firestorm Labs raises $82M to take drone factories into the field",
       "summary": "A defense startup just raised $82 million to put drone factories inside shipping containers and bring manufacturing to the front lines.",
@@ -271,15 +289,6 @@
       "source": "TechCrunch",
       "sourceUrl": "https://techcrunch.com/2026/04/29/firestorm-labs-raises-82m-to-take-drone-factories-into-the-field/",
       "publishedAt": "2026-04-29T13:10:57.000Z"
-    },
-    {
-      "id": "djt4rz",
-      "title": "Meet Shapes, the app bringing humans and AI into the same group chats",
-      "summary": "Think Discord chats, but with AI characters in addition to humans.",
-      "imageUrl": "https://images.unsplash.com/photo-1531746790095-6c10a4031c5f?w=800&q=80",
-      "source": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/04/29/meet-shapes-the-app-bringing-humans-and-ai-into-the-same-group-chats/",
-      "publishedAt": "2026-04-29T13:00:00.000Z"
     },
     {
       "id": "la7pgx",
@@ -424,15 +433,6 @@
       "source": "MIT Tech Review",
       "sourceUrl": "https://www.technologyreview.com/2026/04/24/1136400/the-download-supercharged-scams-questionable-ai-healthcare/",
       "publishedAt": "2026-04-24T12:10:00.000Z"
-    },
-    {
-      "id": "4spijb",
-      "title": "Health-care AI is here. We don’t know if it actually helps patients.",
-      "summary": "I don’t need to tell you that AI is everywhere. Or that it is being used, increasingly, in hospitals. Doctors are using AI to help them with note-taking. AI-based tools are trawling through patient records, flagging people who may require certain support or treatments. They are also used to interpret medical exam results and x-rays. A…",
-      "imageUrl": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=800&q=80",
-      "source": "MIT Tech Review",
-      "sourceUrl": "https://www.technologyreview.com/2026/04/24/1136352/health-care-ai-dont-know-actually-helps-patients/",
-      "publishedAt": "2026-04-24T09:00:00.000Z"
     },
     {
       "id": "rcuthn",
