@@ -1,7 +1,43 @@
 {
-  "fetchedAt": "2026-04-30T21:09:45.961Z",
+  "fetchedAt": "2026-04-30T23:30:48.918Z",
   "count": 60,
   "articles": [
+    {
+      "id": "mi1dm5",
+      "title": "Sources: Anthropic potential $900B+ valuation round could happen within 2 weeks",
+      "summary": "Anthropic is asking investors to submit allocations for the AI company’s latest fundraise within the next 48 hours, according to sources familiar with the matter.",
+      "imageUrl": "https://images.unsplash.com/photo-1526374965328-7f61d4dc18c5?w=800&q=80",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/04/30/anthropic-potential-900b-valuation-round-could-happen-within-two-weeks/",
+      "publishedAt": "2026-04-30T23:07:56.000Z"
+    },
+    {
+      "id": "jhz6bu",
+      "title": "Good Luck Getting a Mac Mini for the Next ‘Several Months’",
+      "summary": "Apple CEO Tim Cook told analysts that AI adoption has happened faster than expected.",
+      "imageUrl": "https://media.wired.com/photos/69f3d1f6fd3259b38c3421e7/master/pass/You-Bought-All-MacMinis-Business.jpg",
+      "source": "Wired",
+      "sourceUrl": "https://www.wired.com/story/apple-sold-out-mac-mini-openclaw/",
+      "publishedAt": "2026-04-30T23:00:51.000Z"
+    },
+    {
+      "id": "4anra8",
+      "title": "The craziest part of Musk v. Altman happened while the jury was out of the room",
+      "summary": "Okay, I am not a lawyer so I only understood about half of what just happened. But I am fairly sure, given the context, that Elon Musk's lawyers may have just fucked up big. Jared \"James Brickhouse\" Birchall, Musk's finance guy and all-around fixer, took the stand after Musk today. Most of his testimony was dull and seemed to exist primarily to get some documents read into the record, which sucks but is a normal part of sitting through trials. But at the very end of his boring testimony…",
+      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/04/268474_musk_vs_altman_CVirginia4.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "source": "The Verge",
+      "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/921713/musk-v-altman-jared-birchall-screw-up-xai",
+      "publishedAt": "2026-04-30T22:59:51.000Z"
+    },
+    {
+      "id": "89n1ui",
+      "title": "Apple was surprised by AI-driven demand for Macs",
+      "summary": "Apple said it will be supply-constrained on Mac mini, Studio, and Neo in the next quarter, too.",
+      "imageUrl": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=800&q=80",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/04/30/apple-was-surprised-by-ai-driven-demand-for-macs/",
+      "publishedAt": "2026-04-30T22:12:52.000Z"
+    },
     {
       "id": "h5ca51",
       "title": "The most severe Linux threat to surface in years catches the world flat-footed",
@@ -14,7 +50,7 @@
     {
       "id": "30sv28",
       "title": "Legal AI startup Legora hits $5.6B valuation and its battle with Harvey just got hotter",
-      "summary": "The two wildly fast-growing rivals have raised massive sums, pushed into each other's home turf and now have dueling ad campaigns.",
+      "summary": "The two wildly fast-growing rivals have raised massive sums, pushed into each other's home turf, and now have dueling ad campaigns.",
       "imageUrl": "https://images.unsplash.com/photo-1635070041078-e363dbe005cb?w=800&q=80",
       "source": "TechCrunch",
       "sourceUrl": "https://techcrunch.com/2026/04/30/legal-ai-startup-legora-hits-5-6-valuation-and-its-battle-with-harvey-just-got-hotter/",
@@ -237,15 +273,6 @@
       "publishedAt": "2026-04-30T12:08:45.000Z"
     },
     {
-      "id": "q7kyzq",
-      "title": "Meta lost 20 million users last quarter",
-      "summary": "Meta is planning to pump billions more into AI investments this year, despite noting that millions of users have seemingly started to abandon its platforms. In an earning call on Wednesday, Meta reported that figures for \"Family daily active people\" - the term Meta has coined for all collective users of Facebook, Instagram, WhatsApp, or Messenger - declined by 20 million this quarter compared to the previous three months. Meta attributes this fall to \"internet disruptions in Iran, as well as a…",
-      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25546026/STK043_META_CVIRGINIA_C.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "source": "The Verge",
-      "sourceUrl": "https://www.theverge.com/tech/921089/meta-earnings-q1-2026-user-decline-ai-investments",
-      "publishedAt": "2026-04-30T11:38:26.000Z"
-    },
-    {
       "id": "n6y4va",
       "title": "These Men Allegedly Profit Off Teaching People How to Make AI Porn",
       "summary": "Three Arizona women have filed a lawsuit against a group of men that alleges they used the women’s photos to make AI porn influencers, then offered online courses showing others how to do it.",
@@ -289,24 +316,6 @@
       "source": "TechCrunch",
       "sourceUrl": "https://techcrunch.com/2026/04/29/sources-anthropic-could-raise-a-new-50b-round-at-a-valuation-of-900b/",
       "publishedAt": "2026-04-30T00:07:15.000Z"
-    },
-    {
-      "id": "j0ocet",
-      "title": "On the stand, Elon Musk can’t escape his own tweets",
-      "summary": "Elon Musk took the stand for the second day for his attempt to legally dismantle OpenAI.",
-      "imageUrl": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=800&q=80",
-      "source": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/04/29/on-the-stand-elon-musk-cant-escape-his-own-tweets/",
-      "publishedAt": "2026-04-29T23:58:36.000Z"
-    },
-    {
-      "id": "w3ofzv",
-      "title": "Meta is still burning money on AR/VR",
-      "summary": "Meta is losing billions on Reality Labs each quarter, and its AI expenditures are only going to increase its spending.",
-      "imageUrl": "https://images.unsplash.com/photo-1620712943543-bcc4688e7485?w=800&q=80",
-      "source": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/04/29/meta-is-still-burning-money-on-ar-vr/",
-      "publishedAt": "2026-04-29T23:58:26.000Z"
     },
     {
       "id": "8d92wk",
@@ -361,15 +370,6 @@
       "source": "Ars Technica",
       "sourceUrl": "https://arstechnica.com/information-technology/2026/04/why-a-recent-supply-chain-attack-singled-out-security-firms-checkmarx-and-bitwarden/",
       "publishedAt": "2026-04-29T11:00:24.000Z"
-    },
-    {
-      "id": "dm2ufk",
-      "title": "I've Covered Robots for Years. This One Is Different",
-      "summary": "From sorting chicken nuggets to screwing in lightbulbs, Eka’s robotic claw feels like we're approaching a ChatGPT moment for the physical world.",
-      "imageUrl": "https://media.wired.com/photos/69f11fc37df9442e8d9b4374/master/pass/20260320-wired-eka-robotics-0429.jpg",
-      "source": "Wired",
-      "sourceUrl": "https://www.wired.com/story/when-robots-have-their-chatgpt-moment-remember-these-pincers/",
-      "publishedAt": "2026-04-29T10:00:00.000Z"
     },
     {
       "id": "4z5s06",
