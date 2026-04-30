@@ -1,7 +1,43 @@
 {
-  "fetchedAt": "2026-04-30T14:17:05.435Z",
+  "fetchedAt": "2026-04-30T16:04:49.154Z",
   "count": 60,
   "articles": [
+    {
+      "id": "pl82eu",
+      "title": "Gemini is rolling out to cars with Google built-in",
+      "summary": "Here’s an early look at the new Gemini assistant on a vehicle infotainment system. | Image: Google Google is preparing to update vehicles that have Google built-in with its Gemini AI assistant. This will be an upgrade from the current Google Assistant according to Google's announcement, and promises to provide an improved experience for natural conversations, fetching vehicle-specific information, settings adjustments, and more. \"When cars with Google built-in first hit the road in 2020, we made…",
+      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/04/Google-Gemini-car-AI-assistant-upgrade.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "source": "The Verge",
+      "sourceUrl": "https://www.theverge.com/tech/921117/google-gemini-ai-assistant-cars-upgrade",
+      "publishedAt": "2026-04-30T16:00:00.000Z"
+    },
+    {
+      "id": "8wd7jk",
+      "title": "Here’s how the new Microsoft and OpenAI deal breaks down",
+      "summary": "Microsoft's relationship with OpenAI has always been complicated, so I expected the close partnership-turned-situationship to end in tears. After all, executive disagreements, rearranged contracts, and frustrations over AI infrastructure have all regularly been part of the partnership, creating plenty of tension along the way. But against all odds, Microsoft and OpenAI divorced this week in a way that looks strangely amicable. Microsoft announced the updates to its long-standing OpenAI deal on…",
+      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25098341/1778707567.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "source": "The Verge",
+      "sourceUrl": "https://www.theverge.com/tech/921210/microsoft-openai-partnership-divorce-notepad",
+      "publishedAt": "2026-04-30T16:00:00.000Z"
+    },
+    {
+      "id": "6cc631",
+      "title": "X announces a rebuilt ad platform powered by AI",
+      "summary": "X is rolling out a rebuilt ads platform powered by AI as it works to grow revenue again.",
+      "imageUrl": "https://images.unsplash.com/photo-1655720828018-edd2daec9349?w=800&q=80",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/04/30/x-announces-a-rebuilt-ad-platform-powered-by-ai/",
+      "publishedAt": "2026-04-30T15:14:55.000Z"
+    },
+    {
+      "id": "qvqle9",
+      "title": "All these smart glasses and nothing to do",
+      "summary": "Despite only having one face, I made testing work. I'm currently wearing a pair of smart glasses called the Even Realities G2. Another two pairs, from Rokid, sit on my desk. A few feet away, I've got the Meta Ray-Ban Display charging alongside their Neural Wristband. In my closet are six pairs of $50 smart sunnies that an overzealous Walmart rep sent me. Those sit next to some Xreal, RayNeo, and Lucyd glasses, plus an old pair of Razer Anzu. Later, I'm calling my optician because I'm hoping to…",
+      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/04/268494_smart_glasses_overview_AKrales_0381.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "source": "The Verge",
+      "sourceUrl": "https://www.theverge.com/tech/921159/smart-glasses-review-wearable-even-realities-g2-meta-ray-ban-rokid-lucyd-oakley-meta-vanguard",
+      "publishedAt": "2026-04-30T15:00:00.000Z"
+    },
     {
       "id": "a5vx54",
       "title": "OpenAI talks about not talking about goblins",
@@ -32,7 +68,7 @@
     {
       "id": "das0yc",
       "title": "Meta says its business AI now facilitates 10 million conversations a week",
-      "summary": "Meta said over 8 billion advertisers have used at least one of its gen AI tools",
+      "summary": "Meta said over 8 billion advertisers have used at least one of its GenAI tools",
       "imageUrl": "https://images.unsplash.com/photo-1635070041078-e363dbe005cb?w=800&q=80",
       "source": "TechCrunch",
       "sourceUrl": "https://techcrunch.com/2026/04/30/meta-says-its-business-ai-now-facilitates-10-million-conversations-a-week/",
@@ -86,7 +122,7 @@
     {
       "id": "qk0zxo",
       "title": "SoftBank is creating a robotics company that builds data centers — and already eyeing a $100B IPO",
-      "summary": "You need infrastructure to build AI a and robots, but apparently you also need AI and robots to build infrastructure.",
+      "summary": "You need infrastructure to build AI and robots, but apparently you also need AI and robots to build infrastructure.",
       "imageUrl": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=800&q=80",
       "source": "TechCrunch",
       "sourceUrl": "https://techcrunch.com/2026/04/29/softbank-is-creating-a-robotics-company-that-builds-data-centers-and-already-eyeing-a-100b-ipo/",
@@ -147,8 +183,8 @@
       "publishedAt": "2026-04-29T23:55:23.000Z"
     },
     {
-      "id": "l7f19f",
-      "title": "How Elon Musk Squeezed OpenAI: They 'Are Gonna Want to Kill Me’",
+      "id": "8d92wk",
+      "title": "How Elon Musk Squeezed OpenAI: They ‘Are Gonna Want to Kill Me’",
       "summary": "Tensions flared on the third day of trial in Musk v. Altman as OpenAI’s lawyers cross-examined Musk.",
       "imageUrl": "https://media.wired.com/photos/69f2443b51254f9508013a9a/master/pass/Model-Behavior-Musk-Grilled-by-OpenAI-Lawyers-Business.jpg",
       "source": "Wired",
@@ -228,24 +264,6 @@
       "publishedAt": "2026-04-29T18:33:05.000Z"
     },
     {
-      "id": "b6rstv",
-      "title": "All the evidence unveiled so far in Musk v. Altman",
-      "summary": "The Musk v. Altman trial is underway, and that means exhibits, or the evidence to be presented in court, are being revealed piece by piece. So far, email exchanges, photos, and corporate documents are circulating from the earliest days of OpenAI - and from before the AI lab even had a name. Some high-level takeaways: Nvidia CEO Jensen Huang gave OpenAI an in-demand supercomputer, Musk largely drafted OpenAI's mission and heavily influenced its early structure, OpenAI CEO Sam Altman appeared to…",
-      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/04/268474_musk_vs_altman_CVirginia6.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "source": "The Verge",
-      "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/920775/evidence-exhibits-elon-musk-sam-altman-openai-trial",
-      "publishedAt": "2026-04-29T18:03:05.000Z"
-    },
-    {
-      "id": "dksrca",
-      "title": "Ubuntu’s AI plans have Linux users looking for a ‘kill switch’",
-      "summary": "Canonical's plan to add AI features to Ubuntu has some users asking for \"a version of Ubuntu that does not include these features,\" while others say they'll stick with older versions of the Linux distro or even switch to a different one. After Canonical's announcement earlier this week that it's bringing AI features to Ubuntu, replies included requests for an AI \"kill switch\" or a way to disable the upcoming features, and comparisons to Microsoft's addition of AI features into Windows 11.…",
-      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/03/STK414_AI_CHATBOT_E.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "source": "The Verge",
-      "sourceUrl": "https://www.theverge.com/tech/920723/linux-ubuntu-ai-features-ai-kill-switch",
-      "publishedAt": "2026-04-29T17:32:02.000Z"
-    },
-    {
       "id": "qxkhon",
       "title": "Sanctioned Chinese AI Firm SenseTime Releases Image Model Built for Speed",
       "summary": "With US restrictions limiting its access to advanced tech, SenseTime is doubling down on open source with a new model optimized to run on Chinese-made chips.",
@@ -271,24 +289,6 @@
       "source": "TechCrunch",
       "sourceUrl": "https://techcrunch.com/2026/04/29/more-gemini-features-are-coming-to-google-tv/",
       "publishedAt": "2026-04-29T16:40:49.000Z"
-    },
-    {
-      "id": "eak0e7",
-      "title": "Google Photos launches an AI try-on feature for clothes you already have",
-      "summary": "Google Photos is launching a new AI-powered feature you can use to virtually try on clothes you already have. Using the photos in your gallery, Google will create a virtual \"wardrobe,\" allowing you to mix and match outfits, save the looks you like, and share them with friends. A video shared by Google shows how Photos organizes your outfits and individual pieces of clothing into a virtual \"wardrobe.\" You can browse through the outfits you were captured wearing, as well as create new ones by…",
-      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/04/wardrobe-try-on.png?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "source": "The Verge",
-      "sourceUrl": "https://www.theverge.com/tech/920420/google-photos-ai-try-on-wardrobe",
-      "publishedAt": "2026-04-29T16:00:00.000Z"
-    },
-    {
-      "id": "9njnzt",
-      "title": "Firestorm Labs raises $82M to take drone factories into the field",
-      "summary": "A defense startup just raised $82 million to put drone factories inside shipping containers and bring manufacturing to the front lines.",
-      "imageUrl": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=800&q=80",
-      "source": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/04/29/firestorm-labs-raises-82m-to-take-drone-factories-into-the-field/",
-      "publishedAt": "2026-04-29T13:10:57.000Z"
     },
     {
       "id": "la7pgx",
