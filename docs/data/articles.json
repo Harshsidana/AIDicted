@@ -1,7 +1,16 @@
 {
-  "fetchedAt": "2026-05-01T21:27:24.648Z",
+  "fetchedAt": "2026-05-01T22:28:08.735Z",
   "count": 60,
   "articles": [
+    {
+      "id": "f51kxl",
+      "title": "Meta buys robotic startup to bolster its humanoid AI ambitions",
+      "summary": "Meta bought humanoid startup Assured Robot Intelligence to beef up its AI models for robots, the company said.",
+      "imageUrl": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=800&q=80",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/05/01/meta-buys-robotic-startup-to-bolster-its-humanoid-ai-ambitions/",
+      "publishedAt": "2026-05-01T22:13:27.000Z"
+    },
     {
       "id": "o1ub40",
       "title": "A Dark-Money Campaign Is Paying Influencers to Frame Chinese AI as a Threat",
@@ -361,15 +370,6 @@
       "source": "MIT Tech Review",
       "sourceUrl": "https://www.technologyreview.com/2026/04/30/1136721/this-startups-new-mechanistic-interpretability-tool-lets-you-debug-llms/",
       "publishedAt": "2026-04-30T15:59:41.000Z"
-    },
-    {
-      "id": "6cc631",
-      "title": "X announces a rebuilt ad platform powered by AI",
-      "summary": "X is rolling out a rebuilt ads platform powered by AI as it works to grow revenue again.",
-      "imageUrl": "https://images.unsplash.com/photo-1655720828018-edd2daec9349?w=800&q=80",
-      "source": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/04/30/x-announces-a-rebuilt-ad-platform-powered-by-ai/",
-      "publishedAt": "2026-04-30T15:14:55.000Z"
     },
     {
       "id": "2vfqz6",
