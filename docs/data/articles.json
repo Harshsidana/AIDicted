@@ -1,7 +1,25 @@
 {
-  "fetchedAt": "2026-04-30T23:30:48.918Z",
+  "fetchedAt": "2026-05-01T04:04:21.160Z",
   "count": 60,
   "articles": [
+    {
+      "id": "5c6nh4",
+      "title": "ChatGPT Images 2.0 is a hit in India, but not a big winner elsewhere, yet",
+      "summary": "Users in India are embracing ChatGPT Images 2.0 for creative, personal visuals — from avatars to cinematic portraits.",
+      "imageUrl": "https://images.unsplash.com/photo-1655720828018-edd2daec9349?w=800&q=80",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/04/30/chatgpt-images-2-0-is-a-hit-in-india-but-not-a-big-winner-elsewhere-yet/",
+      "publishedAt": "2026-05-01T02:00:00.000Z"
+    },
+    {
+      "id": "p41vyr",
+      "title": "How Shivon Zilis Operated as Elon Musk’s OpenAI Insider",
+      "summary": "Messages presented at trial reveal how Zilis, the mother of four of Musk’s children, acted as an intermediary between him and OpenAI.",
+      "imageUrl": "https://media.wired.com/photos/69f3d20465348cc78c80dfb1/master/pass/Model-Behavior-Why-Everything-in-Musk-v-Altman-Leads-Back-to-Shivon-Zelis-Business-2258844337.jpg",
+      "source": "Wired",
+      "sourceUrl": "https://www.wired.com/story/model-behavior-why-everything-in-musk-v-altman-leads-back-to-shivon-zelis/",
+      "publishedAt": "2026-05-01T00:51:18.000Z"
+    },
     {
       "id": "mi1dm5",
       "title": "Sources: Anthropic potential $900B+ valuation round could happen within 2 weeks",
@@ -309,15 +327,6 @@
       "publishedAt": "2026-04-30T00:14:23.000Z"
     },
     {
-      "id": "4jmd4z",
-      "title": "Sources: Anthropic could raise a new $50B round at a valuation of $900B",
-      "summary": "The maker of Claude has received multiple preemptive offers at valuations in the $850 billion to $900 billion range, according to sources familiar with the matter.",
-      "imageUrl": "https://images.unsplash.com/photo-1676299081847-824916de030a?w=800&q=80",
-      "source": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/04/29/sources-anthropic-could-raise-a-new-50b-round-at-a-valuation-of-900b/",
-      "publishedAt": "2026-04-30T00:07:15.000Z"
-    },
-    {
       "id": "8d92wk",
       "title": "How Elon Musk Squeezed OpenAI: They ‘Are Gonna Want to Kill Me’",
       "summary": "Tensions flared on the third day of trial in Musk v. Altman as OpenAI’s lawyers cross-examined Musk.",
@@ -343,15 +352,6 @@
       "source": "Wired",
       "sourceUrl": "https://www.wired.com/story/taylor-swift-rihanna-tiktok-deepfake-ads/",
       "publishedAt": "2026-04-29T20:36:53.000Z"
-    },
-    {
-      "id": "qxkhon",
-      "title": "Sanctioned Chinese AI Firm SenseTime Releases Image Model Built for Speed",
-      "summary": "With US restrictions limiting its access to advanced tech, SenseTime is doubling down on open source with a new model optimized to run on Chinese-made chips.",
-      "imageUrl": "https://media.wired.com/photos/69f11e18364b858d165e91bf/master/pass/SenseTime-AI-Models-Chinese-Chips-Business-2154581485.jpg",
-      "source": "Wired",
-      "sourceUrl": "https://www.wired.com/story/chinese-ai-giant-sensetime-is-running-its-new-model-on-chinese-chips/",
-      "publishedAt": "2026-04-29T17:23:52.000Z"
     },
     {
       "id": "la7pgx",
