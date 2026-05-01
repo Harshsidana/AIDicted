@@ -1,7 +1,16 @@
 {
-  "fetchedAt": "2026-05-01T10:53:26.680Z",
+  "fetchedAt": "2026-05-01T12:02:49.101Z",
   "count": 60,
   "articles": [
+    {
+      "id": "zdynzz",
+      "title": "Microsoft wants lawyers to trust its new AI agent in Word documents",
+      "summary": "Microsoft is launching a new AI agent inside Word that's specifically designed for legal teams. Legal Agent handles document edits, negotiation history, and complex documents to help legal teams handle tasks like reviewing contracts. \"Instead of relying on general AI models to interpret commands, the agent follows structured workflows shaped by real legal practice, managing clearly defined, repeatable tasks like reviewing contracts clause by clause against a playbook,\" explains Sumit Chauhan,…",
+      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25832913/STK095_MICROSOFT_2_CVirginia_B.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "source": "The Verge",
+      "sourceUrl": "https://www.theverge.com/news/921944/microsoft-word-legal-agent-ai",
+      "publishedAt": "2026-05-01T11:18:54.000Z"
+    },
     {
       "id": "3weyqs",
       "title": "Inexpensive seafloor-hopping submersibles could stoke deep-sea science—and mining",
@@ -289,15 +298,6 @@
       "source": "The Verge",
       "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/921181/openai-codex-goblins",
       "publishedAt": "2026-04-30T13:42:29.000Z"
-    },
-    {
-      "id": "rf1hz5",
-      "title": "Verified by Spotify badge lets you know this artist isn’t AI",
-      "summary": "Spotify is launching a new verification program to combat spam, fakes, and AI. Some artists will now have a \"Verified by Spotify\" badge and a green checkmark on their profile, indicating that the company has confirmed a real person is behind the music and the profile. At least at launch, Spotify says that AI personas or profiles that primarily upload AI-generated music are not eligible for the verification program. It did leave the door open to the possibility in the future, though, saying, \"the…",
-      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/04/S4A_Verified_Header_Ravyn.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "source": "The Verge",
-      "sourceUrl": "https://www.theverge.com/tech/921048/verified-by-spotify-badge",
-      "publishedAt": "2026-04-30T13:08:23.000Z"
     },
     {
       "id": "2vfqz6",
