@@ -1,7 +1,34 @@
 {
-  "fetchedAt": "2026-05-01T17:05:34.069Z",
+  "fetchedAt": "2026-05-01T20:09:15.296Z",
   "count": 60,
   "articles": [
+    {
+      "id": "h1bnm9",
+      "title": "All the evidence revealed so far in Musk v. Altman",
+      "summary": "The Musk v. Altman trial is underway, and that means exhibits, or the evidence to be presented in court, are being revealed piece by piece. So far, email exchanges, photos, and corporate documents are circulating from the earliest days of OpenAI - and from before the AI lab even had a name. Some high-level takeaways: Nvidia CEO Jensen Huang gave OpenAI an in-demand supercomputer, Musk largely drafted OpenAI's mission and heavily influenced its early structure, OpenAI CEO Sam Altman appeared to…",
+      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/04/268474_musk_vs_altman_CVirginia6.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "source": "The Verge",
+      "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/920775/evidence-exhibits-elon-musk-sam-altman-openai-trial",
+      "publishedAt": "2026-05-01T19:14:51.000Z"
+    },
+    {
+      "id": "2o6v9w",
+      "title": "Ubuntu infrastructure has been down for more than a day",
+      "summary": "The outage has hampered communication concerning a critical vulnerability that gives root.",
+      "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2022/11/error-503-1000x648.jpg",
+      "source": "Ars Technica",
+      "sourceUrl": "https://arstechnica.com/security/2026/05/ubuntu-infrastructure-has-been-down-for-more-than-a-day/",
+      "publishedAt": "2026-05-01T19:12:26.000Z"
+    },
+    {
+      "id": "126t1x",
+      "title": "Did you know you can’t steal a charity? Don’t worry. Elon Musk will remind you.",
+      "summary": "Elon Musk spent the better part of three days on the witness stand this week in his lawsuit against OpenAI, and it’s already getting messy. Emails, texts, and his own tweets are surfacing in court, and there are plenty more witnesses to come. Musk’s argument against OpenAI? By converting the company to a for-profit model, Sam Altman betrayed the “nonprofit for the […]",
+      "imageUrl": "https://images.unsplash.com/photo-1531746790095-6c10a4031c5f?w=800&q=80",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/podcast/did-you-know-you-cant-steal-a-charity-dont-worry-elon-musk-will-remind-you/",
+      "publishedAt": "2026-05-01T17:44:29.000Z"
+    },
     {
       "id": "hozgnz",
       "title": "Pentagon inks deals with Nvidia, Microsoft, and AWS to deploy AI on classified networks",
@@ -39,6 +66,15 @@
       "publishedAt": "2026-05-01T14:09:56.000Z"
     },
     {
+      "id": "9jmv3p",
+      "title": "Musk v. Altman is just getting started",
+      "summary": "Elon Musk spent the better part of three days on the witness stand this week in his lawsuit against OpenAI, and it’s already getting messy. Emails, texts, and his own tweets are surfacing in court, and there are plenty more witnesses to come. Musk’s argument against OpenAI? By converting the company to a for-profit model, Sam Altman betrayed the “nonprofit for the […]",
+      "imageUrl": "https://images.unsplash.com/photo-1635070041078-e363dbe005cb?w=800&q=80",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/video/musk-v-altman-is-just-getting-started/",
+      "publishedAt": "2026-05-01T14:00:00.000Z"
+    },
+    {
       "id": "899a8j",
       "title": "Elon Musk had a bad week in court",
       "summary": "Elon Musk is the one who wanted this trial. He has spent months claiming OpenAI \"stole a nonprofit,\" and saying he was the actual driving force behind one of the most important companies currently in tech. All indications are that he won't win his case against the company, but he's fighting it anyway. So you'd think he'd have done better when it was his time to take the stand. Verge subscribers, don't forget you get exclusive access to ad-free Vergecast wherever you get your podcasts. Head here.…",
@@ -51,7 +87,7 @@
       "id": "i0v4c2",
       "title": "Christian content creators are outsourcing AI slop to gig workers on Fiverr",
       "summary": "In the beginning, platforms like Fiverr were places where people could hire freelancers to do specialized creative labor using skills that took years to develop. In the age of generative AI, though, many of these gig workers have embraced the technology in order to meet clients' demands. These workers' profiles emphasize that they can quickly (and cheaply) whip up images and videos of just about anything. But often, what their clients are looking for are dramatic animations inspired by the…",
-      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/05/Screenshot-2026-04-30-at-8.56.42AM.png?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/05/ai-label-12.png?quality=90&#038;strip=all&#038;crop=0,0,100,100",
       "source": "The Verge",
       "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/920881/ai-generated-bible-videos-christian-creators-fiverr-slop",
       "publishedAt": "2026-05-01T13:25:25.000Z"
@@ -181,15 +217,6 @@
       "source": "TechCrunch",
       "sourceUrl": "https://techcrunch.com/2026/04/30/after-dissing-anthropic-for-limiting-mythos-openai-restricts-access-to-cyber-too/",
       "publishedAt": "2026-04-30T19:27:41.000Z"
-    },
-    {
-      "id": "h1bnm9",
-      "title": "All the evidence revealed so far in Musk v. Altman",
-      "summary": "The Musk v. Altman trial is underway, and that means exhibits, or the evidence to be presented in court, are being revealed piece by piece. So far, email exchanges, photos, and corporate documents are circulating from the earliest days of OpenAI - and from before the AI lab even had a name. Some high-level takeaways: Nvidia CEO Jensen Huang gave OpenAI an in-demand supercomputer, Musk largely drafted OpenAI's mission and heavily influenced its early structure, OpenAI CEO Sam Altman appeared to…",
-      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/04/268474_musk_vs_altman_CVirginia6.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "source": "The Verge",
-      "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/920775/evidence-exhibits-elon-musk-sam-altman-openai-trial",
-      "publishedAt": "2026-04-30T19:00:00.000Z"
     },
     {
       "id": "ikjfah",
@@ -345,15 +372,6 @@
       "publishedAt": "2026-04-30T12:10:00.000Z"
     },
     {
-      "id": "das0yc",
-      "title": "Meta says its business AI now facilitates 10 million conversations a week",
-      "summary": "Meta said over 8 billion advertisers have used at least one of its GenAI tools",
-      "imageUrl": "https://images.unsplash.com/photo-1635070041078-e363dbe005cb?w=800&q=80",
-      "source": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/04/30/meta-says-its-business-ai-now-facilitates-10-million-conversations-a-week/",
-      "publishedAt": "2026-04-30T12:08:45.000Z"
-    },
-    {
       "id": "n6y4va",
       "title": "These Men Allegedly Profit Off Teaching People How to Make AI Porn",
       "summary": "Three Arizona women have filed a lawsuit against a group of men that alleges they used the women’s photos to make AI porn influencers, then offered online courses showing others how to do it.",
@@ -370,15 +388,6 @@
       "source": "Wired",
       "sourceUrl": "https://www.wired.com/story/reid-hoffman-ai-doctor-second-opinion-wired-health/",
       "publishedAt": "2026-04-30T09:00:00.000Z"
-    },
-    {
-      "id": "qk0zxo",
-      "title": "SoftBank is creating a robotics company that builds data centers — and already eyeing a $100B IPO",
-      "summary": "You need infrastructure to build AI and robots, but apparently you also need AI and robots to build infrastructure.",
-      "imageUrl": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=800&q=80",
-      "source": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/04/29/softbank-is-creating-a-robotics-company-that-builds-data-centers-and-already-eyeing-a-100b-ipo/",
-      "publishedAt": "2026-04-30T03:58:22.000Z"
     },
     {
       "id": "8d92wk",
@@ -532,15 +541,6 @@
       "source": "Ars Technica",
       "sourceUrl": "https://arstechnica.com/security/2026/04/new-rowhammer-attacks-give-complete-control-of-machines-running-nvidia-gpus/",
       "publishedAt": "2026-04-02T17:00:11.000Z"
-    },
-    {
-      "id": "yakfa8",
-      "title": "Quantum computers need vastly fewer resources than thought to break vital encryption",
-      "summary": "No, the sky isn't falling, but Q Day is coming, and it won't be as expensive as thought.",
-      "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2024/03/GettyImages-1070527780-1152x648.jpg",
-      "source": "Ars Technica",
-      "sourceUrl": "https://arstechnica.com/security/2026/03/new-quantum-computing-advances-heighten-threat-to-elliptic-curve-cryptosystems/",
-      "publishedAt": "2026-03-31T18:25:33.000Z"
     }
   ]
 }
