@@ -1,7 +1,16 @@
 {
-  "fetchedAt": "2026-05-03T19:56:02.443Z",
+  "fetchedAt": "2026-05-03T20:55:50.895Z",
   "count": 60,
   "articles": [
+    {
+      "id": "vj805c",
+      "title": "‘This is fine’ creator says AI startup stole his art",
+      "summary": "The ad comes from Artisan, the AI startup behind billboards urging businesses to \"stop hiring humans.\"",
+      "imageUrl": "https://images.unsplash.com/photo-1526374965328-7f61d4dc18c5?w=800&q=80",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/05/03/this-is-fine-creator-says-ai-startup-stole-his-art/",
+      "publishedAt": "2026-05-03T20:16:51.000Z"
+    },
     {
       "id": "loay2o",
       "title": "In Harvard study, AI offered more accurate emergency room diagnoses than two human doctors",
@@ -343,15 +352,6 @@
       "source": "The Verge",
       "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/921546/elon-musk-xai-openai-trial-model-distillation",
       "publishedAt": "2026-04-30T18:16:57.000Z"
-    },
-    {
-      "id": "wqy57q",
-      "title": "Elon Musk testifies that xAI trained Grok on OpenAI models",
-      "summary": "\"Distillation\" is a hot topic as frontier labs try to prevent smaller competitors from copying their models.",
-      "imageUrl": "https://images.unsplash.com/photo-1676299081847-824916de030a?w=800&q=80",
-      "source": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/04/30/elon-musk-testifies-that-xai-trained-grok-on-openai-models/",
-      "publishedAt": "2026-04-30T18:03:57.000Z"
     },
     {
       "id": "il1v94",
