@@ -1,7 +1,43 @@
 {
-  "fetchedAt": "2026-05-05T06:25:21.511Z",
+  "fetchedAt": "2026-05-05T12:07:56.598Z",
   "count": 60,
   "articles": [
+    {
+      "id": "a7gfbt",
+      "title": "Google DeepMind Workers Vote to Unionize Over Military AI Deals",
+      "summary": "UK staff of Google's AI research lab hope to block the use of the company's artificial intelligence models in military settings.",
+      "imageUrl": "https://media.wired.com/photos/69f9c20f546a456d51b2640c/master/pass/GettyImages-2177657481.jpg",
+      "source": "Wired",
+      "sourceUrl": "https://www.wired.com/story/google-deepmind-workers-vote-to-unionize-over-military-ai-deals/",
+      "publishedAt": "2026-05-05T11:59:20.000Z"
+    },
+    {
+      "id": "oxh2z8",
+      "title": "Google DeepMind workers are unionizing over AI military contracts",
+      "summary": "Staffers at Google DeepMind's headquarters have voted to unionize in an effort to prevent the AI firm's technology from being used by Israel and the US military. In a letter to Google management on Tuesday, employees requested that the Communication Workers Union (CWU) and Unite the Union be recognized as joint representatives, with 98 percent of CWU members at DeepMind voting in support of the move. \"We don't want our AI models complicit in violations of international law, but they already are…",
+      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/06/STKS515_CYBER_WARFARE_D.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "source": "The Verge",
+      "sourceUrl": "https://www.theverge.com/tech/923918/google-deepmind-union-bid-ai-military-israel",
+      "publishedAt": "2026-05-05T10:08:33.000Z"
+    },
+    {
+      "id": "dyipxj",
+      "title": "He Couldn’t Land a Job Interview. Was AI to Blame?",
+      "summary": "Armed with some Python and a white-hot sense of injustice, one medical student spent six months trying to figure out whether an algorithm trashed his job application.",
+      "imageUrl": "https://media.wired.com/photos/69e938c49a0a1ec843ac2159/master/pass/AIApplications_Main_Anim.gif",
+      "source": "Wired",
+      "sourceUrl": "https://www.wired.com/story/he-couldnt-land-a-job-interview-was-ai-to-blame/",
+      "publishedAt": "2026-05-05T10:00:00.000Z"
+    },
+    {
+      "id": "gbihew",
+      "title": "A blueprint for using AI to strengthen democracy",
+      "summary": "Every few centuries, changes in how information moves reshape how societies govern themselves. The printing press spread vernacular literacy, helping give rise to the Reformation and, eventually, representative government. The telegraph made it possible to administer vast nations like the US, accelerating the growth of the modern bureaucratic state. Broadcast media created shared national audiences,…",
+      "imageUrl": "https://images.unsplash.com/photo-1485827404703-89b55fcc595e?w=800&q=80",
+      "source": "MIT Tech Review",
+      "sourceUrl": "https://www.technologyreview.com/2026/05/05/1136843/ai-democracy-blueprint/",
+      "publishedAt": "2026-05-05T09:00:00.000Z"
+    },
     {
       "id": "nmifwh",
       "title": "As workers worry about AI, Nvidia’s Jensen Huang says AI is ‘creating an enormous number of jobs’",
@@ -318,15 +354,6 @@
       "publishedAt": "2026-05-01T12:10:00.000Z"
     },
     {
-      "id": "zdynzz",
-      "title": "Microsoft wants lawyers to trust its new AI agent in Word documents",
-      "summary": "Microsoft is launching a new AI agent inside Word that's specifically designed for legal teams. Legal Agent handles document edits, negotiation history, and complex documents to help legal teams handle tasks like reviewing contracts. \"Instead of relying on general AI models to interpret commands, the agent follows structured workflows shaped by real legal practice, managing clearly defined, repeatable tasks like reviewing contracts clause by clause against a playbook,\" explains Sumit Chauhan,…",
-      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25832913/STK095_MICROSOFT_2_CVirginia_B.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "source": "The Verge",
-      "sourceUrl": "https://www.theverge.com/news/921944/microsoft-word-legal-agent-ai",
-      "publishedAt": "2026-05-01T11:18:54.000Z"
-    },
-    {
       "id": "3weyqs",
       "title": "Inexpensive seafloor-hopping submersibles could stoke deep-sea science—and mining",
       "summary": "Smack dab between Australia and South America, the US National Oceanic and Atmospheric Administration (NOAA) research vessel Rainier is currently on a mission to map more than 8,000 square nautical miles of the Pacific seafloor in search of critical mineral deposits. But it isn’t doing it alone; for a month starting this week, it will…",
@@ -390,15 +417,6 @@
       "publishedAt": "2026-04-30T18:54:54.000Z"
     },
     {
-      "id": "1yt8mf",
-      "title": "Exclusive eBook: Inside the stealthy startup that pitched brainless human clones",
-      "summary": "The ultimate plan to live forever is a brand new body. This subscriber-only eBook explores R3 Bio, a small startup that has pitched a startling and ethically charged vision for “brainless clones” to serve the role of backup human bodies. byAntonio Regalado March 30, 2026 Related Stories: Access all subscriber-only eBooks:",
-      "imageUrl": "https://images.unsplash.com/photo-1526374965328-7f61d4dc18c5?w=800&q=80",
-      "source": "MIT Tech Review",
-      "sourceUrl": "https://www.technologyreview.com/2026/04/30/1136684/exclusive-ebook-inside-the-stealthy-startup-that-pitched-brainless-human-clones/",
-      "publishedAt": "2026-04-30T18:42:50.000Z"
-    },
-    {
       "id": "il1v94",
       "title": "Elon Musk Seemingly Admits xAI Has Used OpenAI’s Models to Train Its Own",
       "summary": "While answering questions under oath, Musk argued it’s standard practice for AI labs to use their competitors’ models.",
@@ -415,24 +433,6 @@
       "source": "Wired",
       "sourceUrl": "https://www.wired.com/story/openai-chatgpt-codex-advanced-account-security/",
       "publishedAt": "2026-04-30T17:30:39.000Z"
-    },
-    {
-      "id": "n6y4va",
-      "title": "These Men Allegedly Profit Off Teaching People How to Make AI Porn",
-      "summary": "Three Arizona women have filed a lawsuit against a group of men that alleges they used the women’s photos to make AI porn influencers, then offered online courses showing others how to do it.",
-      "imageUrl": "https://media.wired.com/photos/69e001589ad6824ca991b3a5/master/pass/culture_revenge_porn_ai_lawsuit.jpg",
-      "source": "Wired",
-      "sourceUrl": "https://www.wired.com/story/ai-porn-lawsuit-arizona/",
-      "publishedAt": "2026-04-30T10:30:00.000Z"
-    },
-    {
-      "id": "fq226i",
-      "title": "Reid Hoffman Thinks Doctors Should Ask AI for a Second Opinion",
-      "summary": "The LinkedIn cofounder now has an AI drug discovery startup—and thinks not asking chatbots for medical advice is “bordering on committing malpractice.”",
-      "imageUrl": "https://media.wired.com/photos/69ef9664677c4219ddb764c5/master/pass/Reid-Hoffman-WIRED-Health-Science-XT503179.jpg",
-      "source": "Wired",
-      "sourceUrl": "https://www.wired.com/story/reid-hoffman-ai-doctor-second-opinion-wired-health/",
-      "publishedAt": "2026-04-30T09:00:00.000Z"
     },
     {
       "id": "3d320y",
