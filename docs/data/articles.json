@@ -1,7 +1,70 @@
 {
-  "fetchedAt": "2026-05-06T14:35:43.172Z",
+  "fetchedAt": "2026-05-06T16:48:53.261Z",
   "count": 60,
   "articles": [
+    {
+      "id": "bs2shb",
+      "title": "Google updates AI search to include ‘expert advice’ from Reddit and other web forums",
+      "summary": "While citing web forums and discussion boards can help users find answers to more niche queries, this design choice could also prove chaotic.",
+      "imageUrl": "https://images.unsplash.com/photo-1635070041078-e363dbe005cb?w=800&q=80",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/05/06/google-updates-ai-search-to-include-expert-advice-from-reddit-and-other-web-forums/",
+      "publishedAt": "2026-05-06T15:49:39.000Z"
+    },
+    {
+      "id": "e6912g",
+      "title": "Hackers Hate AI Slop Even More Than You Do",
+      "summary": "It's not just you. Scammers, hackers, and other cybercriminals are complaining about “AI shit” flooding platforms where they discuss cyberattacks and other illegal activity.",
+      "imageUrl": "https://media.wired.com/photos/69fb5ce596ac6b501416fbb0/master/pass/Security_EvenCybercriminalsAreAnnoyedbyAISlop_v2.jpg",
+      "source": "Wired",
+      "sourceUrl": "https://www.wired.com/story/cybercriminals-are-complaining-about-ai-slop-flooding-their-forums/",
+      "publishedAt": "2026-05-06T15:49:12.000Z"
+    },
+    {
+      "id": "jw1xw4",
+      "title": "Khosla-backed robotics startup Genesis AI has gone full-stack, demo shows",
+      "summary": "Genesis AI, a startup that raised a $105 million seed round to build foundational AI for robotics, has unveiled its first model, GENE-26.5, but also a demo showcasing a set of robotic hands performing complex tasks.",
+      "imageUrl": "https://images.unsplash.com/photo-1550751827-4bd374c3f58b?w=800&q=80",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/05/06/khosla-backed-robotics-startup-genesis-ai-has-gone-full-stack-demo-shows/",
+      "publishedAt": "2026-05-06T15:46:38.000Z"
+    },
+    {
+      "id": "rfngrl",
+      "title": "Live updates from Elon Musk and Sam Altman’s court battle over the future of OpenAI",
+      "summary": "Sam Altman and Elon Musk are facing off in a high-stakes trial that could alter the future of OpenAI and its most well-known product, ChatGPT. In 2024, Musk filed a lawsuit accusing OpenAI of abandoning its founding mission of developing AI to benefit humanity and shifting focus to boosting profits instead. Elon Musk, his financial manager and Neuralink CEO, Jared Birchall, and OpenAI cofounder Greg Brockman have already testified before the jury. Now, on Wednesday, May 6th, Shivon Zilis, a…",
+      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/04/268474_musk_vs_altman_CVirginia.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "source": "The Verge",
+      "sourceUrl": "https://www.theverge.com/tech/917225/sam-altman-elon-musk-openai-lawsuit",
+      "publishedAt": "2026-05-06T15:37:32.000Z"
+    },
+    {
+      "id": "53eqqg",
+      "title": "Tinder owner Match Group is slowing hiring to pay for its increased use of AI tools",
+      "summary": "Match Group said that it's slowing its hiring plans for the rest of the year because AI tools \"cost a lot of money.\"",
+      "imageUrl": "https://images.unsplash.com/photo-1635070041078-e363dbe005cb?w=800&q=80",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/05/06/tinder-owner-match-group-is-slowing-hiring-to-pay-for-its-increased-use-of-ai-tools/",
+      "publishedAt": "2026-05-06T15:27:36.000Z"
+    },
+    {
+      "id": "d0e76x",
+      "title": "Apple to pay $250M to settle lawsuit over Siri’s delayed AI features",
+      "summary": "Apple has agreed to pay $250 million to settle a class action lawsuit for overpromising the arrival of Siri's AI features.",
+      "imageUrl": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=800&q=80",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/05/06/apple-to-pay-250m-to-settle-lawsuit-over-siris-delayed-ai-features/",
+      "publishedAt": "2026-05-06T15:12:49.000Z"
+    },
+    {
+      "id": "wyuxhp",
+      "title": "Ethos raises $22.75M from a16z for its expert network with voice onboarding",
+      "summary": "Ethos says it is onboarding 35,000 experts per week.",
+      "imageUrl": "https://images.unsplash.com/photo-1550751827-4bd374c3f58b?w=800&q=80",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/05/06/ethos-raises-22-75m-from-a16z-for-its-expert-network-with-voice-onboarding/",
+      "publishedAt": "2026-05-06T15:00:00.000Z"
+    },
     {
       "id": "x3cn57",
       "title": "At TechCrunch Disrupt 2026, all your M&A questions will be answered",
@@ -66,8 +129,8 @@
       "publishedAt": "2026-05-06T11:45:41.000Z"
     },
     {
-      "id": "9cxcqo",
-      "title": "Apple Will Pay $250 Million to Settle Lawsuit Over Siri's AI Features",
+      "id": "vaw68e",
+      "title": "Apple Will Pay $250 Million to Settle Lawsuit Over Siri’s AI Features",
       "summary": "If you bought an iPhone 15 or 16 in the US, you could be set to pocket up to $95 per device as part of the settlement.",
       "imageUrl": "https://media.wired.com/photos/69fb0b751edc0624d26eda73/master/pass/GettyImages-2260718787.jpg",
       "source": "Wired",
@@ -102,10 +165,10 @@
       "publishedAt": "2026-05-06T06:47:12.000Z"
     },
     {
-      "id": "jn299n",
-      "title": "Marc Lore says that AI will soon enable anyone open a restaurant",
+      "id": "y2xm00",
+      "title": "Marc Lore says that AI will soon enable anyone to open a restaurant",
       "summary": "Wonder wants to turn its robotic kitchens into AI-powered “restaurant factories,” letting anyone spin up a virtual food brand with a prompt.",
-      "imageUrl": "https://images.unsplash.com/photo-1676299081847-824916de030a?w=800&q=80",
+      "imageUrl": "https://images.unsplash.com/photo-1485827404703-89b55fcc595e?w=800&q=80",
       "source": "TechCrunch",
       "sourceUrl": "https://techcrunch.com/2026/05/05/marc-lore-says-that-ai-will-soon-enable-anyone-open-a-restaurant/",
       "publishedAt": "2026-05-06T06:34:32.000Z"
@@ -210,24 +273,6 @@
       "publishedAt": "2026-05-05T17:46:10.000Z"
     },
     {
-      "id": "rfngrl",
-      "title": "Live updates from Elon Musk and Sam Altman’s court battle over the future of OpenAI",
-      "summary": "Sam Altman and Elon Musk are facing off in a high-stakes trial that could alter the future of OpenAI and its most well-known product, ChatGPT. In 2024, Musk filed a lawsuit accusing OpenAI of abandoning its founding mission of developing AI to benefit humanity and shifting focus to boosting profits instead. Elon Musk took the stand on April 28th as the first witness called, portraying his interest in founding OpenAI as an effort to help save humanity across three days of testimony, before his…",
-      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/04/268474_musk_vs_altman_CVirginia.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "source": "The Verge",
-      "sourceUrl": "https://www.theverge.com/tech/917225/sam-altman-elon-musk-openai-lawsuit",
-      "publishedAt": "2026-05-05T17:28:52.000Z"
-    },
-    {
-      "id": "1in7u6",
-      "title": "OpenAI releases GPT-5.5 Instant, a new default model for ChatGPT",
-      "summary": "The company said the model reduces hallucination in sensitive areas such as law, medicine, and finance, while maintaining the low latency of its predecessor.",
-      "imageUrl": "https://images.unsplash.com/photo-1676299081847-824916de030a?w=800&q=80",
-      "source": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/05/05/openai-releases-gpt-5-5-instant-a-new-default-model-for-chatgpt/",
-      "publishedAt": "2026-05-05T17:00:00.000Z"
-    },
-    {
       "id": "cnyl92",
       "title": "OpenAI claims ChatGPT’s new default model hallucinates way less",
       "summary": "OpenAI's newest default model for ChatGPT might not make stuff up as much. Hallucinations have been an ongoing problem for AI models, but OpenAI says its new GPT-5.5 Instant model has \"significant improvements in factuality across the board.\" The company claims that, based on \"internal evaluations,\" GPT-5.5 Instant produced \"52.5% fewer hallucinated claims\" than its Instant model for GPT-5.3 \"on high-stakes prompts covering areas like medicine, law, and finance.\" GPT-5.5 Instant also \"reduced…",
@@ -244,42 +289,6 @@
       "source": "The Verge",
       "sourceUrl": "https://www.theverge.com/tech/924230/meta-publishers-lawsuit-ai-copyright",
       "publishedAt": "2026-05-05T16:52:38.000Z"
-    },
-    {
-      "id": "6u3tpe",
-      "title": "PayPal says it’s ‘becoming a technology company again’ — that means AI",
-      "summary": "PayPal is pitching an AI-led turnaround, tying automation and restructuring to $1.5 billion in savings as it cuts jobs and works to modernize its tech stack.",
-      "imageUrl": "https://images.unsplash.com/photo-1526374965328-7f61d4dc18c5?w=800&q=80",
-      "source": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/05/05/paypal-says-its-becoming-a-technology-company-again-that-means-ai/",
-      "publishedAt": "2026-05-05T15:49:55.000Z"
-    },
-    {
-      "id": "cbpybb",
-      "title": "Etsy launches its app within ChatGPT as it continues its AI push",
-      "summary": "Etsy's new native app within ChatGPT aims to be a conversational shopping experience for users.",
-      "imageUrl": "https://images.unsplash.com/photo-1676299081847-824916de030a?w=800&q=80",
-      "source": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/05/05/etsy-launches-its-app-within-chatgpt-as-it-continues-its-ai-push/",
-      "publishedAt": "2026-05-05T15:31:37.000Z"
-    },
-    {
-      "id": "4e7ml7",
-      "title": "Meta will use AI to analyze height and bone structure to identify if users are underage",
-      "summary": "The visual analysis system is now operating in select countries, but Meta says it's working toward a broader rollout.",
-      "imageUrl": "https://images.unsplash.com/photo-1550751827-4bd374c3f58b?w=800&q=80",
-      "source": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/05/05/meta-will-use-ai-to-analyze-height-and-bone-structure-to-identify-if-users-are-underage/",
-      "publishedAt": "2026-05-05T14:27:00.000Z"
-    },
-    {
-      "id": "upn0is",
-      "title": "ElevenLabs lists BlackRock, Jamie Foxx, and Eva Longoria as new investors",
-      "summary": "ElevenLabs reveals new investors, hits $500M ARR, and expands enterprise footprint as voice AI becomes a critical interface.",
-      "imageUrl": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=800&q=80",
-      "source": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/05/05/elevenlabs-lists-blackrock-jamie-foxx-and-eva-longoria-as-new-investors/",
-      "publishedAt": "2026-05-05T14:20:50.000Z"
     },
     {
       "id": "9fcedy",
@@ -442,15 +451,6 @@
       "source": "Wired",
       "sourceUrl": "https://www.wired.com/story/model-behavior-why-everything-in-musk-v-altman-leads-back-to-shivon-zelis/",
       "publishedAt": "2026-05-01T00:51:18.000Z"
-    },
-    {
-      "id": "jhz6bu",
-      "title": "Good Luck Getting a Mac Mini for the Next ‘Several Months’",
-      "summary": "Apple CEO Tim Cook told analysts that AI adoption has happened faster than expected.",
-      "imageUrl": "https://media.wired.com/photos/69f3d1f6fd3259b38c3421e7/master/pass/You-Bought-All-MacMinis-Business.jpg",
-      "source": "Wired",
-      "sourceUrl": "https://www.wired.com/story/apple-sold-out-mac-mini-openclaw/",
-      "publishedAt": "2026-04-30T23:00:51.000Z"
     },
     {
       "id": "h5ca51",
