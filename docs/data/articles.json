@@ -1,11 +1,65 @@
 {
-  "fetchedAt": "2026-05-06T11:55:33.170Z",
+  "fetchedAt": "2026-05-06T14:35:43.172Z",
   "count": 60,
   "articles": [
     {
+      "id": "x3cn57",
+      "title": "At TechCrunch Disrupt 2026, all your M&A questions will be answered",
+      "summary": "Leaders from Coinbase, M13, and Mignano Law Group talk about how M&A is an early-stage strategy at TechCrunch Disrupt 2026. Register to hear this live.",
+      "imageUrl": "https://images.unsplash.com/photo-1676299081847-824916de030a?w=800&q=80",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/05/06/at-techcrunch-disrupt-2026-all-your-ma-questions-will-be-answered/",
+      "publishedAt": "2026-05-06T14:30:00.000Z"
+    },
+    {
+      "id": "2f3b38",
+      "title": "3 days left to lock in 50% off a second ticket to TechCrunch Disrupt 2026",
+      "summary": "Three days left to lock in 50% off a second ticket to Disrupt 2026. Buy one TechCrunch Disrupt 2026 ticket, and get a second ticket at 50% off. Gain more visibility in the tech industry. Offer ends May 8 at 11:59 p.m. PT.",
+      "imageUrl": "https://images.unsplash.com/photo-1485827404703-89b55fcc595e?w=800&q=80",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/05/06/3-days-left-to-lock-in-50-off-a-second-ticket-to-techcrunch-disrupt-2026/",
+      "publishedAt": "2026-05-06T14:00:00.000Z"
+    },
+    {
+      "id": "kls4q8",
+      "title": "AI boom pushes Samsung to $1T",
+      "summary": "Samsung crossed the $1 trillion valuation mark after shares surged on AI-driven chip demand, making it only the second Asian company after TSMC to hit the milestone.",
+      "imageUrl": "https://images.unsplash.com/photo-1655720828018-edd2daec9349?w=800&q=80",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/05/06/ai-boom-pushes-samsung-to-1t/",
+      "publishedAt": "2026-05-06T13:54:09.000Z"
+    },
+    {
+      "id": "nci0sv",
+      "title": "Ars Asks: Share your shell and show us your tricked-out terminals!",
+      "summary": "A celebration of the tweaks and customizations that make life easier at the CLI.",
+      "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2026/04/terminal-hotness-1152x648.jpg",
+      "source": "Ars Technica",
+      "sourceUrl": "https://arstechnica.com/information-technology/2026/05/ars-asks-share-your-shell-and-show-us-your-tricked-out-terminals/",
+      "publishedAt": "2026-05-06T13:32:47.000Z"
+    },
+    {
+      "id": "cfkycy",
+      "title": "Google’s AI search summaries will now quote Reddit",
+      "summary": "Want real human feedback related to your search results? Google’s AI now fetches it for you. | Image by Google / The Verge Google is updating its AI Search features to make it easier for users to find information from sources they know and trust. One of the more notable changes introduces \"a preview of perspectives\" from firsthand sources like social media, Reddit, and other web forums, effectively linking your search queries with online conversations around similar topics. Google says this…",
+      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/05/Google-AI-Search-updates-Reddit-linking.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "source": "The Verge",
+      "sourceUrl": "https://www.theverge.com/tech/924993/google-ai-search-mode-overviews-update-reddit-links",
+      "publishedAt": "2026-05-06T13:00:30.000Z"
+    },
+    {
+      "id": "wdgxfh",
+      "title": "The Download: seafloor science and military chatbots",
+      "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. Inexpensive seafloor-hopping submersibles could stoke deep-sea science—and mining Last week, two oblong neon submersibles started to descend nearly 6,000 meters into the Pacific Ocean. Throughout the rest of May, they will…",
+      "imageUrl": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=800&q=80",
+      "source": "MIT Tech Review",
+      "sourceUrl": "https://www.technologyreview.com/2026/05/06/1136917/the-download-seafloor-science-military-ai-chatbots/",
+      "publishedAt": "2026-05-06T12:10:00.000Z"
+    },
+    {
       "id": "cwteco",
       "title": "Microsoft’s Office and LinkedIn chief now runs Teams in latest reshuffle",
-      "summary": "Microsoft's LinkedIn CEO, Ryan Roslansky, took on an expanded role at the company as head of Office last year, and he's now getting more responsibilities as part of the latest leadership reshuffle inside Microsoft. Sources tell me that the Microsoft Teams organization is moving to report to Roslansky, who will now lead a new Work Experiences Group at Microsoft. The changes are part of a broader reshuffle triggered by Rajesh Jha, executive vice president of Microsoft's experiences and devices…",
+      "summary": "Microsoft's LinkedIn chief, Ryan Roslansky, took on an expanded role at the company as head of Office last year, and he's now getting more responsibilities as part of the latest leadership reshuffle inside Microsoft. Sources tell me that the Microsoft Teams organization is moving to report to Roslansky, who will now lead a new Work Experiences Group at Microsoft. The changes, which come a week after Roslansky named a new CEO of LinkedIn, are part of a broader reshuffle triggered by Rajesh Jha,…",
       "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25832915/STK095_MICROSOFT_2_CVirginia_D.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
       "source": "The Verge",
       "sourceUrl": "https://www.theverge.com/tech/924931/microsoft-office-copilot-windows-reorg-shuffle",
@@ -41,7 +95,7 @@
     {
       "id": "qnxf9f",
       "title": "Peter Sarlin’s QuTwo reaches $380M valuation in angel round",
-      "summary": "QyTw0, the Finnish AI lab founded by former AMD Silo AI CEO Peter Sarlin, is now valued at €325 million (approximately $380 million) after raising a €25 million angel round ($29 million). It's a sign of enduring tailwinds for AI, quantum computing, and sovereign tech, especially for Europe-made companies.",
+      "summary": "QuTwo, the Finnish AI lab founded by former AMD Silo AI CEO Peter Sarlin, is now valued at €325 million (approximately $380 million) after raising a €25 million angel round ($29 million). It's a sign of enduring tailwinds for AI, quantum computing, and sovereign tech, especially for Europe-made companies.",
       "imageUrl": "https://images.unsplash.com/photo-1620712943543-bcc4688e7485?w=800&q=80",
       "source": "TechCrunch",
       "sourceUrl": "https://techcrunch.com/2026/05/05/peter-sarlins-qutwo-reaches-380m-valuation-in-angel-round/",
@@ -210,15 +264,6 @@
       "publishedAt": "2026-05-05T15:31:37.000Z"
     },
     {
-      "id": "1y6wda",
-      "title": "OpenAI is reportedly launching a phone for ChatGPT",
-      "summary": "OpenAI's first hardware product might be a phone instead of a mysterious Jony Ive gadget. As reported by MacRumors, supply chain analyst Ming-Chi Kuo shared details about the rumored phone, claiming OpenAI is \"fast-tracking\" it and aiming to start mass production in early 2027. According to Kuo, the phone will run on a \"customized version of the [MediaTek] Dimensity 9600,\" which is expected to launch this fall and follow up the Dimensity 9500 currently powering phones like the Vivo X300 Pro and…",
-      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/04/STK155_OPEN_AI_CVirginia_C.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "source": "The Verge",
-      "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/924063/openai-phone-rumors-2027-ming-chi-kuo",
-      "publishedAt": "2026-05-05T14:54:00.000Z"
-    },
-    {
       "id": "4e7ml7",
       "title": "Meta will use AI to analyze height and bone structure to identify if users are underage",
       "summary": "The visual analysis system is now operating in select countries, but Meta says it's working toward a broader rollout.",
@@ -235,33 +280,6 @@
       "source": "TechCrunch",
       "sourceUrl": "https://techcrunch.com/2026/05/05/elevenlabs-lists-blackrock-jamie-foxx-and-eva-longoria-as-new-investors/",
       "publishedAt": "2026-05-05T14:20:50.000Z"
-    },
-    {
-      "id": "23h09j",
-      "title": "CopilotKit raises $27M to help devs deploy app-native AI agents",
-      "summary": "The Seattle-based startup's Series A round was led by Glilot Capital, NFX, and SignalFire, TechCrunch has exclusively learned.",
-      "imageUrl": "https://images.unsplash.com/photo-1620712943543-bcc4688e7485?w=800&q=80",
-      "source": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/05/05/copilotkit-raises-27m-to-help-devs-deploy-app-native-ai-agents/",
-      "publishedAt": "2026-05-05T14:07:47.000Z"
-    },
-    {
-      "id": "7ybs7l",
-      "title": "4 days left: Get 50% off a second TechCrunch Disrupt 2026 pass to make more deals faster",
-      "summary": "For the next four days only, you can buy one pass to TechCrunch Disrupt 2026 and get 50% off a second of the same ticket type. That window closes May 8 at 11:59 p.m. PT. After that, prices go up, and you’ll pay more to bring a partner or colleague. Register today to get your plus-one pass at 50% off.",
-      "imageUrl": "https://images.unsplash.com/photo-1655720828018-edd2daec9349?w=800&q=80",
-      "source": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/05/05/4-days-left-get-50-off-a-second-techcrunch-disrupt-2026-pass-to-make-more-deals-faster/",
-      "publishedAt": "2026-05-05T14:00:00.000Z"
-    },
-    {
-      "id": "afdm3k",
-      "title": "India’s first GenAI unicorn shifts to cloud services as AI model ambitions face reality",
-      "summary": "Krutrim's pivot to cloud after layoffs and limited product updates reflects the economic challenges of building AI models in India.",
-      "imageUrl": "https://images.unsplash.com/photo-1635070041078-e363dbe005cb?w=800&q=80",
-      "source": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/05/05/indias-first-genai-unicorn-shifts-to-cloud-services-as-ai-model-ambitions-face-reality/",
-      "publishedAt": "2026-05-05T13:18:50.000Z"
     },
     {
       "id": "9fcedy",
@@ -417,15 +435,6 @@
       "publishedAt": "2026-05-01T10:00:00.000Z"
     },
     {
-      "id": "96geg3",
-      "title": "Trump’s mass firing just dealt another blow to American science",
-      "summary": "This past week delivered another gut punch for science in the US. This time, the target was the National Science Foundation—a federal agency that funds major research projects to the tune of around $9 billion. The foundation’s efforts were overseen by a board of 22 prominent scientists. On Friday last week, they were all fired.…",
-      "imageUrl": "https://images.unsplash.com/photo-1655720828018-edd2daec9349?w=800&q=80",
-      "source": "MIT Tech Review",
-      "sourceUrl": "https://www.technologyreview.com/2026/05/01/1136722/mass-firing-trump-fresh-blow-american-science-nsf-nsb/",
-      "publishedAt": "2026-05-01T09:00:00.000Z"
-    },
-    {
       "id": "p41vyr",
       "title": "How Shivon Zilis Operated as Elon Musk’s OpenAI Insider",
       "summary": "Messages presented at trial reveal how Zilis, the mother of four of Musk’s children, acted as an intermediary between him and OpenAI.",
@@ -532,15 +541,6 @@
       "source": "Ars Technica",
       "sourceUrl": "https://arstechnica.com/information-technology/2026/04/nutanix-claims-it-has-poached-30000-vmware-customers/",
       "publishedAt": "2026-04-09T19:44:31.000Z"
-    },
-    {
-      "id": "tek926",
-      "title": "Iran-linked hackers disrupt operations at US critical infrastructure sites",
-      "summary": "As the US and Israel's war has ramped up, so too have hacks on US industrial sites.",
-      "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2026/03/iranhax-1152x648.jpg",
-      "source": "Ars Technica",
-      "sourceUrl": "https://arstechnica.com/security/2026/04/iran-linked-hackers-disrupt-operations-at-us-critical-infrastructure-sites/",
-      "publishedAt": "2026-04-08T20:49:11.000Z"
     }
   ]
 }
