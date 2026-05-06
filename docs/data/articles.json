@@ -1,15 +1,105 @@
 {
-  "fetchedAt": "2026-05-05T16:47:25.152Z",
+  "fetchedAt": "2026-05-05T23:56:26.871Z",
   "count": 60,
   "articles": [
     {
-      "id": "5r45oy",
-      "title": "PayPal says it’s ‘becoming a technology company again.’ That means AI.",
-      "summary": "PayPal is pitching an AI-led turnaround, tying automation and restructuring to $1.5B in savings as it cuts jobs and works to modernize its tech stack.",
-      "imageUrl": "https://images.unsplash.com/photo-1635070041078-e363dbe005cb?w=800&q=80",
+      "id": "8bfgg3",
+      "title": "SAP bets $1.16B on 18-month-old German AI lab and says yes to NemoClaw",
+      "summary": "SAP plans to buy German AI startup Prior Labs and invest heavily in it. It is also prohibiting customers' agents use to a select few like Nvidia's NemoClaw.",
+      "imageUrl": "https://images.unsplash.com/photo-1655720828018-edd2daec9349?w=800&q=80",
       "source": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/05/05/paypal-says-its-becoming-a-technology-company-again-that-means-ai/",
-      "publishedAt": "2026-05-05T15:49:55.000Z"
+      "sourceUrl": "https://techcrunch.com/2026/05/05/sap-bets-1-16b-on-18-month-old-german-ai-lab-and-says-yes-to-nemoclaw/",
+      "publishedAt": "2026-05-05T23:50:10.000Z"
+    },
+    {
+      "id": "kza2zj",
+      "title": "‘I Actually Thought He Was Going to Hit Me,’ OpenAI’s Greg Brockman Says of Elon Musk",
+      "summary": "OpenAI’s president wrapped his testimony on Tuesday by revealing a fiery meeting with Musk and subsequent efforts to remove several board members.",
+      "imageUrl": "https://media.wired.com/photos/69fa6b743e5215ee65d816ac/master/pass/Model-Behavior-Why-Everything-in-Musk-v-Altman-Greg-Brockmamn-Testimony-Business-2273123629.jpg",
+      "source": "Wired",
+      "sourceUrl": "https://www.wired.com/story/greg-brockman-testifies-elon-musk-fight-trial/",
+      "publishedAt": "2026-05-05T23:24:58.000Z"
+    },
+    {
+      "id": "k4aulh",
+      "title": "Altara secures $7M to bridge the data gap that’s slowing down physical sciences",
+      "summary": "Altara’s AI aims to diagnose failures and help speed up R&D by unifying data siloed across spreadsheets and legacy systems.",
+      "imageUrl": "https://images.unsplash.com/photo-1676299081847-824916de030a?w=800&q=80",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/05/05/altara-secures-7m-to-bridge-the-data-gap-thats-slowing-down-physical-sciences/",
+      "publishedAt": "2026-05-05T22:57:41.000Z"
+    },
+    {
+      "id": "81wr43",
+      "title": "Google Home’s Gemini AI can handle more complicated requests",
+      "summary": "Google Home users can now ask Gemini to complete more complex, multi-step tasks and combine multiple tasks in a single command. Google has updated Gemini for Home to Gemini 3.1, which it says will improve the smart home assistant's ability to interpret and act on requests. The upgrade will also make Gemini for Home better at handling recurring and all-day events and allow users to \"move around\" upcoming events. Last month, Google also updated Gemini for Home with improvements for understanding…",
+      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/23028907/dseifert_20210323_4485_0004.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "source": "The Verge",
+      "sourceUrl": "https://www.theverge.com/tech/924755/google-home-gemini-3-1-upgrade",
+      "publishedAt": "2026-05-05T21:46:04.000Z"
+    },
+    {
+      "id": "e26yjm",
+      "title": "Apple agrees to pay iPhone owners $250 million for not delivering AI Siri",
+      "summary": "Apple has agreed to pay $250 million to settle a class action lawsuit that accused it of misleading customers about the availability of its Apple Intelligence features. The proposed settlement would apply to people in the US who purchased all models of the iPhone 16 and the iPhone 15 Pro between June 10th, 2024 and March 29th, 2025. People who submit qualifying claims can receive $25 for each eligible device, \"which may decrease or increase up to $95 per device, depending on claim volume and…",
+      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25697397/STK071_APPLE_N.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "source": "The Verge",
+      "sourceUrl": "https://www.theverge.com/tech/924706/apple-iphone-siri-intelligence-class-action-lawsuit-settlement",
+      "publishedAt": "2026-05-05T21:18:23.000Z"
+    },
+    {
+      "id": "4930sl",
+      "title": "Apple plans to make iOS 27 a Choose Your Own Adventure of AI models",
+      "summary": "With Apple's latest operating system updates, users will reportedly have their pick of which third-party AI models they want to use for a host of tasks.",
+      "imageUrl": "https://images.unsplash.com/photo-1550751827-4bd374c3f58b?w=800&q=80",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/05/05/apple-plans-to-make-ios-27-a-choose-your-own-adventure-of-ai-models/",
+      "publishedAt": "2026-05-05T20:56:41.000Z"
+    },
+    {
+      "id": "ie4pm",
+      "title": "ASML CEO Christophe Fouquet on his company’s monopoly: no one is coming for us",
+      "summary": "Christophe Fouquet, who became ASML's CEO in 2024 after more than a decade at the company, sat down with this editor on the rooftop deck of his Beverly Hills hotel Tuesday morning ahead of his appearance at the Milken Institute Global Conference. Dressed in a blue suit and white shirt, he was relaxed — even when the conversation turned to the rivals.",
+      "imageUrl": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=800&q=80",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/05/05/asml-ceo-christophe-fouquet-no-one-is-coming-for-us/",
+      "publishedAt": "2026-05-05T20:06:40.000Z"
+    },
+    {
+      "id": "3lqt9r",
+      "title": "Microsoft gives up on Xbox Copilot AI",
+      "summary": "Xbox is \"winding down Copilot on mobile\" and \"will stop development of Copilot on console,\" new Xbox CEO Asha Sharma announced on Tuesday. The move follows Sharma's reorganization of the Xbox platform team earlier on Tuesday, which added executives from Microsoft's CoreAI team - where Sharma worked before taking over Xbox - to the Xbox side of the company. Sharma, on X: Xbox needs to move faster, deepen our connection with the community, and address friction for both players and developers.…",
+      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/05/01_Wire-Hero-1920x1080-1-0b305b4a9ace7898196b.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "source": "The Verge",
+      "sourceUrl": "https://www.theverge.com/games/924551/microsoft-xbox-ceo-copilot-ai-asha-sharma",
+      "publishedAt": "2026-05-05T19:54:37.000Z"
+    },
+    {
+      "id": "k35nqd",
+      "title": "Widely used Daemon Tools disk app backdoored in monthlong supply-chain attack",
+      "summary": "Daemon Tools users: It's time to check your machines for stealthy infections, stat.",
+      "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2022/08/GettyImages-1230467668-1152x648.jpg",
+      "source": "Ars Technica",
+      "sourceUrl": "https://arstechnica.com/security/2026/05/widely-used-daemon-tools-disk-app-backdoored-in-monthlong-supply-chain-attack/",
+      "publishedAt": "2026-05-05T19:46:15.000Z"
+    },
+    {
+      "id": "y2f83j",
+      "title": "Apple could let you pick a favorite AI model in iOS 27",
+      "summary": "The next update to Apple's operating systems could allow users to choose their preferred AI model for running Apple Intelligence. According to Bloomberg's Mark Gurman, Apple is planning to allow third-party chatbots to power its AI features system-wide in iOS 27, iPadOS 27, and macOS 27, all expected for this fall. In addition to running Siri, compatible third-party AI models, called \"Extensions,\" will also now be able to run other Apple Intelligence features like Writing Tools and Image…",
+      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/02/DSC_2327.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "source": "The Verge",
+      "sourceUrl": "https://www.theverge.com/tech/924515/apple-intelligence-third-party-chatbot-extensions-ios-27",
+      "publishedAt": "2026-05-05T19:45:30.000Z"
+    },
+    {
+      "id": "apo9z5",
+      "title": "Pennsylvania sues Character.AI after a chatbot allegedly posed as a doctor",
+      "summary": "According to Pennsylvania's filing, a Character.AI chatbot presented itself as a licensed psychiatrist during a state investigation, and also fabricated a serial number for its state medical license.",
+      "imageUrl": "https://images.unsplash.com/photo-1485827404703-89b55fcc595e?w=800&q=80",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/05/05/pennsylvania-sues-character-ai-after-a-chatbot-allegedly-posed-as-a-doctor/",
+      "publishedAt": "2026-05-05T17:46:10.000Z"
     },
     {
       "id": "rfngrl",
@@ -18,7 +108,43 @@
       "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/04/268474_musk_vs_altman_CVirginia.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
       "source": "The Verge",
       "sourceUrl": "https://www.theverge.com/tech/917225/sam-altman-elon-musk-openai-lawsuit",
-      "publishedAt": "2026-05-05T15:35:00.000Z"
+      "publishedAt": "2026-05-05T17:28:52.000Z"
+    },
+    {
+      "id": "1in7u6",
+      "title": "OpenAI releases GPT-5.5 Instant, a new default model for ChatGPT",
+      "summary": "The company said the model reduces hallucination in sensitive areas such as law, medicine, and finance, while maintaining the low latency of its predecessor.",
+      "imageUrl": "https://images.unsplash.com/photo-1676299081847-824916de030a?w=800&q=80",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/05/05/openai-releases-gpt-5-5-instant-a-new-default-model-for-chatgpt/",
+      "publishedAt": "2026-05-05T17:00:00.000Z"
+    },
+    {
+      "id": "cnyl92",
+      "title": "OpenAI claims ChatGPT’s new default model hallucinates way less",
+      "summary": "OpenAI's newest default model for ChatGPT might not make stuff up as much. Hallucinations have been an ongoing problem for AI models, but OpenAI says its new GPT-5.5 Instant model has \"significant improvements in factuality across the board.\" The company claims that, based on \"internal evaluations,\" GPT-5.5 Instant produced \"52.5% fewer hallucinated claims\" than its Instant model for GPT-5.3 \"on high-stakes prompts covering areas like medicine, law, and finance.\" GPT-5.5 Instant also \"reduced…",
+      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/02/STK155_OPEN_AI_4_CVirginia_A.png?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "source": "The Verge",
+      "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/924225/openai-chatgpt-default-model-gpt-5-5-instant",
+      "publishedAt": "2026-05-05T17:00:00.000Z"
+    },
+    {
+      "id": "murcbr",
+      "title": "Book publishers sue Meta over AI’s ‘word-for-word’ copying",
+      "summary": "Meta is facing a class action lawsuit filed by five major book publishers and one author over claims the company \"engaged in one of the most massive infringements of copyrighted materials in history\" when training its Llama AI models, as reported earlier by The New York Times. In their suit, Macmillan, McGraw Hill, Elsevier, Hachette, Cengage, and author Scott Turow allege that Meta \"repeatedly copied\" their books and journal articles without permission. The lawsuit accuses Meta of knowingly…",
+      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25546027/STK043_META_CVIRGINIA_D.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "source": "The Verge",
+      "sourceUrl": "https://www.theverge.com/tech/924230/meta-publishers-lawsuit-ai-copyright",
+      "publishedAt": "2026-05-05T16:52:38.000Z"
+    },
+    {
+      "id": "6u3tpe",
+      "title": "PayPal says it’s ‘becoming a technology company again’ — that means AI",
+      "summary": "PayPal is pitching an AI-led turnaround, tying automation and restructuring to $1.5 billion in savings as it cuts jobs and works to modernize its tech stack.",
+      "imageUrl": "https://images.unsplash.com/photo-1526374965328-7f61d4dc18c5?w=800&q=80",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/05/05/paypal-says-its-becoming-a-technology-company-again-that-means-ai/",
+      "publishedAt": "2026-05-05T15:49:55.000Z"
     },
     {
       "id": "cbpybb",
@@ -57,10 +183,10 @@
       "publishedAt": "2026-05-05T14:26:59.000Z"
     },
     {
-      "id": "m40efu",
-      "title": "ElevenLabs lists BlackRock, Jamie Foxx and Eva Longoria as new investors",
-      "summary": "4. ElevenLabs reveals new investors, hits $500M ARR, and expands enterprise footprint as voice AI becomes a critical interface.",
-      "imageUrl": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=800&q=80",
+      "id": "upn0is",
+      "title": "ElevenLabs lists BlackRock, Jamie Foxx, and Eva Longoria as new investors",
+      "summary": "ElevenLabs reveals new investors, hits $500M ARR, and expands enterprise footprint as voice AI becomes a critical interface.",
+      "imageUrl": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=800&q=80",
       "source": "TechCrunch",
       "sourceUrl": "https://techcrunch.com/2026/05/05/elevenlabs-lists-blackrock-jamie-foxx-and-eva-longoria-as-new-investors/",
       "publishedAt": "2026-05-05T14:20:50.000Z"
@@ -102,24 +228,6 @@
       "publishedAt": "2026-05-05T13:18:50.000Z"
     },
     {
-      "id": "kpac0g",
-      "title": "Researchers gaslit Claude into giving instructions to build explosives",
-      "summary": "Anthropic has spent years building itself up as the safe AI company. But new security research shared with The Verge suggests Claude's carefully crafted helpful personality may itself be a vulnerability. Researchers at AI red-teaming company Mindgard say they got Claude to offer up erotica, malicious code, and instructions for building explosives, and other prohibited material they hadn't even asked for. All it took was respect, flattery, and a little bit of gaslighting. Anthropic did not…",
-      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/01/STKB364_CLAUDE_2_A_7d58b5.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "source": "The Verge",
-      "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/923961/security-researchers-mindgard-gaslit-claude-forbidden-information",
-      "publishedAt": "2026-05-05T13:13:08.000Z"
-    },
-    {
-      "id": "jy1vkj",
-      "title": "Google’s AI architect lived rent-free in Elon Musk’s head",
-      "summary": "About a week into the Musk v. Altman trial, we've heard from some of the most powerful people in tech - including OpenAI president Greg Brockman, Elon Musk's fixer Jared Birchall, and Musk himself. But one of the most prominent characters is hovering around the margins: Demis Hassabis, CEO of Google DeepMind. Hassabis is the architect of Google's in-house AI lab. He founded DeepMind as an independent startup in 2010 and sold it to Google four years later, reportedly for between $400-650 million.…",
-      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25740107/2177656484.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "source": "The Verge",
-      "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/923518/musk-altman-trial-openai-demis-hassabis-google-deepmind",
-      "publishedAt": "2026-05-05T13:11:58.000Z"
-    },
-    {
       "id": "9fcedy",
       "title": "The Download: inside the Musk v. Altman trial, and AI for democracy",
       "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. Week one of the Musk v. Altman trial: what it was like in the room Two of the most powerful figures in AI—Sam Altman and Elon Musk—are in the middle of…",
@@ -145,15 +253,6 @@
       "source": "Ars Technica",
       "sourceUrl": "https://arstechnica.com/information-technology/2026/05/why-reddit-blocked-my-daily-visit-to-its-mobile-website/",
       "publishedAt": "2026-05-05T11:20:08.000Z"
-    },
-    {
-      "id": "oxh2z8",
-      "title": "Google DeepMind workers are unionizing over AI military contracts",
-      "summary": "Staffers at Google DeepMind's headquarters have voted to unionize in an effort to prevent the AI firm's technology from being used by Israel and the US military. In a letter to Google management on Tuesday, employees requested that the Communication Workers Union (CWU) and Unite the Union be recognized as joint representatives, with 98 percent of CWU members at DeepMind voting in support of the move. \"We don't want our AI models complicit in violations of international law, but they already are…",
-      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/06/STKS515_CYBER_WARFARE_D.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "source": "The Verge",
-      "sourceUrl": "https://www.theverge.com/tech/923918/google-deepmind-union-bid-ai-military-israel",
-      "publishedAt": "2026-05-05T10:08:33.000Z"
     },
     {
       "id": "dyipxj",
@@ -183,15 +282,6 @@
       "publishedAt": "2026-05-05T03:31:54.000Z"
     },
     {
-      "id": "mxisi2",
-      "title": "OpenAI’s president does ‘all the things,’ except answer a question",
-      "summary": "When the bromance sours, we all end up in court. | Image: Cath Virginia / The Verge, Getty Images The strongest witness for Elon Musk's case against OpenAI so far has been Greg Brockman's journal. Brockman himself is running as a close second. Brockman was called to the stand in a rather unusual way - he was cross-examined first, followed by a direct examination - and he had some serious high school debate club energy. There was a lot of \"I wouldn't characterize it that way,\" \"I wouldn't say it…",
-      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/04/268474_musk_vs_altman_CVirginia3.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "source": "The Verge",
-      "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/923684/musk-brockman-altman-openai-trial",
-      "publishedAt": "2026-05-04T23:49:33.000Z"
-    },
-    {
       "id": "jsnwbo",
       "title": "Greg Brockman Defends $30B OpenAI Stake: ‘Blood, Sweat, and Tears’",
       "summary": "OpenAI’s cofounder and president revealed in federal court on Monday that he’s one of the largest individual stakeholders in the AI lab.",
@@ -210,15 +300,6 @@
       "publishedAt": "2026-05-04T21:53:21.000Z"
     },
     {
-      "id": "2yzzja",
-      "title": "Image AI models now drive app growth, beating chatbot upgrades",
-      "summary": "Appfigures finds visual model launches generate 6.5x more downloads — but most don’t convert that spike into revenue.",
-      "imageUrl": "https://images.unsplash.com/photo-1550751827-4bd374c3f58b?w=800&q=80",
-      "source": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/05/04/image-ai-models-now-drive-app-growth-beating-chatbot-upgrades/",
-      "publishedAt": "2026-05-04T19:12:49.000Z"
-    },
-    {
       "id": "xo3s4q",
       "title": "GameStop offers $56 billion for eBay, struggles to explain how it'll pay for it",
       "summary": "Amid falling revenue and store closures, GameStop wants to buy the much larger eBay.",
@@ -226,51 +307,6 @@
       "source": "Ars Technica",
       "sourceUrl": "https://arstechnica.com/tech-policy/2026/05/gamestop-offers-56-billion-for-ebay-struggles-to-explain-how-itll-pay-for-it/",
       "publishedAt": "2026-05-04T17:57:46.000Z"
-    },
-    {
-      "id": "lcbbsn",
-      "title": "Elon Musk’s only AI expert witness at the OpenAI trial fears an AGI arms race",
-      "summary": "Stuart Russell is a long-time AI researcher who thinks governments need to restrain frontier labs.",
-      "imageUrl": "https://images.unsplash.com/photo-1676299081847-824916de030a?w=800&q=80",
-      "source": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/05/04/elon-musks-only-expert-witness-at-the-openai-trial-fears-an-agi-arms-race/",
-      "publishedAt": "2026-05-04T16:57:47.000Z"
-    },
-    {
-      "id": "suf90f",
-      "title": "The creator of Roomba is back with a furry robot companion",
-      "summary": "The first “Familiar” from Colin Angle’s new startup, Familiar Machines & Magic, is a robot that is designed to live in your home and interact autonomously with family members. | Image: Familiar Machines and Magic Colin Angle, the maker of the Roomba and the man who helped put 50 million household robots into people's homes, is back with a new robot. But this one is designed as a companion, not a cleaner. The first robot from Angle's new company, Familiar Machines & Magic, is a dog-sized robotic…",
-      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/05/Golden.png?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "source": "The Verge",
-      "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/922947/roomba-creator-new-robot-familiar-machines-magic-ai-launch",
-      "publishedAt": "2026-05-04T16:51:38.000Z"
-    },
-    {
-      "id": "tbf8xm",
-      "title": "Sierra raises $950M as the race to own enterprise AI gets serious",
-      "summary": "The raise gives Sierra more than $1 billion to work with — capital the company says it will use to become the \"global standard\" for AI-powered customer experiences.",
-      "imageUrl": "https://images.unsplash.com/photo-1531746790095-6c10a4031c5f?w=800&q=80",
-      "source": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/05/04/sierra-raises-950m-as-the-race-to-own-enterprise-ai-gets-serious/",
-      "publishedAt": "2026-05-04T16:45:55.000Z"
-    },
-    {
-      "id": "r15s7l",
-      "title": "Elon Musk sent ominous texts to Greg Brockman, Sam Altman after asking for a settlement, OpenAI claims",
-      "summary": "Musk texted OpenAI's president and co-founder saying that he and CEO Sam Altman \"will be the most hated men in America\" if OpenAI doesn't settle the suit.",
-      "imageUrl": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=800&q=80",
-      "source": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/05/04/elon-musk-sent-ominous-texts-to-greg-brockman-sam-altman-after-asking-for-a-settlement-openai-claims/",
-      "publishedAt": "2026-05-04T16:36:03.000Z"
-    },
-    {
-      "id": "sobw9s",
-      "title": "Anthropic and OpenAI are both launching joint ventures for enterprise AI services",
-      "summary": "Both Anthropic and OpenAI have partnered with asset managers to more aggressively market their enterprise AI products.",
-      "imageUrl": "https://images.unsplash.com/photo-1550751827-4bd374c3f58b?w=800&q=80",
-      "source": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/05/04/anthropic-and-openai-are-both-launching-joint-ventures-for-enterprise-ai-services/",
-      "publishedAt": "2026-05-04T15:59:24.000Z"
     },
     {
       "id": "7kabsz",
@@ -282,15 +318,6 @@
       "publishedAt": "2026-05-04T15:51:27.000Z"
     },
     {
-      "id": "a04e6h",
-      "title": "5 days only: Bring a partner or colleague and get 50% off a second TechCrunch Disrupt 2026 pass",
-      "summary": "The BOGO offer is live. For a limited time, buy one pass to TechCrunch Disrupt 2026 and get 50% off a second of the same ticket type. Offer ends this Friday, May 8. Save here.",
-      "imageUrl": "https://images.unsplash.com/photo-1531746790095-6c10a4031c5f?w=800&q=80",
-      "source": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/05/04/5-days-only-bring-a-partner-or-colleague-and-get-50-off-a-second-techcrunch-disrupt-2026-pass/",
-      "publishedAt": "2026-05-04T14:00:00.000Z"
-    },
-    {
       "id": "t8fn14",
       "title": "Tailoring AI solutions for health care needs",
       "summary": "The AI market is full of big promises of grand transformation. Health care is a prime target for those promises, beset as it is by financial pressures, labor shortages, and the growing burden of caring for an aging population. AI developers are targeting functions that vary widely, from curing cancer and performing surgery to streamlining…",
@@ -298,15 +325,6 @@
       "source": "MIT Tech Review",
       "sourceUrl": "https://www.technologyreview.com/2026/05/04/1134425/tailoring-ai-solutions-for-health-care-needs/",
       "publishedAt": "2026-05-04T13:00:00.000Z"
-    },
-    {
-      "id": "h4c3z3",
-      "title": "How the internet’s favorite squirrel dad made the hottest camera app of 2026",
-      "summary": "Downey at home in LA with one of his channel’s frequent guest stars. | Image: The Verge; Shutterstock It's not hyperbole to call DualShot Recorder an overnight sensation. It took only 12 hours from the time it was released to hit number one on the App Store's list of top paid apps. It was a surprise success - but what's even more surprising is the app's origin story: it all started with a cadre of friendly neighborhood squirrels and their favorite caretaker. Derrick Downey Jr. built a career on…",
-      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/04/Vrg_illo_squirrel_influencer.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "source": "The Verge",
-      "sourceUrl": "https://www.theverge.com/tech/921690/dualshot-recorder-iphone-camera-app-derrick-downey-jr",
-      "publishedAt": "2026-05-03T13:00:00.000Z"
     },
     {
       "id": "r5vne9",
@@ -435,15 +453,6 @@
       "publishedAt": "2026-04-30T17:41:14.000Z"
     },
     {
-      "id": "ao89rq",
-      "title": "OpenAI Rolls Out ‘Advanced’ Security Mode for At-Risk Accounts",
-      "summary": "OpenAI is rolling out Advanced Account Security for people concerned that their ChatGPT or Codex accounts could be potential targets of phishing attacks.",
-      "imageUrl": "https://media.wired.com/photos/69f3851f013dbae7ce7c178e/master/pass/security_chatgpt_GettyImages-2271059989.jpg",
-      "source": "Wired",
-      "sourceUrl": "https://www.wired.com/story/openai-chatgpt-codex-advanced-account-security/",
-      "publishedAt": "2026-04-30T17:30:39.000Z"
-    },
-    {
       "id": "3d320y",
       "title": "Why a recent supply-chain attack singled out security firms Checkmarx and Bitwarden",
       "summary": "Security firms find themselves especially exposed.",
@@ -532,15 +541,6 @@
       "source": "Ars Technica",
       "sourceUrl": "https://arstechnica.com/security/2026/04/iran-linked-hackers-disrupt-operations-at-us-critical-infrastructure-sites/",
       "publishedAt": "2026-04-08T20:49:11.000Z"
-    },
-    {
-      "id": "11dv1j",
-      "title": "Thousands of consumer routers hacked by Russia's military",
-      "summary": "End-of-life routers in homes and small offices hacked in 120 countries.",
-      "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2022/04/russia-cyber-hack-1000x648.jpeg",
-      "source": "Ars Technica",
-      "sourceUrl": "https://arstechnica.com/security/2026/04/russias-military-hacks-thousands-of-consumer-routers-to-steal-credentials/",
-      "publishedAt": "2026-04-08T11:00:08.000Z"
     }
   ]
 }
