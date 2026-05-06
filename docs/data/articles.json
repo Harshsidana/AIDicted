@@ -1,7 +1,43 @@
 {
-  "fetchedAt": "2026-05-06T09:31:22.092Z",
+  "fetchedAt": "2026-05-06T11:55:33.170Z",
   "count": 60,
   "articles": [
+    {
+      "id": "cwteco",
+      "title": "Microsoft’s Office and LinkedIn chief now runs Teams in latest reshuffle",
+      "summary": "Microsoft's LinkedIn CEO, Ryan Roslansky, took on an expanded role at the company as head of Office last year, and he's now getting more responsibilities as part of the latest leadership reshuffle inside Microsoft. Sources tell me that the Microsoft Teams organization is moving to report to Roslansky, who will now lead a new Work Experiences Group at Microsoft. The changes are part of a broader reshuffle triggered by Rajesh Jha, executive vice president of Microsoft's experiences and devices…",
+      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25832915/STK095_MICROSOFT_2_CVirginia_D.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "source": "The Verge",
+      "sourceUrl": "https://www.theverge.com/tech/924931/microsoft-office-copilot-windows-reorg-shuffle",
+      "publishedAt": "2026-05-06T11:45:41.000Z"
+    },
+    {
+      "id": "9cxcqo",
+      "title": "Apple Will Pay $250 Million to Settle Lawsuit Over Siri's AI Features",
+      "summary": "If you bought an iPhone 15 or 16 in the US, you could be set to pocket up to $95 per device as part of the settlement.",
+      "imageUrl": "https://media.wired.com/photos/69fb0b751edc0624d26eda73/master/pass/GettyImages-2260718787.jpg",
+      "source": "Wired",
+      "sourceUrl": "https://www.wired.com/story/apple-will-pay-dollar250-million-to-settle-lawsuit-over-siris-ai-features/",
+      "publishedAt": "2026-05-06T10:41:37.000Z"
+    },
+    {
+      "id": "8mt3xb",
+      "title": "Chrome’s AI features may be hogging 4GB of your computer storage",
+      "summary": "Google Chrome may be taking up more of your storage than expected thanks to a large on-device AI model file that, in some cases, is being automatically downloaded to the browser's system folders. Users who have noticed unexplained drops in their available desktop device storage are now discovering that Chrome is installing a 4GB weights.bin file inside their browser directory when certain AI features are enabled. The weights.bin file in question is connected to Google's Gemini Nano AI model,…",
+      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/24418650/STK114_Google_Chrome_01.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "source": "The Verge",
+      "sourceUrl": "https://www.theverge.com/tech/924933/google-chrome-4gb-gemini-nano-ai-features",
+      "publishedAt": "2026-05-06T10:13:09.000Z"
+    },
+    {
+      "id": "imip1n",
+      "title": "Hasan Piker, Self-Described ‘Ayatollah of Woke,’ Wants AI to Die",
+      "summary": "The far-left Twitch streamer says AI is rotting our brains. He’s also addicted to Twitter and listens to at least eight podcasts.",
+      "imageUrl": "https://media.wired.com/photos/69fa6c2e0a765f6f26cab129/master/pass/HASAN-PIKER-RGB_Social.jpg",
+      "source": "Wired",
+      "sourceUrl": "https://www.wired.com/story/hasan-piker-user-behavior/",
+      "publishedAt": "2026-05-06T10:00:00.000Z"
+    },
     {
       "id": "qnxf9f",
       "title": "Peter Sarlin’s QuTwo reaches $380M valuation in angel round",
@@ -192,15 +228,6 @@
       "publishedAt": "2026-05-05T14:27:00.000Z"
     },
     {
-      "id": "jl9st2",
-      "title": "Google, Microsoft, and xAI will allow the US government to review their new AI models",
-      "summary": "Google DeepMind, Microsoft, and Elon Musk's xAI have agreed to allow the US government to review new AI models before they're released to the public. In an announcement on Tuesday, the Commerce Department's Center for AI Standards and Innovation (CAISI) says it will work with the AI companies to perform \"pre-deployment evaluations and targeted research to better assess frontier AI capabilities.\" CAISI, which started evaluating models from OpenAI and Anthropic in 2024, says it has performed 40…",
-      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25263345/STK432_Government_A_CVirginia.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "source": "The Verge",
-      "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/924017/google-microsoft-xai-government-review",
-      "publishedAt": "2026-05-05T14:26:59.000Z"
-    },
-    {
       "id": "upn0is",
       "title": "ElevenLabs lists BlackRock, Jamie Foxx, and Eva Longoria as new investors",
       "summary": "ElevenLabs reveals new investors, hits $500M ARR, and expands enterprise footprint as voice AI becomes a critical interface.",
@@ -226,15 +253,6 @@
       "source": "TechCrunch",
       "sourceUrl": "https://techcrunch.com/2026/05/05/4-days-left-get-50-off-a-second-techcrunch-disrupt-2026-pass-to-make-more-deals-faster/",
       "publishedAt": "2026-05-05T14:00:00.000Z"
-    },
-    {
-      "id": "sc2u0p",
-      "title": "What an AI-designed car looks like",
-      "summary": "The cars rolling off production lines right now are filled with old ideas. From beginning to end, the creation of a new vehicle can take five years or longer - which is plenty of time for a lot of tastes, politics, and gas prices to change. That's one reason car manufacturers are so enthusiastic about the potential for AI to help speed up certain parts of the process, from model-making to wind-tunneling. LLMs could be poised to change the way we get around. Verge subscribers, don't forget you…",
-      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/05/VRG_VST_0405_Site.png?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "source": "The Verge",
-      "sourceUrl": "https://www.theverge.com/podcast/923974/ai-car-design-codex-vergecast",
-      "publishedAt": "2026-05-05T13:42:18.000Z"
     },
     {
       "id": "afdm3k",
@@ -433,24 +451,6 @@
       "source": "Ars Technica",
       "sourceUrl": "https://arstechnica.com/security/2026/04/as-the-most-severe-linux-threat-in-years-surfaces-the-world-scrambles/",
       "publishedAt": "2026-04-30T20:20:48.000Z"
-    },
-    {
-      "id": "ikjfah",
-      "title": "Musk v. Altman Kicks Off, DOJ Guts Voting Rights Unit, and Is the AI Job Apocalypse Overhyped?",
-      "summary": "In this episode of Uncanny Valley, we get into how the Elon Musk-Sam Altman trial goes way beyond their rivalry and could have major implications both for OpenAI and also the AI industry at large.",
-      "imageUrl": "https://media.wired.com/photos/69f2663444afef60af143aae/master/pass/Uncanny-Valley-Musk-v-Altman-Business-2272923137.jpg",
-      "source": "Wired",
-      "sourceUrl": "https://www.wired.com/story/uncanny-valley-podcast-musk-v-altman-doj-guts-voting-rights-unit-is-ai-job-apocalypse-overhyped/",
-      "publishedAt": "2026-04-30T18:54:54.000Z"
-    },
-    {
-      "id": "il1v94",
-      "title": "Elon Musk Seemingly Admits xAI Has Used OpenAI’s Models to Train Its Own",
-      "summary": "While answering questions under oath, Musk argued it’s standard practice for AI labs to use their competitors’ models.",
-      "imageUrl": "https://media.wired.com/photos/69f3848c17e0528daa0ec80c/master/pass/Musk-Admits-to-Partly-Distilling-OpenAI-Models-Business-2273133893.jpg",
-      "source": "Wired",
-      "sourceUrl": "https://www.wired.com/story/elon-musk-distill-openai-models-partly-xai/",
-      "publishedAt": "2026-04-30T17:41:14.000Z"
     },
     {
       "id": "3d320y",
