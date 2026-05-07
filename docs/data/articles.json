@@ -1,7 +1,97 @@
 {
-  "fetchedAt": "2026-05-07T18:52:48.395Z",
+  "fetchedAt": "2026-05-07T21:31:56.357Z",
   "count": 60,
   "articles": [
+    {
+      "id": "5nkb93",
+      "title": "Voi founders’ new AI startup Pit has become the latest rising star out of Stockholm",
+      "summary": "AI startup Pit is led by the cofounders of European scooter giant Voi and backed by a16z, which is leading the startup’s $16 million seed round.",
+      "imageUrl": "https://images.unsplash.com/photo-1620712943543-bcc4688e7485?w=800&q=80",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/05/07/voi-founders-new-ai-startup-pit-has-become-the-latest-rising-star-out-of-stockholm/",
+      "publishedAt": "2026-05-07T21:02:11.000Z"
+    },
+    {
+      "id": "ug0xpi",
+      "title": "How to Disable Google's Gemini in Chrome",
+      "summary": "Chrome users were caught off guard by a 4-GB Google AI model baked into Chrome, sparking privacy concerns. The good news: You can easily uninstall it. The bad? You might not want to.",
+      "imageUrl": "https://media.wired.com/photos/69fcafc792b22c38295c7ab7/master/pass/GettyImages-2229158788.jpg",
+      "source": "Wired",
+      "sourceUrl": "https://www.wired.com/story/you-can-disable-gemini-in-chrome-if-its-freaking-you-out/",
+      "publishedAt": "2026-05-07T20:31:57.000Z"
+    },
+    {
+      "id": "f20w5d",
+      "title": "OpenAI introduces new ‘Trusted Contact’ safeguard for cases of possible self-harm",
+      "summary": "The company is expanding its efforts to protect ChatGPT users in cases where conversations may turn to self-harm.",
+      "imageUrl": "https://images.unsplash.com/photo-1550751827-4bd374c3f58b?w=800&q=80",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/05/07/openai-introduces-new-trusted-contact-safeguard-for-cases-of-possible-self-harm/",
+      "publishedAt": "2026-05-07T20:20:20.000Z"
+    },
+    {
+      "id": "smm1hg",
+      "title": "Perplexity’s Personal Computer is now available to everyone on Mac",
+      "summary": "Perplexity's Personal Computer brings AI agents to your Mac, and is now open to everyone.",
+      "imageUrl": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=800&q=80",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/05/07/perplexitys-personal-computer-is-now-available-everyone-on-mac/",
+      "publishedAt": "2026-05-07T19:57:59.000Z"
+    },
+    {
+      "id": "u5yfbt",
+      "title": "Mira Murati’s deposition pulled back the curtain on Sam Altman’s ouster",
+      "summary": "The week leading up to Thanksgiving 2023 was the AI industry's biggest soap opera moment. OpenAI CEO Sam Altman was abruptly ousted from his role at the ChatGPT-maker. The explanation? That Altman was \"not consistently candid in his communications with the board.\" Now, via witness testimony and trial exhibits in Musk v. Altman, the public is getting a concrete look behind the scenes of that dramatic weekend for the first time, much of it centered on former CTO Mira Murati. It was a unique…",
+      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/05/VRG_Illo_mira-murati_stock_01.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "source": "The Verge",
+      "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/926383/mira-murati-sam-altman-musk-trial-ouster",
+      "publishedAt": "2026-05-07T19:55:22.000Z"
+    },
+    {
+      "id": "jcstgh",
+      "title": "Apple’s AirPods with cameras for AI are apparently close to production",
+      "summary": "AirPods Pro 3 | Photo by Amelia Holowaty Krales / The Verge Apple's rumored AirPods with cameras are nearing a stage where the company will test early mass production, Bloomberg's Mark Gurman reports. Currently, Apple testers are \"actively using\" prototypes that are in the design validation test stage, which is one step before the production validation test stage. The AirPods' cameras \"aren't designed\" to snap photos or video but instead can take in \"visual information in low resolution\" that…",
+      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/09/257943_Airpods_Pro3_AKrales_0145.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "source": "The Verge",
+      "sourceUrl": "https://www.theverge.com/tech/926376/apple-airpods-cameras-ai-production",
+      "publishedAt": "2026-05-07T19:39:22.000Z"
+    },
+    {
+      "id": "t7gtgm",
+      "title": "SpaceX has a $55 billion plan to build AI chips in Texas",
+      "summary": "Elon Musk's plans to get into the AI chip manufacturing business are going to be costly. As the New York Times and CNBC report, SpaceX is planning to invest at least $55 billion into its \"Terafab\" chip plant in Austin, Texas. That's according to the details of a public hearing notice filed in Grimes County, Texas, for a meeting to request tax breaks for the project. The company says that if additional phases are constructed, its investment could someday balloon to $119 billion total. When Musk…",
+      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/05/gettyimages-2269580650.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "source": "The Verge",
+      "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/926356/spacex-terafab-plant-cost-ai-chips",
+      "publishedAt": "2026-05-07T19:26:16.000Z"
+    },
+    {
+      "id": "jvd8ng",
+      "title": "Elon Musk’s lawsuit is putting OpenAI’s safety record under the microscope",
+      "summary": "Elon Musk's legal effort to dismantle OpenAI may hinge on how its for-profit subsidiary enhances or detracts from the frontier lab's founding mission of ensuring that humanity benefits from artificial general intelligence.",
+      "imageUrl": "https://images.unsplash.com/photo-1526374965328-7f61d4dc18c5?w=800&q=80",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/05/07/elon-musks-lawsuit-is-putting-openais-safety-record-under-the-microscope/",
+      "publishedAt": "2026-05-07T19:21:21.000Z"
+    },
+    {
+      "id": "bik5l9",
+      "title": "Mozilla says 271 vulnerabilities found by Mythos have \"almost no false positives\"",
+      "summary": "The developer of Firefox says it has \"completely bought in\" on AI-assisted bug discovery.",
+      "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2026/03/GettyImages-2167753513-1152x648.jpg",
+      "source": "Ars Technica",
+      "sourceUrl": "https://arstechnica.com/information-technology/2026/05/mozilla-says-271-vulnerabilities-found-by-mythos-have-almost-no-false-positives/",
+      "publishedAt": "2026-05-07T19:18:16.000Z"
+    },
+    {
+      "id": "xz90p2",
+      "title": "Bumble is getting rid of the swipe, CEO says",
+      "summary": "Based on Whitney Wolfe Herd's past comments about Bumble's new direction, the company is expected to lean into AI -- Bumble is even working on an AI dating assistant called Bee, and the CEO has made many comments over the years about how AI will be \"a supercharger to love and relationships.\"",
+      "imageUrl": "https://images.unsplash.com/photo-1485827404703-89b55fcc595e?w=800&q=80",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/05/07/bumble-is-getting-rid-of-the-swipe-ceo-says/",
+      "publishedAt": "2026-05-07T19:06:17.000Z"
+    },
     {
       "id": "spjrny",
       "title": "ChatGPT’s ‘Trusted Contact’ will alert loved ones of safety concerns",
@@ -201,24 +291,6 @@
       "publishedAt": "2026-05-06T21:57:56.000Z"
     },
     {
-      "id": "t51rd2",
-      "title": "Snap says its $400M deal with Perplexity ‘amicably ended’",
-      "summary": "The deal, announced last November, would have seen Perplexity's AI search engine integrated directly into Snapchat.",
-      "imageUrl": "https://images.unsplash.com/photo-1676299081847-824916de030a?w=800&q=80",
-      "source": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/05/06/snap-says-its-400m-deal-with-perplexity-amicably-ended/",
-      "publishedAt": "2026-05-06T21:43:24.000Z"
-    },
-    {
-      "id": "rf1z3a",
-      "title": "Is xAI a neocloud now?",
-      "summary": "xAI's real business may be more about building data centers than training AI models.",
-      "imageUrl": "https://images.unsplash.com/photo-1485827404703-89b55fcc595e?w=800&q=80",
-      "source": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/05/06/is-xai-a-neocloud-now/",
-      "publishedAt": "2026-05-06T21:32:55.000Z"
-    },
-    {
       "id": "ozp6gu",
       "title": "Google shuts down Project Mariner",
       "summary": "Google has pulled the plug on Project Mariner, an experimental feature designed to perform tasks for you across the web, as reported earlier by Wired's Maxwell Zeff. The Project Mariner landing page now contains a message that says: \"Thank you for using Project Mariner. It was shut down on May 4th, 2026 and its technology voyaged to other Google products.\" Google first revealed Project Mariner in December 2024 and later announced an update allowing it to perform up to 10 tasks at a time. Over…",
@@ -246,15 +318,6 @@
       "publishedAt": "2026-05-06T18:28:52.000Z"
     },
     {
-      "id": "liezz3",
-      "title": "How Elon Musk left OpenAI, according to Greg Brockman",
-      "summary": "Cutthroat negotiations between startup founders are rarely shared so publicly, especially when a company becomes as world-changing as OpenAI.",
-      "imageUrl": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=800&q=80",
-      "source": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/05/06/how-elon-musk-left-openai-according-to-greg-brockman/",
-      "publishedAt": "2026-05-06T18:23:54.000Z"
-    },
-    {
       "id": "r9nzql",
       "title": "Using AI for Just 10 Minutes Might Make You Lazy and Dumb, Study Shows",
       "summary": "New research suggests that reliance on AI assistants can have a negative impact on people’s ability to think and problem solve.",
@@ -262,33 +325,6 @@
       "source": "Wired",
       "sourceUrl": "https://www.wired.com/story/using-ai-negative-impact-thinking-problem-solving-study/",
       "publishedAt": "2026-05-06T18:00:00.000Z"
-    },
-    {
-      "id": "trknh7",
-      "title": "Mira Murati tells the court that she couldn’t trust Sam Altman’s words",
-      "summary": "Mira Murati, OpenAI's former CTO, has testified under oath that CEO Sam Altman lied to her about the safety standards for a new AI model. In a video deposition shown during the ongoing Musk v. Altman trial on Wednesday, Murati said Altman falsely stated that OpenAI's legal department determined a new AI model did not need to go through the company's deployment safety board. \"As you understand it, was Mr. Altman telling the truth when he made that statement to you?\" Murati was asked in the…",
-      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/05/gettyimages-2266727283.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "source": "The Verge",
-      "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/925338/openai-musk-v-altman-mira-murati",
-      "publishedAt": "2026-05-06T17:55:53.000Z"
-    },
-    {
-      "id": "yqd5sd",
-      "title": "SpaceX may spend up to $119B on ‘Terafab’ chip factory in Texas",
-      "summary": "The project would be a \"multi-phase, next-generation, vertically integrated semiconductor manufacturing and advanced computing fabrication facility,\" according to the proposal.",
-      "imageUrl": "https://images.unsplash.com/photo-1531746790095-6c10a4031c5f?w=800&q=80",
-      "source": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/05/06/spacex-may-spend-up-to-119-billion-on-terafab-chip-factory-in-texas/",
-      "publishedAt": "2026-05-06T17:23:08.000Z"
-    },
-    {
-      "id": "2ftf3e",
-      "title": "DeepSeek could hit $45B valuation from its first investment round",
-      "summary": "The Chinese AI lab came to prominence in early 2025 after launching a large language model that trained on a fraction of the compute power and at a fraction of the cost of the big U.S. models like those from OpenAI and Anthropic.",
-      "imageUrl": "https://images.unsplash.com/photo-1531746790095-6c10a4031c5f?w=800&q=80",
-      "source": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/05/06/deepseek-could-hit-45b-valuation-from-its-first-investment-round/",
-      "publishedAt": "2026-05-06T17:20:34.000Z"
     },
     {
       "id": "ex0s37",
@@ -318,15 +354,6 @@
       "publishedAt": "2026-05-06T13:32:47.000Z"
     },
     {
-      "id": "cfkycy",
-      "title": "Google’s AI search summaries will now quote Reddit",
-      "summary": "Want real human feedback related to your search results? Google’s AI now fetches it for you. | Image by Google / The Verge Google is updating its AI Search features to make it easier for users to find information from sources they know and trust. One of the more notable changes introduces \"a preview of perspectives\" from firsthand sources like social media, Reddit, and other web forums, effectively linking your search queries with online conversations around similar topics. Google says this…",
-      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/05/Google-AI-Search-updates-Reddit-linking.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "source": "The Verge",
-      "sourceUrl": "https://www.theverge.com/tech/924993/google-ai-search-mode-overviews-update-reddit-links",
-      "publishedAt": "2026-05-06T13:00:30.000Z"
-    },
-    {
       "id": "wdgxfh",
       "title": "The Download: seafloor science and military chatbots",
       "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. Inexpensive seafloor-hopping submersibles could stoke deep-sea science—and mining Last week, two oblong neon submersibles started to descend nearly 6,000 meters into the Pacific Ocean. Throughout the rest of May, they will…",
@@ -336,15 +363,6 @@
       "publishedAt": "2026-05-06T12:10:00.000Z"
     },
     {
-      "id": "cwteco",
-      "title": "Microsoft’s Office and LinkedIn chief now runs Teams in latest reshuffle",
-      "summary": "Microsoft's LinkedIn chief, Ryan Roslansky, took on an expanded role at the company as head of Office last year, and he's now getting more responsibilities as part of the latest leadership reshuffle inside Microsoft. Sources tell me that the Microsoft Teams organization is moving to report to Roslansky, who will now lead a new Work Experiences Group at Microsoft. The changes, which come a week after Roslansky named a new CEO of LinkedIn, are part of a broader reshuffle triggered by Rajesh Jha,…",
-      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25832915/STK095_MICROSOFT_2_CVirginia_D.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "source": "The Verge",
-      "sourceUrl": "https://www.theverge.com/tech/924931/microsoft-office-copilot-windows-reorg-shuffle",
-      "publishedAt": "2026-05-06T11:45:41.000Z"
-    },
-    {
       "id": "vaw68e",
       "title": "Apple Will Pay $250 Million to Settle Lawsuit Over Siri’s AI Features",
       "summary": "If you bought an iPhone 15 or 16 in the US, you could be set to pocket up to $95 per device as part of the settlement.",
@@ -352,15 +370,6 @@
       "source": "Wired",
       "sourceUrl": "https://www.wired.com/story/apple-will-pay-dollar250-million-to-settle-lawsuit-over-siris-ai-features/",
       "publishedAt": "2026-05-06T10:41:37.000Z"
-    },
-    {
-      "id": "imip1n",
-      "title": "Hasan Piker, Self-Described ‘Ayatollah of Woke,’ Wants AI to Die",
-      "summary": "The far-left Twitch streamer says AI is rotting our brains. He’s also addicted to Twitter and listens to at least eight podcasts.",
-      "imageUrl": "https://media.wired.com/photos/69fa6c2e0a765f6f26cab129/master/pass/HASAN-PIKER-RGB_Social.jpg",
-      "source": "Wired",
-      "sourceUrl": "https://www.wired.com/story/hasan-piker-user-behavior/",
-      "publishedAt": "2026-05-06T10:00:00.000Z"
     },
     {
       "id": "k35nqd",
@@ -532,15 +541,6 @@
       "source": "Ars Technica",
       "sourceUrl": "https://arstechnica.com/security/2026/04/while-some-big-tech-players-accelerate-pqc-readiness-others-stay-the-course/",
       "publishedAt": "2026-04-17T11:00:50.000Z"
-    },
-    {
-      "id": "tx7wx1",
-      "title": "“Negative” views of Broadcom driving thousands of VMware migrations, rival says",
-      "summary": "Western Union exec says there were \"challenges\" working with Broadcom.",
-      "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2026/04/GettyImages-1934095718-1152x648.jpg",
-      "source": "Ars Technica",
-      "sourceUrl": "https://arstechnica.com/information-technology/2026/04/nutanix-claims-it-has-poached-30000-vmware-customers/",
-      "publishedAt": "2026-04-09T19:44:31.000Z"
     }
   ]
 }
