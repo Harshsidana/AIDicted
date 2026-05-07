@@ -1,11 +1,29 @@
 {
-  "fetchedAt": "2026-05-07T21:31:56.357Z",
+  "fetchedAt": "2026-05-07T23:04:31.139Z",
   "count": 60,
   "articles": [
     {
+      "id": "6dot1e",
+      "title": "OpenAI launches new voice intelligence features in its API",
+      "summary": "The new features could be handy for customer service systems, but OpenAI says they have applications that work across a variety of other fields, including education and creator platforms.",
+      "imageUrl": "https://images.unsplash.com/photo-1676299081847-824916de030a?w=800&q=80",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/05/07/openai-launches-new-voice-intelligence-features-in-its-api/",
+      "publishedAt": "2026-05-07T22:24:50.000Z"
+    },
+    {
+      "id": "190aog",
+      "title": "Trump Pivots on AI Regulation, Worker Ousted by DOGE Runs for Office, and Hantavirus Explained",
+      "summary": "Today on Uncanny Valley, we’re diving into recent reports that the Trump administration is considering an executive order that would establish some sort of federal oversight over new AI models.",
+      "imageUrl": "https://media.wired.com/photos/69fbb1dadb7daca60e4a6405/master/pass/Uncanny-Valley-Trump-AI-Regulation-Reversal-Politics-2273509289.jpg",
+      "source": "Wired",
+      "sourceUrl": "https://www.wired.com/story/uncanny-valley-podcast-trump-pivots-ai-regulation-worker-ousted-by-doge-runs-for-office-hantavirus-explained/",
+      "publishedAt": "2026-05-07T21:37:20.000Z"
+    },
+    {
       "id": "5nkb93",
       "title": "Voi founders’ new AI startup Pit has become the latest rising star out of Stockholm",
-      "summary": "AI startup Pit is led by the cofounders of European scooter giant Voi and backed by a16z, which is leading the startup’s $16 million seed round.",
+      "summary": "AI startup Pit is led by the co-founders of European scooter giant Voi and backed by a16z, which is leading the startup’s $16 million seed round.",
       "imageUrl": "https://images.unsplash.com/photo-1620712943543-bcc4688e7485?w=800&q=80",
       "source": "TechCrunch",
       "sourceUrl": "https://techcrunch.com/2026/05/07/voi-founders-new-ai-startup-pit-has-become-the-latest-rising-star-out-of-stockholm/",
@@ -111,9 +129,9 @@
       "publishedAt": "2026-05-07T17:40:50.000Z"
     },
     {
-      "id": "dhm6at",
-      "title": "ChatGPT Has 'Goblin' Mania in the US. In China It Will 'Catch You Steadily'",
-      "summary": "OpenAI's chatbot has some weird linguistic tics in Chinese that are driving users crazy.",
+      "id": "m2lfyd",
+      "title": "ChatGPT Has ‘Goblin’ Mania in the US. In China It Will ‘Catch You Steadily’",
+      "summary": "OpenAI’s chatbot has some weird linguistic tics in Chinese that are driving users crazy.",
       "imageUrl": "https://media.wired.com/photos/69fb7b089165f81762ebbc1c/master/pass/Made-In-China-Why-Chinese-AI-Slop-All-Sounds-the-Same-Business.jpg",
       "source": "Wired",
       "sourceUrl": "https://www.wired.com/story/chatgpt-chinese-catch-you-steadily-sycophancy/",
@@ -282,15 +300,6 @@
       "publishedAt": "2026-05-06T23:23:45.000Z"
     },
     {
-      "id": "pda1pt",
-      "title": "Barry Diller trusts Sam Altman. But ‘trust is irrelevant’ as AGI nears, he says.",
-      "summary": "Barry Diller defended OpenAI CEO Sam Altman, while warning that AGI remains an unpredictable force needing guardrails.",
-      "imageUrl": "https://images.unsplash.com/photo-1526374965328-7f61d4dc18c5?w=800&q=80",
-      "source": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/05/06/barry-diller-trusts-sam-altman-but-trust-is-irrelevant-as-agi-nears-he-says/",
-      "publishedAt": "2026-05-06T21:57:56.000Z"
-    },
-    {
       "id": "ozp6gu",
       "title": "Google shuts down Project Mariner",
       "summary": "Google has pulled the plug on Project Mariner, an experimental feature designed to perform tasks for you across the web, as reported earlier by Wired's Maxwell Zeff. The Project Mariner landing page now contains a message that says: \"Thank you for using Project Mariner. It was shut down on May 4th, 2026 and its technology voyaged to other Google products.\" Google first revealed Project Mariner in December 2024 and later announced an update allowing it to perform up to 10 tasks at a time. Over…",
@@ -361,15 +370,6 @@
       "source": "MIT Tech Review",
       "sourceUrl": "https://www.technologyreview.com/2026/05/06/1136917/the-download-seafloor-science-military-ai-chatbots/",
       "publishedAt": "2026-05-06T12:10:00.000Z"
-    },
-    {
-      "id": "vaw68e",
-      "title": "Apple Will Pay $250 Million to Settle Lawsuit Over Siri’s AI Features",
-      "summary": "If you bought an iPhone 15 or 16 in the US, you could be set to pocket up to $95 per device as part of the settlement.",
-      "imageUrl": "https://media.wired.com/photos/69fb0b751edc0624d26eda73/master/pass/GettyImages-2260718787.jpg",
-      "source": "Wired",
-      "sourceUrl": "https://www.wired.com/story/apple-will-pay-dollar250-million-to-settle-lawsuit-over-siris-ai-features/",
-      "publishedAt": "2026-05-06T10:41:37.000Z"
     },
     {
       "id": "k35nqd",
