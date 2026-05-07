@@ -1,11 +1,38 @@
 {
-  "fetchedAt": "2026-05-07T09:41:30.972Z",
+  "fetchedAt": "2026-05-07T11:55:12.910Z",
   "count": 60,
   "articles": [
     {
+      "id": "py7p5y",
+      "title": "Thousands of Vibe-Coded Apps Expose Corporate and Personal Data on the Open Web",
+      "summary": "Companies like Lovable, Base44, Replit, and Netlify use AI to let anyone build a web app in seconds—and in thousands of cases, spill highly sensitive data onto the public internet.",
+      "imageUrl": "https://media.wired.com/photos/69fa825a7fe14eb8313cc3c7/master/pass/security_vibecodeexposure_gety.jpg",
+      "source": "Wired",
+      "sourceUrl": "https://www.wired.com/story/thousands-of-vibe-coded-apps-expose-corporate-and-personal-data-on-the-open-web/",
+      "publishedAt": "2026-05-07T11:00:00.000Z"
+    },
+    {
+      "id": "szogkh",
+      "title": "This Reggae Band Is in a Nightmare Battle Against AI Slop Remixes",
+      "summary": "When Stick Figure’s six-year-old song shot up the charts, the band was thrilled. But its viral moment was spurred by unauthorized AI remixes.",
+      "imageUrl": "https://media.wired.com/photos/69fa2d5eb7705358286eaf20/master/pass/His-Song-Is-Going-Viral%E2%80%94But-Its-All-Unauthorized-AI-Slop-Remixes-Culture-2-Additional%20Photo.jpg",
+      "source": "Wired",
+      "sourceUrl": "https://www.wired.com/story/this-reggae-band-is-in-a-nightmare-battle-against-ai-slop-remixes/",
+      "publishedAt": "2026-05-07T11:00:00.000Z"
+    },
+    {
+      "id": "p49wrl",
+      "title": "The balcony solar boom is coming to the US",
+      "summary": "Dozens of US states are considering legislation to allow people to install plug-in solar systems, often called balcony solar. These small arrays require little to no setup and could help cut emissions and power bills. Balcony solar is already popular in Europe, and proponents say that the systems could make solar power more accessible for…",
+      "imageUrl": "https://images.unsplash.com/photo-1676299081847-824916de030a?w=800&q=80",
+      "source": "MIT Tech Review",
+      "sourceUrl": "https://www.technologyreview.com/2026/05/07/1136933/balcony-solar-boom/",
+      "publishedAt": "2026-05-07T10:00:00.000Z"
+    },
+    {
       "id": "9fvaro",
       "title": "What’s next for IVF",
-      "summary": "Forty-eight years ago this July, Louise Joy Brown became the world’s first person born with the help of in vitro fertilization. Millions more IVF babies have entered the world since then. And that’s partly thanks to advances in technology that have made IVF safer and more effective. But it’s still not perfect. The process can…",
+      "summary": "MIT Technology Review’s What’s Next series looks across industries, trends, and technologies to give you a first look at the future. You can read the rest of them here. Forty-eight years ago this July, Louise Joy Brown became the world’s first person born with the help of in vitro fertilization. Millions more IVF babies have entered…",
       "imageUrl": "https://images.unsplash.com/photo-1655720828018-edd2daec9349?w=800&q=80",
       "source": "MIT Tech Review",
       "sourceUrl": "https://www.technologyreview.com/2026/05/07/1136946/whats-next-for-ivf-ai-robot-pgt-gene-editing/",
@@ -345,15 +372,6 @@
       "publishedAt": "2026-05-05T12:10:00.000Z"
     },
     {
-      "id": "a7gfbt",
-      "title": "Google DeepMind Workers Vote to Unionize Over Military AI Deals",
-      "summary": "UK staff of Google’s AI research lab hope to block the use of the company’s artificial intelligence models in military settings.",
-      "imageUrl": "https://media.wired.com/photos/69f9c20f546a456d51b2640c/master/pass/GettyImages-2177657481.jpg",
-      "source": "Wired",
-      "sourceUrl": "https://www.wired.com/story/google-deepmind-workers-vote-to-unionize-over-military-ai-deals/",
-      "publishedAt": "2026-05-05T11:59:20.000Z"
-    },
-    {
       "id": "fe46wf",
       "title": "Why Reddit blocked my daily visit to its mobile website",
       "summary": "Reddit REALLY wants you to use its app.",
@@ -361,15 +379,6 @@
       "source": "Ars Technica",
       "sourceUrl": "https://arstechnica.com/information-technology/2026/05/why-reddit-blocked-my-daily-visit-to-its-mobile-website/",
       "publishedAt": "2026-05-05T11:20:08.000Z"
-    },
-    {
-      "id": "dyipxj",
-      "title": "He Couldn’t Land a Job Interview. Was AI to Blame?",
-      "summary": "Armed with some Python and a white-hot sense of injustice, one medical student spent six months trying to figure out whether an algorithm trashed his job application.",
-      "imageUrl": "https://media.wired.com/photos/69e938c49a0a1ec843ac2159/master/pass/AIApplications_Main_Anim.gif",
-      "source": "Wired",
-      "sourceUrl": "https://www.wired.com/story/he-couldnt-land-a-job-interview-was-ai-to-blame/",
-      "publishedAt": "2026-05-05T10:00:00.000Z"
     },
     {
       "id": "gbihew",
@@ -442,15 +451,6 @@
       "source": "MIT Tech Review",
       "sourceUrl": "https://www.technologyreview.com/2026/05/01/1136772/operationalizing-ai-for-scale-and-sovereignty/",
       "publishedAt": "2026-05-01T15:31:09.000Z"
-    },
-    {
-      "id": "2db8m3",
-      "title": "The Download: a new Christian phone network, and debugging LLMs",
-      "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. A new US phone network for Christians aims to block porn and gender-related content A new US-wide cell phone network marketed to Christians is set to launch next week. It blocks…",
-      "imageUrl": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=800&q=80",
-      "source": "MIT Tech Review",
-      "sourceUrl": "https://www.technologyreview.com/2026/05/01/1136762/the-download-christian-phone-network-debugging-llms/",
-      "publishedAt": "2026-05-01T12:10:00.000Z"
     },
     {
       "id": "h5ca51",
