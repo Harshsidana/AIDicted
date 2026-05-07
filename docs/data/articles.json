@@ -1,7 +1,25 @@
 {
-  "fetchedAt": "2026-05-07T16:58:14.377Z",
+  "fetchedAt": "2026-05-07T18:52:48.395Z",
   "count": 60,
   "articles": [
+    {
+      "id": "spjrny",
+      "title": "ChatGPT’s ‘Trusted Contact’ will alert loved ones of safety concerns",
+      "summary": "OpenAI is launching an optional safety feature for ChatGPT that allows adult users to assign an emergency contact for mental health and safety concerns. Friends, family members, or caregivers designated as a \"Trusted Contact\" will be notified if OpenAI detects that a person may have discussed topics like self-harm or suicide with the chatbot. \"Trusted Contact is designed around a simple, expert-validated premise: when someone may be in crisis, connecting with someone they know and trust can make…",
+      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25462005/STK155_OPEN_AI_CVirginia_B.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "source": "The Verge",
+      "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/925874/chatgpt-trusted-contact-emergency-self-harm-notification",
+      "publishedAt": "2026-05-07T18:00:00.000Z"
+    },
+    {
+      "id": "rfngrl",
+      "title": "Live updates from Elon Musk and Sam Altman’s court battle over the future of OpenAI",
+      "summary": "Sam Altman and Elon Musk are facing off in a high-stakes trial that could alter the future of OpenAI and its most well-known product, ChatGPT. In 2024, Musk filed a lawsuit accusing OpenAI of abandoning its founding mission of developing AI to benefit humanity and shifting focus to boosting profits instead. Elon Musk, his financial manager and Neuralink CEO, Jared Birchall, and OpenAI cofounder Greg Brockman have already testified before the jury. Shivon Zilis, a former OpenAI board member who…",
+      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/04/268474_musk_vs_altman_CVirginia.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "source": "The Verge",
+      "sourceUrl": "https://www.theverge.com/tech/917225/sam-altman-elon-musk-openai-lawsuit",
+      "publishedAt": "2026-05-07T17:40:50.000Z"
+    },
     {
       "id": "dhm6at",
       "title": "ChatGPT Has 'Goblin' Mania in the US. In China It Will 'Catch You Steadily'",
@@ -10,15 +28,6 @@
       "source": "Wired",
       "sourceUrl": "https://www.wired.com/story/chatgpt-chinese-catch-you-steadily-sycophancy/",
       "publishedAt": "2026-05-07T16:25:48.000Z"
-    },
-    {
-      "id": "rfngrl",
-      "title": "Live updates from Elon Musk and Sam Altman’s court battle over the future of OpenAI",
-      "summary": "Sam Altman and Elon Musk are facing off in a high-stakes trial that could alter the future of OpenAI and its most well-known product, ChatGPT. In 2024, Musk filed a lawsuit accusing OpenAI of abandoning its founding mission of developing AI to benefit humanity and shifting focus to boosting profits instead. Elon Musk, his financial manager and Neuralink CEO, Jared Birchall, and OpenAI cofounder Greg Brockman have already testified before the jury. Now, on Wednesday, May 6th, Shivon Zilis, a…",
-      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/04/268474_musk_vs_altman_CVirginia.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "source": "The Verge",
-      "sourceUrl": "https://www.theverge.com/tech/917225/sam-altman-elon-musk-openai-lawsuit",
-      "publishedAt": "2026-05-07T16:21:38.000Z"
     },
     {
       "id": "j9kcoe",
@@ -343,15 +352,6 @@
       "source": "Wired",
       "sourceUrl": "https://www.wired.com/story/apple-will-pay-dollar250-million-to-settle-lawsuit-over-siris-ai-features/",
       "publishedAt": "2026-05-06T10:41:37.000Z"
-    },
-    {
-      "id": "8mt3xb",
-      "title": "Chrome’s AI features may be hogging 4GB of your computer storage",
-      "summary": "Google Chrome may be taking up more of your storage than expected thanks to a large on-device AI model file that, in some cases, is being automatically downloaded to the browser's system folders. Users who have noticed unexplained drops in their available desktop device storage are now discovering that Chrome is installing a 4GB weights.bin file inside their browser directory when certain AI features are enabled. The weights.bin file in question is connected to Google's Gemini Nano AI model,…",
-      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/24418650/STK114_Google_Chrome_01.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "source": "The Verge",
-      "sourceUrl": "https://www.theverge.com/tech/924933/google-chrome-4gb-gemini-nano-ai-features",
-      "publishedAt": "2026-05-06T10:13:09.000Z"
     },
     {
       "id": "imip1n",
