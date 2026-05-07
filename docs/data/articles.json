@@ -1,7 +1,25 @@
 {
-  "fetchedAt": "2026-05-06T22:57:27.620Z",
+  "fetchedAt": "2026-05-06T23:58:32.511Z",
   "count": 60,
   "articles": [
+    {
+      "id": "2l0ujv",
+      "title": "Musk’s biggest loyalist became his biggest liability",
+      "summary": "I sat down in the Musk v. Altman trial courtroom today, painfully aware that no one was going to ask Shivon Zilis the question on everyone's minds: Girl, what the fuck are you doing? Zilis, who testified under oath that she is the mother of four of Musk's children, was… what's the best way to characterize this? A Musk advisor? She denies she was a \"chief of staff\" but says she worked for Musk's \"entire AI portfolio: Tesla, Neuralink, and OpenAI\" starting in 2017. The two met through OpenAI, and…",
+      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/05/STPK222_SHIVON_ZILIS2.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "source": "The Verge",
+      "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/925665/musk-altman-trial-shivon-zilis-testimony",
+      "publishedAt": "2026-05-06T23:37:02.000Z"
+    },
+    {
+      "id": "4jg0tj",
+      "title": "Elon Musk’s Last-Ditch Effort to Control OpenAI: Recruit Sam Altman to Tesla",
+      "summary": "Messages between Shivon Zilis and Tesla executives reveal plans in 2017 to start a rival AI lab, potentially led by Altman or Demis Hassabis.",
+      "imageUrl": "https://media.wired.com/photos/69fbb0898d34a433dee8f300/master/pass/Model-Behavior-Why-Everything-in-Musk-v-Altman-Elon-Musk-Considered-Recruiting-Sam-Altman-to-Join-Tesla-AI-Lab-Business-2273123629.jpg",
+      "source": "Wired",
+      "sourceUrl": "https://www.wired.com/story/elon-musk-recruit-sam-altman-tesla-ai-lab-trial/",
+      "publishedAt": "2026-05-06T23:23:45.000Z"
+    },
     {
       "id": "pda1pt",
       "title": "Barry Diller trusts Sam Altman. But ‘trust is irrelevant’ as AGI nears, he says.",
@@ -300,15 +318,6 @@
       "publishedAt": "2026-05-05T21:18:23.000Z"
     },
     {
-      "id": "3lqt9r",
-      "title": "Microsoft gives up on Xbox Copilot AI",
-      "summary": "Xbox is \"winding down Copilot on mobile\" and \"will stop development of Copilot on console,\" new Xbox CEO Asha Sharma announced on Tuesday. The move follows Sharma's reorganization of the Xbox platform team earlier on Tuesday, which added executives from Microsoft's CoreAI team - where Sharma worked before taking over Xbox - to the Xbox side of the company. Sharma, on X: Xbox needs to move faster, deepen our connection with the community, and address friction for both players and developers.…",
-      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/05/01_Wire-Hero-1920x1080-1-0b305b4a9ace7898196b.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "source": "The Verge",
-      "sourceUrl": "https://www.theverge.com/games/924551/microsoft-xbox-ceo-copilot-ai-asha-sharma",
-      "publishedAt": "2026-05-05T19:54:37.000Z"
-    },
-    {
       "id": "k35nqd",
       "title": "Widely used Daemon Tools disk app backdoored in monthlong supply-chain attack",
       "summary": "Daemon Tools users: It's time to check your machines for stealthy infections, stat.",
@@ -361,15 +370,6 @@
       "source": "MIT Tech Review",
       "sourceUrl": "https://www.technologyreview.com/2026/05/05/1136843/ai-democracy-blueprint/",
       "publishedAt": "2026-05-05T09:00:00.000Z"
-    },
-    {
-      "id": "jsnwbo",
-      "title": "Greg Brockman Defends $30B OpenAI Stake: ‘Blood, Sweat, and Tears’",
-      "summary": "OpenAI’s cofounder and president revealed in federal court on Monday that he’s one of the largest individual stakeholders in the AI lab.",
-      "imageUrl": "https://media.wired.com/photos/69f8dc3d515a33a2efb30971/master/pass/Model-Behavior-Why-Everything-in-Musk-v-Altman-Greg-Brockman-Testifies-Business-2273978244.jpg",
-      "source": "Wired",
-      "sourceUrl": "https://www.wired.com/story/greg-brockman-testifies-musk-v-altman-trial/",
-      "publishedAt": "2026-05-04T23:19:52.000Z"
     },
     {
       "id": "xo3s4q",
