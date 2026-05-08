@@ -1,7 +1,25 @@
 {
-  "fetchedAt": "2026-05-08T06:55:27.310Z",
+  "fetchedAt": "2026-05-08T10:06:17.167Z",
   "count": 60,
   "articles": [
+    {
+      "id": "o109tg",
+      "title": "The New Wild West of AI Kids’ Toys",
+      "summary": "These cuddly, connected companions could disrupt everything from make-believe to bedtime stories. No wonder some lawmakers want them banned.",
+      "imageUrl": "https://media.wired.com/photos/69fd2cd21516a07ed72646e6/master/pass/gear_kidsai_getty.jpg",
+      "source": "Wired",
+      "sourceUrl": "https://www.wired.com/story/the-new-wild-west-of-ai-kids-toys/",
+      "publishedAt": "2026-05-08T10:00:00.000Z"
+    },
+    {
+      "id": "a1d15u",
+      "title": "Here’s how technology transformed babymaking",
+      "summary": "Technology is changing the way we make babies. The pioneering work of the scientists who invented IVF led to the birth of the first “test tube baby” in 1978. We’ve come a long, long way since then. This week, I’ve been working on a piece about the cutting edge of IVF technologies and what’s coming…",
+      "imageUrl": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=800&q=80",
+      "source": "MIT Tech Review",
+      "sourceUrl": "https://www.technologyreview.com/2026/05/08/1136974/heres-how-technology-transformed-babymaking-ivf/",
+      "publishedAt": "2026-05-08T09:00:00.000Z"
+    },
     {
       "id": "lqdqwz",
       "title": "Why you can never get your doctor to call you back",
@@ -86,7 +104,7 @@
     {
       "id": "jcstgh",
       "title": "Apple’s AirPods with cameras for AI are apparently close to production",
-      "summary": "AirPods Pro 3 | Photo by Amelia Holowaty Krales / The Verge Apple's rumored AirPods with cameras are nearing a stage where the company will test early mass production, Bloomberg's Mark Gurman reports. Currently, Apple testers are \"actively using\" prototypes that are in the design validation test stage, which is one step before the production validation test stage. The AirPods' cameras \"aren't designed\" to snap photos or video but instead can take in \"visual information in low resolution\" that…",
+      "summary": "AirPods Pro 3. | Photo by Amelia Holowaty Krales / The Verge Apple's rumored AirPods with cameras are nearing a stage where the company will test early mass production, Bloomberg's Mark Gurman reports. Currently, Apple testers are \"actively using\" prototypes that are in the design validation test stage, which is one step before the production validation test stage. The AirPods' cameras \"aren't designed\" to snap photos or video but instead can take in \"visual information in low resolution\" that…",
       "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/09/257943_Airpods_Pro3_AKrales_0145.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
       "source": "The Verge",
       "sourceUrl": "https://www.theverge.com/tech/926376/apple-airpods-cameras-ai-production",
@@ -95,7 +113,7 @@
     {
       "id": "t7gtgm",
       "title": "SpaceX has a $55 billion plan to build AI chips in Texas",
-      "summary": "Elon Musk's plans to get into the AI chip manufacturing business are going to be costly. As the New York Times and CNBC report, SpaceX is planning to invest at least $55 billion into its \"Terafab\" chip plant in Austin, Texas. That's according to the details of a public hearing notice filed in Grimes County, Texas, for a meeting to request tax breaks for the project. The company says that if additional phases are constructed, its investment could someday balloon to $119 billion total. When Musk…",
+      "summary": "Elon Musk's plans to get into the AI chip manufacturing business are going to be costly. As the The New York Times and CNBC report, SpaceX is planning to invest at least $55 billion into its \"Terafab\" chip plant in Austin, Texas. That's according to the details of a public hearing notice filed in Grimes County, Texas, for a meeting to request tax breaks for the project. The company says that if additional phases are constructed, its investment could someday balloon to $119 billion total. When…",
       "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/05/gettyimages-2269580650.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
       "source": "The Verge",
       "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/926356/spacex-terafab-plant-cost-ai-chips",
@@ -345,15 +363,6 @@
       "publishedAt": "2026-05-06T18:00:00.000Z"
     },
     {
-      "id": "ex0s37",
-      "title": "I Am Begging AI Companies to Stop Naming Features After Human Processes",
-      "summary": "Anthropic announced “dreaming” for AI agents to sort through “memories” at its developer conference. Can we not?",
-      "imageUrl": "https://media.wired.com/photos/69fb5209385c877c8a520d3e/master/pass/GettyImages-2150494902.jpg",
-      "source": "Wired",
-      "sourceUrl": "https://www.wired.com/story/i-am-begging-ai-companies-to-stop-naming-features-after-human-processes/",
-      "publishedAt": "2026-05-06T16:51:12.000Z"
-    },
-    {
       "id": "nci0sv",
       "title": "Ars Asks: Share your shell and show us your tricked-out terminals!",
       "summary": "A celebration of the tweaks and customizations that make life easier at the CLI.",
@@ -451,15 +460,6 @@
       "source": "Ars Technica",
       "sourceUrl": "https://arstechnica.com/security/2026/05/ubuntu-infrastructure-has-been-down-for-more-than-a-day/",
       "publishedAt": "2026-05-01T19:12:26.000Z"
-    },
-    {
-      "id": "gxoozr",
-      "title": "Cyber-Insecurity in the AI Era",
-      "summary": "Cybersecurity was already under strain before AI entered the stack. Now, as AI expands the attack surface and adds new complexity, the limits of legacy approaches are becoming harder to ignore. This session from MIT Technology Review’s EmTech AI conference explores why security must be rethought with AI at its core, not layered on after…",
-      "imageUrl": "https://images.unsplash.com/photo-1655720828018-edd2daec9349?w=800&q=80",
-      "source": "MIT Tech Review",
-      "sourceUrl": "https://www.technologyreview.com/2026/05/01/1136779/cyber-insecurity-in-the-ai-era/",
-      "publishedAt": "2026-05-01T15:54:01.000Z"
     },
     {
       "id": "h5ca51",
