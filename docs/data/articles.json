@@ -1,7 +1,25 @@
 {
-  "fetchedAt": "2026-05-08T17:41:38.757Z",
+  "fetchedAt": "2026-05-08T19:39:53.249Z",
   "count": 60,
   "articles": [
+    {
+      "id": "hdutu1",
+      "title": "All the latest updates on AI data centers",
+      "summary": "Massive new data centers are the physical foundation for tech companies’ hopes and dreams for AI. But the rush to expand warehouses full of energy-hungry servers has also kicked up fights across the world over their impact on power grids, utility bills, nearby communities, and the environment. From audacious plans to launch data centers into space to the latest legal battles over pollution, The Verge has the biggest news and reporting surrounding data centers. 43 percent of Americans blame data…",
+      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/04/STKS528_DATA_CENTERS_C.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "source": "The Verge",
+      "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/902546/data-centers-ai-energy-power-grids-controversy",
+      "publishedAt": "2026-05-08T18:45:08.000Z"
+    },
+    {
+      "id": "cc27i2",
+      "title": "Cloudflare says AI made 1,100 jobs obsolete, even as revenue hit a record high",
+      "summary": "CloudFlare announced its first large-scale layoff. CEO Matthew Prince says because of AI efficiency gains, the company doesn't need as many support roles.",
+      "imageUrl": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=800&q=80",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/05/08/cloudflare-says-ai-made-1100-jobs-obsolete-even-as-revenue-hit-a-record-high/",
+      "publishedAt": "2026-05-08T18:33:21.000Z"
+    },
     {
       "id": "ah9jsq",
       "title": "PlayStation sees AI as a ‘powerful tool’ to help make games",
@@ -39,21 +57,21 @@
       "publishedAt": "2026-05-08T15:25:02.000Z"
     },
     {
-      "id": "uoykz3",
-      "title": "There’s a Long-Shot Proposal to Protect California Workers From AI",
-      "summary": "California gubernatorial candidate Tom Steyer is proposing a new jobs guarantee for workers displaced by artificial intelligence.",
-      "imageUrl": "https://media.wired.com/photos/69fa6c65cfdc5f2b42e5b5ba/master/pass/pol_Tom_CA_GettyImages-2273635848.jpg",
-      "source": "Wired",
-      "sourceUrl": "https://www.wired.com/story/tom-steyer-proposes-jobs-guarantee-to-protect-california-workers-from-ai/",
-      "publishedAt": "2026-05-08T15:00:00.000Z"
-    },
-    {
       "id": "hnle2m",
       "title": "Nick Bostrom Has a Plan for Humanity’s ‘Big Retirement’",
       "summary": "The philosopher thinks humans should pursue advanced AI and the promise of a “solved world.”",
       "imageUrl": "https://media.wired.com/photos/69fb97105c1d9a514f66d2b3/master/pass/Backchannel-Q&A-Nick-Bostrom-Business-1145731695.jpg",
       "source": "Wired",
       "sourceUrl": "https://www.wired.com/story/nick-bostrom-has-a-plan-for-humanitys-big-retirement/",
+      "publishedAt": "2026-05-08T15:00:00.000Z"
+    },
+    {
+      "id": "uoykz3",
+      "title": "There’s a Long-Shot Proposal to Protect California Workers From AI",
+      "summary": "California gubernatorial candidate Tom Steyer is proposing a new jobs guarantee for workers displaced by artificial intelligence.",
+      "imageUrl": "https://media.wired.com/photos/69fa6c65cfdc5f2b42e5b5ba/master/pass/pol_Tom_CA_GettyImages-2273635848.jpg",
+      "source": "Wired",
+      "sourceUrl": "https://www.wired.com/story/tom-steyer-proposes-jobs-guarantee-to-protect-california-workers-from-ai/",
       "publishedAt": "2026-05-08T15:00:00.000Z"
     },
     {
@@ -73,6 +91,15 @@
       "source": "The Verge",
       "sourceUrl": "https://www.theverge.com/podcast/926707/openai-ceo-murati-musk-trial-vergecast",
       "publishedAt": "2026-05-08T13:31:37.000Z"
+    },
+    {
+      "id": "w1781",
+      "title": "Nanoleaf bets its future on robots, red light therapy, and AI",
+      "summary": "Nanoleaf teased a trio of new products focused on embodied AI as it looks to move its brand beyond smart lighting. | Image: Nanoleaf Smart lighting company Nanoleaf has been unusually quiet recently. While competitors such as Govee and Philips Hue have been pumping out new products and innovative features at an impressive pace, Nanoleaf has launched just a handful of smart lighting products in the last two years. There's a reason for this lull - the company has been going through a \"brand…",
+      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/05/Nanoleaf-AI-Robotics-New-Products-1.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "source": "The Verge",
+      "sourceUrl": "https://www.theverge.com/tech/926342/nanoleaf-smart-lighting-ai-robotics-red-light-wellness",
+      "publishedAt": "2026-05-08T12:15:00.000Z"
     },
     {
       "id": "ilj2h3",
@@ -291,15 +318,6 @@
       "publishedAt": "2026-05-07T14:24:54.000Z"
     },
     {
-      "id": "rvput",
-      "title": "OpenClaw and Claude can put your AI-generated podcasts in Spotify",
-      "summary": "Save to Spotify is a new command-line tool designed specifically for AI agents like OpenClaw, Claude Code, or OpenAI Codex. If you're the kind of person who collects research on a topic, then feeds it through their AI of choice to create audio summaries and personal podcasts, this lets you save them right alongside the latest episode of The Vergecast and Welcome to Night Vale on Spotify. To set it up, you need to download and install the Save to Spotify CLI from GitHub. Then you just prompt your…",
-      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/05/VRG_Illo_STK130_K_Radtke_Spotify_Podcast_1.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "source": "The Verge",
-      "sourceUrl": "https://www.theverge.com/entertainment/925916/save-to-spotify-ai-podcasts",
-      "publishedAt": "2026-05-07T14:15:40.000Z"
-    },
-    {
       "id": "l7yiyp",
       "title": "2 days left: Get 50% off a second pass to TechCrunch Disrupt 2026",
       "summary": "Two days left to save up to $410 on your pass, and get a second one at 50% off to TechCrunch Disrupt 2026. Offer ends May 8, 11:59 p.m. PT. Register now.",
@@ -307,24 +325,6 @@
       "source": "TechCrunch",
       "sourceUrl": "https://techcrunch.com/2026/05/07/2-days-left-get-50-off-a-second-pass-to-techcrunch-disrupt-2026/",
       "publishedAt": "2026-05-07T14:00:00.000Z"
-    },
-    {
-      "id": "7rtg4i",
-      "title": "Google’s taking a big swing at AI health with the Fitbit Air",
-      "summary": "It's a Whoop dupe. That was my first thought when I saw the new $99 Google Fitbit Air. You can hardly blame me. The band is screenless with a metallic fabric clasp. My eyes flickered between the Fitbit Air and my wrist, where I'm wearing a Whoop MG. Was I not seeing double? But as my press briefing went on, my opinion started changing. The Air is sort of like the OG Fitbits that Whoop then duped once Fitbit went all in on smartwatches. Think back to 2012, when the Fitbit One could clip to your…",
-      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/05/Lavender-Lifestyle.png?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "source": "The Verge",
-      "sourceUrl": "https://www.theverge.com/gadgets/925458/google-health-fitbit-air-ai-coaching-wearables-fitness-trackers",
-      "publishedAt": "2026-05-07T14:00:00.000Z"
-    },
-    {
-      "id": "i93fwv",
-      "title": "China’s Moonshot AI raises $2B at $20B valuation as demand for open source AI skyrockets",
-      "summary": "Moonshot's annualized recurring revenue topped $200 million in April, driven by rapid growth in paid subscriptions and API usage.",
-      "imageUrl": "https://images.unsplash.com/photo-1635070041078-e363dbe005cb?w=800&q=80",
-      "source": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/05/07/chinas-moonshot-ai-raises-2b-at-20b-valuation-as-demand-for-open-source-ai-skyrockets/",
-      "publishedAt": "2026-05-07T13:44:25.000Z"
     },
     {
       "id": "ro8dvn",
