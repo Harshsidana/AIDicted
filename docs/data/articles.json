@@ -1,7 +1,61 @@
 {
-  "fetchedAt": "2026-05-08T14:08:56.443Z",
+  "fetchedAt": "2026-05-08T17:41:38.757Z",
   "count": 60,
   "articles": [
+    {
+      "id": "ah9jsq",
+      "title": "PlayStation sees AI as a ‘powerful tool’ to help make games",
+      "summary": "As part of an earnings presentation on Friday, Sony shared how it's thinking about AI at the company, including many details about how it's evaluating AI as part of making PlayStation games. Generative AI has recently been showing up in bigger games - though many indie developers still reject it - and while Sony calls AI a \"powerful tool,\" it says that the \"vision, the design, and the emotional impact of our games will always come from the talent of our studios and performers.\" and that \"AI is…",
+      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25717608/247361_PS5_Pro_VPavic_55.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "source": "The Verge",
+      "sourceUrl": "https://www.theverge.com/games/926914/sony-playstation-ai-powerful-tool-games",
+      "publishedAt": "2026-05-08T16:30:56.000Z"
+    },
+    {
+      "id": "i1v55g",
+      "title": "Here’s what you need to know about the cruise ship hantavirus outbreak",
+      "summary": "MIT Technology Review Explains: Let our writers untangle the complex, messy world of technology to help you understand what’s coming next. You can read more from the series here. Eight passengers aboard a Dutch-flagged cruise ship have contracted a type of hantavirus, a rare virus transmitted by rats. Three of them have died. As the ship…",
+      "imageUrl": "https://images.unsplash.com/photo-1526374965328-7f61d4dc18c5?w=800&q=80",
+      "source": "MIT Tech Review",
+      "sourceUrl": "https://www.technologyreview.com/2026/05/08/1136988/heres-what-you-need-to-know-about-the-cruise-ship-hantavirus-outbreak/",
+      "publishedAt": "2026-05-08T16:19:40.000Z"
+    },
+    {
+      "id": "vh56z2",
+      "title": "The “people’s airline” and the enterprise AI gold rush",
+      "summary": "Everyone wants a piece of the enterprise AI pie, and this week, we saw a string of companies making their moves. From Anthropic and OpenAI announcing new joint ventures targeting enterprise AI deployment to SAP dropping $1B on German AI startup Prior Labs, it’s becoming clear that if you’re a startup building enterprise tools, you’re likely an acquisition target. On this episode of TechCrunch’s Equity podcast, hosts Kirsten Korosec, Anthony […]",
+      "imageUrl": "https://images.unsplash.com/photo-1526374965328-7f61d4dc18c5?w=800&q=80",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/podcast/the-peoples-airline-and-the-enterprise-ai-gold-rush/",
+      "publishedAt": "2026-05-08T15:46:17.000Z"
+    },
+    {
+      "id": "ww5caj",
+      "title": "Microsoft was worried OpenAI would run off to Amazon and ‘shit-talk’ Azure",
+      "summary": "OpenAI CEO Sam Altman and Microsoft CTO Kevin Scott. | Image: Getty Images When OpenAI was busy experimenting with AI-powered gaming bots, Microsoft CEO Satya Nadella and OpenAI CEO Sam Altman were in the early days of forming an AI partnership. Court documents from the ongoing Musk v. Altman trial have provided a rare look at the communications between Microsoft's top executives about investing in OpenAI and fears the AI startup could \"storm off to Amazon\" and \"shit-talk\" Microsoft. Just days…",
+      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/06/gettyimages-2153471300.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "source": "The Verge",
+      "sourceUrl": "https://www.theverge.com/report/926771/microsoft-openai-amazon-worries-shit-talk-azure",
+      "publishedAt": "2026-05-08T15:25:02.000Z"
+    },
+    {
+      "id": "uoykz3",
+      "title": "There’s a Long-Shot Proposal to Protect California Workers From AI",
+      "summary": "California gubernatorial candidate Tom Steyer is proposing a new jobs guarantee for workers displaced by artificial intelligence.",
+      "imageUrl": "https://media.wired.com/photos/69fa6c65cfdc5f2b42e5b5ba/master/pass/pol_Tom_CA_GettyImages-2273635848.jpg",
+      "source": "Wired",
+      "sourceUrl": "https://www.wired.com/story/tom-steyer-proposes-jobs-guarantee-to-protect-california-workers-from-ai/",
+      "publishedAt": "2026-05-08T15:00:00.000Z"
+    },
+    {
+      "id": "hnle2m",
+      "title": "Nick Bostrom Has a Plan for Humanity’s ‘Big Retirement’",
+      "summary": "The philosopher thinks humans should pursue advanced AI and the promise of a “solved world.”",
+      "imageUrl": "https://media.wired.com/photos/69fb97105c1d9a514f66d2b3/master/pass/Backchannel-Q&A-Nick-Bostrom-Business-1145731695.jpg",
+      "source": "Wired",
+      "sourceUrl": "https://www.wired.com/story/nick-bostrom-has-a-plan-for-humanitys-big-retirement/",
+      "publishedAt": "2026-05-08T15:00:00.000Z"
+    },
     {
       "id": "u56n5p",
       "title": "Last 24 hours to get 50% off a second pass to TechCrunch Disrupt 2026",
@@ -48,10 +102,10 @@
       "publishedAt": "2026-05-08T09:00:00.000Z"
     },
     {
-      "id": "lqdqwz",
-      "title": "Why you can never get your doctor to call you back",
+      "id": "m3tgc2",
+      "title": "The fax machine is the bottleneck in US healthcare, and VCs are starting to notice",
       "summary": "Like many AI companies automating work that humans currently do, Basata will eventually face a harder question about where the line is between augmenting workers and displacing them. For now, the founders say the administrative staff they work with aren't worried about that; they're more worried about drowning.",
-      "imageUrl": "https://images.unsplash.com/photo-1635070041078-e363dbe005cb?w=800&q=80",
+      "imageUrl": "https://images.unsplash.com/photo-1655720828018-edd2daec9349?w=800&q=80",
       "source": "TechCrunch",
       "sourceUrl": "https://techcrunch.com/2026/05/07/the-back-office-problem-that-explains-why-specialists-never-call-you-back/",
       "publishedAt": "2026-05-08T04:42:29.000Z"
@@ -273,15 +327,6 @@
       "publishedAt": "2026-05-07T13:44:25.000Z"
     },
     {
-      "id": "1qv33n",
-      "title": "Spotify wants to become the home for AI-generated personal audio",
-      "summary": "Users will be able to create a podcast from Codex or Claude Code and import it to Spotify.",
-      "imageUrl": "https://images.unsplash.com/photo-1676299081847-824916de030a?w=800&q=80",
-      "source": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/05/07/spotify-wants-to-become-the-home-for-ai-generated-personal-audio/",
-      "publishedAt": "2026-05-07T13:00:00.000Z"
-    },
-    {
       "id": "ro8dvn",
       "title": "The Download: the tech reshaping IVF and the rise of balcony solar",
       "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. What’s next for IVF IVF has brought millions of babies into the world over the last four decades. But the process can still be slow, painful, and expensive—and far from guaranteed…",
@@ -327,15 +372,6 @@
       "publishedAt": "2026-05-07T09:04:50.000Z"
     },
     {
-      "id": "2l0ujv",
-      "title": "Musk’s biggest loyalist became his biggest liability",
-      "summary": "I sat down in the Musk v. Altman trial courtroom today, painfully aware that no one was going to ask Shivon Zilis the question on everyone's minds: Girl, what the fuck are you doing? Zilis, who testified under oath that she is the mother of four of Musk's children, was… What's the best way to characterize this? A Musk adviser? She denies she was a \"chief of staff\" but says she worked for Musk's \"entire AI portfolio: Tesla, Neuralink, and OpenAI\" starting in 2017. The two met through OpenAI, and…",
-      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/05/STPK222_SHIVON_ZILIS2.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "source": "The Verge",
-      "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/925665/musk-altman-trial-shivon-zilis-testimony",
-      "publishedAt": "2026-05-06T23:37:02.000Z"
-    },
-    {
       "id": "4jg0tj",
       "title": "Elon Musk’s Last-Ditch Effort to Control OpenAI: Recruit Sam Altman to Tesla",
       "summary": "Messages between Shivon Zilis and Tesla executives reveal plans in 2017 to start a rival AI lab, potentially led by Altman or Demis Hassabis.",
@@ -343,33 +379,6 @@
       "source": "Wired",
       "sourceUrl": "https://www.wired.com/story/elon-musk-recruit-sam-altman-tesla-ai-lab-trial/",
       "publishedAt": "2026-05-06T23:23:45.000Z"
-    },
-    {
-      "id": "ozp6gu",
-      "title": "Google shuts down Project Mariner",
-      "summary": "Google has pulled the plug on Project Mariner, an experimental feature designed to perform tasks for you across the web, as reported earlier by Wired's Maxwell Zeff. The Project Mariner landing page now contains a message that says: \"Thank you for using Project Mariner. It was shut down on May 4th, 2026 and its technology voyaged to other Google products.\" Google first revealed Project Mariner in December 2024 and later announced an update allowing it to perform up to 10 tasks at a time. Over…",
-      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/05/project-mariner-logo.png?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "source": "The Verge",
-      "sourceUrl": "https://www.theverge.com/tech/925559/google-project-mariner-shut-down",
-      "publishedAt": "2026-05-06T21:21:45.000Z"
-    },
-    {
-      "id": "t7ux2",
-      "title": "Anthropic Gets in Bed With SpaceX as the AI Race Turns Weird",
-      "summary": "In an unexpected turn, the two companies signed a deal for Anthropic to use computing resources from Elon Musk’s xAI.",
-      "imageUrl": "https://media.wired.com/photos/69fb7a153d99bccc43e550bb/master/pass/Anthropic-SpaceX-Sign-Compute-Deal-Business-AP-25128659409640.jpg",
-      "source": "Wired",
-      "sourceUrl": "https://www.wired.com/story/anthropic-spacex-compute-deal-colossus/",
-      "publishedAt": "2026-05-06T18:28:52.000Z"
-    },
-    {
-      "id": "r9nzql",
-      "title": "Using AI for Just 10 Minutes Might Make You Lazy and Dumb, Study Shows",
-      "summary": "New research suggests that reliance on AI assistants can have a negative impact on people’s ability to think and problem solve.",
-      "imageUrl": "https://media.wired.com/photos/69fa72ee0e9ace3dc3d2824b/master/pass/AI-Lab-AI-Coming-For-Your-Brain-Business.jpg",
-      "source": "Wired",
-      "sourceUrl": "https://www.wired.com/story/using-ai-negative-impact-thinking-problem-solving-study/",
-      "publishedAt": "2026-05-06T18:00:00.000Z"
     },
     {
       "id": "nci0sv",
@@ -442,15 +451,6 @@
       "source": "MIT Tech Review",
       "sourceUrl": "https://www.technologyreview.com/2026/05/04/1136826/week-one-of-the-musk-v-altman-trial-what-it-was-like-in-the-room/",
       "publishedAt": "2026-05-04T15:51:27.000Z"
-    },
-    {
-      "id": "t8fn14",
-      "title": "Tailoring AI solutions for health care needs",
-      "summary": "The AI market is full of big promises of grand transformation. Health care is a prime target for those promises, beset as it is by financial pressures, labor shortages, and the growing burden of caring for an aging population. AI developers are targeting functions that vary widely, from curing cancer and performing surgery to streamlining…",
-      "imageUrl": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=800&q=80",
-      "source": "MIT Tech Review",
-      "sourceUrl": "https://www.technologyreview.com/2026/05/04/1134425/tailoring-ai-solutions-for-health-care-needs/",
-      "publishedAt": "2026-05-04T13:00:00.000Z"
     },
     {
       "id": "2o6v9w",
