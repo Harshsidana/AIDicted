@@ -1,7 +1,16 @@
 {
-  "fetchedAt": "2026-05-08T19:39:53.249Z",
+  "fetchedAt": "2026-05-08T21:10:32.140Z",
   "count": 60,
   "articles": [
+    {
+      "id": "fuh3i",
+      "title": "Intel’s comeback story is even wilder than it seems",
+      "summary": "Intel's stock has risen a stunning 490% over the past year, a bet by Wall Street that may be running well ahead of the company's actual turnaround.",
+      "imageUrl": "https://images.unsplash.com/photo-1526374965328-7f61d4dc18c5?w=800&q=80",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/05/08/intels-comeback-story-is-even-wilder-than-it-seems/",
+      "publishedAt": "2026-05-08T20:02:52.000Z"
+    },
     {
       "id": "hdutu1",
       "title": "All the latest updates on AI data centers",
@@ -12,9 +21,18 @@
       "publishedAt": "2026-05-08T18:45:08.000Z"
     },
     {
+      "id": "8cfwxs",
+      "title": "Chaos erupts as cyberattack disrupts learning platform Canvas amid finals",
+      "summary": "Across the country, schools and colleges postpone year-end tests.",
+      "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2026/05/GettyImages-2192144566-1152x648.jpg",
+      "source": "Ars Technica",
+      "sourceUrl": "https://arstechnica.com/security/2026/05/chaos-erupts-as-cyberattack-disrupts-learning-platform-canvas-amid-finals/",
+      "publishedAt": "2026-05-08T18:33:48.000Z"
+    },
+    {
       "id": "cc27i2",
       "title": "Cloudflare says AI made 1,100 jobs obsolete, even as revenue hit a record high",
-      "summary": "CloudFlare announced its first large-scale layoff. CEO Matthew Prince says because of AI efficiency gains, the company doesn't need as many support roles.",
+      "summary": "Cloudflare announced its first large-scale layoff. CEO Matthew Prince says because of AI efficiency gains, the company doesn't need as many support roles.",
       "imageUrl": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=800&q=80",
       "source": "TechCrunch",
       "sourceUrl": "https://techcrunch.com/2026/05/08/cloudflare-says-ai-made-1100-jobs-obsolete-even-as-revenue-hit-a-record-high/",
@@ -318,15 +336,6 @@
       "publishedAt": "2026-05-07T14:24:54.000Z"
     },
     {
-      "id": "l7yiyp",
-      "title": "2 days left: Get 50% off a second pass to TechCrunch Disrupt 2026",
-      "summary": "Two days left to save up to $410 on your pass, and get a second one at 50% off to TechCrunch Disrupt 2026. Offer ends May 8, 11:59 p.m. PT. Register now.",
-      "imageUrl": "https://images.unsplash.com/photo-1526374965328-7f61d4dc18c5?w=800&q=80",
-      "source": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/05/07/2-days-left-get-50-off-a-second-pass-to-techcrunch-disrupt-2026/",
-      "publishedAt": "2026-05-07T14:00:00.000Z"
-    },
-    {
       "id": "ro8dvn",
       "title": "The Download: the tech reshaping IVF and the rise of balcony solar",
       "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. What’s next for IVF IVF has brought millions of babies into the world over the last four decades. But the process can still be slow, painful, and expensive—and far from guaranteed…",
@@ -532,15 +541,6 @@
       "source": "Ars Technica",
       "sourceUrl": "https://arstechnica.com/security/2026/04/russia-friendly-exchange-says-western-special-service-behind-15-million-cyberattack/",
       "publishedAt": "2026-04-17T21:28:35.000Z"
-    },
-    {
-      "id": "im0ag2",
-      "title": "Recent advances push Big Tech closer to the Q-Day danger zone",
-      "summary": "Here's which players are winning the race to transition to post-quantum crypto.",
-      "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2024/03/GettyImages-1070527780-1152x648.jpg",
-      "source": "Ars Technica",
-      "sourceUrl": "https://arstechnica.com/security/2026/04/while-some-big-tech-players-accelerate-pqc-readiness-others-stay-the-course/",
-      "publishedAt": "2026-04-17T11:00:50.000Z"
     }
   ]
 }
