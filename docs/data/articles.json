@@ -1,7 +1,16 @@
 {
-  "fetchedAt": "2026-05-08T01:18:32.712Z",
+  "fetchedAt": "2026-05-08T04:41:15.065Z",
   "count": 60,
   "articles": [
+    {
+      "id": "wf7evv",
+      "title": "Musk v. Altman Evidence Shows What Microsoft Executives Thought of OpenAI",
+      "summary": "Leaders at the tech giant were skeptical of OpenAI—but wary of pushing it into the arms of Amazon, according to emails dating back to 2018.",
+      "imageUrl": "https://media.wired.com/photos/69fd155e0436533ae1a17e00/master/pass/What-Microsoft-Executives-Were-Dishing-About-OpenAI-Business-1778707567.jpg",
+      "source": "Wired",
+      "sourceUrl": "https://www.wired.com/story/microsoft-executives-discuss-openai-sam-altman-2018/",
+      "publishedAt": "2026-05-08T01:42:14.000Z"
+    },
     {
       "id": "6dot1e",
       "title": "OpenAI launches new voice intelligence features in its API",
@@ -343,15 +352,6 @@
       "source": "Wired",
       "sourceUrl": "https://www.wired.com/story/i-am-begging-ai-companies-to-stop-naming-features-after-human-processes/",
       "publishedAt": "2026-05-06T16:51:12.000Z"
-    },
-    {
-      "id": "e6912g",
-      "title": "Hackers Hate AI Slop Even More Than You Do",
-      "summary": "It's not just you. Scammers, hackers, and other cybercriminals are complaining about “AI shit” flooding platforms where they discuss cyberattacks and other illegal activity.",
-      "imageUrl": "https://media.wired.com/photos/69fb5ce596ac6b501416fbb0/master/pass/Security_EvenCybercriminalsAreAnnoyedbyAISlop_v2.jpg",
-      "source": "Wired",
-      "sourceUrl": "https://www.wired.com/story/cybercriminals-are-complaining-about-ai-slop-flooding-their-forums/",
-      "publishedAt": "2026-05-06T15:49:12.000Z"
     },
     {
       "id": "nci0sv",
