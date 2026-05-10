@@ -1,7 +1,25 @@
 {
-  "fetchedAt": "2026-05-10T19:15:35.202Z",
+  "fetchedAt": "2026-05-10T21:25:56.947Z",
   "count": 60,
   "articles": [
+    {
+      "id": "qsv7f6",
+      "title": "Get ready for the whisper-filled office of the future",
+      "summary": "How will work setups change if we spend more and more time talking to our computers?",
+      "imageUrl": "https://images.unsplash.com/photo-1620712943543-bcc4688e7485?w=800&q=80",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/05/10/get-ready-for-the-whisper-filled-office-of-the-future/",
+      "publishedAt": "2026-05-10T21:15:30.000Z"
+    },
+    {
+      "id": "9zbmpl",
+      "title": "Anthropic says ‘evil’ portrayals of AI were responsible for Claude’s blackmail attempts",
+      "summary": "Fictional portrayals of artificial intelligence can have a real effect on AI models, according to Anthropic.",
+      "imageUrl": "https://images.unsplash.com/photo-1550751827-4bd374c3f58b?w=800&q=80",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/05/10/anthropic-says-evil-portrayals-of-ai-were-responsible-for-claudes-blackmail-attempts/",
+      "publishedAt": "2026-05-10T20:40:41.000Z"
+    },
     {
       "id": "psrlv4",
       "title": "We’re feeling cynical about xAI’s big deal with Anthropic",
@@ -273,15 +291,6 @@
       "publishedAt": "2026-05-07T20:20:20.000Z"
     },
     {
-      "id": "smm1hg",
-      "title": "Perplexity’s Personal Computer is now available to everyone on Mac",
-      "summary": "Perplexity's Personal Computer brings AI agents to your Mac, and is now open to everyone.",
-      "imageUrl": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=800&q=80",
-      "source": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/05/07/perplexitys-personal-computer-is-now-available-everyone-on-mac/",
-      "publishedAt": "2026-05-07T19:57:59.000Z"
-    },
-    {
       "id": "u5yfbt",
       "title": "Mira Murati’s deposition pulled back the curtain on Sam Altman’s ouster",
       "summary": "The week leading up to Thanksgiving 2023 was the AI industry's biggest soap opera moment. OpenAI CEO Sam Altman was abruptly ousted from his role at the ChatGPT maker. The explanation? That Altman was \"not consistently candid in his communications with the board.\" Now, via witness testimony and trial exhibits in Musk v. Altman, the public is getting a concrete look behind the scenes of that dramatic weekend for the first time, much of it centered on former CTO Mira Murati. It was a unique…",
@@ -307,15 +316,6 @@
       "source": "The Verge",
       "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/926356/spacex-terafab-plant-cost-ai-chips",
       "publishedAt": "2026-05-07T19:26:16.000Z"
-    },
-    {
-      "id": "jvd8ng",
-      "title": "Elon Musk’s lawsuit is putting OpenAI’s safety record under the microscope",
-      "summary": "Elon Musk's legal effort to dismantle OpenAI may hinge on how its for-profit subsidiary enhances or detracts from the frontier lab's founding mission of ensuring that humanity benefits from artificial general intelligence.",
-      "imageUrl": "https://images.unsplash.com/photo-1526374965328-7f61d4dc18c5?w=800&q=80",
-      "source": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/05/07/elon-musks-lawsuit-is-putting-openais-safety-record-under-the-microscope/",
-      "publishedAt": "2026-05-07T19:21:21.000Z"
     },
     {
       "id": "bik5l9",
