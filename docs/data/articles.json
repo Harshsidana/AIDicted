@@ -1,7 +1,88 @@
 {
-  "fetchedAt": "2026-05-11T12:45:33.068Z",
+  "fetchedAt": "2026-05-11T18:19:08.908Z",
   "count": 60,
   "articles": [
+    {
+      "id": "ir1uxl",
+      "title": "Three things in AI to watch, according to a Nobel-winning economist",
+      "summary": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here. A few months before he was awarded the Nobel Prize in economics in 2024, Daron Acemoglu published a paper that earned him few fans in Silicon Valley. Contrary to what Big Tech…",
+      "imageUrl": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=800&q=80",
+      "source": "MIT Tech Review",
+      "sourceUrl": "https://www.technologyreview.com/2026/05/11/1137090/three-things-in-ai-to-watch-according-to-a-nobel-winning-economist/",
+      "publishedAt": "2026-05-11T17:35:12.000Z"
+    },
+    {
+      "id": "smd4zk",
+      "title": "Digg tries again, this time as an AI news aggregator",
+      "summary": "Digg returns (again) as another place to read AI news.",
+      "imageUrl": "https://images.unsplash.com/photo-1676299081847-824916de030a?w=800&q=80",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/05/11/digg-tries-again-this-time-as-an-ai-news-aggregator/",
+      "publishedAt": "2026-05-11T17:02:35.000Z"
+    },
+    {
+      "id": "w2w0i8",
+      "title": "Google stopped a zero-day hack that it says was developed with AI",
+      "summary": "For the first time, Google says it has spotted and stopped a zero-day exploit developed with AI. According to a report from Google Threat Intelligence Group (GTIG), \"prominent cyber crime threat actors\" were planning to use the vulnerability for a \"mass exploitation event\" that would have allowed them to bypass two-factor authentication on an unnamed \"open-source, web-based system administration tool.\" Google's researchers found hints in the Python script used for the exploit that indicated help…",
+      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25330660/STK414_AI_CHATBOT_H.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "source": "The Verge",
+      "sourceUrl": "https://www.theverge.com/tech/928007/google-ai-zero-day-exploit-stopped",
+      "publishedAt": "2026-05-11T16:09:42.000Z"
+    },
+    {
+      "id": "rfngrl",
+      "title": "Live updates from Elon Musk and Sam Altman’s court battle over the future of OpenAI",
+      "summary": "Sam Altman and Elon Musk are facing off in a high-stakes trial that could alter the future of OpenAI and its most well-known product, ChatGPT. In 2024, Musk filed a lawsuit accusing OpenAI of abandoning its founding mission of developing AI to benefit humanity and shifting focus to boosting profits instead. Elon Musk, his financial manager and Neuralink CEO, Jared Birchall, and OpenAI cofounder Greg Brockman have already testified before the jury. Shivon Zilis, a former OpenAI board member who…",
+      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/04/268474_musk_vs_altman_CVirginia.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "source": "The Verge",
+      "sourceUrl": "https://www.theverge.com/tech/917225/sam-altman-elon-musk-openai-lawsuit",
+      "publishedAt": "2026-05-11T15:27:12.000Z"
+    },
+    {
+      "id": "l7iadu",
+      "title": "Joanna Stern is not a robot, but she lived with them",
+      "summary": "My guest today is longtime friend of the show Joanna Stern. You all know Joanna: she is the former senior personal technology columnist for The Wall Street Journal, a former Decoder guest host, one of my cofounders here at The Verge, and also just one of my very closest friends. I mention that because Joanna just left that lofty perch at The Journal to start her own media company called New Things. She’s starting with her new book about AI, called I Am Not a Robot, which is out this week on May…",
+      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/05/DCD_joanna_stern.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "source": "The Verge",
+      "sourceUrl": "https://www.theverge.com/podcast/926752/joanna-stern-i-am-not-a-robot-new-things-media-youtube-ai-automation",
+      "publishedAt": "2026-05-11T14:00:00.000Z"
+    },
+    {
+      "id": "c48lc5",
+      "title": "Fostering breakthrough AI innovation through customer-back engineering",
+      "summary": "Despite years of digitization, organizations capture less than one-third of the value expected from digital investments, according to McKinsey research. That’s because most big companies begin with technological capabilities and bolt applications onto them, rather than starting with customer needs and working backward to technology solutions. Not prioritizing the customer can create fragmented solutions; disjointed…",
+      "imageUrl": "https://images.unsplash.com/photo-1526374965328-7f61d4dc18c5?w=800&q=80",
+      "source": "MIT Tech Review",
+      "sourceUrl": "https://www.technologyreview.com/2026/05/11/1136967/fostering-breakthrough-ai-innovation-through-customer-back-engineering/",
+      "publishedAt": "2026-05-11T13:33:06.000Z"
+    },
+    {
+      "id": "suqu8a",
+      "title": "There aren’t enough rockets for space data centers — Cowboy Space raised $275M to build them",
+      "summary": "The apparently insatiable demand for AI compute has data center entrepreneurs looking to the stars. There's a key problem: There aren't enough rockets to put data centers in orbit around Earth, and they're too expensive.",
+      "imageUrl": "https://images.unsplash.com/photo-1526374965328-7f61d4dc18c5?w=800&q=80",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/05/11/there-arent-enough-rockets-for-space-data-centers-cowboy-space-raised-275-million-to-build-them/",
+      "publishedAt": "2026-05-11T13:00:00.000Z"
+    },
+    {
+      "id": "61adv7",
+      "title": "Innovation abounds in device charging",
+      "summary": "The changes may be less perceptible than in smartphones, tablets, or wearables, but chargers have also been quietly reinvented over the last decade. At one time a bulky mix of tangled cables and connectors, slow to perform and prone to overheating, they’re now smaller, safer, and faster, thanks to a slew of technological advances. These…",
+      "imageUrl": "https://images.unsplash.com/photo-1550751827-4bd374c3f58b?w=800&q=80",
+      "source": "MIT Tech Review",
+      "sourceUrl": "https://www.technologyreview.com/2026/05/11/1136406/innovation-abounds-in-device-charging/",
+      "publishedAt": "2026-05-11T13:00:00.000Z"
+    },
+    {
+      "id": "x6kcy3",
+      "title": "Implementing advanced AI technologies in finance",
+      "summary": "In finance departments that have long been defined by precision and control, AI has arrived less as a neatly managed upgrade than as a quiet insurgency. Employees are already using it while leadership races to impose structure, governance, and strategy after the fact. The result is a paradox: one of the most tightly regulated functions…",
+      "imageUrl": "https://images.unsplash.com/photo-1676299081847-824916de030a?w=800&q=80",
+      "source": "MIT Tech Review",
+      "sourceUrl": "https://www.technologyreview.com/2026/05/11/1136786/implementing-advanced-ai-technologies-in-finance/",
+      "publishedAt": "2026-05-11T13:00:00.000Z"
+    },
     {
       "id": "w48020",
       "title": "The Download: the hantavirus outbreak and Musk v. Altman week 2",
@@ -183,21 +264,21 @@
       "publishedAt": "2026-05-08T15:25:02.000Z"
     },
     {
-      "id": "uoykz3",
-      "title": "There’s a Long-Shot Proposal to Protect California Workers From AI",
-      "summary": "California gubernatorial candidate Tom Steyer is proposing a new jobs guarantee for workers displaced by artificial intelligence.",
-      "imageUrl": "https://media.wired.com/photos/69fa6c65cfdc5f2b42e5b5ba/master/pass/pol_Tom_CA_GettyImages-2273635848.jpg",
-      "source": "Wired",
-      "sourceUrl": "https://www.wired.com/story/tom-steyer-proposes-jobs-guarantee-to-protect-california-workers-from-ai/",
-      "publishedAt": "2026-05-08T15:00:00.000Z"
-    },
-    {
       "id": "hnle2m",
       "title": "Nick Bostrom Has a Plan for Humanity’s ‘Big Retirement’",
       "summary": "The philosopher thinks humans should pursue advanced AI and the promise of a “solved world.”",
       "imageUrl": "https://media.wired.com/photos/69fb97105c1d9a514f66d2b3/master/pass/Backchannel-Q&A-Nick-Bostrom-Business-1145731695.jpg",
       "source": "Wired",
       "sourceUrl": "https://www.wired.com/story/nick-bostrom-has-a-plan-for-humanitys-big-retirement/",
+      "publishedAt": "2026-05-08T15:00:00.000Z"
+    },
+    {
+      "id": "uoykz3",
+      "title": "There’s a Long-Shot Proposal to Protect California Workers From AI",
+      "summary": "California gubernatorial candidate Tom Steyer is proposing a new jobs guarantee for workers displaced by artificial intelligence.",
+      "imageUrl": "https://media.wired.com/photos/69fa6c65cfdc5f2b42e5b5ba/master/pass/pol_Tom_CA_GettyImages-2273635848.jpg",
+      "source": "Wired",
+      "sourceUrl": "https://www.wired.com/story/tom-steyer-proposes-jobs-guarantee-to-protect-california-workers-from-ai/",
       "publishedAt": "2026-05-08T15:00:00.000Z"
     },
     {
@@ -291,15 +372,6 @@
       "publishedAt": "2026-05-07T21:37:20.000Z"
     },
     {
-      "id": "5nkb93",
-      "title": "Voi founders’ new AI startup Pit has become the latest rising star out of Stockholm",
-      "summary": "AI startup Pit is led by the co-founders of European scooter giant Voi and backed by a16z, which is leading the startup’s $16 million seed round.",
-      "imageUrl": "https://images.unsplash.com/photo-1620712943543-bcc4688e7485?w=800&q=80",
-      "source": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/05/07/voi-founders-new-ai-startup-pit-has-become-the-latest-rising-star-out-of-stockholm/",
-      "publishedAt": "2026-05-07T21:02:11.000Z"
-    },
-    {
       "id": "ug0xpi",
       "title": "How to Disable Google's Gemini in Chrome",
       "summary": "Chrome users were caught off guard by a 4-GB Google AI model baked into Chrome, sparking privacy concerns. The good news: You can easily uninstall it. The bad? You might not want to.",
@@ -307,15 +379,6 @@
       "source": "Wired",
       "sourceUrl": "https://www.wired.com/story/you-can-disable-gemini-in-chrome-if-its-freaking-you-out/",
       "publishedAt": "2026-05-07T20:31:57.000Z"
-    },
-    {
-      "id": "f20w5d",
-      "title": "OpenAI introduces new ‘Trusted Contact’ safeguard for cases of possible self-harm",
-      "summary": "The company is expanding its efforts to protect ChatGPT users in cases where conversations may turn to self-harm.",
-      "imageUrl": "https://images.unsplash.com/photo-1550751827-4bd374c3f58b?w=800&q=80",
-      "source": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/05/07/openai-introduces-new-trusted-contact-safeguard-for-cases-of-possible-self-harm/",
-      "publishedAt": "2026-05-07T20:20:20.000Z"
     },
     {
       "id": "u5yfbt",
@@ -336,15 +399,6 @@
       "publishedAt": "2026-05-07T19:39:22.000Z"
     },
     {
-      "id": "t7gtgm",
-      "title": "SpaceX has a $55 billion plan to build AI chips in Texas",
-      "summary": "Elon Musk's plans to get into the AI chip manufacturing business are going to be costly. As the The New York Times and CNBC report, SpaceX is planning to invest at least $55 billion into its \"Terafab\" chip plant in Austin, Texas. That's according to the details of a public hearing notice filed in Grimes County, Texas, for a meeting to request tax breaks for the project. The company says that if additional phases are constructed, its investment could someday balloon to $119 billion total. When…",
-      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/05/gettyimages-2269580650.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "source": "The Verge",
-      "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/926356/spacex-terafab-plant-cost-ai-chips",
-      "publishedAt": "2026-05-07T19:26:16.000Z"
-    },
-    {
       "id": "bik5l9",
       "title": "Mozilla says 271 vulnerabilities found by Mythos have \"almost no false positives\"",
       "summary": "The developer of Firefox says it has \"completely bought in\" on AI-assisted bug discovery.",
@@ -352,24 +406,6 @@
       "source": "Ars Technica",
       "sourceUrl": "https://arstechnica.com/information-technology/2026/05/mozilla-says-271-vulnerabilities-found-by-mythos-have-almost-no-false-positives/",
       "publishedAt": "2026-05-07T19:18:16.000Z"
-    },
-    {
-      "id": "spjrny",
-      "title": "ChatGPT’s ‘Trusted Contact’ will alert loved ones of safety concerns",
-      "summary": "OpenAI is launching an optional safety feature for ChatGPT that allows adult users to assign an emergency contact for mental health and safety concerns. Friends, family members, or caregivers designated as a \"Trusted Contact\" will be notified if OpenAI detects that a person may have discussed topics like self-harm or suicide with the chatbot. \"Trusted Contact is designed around a simple, expert-validated premise: when someone may be in crisis, connecting with someone they know and trust can make…",
-      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25462005/STK155_OPEN_AI_CVirginia_B.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "source": "The Verge",
-      "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/925874/chatgpt-trusted-contact-emergency-self-harm-notification",
-      "publishedAt": "2026-05-07T18:00:00.000Z"
-    },
-    {
-      "id": "rfngrl",
-      "title": "Live updates from Elon Musk and Sam Altman’s court battle over the future of OpenAI",
-      "summary": "Sam Altman and Elon Musk are facing off in a high-stakes trial that could alter the future of OpenAI and its most well-known product, ChatGPT. In 2024, Musk filed a lawsuit accusing OpenAI of abandoning its founding mission of developing AI to benefit humanity and shifting focus to boosting profits instead. Elon Musk, his financial manager and Neuralink CEO, Jared Birchall, and OpenAI cofounder Greg Brockman have already testified before the jury. Shivon Zilis, a former OpenAI board member who…",
-      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/04/268474_musk_vs_altman_CVirginia.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "source": "The Verge",
-      "sourceUrl": "https://www.theverge.com/tech/917225/sam-altman-elon-musk-openai-lawsuit",
-      "publishedAt": "2026-05-07T17:40:50.000Z"
     },
     {
       "id": "m2lfyd",
@@ -390,24 +426,6 @@
       "publishedAt": "2026-05-07T12:10:00.000Z"
     },
     {
-      "id": "p49wrl",
-      "title": "The balcony solar boom is coming to the US",
-      "summary": "Dozens of US states are considering legislation to allow people to install plug-in solar systems, often called balcony solar. These small arrays require little to no setup and could help cut emissions and power bills. Balcony solar is already popular in Europe, and proponents say that the systems could make solar power more accessible for…",
-      "imageUrl": "https://images.unsplash.com/photo-1676299081847-824916de030a?w=800&q=80",
-      "source": "MIT Tech Review",
-      "sourceUrl": "https://www.technologyreview.com/2026/05/07/1136933/balcony-solar-boom/",
-      "publishedAt": "2026-05-07T10:00:00.000Z"
-    },
-    {
-      "id": "9fvaro",
-      "title": "What’s next for IVF",
-      "summary": "MIT Technology Review’s What’s Next series looks across industries, trends, and technologies to give you a first look at the future. You can read the rest of them here. Forty-eight years ago this July, Louise Joy Brown became the world’s first person born with the help of in vitro fertilization. Millions more IVF babies have entered…",
-      "imageUrl": "https://images.unsplash.com/photo-1655720828018-edd2daec9349?w=800&q=80",
-      "source": "MIT Tech Review",
-      "sourceUrl": "https://www.technologyreview.com/2026/05/07/1136946/whats-next-for-ivf-ai-robot-pgt-gene-editing/",
-      "publishedAt": "2026-05-07T09:04:50.000Z"
-    },
-    {
       "id": "nci0sv",
       "title": "Ars Asks: Share your shell and show us your tricked-out terminals!",
       "summary": "A celebration of the tweaks and customizations that make life easier at the CLI.",
@@ -417,15 +435,6 @@
       "publishedAt": "2026-05-06T13:32:47.000Z"
     },
     {
-      "id": "wdgxfh",
-      "title": "The Download: seafloor science and military chatbots",
-      "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. Inexpensive seafloor-hopping submersibles could stoke deep-sea science—and mining Last week, two oblong neon submersibles started to descend nearly 6,000 meters into the Pacific Ocean. Throughout the rest of May, they will…",
-      "imageUrl": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=800&q=80",
-      "source": "MIT Tech Review",
-      "sourceUrl": "https://www.technologyreview.com/2026/05/06/1136917/the-download-seafloor-science-military-ai-chatbots/",
-      "publishedAt": "2026-05-06T12:10:00.000Z"
-    },
-    {
       "id": "k35nqd",
       "title": "Widely used Daemon Tools disk app backdoored in monthlong supply-chain attack",
       "summary": "Daemon Tools users: It's time to check your machines for stealthy infections, stat.",
@@ -433,15 +442,6 @@
       "source": "Ars Technica",
       "sourceUrl": "https://arstechnica.com/security/2026/05/widely-used-daemon-tools-disk-app-backdoored-in-monthlong-supply-chain-attack/",
       "publishedAt": "2026-05-05T19:46:15.000Z"
-    },
-    {
-      "id": "9fcedy",
-      "title": "The Download: inside the Musk v. Altman trial, and AI for democracy",
-      "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. Week one of the Musk v. Altman trial: what it was like in the room Two of the most powerful figures in AI—Sam Altman and Elon Musk—are in the middle of…",
-      "imageUrl": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=800&q=80",
-      "source": "MIT Tech Review",
-      "sourceUrl": "https://www.technologyreview.com/2026/05/05/1136848/the-download-musk-openai-altman-trial-ai-democracy/",
-      "publishedAt": "2026-05-05T12:10:00.000Z"
     },
     {
       "id": "fe46wf",
