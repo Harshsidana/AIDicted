@@ -1,7 +1,34 @@
 {
-  "fetchedAt": "2026-05-11T09:55:53.425Z",
+  "fetchedAt": "2026-05-11T12:45:33.068Z",
   "count": 60,
   "articles": [
+    {
+      "id": "w48020",
+      "title": "The Download: the hantavirus outbreak and Musk v. Altman week 2",
+      "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. Here’s what you need to know about the cruise ship hantavirus outbreak Last week, eight passengers aboard a Dutch-flagged cruise ship contracted a type of hantavirus transmitted by rats. Three have…",
+      "imageUrl": "https://images.unsplash.com/photo-1635070041078-e363dbe005cb?w=800&q=80",
+      "source": "MIT Tech Review",
+      "sourceUrl": "https://www.technologyreview.com/2026/05/11/1137031/the-download-hantavirus-outbreak-musk-altman-trial/",
+      "publishedAt": "2026-05-11T12:10:00.000Z"
+    },
+    {
+      "id": "l69w7a",
+      "title": "CUDA Proves Nvidia Is a Software Company",
+      "summary": "There’s a deep, forbidding moat that surrounds Nvidia—and it has nothing to do with hardware.",
+      "imageUrl": "https://media.wired.com/photos/69fb095746deb466a6e86080/master/pass/WRD_CUDA_FINAL_RGB.png",
+      "source": "Wired",
+      "sourceUrl": "https://www.wired.com/story/cuda-proves-nvidia-is-a-software-company/",
+      "publishedAt": "2026-05-11T10:00:00.000Z"
+    },
+    {
+      "id": "s5zsd7",
+      "title": "I Work in Hollywood. Everyone Who Used to Make TV Is Now Secretly Training AI",
+      "summary": "For screenwriters like me—and job seekers all over—AI gig work is the new waiting tables. In eight months, I’ve done 20 of these soul-crushing contracts for five different platforms. It’s bad.",
+      "imageUrl": "https://media.wired.com/photos/69f9d07ab5498e5bcdc18e55/master/pass/WIRED-AnastasiaKraynyuk-HollywoodAI-01.gif",
+      "source": "Wired",
+      "sourceUrl": "https://www.wired.com/story/i-work-in-hollywood-everyone-who-used-to-make-tv-now-training-ai/",
+      "publishedAt": "2026-05-11T10:00:00.000Z"
+    },
     {
       "id": "qsv7f6",
       "title": "Get ready for the whisper-filled office of the future",
@@ -363,24 +390,6 @@
       "publishedAt": "2026-05-07T12:10:00.000Z"
     },
     {
-      "id": "py7p5y",
-      "title": "Thousands of Vibe-Coded Apps Expose Corporate and Personal Data on the Open Web",
-      "summary": "Companies like Lovable, Base44, Replit, and Netlify use AI to let anyone build a web app in seconds—and in thousands of cases, spill highly sensitive data onto the public internet.",
-      "imageUrl": "https://media.wired.com/photos/69fa825a7fe14eb8313cc3c7/master/pass/security_vibecodeexposure_gety.jpg",
-      "source": "Wired",
-      "sourceUrl": "https://www.wired.com/story/thousands-of-vibe-coded-apps-expose-corporate-and-personal-data-on-the-open-web/",
-      "publishedAt": "2026-05-07T11:00:00.000Z"
-    },
-    {
-      "id": "szogkh",
-      "title": "This Reggae Band Is in a Nightmare Battle Against AI Slop Remixes",
-      "summary": "When Stick Figure’s seven-year-old song shot up the charts, the band was thrilled. But its viral moment was spurred by unauthorized AI remixes.",
-      "imageUrl": "https://media.wired.com/photos/69fa2d5eb7705358286eaf20/master/pass/His-Song-Is-Going-Viral%E2%80%94But-Its-All-Unauthorized-AI-Slop-Remixes-Culture-2-Additional%20Photo.jpg",
-      "source": "Wired",
-      "sourceUrl": "https://www.wired.com/story/this-reggae-band-is-in-a-nightmare-battle-against-ai-slop-remixes/",
-      "publishedAt": "2026-05-07T11:00:00.000Z"
-    },
-    {
       "id": "p49wrl",
       "title": "The balcony solar boom is coming to the US",
       "summary": "Dozens of US states are considering legislation to allow people to install plug-in solar systems, often called balcony solar. These small arrays require little to no setup and could help cut emissions and power bills. Balcony solar is already popular in Europe, and proponents say that the systems could make solar power more accessible for…",
@@ -442,15 +451,6 @@
       "source": "Ars Technica",
       "sourceUrl": "https://arstechnica.com/information-technology/2026/05/why-reddit-blocked-my-daily-visit-to-its-mobile-website/",
       "publishedAt": "2026-05-05T11:20:08.000Z"
-    },
-    {
-      "id": "gbihew",
-      "title": "A blueprint for using AI to strengthen democracy",
-      "summary": "Every few centuries, changes in how information moves reshape how societies govern themselves. The printing press spread vernacular literacy, helping give rise to the Reformation and, eventually, representative government. The telegraph made it possible to administer vast nations like the US, accelerating the growth of the modern bureaucratic state. Broadcast media created shared national audiences,…",
-      "imageUrl": "https://images.unsplash.com/photo-1485827404703-89b55fcc595e?w=800&q=80",
-      "source": "MIT Tech Review",
-      "sourceUrl": "https://www.technologyreview.com/2026/05/05/1136843/ai-democracy-blueprint/",
-      "publishedAt": "2026-05-05T09:00:00.000Z"
     },
     {
       "id": "xo3s4q",
