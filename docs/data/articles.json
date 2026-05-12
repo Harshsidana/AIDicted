@@ -1,7 +1,43 @@
 {
-  "fetchedAt": "2026-05-11T23:02:36.160Z",
+  "fetchedAt": "2026-05-12T01:17:33.535Z",
   "count": 60,
   "articles": [
+    {
+      "id": "qqej1s",
+      "title": "Riding an AI rally, Robinhood preps second retail venture IPO",
+      "summary": "Robinhood files confidentially for its second venture fund, this time targeting growth as well as early-stage startups.",
+      "imageUrl": "https://images.unsplash.com/photo-1526374965328-7f61d4dc18c5?w=800&q=80",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/05/11/riding-an-ai-rally-robinhood-preps-second-retail-venture-ipo/",
+      "publishedAt": "2026-05-12T00:09:01.000Z"
+    },
+    {
+      "id": "kxlq4q",
+      "title": "Ilya Sutskever Stands by His Role in Sam Altman’s OpenAI Ouster: ‘I Didn’t Want It to Be Destroyed’",
+      "summary": "The former OpenAI chief scientist may be estranged from the company, but he still came to its defense as he testified on Monday.",
+      "imageUrl": "https://media.wired.com/photos/6a02504ee09a7c202c6b229b/master/pass/Model-Behavior-Musk-v-Altman-Ilya-Sutskever-Business-2275165628.jpg",
+      "source": "Wired",
+      "sourceUrl": "https://www.wired.com/story/ilya-sutskever-testifies-musk-v-altman-trial/",
+      "publishedAt": "2026-05-11T23:51:35.000Z"
+    },
+    {
+      "id": "1yhm0j",
+      "title": "OpenAI just released its answer to Claude Mythos",
+      "summary": "OpenAI is launching Daybreak, an AI initiative focused on detecting and patching vulnerabilities before attackers find them. Daybreak uses the Codex Security AI agent that launched in March to create a threat model based on an organization's code and focus on possible attack paths, validate likely vulnerabilities, and then automate the detection of the higher risk ones. Its launch comes just over a month after rival Anthropic announced Claude Mythos, a security-focused AI model it claimed was…",
+      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/04/STK201_SAM_ALTMAN_CVIRGINIA2A.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "source": "The Verge",
+      "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/928342/openai-daybreak-security-ai",
+      "publishedAt": "2026-05-11T23:05:01.000Z"
+    },
+    {
+      "id": "qdsdu8",
+      "title": "Linux bitten by second severe vulnerability in as many weeks",
+      "summary": "Production-version patches are coming online and should be installed pronto.",
+      "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2022/05/caution-tape-1000x648.jpeg",
+      "source": "Ars Technica",
+      "sourceUrl": "https://arstechnica.com/security/2026/05/linux-bitten-by-second-severe-vulnerability-in-as-many-weeks/",
+      "publishedAt": "2026-05-11T22:28:19.000Z"
+    },
     {
       "id": "8bu7e0",
       "title": "Here’s what Mira Murati’s AI company is up to",
@@ -363,15 +399,6 @@
       "publishedAt": "2026-05-08T01:42:14.000Z"
     },
     {
-      "id": "6dot1e",
-      "title": "OpenAI launches new voice intelligence features in its API",
-      "summary": "The new features could be handy for customer service systems, but OpenAI says they have applications that work across a variety of other fields, including education and creator platforms.",
-      "imageUrl": "https://images.unsplash.com/photo-1676299081847-824916de030a?w=800&q=80",
-      "source": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/05/07/openai-launches-new-voice-intelligence-features-in-its-api/",
-      "publishedAt": "2026-05-07T22:24:50.000Z"
-    },
-    {
       "id": "190aog",
       "title": "Trump Pivots on AI Regulation, Worker Ousted by DOGE Runs for Office, and Hantavirus Explained",
       "summary": "Today on Uncanny Valley, we’re diving into recent reports that the Trump administration is considering an executive order that would establish some sort of federal oversight over new AI models.",
@@ -390,15 +417,6 @@
       "publishedAt": "2026-05-07T20:31:57.000Z"
     },
     {
-      "id": "u5yfbt",
-      "title": "Mira Murati’s deposition pulled back the curtain on Sam Altman’s ouster",
-      "summary": "The week leading up to Thanksgiving 2023 was the AI industry's biggest soap opera moment. OpenAI CEO Sam Altman was abruptly ousted from his role at the ChatGPT maker. The explanation? That Altman was \"not consistently candid in his communications with the board.\" Now, via witness testimony and trial exhibits in Musk v. Altman, the public is getting a concrete look behind the scenes of that dramatic weekend for the first time, much of it centered on former CTO Mira Murati. It was a unique…",
-      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/05/VRG_Illo_mira-murati_stock_01.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "source": "The Verge",
-      "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/926383/mira-murati-sam-altman-musk-trial-ouster",
-      "publishedAt": "2026-05-07T19:55:22.000Z"
-    },
-    {
       "id": "bik5l9",
       "title": "Mozilla says 271 vulnerabilities found by Mythos have \"almost no false positives\"",
       "summary": "The developer of Firefox says it has \"completely bought in\" on AI-assisted bug discovery.",
@@ -406,15 +424,6 @@
       "source": "Ars Technica",
       "sourceUrl": "https://arstechnica.com/information-technology/2026/05/mozilla-says-271-vulnerabilities-found-by-mythos-have-almost-no-false-positives/",
       "publishedAt": "2026-05-07T19:18:16.000Z"
-    },
-    {
-      "id": "m2lfyd",
-      "title": "ChatGPT Has ‘Goblin’ Mania in the US. In China It Will ‘Catch You Steadily’",
-      "summary": "OpenAI’s chatbot has some weird linguistic tics in Chinese that are driving users crazy.",
-      "imageUrl": "https://media.wired.com/photos/69fb7b089165f81762ebbc1c/master/pass/Made-In-China-Why-Chinese-AI-Slop-All-Sounds-the-Same-Business.jpg",
-      "source": "Wired",
-      "sourceUrl": "https://www.wired.com/story/chatgpt-chinese-catch-you-steadily-sycophancy/",
-      "publishedAt": "2026-05-07T16:25:48.000Z"
     },
     {
       "id": "ro8dvn",
@@ -532,15 +541,6 @@
       "source": "Ars Technica",
       "sourceUrl": "https://arstechnica.com/security/2026/04/contrary-to-popular-superstition-aes-128-is-just-fine-in-a-post-quantum-world/",
       "publishedAt": "2026-04-21T12:35:20.000Z"
-    },
-    {
-      "id": "qf5zx9",
-      "title": "US-sanctioned currency exchange says $15 million heist done by \"unfriendly states\"",
-      "summary": "Grinex says needed hacking resources \"available exclusively to... unfriendly states.\"",
-      "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2026/04/cryptocurrency-1152x648.jpg",
-      "source": "Ars Technica",
-      "sourceUrl": "https://arstechnica.com/security/2026/04/russia-friendly-exchange-says-western-special-service-behind-15-million-cyberattack/",
-      "publishedAt": "2026-04-17T21:28:35.000Z"
     }
   ]
 }
