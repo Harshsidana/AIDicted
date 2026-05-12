@@ -1,7 +1,25 @@
 {
-  "fetchedAt": "2026-05-12T08:10:33.503Z",
+  "fetchedAt": "2026-05-12T13:09:43.972Z",
   "count": 60,
   "articles": [
+    {
+      "id": "dtykow",
+      "title": "The Download: a Nobel winner on AI, and the case for fixing everything",
+      "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. Three things in AI to watch, according to a Nobel-winning economist A few months before he won the Nobel Prize in economics in 2024, Daron Acemoglu published a paper that earned…",
+      "imageUrl": "https://images.unsplash.com/photo-1550751827-4bd374c3f58b?w=800&q=80",
+      "source": "MIT Tech Review",
+      "sourceUrl": "https://www.technologyreview.com/2026/05/12/1137103/the-download-nobel-winner-ai-maintenance-of-everything/",
+      "publishedAt": "2026-05-12T12:10:00.000Z"
+    },
+    {
+      "id": "j3kx9t",
+      "title": "AI voice startup Vapi hits $500M valuation after winning Amazon Ring over 40 rivals",
+      "summary": "Vapi says its enterprise business has grown 10-fold since early 2025 as companies shift customer support and sales calls to AI agents.",
+      "imageUrl": "https://images.unsplash.com/photo-1620712943543-bcc4688e7485?w=800&q=80",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/05/12/vapi-hits-500m-valuation-as-amazon-ring-chose-its-ai-platform-over-40-rivals/",
+      "publishedAt": "2026-05-12T11:30:00.000Z"
+    },
     {
       "id": "s13soz",
       "title": "Thinking Machines wants to build an AI that actually listens while it talks",
@@ -309,15 +327,6 @@
       "publishedAt": "2026-05-08T16:19:40.000Z"
     },
     {
-      "id": "vh56z2",
-      "title": "The “people’s airline” and the enterprise AI gold rush",
-      "summary": "Everyone wants a piece of the enterprise AI pie, and this week, we saw a string of companies making their moves. From Anthropic and OpenAI announcing new joint ventures targeting enterprise AI deployment to SAP dropping $1B on German AI startup Prior Labs, it’s becoming clear that if you’re a startup building enterprise tools, you’re likely an acquisition target. On this episode of TechCrunch’s Equity podcast, hosts Kirsten Korosec, Anthony […]",
-      "imageUrl": "https://images.unsplash.com/photo-1526374965328-7f61d4dc18c5?w=800&q=80",
-      "source": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/podcast/the-peoples-airline-and-the-enterprise-ai-gold-rush/",
-      "publishedAt": "2026-05-08T15:46:17.000Z"
-    },
-    {
       "id": "ww5caj",
       "title": "Microsoft was worried OpenAI would run off to Amazon and ‘shit-talk’ Azure",
       "summary": "OpenAI CEO Sam Altman and Microsoft CTO Kevin Scott. | Image: Getty Images When OpenAI was busy experimenting with AI-powered gaming bots, Microsoft CEO Satya Nadella and OpenAI CEO Sam Altman were in the early days of forming an AI partnership. Court documents from the ongoing Musk v. Altman trial have provided a rare look at the communications between Microsoft's top executives about investing in OpenAI and fears the AI startup could \"storm off to Amazon\" and \"shit-talk\" Microsoft. Just days…",
@@ -424,15 +433,6 @@
       "source": "Ars Technica",
       "sourceUrl": "https://arstechnica.com/information-technology/2026/05/mozilla-says-271-vulnerabilities-found-by-mythos-have-almost-no-false-positives/",
       "publishedAt": "2026-05-07T19:18:16.000Z"
-    },
-    {
-      "id": "ro8dvn",
-      "title": "The Download: the tech reshaping IVF and the rise of balcony solar",
-      "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. What’s next for IVF IVF has brought millions of babies into the world over the last four decades. But the process can still be slow, painful, and expensive—and far from guaranteed…",
-      "imageUrl": "https://images.unsplash.com/photo-1655720828018-edd2daec9349?w=800&q=80",
-      "source": "MIT Tech Review",
-      "sourceUrl": "https://www.technologyreview.com/2026/05/07/1136956/the-download-ivf-tech-balcony-solar/",
-      "publishedAt": "2026-05-07T12:10:00.000Z"
     },
     {
       "id": "nci0sv",
