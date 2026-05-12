@@ -1,11 +1,20 @@
 {
-  "fetchedAt": "2026-05-12T18:22:41.225Z",
+  "fetchedAt": "2026-05-12T21:51:15.042Z",
   "count": 60,
   "articles": [
     {
+      "id": "je0j9s",
+      "title": "Meta won’t let you block its AI account on Threads",
+      "summary": "Meta announced on Tuesday that it's testing a Threads feature that lets users tag a Meta AI account to get answers to questions or context about a conversation on the platform. If you've spent any time looking at replies on X as of late, this new feature sounds a lot like Meta's take on people tagging xAI's Grok. But, as reported by Engadget, Threads users quickly discovered that you can't block the new Meta AI account, and they aren't happy about it. Meta has invested heavily in AI as it works…",
+      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/24774110/STK156_Instagram_threads_1.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "source": "The Verge",
+      "sourceUrl": "https://www.theverge.com/tech/929091/meta-ai-threads-account-block",
+      "publishedAt": "2026-05-12T20:35:23.000Z"
+    },
+    {
       "id": "9mtf08",
       "title": "Musk mulled handing OpenAI to his children, Altman testifies",
-      "summary": "OpenAI's CEO recalls a \"particularly hair-raising\" conversation with the SpaceX founder.",
+      "summary": "Altman said that Musk's focus on controlling the initial for-profit gave him pause because OpenAI was dedicated to keeping advanced AI out of the hands of a single person, and Altman, with his experience running the prominent startup accelerator Y Combinator, knew \"founders who had control usually did not give it up.\"",
       "imageUrl": "https://images.unsplash.com/photo-1531746790095-6c10a4031c5f?w=800&q=80",
       "source": "TechCrunch",
       "sourceUrl": "https://techcrunch.com/2026/05/12/musk-mulled-handing-openai-to-his-children-altman-testifies/",
@@ -14,7 +23,7 @@
     {
       "id": "uix8ju",
       "title": "Anthropic warns investors against secondary platforms offering access to its shares",
-      "summary": "The company named Open Doors Partners, Unicorns Exchange, Pachamama Capital, Lionheart Ventures, Hiive, Forge Global, Sydecar and Upmarket as companies that are not authorized to provide access to buy or sell its shares.",
+      "summary": "\"Any sale or transfer of Anthropic stock, or any interest in Anthropic stock, offered by these firms is void and will not be recognized on our books and records,\" the company's support page reads.",
       "imageUrl": "https://images.unsplash.com/photo-1676299081847-824916de030a?w=800&q=80",
       "source": "TechCrunch",
       "sourceUrl": "https://techcrunch.com/2026/05/12/anthropic-warns-investors-against-secondary-platforms-offering-access-to-its-shares/",
@@ -48,39 +57,39 @@
       "publishedAt": "2026-05-12T17:01:00.000Z"
     },
     {
+      "id": "k4he0l",
+      "title": "Google adds Gemini-powered dictation to Gboard, which could be bad news for dictation startups",
+      "summary": "Google's transcription feature will initially launch with Samsung Galaxy and Google Pixel phones.",
+      "imageUrl": "https://images.unsplash.com/photo-1485827404703-89b55fcc595e?w=800&q=80",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/05/12/google-adds-gemini-powered-dictation-to-gboard-which-could-be-bad-news-for-dictation-startups/",
+      "publishedAt": "2026-05-12T17:00:00.000Z"
+    },
+    {
+      "id": "aaskoa",
+      "title": "The AI legal services industry is heating up — Anthropic is getting in on the action",
+      "summary": "Anthropic's new tools are designed to help law firms automate specific clerical functions — things like document search and review, case law resources, deposition prep, document drafting, and other related areas.",
+      "imageUrl": "https://images.unsplash.com/photo-1676299081847-824916de030a?w=800&q=80",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/05/12/the-ai-legal-services-industry-is-heating-up-anthropic-is-getting-in-on-the-action/",
+      "publishedAt": "2026-05-12T17:00:00.000Z"
+    },
+    {
       "id": "r7js8u",
       "title": "Google brings agentic AI and vibe-coded widgets to Android",
-      "summary": "Gemini Intelligence will also include Gboard based dictation and form filling capabilities",
+      "summary": "Gemini Intelligence will also include Gboard-based dictation and form-filling capabilities.",
       "imageUrl": "https://images.unsplash.com/photo-1655720828018-edd2daec9349?w=800&q=80",
       "source": "TechCrunch",
       "sourceUrl": "https://techcrunch.com/2026/05/12/google-brings-agentic-ai-and-vibe-coded-widgets-to-android/",
       "publishedAt": "2026-05-12T17:00:00.000Z"
     },
     {
-      "id": "s6i8hc",
-      "title": "The AI legal services industry is heating up. Anthropic is getting in on the action.",
-      "summary": "As the AI legal services industry heats up, Anthropic is launching its own suite of features designed to assist law firms.",
-      "imageUrl": "https://images.unsplash.com/photo-1526374965328-7f61d4dc18c5?w=800&q=80",
-      "source": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/05/12/the-ai-legal-services-industry-is-heating-up-anthropic-is-getting-in-on-the-action/",
-      "publishedAt": "2026-05-12T17:00:00.000Z"
-    },
-    {
-      "id": "h6imam",
-      "title": "Google’s ‘Create My Widget’ feature will let you vibe code your own widgets",
-      "summary": "The new feature will first launch on the latest Samsung Galaxy and Google Pixel phones this summer.",
-      "imageUrl": "https://images.unsplash.com/photo-1531746790095-6c10a4031c5f?w=800&q=80",
+      "id": "dp9lzp",
+      "title": "Google’s ‘Create My Widget’ feature will let you vibe-code your own widgets",
+      "summary": "To create a widget, users will be able to describe what they want using natural language. For example, you could ask the feature to \"suggest three high-protein meal prep recipes every week\" in order to get a custom dashboard that you can add and resize on your home screen.",
+      "imageUrl": "https://images.unsplash.com/photo-1635070041078-e363dbe005cb?w=800&q=80",
       "source": "TechCrunch",
       "sourceUrl": "https://techcrunch.com/2026/05/12/googles-create-my-widget-feature-will-let-you-vibe-code-your-own-widgets/",
-      "publishedAt": "2026-05-12T17:00:00.000Z"
-    },
-    {
-      "id": "fjlcrv",
-      "title": "Google adds Gemini-powered Dictation to Gboard, which could be bad news for dictation startups",
-      "summary": "Google's transcription feature will initially launch with Samsung Galaxy and Google Pixel phones",
-      "imageUrl": "https://images.unsplash.com/photo-1485827404703-89b55fcc595e?w=800&q=80",
-      "source": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/05/12/google-adds-gemini-powered-dictation-to-gboard-which-could-be-bad-news-for-dictation-startups/",
       "publishedAt": "2026-05-12T17:00:00.000Z"
     },
     {
@@ -176,7 +185,7 @@
     {
       "id": "j3kx9t",
       "title": "AI voice startup Vapi hits $500M valuation after winning Amazon Ring over 40 rivals",
-      "summary": "Vapi says its enterprise business has grown 10-fold since early 2025 as companies shift customer support and sales calls to AI agents.",
+      "summary": "Vapi says its enterprise business has grown tenfold since early 2025 as companies shift customer support and sales calls to AI agents.",
       "imageUrl": "https://images.unsplash.com/photo-1620712943543-bcc4688e7485?w=800&q=80",
       "source": "TechCrunch",
       "sourceUrl": "https://techcrunch.com/2026/05/12/vapi-hits-500m-valuation-as-amazon-ring-chose-its-ai-platform-over-40-rivals/",
@@ -262,15 +271,6 @@
       "source": "TechCrunch",
       "sourceUrl": "https://techcrunch.com/2026/05/11/digg-tries-again-this-time-as-an-ai-news-aggregator/",
       "publishedAt": "2026-05-11T17:02:35.000Z"
-    },
-    {
-      "id": "w2w0i8",
-      "title": "Google stopped a zero-day hack that it says was developed with AI",
-      "summary": "For the first time, Google says it has spotted and stopped a zero-day exploit developed with AI. According to a report from Google Threat Intelligence Group (GTIG), \"prominent cyber crime threat actors\" were planning to use the vulnerability for a \"mass exploitation event\" that would have allowed them to bypass two-factor authentication on an unnamed \"open-source, web-based system administration tool.\" Google's researchers found hints in the Python script used for the exploit that indicated help…",
-      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25330660/STK414_AI_CHATBOT_H.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "source": "The Verge",
-      "sourceUrl": "https://www.theverge.com/tech/928007/google-ai-zero-day-exploit-stopped",
-      "publishedAt": "2026-05-11T16:09:42.000Z"
     },
     {
       "id": "c48lc5",
