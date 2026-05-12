@@ -1,11 +1,20 @@
 {
-  "fetchedAt": "2026-05-12T01:17:33.535Z",
+  "fetchedAt": "2026-05-12T05:06:55.082Z",
   "count": 60,
   "articles": [
     {
+      "id": "s13soz",
+      "title": "Thinking Machines wants to build an AI that actually listens while it talks",
+      "summary": "Right now, every AI model you've ever used works the same way. You talk, it listens. It responds, you listen. Thinking Machines is trying to change that by building a model that processes your input and generates a response at the same time, so it's more like a phone call than a text chain.",
+      "imageUrl": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=800&q=80",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/05/11/thinking-machines-wants-to-build-an-ai-that-actually-listens-while-it-talks/",
+      "publishedAt": "2026-05-12T04:52:35.000Z"
+    },
+    {
       "id": "qqej1s",
       "title": "Riding an AI rally, Robinhood preps second retail venture IPO",
-      "summary": "Robinhood files confidentially for its second venture fund, this time targeting growth as well as early-stage startups.",
+      "summary": "Robinhood files confidentially for its second venture fund, this time targeting growth and early-stage startups.",
       "imageUrl": "https://images.unsplash.com/photo-1526374965328-7f61d4dc18c5?w=800&q=80",
       "source": "TechCrunch",
       "sourceUrl": "https://techcrunch.com/2026/05/11/riding-an-ai-rally-robinhood-preps-second-retail-venture-ipo/",
@@ -28,6 +37,15 @@
       "source": "The Verge",
       "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/928342/openai-daybreak-security-ai",
       "publishedAt": "2026-05-11T23:05:01.000Z"
+    },
+    {
+      "id": "meotzd",
+      "title": "GM just laid off hundreds of IT workers to hire those with stronger AI skills",
+      "summary": "Some of the positions focus on AI-native development, data engineering and analytics, cloud-based engineering, and agent and model development as well as prompt engineering and new AI workflows.",
+      "imageUrl": "https://images.unsplash.com/photo-1531746790095-6c10a4031c5f?w=800&q=80",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/05/11/gm-just-laid-off-hundreds-of-it-workers-to-hire-those-with-stronger-ai-skills/",
+      "publishedAt": "2026-05-11T23:04:10.000Z"
     },
     {
       "id": "qdsdu8",
@@ -327,15 +345,6 @@
       "publishedAt": "2026-05-08T15:00:00.000Z"
     },
     {
-      "id": "u56n5p",
-      "title": "Last 24 hours to get 50% off a second pass to TechCrunch Disrupt 2026",
-      "summary": "Last day to buy one pass and get a second one at 50% off to TechCrunch Disrupt 2026. Bring a partner, co-founder, or colleague at half off. Register now.",
-      "imageUrl": "https://images.unsplash.com/photo-1676299081847-824916de030a?w=800&q=80",
-      "source": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/05/08/last-24-hours-to-get-50-off-a-second-pass-to-techcrunch-disrupt-2026/",
-      "publishedAt": "2026-05-08T14:00:00.000Z"
-    },
-    {
       "id": "8jl0l5",
       "title": "Everybody wants to rule the AI world",
       "summary": "Sometimes, companies pick CEOs based on carefully laid succession plans designed to maximize investor confidence and future performance. Other times, apparently, companies pick CEOs based on a bunch of video calls while the current CEO is texting the former CEO about who the new CEO even is. Such was the story of The Blip, the days in 2024 when Sam Altman was ousted from OpenAI. We knew that situation was chaotic; the ongoing Musk v. Altman trial is showing just how chaotic it really was. Verge…",
@@ -379,15 +388,6 @@
       "source": "MIT Tech Review",
       "sourceUrl": "https://www.technologyreview.com/2026/05/08/1136974/heres-how-technology-transformed-babymaking-ivf/",
       "publishedAt": "2026-05-08T09:00:00.000Z"
-    },
-    {
-      "id": "m3tgc2",
-      "title": "The fax machine is the bottleneck in US healthcare, and VCs are starting to notice",
-      "summary": "Like many AI companies automating work that humans currently do, Basata will eventually face a harder question about where the line is between augmenting workers and displacing them. For now, the founders say the administrative staff they work with aren't worried about that; they're more worried about drowning.",
-      "imageUrl": "https://images.unsplash.com/photo-1655720828018-edd2daec9349?w=800&q=80",
-      "source": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/05/07/the-back-office-problem-that-explains-why-specialists-never-call-you-back/",
-      "publishedAt": "2026-05-08T04:42:29.000Z"
     },
     {
       "id": "wf7evv",
