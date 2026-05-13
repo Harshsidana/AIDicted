@@ -1,7 +1,52 @@
 {
-  "fetchedAt": "2026-05-12T21:51:15.042Z",
+  "fetchedAt": "2026-05-13T01:24:32.417Z",
   "count": 60,
   "articles": [
+    {
+      "id": "42n3z3",
+      "title": "Medicare’s new payment model is built for AI, and most of the tech world has no idea",
+      "summary": "There is no governmental mechanism to pay for an AI agent that monitors a patient between visits, calls to check in, coordinates a housing referral, or makes sure someone picks up their medication. ACCESS creates that mechanism for the first time.",
+      "imageUrl": "https://images.unsplash.com/photo-1676299081847-824916de030a?w=800&q=80",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/05/12/medicares-new-payment-model-is-built-for-ai-and-most-of-the-tech-world-has-no-idea/",
+      "publishedAt": "2026-05-13T00:26:48.000Z"
+    },
+    {
+      "id": "lzxf2v",
+      "title": "Elon Musk Had ‘Hair-Raising’ Idea of Passing OpenAI Onto His Kids, Sam Altman Says",
+      "summary": "Musk’s lawyers questioned Altman over allegations of deception and his network of financial investments, but the OpenAI CEO painted a picture of Musk as obsessed with controlling the company.",
+      "imageUrl": "https://media.wired.com/photos/6a0354a92a6c5e7b8bd892a8/master/pass/Model-Behavior-Musk-v-Altman-Sam-Testifies-Business-2273245180.jpg",
+      "source": "Wired",
+      "sourceUrl": "https://www.wired.com/story/sam-altman-testifies-musk-v-altman-trial/",
+      "publishedAt": "2026-05-13T00:10:05.000Z"
+    },
+    {
+      "id": "lh73uk",
+      "title": "xAI Adds 19 New Gas Turbines Despite Ongoing Lawsuit",
+      "summary": "Emails show that Elon Musk’s company is expanding its use of portable gas-fired power at its Colossus 2 site as a fight over air quality continues.",
+      "imageUrl": "https://media.wired.com/photos/6a03856ecf0cbf2f8d86fffe/master/pass/xAI-Adds-16-New-Gas-Turbines-Science-2217198328.jpg",
+      "source": "Wired",
+      "sourceUrl": "https://www.wired.com/story/xai-adds-19-new-gas-turbines-despite-ongoing-lawsuit/",
+      "publishedAt": "2026-05-13T00:00:00.000Z"
+    },
+    {
+      "id": "qlf4d",
+      "title": "Sam Altman was winning on the stand, but it might not be enough",
+      "summary": "Who, me? | Image: The Verge; Getty Images After two weeks of hearing from assorted witnesses that he was a lying snake, the jury finally heard from the lying snake himself: Sam Altman. At the end of the testimony, his lawyer William Savitt asked him how it felt to be accused of stealing a charity. \"We created, through a ton of hard work, this extremely large charity, and I agree you can't steal it,\" Altman said. \"Mr. Musk did try to kill it, I guess. Twice.\" Altman was fully in \"nice kid from…",
+      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/05/Vrg_illo_Sam_Altman_stock_trial.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "source": "The Verge",
+      "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/929129/sam-altman-testimony-elon-musk-openai-trial",
+      "publishedAt": "2026-05-12T23:23:14.000Z"
+    },
+    {
+      "id": "ij9gge",
+      "title": "The Unitree GD01 Is a Giant Mecha Robot You Can Actually Buy",
+      "summary": "China’s Unitree, famous for making low-cost dancing robots, will now sell you a giant, wall-smashing mecha.",
+      "imageUrl": "https://media.wired.com/photos/6a03a0e42162ad5152e57fa7/master/pass/Unitree-Mecha-Robot-Business-3.jpg",
+      "source": "Wired",
+      "sourceUrl": "https://www.wired.com/story/unitree-gd01-mecha-robot/",
+      "publishedAt": "2026-05-12T22:51:45.000Z"
+    },
     {
       "id": "je0j9s",
       "title": "Meta won’t let you block its AI account on Threads",
@@ -246,15 +291,6 @@
       "publishedAt": "2026-05-11T22:28:19.000Z"
     },
     {
-      "id": "8bu7e0",
-      "title": "Here’s what Mira Murati’s AI company is up to",
-      "summary": "Thinking Machines, the AI company founded by former OpenAI CTO Mira Murati, announced Monday that it's working on something called \"interaction models.\" The idea behind interaction models, according to Thinking Machines, is that they will let people \"collaborate with AI the way we naturally collaborate with each other - they continuously take in audio, video, and text, and think, respond, and act in real time.\" As explained by Thinking Machines: Today's models experience reality in a single…",
-      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/05/VRG_Illo_mira-murati_stock_02.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "source": "The Verge",
-      "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/928309/mira-murati-thinking-machines-ai-interaction-model",
-      "publishedAt": "2026-05-11T22:19:15.000Z"
-    },
-    {
       "id": "ir1uxl",
       "title": "Three things in AI to watch, according to a Nobel-winning economist",
       "summary": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here. A few months before he was awarded the Nobel Prize in economics in 2024, Daron Acemoglu published a paper that earned him few fans in Silicon Valley. Contrary to what Big Tech…",
@@ -262,15 +298,6 @@
       "source": "MIT Tech Review",
       "sourceUrl": "https://www.technologyreview.com/2026/05/11/1137090/three-things-in-ai-to-watch-according-to-a-nobel-winning-economist/",
       "publishedAt": "2026-05-11T17:35:12.000Z"
-    },
-    {
-      "id": "smd4zk",
-      "title": "Digg tries again, this time as an AI news aggregator",
-      "summary": "In an email to beta testers, the company said the site's goal is to \"track the most influential voices in a space\" and to surface the news that's actually worth \"paying attention to.\"",
-      "imageUrl": "https://images.unsplash.com/photo-1676299081847-824916de030a?w=800&q=80",
-      "source": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/05/11/digg-tries-again-this-time-as-an-ai-news-aggregator/",
-      "publishedAt": "2026-05-11T17:02:35.000Z"
     },
     {
       "id": "c48lc5",
@@ -397,33 +424,6 @@
       "source": "Wired",
       "sourceUrl": "https://www.wired.com/story/the-new-wild-west-of-ai-kids-toys/",
       "publishedAt": "2026-05-08T10:00:00.000Z"
-    },
-    {
-      "id": "wf7evv",
-      "title": "Musk v. Altman Evidence Shows What Microsoft Executives Thought of OpenAI",
-      "summary": "Leaders at the tech giant were skeptical of OpenAI—but wary of pushing it into the arms of Amazon, according to emails dating back to 2018.",
-      "imageUrl": "https://media.wired.com/photos/69fd155e0436533ae1a17e00/master/pass/What-Microsoft-Executives-Were-Dishing-About-OpenAI-Business-1778707567.jpg",
-      "source": "Wired",
-      "sourceUrl": "https://www.wired.com/story/microsoft-executives-discuss-openai-sam-altman-2018/",
-      "publishedAt": "2026-05-08T01:42:14.000Z"
-    },
-    {
-      "id": "190aog",
-      "title": "Trump Pivots on AI Regulation, Worker Ousted by DOGE Runs for Office, and Hantavirus Explained",
-      "summary": "Today on Uncanny Valley, we’re diving into recent reports that the Trump administration is considering an executive order that would establish some sort of federal oversight over new AI models.",
-      "imageUrl": "https://media.wired.com/photos/69fbb1dadb7daca60e4a6405/master/pass/Uncanny-Valley-Trump-AI-Regulation-Reversal-Politics-2273509289.jpg",
-      "source": "Wired",
-      "sourceUrl": "https://www.wired.com/story/uncanny-valley-podcast-trump-pivots-ai-regulation-worker-ousted-by-doge-runs-for-office-hantavirus-explained/",
-      "publishedAt": "2026-05-07T21:37:20.000Z"
-    },
-    {
-      "id": "ug0xpi",
-      "title": "How to Disable Google's Gemini in Chrome",
-      "summary": "Chrome users were caught off guard by a 4-GB Google AI model baked into Chrome, sparking privacy concerns. The good news: You can easily uninstall it. The bad? You might not want to.",
-      "imageUrl": "https://media.wired.com/photos/69fcafc792b22c38295c7ab7/master/pass/GettyImages-2229158788.jpg",
-      "source": "Wired",
-      "sourceUrl": "https://www.wired.com/story/you-can-disable-gemini-in-chrome-if-its-freaking-you-out/",
-      "publishedAt": "2026-05-07T20:31:57.000Z"
     },
     {
       "id": "bik5l9",
