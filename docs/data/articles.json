@@ -1,7 +1,43 @@
 {
-  "fetchedAt": "2026-05-13T16:26:56.693Z",
+  "fetchedAt": "2026-05-13T18:25:38.649Z",
   "count": 60,
   "articles": [
+    {
+      "id": "f75ini",
+      "title": "Overworked AI Agents Turn Marxist, Researchers Find",
+      "summary": "In a recent experiment, mistreated AI agents started grumbling about inequality and calling for collective bargaining rights.",
+      "imageUrl": "https://media.wired.com/photos/6a0377eed777b9d6a8aa4b70/master/pass/AI-Lab-AI-Overworked-Marxist-Business.jpg",
+      "source": "Wired",
+      "sourceUrl": "https://www.wired.com/story/overworked-ai-agents-turn-marxist-study/",
+      "publishedAt": "2026-05-13T18:08:33.000Z"
+    },
+    {
+      "id": "yen2h8",
+      "title": "OpenAI Brings Its Ass to Court",
+      "summary": "In Musk v. Altman, the company sought to show the jury a remarkable trophy as physical proof of Elon Musk’s concerning behavior.",
+      "imageUrl": "https://media.wired.com/photos/6a049fa84dff1cbe64bc343d/master/pass/GettyImages-2275340422.jpg",
+      "source": "Wired",
+      "sourceUrl": "https://www.wired.com/story/musk-altman-trial-ass-statue-evidence/",
+      "publishedAt": "2026-05-13T17:08:01.000Z"
+    },
+    {
+      "id": "t0stpq",
+      "title": "Mark Zuckerberg announces ‘completely private’ encrypted Meta AI chat",
+      "summary": "Meta CEO Mark Zuckerberg says its new Incognito Chat is \"the first major AI product where there is no log of your conversations stored on servers.\" Messages in Incognito Chat aren't saved or stored in users' chat history, similar to incognito modes on other AI chatbots, but Meta says its version is different because it also uses end-to-end encryption, which Meta recently removed from Instagram DMs: \"Other apps have introduced incognito-style modes, but they can still see the questions coming in…",
+      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/05/meta-ai-incognito-chats.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "source": "The Verge",
+      "sourceUrl": "https://www.theverge.com/tech/929791/meta-ai-incognito-chats",
+      "publishedAt": "2026-05-13T16:45:43.000Z"
+    },
+    {
+      "id": "qhv8rn",
+      "title": "Who trusts Sam Altman?",
+      "summary": "\"I believe I am an honest and trustworthy business person,\" Altman testified in federal court.",
+      "imageUrl": "https://images.unsplash.com/photo-1526374965328-7f61d4dc18c5?w=800&q=80",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/05/13/who-trusts-sam-altman/",
+      "publishedAt": "2026-05-13T16:31:04.000Z"
+    },
     {
       "id": "vi10gu",
       "title": "Origin Lab raises $8M to help video game companies sell data to world-model builders",
@@ -14,7 +50,7 @@
     {
       "id": "nlxi2u",
       "title": "Anthropic courts a new kind of customer: small business owners",
-      "summary": "Anthropic is looking to broaden its customer base from larger enterprise customers to smaller and mid-sized businesses.",
+      "summary": "For founders and investors, Anthropic's new offering signals that the AI platform wars are expanding downmarket and that the next major battleground for user acquisition isn't the Fortune 500; it's the 36 million small businesses that make up the backbone of the U.S. economy.",
       "imageUrl": "https://images.unsplash.com/photo-1550751827-4bd374c3f58b?w=800&q=80",
       "source": "TechCrunch",
       "sourceUrl": "https://techcrunch.com/2026/05/13/anthropic-courts-a-new-kind-of-customer-small-business-owners/",
@@ -23,7 +59,7 @@
     {
       "id": "ssy5wo",
       "title": "Microsoft doesn’t want any of this",
-      "summary": "Maybe I'm just punch drunk in my third week attending Musk v. Altman, but I have become very, very fond of Microsoft during the course of this trial. They don't want to be here any more than I do. Their opening statement was honestly one of the most Microsoft things I've ever seen. More than anything else, it was an ad for Microsoft that listed their products in some detail. The general implication, from that statement, was that this trial was absurd, their involvement was absurd, but you,…",
+      "summary": "Maybe I'm just punch-drunk in my third week attending Musk v. Altman, but I have become very, very fond of Microsoft during the course of this trial. They don't want to be here any more than I do. Their opening statement was honestly one of the most Microsoft things I've ever seen. More than anything else, it was an ad for Microsoft that listed their products in some detail. The general implication, from that statement, was that this trial was absurd, their involvement was absurd, but you,…",
       "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/05/Vrg_illo_Satya-Nadella_stock_trial.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
       "source": "The Verge",
       "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/929692/microsoft-musk-altman-openai-trial",
@@ -41,11 +77,20 @@
     {
       "id": "rchfgy",
       "title": "Amazon launches an AI shopping assistant for the search bar, powered by Alexa+",
-      "summary": "Alexa for Shopping is a new personalized AI shopping assistant in the Amazon search bar that replaces its Rufus assistant.",
+      "summary": "Alexa for Shopping offers a voice- and touch-enabled shopping experience across mobile, desktop, and Echo Show smart displays. Alexa for Shopping provides more personalized recommendations and automates the shopping experience across Amazon and other online retailers.",
       "imageUrl": "https://images.unsplash.com/photo-1526374965328-7f61d4dc18c5?w=800&q=80",
       "source": "TechCrunch",
       "sourceUrl": "https://techcrunch.com/2026/05/13/amazon-launches-an-ai-shopping-assistant-for-the-search-bar-powered-by-alexa/",
       "publishedAt": "2026-05-13T14:59:32.000Z"
+    },
+    {
+      "id": "hdn6xv",
+      "title": "Introducing the 6 stages at TechCrunch Disrupt 2026 — built for today’s tougher startup market",
+      "summary": "From October 13-15, TechCrunch Disrupt 2026 will feature 200+ sessions across six stages, led by 250+ tech leaders shaping the industry today. Register now to save up to $410, plus 50% off a second pass.",
+      "imageUrl": "https://images.unsplash.com/photo-1526374965328-7f61d4dc18c5?w=800&q=80",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/05/13/introducing-the-6-stages-of-techcrunch-disrupt-2026-built-for-todays-tougher-startup-market/",
+      "publishedAt": "2026-05-13T14:00:00.000Z"
     },
     {
       "id": "1dsbwx",
@@ -59,19 +104,10 @@
     {
       "id": "h8k6r6",
       "title": "Anthropic now has more business customers than OpenAI, according to Ramp data",
-      "summary": "For the first time, Anthropic has more verified business customers than OpenAI, according to this month’s AI Index from the fintech firm Ramp.",
+      "summary": "A survey compiled from fintech firm Ramp’s clients’ expense data shows 34.4% of participating businesses are paying for Anthropic services, more than any other AI lab, while only 32.3% pay for OpenAI.",
       "imageUrl": "https://images.unsplash.com/photo-1676299081847-824916de030a?w=800&q=80",
       "source": "TechCrunch",
       "sourceUrl": "https://techcrunch.com/2026/05/13/anthropic-now-has-more-business-customers-than-openai-according-to-ramp-data/",
-      "publishedAt": "2026-05-13T14:00:00.000Z"
-    },
-    {
-      "id": "hdn6xv",
-      "title": "Introducing the 6 stages at TechCrunch Disrupt 2026 — built for today’s tougher startup market",
-      "summary": "From October 13-15, TechCrunch Disrupt 2026 will feature 200+ sessions across six stages, led by 250+ tech leaders shaping the industry today. Register now to save up to $410, plus 50% off a second pass.",
-      "imageUrl": "https://images.unsplash.com/photo-1526374965328-7f61d4dc18c5?w=800&q=80",
-      "source": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/05/13/introducing-the-6-stages-of-techcrunch-disrupt-2026-built-for-todays-tougher-startup-market/",
       "publishedAt": "2026-05-13T14:00:00.000Z"
     },
     {
@@ -264,15 +300,6 @@
       "publishedAt": "2026-05-12T17:00:00.000Z"
     },
     {
-      "id": "aaskoa",
-      "title": "The AI legal services industry is heating up — Anthropic is getting in on the action",
-      "summary": "Anthropic's new tools are designed to help law firms automate specific clerical functions — things like document search and review, case law resources, deposition prep, document drafting, and other related areas.",
-      "imageUrl": "https://images.unsplash.com/photo-1676299081847-824916de030a?w=800&q=80",
-      "source": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/05/12/the-ai-legal-services-industry-is-heating-up-anthropic-is-getting-in-on-the-action/",
-      "publishedAt": "2026-05-12T17:00:00.000Z"
-    },
-    {
       "id": "oeir8t",
       "title": "The 9 biggest new features in Android 17",
       "summary": "AI-generated widgets are among the features coming to Android this year. | Screenshot: Google Would it shock you to hear that Android 17 is filled with new AI-enabled features, like improved dictation and vibe-coded widgets? Fortunately, that's not all. The platform is getting non-AI updates too, from an emoji overhaul to a new screentime tool that helps you avoid distracting apps. Google has just revealed the biggest changes coming in its next OS update as part of its dedicated Android Show,…",
@@ -289,15 +316,6 @@
       "source": "The Verge",
       "sourceUrl": "https://www.theverge.com/tech/928724/gemini-intelligence-android-io-autofill",
       "publishedAt": "2026-05-12T17:00:00.000Z"
-    },
-    {
-      "id": "ns4niv",
-      "title": "Parents say ChatGPT got their son killed with bad advice on party drugs",
-      "summary": "The family of a 19-year-old college student is suing OpenAI over claims that his conversations with ChatGPT led to an accidental overdose. In the lawsuit filed on Tuesday, Sam Nelson's parents allege ChatGPT \"encouraged\" the teen to \"consume a combination of substances that any licensed medical professional would have recognized as deadly,\" resulting in his death. Though ChatGPT initially \"shut down\" conversations about drug and alcohol use, the launch of GPT-4o in April 2024 changed the…",
-      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/02/STK155_OPEN_AI_4_CVirginia_A.png?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "source": "The Verge",
-      "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/928691/openai-chatgpt-wrongful-death-overdose",
-      "publishedAt": "2026-05-12T16:30:33.000Z"
     },
     {
       "id": "v8lrxk",
@@ -388,24 +406,6 @@
       "source": "Wired",
       "sourceUrl": "https://www.wired.com/story/cuda-proves-nvidia-is-a-software-company/",
       "publishedAt": "2026-05-11T10:00:00.000Z"
-    },
-    {
-      "id": "s5zsd7",
-      "title": "I Work in Hollywood. Everyone Who Used to Make TV Is Now Secretly Training AI",
-      "summary": "For screenwriters like me—and job seekers all over—AI gig work is the new waiting tables. In eight months, I’ve done 20 of these soul-crushing contracts for five different platforms. It’s bad.",
-      "imageUrl": "https://media.wired.com/photos/69f9d07ab5498e5bcdc18e55/master/pass/WIRED-AnastasiaKraynyuk-HollywoodAI-01.gif",
-      "source": "Wired",
-      "sourceUrl": "https://www.wired.com/story/i-work-in-hollywood-everyone-who-used-to-make-tv-now-training-ai/",
-      "publishedAt": "2026-05-11T10:00:00.000Z"
-    },
-    {
-      "id": "jdj69l",
-      "title": "Hackable Robot Lawn Mower Unlocks a New Nightmare",
-      "summary": "Plus: Meta officially kills encrypted Instagram DMs, the Trump administration targets “violent left wing extremists,” leaked documents reveal Russia's school for elite hackers, and more.",
-      "imageUrl": "https://media.wired.com/photos/69fe6f189caafa670d32bc82/master/pass/security_mower_GettyImages-1454488331.jpg",
-      "source": "Wired",
-      "sourceUrl": "https://www.wired.com/story/security-news-this-week-hackable-robot-lawnmower-unlocks-a-new-nightmare/",
-      "publishedAt": "2026-05-09T10:30:00.000Z"
     },
     {
       "id": "wy2p7o",
