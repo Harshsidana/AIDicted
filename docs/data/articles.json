@@ -1,7 +1,43 @@
 {
-  "fetchedAt": "2026-05-13T11:10:36.695Z",
+  "fetchedAt": "2026-05-13T13:37:09.899Z",
   "count": 60,
   "articles": [
+    {
+      "id": "i6xvfy",
+      "title": "Poppy debuts a proactive AI assistant to help organize your digital life",
+      "summary": "Poppy is an AI-powered app that connects your calendar, email, messages, and other services to surface reminders, suggestions, and tasks based on what’s happening in your life.",
+      "imageUrl": "https://images.unsplash.com/photo-1620712943543-bcc4688e7485?w=800&q=80",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/05/13/poppy-debuts-a-proactive-ai-assistant-to-help-organize-your-digital-life/",
+      "publishedAt": "2026-05-13T13:27:09.000Z"
+    },
+    {
+      "id": "uzbaon",
+      "title": "Alexa is moving into Amazon.com",
+      "summary": "Alexa for Shopping is Amazon’s new AI-powered shopping assistant. | Image: Amazon Amazon is bringing Alexa Plus to Amazon.com, integrating its LLM-powered AI assistant directly into the company's shopping experience. Beginning today, when you type a query into Amazon, you'll be talking to Alexa for Shopping, the company's new shopping assistant, powered by Alexa Plus. So, while a search for \"toilet paper\" will still return the expected list of brands, typing \"What's a good skincare routine for…",
+      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/05/Screenshot-2026-05-13-at-7.44.36AM.png?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "source": "The Verge",
+      "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/929457/amazon-announces-alexa-for-shopping-ai-assistant-rufus",
+      "publishedAt": "2026-05-13T13:00:00.000Z"
+    },
+    {
+      "id": "c65xcz",
+      "title": "Adaption aims big with AutoScientist, an AI tool that helps models train themselves",
+      "summary": "Adaption's new AutoScientist tool is designed to let models adapt to specific capabilities quickly through an automated approach to conventional fine-tuning.",
+      "imageUrl": "https://images.unsplash.com/photo-1655720828018-edd2daec9349?w=800&q=80",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/05/13/adaption-aims-big-with-autoscientist-an-ai-tool-that-helps-models-train-themselves/",
+      "publishedAt": "2026-05-13T12:11:33.000Z"
+    },
+    {
+      "id": "ln01o8",
+      "title": "The Download: making drugs in orbit and NASA’s nuclear-powered spacecraft",
+      "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. A plan to make drugs in orbit is going commercial A startup called Varda Space Industries is betting that the future of pharmaceuticals lies in orbit. The company has signed a…",
+      "imageUrl": "https://images.unsplash.com/photo-1485827404703-89b55fcc595e?w=800&q=80",
+      "source": "MIT Tech Review",
+      "sourceUrl": "https://www.technologyreview.com/2026/05/13/1137176/the-download-drugs-in-orbit-nasa-nuclear-spacecraft/",
+      "publishedAt": "2026-05-13T12:10:00.000Z"
+    },
     {
       "id": "y0a51g",
       "title": "Submit Your Questions: AI Is Changing Your Job—Now What?",
@@ -237,15 +273,6 @@
       "publishedAt": "2026-05-12T16:00:00.000Z"
     },
     {
-      "id": "hoihfd",
-      "title": "Rivian’s AI-powered voice assistant is ready to roll",
-      "summary": "Rivian's AI-powered voice assistant is rolling out today to the company's vehicle fleet. The assistant will be available through a software update to all compatible Rivian Gen 1 and Gen 2 vehicle owners who subscribe to the company's Connect Plus cellular service, which costs $15 a month or $150 a year, or are in an active trial. First announced at last year's AI and Autonomy Day, the Rivian Assistant is powered by the company's Rivian Unified Intelligence, \"a shared, multi-modal AI foundation\"…",
-      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/06/2025RivianR1SPeterNelson23.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "source": "The Verge",
-      "sourceUrl": "https://www.theverge.com/transportation/928651/rivian-ai-voice-assistant-r1-r2",
-      "publishedAt": "2026-05-12T15:51:38.000Z"
-    },
-    {
       "id": "nuzmqj",
       "title": "Dessn raises $6M for its production-focused design tool",
       "summary": "A new startup called Dessn has raised $6 million to build AI-powered design tools that work directly with production codebases.",
@@ -282,15 +309,6 @@
       "publishedAt": "2026-05-12T04:52:35.000Z"
     },
     {
-      "id": "qqej1s",
-      "title": "Riding an AI rally, Robinhood preps second retail venture IPO",
-      "summary": "Robinhood files confidentially for its second venture fund, this time targeting growth and early-stage startups.",
-      "imageUrl": "https://images.unsplash.com/photo-1526374965328-7f61d4dc18c5?w=800&q=80",
-      "source": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/05/11/riding-an-ai-rally-robinhood-preps-second-retail-venture-ipo/",
-      "publishedAt": "2026-05-12T00:09:01.000Z"
-    },
-    {
       "id": "kxlq4q",
       "title": "Ilya Sutskever Stands by His Role in Sam Altman’s OpenAI Ouster: ‘I Didn’t Want It to Be Destroyed’",
       "summary": "The former OpenAI chief scientist may be estranged from the company, but he still came to its defense as he testified on Monday.",
@@ -298,15 +316,6 @@
       "source": "Wired",
       "sourceUrl": "https://www.wired.com/story/ilya-sutskever-testifies-musk-v-altman-trial/",
       "publishedAt": "2026-05-11T23:51:35.000Z"
-    },
-    {
-      "id": "meotzd",
-      "title": "GM just laid off hundreds of IT workers to hire those with stronger AI skills",
-      "summary": "Some of the positions focus on AI-native development, data engineering and analytics, cloud-based engineering, and agent and model development as well as prompt engineering and new AI workflows.",
-      "imageUrl": "https://images.unsplash.com/photo-1531746790095-6c10a4031c5f?w=800&q=80",
-      "source": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/05/11/gm-just-laid-off-hundreds-of-it-workers-to-hire-those-with-stronger-ai-skills/",
-      "publishedAt": "2026-05-11T23:04:10.000Z"
     },
     {
       "id": "qdsdu8",
@@ -406,15 +415,6 @@
       "source": "Ars Technica",
       "sourceUrl": "https://arstechnica.com/security/2026/05/chaos-erupts-as-cyberattack-disrupts-learning-platform-canvas-amid-finals/",
       "publishedAt": "2026-05-08T18:33:48.000Z"
-    },
-    {
-      "id": "i1v55g",
-      "title": "Here’s what you need to know about the cruise ship hantavirus outbreak",
-      "summary": "MIT Technology Review Explains: Let our writers untangle the complex, messy world of technology to help you understand what’s coming next. You can read more from the series here. Eight passengers aboard a Dutch-flagged cruise ship have contracted a type of hantavirus, a rare virus transmitted by rats. Three of them have died. As the ship…",
-      "imageUrl": "https://images.unsplash.com/photo-1526374965328-7f61d4dc18c5?w=800&q=80",
-      "source": "MIT Tech Review",
-      "sourceUrl": "https://www.technologyreview.com/2026/05/08/1136988/heres-what-you-need-to-know-about-the-cruise-ship-hantavirus-outbreak/",
-      "publishedAt": "2026-05-08T16:19:40.000Z"
     },
     {
       "id": "hnle2m",
