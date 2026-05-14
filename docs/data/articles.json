@@ -1,7 +1,34 @@
 {
-  "fetchedAt": "2026-05-14T19:20:18.816Z",
+  "fetchedAt": "2026-05-14T20:54:45.248Z",
   "count": 60,
   "articles": [
+    {
+      "id": "fbnkrz",
+      "title": "An Engineer’s Post Protesting Laptop Surveillance Is Going Viral Inside Meta",
+      "summary": "Meta employees in the US and UK are organizing against corporate software that tracks workers’ keystrokes and mouse activity.",
+      "imageUrl": "https://media.wired.com/photos/6a060ca601885d55b1a59854/master/pass/Viral-Meta-Employee-Note-Business-2196627075.jpg",
+      "source": "Wired",
+      "sourceUrl": "https://www.wired.com/story/meta-employee-protest-mouse-tracking-surveillance-ai-training/",
+      "publishedAt": "2026-05-14T20:27:34.000Z"
+    },
+    {
+      "id": "1tp9xj",
+      "title": "OpenAI’s Codex is now in the ChatGPT mobile app",
+      "summary": "OpenAI is going to let users access Codex, its desktop AI tool that can write code and use apps on your computer, from the ChatGPT app on your phone. Following the surge in popularity for Anthropic's Claude Code, OpenAI has been working quickly to try and catch up, including by cutting back on \"side quests,\" shutting down projects like the Sora video-generation tool, and focusing on growing its enterprise business. The company's push included the recently released major update for Codex that…",
+      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/05/App-view.png?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "source": "The Verge",
+      "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/930763/openai-codex-chatgpt-ios-android-app-preview",
+      "publishedAt": "2026-05-14T20:00:00.000Z"
+    },
+    {
+      "id": "2ryv07",
+      "title": "What happens when AI starts building itself?",
+      "summary": "Richard Socher's new $650 million startup wants to build an AI that can research and improve itself indefinitely — and he insists it will actually ship products.",
+      "imageUrl": "https://images.unsplash.com/photo-1676299081847-824916de030a?w=800&q=80",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/05/14/what-happens-when-ai-starts-building-itself/",
+      "publishedAt": "2026-05-14T19:57:20.000Z"
+    },
     {
       "id": "91lets",
       "title": "OpenAI is reportedly preparing legal action against Apple; it wouldn’t be the first partner to feel burned",
@@ -39,6 +66,15 @@
       "publishedAt": "2026-05-14T19:00:00.000Z"
     },
     {
+      "id": "t172gt",
+      "title": "Zero-day exploit completely defeats default Windows 11 BitLocker protections",
+      "summary": "It's not entirely clear how the exploit works. Microsoft says it's investigating.",
+      "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2023/07/exploit-vulnerability-security.jpg",
+      "source": "Ars Technica",
+      "sourceUrl": "https://arstechnica.com/security/2026/05/zero-day-exploit-completely-defeats-default-windows-11-bitlocker-protections/",
+      "publishedAt": "2026-05-14T18:32:01.000Z"
+    },
+    {
       "id": "59o2mn",
       "title": "Use this map to find the data centers in your backyard",
       "summary": "An interactive map tracking data center construction and AI policy, built by Isabelle Reksopuro. When Oregon resident Isabelle Reksopuro heard Google was gobbling up public land to fuel its data centers in her home state, she didn't initially know what to believe. \"There's a lot of misinformation about data centers,\" she said. \"Google has denied taking that land.\" Technically, she explains, The Dalles, a city near the Washington state border, sought to reclaim that land, \"and Google is just a…",
@@ -50,7 +86,7 @@
     {
       "id": "2fc2zs",
       "title": "Cisco announces record revenue and 4,000 layoffs in the same day",
-      "summary": "Layoffs are \"not a savings-driven resutrcture,\" CFO says.",
+      "summary": "Layoffs are \"not a savings-driven restructure,\" CFO says.",
       "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2026/05/GettyImages-2251821138-1024x648.jpg",
       "source": "Ars Technica",
       "sourceUrl": "https://arstechnica.com/information-technology/2026/05/cisco-announces-record-revenue-and-4000-layoffs-in-the-same-day/",
@@ -336,15 +372,6 @@
       "publishedAt": "2026-05-13T16:22:01.000Z"
     },
     {
-      "id": "nlxi2u",
-      "title": "Anthropic courts a new kind of customer: small business owners",
-      "summary": "For founders and investors, Anthropic's new offering signals that the AI platform wars are expanding downmarket and that the next major battleground for user acquisition isn't the Fortune 500; it's the 36 million small businesses that make up the backbone of the U.S. economy.",
-      "imageUrl": "https://images.unsplash.com/photo-1550751827-4bd374c3f58b?w=800&q=80",
-      "source": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/05/13/anthropic-courts-a-new-kind-of-customer-small-business-owners/",
-      "publishedAt": "2026-05-13T16:00:00.000Z"
-    },
-    {
       "id": "ssy5wo",
       "title": "Microsoft doesn’t want any of this",
       "summary": "Maybe I'm just punch-drunk in my third week attending Musk v. Altman, but I have become very, very fond of Microsoft during the course of this trial. They don't want to be here any more than I do. Their opening statement was honestly one of the most Microsoft things I've ever seen. More than anything else, it was an ad for Microsoft that listed their products in some detail. The general implication, from that statement, was that this trial was absurd, their involvement was absurd, but you,…",
@@ -352,15 +379,6 @@
       "source": "The Verge",
       "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/929692/microsoft-musk-altman-openai-trial",
       "publishedAt": "2026-05-13T15:30:37.000Z"
-    },
-    {
-      "id": "3rmr51",
-      "title": "WhatsApp Adds Meta AI Chats That Are Built to Be Fully Private",
-      "summary": "The company says its new Incognito Chat allows you to use its AI chatbot without anyone else—including Meta—being able to access your conversations.",
-      "imageUrl": "https://media.wired.com/photos/6a034d2ce90cf7c0fd36d447/master/pass/GettyImages-2266672994.jpg",
-      "source": "Wired",
-      "sourceUrl": "https://www.wired.com/story/whatsapp-incognito-chat-meta-ai/",
-      "publishedAt": "2026-05-13T14:00:00.000Z"
     },
     {
       "id": "ezt7m5",
@@ -388,15 +406,6 @@
       "source": "MIT Tech Review",
       "sourceUrl": "https://www.technologyreview.com/2026/05/13/1137153/varda-united-therapeutics-drug-manufacturing-in-space/",
       "publishedAt": "2026-05-13T10:00:00.000Z"
-    },
-    {
-      "id": "722jpl",
-      "title": "Data centers are coming for rural America",
-      "summary": "At its peak, the Androscoggin paper mill in Jay, Maine, a rural town about 67 miles northwest of Portland, employed about 1,500 people - until a pulp digester exploded in 2020, forcing the mill to close permanently. In 2023, the 1.4 million-square-foot facility was purchased through a joint venture by JGT2 Redevelopment and a number of other holding and capital companies. The project is led by developer Tony McDonald. Over the next three years, McDonald and his team broke down the mill's…",
-      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/04/STKS528_DATA_CENTERS_B.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "source": "The Verge",
-      "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/928963/data-center-rural-america-jobs-jay-maine",
-      "publishedAt": "2026-05-13T09:00:00.000Z"
     },
     {
       "id": "v8lrxk",
@@ -532,15 +541,6 @@
       "source": "Ars Technica",
       "sourceUrl": "https://arstechnica.com/security/2026/04/now-even-ransomware-is-using-post-quantum-cryptography/",
       "publishedAt": "2026-04-23T20:41:23.000Z"
-    },
-    {
-      "id": "zhfctg",
-      "title": "Microsoft issues emergency update for macOS and Linux ASP.NET threat",
-      "summary": "When authentication fails, things can go very, very wrong.",
-      "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2023/07/exploit-vulnerability-security.jpg",
-      "source": "Ars Technica",
-      "sourceUrl": "https://arstechnica.com/security/2026/04/microsoft-issues-emergency-update-for-macos-and-linux-asp-net-threat/",
-      "publishedAt": "2026-04-22T19:32:56.000Z"
     }
   ]
 }
