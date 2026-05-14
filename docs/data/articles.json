@@ -1,7 +1,34 @@
 {
-  "fetchedAt": "2026-05-13T20:19:43.116Z",
+  "fetchedAt": "2026-05-14T01:27:23.940Z",
   "count": 60,
   "articles": [
+    {
+      "id": "2ugv14",
+      "title": "Microsoft’s Edge Copilot update uses AI to pull information from across your tabs",
+      "summary": "Microsoft Edge is adding a new feature that will allow its Copilot AI chatbot to gather information from all of your open tabs. When you start a conversation with Copilot, you can ask the chatbot questions about what's in your tabs, compare the products you're looking at, summarize your open articles, and more. In its announcement, Microsoft says you can \"select which experiences you want or leave off the ones you don't.\" The company is retiring Copilot Mode as well, which could similarly draw…",
+      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/24385267/STK148_Microsoft_Edge_2.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "source": "The Verge",
+      "sourceUrl": "https://www.theverge.com/tech/930188/microsoft-edge-copilot-ai-tabs",
+      "publishedAt": "2026-05-13T22:04:28.000Z"
+    },
+    {
+      "id": "mjus3p",
+      "title": "Everyone at the Musk v. Altman Trial Is Using Fancy Butt Cushions",
+      "summary": "The plaintiffs and defense have rested their cases, as well as their rear ends.",
+      "imageUrl": "https://media.wired.com/photos/6a04d12cd7be752b48cba4af/master/pass/Model-Behavior-Musk-v-Altman-Butt-Pillows-Business-Court-Image.jpg",
+      "source": "Wired",
+      "sourceUrl": "https://www.wired.com/story/fancy-butt-pillows-musk-v-altman-trial/",
+      "publishedAt": "2026-05-13T21:58:47.000Z"
+    },
+    {
+      "id": "vbxlcl",
+      "title": "Notion just turned its workspace into a hub for AI agents",
+      "summary": "Notion’s new developer platform lets teams connect AI agents, external data sources, and custom code directly into their workspace as the company pushes deeper into agentic productivity software.",
+      "imageUrl": "https://images.unsplash.com/photo-1531746790095-6c10a4031c5f?w=800&q=80",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/05/13/notion-just-turned-its-workspace-into-a-hub-for-ai-agents/",
+      "publishedAt": "2026-05-13T21:45:09.000Z"
+    },
     {
       "id": "1bbj4h",
       "title": "Musk’s xAI is running nearly 50 gas turbines unchecked at its Mississippi data center",
@@ -77,7 +104,7 @@
     {
       "id": "qhv8rn",
       "title": "Who trusts Sam Altman?",
-      "summary": "\"I believe I am an honest and trustworthy business person,\" Altman testified in federal court.",
+      "summary": "\"I believe I am an honest and trustworthy businessperson,\" Altman testified in federal court.",
       "imageUrl": "https://images.unsplash.com/photo-1526374965328-7f61d4dc18c5?w=800&q=80",
       "source": "TechCrunch",
       "sourceUrl": "https://techcrunch.com/2026/05/13/who-trusts-sam-altman/",
@@ -273,15 +300,6 @@
       "publishedAt": "2026-05-12T23:23:14.000Z"
     },
     {
-      "id": "ij9gge",
-      "title": "The Unitree GD01 Is a Giant Mecha Robot You Can Actually Buy",
-      "summary": "China’s Unitree, famous for making low-cost dancing robots, will now sell you a giant, wall-smashing mecha.",
-      "imageUrl": "https://media.wired.com/photos/6a03a0e42162ad5152e57fa7/master/pass/Unitree-Mecha-Robot-Business-3.jpg",
-      "source": "Wired",
-      "sourceUrl": "https://www.wired.com/story/unitree-gd01-mecha-robot/",
-      "publishedAt": "2026-05-12T22:51:45.000Z"
-    },
-    {
       "id": "je0j9s",
       "title": "Meta won’t let you block its AI account on Threads",
       "summary": "Meta announced on Tuesday that it's testing a Threads feature that lets users tag a Meta AI account to get answers to questions or context about a conversation on the platform. If you've spent any time looking at replies on X as of late, this new feature sounds a lot like Meta's take on people tagging xAI's Grok. But, as reported by Engadget, Threads users quickly discovered that you can't block the new Meta AI account, and they aren't happy about it. Meta has invested heavily in AI as it works…",
@@ -318,30 +336,12 @@
       "publishedAt": "2026-05-12T17:34:09.000Z"
     },
     {
-      "id": "qzpx3x",
-      "title": "Report: Google and SpaceX in talks to put data centers into orbit",
-      "summary": "Google and SpaceX are in talks to build data centers in orbit, pitching space as the future home for AI compute, even as costs today remain far higher than on the ground.",
-      "imageUrl": "https://images.unsplash.com/photo-1635070041078-e363dbe005cb?w=800&q=80",
-      "source": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/05/12/report-google-and-spacex-in-talks-to-put-data-centers-into-orbit/",
-      "publishedAt": "2026-05-12T17:30:57.000Z"
-    },
-    {
       "id": "oeir8t",
       "title": "The 9 biggest new features in Android 17",
       "summary": "AI-generated widgets are among the features coming to Android this year. | Screenshot: Google Would it shock you to hear that Android 17 is filled with new AI-enabled features, like improved dictation and vibe-coded widgets? Fortunately, that's not all. The platform is getting non-AI updates too, from an emoji overhaul to a new screentime tool that helps you avoid distracting apps. Google has just revealed the biggest changes coming in its next OS update as part of its dedicated Android Show,…",
       "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/05/google-android-17-gemini-intelligence-create-my-widget.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
       "source": "The Verge",
       "sourceUrl": "https://www.theverge.com/tech/928653/google-android-17-9-biggest-new-features-android-show-io",
-      "publishedAt": "2026-05-12T17:00:00.000Z"
-    },
-    {
-      "id": "knlkvn",
-      "title": "Gemini’s latest updates are all about controlling your phone",
-      "summary": "Gemini Intelligence comes with a Liquid Glass-ish visual treatment. | Image: Google It is, once again, Gemini season. Google is announcing a host of new Gemini features during its pre-I/O Android showcase, many of which aim to help use your phone for you. You'll find Gemini in more places, like Chrome on Android, in your autofill suggestions, and all up in your apps - if you want. Google also has a new name for us to remember, because it just can't help itself: Gemini Intelligence. It \"brings…",
-      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/05/gemini_intell.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "source": "The Verge",
-      "sourceUrl": "https://www.theverge.com/tech/928724/gemini-intelligence-android-io-autofill",
       "publishedAt": "2026-05-12T17:00:00.000Z"
     },
     {
