@@ -1,7 +1,34 @@
 {
-  "fetchedAt": "2026-05-14T08:12:47.422Z",
+  "fetchedAt": "2026-05-14T10:58:16.091Z",
   "count": 60,
   "articles": [
+    {
+      "id": "en9snu",
+      "title": "The Tesla Semi could be a big deal for electric trucking",
+      "summary": "The Tesla Semi has officially arrived. The company recently released a photo of the first vehicle rolling off its new full-scale production line. This moment has been nearly a decade in the making: The company first announced the Tesla Semi in late 2017. And now we’ve got final battery specs, official prices, and big news…",
+      "imageUrl": "https://images.unsplash.com/photo-1676299081847-824916de030a?w=800&q=80",
+      "source": "MIT Tech Review",
+      "sourceUrl": "https://www.technologyreview.com/2026/05/14/1137197/tesla-semi-electric-trucking/",
+      "publishedAt": "2026-05-14T10:00:00.000Z"
+    },
+    {
+      "id": "380iki",
+      "title": "Meta’s New Reality: Record High Profits. Record Low Morale",
+      "summary": "Next week, Meta is cutting about 10 percent of its staff. WIRED spoke with more than a dozen current and former employees about what it's like inside a company where \"everyone is unhappy.\"",
+      "imageUrl": "https://media.wired.com/photos/6a05290e9fce16b06df70c32/master/pass/Meta-New-Reality-Record-High-Profits-Record-Low-Morale-Business-2261835380.jpg",
+      "source": "Wired",
+      "sourceUrl": "https://www.wired.com/story/meta-layoffs-bad-vibes-mark-zuckerberg-ai/",
+      "publishedAt": "2026-05-14T09:00:00.000Z"
+    },
+    {
+      "id": "limhak",
+      "title": "The shock of seeing your body used in deepfake porn",
+      "summary": "When Jennifer got a job doing research for a nonprofit in 2023, she ran her new professional headshot through a facial recognition program. She wanted to see if the tech would pull up the porn videos she’d made more than 10 years before, when she was in her early 20s. It did in fact return…",
+      "imageUrl": "https://images.unsplash.com/photo-1635070041078-e363dbe005cb?w=800&q=80",
+      "source": "MIT Tech Review",
+      "sourceUrl": "https://www.technologyreview.com/2026/05/14/1137161/ai-porn-nonconsensual-deepfakes-takedown-piracy-copyright/",
+      "publishedAt": "2026-05-14T09:00:00.000Z"
+    },
     {
       "id": "m1hlwi",
       "title": "Who decides what AI tells you? Campbell Brown, once Meta’s news chief, has thoughts",
@@ -300,15 +327,6 @@
       "publishedAt": "2026-05-13T00:10:05.000Z"
     },
     {
-      "id": "lh73uk",
-      "title": "xAI Adds 19 New Gas Turbines Despite Ongoing Lawsuit",
-      "summary": "Emails show that Elon Musk’s company is expanding its use of portable gas-fired power at its Colossus 2 site as a fight over air quality continues.",
-      "imageUrl": "https://media.wired.com/photos/6a03856ecf0cbf2f8d86fffe/master/pass/xAI-Adds-16-New-Gas-Turbines-Science-2217198328.jpg",
-      "source": "Wired",
-      "sourceUrl": "https://www.wired.com/story/xai-adds-19-new-gas-turbines-despite-ongoing-lawsuit/",
-      "publishedAt": "2026-05-13T00:00:00.000Z"
-    },
-    {
       "id": "qlf4d",
       "title": "Sam Altman was winning on the stand, but it might not be enough",
       "summary": "Who, me? | Image: The Verge; Getty Images After two weeks of hearing from assorted witnesses that he was a lying snake, the jury finally heard from the lying snake himself: Sam Altman. At the end of the testimony, his lawyer William Savitt asked him how it felt to be accused of stealing a charity. \"We created, through a ton of hard work, this extremely large charity, and I agree you can't steal it,\" Altman said. \"Mr. Musk did try to kill it, I guess. Twice.\" Altman was fully in \"nice kid from…",
@@ -397,24 +415,6 @@
       "source": "MIT Tech Review",
       "sourceUrl": "https://www.technologyreview.com/2026/05/11/1136406/innovation-abounds-in-device-charging/",
       "publishedAt": "2026-05-11T13:00:00.000Z"
-    },
-    {
-      "id": "x6kcy3",
-      "title": "Implementing advanced AI technologies in finance",
-      "summary": "In finance departments that have long been defined by precision and control, AI has arrived less as a neatly managed upgrade than as a quiet insurgency. Employees are already using it while leadership races to impose structure, governance, and strategy after the fact. The result is a paradox: one of the most tightly regulated functions…",
-      "imageUrl": "https://images.unsplash.com/photo-1676299081847-824916de030a?w=800&q=80",
-      "source": "MIT Tech Review",
-      "sourceUrl": "https://www.technologyreview.com/2026/05/11/1136786/implementing-advanced-ai-technologies-in-finance/",
-      "publishedAt": "2026-05-11T13:00:00.000Z"
-    },
-    {
-      "id": "w48020",
-      "title": "The Download: the hantavirus outbreak and Musk v. Altman week 2",
-      "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. Here’s what you need to know about the cruise ship hantavirus outbreak Last week, eight passengers aboard a Dutch-flagged cruise ship contracted a type of hantavirus transmitted by rats. Three have…",
-      "imageUrl": "https://images.unsplash.com/photo-1635070041078-e363dbe005cb?w=800&q=80",
-      "source": "MIT Tech Review",
-      "sourceUrl": "https://www.technologyreview.com/2026/05/11/1137031/the-download-hantavirus-outbreak-musk-altman-trial/",
-      "publishedAt": "2026-05-11T12:10:00.000Z"
     },
     {
       "id": "8cfwxs",
