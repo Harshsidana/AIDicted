@@ -1,7 +1,142 @@
 {
-  "fetchedAt": "2026-05-14T13:00:04.783Z",
+  "fetchedAt": "2026-05-14T19:20:18.816Z",
   "count": 60,
   "articles": [
+    {
+      "id": "91lets",
+      "title": "OpenAI is reportedly preparing legal action against Apple; it wouldn’t be the first partner to feel burned",
+      "summary": "According to Bloomberg, OpenAI has enlisted an outside law firm to work through its options.",
+      "imageUrl": "https://images.unsplash.com/photo-1620712943543-bcc4688e7485?w=800&q=80",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/05/14/openai-is-reportedly-preparing-legal-action-against-apple-it-wouldnt-be-the-first-partner-to-feel-burned/",
+      "publishedAt": "2026-05-14T19:12:03.000Z"
+    },
+    {
+      "id": "7rprz",
+      "title": "Clawdmeter turns your Claude Code usage stats into a tiny desktop dashboard",
+      "summary": "A new open source gadget called Clawdmeter turns Claude Code usage stats into a tiny desktop dashboard for AI coding power users.",
+      "imageUrl": "https://images.unsplash.com/photo-1620712943543-bcc4688e7485?w=800&q=80",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/05/14/clawdmeter-turns-your-claude-code-usage-stats-into-a-tiny-desktop-dashboard/",
+      "publishedAt": "2026-05-14T19:05:01.000Z"
+    },
+    {
+      "id": "4ryk2n",
+      "title": "Trump’s Tech Posse in China, Who’s Winning in Musk v. Altman, and Hantavirus Conspiracy Theories",
+      "summary": "Today on Uncanny Valley, we discuss how Donald Trump’s visit to China could influence conversations between world leaders at a moment when the economic and foreign policy stakes couldn’t be higher.",
+      "imageUrl": "https://media.wired.com/photos/6a04db151416c79bb924987e/master/pass/Uncanny-Valley-Trump-China-Visit-Politics-2276002216.jpg",
+      "source": "Wired",
+      "sourceUrl": "https://www.wired.com/story/uncanny-valley-podcast-trump-tech-posse-china-musk-v-altman-trial-hantavirus-conspiracy-theories/",
+      "publishedAt": "2026-05-14T19:04:47.000Z"
+    },
+    {
+      "id": "gssf56",
+      "title": "Microsoft starts canceling Claude Code licenses",
+      "summary": "Microsoft first started opening up access to Claude Code in December, inviting thousands of its own developers to use Anthropic's AI coding tool daily. It was part of an effort to get project managers, designers, and other employees to experiment with coding for the first time, and sources tell me that Claude Code has proved very popular inside Microsoft over the past six months. Perhaps a little too popular, as Microsoft is now preparing to walk back its Claude Code push. I understand that…",
+      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25832912/STK095_MICROSOFT_2_CVirginia_A.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "source": "The Verge",
+      "sourceUrl": "https://www.theverge.com/tech/930447/microsoft-claude-code-discontinued-notepad",
+      "publishedAt": "2026-05-14T19:00:00.000Z"
+    },
+    {
+      "id": "59o2mn",
+      "title": "Use this map to find the data centers in your backyard",
+      "summary": "An interactive map tracking data center construction and AI policy, built by Isabelle Reksopuro. When Oregon resident Isabelle Reksopuro heard Google was gobbling up public land to fuel its data centers in her home state, she didn't initially know what to believe. \"There's a lot of misinformation about data centers,\" she said. \"Google has denied taking that land.\" Technically, she explains, The Dalles, a city near the Washington state border, sought to reclaim that land, \"and Google is just a…",
+      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/05/Screenshot-2026-05-14-at-1.06.40PM.png?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "source": "The Verge",
+      "sourceUrl": "https://www.theverge.com/policy/930629/data-center-policy-map-interactive",
+      "publishedAt": "2026-05-14T17:40:00.000Z"
+    },
+    {
+      "id": "2fc2zs",
+      "title": "Cisco announces record revenue and 4,000 layoffs in the same day",
+      "summary": "Layoffs are \"not a savings-driven resutrcture,\" CFO says.",
+      "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2026/05/GettyImages-2251821138-1024x648.jpg",
+      "source": "Ars Technica",
+      "sourceUrl": "https://arstechnica.com/information-technology/2026/05/cisco-announces-record-revenue-and-4000-layoffs-in-the-same-day/",
+      "publishedAt": "2026-05-14T16:47:43.000Z"
+    },
+    {
+      "id": "g7oylo",
+      "title": "Cerebras raises $5.5B, then stock pops $108%, in the first huge tech IPO of 2026",
+      "summary": "A year ago, it looked like this day would never happen for Cerebras.",
+      "imageUrl": "https://images.unsplash.com/photo-1485827404703-89b55fcc595e?w=800&q=80",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/05/14/cerebras-raises-5-5b-kicking-off-2026s-ipo-season-with-a-bang/",
+      "publishedAt": "2026-05-14T16:30:02.000Z"
+    },
+    {
+      "id": "rfngrl",
+      "title": "Live updates from Elon Musk and Sam Altman’s court battle over the future of OpenAI",
+      "summary": "Sam Altman and Elon Musk are facing off in a high-stakes trial that could alter the future of OpenAI and its most well-known product, ChatGPT. In 2024, Musk filed a lawsuit accusing OpenAI of abandoning its founding mission of developing AI to benefit humanity and shifting focus to boosting profits instead. Elon Musk, his financial manager and Neuralink CEO, Jared Birchall, and OpenAI cofounder Greg Brockman have already testified before the jury. Shivon Zilis, a former OpenAI board member who…",
+      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/04/268474_musk_vs_altman_CVirginia.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "source": "The Verge",
+      "sourceUrl": "https://www.theverge.com/tech/917225/sam-altman-elon-musk-openai-lawsuit",
+      "publishedAt": "2026-05-14T15:46:04.000Z"
+    },
+    {
+      "id": "d3fpqj",
+      "title": "Americans do not want AI data centers in their backyards",
+      "summary": "Over 70 percent of Americans oppose AI data center construction in their area, according to a new Gallup survey. Just 7 percent said they were \"strongly\" in favor of new data centers. According to Gallup, data centers are so strongly disliked that Americans would prefer to live near a nuclear power plant than a data center - even at its peak, opposition to nuclear power plant construction topped out at 63 percent. Gallup's data is based on a March 2026 survey of 1,000 randomly selected American…",
+      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/04/STKS528_DATA_CENTERS_A.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "source": "The Verge",
+      "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/930477/ai-data-centers-gallup-survey-70-percent-opposition",
+      "publishedAt": "2026-05-14T15:24:53.000Z"
+    },
+    {
+      "id": "skng44",
+      "title": "Khosla Ventures is betting $10M on Ian Crosby, whose first startup, Bench, imploded",
+      "summary": "Crosby is building Synthetic, a fully autonomous AI bookkeeping service for other startups.",
+      "imageUrl": "https://images.unsplash.com/photo-1655720828018-edd2daec9349?w=800&q=80",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/05/14/khosla-ventures-is-betting-10m-on-ian-crosby-whose-last-startup-bench-imploded/",
+      "publishedAt": "2026-05-14T15:20:18.000Z"
+    },
+    {
+      "id": "vnb8qy",
+      "title": "Cisco cuts nearly 4,000 jobs to spend more on AI, reports ‘record quarterly revenue’",
+      "summary": "This is Cisco's latest layoff in recent years, while the company's chief executive touts record revenue and growth.",
+      "imageUrl": "https://images.unsplash.com/photo-1676299081847-824916de030a?w=800&q=80",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/05/14/cisco-cuts-nearly-4000-jobs-to-spend-more-on-ai-reports-record-quarterly-revenue/",
+      "publishedAt": "2026-05-14T14:01:14.000Z"
+    },
+    {
+      "id": "g0mq3t",
+      "title": "Two weeks left: Startup Battlefield 200 applications close May 27",
+      "summary": "Your shot at VC access, global visibility, TechCrunch coverage, and $100K equity-free funding is running out. Deadline to apply is May 27. Apply now.",
+      "imageUrl": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=800&q=80",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/05/14/two-weeks-left-startup-battlefield-200-applications-close-may-27/",
+      "publishedAt": "2026-05-14T14:00:00.000Z"
+    },
+    {
+      "id": "gp9fpd",
+      "title": "Wirestock raises $23M to supply creative multimodal data to AI labs",
+      "summary": "The company pivoted to being a data provider in 2023 and now supplies datasets of images, videos, design assets, and gaming and 3D content to AI labs.",
+      "imageUrl": "https://images.unsplash.com/photo-1526374965328-7f61d4dc18c5?w=800&q=80",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/05/14/wirestock-raises-23m-to-supply-multi-modal-data-to-ai-labs/",
+      "publishedAt": "2026-05-14T14:00:00.000Z"
+    },
+    {
+      "id": "srw9jh",
+      "title": "Data readiness for agentic AI in financial services",
+      "summary": "Financial services companies have unique needs when it comes to business AI. They operate in one of the most highly regulated sectors while responding to external events that are updated by the second. As a result, the success of agentic AI in financial services depends less on the sophistication of the system and more on…",
+      "imageUrl": "https://images.unsplash.com/photo-1635070041078-e363dbe005cb?w=800&q=80",
+      "source": "MIT Tech Review",
+      "sourceUrl": "https://www.technologyreview.com/2026/05/14/1137034/data-readiness-for-agentic-ai-in-financial-services/",
+      "publishedAt": "2026-05-14T13:00:00.000Z"
+    },
+    {
+      "id": "8hzlju",
+      "title": "Establishing AI and data sovereignty in the age of autonomous systems",
+      "summary": "When generative AI first moved from research labs into real-world business applications, enterprises made a tacit bargain: “Capability now, control later.” Feed your proprietary data into third-party AI models, and you will get powerful results. But your data passes through systems you do not own, under governance you do not set. The protections you rely…",
+      "imageUrl": "https://images.unsplash.com/photo-1620712943543-bcc4688e7485?w=800&q=80",
+      "source": "MIT Tech Review",
+      "sourceUrl": "https://www.technologyreview.com/2026/05/14/1137168/establishing-ai-and-data-sovereignty-in-the-age-of-autonomous-systems/",
+      "publishedAt": "2026-05-14T13:00:00.000Z"
+    },
     {
       "id": "qf50hf",
       "title": "AI Promised the Audemars Piguet x Swatch Wristwatch. China Will Deliver It",
@@ -50,7 +185,7 @@
     {
       "id": "380iki",
       "title": "Meta’s New Reality: Record High Profits. Record Low Morale",
-      "summary": "Next week, Meta is cutting about 10 percent of its staff. WIRED spoke with more than a dozen current and former employees about what it's like inside a company where \"everyone is unhappy.\"",
+      "summary": "Next week, Meta is cutting about 10 percent of its staff. WIRED spoke with more than a dozen current and former employees about what it's like inside a company where “everyone is unhappy.”",
       "imageUrl": "https://media.wired.com/photos/6a05290e9fce16b06df70c32/master/pass/Meta-New-Reality-Record-High-Profits-Record-Low-Morale-Business-2261835380.jpg",
       "source": "Wired",
       "sourceUrl": "https://www.wired.com/story/meta-layoffs-bad-vibes-mark-zuckerberg-ai/",
@@ -68,7 +203,7 @@
     {
       "id": "m1hlwi",
       "title": "Who decides what AI tells you? Campbell Brown, once Meta’s news chief, has thoughts",
-      "summary": "\"The conversation is sort of happening in Silicon Valley around one thing, and a totally different conversation is happening among consumers.\"",
+      "summary": "\"The conversation is sort of happening in Silicon Valley around one thing, and a totally different conversation is happening among consumers,\" Campbell Brown said at StrictlyVC.",
       "imageUrl": "https://images.unsplash.com/photo-1550751827-4bd374c3f58b?w=800&q=80",
       "source": "TechCrunch",
       "sourceUrl": "https://techcrunch.com/2026/05/13/who-decides-what-ai-tells-you-campbell-brown-once-metas-news-chief-has-thoughts/",
@@ -219,51 +354,6 @@
       "publishedAt": "2026-05-13T15:30:37.000Z"
     },
     {
-      "id": "rfngrl",
-      "title": "Live updates from Elon Musk and Sam Altman’s court battle over the future of OpenAI",
-      "summary": "Sam Altman and Elon Musk are facing off in a high-stakes trial that could alter the future of OpenAI and its most well-known product, ChatGPT. In 2024, Musk filed a lawsuit accusing OpenAI of abandoning its founding mission of developing AI to benefit humanity and shifting focus to boosting profits instead. Elon Musk, his financial manager and Neuralink CEO, Jared Birchall, and OpenAI cofounder Greg Brockman have already testified before the jury. Shivon Zilis, a former OpenAI board member who…",
-      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/04/268474_musk_vs_altman_CVirginia.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "source": "The Verge",
-      "sourceUrl": "https://www.theverge.com/tech/917225/sam-altman-elon-musk-openai-lawsuit",
-      "publishedAt": "2026-05-13T15:28:21.000Z"
-    },
-    {
-      "id": "rchfgy",
-      "title": "Amazon launches an AI shopping assistant for the search bar, powered by Alexa+",
-      "summary": "Alexa for Shopping offers a voice- and touch-enabled shopping experience across mobile, desktop, and Echo Show smart displays. Alexa for Shopping provides more personalized recommendations and automates the shopping experience across Amazon and other online retailers.",
-      "imageUrl": "https://images.unsplash.com/photo-1526374965328-7f61d4dc18c5?w=800&q=80",
-      "source": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/05/13/amazon-launches-an-ai-shopping-assistant-for-the-search-bar-powered-by-alexa/",
-      "publishedAt": "2026-05-13T14:59:32.000Z"
-    },
-    {
-      "id": "hdn6xv",
-      "title": "Introducing the 6 stages at TechCrunch Disrupt 2026 — built for today’s tougher startup market",
-      "summary": "From October 13-15, TechCrunch Disrupt 2026 will feature 200+ sessions across six stages, led by 250+ tech leaders shaping the industry today. Register now to save up to $410, plus 50% off a second pass.",
-      "imageUrl": "https://images.unsplash.com/photo-1526374965328-7f61d4dc18c5?w=800&q=80",
-      "source": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/05/13/introducing-the-6-stages-of-techcrunch-disrupt-2026-built-for-todays-tougher-startup-market/",
-      "publishedAt": "2026-05-13T14:00:00.000Z"
-    },
-    {
-      "id": "h8k6r6",
-      "title": "Anthropic now has more business customers than OpenAI, according to Ramp data",
-      "summary": "A survey compiled from fintech firm Ramp’s clients’ expense data shows 34.4% of participating businesses are paying for Anthropic services, more than any other AI lab, while only 32.3% pay for OpenAI.",
-      "imageUrl": "https://images.unsplash.com/photo-1676299081847-824916de030a?w=800&q=80",
-      "source": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/05/13/anthropic-now-has-more-business-customers-than-openai-according-to-ramp-data/",
-      "publishedAt": "2026-05-13T14:00:00.000Z"
-    },
-    {
-      "id": "1dsbwx",
-      "title": "WhatsApp adds an incognito mode in Meta AI chats",
-      "summary": "Meta said these incognito conversations are not saved, and messages will disappear by default once you close the chat.",
-      "imageUrl": "https://images.unsplash.com/photo-1531746790095-6c10a4031c5f?w=800&q=80",
-      "source": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/05/13/whatsapp-adds-an-incognito-mode-in-meta-ai-chats/",
-      "publishedAt": "2026-05-13T14:00:00.000Z"
-    },
-    {
       "id": "3rmr51",
       "title": "WhatsApp Adds Meta AI Chats That Are Built to Be Fully Private",
       "summary": "The company says its new Incognito Chat allows you to use its AI chatbot without anyone else—including Meta—being able to access your conversations.",
@@ -271,15 +361,6 @@
       "source": "Wired",
       "sourceUrl": "https://www.wired.com/story/whatsapp-incognito-chat-meta-ai/",
       "publishedAt": "2026-05-13T14:00:00.000Z"
-    },
-    {
-      "id": "i6xvfy",
-      "title": "Poppy debuts a proactive AI assistant to help organize your digital life",
-      "summary": "Poppy is an AI-powered app that connects your calendar, email, messages, and other services to surface reminders, suggestions, and tasks based on what’s happening in your life.",
-      "imageUrl": "https://images.unsplash.com/photo-1620712943543-bcc4688e7485?w=800&q=80",
-      "source": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/05/13/poppy-debuts-a-proactive-ai-assistant-to-help-organize-your-digital-life/",
-      "publishedAt": "2026-05-13T13:27:09.000Z"
     },
     {
       "id": "ezt7m5",
@@ -291,15 +372,6 @@
       "publishedAt": "2026-05-13T13:00:00.000Z"
     },
     {
-      "id": "c65xcz",
-      "title": "Adaption aims big with AutoScientist, an AI tool that helps models train themselves",
-      "summary": "Adaption's new AutoScientist tool is designed to let models adapt to specific capabilities quickly through an automated approach to conventional fine-tuning.",
-      "imageUrl": "https://images.unsplash.com/photo-1655720828018-edd2daec9349?w=800&q=80",
-      "source": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/05/13/adaption-aims-big-with-autoscientist-an-ai-tool-that-helps-models-train-themselves/",
-      "publishedAt": "2026-05-13T12:11:33.000Z"
-    },
-    {
       "id": "ln01o8",
       "title": "The Download: making drugs in orbit and NASA’s nuclear-powered spacecraft",
       "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. A plan to make drugs in orbit is going commercial A startup called Varda Space Industries is betting that the future of pharmaceuticals lies in orbit. The company has signed a…",
@@ -307,15 +379,6 @@
       "source": "MIT Tech Review",
       "sourceUrl": "https://www.technologyreview.com/2026/05/13/1137176/the-download-drugs-in-orbit-nasa-nuclear-spacecraft/",
       "publishedAt": "2026-05-13T12:10:00.000Z"
-    },
-    {
-      "id": "y0a51g",
-      "title": "Submit Your Questions: AI Is Changing Your Job—Now What?",
-      "summary": "Pose your questions ahead of our May 27 livestream AMA, where a panel of WIRED experts will discuss how AI is transforming work.",
-      "imageUrl": "https://media.wired.com/photos/6a034ac22ca789364089d14f/master/pass/livestream-ama-AI-Is-Changing-Your-Job-Now-What.jpg",
-      "source": "Wired",
-      "sourceUrl": "https://www.wired.com/story/livestream-ai-is-changing-your-job-now-what/",
-      "publishedAt": "2026-05-13T11:00:00.000Z"
     },
     {
       "id": "2mod6t",
@@ -334,42 +397,6 @@
       "source": "The Verge",
       "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/928963/data-center-rural-america-jobs-jay-maine",
       "publishedAt": "2026-05-13T09:00:00.000Z"
-    },
-    {
-      "id": "42n3z3",
-      "title": "Medicare’s new payment model is built for AI, and most of the tech world has no idea",
-      "summary": "There is no governmental mechanism to pay for an AI agent that monitors a patient between visits, calls to check in, coordinates a housing referral, or makes sure someone picks up their medication. ACCESS creates that mechanism for the first time.",
-      "imageUrl": "https://images.unsplash.com/photo-1676299081847-824916de030a?w=800&q=80",
-      "source": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/05/12/medicares-new-payment-model-is-built-for-ai-and-most-of-the-tech-world-has-no-idea/",
-      "publishedAt": "2026-05-13T00:26:48.000Z"
-    },
-    {
-      "id": "qlf4d",
-      "title": "Sam Altman was winning on the stand, but it might not be enough",
-      "summary": "Who, me? | Image: The Verge; Getty Images After two weeks of hearing from assorted witnesses that he was a lying snake, the jury finally heard from the lying snake himself: Sam Altman. At the end of the testimony, his lawyer William Savitt asked him how it felt to be accused of stealing a charity. \"We created, through a ton of hard work, this extremely large charity, and I agree you can't steal it,\" Altman said. \"Mr. Musk did try to kill it, I guess. Twice.\" Altman was fully in \"nice kid from…",
-      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/05/Vrg_illo_Sam_Altman_stock_trial.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "source": "The Verge",
-      "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/929129/sam-altman-testimony-elon-musk-openai-trial",
-      "publishedAt": "2026-05-12T23:23:14.000Z"
-    },
-    {
-      "id": "je0j9s",
-      "title": "Meta won’t let you block its AI account on Threads",
-      "summary": "Meta announced on Tuesday that it's testing a Threads feature that lets users tag a Meta AI account to get answers to questions or context about a conversation on the platform. If you've spent any time looking at replies on X as of late, this new feature sounds a lot like Meta's take on people tagging xAI's Grok. But, as reported by Engadget, Threads users quickly discovered that you can't block the new Meta AI account, and they aren't happy about it. Meta has invested heavily in AI as it works…",
-      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/24774110/STK156_Instagram_threads_1.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "source": "The Verge",
-      "sourceUrl": "https://www.theverge.com/tech/929091/meta-ai-threads-account-block",
-      "publishedAt": "2026-05-12T20:35:23.000Z"
-    },
-    {
-      "id": "2iln7b",
-      "title": "Sam Altman says Elon Musk’s mind games were damaging OpenAI",
-      "summary": "OpenAI CEO Sam Altman says Elon Musk did \"huge damage\" to the culture of the AI startup. During testimony as part of Musk's lawsuit against OpenAI, Altman said Musk required OpenAI president Greg Brockman and former chief scientist Ilya Sutskever to rank researchers by their accomplishments and \"take a chainsaw through a bunch.\" Altman conceded that this was the management style the Tesla CEO was known for, but that it was incompatible with his startup. \"I don't think Mr. Musk understood how to…",
-      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/09/STK201_SAM_ALTMAN_CVIRGINIA_B.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "source": "The Verge",
-      "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/928861/openai-sam-altman-elon-musk-damage",
-      "publishedAt": "2026-05-12T17:34:09.000Z"
     },
     {
       "id": "v8lrxk",
@@ -397,24 +424,6 @@
       "source": "Ars Technica",
       "sourceUrl": "https://arstechnica.com/security/2026/05/linux-bitten-by-second-severe-vulnerability-in-as-many-weeks/",
       "publishedAt": "2026-05-11T22:28:19.000Z"
-    },
-    {
-      "id": "ir1uxl",
-      "title": "Three things in AI to watch, according to a Nobel-winning economist",
-      "summary": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here. A few months before he was awarded the Nobel Prize in economics in 2024, Daron Acemoglu published a paper that earned him few fans in Silicon Valley. Contrary to what Big Tech…",
-      "imageUrl": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=800&q=80",
-      "source": "MIT Tech Review",
-      "sourceUrl": "https://www.technologyreview.com/2026/05/11/1137090/three-things-in-ai-to-watch-according-to-a-nobel-winning-economist/",
-      "publishedAt": "2026-05-11T17:35:12.000Z"
-    },
-    {
-      "id": "c48lc5",
-      "title": "Fostering breakthrough AI innovation through customer-back engineering",
-      "summary": "Despite years of digitization, organizations capture less than one-third of the value expected from digital investments, according to McKinsey research. That’s because most big companies begin with technological capabilities and bolt applications onto them, rather than starting with customer needs and working backward to technology solutions. Not prioritizing the customer can create fragmented solutions; disjointed…",
-      "imageUrl": "https://images.unsplash.com/photo-1526374965328-7f61d4dc18c5?w=800&q=80",
-      "source": "MIT Tech Review",
-      "sourceUrl": "https://www.technologyreview.com/2026/05/11/1136967/fostering-breakthrough-ai-innovation-through-customer-back-engineering/",
-      "publishedAt": "2026-05-11T13:33:06.000Z"
     },
     {
       "id": "8cfwxs",
@@ -532,15 +541,6 @@
       "source": "Ars Technica",
       "sourceUrl": "https://arstechnica.com/security/2026/04/microsoft-issues-emergency-update-for-macos-and-linux-asp-net-threat/",
       "publishedAt": "2026-04-22T19:32:56.000Z"
-    },
-    {
-      "id": "gn5nok",
-      "title": "Contrary to popular superstition, AES 128 is just fine in a post-quantum world",
-      "summary": "A stubborn misconception is hampering the already hard work of quantum readiness.",
-      "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2026/04/quantum-encryption-1152x648.jpg",
-      "source": "Ars Technica",
-      "sourceUrl": "https://arstechnica.com/security/2026/04/contrary-to-popular-superstition-aes-128-is-just-fine-in-a-post-quantum-world/",
-      "publishedAt": "2026-04-21T12:35:20.000Z"
     }
   ]
 }
