@@ -1,7 +1,34 @@
 {
-  "fetchedAt": "2026-05-15T07:41:59.271Z",
+  "fetchedAt": "2026-05-15T10:33:27.283Z",
   "count": 60,
   "articles": [
+    {
+      "id": "7cqmka",
+      "title": "Mira Murati Wants Her AI to ‘Keep Humans in the Loop’",
+      "summary": "The Thinking Machines Lab founder and former CTO of OpenAI tells WIRED she isn’t interested in automating people out of jobs. Instead, she’s building AI that can collaborate.",
+      "imageUrl": "https://media.wired.com/photos/6a04e8e8e20de45ef884b2b7/master/pass/Mira-Murati-Wants-to-Keep-Human-Intelligence-in-Loop-As-Long-asPossible-Business-2266727283.jpg",
+      "source": "Wired",
+      "sourceUrl": "https://www.wired.com/story/mira-murati-humans-in-the-loop-ai-models-thinking-machines/",
+      "publishedAt": "2026-05-15T09:00:00.000Z"
+    },
+    {
+      "id": "s0r140",
+      "title": "The world is on track to miss its health targets",
+      "summary": "Every year the World Health Organization publishes a global health statistics report. It features the numbers behind world health trends and, importantly, assesses whether we’re on track to reach ambitious goals set in 2015. It’s a bit like a health grade. The 2026 report was published on Wednesday. And the results aren’t looking brilliant. While…",
+      "imageUrl": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=800&q=80",
+      "source": "MIT Tech Review",
+      "sourceUrl": "https://www.technologyreview.com/2026/05/15/1137270/the-world-is-on-track-to-miss-its-health-targets/",
+      "publishedAt": "2026-05-15T09:00:00.000Z"
+    },
+    {
+      "id": "b3e7mo",
+      "title": "How Chinese short dramas became AI content machines",
+      "summary": "In a dimly lit bedroom, a frightened young woman is thrown onto a bed by a tall, muscular man. He grabs her hand, and flame-like vines crawl across her body, fusing with her flesh. She levitates, then drops. A dragon-shaped tattoo appears across her chest. “Two months,” the man says. “Give me an heir, or…",
+      "imageUrl": "https://images.unsplash.com/photo-1620712943543-bcc4688e7485?w=800&q=80",
+      "source": "MIT Tech Review",
+      "sourceUrl": "https://www.technologyreview.com/2026/05/15/1137326/chinese-short-dramas-ai/",
+      "publishedAt": "2026-05-15T09:00:00.000Z"
+    },
     {
       "id": "vmh4sz",
       "title": "The Real Losers of the Musk v. Altman Trial",
@@ -372,15 +399,6 @@
       "publishedAt": "2026-05-13T18:09:03.000Z"
     },
     {
-      "id": "f75ini",
-      "title": "Overworked AI Agents Turn Marxist, Researchers Find",
-      "summary": "In a recent experiment, mistreated AI agents started grumbling about inequality and calling for collective bargaining rights.",
-      "imageUrl": "https://media.wired.com/photos/6a0377eed777b9d6a8aa4b70/master/pass/AI-Lab-AI-Overworked-Marxist-Business.jpg",
-      "source": "Wired",
-      "sourceUrl": "https://www.wired.com/story/overworked-ai-agents-turn-marxist-study/",
-      "publishedAt": "2026-05-13T18:08:33.000Z"
-    },
-    {
       "id": "t0stpq",
       "title": "Mark Zuckerberg announces ‘completely private’ encrypted Meta AI chat",
       "summary": "Meta CEO Mark Zuckerberg says its new Incognito Chat is \"the first major AI product where there is no log of your conversations stored on servers.\" Messages in Incognito Chat aren't saved or stored in users' chat history, similar to incognito modes on other AI chatbots, but Meta says its version is different because it also uses end-to-end encryption, which Meta recently removed from Instagram DMs: \"Other apps have introduced incognito-style modes, but they can still see the questions coming in…",
@@ -406,24 +424,6 @@
       "source": "MIT Tech Review",
       "sourceUrl": "https://www.technologyreview.com/2026/05/13/1137153/varda-united-therapeutics-drug-manufacturing-in-space/",
       "publishedAt": "2026-05-13T10:00:00.000Z"
-    },
-    {
-      "id": "v8lrxk",
-      "title": "World Models: 10 Things That Matter in AI Right Now",
-      "summary": "World models recently made our list of 10 Things That Matter in AI Right Now. Watch executive editor Niall Firth explain why this emerging area of AI is gaining so much attention. Join MIT Technology Review editors and reporters for a subscriber-only Roundtables discussion, “Can AI Learn to Understand the World?” exploring how AI may evolve to…",
-      "imageUrl": "https://images.unsplash.com/photo-1531746790095-6c10a4031c5f?w=800&q=80",
-      "source": "MIT Tech Review",
-      "sourceUrl": "https://www.technologyreview.com/2026/05/12/1137134/world-models-10-things-that-matter-in-ai-right-now/",
-      "publishedAt": "2026-05-12T16:22:15.000Z"
-    },
-    {
-      "id": "dtykow",
-      "title": "The Download: a Nobel winner on AI, and the case for fixing everything",
-      "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. Three things in AI to watch, according to a Nobel-winning economist A few months before he won the Nobel Prize in economics in 2024, Daron Acemoglu published a paper that earned…",
-      "imageUrl": "https://images.unsplash.com/photo-1550751827-4bd374c3f58b?w=800&q=80",
-      "source": "MIT Tech Review",
-      "sourceUrl": "https://www.technologyreview.com/2026/05/12/1137103/the-download-nobel-winner-ai-maintenance-of-everything/",
-      "publishedAt": "2026-05-12T12:10:00.000Z"
     },
     {
       "id": "qdsdu8",
