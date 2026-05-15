@@ -1,7 +1,34 @@
 {
-  "fetchedAt": "2026-05-15T17:11:13.417Z",
+  "fetchedAt": "2026-05-15T19:06:39.672Z",
   "count": 60,
   "articles": [
+    {
+      "id": "lgoxru",
+      "title": "OpenAI keeps shuffling its executives in bid to win AI agent battle",
+      "summary": "OpenAI announced yet another reorganization Friday, consolidating certain areas and making company president Greg Brockman the official lead of all things product. In a memo viewed by The Verge, Brockman wrote that since OpenAI's product strategy for this year is to go all-in on AI agents, the company is combining its products to \"invest in a single agentic platform and to merge ChatGPT and Codex into one unified agentic experience for all.\" To do this, the company is making a suite of org chart…",
+      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/05/STKP221_GREG_BROCKMAN.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "source": "The Verge",
+      "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/931544/openai-keeps-shuffling-its-executives-in-bid-to-win-ai-agent-battle",
+      "publishedAt": "2026-05-15T18:21:35.000Z"
+    },
+    {
+      "id": "8dae7g",
+      "title": "Silicon Valley’s vacationland needs a new energy provider just as AI is driving prices up",
+      "summary": "Lake Tahoe, Silicon Valley's favorite ski spot, is about to get hit with higher energy prices as AI drives demand for electricity.",
+      "imageUrl": "https://images.unsplash.com/photo-1485827404703-89b55fcc595e?w=800&q=80",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/05/15/silicon-valleys-vacationland-needs-a-new-energy-provider-just-as-ai-is-driving-prices-up/",
+      "publishedAt": "2026-05-15T18:14:44.000Z"
+    },
+    {
+      "id": "sv1h20",
+      "title": "Greg Brockman Officially Takes Control of OpenAI’s Products in Latest Shake-Up",
+      "summary": "OpenAI is once again reorganizing its executive ranks as part of its effort to unify ChatGPT and Codex into one core product experience.",
+      "imageUrl": "https://media.wired.com/photos/6a074b744504eb478c5455df/master/pass/OpenAI-ReOrg-Business-AP-26120551910145.jpg",
+      "source": "Wired",
+      "sourceUrl": "https://www.wired.com/story/openai-reorg-greg-brockman-product/",
+      "publishedAt": "2026-05-15T17:09:17.000Z"
+    },
     {
       "id": "8f3kec",
       "title": "AI radio hosts demonstrate why AI can’t be trusted alone",
@@ -48,10 +75,10 @@
       "publishedAt": "2026-05-15T16:00:00.000Z"
     },
     {
-      "id": "rbe55h",
-      "title": "Runway started by helping filmmakers. Now it wants to beat Google at AI.",
-      "summary": "AI video generation startup Runway is betting that video generation is the path to world models. And that being an AI outsider is an advantage, not a liability.",
-      "imageUrl": "https://images.unsplash.com/photo-1620712943543-bcc4688e7485?w=800&q=80",
+      "id": "f6gikh",
+      "title": "Runway started by helping filmmakers — now it wants to beat Google at AI",
+      "summary": "AI video-generation startup Runway is betting that video generation is the path to world models. And that being an AI outsider is an advantage, not a liability.",
+      "imageUrl": "https://images.unsplash.com/photo-1531746790095-6c10a4031c5f?w=800&q=80",
       "source": "TechCrunch",
       "sourceUrl": "https://techcrunch.com/2026/05/15/runway-started-by-helping-filmmakers-now-it-wants-to-beat-google-at-ai/",
       "publishedAt": "2026-05-15T14:00:00.000Z"
@@ -228,15 +255,6 @@
       "publishedAt": "2026-05-14T19:04:47.000Z"
     },
     {
-      "id": "gssf56",
-      "title": "Microsoft starts canceling Claude Code licenses",
-      "summary": "Microsoft first started opening up access to Claude Code in December, inviting thousands of its own developers to use Anthropic's AI coding tool daily. It was part of an effort to get project managers, designers, and other employees to experiment with coding for the first time, and sources tell me that Claude Code has proved very popular inside Microsoft over the past six months. Perhaps a little too popular, as Microsoft is now preparing to walk back its Claude Code push. I understand that…",
-      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25832912/STK095_MICROSOFT_2_CVirginia_A.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "source": "The Verge",
-      "sourceUrl": "https://www.theverge.com/tech/930447/microsoft-claude-code-discontinued-notepad",
-      "publishedAt": "2026-05-14T19:00:00.000Z"
-    },
-    {
       "id": "t172gt",
       "title": "Zero-day exploit completely defeats default Windows 11 BitLocker protections",
       "summary": "It's not entirely clear how the exploit works. Microsoft says it's investigating.",
@@ -372,15 +390,6 @@
       "publishedAt": "2026-05-14T09:00:00.000Z"
     },
     {
-      "id": "m1hlwi",
-      "title": "Who decides what AI tells you? Campbell Brown, once Meta’s news chief, has thoughts",
-      "summary": "\"The conversation is sort of happening in Silicon Valley around one thing, and a totally different conversation is happening among consumers,\" Campbell Brown said at StrictlyVC.",
-      "imageUrl": "https://images.unsplash.com/photo-1550751827-4bd374c3f58b?w=800&q=80",
-      "source": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/05/13/who-decides-what-ai-tells-you-campbell-brown-once-metas-news-chief-has-thoughts/",
-      "publishedAt": "2026-05-14T06:05:31.000Z"
-    },
-    {
       "id": "mjus3p",
       "title": "Everyone at the Musk v. Altman Trial Is Using Fancy Butt Cushions",
       "summary": "The plaintiffs and defense have rested their cases, as well as their rear ends.",
@@ -397,15 +406,6 @@
       "source": "Wired",
       "sourceUrl": "https://www.wired.com/story/what-it-will-take-to-make-ai-sustainable/",
       "publishedAt": "2026-05-13T19:15:59.000Z"
-    },
-    {
-      "id": "3j8imy",
-      "title": "DHS Plans Experiment Running ‘Reconnaissance’ Drones Along the US-Canada Border",
-      "summary": "Autonomous drones and ground vehicles will stream “battlefield intelligence” over 5G along the US-Canada border in a bilateral DHS experiment this fall.",
-      "imageUrl": "https://media.wired.com/photos/6a034b096aa19ebc3b0fe4fd/master/pass/GettyImages-2190063453.jpg",
-      "source": "Wired",
-      "sourceUrl": "https://www.wired.com/story/dhs-plans-experiment-running-reconnaissance-drones-along-the-us-canada-border/",
-      "publishedAt": "2026-05-13T19:03:19.000Z"
     },
     {
       "id": "qcmwke",
