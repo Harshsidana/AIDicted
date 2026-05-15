@@ -1,7 +1,25 @@
 {
-  "fetchedAt": "2026-05-15T19:06:39.672Z",
+  "fetchedAt": "2026-05-15T20:41:01.575Z",
   "count": 60,
   "articles": [
+    {
+      "id": "ut72fi",
+      "title": "ArXiv will ban researchers who upload papers full of AI slop",
+      "summary": "ArXiv, a popular platform for preprint academic research, is taking a new step to attempt to reduce the volume of papers that include AI slop. If a paper has \"incontrovertible evidence that the authors did not check the results of LLM generation,\" such as hallucinated references or \"meta-comments\" left by an LLM, authors will be banned from ArXiv for a year, according to Thomas Dietterich, ArXiv's section chair of its computer science section. Future ArXiv submissions will also have to be…",
+      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/05/STKS511_AI_SLOP_C.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "source": "The Verge",
+      "sourceUrl": "https://www.theverge.com/science/931766/arxiv-ai-slop-ban-researchers",
+      "publishedAt": "2026-05-15T20:38:19.000Z"
+    },
+    {
+      "id": "2ao7rx",
+      "title": "The OpenAI trial wraps up, and the Musk founder machine keeps spinning",
+      "summary": "The Musk v. Altman trial came to a close this week, and the final arguments kept circling back to one question: can we trust the people in charge of AI? All of this is playing out as SpaceX charges toward what could be one of the largest IPOs in American history, with a whole generation of founders already spinning out […]",
+      "imageUrl": "https://images.unsplash.com/photo-1531746790095-6c10a4031c5f?w=800&q=80",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/podcast/the-openai-trial-wraps-up-and-the-musk-founder-machine-keeps-spinning/",
+      "publishedAt": "2026-05-15T19:24:16.000Z"
+    },
     {
       "id": "lgoxru",
       "title": "OpenAI keeps shuffling its executives in bid to win AI agent battle",
@@ -14,7 +32,7 @@
     {
       "id": "8dae7g",
       "title": "Silicon Valley’s vacationland needs a new energy provider just as AI is driving prices up",
-      "summary": "Lake Tahoe, Silicon Valley's favorite ski spot, is about to get hit with higher energy prices as AI drives demand for electricity.",
+      "summary": "Lake Tahoe, Silicon Valley's favorite vacation spot, is about to get hit with higher energy prices as AI drives demand for electricity.",
       "imageUrl": "https://images.unsplash.com/photo-1485827404703-89b55fcc595e?w=800&q=80",
       "source": "TechCrunch",
       "sourceUrl": "https://techcrunch.com/2026/05/15/silicon-valleys-vacationland-needs-a-new-energy-provider-just-as-ai-is-driving-prices-up/",
@@ -210,15 +228,6 @@
       "publishedAt": "2026-05-14T20:27:34.000Z"
     },
     {
-      "id": "1tp9xj",
-      "title": "OpenAI’s Codex is now in the ChatGPT mobile app",
-      "summary": "OpenAI is going to let users access Codex, its desktop AI tool that can write code and use apps on your computer, from the ChatGPT app on your phone. Following the surge in popularity for Anthropic's Claude Code, OpenAI has been working quickly to try and catch up, including by cutting back on \"side quests,\" shutting down projects like the Sora video-generation tool, and focusing on growing its enterprise business. The company's push included the recently released major update for Codex that…",
-      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/05/App-view.png?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "source": "The Verge",
-      "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/930763/openai-codex-chatgpt-ios-android-app-preview",
-      "publishedAt": "2026-05-14T20:00:00.000Z"
-    },
-    {
       "id": "2ryv07",
       "title": "What happens when AI starts building itself?",
       "summary": "Richard Socher's new $650 million startup wants to build an AI that can research and improve itself indefinitely — and he insists it will actually ship products.",
@@ -306,15 +315,6 @@
       "imageUrl": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=800&q=80",
       "source": "TechCrunch",
       "sourceUrl": "https://techcrunch.com/2026/05/14/two-weeks-left-startup-battlefield-200-applications-close-may-27/",
-      "publishedAt": "2026-05-14T14:00:00.000Z"
-    },
-    {
-      "id": "gp9fpd",
-      "title": "Wirestock raises $23M to supply creative multimodal data to AI labs",
-      "summary": "The company pivoted to being a data provider in 2023 and now supplies datasets of images, videos, design assets, and gaming and 3D content to AI labs.",
-      "imageUrl": "https://images.unsplash.com/photo-1526374965328-7f61d4dc18c5?w=800&q=80",
-      "source": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/05/14/wirestock-raises-23m-to-supply-multi-modal-data-to-ai-labs/",
       "publishedAt": "2026-05-14T14:00:00.000Z"
     },
     {
