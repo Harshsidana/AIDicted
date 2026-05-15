@@ -1,7 +1,25 @@
 {
-  "fetchedAt": "2026-05-15T12:59:37.393Z",
+  "fetchedAt": "2026-05-15T15:25:47.033Z",
   "count": 60,
   "articles": [
+    {
+      "id": "rbe55h",
+      "title": "Runway started by helping filmmakers. Now it wants to beat Google at AI.",
+      "summary": "AI video generation startup Runway is betting that video generation is the path to world models. And that being an AI outsider is an advantage, not a liability.",
+      "imageUrl": "https://images.unsplash.com/photo-1620712943543-bcc4688e7485?w=800&q=80",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/05/15/runway-started-by-helping-filmmakers-now-it-wants-to-beat-google-at-ai/",
+      "publishedAt": "2026-05-15T14:00:00.000Z"
+    },
+    {
+      "id": "5b14wt",
+      "title": "The promises and pitfalls of personalized health",
+      "summary": "This is Optimizer, a weekly newsletter sent every Friday from Verge senior reviewer Victoria Song that dissects and discusses the latest gizmos and potions that swear they're going to change your life. Opt in for Optimizer here. A few days ago, my esthetician was smearing hot wax on my face. The two caterpillars I call eyebrows were in desperate need of taming - as was my lady 'stache. I hate this monthly ritual, but facial hair is a sore spot. Hirsutism is perhaps one of the few visual…",
+      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/01/STKS524_AI_HEALTH_C.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "source": "The Verge",
+      "sourceUrl": "https://www.theverge.com/column/931148/optimizer-pmos-pcos-personalized-health",
+      "publishedAt": "2026-05-15T14:00:00.000Z"
+    },
     {
       "id": "gem66f",
       "title": "Osaurus brings both local and cloud AI models to your Mac",
@@ -363,15 +381,6 @@
       "publishedAt": "2026-05-14T05:24:39.000Z"
     },
     {
-      "id": "2ugv14",
-      "title": "Microsoft’s Edge Copilot update uses AI to pull information from across your tabs",
-      "summary": "Microsoft Edge is adding a new feature that will allow its Copilot AI chatbot to gather information from all of your open tabs. When you start a conversation with Copilot, you can ask the chatbot questions about what's in your tabs, compare the products you're looking at, summarize your open articles, and more. In its announcement, Microsoft says you can \"select which experiences you want or leave off the ones you don't.\" The company is retiring Copilot Mode as well, which could similarly draw…",
-      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/24385267/STK148_Microsoft_Edge_2.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "source": "The Verge",
-      "sourceUrl": "https://www.theverge.com/tech/930188/microsoft-edge-copilot-ai-tabs",
-      "publishedAt": "2026-05-13T22:04:28.000Z"
-    },
-    {
       "id": "mjus3p",
       "title": "Everyone at the Musk v. Altman Trial Is Using Fancy Butt Cushions",
       "summary": "The plaintiffs and defense have rested their cases, as well as their rear ends.",
@@ -379,15 +388,6 @@
       "source": "Wired",
       "sourceUrl": "https://www.wired.com/story/fancy-butt-pillows-musk-v-altman-trial/",
       "publishedAt": "2026-05-13T21:58:47.000Z"
-    },
-    {
-      "id": "vbxlcl",
-      "title": "Notion just turned its workspace into a hub for AI agents",
-      "summary": "Notion’s new developer platform lets teams connect AI agents, external data sources, and custom code directly into their workspace as the company pushes deeper into agentic productivity software.",
-      "imageUrl": "https://images.unsplash.com/photo-1531746790095-6c10a4031c5f?w=800&q=80",
-      "source": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/05/13/notion-just-turned-its-workspace-into-a-hub-for-ai-agents/",
-      "publishedAt": "2026-05-13T21:45:09.000Z"
     },
     {
       "id": "1knx9p",
