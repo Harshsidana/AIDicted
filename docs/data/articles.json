@@ -1,7 +1,52 @@
 {
-  "fetchedAt": "2026-05-15T15:25:47.033Z",
+  "fetchedAt": "2026-05-15T17:11:13.417Z",
   "count": 60,
   "articles": [
+    {
+      "id": "8f3kec",
+      "title": "AI radio hosts demonstrate why AI can’t be trusted alone",
+      "summary": "AI radio DJs demonstrated their volatile personalities. | Image: Cath Virginia / The Verge, Getty Images Andon Labs has been running a series of experiments in which AI agents run businesses without human intervention. Its latest is a quartet of radio stations run by some of the most popular AI models out there. \"Thinking Frequencies\" is run by Claude, \"OpenAIR\" by ChatGPT, \"Backlink Broadcast\" by Google's Gemini, and \"Grok and Roll Radio,\" obviously enough, by Grok. They were each given a…",
+      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/12/258090_EOY_2025_CVirginia_PODCASTS.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "source": "The Verge",
+      "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/931479/andon-labs-ai-radio-companies",
+      "publishedAt": "2026-05-15T17:09:16.000Z"
+    },
+    {
+      "id": "dijtgy",
+      "title": "Does Trump Mobile know how many stripes are on the American flag?",
+      "summary": "The T1 Phone has the wrong number of stripes, but it does at least have 50 stars. | Screenshot: Trump Mobile Where's the Trump phone? We're going to keep talking about it every week. We've reached out, as usual, to ask about the Trump phone's whereabouts. This week, despite our best hopes, we still don't have our phone - but we do have some fresh doubts about the company's patriotic credentials. This has been a momentous few days for Trump Mobile, in which it defied the haters by announcing that…",
+      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/05/trump-mobile-t1-phone-video-packing-flag-stripes.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "source": "The Verge",
+      "sourceUrl": "https://www.theverge.com/gadgets/931347/trump-mobile-t1-phone-logo-flag-stars-stripes",
+      "publishedAt": "2026-05-15T16:47:16.000Z"
+    },
+    {
+      "id": "lcciko",
+      "title": "Google updates its spam rules to include attempts to ‘manipulate’ AI",
+      "summary": "Google updated its spam policy to mark attempts to \"manipulate\" its AI model in search results as spam, including results in AI Overview or AI Mode in Search, as Search Engine Land reports: \"In the context of Google Search, spam refers to techniques used to deceive users or manipulate our Search systems into featuring content prominently, such as attempting to manipulate Search systems into ranking content highly or attempting to manipulate generative AI responses in Google Search.\" Some users…",
+      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/04/STK093_GOOGLE_B.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "source": "The Verge",
+      "sourceUrl": "https://www.theverge.com/tech/931416/google-ai-search-spam-policy",
+      "publishedAt": "2026-05-15T16:42:59.000Z"
+    },
+    {
+      "id": "76aqz8",
+      "title": "OpenAI launches ChatGPT for personal finance, will let you connect bank accounts",
+      "summary": "Once users connect their accounts, they will see a dashboard of their portfolio performance, spending, subscriptions, and upcoming payments.",
+      "imageUrl": "https://images.unsplash.com/photo-1550751827-4bd374c3f58b?w=800&q=80",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/05/15/openai-launches-chatgpt-for-personal-finance-will-let-you-connect-bank-accounts/",
+      "publishedAt": "2026-05-15T16:00:00.000Z"
+    },
+    {
+      "id": "b8yo10",
+      "title": "OpenAI now wants ChatGPT to access your bank accounts",
+      "summary": "ChatGPT will even know how much credit card debt you have. | Image: OpenAI Your trust in AI is about to be put to the test: OpenAI will soon let you give the chatbot direct access to your bank accounts. The new feature announced in preview today will allow users to \"securely connect\" ChatGPT with Plaid - the bank-to-app bridging platform used by 12,000 financial institutions, including Schwab, Fidelity, Chase, Capital One, and more. \"More than 200 million people are already going to ChatGPT…",
+      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/05/ChatGPT-financial-accounts.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "source": "The Verge",
+      "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/931122/openai-chatgpt-financial-accounts-plaid-connection",
+      "publishedAt": "2026-05-15T16:00:00.000Z"
+    },
     {
       "id": "rbe55h",
       "title": "Runway started by helping filmmakers. Now it wants to beat Google at AI.",
@@ -113,7 +158,7 @@
     {
       "id": "gfqhye",
       "title": "Behold, the Elon Musk jackass trophy",
-      "summary": "Yesterday, in Musk v. Altman, before the jurors came in, Sam Altman's team passed up what looked - from a distance - like a little league trophy. It was not. Yvonne Gonzalez Rogers had the lawyers read the inscription aloud for the press: \"Never stop being a jackass.\" It's a commemoration OpenAI employees bought for research scientist Josh Achiam, who testified yesterday. How exactly did this come up in a trial about nonprofit contract law? Allegedly, when Elon Musk was leaving OpenAI, he talked…",
+      "summary": "Yesterday, in Musk v. Altman, before the jurors came in, Sam Altman's team passed up what looked - from a distance - like a Little League trophy. It was not. Judge Yvonne Gonzalez Rogers had the lawyers read the inscription aloud for the press: \"Never stop being a jackass.\" It's a commemoration OpenAI employees bought for research scientist Josh Achiam, who testified yesterday. How exactly did this come up in a trial about nonprofit contract law? Allegedly, when Elon Musk was leaving OpenAI, he…",
       "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/05/STKE010_MuskvAltman_AParkin05.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
       "source": "The Verge",
       "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/930893/elon-musk-sam-altman-trial-ai-safety-jackass-statue",
@@ -201,15 +246,6 @@
       "publishedAt": "2026-05-14T18:32:01.000Z"
     },
     {
-      "id": "59o2mn",
-      "title": "Use this map to find the data centers in your backyard",
-      "summary": "An interactive map tracking data center construction and AI policy, built by Isabelle Reksopuro. When Oregon resident Isabelle Reksopuro heard Google was gobbling up public land to fuel its data centers in her home state, she didn't initially know what to believe. \"There's a lot of misinformation about data centers,\" she said. \"Google has denied taking that land.\" Technically, she explains, The Dalles, a city near the Washington state border, sought to reclaim that land, \"and Google is just a…",
-      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/05/Screenshot-2026-05-14-at-1.06.40PM.png?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "source": "The Verge",
-      "sourceUrl": "https://www.theverge.com/policy/930629/data-center-policy-map-interactive",
-      "publishedAt": "2026-05-14T17:40:00.000Z"
-    },
-    {
       "id": "2fc2zs",
       "title": "Cisco announces record revenue and 4,000 layoffs in the same day",
       "summary": "Layoffs are \"not a savings-driven restructure,\" CFO says.",
@@ -226,24 +262,6 @@
       "source": "TechCrunch",
       "sourceUrl": "https://techcrunch.com/2026/05/14/cerebras-raises-5-5b-kicking-off-2026s-ipo-season-with-a-bang/",
       "publishedAt": "2026-05-14T16:30:02.000Z"
-    },
-    {
-      "id": "rfngrl",
-      "title": "Live updates from Elon Musk and Sam Altman’s court battle over the future of OpenAI",
-      "summary": "Sam Altman and Elon Musk are facing off in a high-stakes trial that could alter the future of OpenAI and its most well-known product, ChatGPT. In 2024, Musk filed a lawsuit accusing OpenAI of abandoning its founding mission of developing AI to benefit humanity and shifting focus to boosting profits instead. Elon Musk, his financial manager and Neuralink CEO, Jared Birchall, and OpenAI cofounder Greg Brockman have already testified before the jury. Shivon Zilis, a former OpenAI board member who…",
-      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/04/268474_musk_vs_altman_CVirginia.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "source": "The Verge",
-      "sourceUrl": "https://www.theverge.com/tech/917225/sam-altman-elon-musk-openai-lawsuit",
-      "publishedAt": "2026-05-14T15:46:04.000Z"
-    },
-    {
-      "id": "d3fpqj",
-      "title": "Americans do not want AI data centers in their backyards",
-      "summary": "Over 70 percent of Americans oppose AI data center construction in their area, according to a new Gallup survey. Just 7 percent said they were \"strongly\" in favor of new data centers. According to Gallup, data centers are so strongly disliked that Americans would prefer to live near a nuclear power plant than a data center - even at its peak, opposition to nuclear power plant construction topped out at 63 percent. Gallup's data is based on a March 2026 survey of 1,000 randomly selected American…",
-      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/04/STKS528_DATA_CENTERS_A.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "source": "The Verge",
-      "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/930477/ai-data-centers-gallup-survey-70-percent-opposition",
-      "publishedAt": "2026-05-14T15:24:53.000Z"
     },
     {
       "id": "skng44",
@@ -318,15 +336,6 @@
       "publishedAt": "2026-05-14T12:10:00.000Z"
     },
     {
-      "id": "fp3azd",
-      "title": "You can make an app for that",
-      "summary": "The tyranny of software is almost over. Since the first computer programmers wrote the first computer programs, we, the users of that software, have been forced to live in the worlds those programs create. The features are the features. The design is the design. Want something else, something better? Learn to code, I guess. Until now, the people making a given piece of software - mostly well-paid professional developers - have rarely been the same as the ones using it: lawyers, doctors,…",
-      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/05/268478_era_of_personal_software_CVirginia15.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "source": "The Verge",
-      "sourceUrl": "https://www.theverge.com/tech/928905/vibe-code-personal-software-revolution",
-      "publishedAt": "2026-05-14T11:00:00.000Z"
-    },
-    {
       "id": "9y9g83",
       "title": "Gen Z Is Pioneering a New Understanding of Truth",
       "summary": "The first generation to truly grow up online, Generation Z and their cohort live in a social media ecosystem that blends facts and feelings. It’s significantly shifting how they understand what’s true.",
@@ -370,15 +379,6 @@
       "source": "TechCrunch",
       "sourceUrl": "https://techcrunch.com/2026/05/13/who-decides-what-ai-tells-you-campbell-brown-once-metas-news-chief-has-thoughts/",
       "publishedAt": "2026-05-14T06:05:31.000Z"
-    },
-    {
-      "id": "po6a83",
-      "title": "Clio’s $500M milestone arrives just as Anthropic ups the ante",
-      "summary": "Legal tech startups, including Clio, which just hit $500 million in ARR, are seeing massive customer adoption.",
-      "imageUrl": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=800&q=80",
-      "source": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/05/13/clios-500m-milestone-arrives-just-as-anthropic-ups-the-ante/",
-      "publishedAt": "2026-05-14T05:24:39.000Z"
     },
     {
       "id": "mjus3p",
