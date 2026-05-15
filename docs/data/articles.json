@@ -1,7 +1,16 @@
 {
-  "fetchedAt": "2026-05-15T20:41:01.575Z",
+  "fetchedAt": "2026-05-15T23:29:23.942Z",
   "count": 60,
   "articles": [
+    {
+      "id": "f5s9ti",
+      "title": "YouTube is expanding its AI deepfake detection tool to all adult users",
+      "summary": "YouTube is expanding its AI likeness detection program to all users over the age of 18 - meaning just about anyone can have the platform hunt for potential deepfakes of themselves. The likeness detection feature uses a selfie-style scan of a person's face to monitor YouTube for lookalikes. If there is a match, YouTube alerts the user; the person then has the option to request that YouTube remove the content. YouTube has said in the past that it has found the number of removal requests to be…",
+      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/01/STK419_DEEPFAKE_3_CVIRGINIA_A.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "source": "The Verge",
+      "sourceUrl": "https://www.theverge.com/news/931884/youtube-likeness-detection-ai-deepfake-expansion-all-adults",
+      "publishedAt": "2026-05-15T22:25:00.000Z"
+    },
     {
       "id": "ut72fi",
       "title": "ArXiv will ban researchers who upload papers full of AI slop",
@@ -199,15 +208,6 @@
       "source": "TechCrunch",
       "sourceUrl": "https://techcrunch.com/2026/05/14/elon-musks-spacexai-has-been-bleeding-staff-since-its-merger/",
       "publishedAt": "2026-05-14T21:30:44.000Z"
-    },
-    {
-      "id": "gfqhye",
-      "title": "Behold, the Elon Musk jackass trophy",
-      "summary": "Yesterday, in Musk v. Altman, before the jurors came in, Sam Altman's team passed up what looked - from a distance - like a Little League trophy. It was not. Judge Yvonne Gonzalez Rogers had the lawyers read the inscription aloud for the press: \"Never stop being a jackass.\" It's a commemoration OpenAI employees bought for research scientist Josh Achiam, who testified yesterday. How exactly did this come up in a trial about nonprofit contract law? Allegedly, when Elon Musk was leaving OpenAI, he…",
-      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/05/STKE010_MuskvAltman_AParkin05.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "source": "The Verge",
-      "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/930893/elon-musk-sam-altman-trial-ai-safety-jackass-statue",
-      "publishedAt": "2026-05-14T20:59:23.000Z"
     },
     {
       "id": "kmc6tb",
