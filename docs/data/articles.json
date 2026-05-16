@@ -1,7 +1,16 @@
 {
-  "fetchedAt": "2026-05-16T17:34:42.999Z",
+  "fetchedAt": "2026-05-16T19:17:12.218Z",
   "count": 60,
   "articles": [
+    {
+      "id": "kphoa",
+      "title": "Research repository ArXiv will ban authors for a year if they let AI do all the work",
+      "summary": "ArXiv is doing more to crack down on the careless use of large language models in scientific papers.",
+      "imageUrl": "https://images.unsplash.com/photo-1550751827-4bd374c3f58b?w=800&q=80",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/05/16/research-repository-arxiv-will-ban-authors-for-a-year-if-they-let-ai-do-all-the-work/",
+      "publishedAt": "2026-05-16T18:54:28.000Z"
+    },
     {
       "id": "9lpih2",
       "title": "Sony tries to explain that its AI Camera Assistant doesn’t suck",
@@ -12,8 +21,8 @@
       "publishedAt": "2026-05-16T15:37:05.000Z"
     },
     {
-      "id": "k43ez9",
-      "title": "OpenAI co-founder Greg Brockman reportedly takes charge of product strategy",
+      "id": "7oc7jb",
+      "title": "OpenAI co-founder Greg Brockman takes charge of product strategy",
       "summary": "OpenAI's latest shakeup comes as the company reportedly plans to combine ChatGPT and its programming product Codex.",
       "imageUrl": "https://images.unsplash.com/photo-1655720828018-edd2daec9349?w=800&q=80",
       "source": "TechCrunch",
@@ -325,15 +334,6 @@
       "source": "TechCrunch",
       "sourceUrl": "https://techcrunch.com/2026/05/14/khosla-ventures-is-betting-10m-on-ian-crosby-whose-last-startup-bench-imploded/",
       "publishedAt": "2026-05-14T15:20:18.000Z"
-    },
-    {
-      "id": "vnb8qy",
-      "title": "Cisco cuts nearly 4,000 jobs to spend more on AI, reports ‘record quarterly revenue’",
-      "summary": "This is Cisco's latest layoff in recent years, while the company's chief executive touts record revenue and growth.",
-      "imageUrl": "https://images.unsplash.com/photo-1676299081847-824916de030a?w=800&q=80",
-      "source": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/05/14/cisco-cuts-nearly-4000-jobs-to-spend-more-on-ai-reports-record-quarterly-revenue/",
-      "publishedAt": "2026-05-14T14:01:14.000Z"
     },
     {
       "id": "srw9jh",
