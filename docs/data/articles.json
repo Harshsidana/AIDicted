@@ -1,7 +1,25 @@
 {
-  "fetchedAt": "2026-05-17T18:36:20.696Z",
+  "fetchedAt": "2026-05-17T20:06:39.365Z",
   "count": 60,
   "articles": [
+    {
+      "id": "1lxck1",
+      "title": "Why trust is a big question at the Elon Musk-OpenAI trial",
+      "summary": "A big theme in the trial’s final days was whether OpenAI CEO Sam Altman is trustworthy.",
+      "imageUrl": "https://images.unsplash.com/photo-1526374965328-7f61d4dc18c5?w=800&q=80",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/05/17/why-trust-is-a-big-question-at-the-elon-musk-openai-trial/",
+      "publishedAt": "2026-05-17T19:46:34.000Z"
+    },
+    {
+      "id": "4dx52u",
+      "title": "Revamped Siri will reportedly offer auto-deleting chats",
+      "summary": "Apple is hoping that its record on privacy can be the differentiator on the AI front, and maybe even buy it a little slack as it continues to lag behind the competition. According to Bloomberg's Mark Gurman, the more chatbot-like Siri set to debut in iOS 27 will include the option to autodelete chat histories. Users will be able to save conversations for 30 days, one year, or forever. That's in stark contrast to the other major players in the space that generally only offer temporary incognito…",
+      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/10817647/acastro_180510_1777_siri_0001.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "source": "The Verge",
+      "sourceUrl": "https://www.theverge.com/tech/932207/siri-apple-intelligence-auto-deleting-chats",
+      "publishedAt": "2026-05-17T18:40:28.000Z"
+    },
     {
       "id": "u3pyt2",
       "title": "University of Arizona students boo Eric Schmidt’s AI cheerleading during commencement",
@@ -183,15 +201,6 @@
       "publishedAt": "2026-05-15T16:00:00.000Z"
     },
     {
-      "id": "b8yo10",
-      "title": "OpenAI now wants ChatGPT to access your bank accounts",
-      "summary": "ChatGPT will even know how much credit card debt you have. | Image: OpenAI Your trust in AI is about to be put to the test: OpenAI will soon let you give the chatbot direct access to your bank accounts. The new feature announced in preview today will allow users to \"securely connect\" ChatGPT with Plaid - the bank-to-app bridging platform used by 12,000 financial institutions, including Schwab, Fidelity, Chase, Capital One, and more. \"More than 200 million people are already going to ChatGPT…",
-      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/05/ChatGPT-financial-accounts.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "source": "The Verge",
-      "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/931122/openai-chatgpt-financial-accounts-plaid-connection",
-      "publishedAt": "2026-05-15T16:00:00.000Z"
-    },
-    {
       "id": "f6gikh",
       "title": "Runway started by helping filmmakers — now it wants to beat Google at AI",
       "summary": "AI video-generation startup Runway is betting that video generation is the path to world models. And that being an AI outsider is an advantage, not a liability.",
@@ -298,15 +307,6 @@
       "source": "TechCrunch",
       "sourceUrl": "https://techcrunch.com/2026/05/14/what-happens-when-ai-starts-building-itself/",
       "publishedAt": "2026-05-14T19:57:20.000Z"
-    },
-    {
-      "id": "91lets",
-      "title": "OpenAI is reportedly preparing legal action against Apple; it wouldn’t be the first partner to feel burned",
-      "summary": "OpenAI is so frustrated with Apple over a ChatGPT integration that failed to deliver the subscribers and prominence it expected that the company is now actively exploring legal action against the iPhone maker.",
-      "imageUrl": "https://images.unsplash.com/photo-1620712943543-bcc4688e7485?w=800&q=80",
-      "source": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/05/14/openai-is-reportedly-preparing-legal-action-against-apple-it-wouldnt-be-the-first-partner-to-feel-burned/",
-      "publishedAt": "2026-05-14T19:12:03.000Z"
     },
     {
       "id": "4ryk2n",
