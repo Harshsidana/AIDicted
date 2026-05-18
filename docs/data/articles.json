@@ -1,15 +1,60 @@
 {
-  "fetchedAt": "2026-05-18T16:30:15.298Z",
+  "fetchedAt": "2026-05-18T18:21:34.278Z",
   "count": 60,
   "articles": [
     {
-      "id": "rfngrl",
-      "title": "Live updates from Elon Musk and Sam Altman’s court battle over the future of OpenAI",
-      "summary": "Sam Altman and Elon Musk are facing off in a high-stakes trial that could alter the future of OpenAI and its most well-known product, ChatGPT. In 2024, Musk filed a lawsuit accusing OpenAI of abandoning its founding mission of developing AI to benefit humanity and shifting focus to boosting profits instead. Elon Musk, his financial manager and Neuralink CEO, Jared Birchall, and OpenAI cofounder Greg Brockman have already testified before the jury. Shivon Zilis, a former OpenAI board member who…",
+      "id": "olvt2i",
+      "title": "All of the updates from Elon Musk and Sam Altman’s battle over OpenAI",
+      "summary": "Sam Altman and Elon Musk are facing off in a high-stakes trial that could alter the future of OpenAI and its most well-known product, ChatGPT. In 2024, Musk filed a lawsuit accusing OpenAI of abandoning its founding mission of developing AI to benefit humanity and shifting focus to boosting profits instead. After nearly a month of the hearing that featured testimony from Musk, Altman, Microsoft CEO Satya Nadella, OpenAI cofounder Greg Brockman, former OpenAI board member and mother of several of…",
       "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/04/268474_musk_vs_altman_CVirginia.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
       "source": "The Verge",
       "sourceUrl": "https://www.theverge.com/tech/917225/sam-altman-elon-musk-openai-lawsuit",
-      "publishedAt": "2026-05-18T16:24:03.000Z"
+      "publishedAt": "2026-05-18T17:49:49.000Z"
+    },
+    {
+      "id": "b6j3i2",
+      "title": "Elon Musk Loses Landmark Lawsuit Against OpenAI",
+      "summary": "The nine-member panel took only two hours to return a verdict in favor of OpenAI on Monday, which the judge quickly adopted as her own final decision.",
+      "imageUrl": "https://media.wired.com/photos/6a07b49c3e66727feabf05fc/master/pass/Model-Behavior-Altman-v-Musk-Verdict-Business.jpg",
+      "source": "Wired",
+      "sourceUrl": "https://www.wired.com/story/musk-v-altman-jury-verdict/",
+      "publishedAt": "2026-05-18T17:40:30.000Z"
+    },
+    {
+      "id": "j7fp32",
+      "title": "Elon Musk lost his case against Sam Altman",
+      "summary": "After around two hours of deliberation, the jury has reached a unanimous verdict in Musk v. Altman, the tech trial of the year. The group found that two claims were barred by the statute of limitations, and a third failed thanks to the dismissal of one of these. The jury here is an advisory jury, meaning the group is installed solely to offer another opinion to the judge, and its verdict is technically not legally binding. Ultimately, US District Judge Yvonne Gonzalez Rogers is the ultimate…",
+      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/05/STKE010_MuskvAltman_AParkin05.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "source": "The Verge",
+      "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/932383/jury-verdict-musk-v-altman-openai-trial",
+      "publishedAt": "2026-05-18T17:39:32.000Z"
+    },
+    {
+      "id": "ko0fpt",
+      "title": "What to expect from Google this week",
+      "summary": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here. When Google opens its doors tomorrow for its annual developer conference, I/O, it will do so as a clear third place in the foundation model race. A year ago, at Google I/O…",
+      "imageUrl": "https://images.unsplash.com/photo-1485827404703-89b55fcc595e?w=800&q=80",
+      "source": "MIT Tech Review",
+      "sourceUrl": "https://www.technologyreview.com/2026/05/18/1137439/what-to-expect-from-google-this-week/",
+      "publishedAt": "2026-05-18T17:35:43.000Z"
+    },
+    {
+      "id": "d67lde",
+      "title": "Elon Musk has lost his lawsuit against Sam Altman and OpenAI",
+      "summary": "Elon Musk's claim that he was mistreated by his OpenAI cofounders failed after nine California jurors decided in a unanimous verdict that his lawsuits had been filed too late.",
+      "imageUrl": "https://images.unsplash.com/photo-1485827404703-89b55fcc595e?w=800&q=80",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/05/18/elon-musk-has-lost-his-lawsuit-against-sam-altman-and-openai/",
+      "publishedAt": "2026-05-18T17:34:43.000Z"
+    },
+    {
+      "id": "n4jvsi",
+      "title": "The Signals That Matter – MIT Insider’s Panel",
+      "summary": "Read the full article from MIT Tech Review.",
+      "imageUrl": "https://images.unsplash.com/photo-1531746790095-6c10a4031c5f?w=800&q=80",
+      "source": "MIT Tech Review",
+      "sourceUrl": "https://www.technologyreview.com/2026/05/18/1137430/the-signals-that-matter-mit-insiders-panel/",
+      "publishedAt": "2026-05-18T16:57:44.000Z"
     },
     {
       "id": "ctb1rv",
@@ -50,7 +95,7 @@
     {
       "id": "3yrqtb",
       "title": "South Korea’s LetinAR is building optics behind AI glasses",
-      "summary": "A lens the size of a thumbnail — and the South Korean startup that makes it could become the optical backbone of the AI glasses era.",
+      "summary": "A lens the size of a thumbnail — and the South Korean startup that makes it — could become the optical backbone of the AI glasses era.",
       "imageUrl": "https://images.unsplash.com/photo-1635070041078-e363dbe005cb?w=800&q=80",
       "source": "TechCrunch",
       "sourceUrl": "https://techcrunch.com/2026/05/18/south-koreas-letinar-is-building-the-optics-behind-ai-glasses/",
@@ -129,10 +174,10 @@
       "publishedAt": "2026-05-17T12:00:00.000Z"
     },
     {
-      "id": "z8bj8f",
-      "title": "The haves and have nots of the AI gold rush",
+      "id": "5rztlg",
+      "title": "The haves and have-nots of the AI gold rush",
       "summary": "The vibes around the current AI boom aren't great, even in the tech industry.",
-      "imageUrl": "https://images.unsplash.com/photo-1620712943543-bcc4688e7485?w=800&q=80",
+      "imageUrl": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=800&q=80",
       "source": "TechCrunch",
       "sourceUrl": "https://techcrunch.com/2026/05/16/the-haves-and-have-nots-of-the-ai-gold-rush/",
       "publishedAt": "2026-05-16T20:17:16.000Z"
@@ -237,15 +282,6 @@
       "publishedAt": "2026-05-15T17:09:17.000Z"
     },
     {
-      "id": "8f3kec",
-      "title": "AI radio hosts demonstrate why AI can’t be trusted alone",
-      "summary": "AI radio DJs demonstrated their volatile personalities. | Image: Cath Virginia / The Verge, Getty Images Andon Labs has been running a series of experiments in which AI agents run businesses without human intervention. Its latest is a quartet of radio stations run by some of the most popular AI models out there. \"Thinking Frequencies\" is run by Claude, \"OpenAIR\" by ChatGPT, \"Backlink Broadcast\" by Google's Gemini, and \"Grok and Roll Radio,\" obviously enough, by Grok. They were each given a…",
-      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/12/258090_EOY_2025_CVirginia_PODCASTS.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "source": "The Verge",
-      "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/931479/andon-labs-ai-radio-companies",
-      "publishedAt": "2026-05-15T17:09:16.000Z"
-    },
-    {
       "id": "76aqz8",
       "title": "OpenAI launches ChatGPT for personal finance, will let you connect bank accounts",
       "summary": "Once users connect their accounts, they will see a dashboard of their portfolio performance, spending, subscriptions, and upcoming payments.",
@@ -318,15 +354,6 @@
       "publishedAt": "2026-05-15T00:49:53.000Z"
     },
     {
-      "id": "6xzldw",
-      "title": "What the jury will actually decide in the case of Elon Musk vs. Sam Altman",
-      "summary": "Here's what the biggest tech court case of the year is all about.",
-      "imageUrl": "https://images.unsplash.com/photo-1526374965328-7f61d4dc18c5?w=800&q=80",
-      "source": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/05/14/what-the-jury-will-actually-decide-in-the-case-of-elon-musk-vs-sam-altman/",
-      "publishedAt": "2026-05-14T22:47:51.000Z"
-    },
-    {
       "id": "fbnkrz",
       "title": "An Engineer’s Post Protesting Laptop Surveillance Is Going Viral Inside Meta",
       "summary": "Meta employees in the US and UK are organizing against corporate software that tracks workers’ keystrokes and mouse activity.",
@@ -390,15 +417,6 @@
       "publishedAt": "2026-05-14T12:52:28.000Z"
     },
     {
-      "id": "n6ecc1",
-      "title": "The Download: deepfake porn’s stolen bodies and AI sharing private numbers",
-      "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. The shock of seeing your body used in deepfake porn When Jennifer got a research job in 2023, she ran her new professional headshot through a facial recognition program. She wanted…",
-      "imageUrl": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=800&q=80",
-      "source": "MIT Tech Review",
-      "sourceUrl": "https://www.technologyreview.com/2026/05/14/1137257/the-download-deepfake-porn-bodies-ai-exposing-phone-numbers/",
-      "publishedAt": "2026-05-14T12:10:00.000Z"
-    },
-    {
       "id": "9y9g83",
       "title": "Gen Z Is Pioneering a New Understanding of Truth",
       "summary": "The first generation to truly grow up online, Generation Z and their cohort live in a social media ecosystem that blends facts and feelings. It’s significantly shifting how they understand what’s true.",
@@ -406,24 +424,6 @@
       "source": "Wired",
       "sourceUrl": "https://www.wired.com/story/book-excerpt-the-future-of-truth-steven-rosenbaum/",
       "publishedAt": "2026-05-14T11:00:00.000Z"
-    },
-    {
-      "id": "en9snu",
-      "title": "The Tesla Semi could be a big deal for electric trucking",
-      "summary": "The Tesla Semi has officially arrived. The company recently released a photo of the first vehicle rolling off its new full-scale production line. This moment has been nearly a decade in the making: The company first announced the truck in late 2017. And now we’ve got final battery specs, official prices, and big news about…",
-      "imageUrl": "https://images.unsplash.com/photo-1676299081847-824916de030a?w=800&q=80",
-      "source": "MIT Tech Review",
-      "sourceUrl": "https://www.technologyreview.com/2026/05/14/1137197/tesla-semi-electric-trucking/",
-      "publishedAt": "2026-05-14T10:00:00.000Z"
-    },
-    {
-      "id": "380iki",
-      "title": "Meta’s New Reality: Record High Profits. Record Low Morale",
-      "summary": "Next week, Meta is cutting about 10 percent of its staff. WIRED spoke with more than a dozen current and former employees about what it's like inside a company where “everyone is unhappy.”",
-      "imageUrl": "https://media.wired.com/photos/6a05290e9fce16b06df70c32/master/pass/Meta-New-Reality-Record-High-Profits-Record-Low-Morale-Business-2261835380.jpg",
-      "source": "Wired",
-      "sourceUrl": "https://www.wired.com/story/meta-layoffs-bad-vibes-mark-zuckerberg-ai/",
-      "publishedAt": "2026-05-14T09:00:00.000Z"
     },
     {
       "id": "qdsdu8",
