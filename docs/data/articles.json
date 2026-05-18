@@ -1,7 +1,43 @@
 {
-  "fetchedAt": "2026-05-18T12:40:37.433Z",
+  "fetchedAt": "2026-05-18T16:30:15.298Z",
   "count": 60,
   "articles": [
+    {
+      "id": "rfngrl",
+      "title": "Live updates from Elon Musk and Sam Altman’s court battle over the future of OpenAI",
+      "summary": "Sam Altman and Elon Musk are facing off in a high-stakes trial that could alter the future of OpenAI and its most well-known product, ChatGPT. In 2024, Musk filed a lawsuit accusing OpenAI of abandoning its founding mission of developing AI to benefit humanity and shifting focus to boosting profits instead. Elon Musk, his financial manager and Neuralink CEO, Jared Birchall, and OpenAI cofounder Greg Brockman have already testified before the jury. Shivon Zilis, a former OpenAI board member who…",
+      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/04/268474_musk_vs_altman_CVirginia.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "source": "The Verge",
+      "sourceUrl": "https://www.theverge.com/tech/917225/sam-altman-elon-musk-openai-lawsuit",
+      "publishedAt": "2026-05-18T16:24:03.000Z"
+    },
+    {
+      "id": "ctb1rv",
+      "title": "Inside Anduril and Meta’s quest to make smart glasses for warfare",
+      "summary": "The defense-tech company Anduril has shared new details about the augmented-reality headset for the military it’s prototyping with Meta, including a vision for ordering drone strikes via eye-tracking and voice commands. Quay Barnett, who leads the efforts as a vice president at Anduril following a career in the Army’s Special Operations Command, says his fundamental…",
+      "imageUrl": "https://images.unsplash.com/photo-1526374965328-7f61d4dc18c5?w=800&q=80",
+      "source": "MIT Tech Review",
+      "sourceUrl": "https://www.technologyreview.com/2026/05/18/1137412/inside-anduril-and-metas-quest-to-make-smart-glasses-for-warfare/",
+      "publishedAt": "2026-05-18T16:01:39.000Z"
+    },
+    {
+      "id": "y8vzqx",
+      "title": "Amazon Alexa Plus can now create AI-generated podcasts",
+      "summary": "Alexa Plus, Amazon's upgraded AI assistant, can now generate podcasts on \"virtually any topic,\" according to an announcement on Monday. With the update, Amazon says you can give Alexa Plus a topic, and the AI assistant will offer an overview of what its AI hosts plan to talk about, allowing you to steer the conversation and adjust its length before it starts generating the episode. Some \"Alexa Podcast\" examples shared by Amazon have two AI-generated hosts talking about the history of the Roman…",
+      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/05/amazon-alexa-podcasts.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "source": "The Verge",
+      "sourceUrl": "https://www.theverge.com/tech/932375/amazon-alexa-plus-ai-podcasts",
+      "publishedAt": "2026-05-18T15:55:25.000Z"
+    },
+    {
+      "id": "i6ctc4",
+      "title": "Amazon’s new Alexa+ powered feature can generate podcast episodes",
+      "summary": "Amazon’s Alexa+ can now generate custom AI podcasts on demand, as the company expands its assistant into a personalized AI content platform.",
+      "imageUrl": "https://images.unsplash.com/photo-1620712943543-bcc4688e7485?w=800&q=80",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/05/18/amazons-new-alexa-powered-feature-can-generate-podcast-episodes/",
+      "publishedAt": "2026-05-18T14:56:47.000Z"
+    },
     {
       "id": "axcmd",
       "title": "The Download: Musk v. Altman week 3, and Trump’s tech trading",
@@ -10,6 +46,15 @@
       "source": "MIT Tech Review",
       "sourceUrl": "https://www.technologyreview.com/2026/05/18/1137407/the-download-musk-altman-trial-trump-tech-trading/",
       "publishedAt": "2026-05-18T12:10:00.000Z"
+    },
+    {
+      "id": "3yrqtb",
+      "title": "South Korea’s LetinAR is building optics behind AI glasses",
+      "summary": "A lens the size of a thumbnail — and the South Korean startup that makes it could become the optical backbone of the AI glasses era.",
+      "imageUrl": "https://images.unsplash.com/photo-1635070041078-e363dbe005cb?w=800&q=80",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/05/18/south-koreas-letinar-is-building-the-optics-behind-ai-glasses/",
+      "publishedAt": "2026-05-18T11:00:00.000Z"
     },
     {
       "id": "b0nezd",
@@ -201,24 +246,6 @@
       "publishedAt": "2026-05-15T17:09:16.000Z"
     },
     {
-      "id": "dijtgy",
-      "title": "Does Trump Mobile know how many stripes are on the American flag?",
-      "summary": "The T1 Phone has the wrong number of stripes, but it does at least have 50 stars. | Screenshot: Trump Mobile Where's the Trump phone? We're going to keep talking about it every week. We've reached out, as usual, to ask about the Trump phone's whereabouts. This week, despite our best hopes, we still don't have our phone - but we do have some fresh doubts about the company's patriotic credentials. This has been a momentous few days for Trump Mobile, in which it defied the haters by announcing that…",
-      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/05/trump-mobile-t1-phone-video-packing-flag-stripes.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "source": "The Verge",
-      "sourceUrl": "https://www.theverge.com/gadgets/931347/trump-mobile-t1-phone-logo-flag-stars-stripes",
-      "publishedAt": "2026-05-15T16:47:16.000Z"
-    },
-    {
-      "id": "lcciko",
-      "title": "Google updates its spam rules to include attempts to ‘manipulate’ AI",
-      "summary": "Google updated its spam policy to mark attempts to \"manipulate\" its AI model in search results as spam, including results in AI Overview or AI Mode in Search, as Search Engine Land reports: \"In the context of Google Search, spam refers to techniques used to deceive users or manipulate our Search systems into featuring content prominently, such as attempting to manipulate Search systems into ranking content highly or attempting to manipulate generative AI responses in Google Search.\" Some users…",
-      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/04/STK093_GOOGLE_B.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "source": "The Verge",
-      "sourceUrl": "https://www.theverge.com/tech/931416/google-ai-search-spam-policy",
-      "publishedAt": "2026-05-15T16:42:59.000Z"
-    },
-    {
       "id": "76aqz8",
       "title": "OpenAI launches ChatGPT for personal finance, will let you connect bank accounts",
       "summary": "Once users connect their accounts, they will see a dashboard of their portfolio performance, spending, subscriptions, and upcoming payments.",
@@ -298,24 +325,6 @@
       "source": "TechCrunch",
       "sourceUrl": "https://techcrunch.com/2026/05/14/what-the-jury-will-actually-decide-in-the-case-of-elon-musk-vs-sam-altman/",
       "publishedAt": "2026-05-14T22:47:51.000Z"
-    },
-    {
-      "id": "12kggq",
-      "title": "Elon Musk’s SpaceXAI has been bleeding staff since its merger",
-      "summary": "More than 50 employees have reportedly left Elon Musk’s newly merged SpaceXAI since February, raising questions about burnout, leadership changes, talent poaching, and whether liquidity events weakened retention incentives.",
-      "imageUrl": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=800&q=80",
-      "source": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/05/14/elon-musks-spacexai-has-been-bleeding-staff-since-its-merger/",
-      "publishedAt": "2026-05-14T21:30:44.000Z"
-    },
-    {
-      "id": "kmc6tb",
-      "title": "OpenAI says Codex is coming to your phone",
-      "summary": "The update gives users enhanced flexibility over how they can manage their workflows.",
-      "imageUrl": "https://images.unsplash.com/photo-1635070041078-e363dbe005cb?w=800&q=80",
-      "source": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/05/14/openai-says-codex-is-coming-to-your-phone/",
-      "publishedAt": "2026-05-14T20:58:55.000Z"
     },
     {
       "id": "fbnkrz",
@@ -414,15 +423,6 @@
       "imageUrl": "https://media.wired.com/photos/6a05290e9fce16b06df70c32/master/pass/Meta-New-Reality-Record-High-Profits-Record-Low-Morale-Business-2261835380.jpg",
       "source": "Wired",
       "sourceUrl": "https://www.wired.com/story/meta-layoffs-bad-vibes-mark-zuckerberg-ai/",
-      "publishedAt": "2026-05-14T09:00:00.000Z"
-    },
-    {
-      "id": "limhak",
-      "title": "The shock of seeing your body used in deepfake porn",
-      "summary": "When Jennifer got a job doing research for a nonprofit in 2023, she ran her new professional headshot through a facial recognition program. She wanted to see if the tech would pull up the porn videos she’d made more than 10 years before, when she was in her early 20s. It did in fact return…",
-      "imageUrl": "https://images.unsplash.com/photo-1635070041078-e363dbe005cb?w=800&q=80",
-      "source": "MIT Tech Review",
-      "sourceUrl": "https://www.technologyreview.com/2026/05/14/1137161/ai-porn-nonconsensual-deepfakes-takedown-piracy-copyright/",
       "publishedAt": "2026-05-14T09:00:00.000Z"
     },
     {
