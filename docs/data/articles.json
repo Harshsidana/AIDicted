@@ -1,7 +1,25 @@
 {
-  "fetchedAt": "2026-05-18T08:32:05.452Z",
+  "fetchedAt": "2026-05-18T12:40:37.433Z",
   "count": 60,
   "articles": [
+    {
+      "id": "axcmd",
+      "title": "The Download: Musk v. Altman week 3, and Trump’s tech trading",
+      "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. Musk v. Altman week 3: Musk and Altman traded blows over each other’s credibility. Now the jury will pick a side. In the final week of the Musk v. Altman trial,…",
+      "imageUrl": "https://images.unsplash.com/photo-1655720828018-edd2daec9349?w=800&q=80",
+      "source": "MIT Tech Review",
+      "sourceUrl": "https://www.technologyreview.com/2026/05/18/1137407/the-download-musk-altman-trial-trump-tech-trading/",
+      "publishedAt": "2026-05-18T12:10:00.000Z"
+    },
+    {
+      "id": "b0nezd",
+      "title": "I’m a Normie. Can Normies Really Vibe Code?",
+      "summary": "Apparently anyone can vibe code anything these days. So Claude and I tried to make a database for tracking the petty grievances of the masses.",
+      "imageUrl": "https://media.wired.com/photos/69f9d501e8aff66a9d0732d2/master/pass/WIRED-YanBastard-Normie-Vibe-Coders-RGB-02.jpg",
+      "source": "Wired",
+      "sourceUrl": "https://www.wired.com/story/normie-vibe-code/",
+      "publishedAt": "2026-05-18T10:00:00.000Z"
+    },
     {
       "id": "ih3qfc",
       "title": "Apple’s Siri revamp could include auto-deleting chats",
@@ -21,9 +39,9 @@
       "publishedAt": "2026-05-17T19:46:34.000Z"
     },
     {
-      "id": "4dx52u",
-      "title": "Revamped Siri will reportedly offer auto-deleting chats",
-      "summary": "Apple is hoping that its record on privacy can be the differentiator on the AI front, and maybe even buy it a little slack as it continues to lag behind the competition. According to Bloomberg's Mark Gurman, the more chatbot-like Siri set to debut in iOS 27 will include the option to autodelete chat histories. Users will be able to save conversations for 30 days, one year, or forever. That's in stark contrast to the other major players in the space that generally only offer temporary incognito…",
+      "id": "xiy0ft",
+      "title": "Revamped Siri will reportedly offer autodeleting chats",
+      "summary": "Apple is hoping that its record on privacy can be the differentiator on the AI front and maybe even buy it a little slack as it continues to lag behind the competition. According to Bloomberg's Mark Gurman, the more chatbot-like Siri set to debut in iOS 27 will include the option to autodelete chat histories. Users will be able to save conversations for 30 days, one year, or forever. That's in stark contrast to the other major players in the space that generally only offer temporary incognito…",
       "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/10817647/acastro_180510_1777_siri_0001.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
       "source": "The Verge",
       "sourceUrl": "https://www.theverge.com/tech/932207/siri-apple-intelligence-auto-deleting-chats",
@@ -406,24 +424,6 @@
       "source": "MIT Tech Review",
       "sourceUrl": "https://www.technologyreview.com/2026/05/14/1137161/ai-porn-nonconsensual-deepfakes-takedown-piracy-copyright/",
       "publishedAt": "2026-05-14T09:00:00.000Z"
-    },
-    {
-      "id": "mjus3p",
-      "title": "Everyone at the Musk v. Altman Trial Is Using Fancy Butt Cushions",
-      "summary": "The plaintiffs and defense have rested their cases, as well as their rear ends.",
-      "imageUrl": "https://media.wired.com/photos/6a04d12cd7be752b48cba4af/master/pass/Model-Behavior-Musk-v-Altman-Butt-Pillows-Business-Court-Image.jpg",
-      "source": "Wired",
-      "sourceUrl": "https://www.wired.com/story/fancy-butt-pillows-musk-v-altman-trial/",
-      "publishedAt": "2026-05-13T21:58:47.000Z"
-    },
-    {
-      "id": "qcmwke",
-      "title": "AI chatbots are giving out people’s real phone numbers",
-      "summary": "A Redditor recently wrote that he was “desperate for help”: for about a month, he said, his phone had been inundated by calls from “strangers” who were “looking for a lawyer, a product designer, a locksmith.” Callers were apparently misdirected by Google’s generative AI. In March, a software developer in Israel was contacted on WhatsApp…",
-      "imageUrl": "https://images.unsplash.com/photo-1620712943543-bcc4688e7485?w=800&q=80",
-      "source": "MIT Tech Review",
-      "sourceUrl": "https://www.technologyreview.com/2026/05/13/1137203/ai-chatbots-are-giving-out-peoples-real-phone-numbers/",
-      "publishedAt": "2026-05-13T18:09:03.000Z"
     },
     {
       "id": "qdsdu8",
