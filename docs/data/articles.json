@@ -1,7 +1,16 @@
 {
-  "fetchedAt": "2026-05-18T23:12:34.368Z",
+  "fetchedAt": "2026-05-19T06:16:19.688Z",
   "count": 60,
   "articles": [
+    {
+      "id": "mv8e4j",
+      "title": "Here’s why Elon Musk lost his suit against OpenAI",
+      "summary": "On Monday, the jury in Musk v. Altman dealt Elon Musk a major blow—reaching a unanimous advisory verdict that he had sued OpenAI too late and, as a result, his claims are barred by the applicable statutes of limitations. US District Judge Yvonne Gonzalez Rogers immediately accepted it. Musk announced on X that he will…",
+      "imageUrl": "https://images.unsplash.com/photo-1526374965328-7f61d4dc18c5?w=800&q=80",
+      "source": "MIT Tech Review",
+      "sourceUrl": "https://www.technologyreview.com/2026/05/18/1137488/elon-musk-suit-openai-verdict/",
+      "publishedAt": "2026-05-19T00:53:10.000Z"
+    },
     {
       "id": "jungbo",
       "title": "SandboxAQ brings its drug discovery models to Claude — no PhD in computing required",
@@ -396,15 +405,6 @@
       "imageUrl": "https://images.unsplash.com/photo-1635070041078-e363dbe005cb?w=800&q=80",
       "source": "MIT Tech Review",
       "sourceUrl": "https://www.technologyreview.com/2026/05/14/1137034/data-readiness-for-agentic-ai-in-financial-services/",
-      "publishedAt": "2026-05-14T13:00:00.000Z"
-    },
-    {
-      "id": "8hzlju",
-      "title": "Establishing AI and data sovereignty in the age of autonomous systems",
-      "summary": "When generative AI first moved from research labs into real-world business applications, enterprises made a tacit bargain: “Capability now, control later.” Feed your proprietary data into third-party AI models, and you will get powerful results. But your data passes through systems you do not own, under governance you do not set. The protections you rely…",
-      "imageUrl": "https://images.unsplash.com/photo-1620712943543-bcc4688e7485?w=800&q=80",
-      "source": "MIT Tech Review",
-      "sourceUrl": "https://www.technologyreview.com/2026/05/14/1137168/establishing-ai-and-data-sovereignty-in-the-age-of-autonomous-systems/",
       "publishedAt": "2026-05-14T13:00:00.000Z"
     },
     {
