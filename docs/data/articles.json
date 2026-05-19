@@ -1,7 +1,52 @@
 {
-  "fetchedAt": "2026-05-19T10:25:06.373Z",
+  "fetchedAt": "2026-05-19T13:42:14.990Z",
   "count": 60,
   "articles": [
+    {
+      "id": "v9vl9l",
+      "title": "Understanding the modern cybercrime landscape",
+      "summary": "Throughout 2025, HPE observed significant changes in how cybercriminals operate. Analyzing real-world threats, our HPE Threat Labs highlighted an industrialization of the cyber criminals’ methods in its new In the Wild Report, enabling greater scale, speed and structure in their campaigns. They typically use automation and AI to exploit longstanding vulnerabilities, and many have adopted…",
+      "imageUrl": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=800&q=80",
+      "source": "MIT Tech Review",
+      "sourceUrl": "https://www.technologyreview.com/2026/05/19/1136925/understanding-the-modern-cybercrime-landscape/",
+      "publishedAt": "2026-05-19T13:00:00.000Z"
+    },
+    {
+      "id": "6q55gd",
+      "title": "The Download: Musk v. Altman, smart glasses for warfare, and Google I/O",
+      "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. Here’s why Elon Musk lost his suit against OpenAI Elon Musk has lost his lawsuit against OpenAI, which centered on whether the company breached its founding contract as a nonprofit. A…",
+      "imageUrl": "https://images.unsplash.com/photo-1485827404703-89b55fcc595e?w=800&q=80",
+      "source": "MIT Tech Review",
+      "sourceUrl": "https://www.technologyreview.com/2026/05/19/1137505/the-download-musk-altman-trial-smart-glasses-warfare-google-i-o/",
+      "publishedAt": "2026-05-19T12:10:00.000Z"
+    },
+    {
+      "id": "rvfsy8",
+      "title": "Colossal Biosciences is growing chickens in a 3D-printed container",
+      "summary": "The baby chicks were shifting and starting to pip—or trying to hatch. But not from an egg. Instead, these chickens were growing inside transparent 3D-printed plastic cups at the Dallas headquarters of Colossal Biosciences. The biotech company today claimed it has developed a “fully artificial egg” as part of its effort to resurrect extinct avian…",
+      "imageUrl": "https://images.unsplash.com/photo-1550751827-4bd374c3f58b?w=800&q=80",
+      "source": "MIT Tech Review",
+      "sourceUrl": "https://www.technologyreview.com/2026/05/19/1137471/colossal-biosciences-is-growing-chickens-in-a-3d-printed-container/",
+      "publishedAt": "2026-05-19T12:00:00.000Z"
+    },
+    {
+      "id": "xu2i9h",
+      "title": "Gemini is in danger of going full Copilot",
+      "summary": "I actually use the Gemini app quite a bit on my phone, but let’s not get carried away. Gemini has a creep problem. A few years ago, that little sparkle icon started showing up in all of our Google apps. Gemini in your inbox! Gemini in your Google Drive! It was slow at first, and easy enough to tune out, but something has changed in the past few months. Gemini is creeping. It's showing up in all kinds of places at a relentless pace, and personally, it's starting to really cheese me off. The…",
+      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/01/DSC02315_processed_2.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "source": "The Verge",
+      "sourceUrl": "https://www.theverge.com/tech/931752/google-io-2026-gemini-icon-docs-workspace",
+      "publishedAt": "2026-05-19T10:30:00.000Z"
+    },
+    {
+      "id": "9hdcaf",
+      "title": "Tom Steyer Wants to Save California From Billionaires. But Also Doesn’t Want Them to Leave",
+      "summary": "The hedge fund billionaire turned gubernatorial candidate wants to tax California’s ultrawealthy, regulate AI, and keep Silicon Valley happy at the same time. Good luck with that.",
+      "imageUrl": "https://media.wired.com/photos/6a0765c0ba6912ba20f92c03/master/pass/Big-Interview-UV-Solo-Tom-Steyer-Politics-2274236211.jpg",
+      "source": "Wired",
+      "sourceUrl": "https://www.wired.com/story/the-big-interview-podcast-tom-steyer/",
+      "publishedAt": "2026-05-19T10:30:00.000Z"
+    },
     {
       "id": "mv8e4j",
       "title": "Here’s why Elon Musk lost his suit against OpenAI",
@@ -273,15 +318,6 @@
       "publishedAt": "2026-05-15T22:25:00.000Z"
     },
     {
-      "id": "ut72fi",
-      "title": "ArXiv will ban researchers who upload papers full of AI slop",
-      "summary": "ArXiv, a popular platform for preprint academic research, is taking a new step to attempt to reduce the volume of papers that include AI slop. If a paper has \"incontrovertible evidence that the authors did not check the results of LLM generation,\" such as hallucinated references or \"meta-comments\" left by an LLM, authors will be banned from ArXiv for a year, according to Thomas Dietterich, ArXiv's section chair of its computer science section. Future ArXiv submissions will also have to be…",
-      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/05/STKS511_AI_SLOP_C.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "source": "The Verge",
-      "sourceUrl": "https://www.theverge.com/science/931766/arxiv-ai-slop-ban-researchers",
-      "publishedAt": "2026-05-15T20:38:19.000Z"
-    },
-    {
       "id": "2ao7rx",
       "title": "The OpenAI trial wraps up, and the Musk founder machine keeps spinning",
       "summary": "The Musk v. Altman trial came to a close this week, and the final arguments kept circling back to one question: can we trust the people in charge of AI? All of this is playing out as SpaceX charges toward what could be one of the largest IPOs in American history, with a whole generation of founders already spinning out […]",
@@ -336,24 +372,6 @@
       "publishedAt": "2026-05-15T09:00:00.000Z"
     },
     {
-      "id": "s0r140",
-      "title": "The world is on track to miss its health targets",
-      "summary": "Every year the World Health Organization publishes a global health statistics report. It features the numbers behind world health trends and, importantly, assesses whether we’re on track to reach ambitious goals set in 2015. It’s a bit like a health grade. The 2026 report was published on Wednesday. And the results aren’t looking brilliant. While…",
-      "imageUrl": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=800&q=80",
-      "source": "MIT Tech Review",
-      "sourceUrl": "https://www.technologyreview.com/2026/05/15/1137270/the-world-is-on-track-to-miss-its-health-targets/",
-      "publishedAt": "2026-05-15T09:00:00.000Z"
-    },
-    {
-      "id": "b3e7mo",
-      "title": "How Chinese short dramas became AI content machines",
-      "summary": "In a dimly lit bedroom, a frightened young woman is thrown onto a bed by a tall, muscular man. He grabs her hand, and flame-like vines crawl across her body, fusing with her flesh. She levitates, then drops. A dragon-shaped tattoo appears across her chest. “Two months,” the man says. “Give me an heir, or…",
-      "imageUrl": "https://images.unsplash.com/photo-1620712943543-bcc4688e7485?w=800&q=80",
-      "source": "MIT Tech Review",
-      "sourceUrl": "https://www.technologyreview.com/2026/05/15/1137326/chinese-short-dramas-ai/",
-      "publishedAt": "2026-05-15T09:00:00.000Z"
-    },
-    {
       "id": "vmh4sz",
       "title": "The Real Losers of the Musk v. Altman Trial",
       "summary": "A federal jury is now deciding whether Elon Musk will win his lawsuit against OpenAI and Sam Altman—but the trial has made everyone look bad.",
@@ -399,15 +417,6 @@
       "publishedAt": "2026-05-14T16:47:43.000Z"
     },
     {
-      "id": "srw9jh",
-      "title": "Data readiness for agentic AI in financial services",
-      "summary": "Financial services companies have unique needs when it comes to business AI. They operate in one of the most highly regulated sectors while responding to external events that are updated by the second. As a result, the success of agentic AI in financial services depends less on the sophistication of the system and more on…",
-      "imageUrl": "https://images.unsplash.com/photo-1635070041078-e363dbe005cb?w=800&q=80",
-      "source": "MIT Tech Review",
-      "sourceUrl": "https://www.technologyreview.com/2026/05/14/1137034/data-readiness-for-agentic-ai-in-financial-services/",
-      "publishedAt": "2026-05-14T13:00:00.000Z"
-    },
-    {
       "id": "qf50hf",
       "title": "AI Promised the Audemars Piguet x Swatch Wristwatch. China Will Deliver It",
       "summary": "Watch fans spent a week falling in love with colorful Royal Oak wristwatches that didn’t exist—then the real thing arrived. Now, fantasy is becoming a manufacturing opportunity.",
@@ -415,15 +424,6 @@
       "source": "Wired",
       "sourceUrl": "https://www.wired.com/story/ai-ruined-the-audemars-piguet-x-swatch-collaboration-china-could-save-it/",
       "publishedAt": "2026-05-14T12:52:28.000Z"
-    },
-    {
-      "id": "9y9g83",
-      "title": "Gen Z Is Pioneering a New Understanding of Truth",
-      "summary": "The first generation to truly grow up online, Generation Z and their cohort live in a social media ecosystem that blends facts and feelings. It’s significantly shifting how they understand what’s true.",
-      "imageUrl": "https://media.wired.com/photos/6a04da9bd7be752b48cba4fa/master/pass/Book-Excerpt-Gen-Z-Pioneering-New-Understanding-of-Truth-Culture.jpg",
-      "source": "Wired",
-      "sourceUrl": "https://www.wired.com/story/book-excerpt-the-future-of-truth-steven-rosenbaum/",
-      "publishedAt": "2026-05-14T11:00:00.000Z"
     },
     {
       "id": "qdsdu8",
