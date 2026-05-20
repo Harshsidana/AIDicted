@@ -1,7 +1,97 @@
 {
-  "fetchedAt": "2026-05-20T11:54:20.412Z",
+  "fetchedAt": "2026-05-20T15:45:11.775Z",
   "count": 60,
   "articles": [
+    {
+      "id": "oghnpu",
+      "title": "AI search startups are blowing up",
+      "summary": "AI search has quietly become one of the most attractive targets in consumer AI.",
+      "imageUrl": "https://images.unsplash.com/photo-1655720828018-edd2daec9349?w=800&q=80",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/05/20/ai-search-startups-are-blowing-up/",
+      "publishedAt": "2026-05-20T15:04:45.000Z"
+    },
+    {
+      "id": "zcn0wl",
+      "title": "Stability AI releases a new audio model that can create six-minute songs",
+      "summary": "Stability Audio 3.0 small model can run on-device and generate two-minute long tracks",
+      "imageUrl": "https://images.unsplash.com/photo-1531746790095-6c10a4031c5f?w=800&q=80",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/05/20/stability-ai-release-a-new-audio-model-that-can-create-six-minute-songs/",
+      "publishedAt": "2026-05-20T15:00:00.000Z"
+    },
+    {
+      "id": "wry5rb",
+      "title": "It’s make or break time for AI labeling systems",
+      "summary": "If robust AI labeling was in place when these swagged out images of Pope Francis went viral, it may have been easier for people to tell they were fake. | Image: via Reddit We're about to find out if the systems designed to make deepfakes and AI-generated content easy to spot are actually up to snuff. SynthID and C2PA Content Credentials, two distinct technologies for invisibly tagging image, video, and audio files with information about their origins, are getting their biggest expansion to date,…",
+      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/05/ai-label-swag-pope.png?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "source": "The Verge",
+      "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/934521/google-synthid-c2pa-content-credentials-ai-labelling-efforts",
+      "publishedAt": "2026-05-20T14:12:54.000Z"
+    },
+    {
+      "id": "a5r2b9",
+      "title": "NanoClaw creator turns down $20M buyout offer, raises $12M seed instead",
+      "summary": "NanoCo, the company behind OpenClaw alternative NanoClaw, has raised a $12 million seed after a viral launch, the founders tell TechCrunch.",
+      "imageUrl": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=800&q=80",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/05/20/nanoclaw-creator-turns-down-20m-buyout-offer-raises-12m-seed-instead/",
+      "publishedAt": "2026-05-20T14:00:00.000Z"
+    },
+    {
+      "id": "43u6ux",
+      "title": "Startup Battlefield 200 applications close in one week: Window to nominate and apply for the most promising startups ends May 27",
+      "summary": "Startup Battlefield 200 applications close May 27. Pitch at TechCrunch Disrupt, get investor access, win $100K, plus more scaling perks. Nominate an early-stage founder or submit your startup here.",
+      "imageUrl": "https://images.unsplash.com/photo-1655720828018-edd2daec9349?w=800&q=80",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/05/20/startup-battlefield-200-applications-close-in-one-week-window-to-nominate-and-apply-for-the-most-promising-startups-ends-may-27/",
+      "publishedAt": "2026-05-20T14:00:00.000Z"
+    },
+    {
+      "id": "u6w44n",
+      "title": "If Google can’t make AI agents useful, maybe no one can",
+      "summary": "For years, tech companies have promised AI will give everyone a capable personal assistant but delivered something more like a clueless intern. Over the past six months, that has started to change, thanks largely to the viral open-source AI agent platform OpenClaw. And among the top AI labs now chasing similar success, one seems particularly well-poised to make agents succeed at a large scale: Google. At I/O 2026, Google announced new AI agents for gathering information, planning events,…",
+      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/05/VRGSTKIO2026_v3.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "source": "The Verge",
+      "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/934478/if-google-cant-make-ai-agents-useful-maybe-no-one-can",
+      "publishedAt": "2026-05-20T13:24:22.000Z"
+    },
+    {
+      "id": "seh8qj",
+      "title": "Figma adds an AI assistant to its collaborative canvas",
+      "summary": "Figma's new AI assistant will be first available on Figma Design",
+      "imageUrl": "https://images.unsplash.com/photo-1620712943543-bcc4688e7485?w=800&q=80",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/05/20/figma-adds-an-ai-assistant-to-its-collaborative-canvas/",
+      "publishedAt": "2026-05-20T13:00:00.000Z"
+    },
+    {
+      "id": "mx81pl",
+      "title": "The biggest data center ever is becoming a huge problem in Utah",
+      "summary": "Utah may host one of the world's most colossal data centers, despite stark warnings from experts and fierce public backlash. Earlier this month, commissioners in Box Elder County signed off on the Stratos Project: a 40,000-acre data center stretching across the county's Hansel Valley. It's supposed to establish American AI dominance, but potentially at the expense of environmental damage and a strain on already overtaxed water supplies. The Stratos Project, backed by Shark Tank investor and…",
+      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/05/STKP224_KEVIN_O_LEARY_CVIRGINIA_B.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "source": "The Verge",
+      "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/933687/utah-stratos-project-data-center-kevin-oleary",
+      "publishedAt": "2026-05-20T13:00:00.000Z"
+    },
+    {
+      "id": "c5j1k4",
+      "title": "Boston Metal gets a $75 million lifeline to produce critical metals",
+      "summary": "The startup Boston Metal has raised a $75 million funding round to produce critical metals, MIT Technology Review can exclusively report. The company has been known largely for its efforts to clean up steel production, an industry that’s responsible for about 8% of global greenhouse emissions today. With the additional money, the new focus could…",
+      "imageUrl": "https://images.unsplash.com/photo-1526374965328-7f61d4dc18c5?w=800&q=80",
+      "source": "MIT Tech Review",
+      "sourceUrl": "https://www.technologyreview.com/2026/05/20/1137523/boston-metal-funding-critical-metals/",
+      "publishedAt": "2026-05-20T13:00:00.000Z"
+    },
+    {
+      "id": "9vcozn",
+      "title": "The Download: fully artificial chicken eggs and why Musk lost",
+      "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. Colossal Biosciences is growing chickens in a 3D-printed artificial eggshell The baby chicks were shifting and starting to pip—or trying to hatch. But not from an egg. Instead, these chickens were…",
+      "imageUrl": "https://images.unsplash.com/photo-1531746790095-6c10a4031c5f?w=800&q=80",
+      "source": "MIT Tech Review",
+      "sourceUrl": "https://www.technologyreview.com/2026/05/20/1137579/the-download-colossal-biosciences-egg-musk-altman-trial/",
+      "publishedAt": "2026-05-20T12:10:00.000Z"
+    },
     {
       "id": "qxwajl",
       "title": "Literary Prizewinners Are Facing AI Allegations. It Feels Like the New Normal",
@@ -192,84 +282,12 @@
       "publishedAt": "2026-05-19T17:45:00.000Z"
     },
     {
-      "id": "i4e3to",
-      "title": "Google’s AI Studio now lets anyone build Android apps in minutes",
-      "summary": "Google unveiled new web-based AI tools that can generate native Android apps in minutes, as the company expands its push into AI-powered software development.",
-      "imageUrl": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=800&q=80",
-      "source": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/05/19/googles-ai-studio-now-lets-anyone-build-android-apps-in-minutes/",
-      "publishedAt": "2026-05-19T17:45:00.000Z"
-    },
-    {
-      "id": "w51dan",
-      "title": "Agentic app coding gets an upgrade with Google’s release of Android CLI",
-      "summary": "Google is embracing the rise of AI coding agents with new Android tools designed to work with platforms like Claude Code and OpenAI’s Codex, allowing developers — or their AI assistants — to build Android apps faster from the command line.",
-      "imageUrl": "https://images.unsplash.com/photo-1635070041078-e363dbe005cb?w=800&q=80",
-      "source": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/05/19/agentic-app-coding-gets-an-upgrade-with-googles-release-of-android-cli/",
-      "publishedAt": "2026-05-19T17:45:00.000Z"
-    },
-    {
-      "id": "z4frxn",
-      "title": "Google’s new Universal Cart wants to follow your entire shopping journey across the internet",
-      "summary": "Most people shop across multiple devices, many retailers, and over the course of many days, which is why Google is launching Universal Cart.",
-      "imageUrl": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=800&q=80",
-      "source": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/05/19/googles-new-universal-cart-wants-to-follow-your-entire-shopping-journey-across-the-internet/",
-      "publishedAt": "2026-05-19T17:45:00.000Z"
-    },
-    {
-      "id": "ktinpk",
-      "title": "Google introduces Gemini Spark, a 24/7 agentic assistant with Gmail integration, at IO 2026",
-      "summary": "At the Google I/O developer conference, the company announced a new agentic personal assistant called Gemini Spark, built from Gemini's base models and an agentic harness from Google Antigravity.",
-      "imageUrl": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=800&q=80",
-      "source": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/05/19/google-introduces-gemini-spark-a-24-7-agentic-assistant-with-gmail-integration/",
-      "publishedAt": "2026-05-19T17:45:00.000Z"
-    },
-    {
-      "id": "2nutbq",
-      "title": "Google adds voice-based prompting to Docs and Keep",
-      "summary": "Google is letting users create drafts, take notes, and search for email with voice with the new Workspace update.",
-      "imageUrl": "https://images.unsplash.com/photo-1620712943543-bcc4688e7485?w=800&q=80",
-      "source": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/05/19/google-adds-voice-based-prompting-to-docs-and-keep/",
-      "publishedAt": "2026-05-19T17:45:00.000Z"
-    },
-    {
       "id": "os9j5p",
       "title": "Google can now vibe-code you an Android app",
       "summary": "Google is announcing a major upgrade to one of its vibe coding platforms: Beginning today, you can now use AI Studio to build native Android apps. With Google AI Studio, you can prompt your idea for an app and preview it with an embedded emulator of Android. When you want to try it out on an actual phone, you can connect an Android device to your computer and install it. In the future, you'll also be able to invite app testers from AI Studio. It sounds like you won't be able to whip up just any…",
       "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/24007892/acastro_STK112_android_01.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
       "source": "The Verge",
       "sourceUrl": "https://www.theverge.com/tech/932364/google-ai-studio-native-android-apps-vibe-code-google-io-2026",
-      "publishedAt": "2026-05-19T17:45:00.000Z"
-    },
-    {
-      "id": "k8a3hy",
-      "title": "Would you let robots spend your money? Google is betting on it",
-      "summary": "Google is going all in on AI-driven shopping even as some competitors back off. At Google I/O, the company unveiled the latest iteration of its AI commerce tools: a \"Universal Cart\" that works across different retailers and Google products like Gemini - and eventually YouTube and Gmail, too. Users can add products to Google's universal cart as they browse Search and chat with Gemini and then check out through Google. The cart will also track prices, provide in-stock notifications, suggest…",
-      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/05/Universal-Cart-intelligent-insights.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "source": "The Verge",
-      "sourceUrl": "https://www.theverge.com/news/932927/google-io-agentic-ai-shopping-universal-cart",
-      "publishedAt": "2026-05-19T17:45:00.000Z"
-    },
-    {
-      "id": "7lcp78",
-      "title": "Google Search is getting its biggest changes ever",
-      "summary": "Google Search is entering the next phase of its AI evolution. During Google I/O 2026, the company showed off a reimagined search box that makes it easier to flow between AI Overviews, the AI-generated summaries that appear at the top of search results, and AI Mode, Google's chatbot-like search experience. Powered by the new Gemini 3.5 Flash model, Google's updated search box expands for longer queries, while offering a new AI-powered autocomplete feature to build on your question. Robby Stein,…",
-      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/05/google-search-box-update.png?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "source": "The Verge",
-      "sourceUrl": "https://www.theverge.com/tech/932970/google-search-ai-update-io-2026",
-      "publishedAt": "2026-05-19T17:45:00.000Z"
-    },
-    {
-      "id": "idl9ey",
-      "title": "Gmail is going to start talking to you",
-      "summary": "Google is launching a big new feature for Gmail called Gmail Live, a new AI-powered voice mode that's basically the Gemini Live experience but built specifically for your inbox. To use Gmail Live, tap an icon that will appear in your search bar and just start talking. In a press briefing, a Google employee showed a live demo of the feature where she asked questions about things like events at her kid's school and an upcoming trip to Detroit. Gmail pulled up relevant details in the Gmail Live…",
-      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/03/acastro_STK459_09.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "source": "The Verge",
-      "sourceUrl": "https://www.theverge.com/tech/932973/google-gmail-live-ai-keep-docs-io-2026",
       "publishedAt": "2026-05-19T17:45:00.000Z"
     },
     {
@@ -406,24 +424,6 @@
       "source": "MIT Tech Review",
       "sourceUrl": "https://www.technologyreview.com/2026/05/18/1137412/inside-anduril-and-metas-quest-to-make-smart-glasses-for-warfare/",
       "publishedAt": "2026-05-18T16:01:39.000Z"
-    },
-    {
-      "id": "axcmd",
-      "title": "The Download: Musk v. Altman week 3, and Trump’s tech trading",
-      "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. Musk v. Altman week 3: Musk and Altman traded blows over each other’s credibility. Now the jury will pick a side. In the final week of the Musk v. Altman trial,…",
-      "imageUrl": "https://images.unsplash.com/photo-1655720828018-edd2daec9349?w=800&q=80",
-      "source": "MIT Tech Review",
-      "sourceUrl": "https://www.technologyreview.com/2026/05/18/1137407/the-download-musk-altman-trial-trump-tech-trading/",
-      "publishedAt": "2026-05-18T12:10:00.000Z"
-    },
-    {
-      "id": "g37rmg",
-      "title": "Musk v. Altman week 3: Elon Musk and Sam Altman traded blows over each other’s credibility. Now the jury will pick a side.",
-      "summary": "Update: On Monday May 18, the jury sided with OpenAI, delivering an advisory verdict finding that Musk’s claims are barred by the statute of limitations. US District Judge Yvonne Gonzalez Rogers accepted the verdict. In the final week of the Musk v. Altman trial, lawyers traded blows over Elon Musk’s and OpenAI CEO Sam Altman’s…",
-      "imageUrl": "https://images.unsplash.com/photo-1655720828018-edd2daec9349?w=800&q=80",
-      "source": "MIT Tech Review",
-      "sourceUrl": "https://www.technologyreview.com/2026/05/15/1137357/musk-v-altman-week-3/",
-      "publishedAt": "2026-05-15T23:39:35.000Z"
     },
     {
       "id": "t172gt",
