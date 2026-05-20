@@ -1,7 +1,16 @@
 {
-  "fetchedAt": "2026-05-19T22:46:08.104Z",
+  "fetchedAt": "2026-05-20T00:13:50.876Z",
   "count": 60,
   "articles": [
+    {
+      "id": "qxwajl",
+      "title": "Literary Prizewinners Are Facing AI Allegations. It Feels Like the New Normal",
+      "summary": "Three of five regional winners of the prestigious Commonwealth Short Story Prize are suspected of relying on chatbots. They’re certainly not alone.",
+      "imageUrl": "https://media.wired.com/photos/6a0ce86f98983a3fe2d17459/master/pass/Commonwealth-Prize-AI-Scandal-Culture.jpg",
+      "source": "Wired",
+      "sourceUrl": "https://www.wired.com/story/commonwealth-short-story-prize-ai-allegations/",
+      "publishedAt": "2026-05-19T22:53:04.000Z"
+    },
     {
       "id": "s5pr10",
       "title": "Demis Hassabis said this might be the ‘foothills of the singularity.’ What?",
@@ -50,7 +59,7 @@
     {
       "id": "ynd2b9",
       "title": "From teen hacker to Iron Dome researcher, this founder raised $28M to fight AI phishing",
-      "summary": "Ocean, an agentic email security platform, raised funding from Lightspeed Venture Partners.",
+      "summary": "Ocean, an agentic email security platform, claims its AI can thoroughly analyze the context of every incoming email to detect fraud and impersonation attempts.",
       "imageUrl": "https://images.unsplash.com/photo-1485827404703-89b55fcc595e?w=800&q=80",
       "source": "TechCrunch",
       "sourceUrl": "https://techcrunch.com/2026/05/19/from-teen-hacker-to-iron-dome-researcher-this-founder-raised-28m-to-fight-ai-phishing/",
@@ -75,10 +84,10 @@
       "publishedAt": "2026-05-19T20:15:18.000Z"
     },
     {
-      "id": "3f648r",
-      "title": "Elon Musk said Sam Altman “stole” a non-profit — but the trial showed he had similar aims",
-      "summary": "“By the end of this week, you and Sam will be the most hated men in America.”",
-      "imageUrl": "https://images.unsplash.com/photo-1550751827-4bd374c3f58b?w=800&q=80",
+      "id": "nkkk5f",
+      "title": "Elon Musk said Sam Altman ‘stole’ a non-profit — but the trial showed he had similar aims",
+      "summary": "The jury's speedy decision to reject Elon Musk's lawsuit against the other founders of OpenAI and Microsoft confirmed what we saw in the courtroom: Musk's case was a weak one, in part because he waited so long to file it.",
+      "imageUrl": "https://images.unsplash.com/photo-1655720828018-edd2daec9349?w=800&q=80",
       "source": "TechCrunch",
       "sourceUrl": "https://techcrunch.com/2026/05/19/elon-musk-said-sam-altman-stole-a-non-profit-but-the-trial-showed-he-had-similar-aims/",
       "publishedAt": "2026-05-19T20:11:00.000Z"
@@ -273,21 +282,21 @@
       "publishedAt": "2026-05-19T17:45:00.000Z"
     },
     {
-      "id": "cn2w15",
-      "title": "Google Makes It Easy to Deepfake Yourself",
-      "summary": "Google’s overhaul of its AI creation software, Flow, includes a new video model and a tool for generating selfie videos called avatars.",
-      "imageUrl": "https://media.wired.com/photos/6a0c9f6ca05e7a85645ca0a2/master/pass/Screenshot%202026-05-19%20at%201.33.39%E2%80%AFPM.png",
-      "source": "Wired",
-      "sourceUrl": "https://www.wired.com/story/google-makes-it-easy-to-make-a-deepfake-of-yourself/",
-      "publishedAt": "2026-05-19T17:45:00.000Z"
-    },
-    {
       "id": "qnzhqc",
       "title": "Demis Hassabis Thinks AI Job Cuts Are Dumb",
       "summary": "The CEO of Google DeepMind tells WIRED that companies should use the productivity gains of AI to do more, not lay people off.",
       "imageUrl": "https://media.wired.com/photos/6a0c628c807dd3ba7634a39a/master/pass/GettyImages-2273112148.jpg",
       "source": "Wired",
       "sourceUrl": "https://www.wired.com/story/demis-hassabis-ai-layoffs-deepmind-google-io/",
+      "publishedAt": "2026-05-19T17:45:00.000Z"
+    },
+    {
+      "id": "cn2w15",
+      "title": "Google Makes It Easy to Deepfake Yourself",
+      "summary": "Google’s overhaul of its AI creation software, Flow, includes a new video model and a tool for generating selfie videos called avatars.",
+      "imageUrl": "https://media.wired.com/photos/6a0c9f6ca05e7a85645ca0a2/master/pass/Screenshot%202026-05-19%20at%201.33.39%E2%80%AFPM.png",
+      "source": "Wired",
+      "sourceUrl": "https://www.wired.com/story/google-makes-it-easy-to-make-a-deepfake-of-yourself/",
       "publishedAt": "2026-05-19T17:45:00.000Z"
     },
     {
@@ -406,15 +415,6 @@
       "source": "MIT Tech Review",
       "sourceUrl": "https://www.technologyreview.com/2026/05/18/1137407/the-download-musk-altman-trial-trump-tech-trading/",
       "publishedAt": "2026-05-18T12:10:00.000Z"
-    },
-    {
-      "id": "b0nezd",
-      "title": "I’m a Normie. Can Normies Really Vibe Code?",
-      "summary": "Apparently anyone can vibe code anything these days. So Claude and I tried to make a database for tracking the petty grievances of the masses.",
-      "imageUrl": "https://media.wired.com/photos/69f9d501e8aff66a9d0732d2/master/pass/WIRED-YanBastard-Normie-Vibe-Coders-RGB-02.jpg",
-      "source": "Wired",
-      "sourceUrl": "https://www.wired.com/story/normie-vibe-code/",
-      "publishedAt": "2026-05-18T10:00:00.000Z"
     },
     {
       "id": "g37rmg",
