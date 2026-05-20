@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-05-20T00:13:50.876Z",
+  "fetchedAt": "2026-05-20T08:32:17.403Z",
   "count": 60,
   "articles": [
     {
@@ -192,21 +192,21 @@
       "publishedAt": "2026-05-19T17:45:00.000Z"
     },
     {
-      "id": "w51dan",
-      "title": "Agentic app coding gets an upgrade with Google’s release of Android CLI",
-      "summary": "Google is embracing the rise of AI coding agents with new Android tools designed to work with platforms like Claude Code and OpenAI’s Codex, allowing developers — or their AI assistants — to build Android apps faster from the command line.",
-      "imageUrl": "https://images.unsplash.com/photo-1635070041078-e363dbe005cb?w=800&q=80",
-      "source": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/05/19/agentic-app-coding-gets-an-upgrade-with-googles-release-of-android-cli/",
-      "publishedAt": "2026-05-19T17:45:00.000Z"
-    },
-    {
       "id": "i4e3to",
       "title": "Google’s AI Studio now lets anyone build Android apps in minutes",
       "summary": "Google unveiled new web-based AI tools that can generate native Android apps in minutes, as the company expands its push into AI-powered software development.",
       "imageUrl": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=800&q=80",
       "source": "TechCrunch",
       "sourceUrl": "https://techcrunch.com/2026/05/19/googles-ai-studio-now-lets-anyone-build-android-apps-in-minutes/",
+      "publishedAt": "2026-05-19T17:45:00.000Z"
+    },
+    {
+      "id": "w51dan",
+      "title": "Agentic app coding gets an upgrade with Google’s release of Android CLI",
+      "summary": "Google is embracing the rise of AI coding agents with new Android tools designed to work with platforms like Claude Code and OpenAI’s Codex, allowing developers — or their AI assistants — to build Android apps faster from the command line.",
+      "imageUrl": "https://images.unsplash.com/photo-1635070041078-e363dbe005cb?w=800&q=80",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/05/19/agentic-app-coding-gets-an-upgrade-with-googles-release-of-android-cli/",
       "publishedAt": "2026-05-19T17:45:00.000Z"
     },
     {
@@ -219,21 +219,21 @@
       "publishedAt": "2026-05-19T17:45:00.000Z"
     },
     {
-      "id": "wpjnlo",
-      "title": "Google launches Antigravity 2.0 with an updated desktop app and CLI tool at IO 2026",
-      "summary": "Google is debuting a new AI Ultra plan priced at $100, which will give users 5x more usage limit than the AI Pro plan alongside the Antigravity 2.0 launch.",
-      "imageUrl": "https://images.unsplash.com/photo-1655720828018-edd2daec9349?w=800&q=80",
-      "source": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/05/19/google-launches-antigravity-2-0-with-an-updated-desktop-app-and-cli-tool-at-io-2026/",
-      "publishedAt": "2026-05-19T17:45:00.000Z"
-    },
-    {
       "id": "ktinpk",
       "title": "Google introduces Gemini Spark, a 24/7 agentic assistant with Gmail integration, at IO 2026",
       "summary": "At the Google I/O developer conference, the company announced a new agentic personal assistant called Gemini Spark, built from Gemini's base models and an agentic harness from Google Antigravity.",
       "imageUrl": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=800&q=80",
       "source": "TechCrunch",
       "sourceUrl": "https://techcrunch.com/2026/05/19/google-introduces-gemini-spark-a-24-7-agentic-assistant-with-gmail-integration/",
+      "publishedAt": "2026-05-19T17:45:00.000Z"
+    },
+    {
+      "id": "2nutbq",
+      "title": "Google adds voice-based prompting to Docs and Keep",
+      "summary": "Google is letting users create drafts, take notes, and search for email with voice with the new Workspace update.",
+      "imageUrl": "https://images.unsplash.com/photo-1620712943543-bcc4688e7485?w=800&q=80",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/05/19/google-adds-voice-based-prompting-to-docs-and-keep/",
       "publishedAt": "2026-05-19T17:45:00.000Z"
     },
     {
