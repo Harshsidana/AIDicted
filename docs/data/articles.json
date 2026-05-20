@@ -1,7 +1,52 @@
 {
-  "fetchedAt": "2026-05-20T15:45:11.775Z",
+  "fetchedAt": "2026-05-20T18:26:10.988Z",
   "count": 60,
   "articles": [
+    {
+      "id": "gtt11i",
+      "title": "I Gave My OpenClaw Agent a Physical Body",
+      "summary": "The coding skills of AI models are about to make it much easier to build and deploy robots.",
+      "imageUrl": "https://media.wired.com/photos/6a0ca4ce280901f1fa2a6d37/master/pass/AI-Lab-Rock-Em-Sock-Em-Vibe-Coded-Robots-Business.jpg",
+      "source": "Wired",
+      "sourceUrl": "https://www.wired.com/story/i-gave-my-openclaw-agent-physical-body-robot/",
+      "publishedAt": "2026-05-20T18:00:00.000Z"
+    },
+    {
+      "id": "cjqgc0",
+      "title": "Vibe coding is coming to your phone",
+      "summary": "Coming to your homescreen soon: your own app. | Photo: Allison Johnson / The Verge \"There's an app for that\" was the promise of the App Store from the very beginning. The app that will get your phone to do the thing you want it to? It's just a few taps away. The tagline wasn't strictly true - I'm still waiting for that one perfect grocery list app. Still, apps shaped the modern smartphone into what it is today. We spend all day, every day inside of apps - scrolling, listening, and tapping until…",
+      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/10/258002_Google_Pixel_10_Pro_Fold_AJohnson_0010.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "source": "The Verge",
+      "sourceUrl": "https://www.theverge.com/tech/934628/google-io-2026-android-ai-studio-widgets-shortcuts",
+      "publishedAt": "2026-05-20T17:40:00.000Z"
+    },
+    {
+      "id": "iu1wo1",
+      "title": "OpenAI barrels towards IPO that may happen in September",
+      "summary": "A day after Elon Musk lost his lawsuit that threatened OpenAI's structure, leadership and finances, OpenAI is reportedly back to prepping for its IPO.",
+      "imageUrl": "https://images.unsplash.com/photo-1485827404703-89b55fcc595e?w=800&q=80",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/05/20/openai-barrels-towards-ipo-that-may-happen-in-september/",
+      "publishedAt": "2026-05-20T17:24:24.000Z"
+    },
+    {
+      "id": "j6xvt",
+      "title": "You can now remix other people’s YouTube Shorts with AI",
+      "summary": "Google announced a new YouTube Shorts Remix feature that lets users restyle clips or even insert themselves into other people's videos using Gemini Omni. Now, at the bottom of a YouTube Short, when you click the remix icon, you'll see an option to \"reimagine\" it. Here, you can prompt Gemini to turn a video into pixel art, an anime, or a found-footage horror film. But, beyond that, you can also alter the contents by, say, inflating heads, inserting background actors, dressing people in pirate…",
+      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/05/youtube-shorts-remix.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "source": "The Verge",
+      "sourceUrl": "https://www.theverge.com/tech/934704/google-gemini-omni-youtub-shorts-remix-ai",
+      "publishedAt": "2026-05-20T16:41:40.000Z"
+    },
+    {
+      "id": "oyfekp",
+      "title": "Google Search’s AI evolution includes more ads",
+      "summary": "Some ads will have chatbots built in. | Image: Google Google's AI-powered Search era apparently also extends to its ads. Now, when you look for a product in Search, Google's Gemini AI model will surface relevant items and generate a \"custom explainer\" about why you should purchase a specific one. The update comes just one day after Google revealed a new Search box for larger, more conversational queries, along with a focus on AI-generated results. In an example shared by Google, someone…",
+      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/05/search-ads-ai.png?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "source": "The Verge",
+      "sourceUrl": "https://www.theverge.com/tech/934585/google-ai-shopping-ads-search",
+      "publishedAt": "2026-05-20T16:00:00.000Z"
+    },
     {
       "id": "oghnpu",
       "title": "AI search startups are blowing up",
@@ -12,10 +57,10 @@
       "publishedAt": "2026-05-20T15:04:45.000Z"
     },
     {
-      "id": "zcn0wl",
-      "title": "Stability AI releases a new audio model that can create six-minute songs",
-      "summary": "Stability Audio 3.0 small model can run on-device and generate two-minute long tracks",
-      "imageUrl": "https://images.unsplash.com/photo-1531746790095-6c10a4031c5f?w=800&q=80",
+      "id": "md8jop",
+      "title": "Stability AI releases a new audio model that can create 6-minute songs",
+      "summary": "Stability Audio 3.0 small model can run on-device and generate two-minute long tracks.",
+      "imageUrl": "https://images.unsplash.com/photo-1655720828018-edd2daec9349?w=800&q=80",
       "source": "TechCrunch",
       "sourceUrl": "https://techcrunch.com/2026/05/20/stability-ai-release-a-new-audio-model-that-can-create-six-minute-songs/",
       "publishedAt": "2026-05-20T15:00:00.000Z"
@@ -30,21 +75,21 @@
       "publishedAt": "2026-05-20T14:12:54.000Z"
     },
     {
-      "id": "a5r2b9",
-      "title": "NanoClaw creator turns down $20M buyout offer, raises $12M seed instead",
-      "summary": "NanoCo, the company behind OpenClaw alternative NanoClaw, has raised a $12 million seed after a viral launch, the founders tell TechCrunch.",
-      "imageUrl": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=800&q=80",
+      "id": "dqwlbx",
+      "title": "Startup Battlefield 200 applications close in 1 week: Window to nominate and apply for the most promising startups closes May 27",
+      "summary": "Startup Battlefield 200 applications close May 27. Pitch at TechCrunch Disrupt, get investor access, win $100K, plus more scaling perks. Nominate an early-stage founder or submit your startup today.",
+      "imageUrl": "https://images.unsplash.com/photo-1531746790095-6c10a4031c5f?w=800&q=80",
       "source": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/05/20/nanoclaw-creator-turns-down-20m-buyout-offer-raises-12m-seed-instead/",
+      "sourceUrl": "https://techcrunch.com/2026/05/20/startup-battlefield-200-applications-close-in-1-week-window-to-nominate-and-apply-for-the-most-promising-startups-closes-may-27/",
       "publishedAt": "2026-05-20T14:00:00.000Z"
     },
     {
-      "id": "43u6ux",
-      "title": "Startup Battlefield 200 applications close in one week: Window to nominate and apply for the most promising startups ends May 27",
-      "summary": "Startup Battlefield 200 applications close May 27. Pitch at TechCrunch Disrupt, get investor access, win $100K, plus more scaling perks. Nominate an early-stage founder or submit your startup here.",
-      "imageUrl": "https://images.unsplash.com/photo-1655720828018-edd2daec9349?w=800&q=80",
+      "id": "a5r2b9",
+      "title": "NanoClaw creator turns down $20M buyout offer, raises $12M seed instead",
+      "summary": "NanoClaw was created as a secure alternative to OpenClaw to assist the Cohen brothers with their AI marketing firm that used agents to do much of the work. But instead of running directly on a computer, NanoClaw runs sandboxed in a container.",
+      "imageUrl": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=800&q=80",
       "source": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/05/20/startup-battlefield-200-applications-close-in-one-week-window-to-nominate-and-apply-for-the-most-promising-startups-ends-may-27/",
+      "sourceUrl": "https://techcrunch.com/2026/05/20/nanoclaw-creator-turns-down-20m-buyout-offer-raises-12m-seed-instead/",
       "publishedAt": "2026-05-20T14:00:00.000Z"
     },
     {
@@ -75,10 +120,10 @@
       "publishedAt": "2026-05-20T13:00:00.000Z"
     },
     {
-      "id": "c5j1k4",
-      "title": "Boston Metal gets a $75 million lifeline to produce critical metals",
+      "id": "ovkvmd",
+      "title": "Green steel startup Boston Metal is doubling down on critical metals",
       "summary": "The startup Boston Metal has raised a $75 million funding round to produce critical metals, MIT Technology Review can exclusively report. The company has been known largely for its efforts to clean up steel production, an industry that’s responsible for about 8% of global greenhouse emissions today. With the additional money, the new focus could…",
-      "imageUrl": "https://images.unsplash.com/photo-1526374965328-7f61d4dc18c5?w=800&q=80",
+      "imageUrl": "https://images.unsplash.com/photo-1485827404703-89b55fcc595e?w=800&q=80",
       "source": "MIT Tech Review",
       "sourceUrl": "https://www.technologyreview.com/2026/05/20/1137523/boston-metal-funding-critical-metals/",
       "publishedAt": "2026-05-20T13:00:00.000Z"
@@ -228,15 +273,6 @@
       "publishedAt": "2026-05-19T18:00:00.000Z"
     },
     {
-      "id": "qjowp3",
-      "title": "The 13 biggest announcements at Google I/O 2026",
-      "summary": "Google CEO Sundar Pichai on stage at I/O 2026. | Screenshot: YouTube Google's I/O 2026 keynote today was once again full of AI-related announcements including a new family of Gemini 3.5 AI models, new features for Search and Gmail, and updates about its Project Aura smart glasses. If you weren't able to tune into the event's livestream today or follow along with our live blog, you can catch up on everything you missed in our roundup below. Gemini 3.5 Google launched updated AI models at I/O,…",
-      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/05/io2026.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "source": "The Verge",
-      "sourceUrl": "https://www.theverge.com/tech/933415/google-io-2026-biggest-announcements-ai-gemini",
-      "publishedAt": "2026-05-19T17:54:33.000Z"
-    },
-    {
       "id": "1bnin3",
       "title": "Google’s Genie world model can now simulate real streets with Street View",
       "summary": "Google DeepMind is integrating Street View with Project Genie to create immersive, interactive world simulations for robotics, gaming, and travel, allowing users to explore environments, weather changes, and rare scenarios.",
@@ -255,15 +291,6 @@
       "publishedAt": "2026-05-19T17:51:30.000Z"
     },
     {
-      "id": "fd9dno",
-      "title": "Google wants to compete with Anthropic’s Mythos",
-      "summary": "Google is making a big push into cybersecurity. At I/O, the company announced that it was inviting select groups of experts to test the API for CodeMender, an \"AI agent for code security\" it debuted last October. The difference is that Google is now making the tool more widely available externally - and marketing it as a way to, as Google DeepMind CTO Koray Kavukcuoglu put it, \"help secure the world's code bases\" by both flagging and fixing vulnerabilities. Anthropic's surprise Claude Mythos…",
-      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/06/STK453_PRIVACY_B_CVirginia.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "source": "The Verge",
-      "sourceUrl": "https://www.theverge.com/tech/933921/google-wants-to-compete-with-anthropics-mythos",
-      "publishedAt": "2026-05-19T17:48:22.000Z"
-    },
-    {
       "id": "a7tok",
       "title": "Google Search as you know it is over",
       "summary": "Google is transforming Search from a list of links into an AI-powered experience filled with conversational answers, autonomous agents, and interactive interfaces — a shift that could further reduce traffic to publishers across the web.",
@@ -271,24 +298,6 @@
       "source": "TechCrunch",
       "sourceUrl": "https://techcrunch.com/2026/05/19/google-search-as-you-know-it-is-over/",
       "publishedAt": "2026-05-19T17:46:00.000Z"
-    },
-    {
-      "id": "7ehf29",
-      "title": "OpenAI is making it easier to check if an image was made by their models",
-      "summary": "OpenAI announced two new measures to help detect AI generated imagery: joining the open C2PA standard and adding Google's SynthID to its products.",
-      "imageUrl": "https://images.unsplash.com/photo-1526374965328-7f61d4dc18c5?w=800&q=80",
-      "source": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/05/19/openai-is-making-it-easier-to-check-if-an-image-was-made-by-their-models/",
-      "publishedAt": "2026-05-19T17:45:00.000Z"
-    },
-    {
-      "id": "os9j5p",
-      "title": "Google can now vibe-code you an Android app",
-      "summary": "Google is announcing a major upgrade to one of its vibe coding platforms: Beginning today, you can now use AI Studio to build native Android apps. With Google AI Studio, you can prompt your idea for an app and preview it with an embedded emulator of Android. When you want to try it out on an actual phone, you can connect an Android device to your computer and install it. In the future, you'll also be able to invite app testers from AI Studio. It sounds like you won't be able to whip up just any…",
-      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/24007892/acastro_STK112_android_01.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "source": "The Verge",
-      "sourceUrl": "https://www.theverge.com/tech/932364/google-ai-studio-native-android-apps-vibe-code-google-io-2026",
-      "publishedAt": "2026-05-19T17:45:00.000Z"
     },
     {
       "id": "qnzhqc",
@@ -388,15 +397,6 @@
       "source": "MIT Tech Review",
       "sourceUrl": "https://www.technologyreview.com/2026/05/18/1137488/elon-musk-suit-openai-verdict/",
       "publishedAt": "2026-05-19T00:53:10.000Z"
-    },
-    {
-      "id": "b6j3i2",
-      "title": "Elon Musk Loses Landmark Lawsuit Against OpenAI",
-      "summary": "The nine-member panel took only two hours to return a verdict in favor of OpenAI on Monday, which the judge quickly adopted as her own final decision.",
-      "imageUrl": "https://media.wired.com/photos/6a07b49c3e66727feabf05fc/master/pass/Model-Behavior-Altman-v-Musk-Verdict-Business.jpg",
-      "source": "Wired",
-      "sourceUrl": "https://www.wired.com/story/musk-v-altman-jury-verdict/",
-      "publishedAt": "2026-05-18T17:40:30.000Z"
     },
     {
       "id": "ko0fpt",
