@@ -1,7 +1,133 @@
 {
-  "fetchedAt": "2026-05-21T11:48:47.267Z",
+  "fetchedAt": "2026-05-21T15:45:20.522Z",
   "count": 60,
   "articles": [
+    {
+      "id": "izl1xv",
+      "title": "AI video is moving beyond clip slop",
+      "summary": "A still from Innovative Dreams, a new production company by Luma and Wonder Project | Image: Luma/X This is Lowpass by Janko Roettgers, a newsletter on the ever-evolving intersection of tech and entertainment, syndicated just for The Verge subscribers once a week. Hollywood is cooked - or so a growing number of people on social media would like you to believe. Their purported proof: AI-generated clips of Daniel Craig riding a Vespa through an Italian city, Godzilla fighting King Kong, or The…",
+      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/05/Screenshot-2026-05-21-at-10.55.11AM.png?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "source": "The Verge",
+      "sourceUrl": "https://www.theverge.com/column/935310/ai-video-luma-hollywood",
+      "publishedAt": "2026-05-21T15:30:00.000Z"
+    },
+    {
+      "id": "upsztm",
+      "title": "Spotify launches an ElevenLabs-powered audiobook creation tool",
+      "summary": "Spotify is releasing new audiobook plans later this year",
+      "imageUrl": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=800&q=80",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/05/21/spotify-launches-an-elevenlabs-powered-audiobook-creation-tool/",
+      "publishedAt": "2026-05-21T15:27:00.000Z"
+    },
+    {
+      "id": "thmyrj",
+      "title": "Spotify adds AI-powered Q&A and briefing generation features to podcasts",
+      "summary": "Spotify will let you generate daily or weekly briefs based on your prompts",
+      "imageUrl": "https://images.unsplash.com/photo-1550751827-4bd374c3f58b?w=800&q=80",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/05/21/spotify-adds-ai-powered-qa-and-briefing-generation-features-to-podcasts/",
+      "publishedAt": "2026-05-21T15:27:00.000Z"
+    },
+    {
+      "id": "r5fs10",
+      "title": "Spotify takes on Google’s NotebookLM with its new app",
+      "summary": "Spotify is releasing the new desktop app as a research preview in more than 20 markets",
+      "imageUrl": "https://images.unsplash.com/photo-1620712943543-bcc4688e7485?w=800&q=80",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/05/21/spotify-debuts-a-new-desktop-app-for-creating-personal-podcasts/",
+      "publishedAt": "2026-05-21T15:27:00.000Z"
+    },
+    {
+      "id": "d5wn9l",
+      "title": "Anthropic’s Code with Claude showed off coding’s future—whether you like it or not",
+      "summary": "The vibes were strong at Code with Claude, Anthropic’s two-day event for software developers in London that kicked off on May 19, the same day as Google’s I/O in Palo Alto. (A coincidence, not a flex, Anthropic staffers assured me.) “Who here has shipped a pull request in the last week that was completely written…",
+      "imageUrl": "https://images.unsplash.com/photo-1531746790095-6c10a4031c5f?w=800&q=80",
+      "source": "MIT Tech Review",
+      "sourceUrl": "https://www.technologyreview.com/2026/05/21/1137735/anthropics-code-with-claude-showed-off-codings-future-whether-you-like-it-or-not/",
+      "publishedAt": "2026-05-21T14:30:45.000Z"
+    },
+    {
+      "id": "3fqoud",
+      "title": "Hark raises $700M Series A for its secretive “universal” AI interface",
+      "summary": "Brett Adcock's new AI startup is now valued at $6 billion by its investors.",
+      "imageUrl": "https://images.unsplash.com/photo-1655720828018-edd2daec9349?w=800&q=80",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/05/21/hark-raises-700m-series-a-for-its-secretive-universal-ai-interface/",
+      "publishedAt": "2026-05-21T14:00:00.000Z"
+    },
+    {
+      "id": "y2dk3o",
+      "title": "The Path, founded by Tony Robbins and Calm alums, hopes to offer safer AI therapy",
+      "summary": "The Path says its AI model has scored 95 on the mental health safety AI benchmark, Vera-MH. This compares to a top score of 65 for the consumer bots.",
+      "imageUrl": "https://images.unsplash.com/photo-1620712943543-bcc4688e7485?w=800&q=80",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/05/21/the-path-founded-by-tony-robbins-and-calm-alums-wants-to-offer-safer-ai-therapy/",
+      "publishedAt": "2026-05-21T14:00:00.000Z"
+    },
+    {
+      "id": "15f9fh",
+      "title": "Musk v. Altman: Much ado about nothing",
+      "summary": "Today I’m talking with Liz Lopatto, who spent the last month covering the Musk v. Altman trial in all its chaos. You’ll hear her describe the courthouse as a “zoo” and explain that there were protests of one kind or another happening outside every day. Both Elon Musk and Sam Altman are big personalities, and people have a lot of feelings about both of them and the AI industry. And in the end… nothing happened! The jury found that Elon had filed his lawsuit after the statute of limitations had…",
+      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/05/VRG_DCD_MuskvAltman.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "source": "The Verge",
+      "sourceUrl": "https://www.theverge.com/podcast/934869/elon-musk-sam-altman-openai-suit-loss-pointless",
+      "publishedAt": "2026-05-21T14:00:00.000Z"
+    },
+    {
+      "id": "v1sn3j",
+      "title": "Google is pitching an AI agent ecosystem to consumers who may not buy it",
+      "summary": "The AI agents are coming. A lot of them.",
+      "imageUrl": "https://images.unsplash.com/photo-1526374965328-7f61d4dc18c5?w=800&q=80",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/05/21/google-is-pitching-an-ai-agent-ecosystem-to-consumers-who-may-not-buy-it/",
+      "publishedAt": "2026-05-21T13:52:23.000Z"
+    },
+    {
+      "id": "fuqb27",
+      "title": "US government takes $2 billion equity stake in nine quantum computing firms",
+      "summary": "Beneficiaries include startup backed by firm with links to the Trump family.",
+      "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2017/03/Screen-Shot-2017-03-31-at-1.37.22-PM.png",
+      "source": "Ars Technica",
+      "sourceUrl": "https://arstechnica.com/gadgets/2026/05/us-government-takes-2-billion-equity-stake-in-nine-quantum-computing-firms/",
+      "publishedAt": "2026-05-21T13:48:38.000Z"
+    },
+    {
+      "id": "vfe9nj",
+      "title": "With aluminum prices up 20%, recycling startups bet on AI to cash in",
+      "summary": "Recycling startups are using AI to improve the recovery of critical minerals like aluminum, aiming to build a massive source of the metal.",
+      "imageUrl": "https://images.unsplash.com/photo-1485827404703-89b55fcc595e?w=800&q=80",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/05/21/with-aluminum-prices-up-20-recycling-startups-bet-on-ai-to-cash-in/",
+      "publishedAt": "2026-05-21T13:38:42.000Z"
+    },
+    {
+      "id": "w916po",
+      "title": "Anthropic is paying $15 billion a year for access to Elon Musk’s data centers",
+      "summary": "Earlier this month, SpaceX and Anthropic announced a new compute partnership that provides access to the rocket company's Colossus data centers in Memphis, TN. Now, with the release of SpaceX's IPO filing, we have more details about that deal, including how much Anthropic is paying to Elon Musk's company. In its S-1 filing, SpaceX said that Anthropic agreed to pay $1.25 billion per month through May 2029 for access to SpaceX's AI training centers at Colossus I and Colossus II. That's $15 billion…",
+      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/04/STK269_ANTHROPIC_2_D.webp?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "source": "The Verge",
+      "sourceUrl": "https://www.theverge.com/science/935229/spacex-anthropic-ipo-ai-capacity-deal-colossus",
+      "publishedAt": "2026-05-21T13:35:52.000Z"
+    },
+    {
+      "id": "wl31s1",
+      "title": "I can’t believe how fast Google vibe coded my first Android app",
+      "summary": "That’s my own Android app. Bad, yet impressive. | Photo by Sean Hollister / The Verge Yesterday, I built my first Android app. Then, I made two more - three in one afternoon. For one, I literally typed 148 words into my web browser and walked away. Ten minutes later, I had an entire new app on my actual Android phone. I did have to prep that phone by enabling a USB debugging mode and plugging it into my PC, but as advertised, Google's AI Studio did literally everything else for me. I typed in…",
+      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/05/verge-mood-gemini-google-ai-studio.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "source": "The Verge",
+      "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/935056/google-vibe-coding-first-android-app-gemini-ai-studio",
+      "publishedAt": "2026-05-21T13:00:00.000Z"
+    },
+    {
+      "id": "34texq",
+      "title": "The Download: online safety’s future and climate tech’s big pivot",
+      "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. Tech researchers are suing the Trump administration over the future of online safety For months, the Trump administration has been going after researchers who study and try to counter hate speech,…",
+      "imageUrl": "https://images.unsplash.com/photo-1620712943543-bcc4688e7485?w=800&q=80",
+      "source": "MIT Tech Review",
+      "sourceUrl": "https://www.technologyreview.com/2026/05/21/1137733/the-download-online-safety-climate-tech-pivot/",
+      "publishedAt": "2026-05-21T12:10:00.000Z"
+    },
     {
       "id": "74fvtb",
       "title": "Climate tech companies are pivoting to critical minerals",
@@ -30,9 +156,9 @@
       "publishedAt": "2026-05-21T09:00:00.000Z"
     },
     {
-      "id": "v0nbyd",
-      "title": "In SpaceX’s IPO, Elon Musk is a risk factor",
-      "summary": "The SpaceX IPO is here, and it's more than just an historic public offering that could make Elon Musk the world's first trillionaire. It also reveals more ways in which Elon Musk's companies interact and overlap with each other, shuffling money around in ways that are often difficult to keep track of. This is evident in ways that are both obvious and less so. A CTRL-F search for \"Tesla\" yields 87 results, xAI is mentioned 356 times, and X 267 times. Even the Boring Company (7 times) and…",
+      "id": "4h2e8l",
+      "title": "In SpaceX’s IPO, Elon Musk is the risk factor",
+      "summary": "The SpaceX IPO is here, and it's more than just an historic public offering that could make Elon Musk the world's first trillionaire. It also reveals more ways in which Elon Musk's companies interact and overlap with each other, shuffling money around in ways that are often difficult to keep track of. This is evident in ways that are both obvious and less so. A CTRL-F search for \"Tesla\" yields 87 results, \"xAI\" is mentioned 356 times, \"Grok\" 243 times, and \"X\" 267 times. Even the \"Boring…",
       "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/04/gettyimages-2270729873.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
       "source": "The Verge",
       "sourceUrl": "https://www.theverge.com/science/935102/spacex-ipo-elon-musk-tesla-cybertruck-xai-risk-factor",
@@ -138,18 +264,9 @@
       "publishedAt": "2026-05-20T20:28:27.000Z"
     },
     {
-      "id": "k3l8qz",
-      "title": "IrisGo, a startup backed by Andrew Ng, looks to become the AI desktop buddy you never knew you needed",
-      "summary": "Initially billed as an \"AI butler,\" Iris watches what happens on a user's desktop and automatically learns how to do tasks for them, its co-founder says.",
-      "imageUrl": "https://images.unsplash.com/photo-1531746790095-6c10a4031c5f?w=800&q=80",
-      "source": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/05/20/irisgo-a-startup-backed-by-andrew-ng-looks-to-become-the-ai-desktop-buddy-you-never-knew-you-needed/",
-      "publishedAt": "2026-05-20T19:47:20.000Z"
-    },
-    {
       "id": "svl9jd",
       "title": "Google publishes exploit code threatening millions of Chromium users",
-      "summary": "Google publishes exploit code before patch, reported 29 months earlier, is fixed.",
+      "summary": "Google publishes exploit code before patch, reported 42 months earlier, is fixed.",
       "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2025/01/chromium_logo.jpeg",
       "source": "Ars Technica",
       "sourceUrl": "https://arstechnica.com/security/2026/05/google-publishes-exploit-code-threatening-millions-of-chromium-users/",
@@ -174,15 +291,6 @@
       "publishedAt": "2026-05-20T17:40:00.000Z"
     },
     {
-      "id": "cwkvq7",
-      "title": "OpenAI barrels toward IPO that may happen in September",
-      "summary": "A day after Elon Musk lost his lawsuit that threatened OpenAI's structure, leadership, and finances, OpenAI is reportedly back to prepping for its IPO.",
-      "imageUrl": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=800&q=80",
-      "source": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/05/20/openai-barrels-toward-ipo-that-may-happen-in-september/",
-      "publishedAt": "2026-05-20T17:24:24.000Z"
-    },
-    {
       "id": "j6xvt",
       "title": "You can now remix other people’s YouTube Shorts with AI",
       "summary": "Google announced a new YouTube Shorts Remix feature that lets users restyle clips or even insert themselves into other people's videos using Gemini Omni. Now, at the bottom of a YouTube Short, when you click the remix icon, you'll see an option to \"reimagine\" it. Here, you can prompt Gemini to turn a video into pixel art, an anime, or a found-footage horror film. But, beyond that, you can also alter the contents by, say, inflating heads, inserting background actors, dressing people in pirate…",
@@ -199,78 +307,6 @@
       "source": "The Verge",
       "sourceUrl": "https://www.theverge.com/tech/934585/google-ai-shopping-ads-search",
       "publishedAt": "2026-05-20T16:00:00.000Z"
-    },
-    {
-      "id": "oghnpu",
-      "title": "AI search startups are blowing up",
-      "summary": "AI search has quietly become one of the most attractive targets in consumer AI.",
-      "imageUrl": "https://images.unsplash.com/photo-1655720828018-edd2daec9349?w=800&q=80",
-      "source": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/05/20/ai-search-startups-are-blowing-up/",
-      "publishedAt": "2026-05-20T15:04:45.000Z"
-    },
-    {
-      "id": "md8jop",
-      "title": "Stability AI releases a new audio model that can create 6-minute songs",
-      "summary": "Stability Audio 3.0 small model can run on-device and generate two-minute long tracks.",
-      "imageUrl": "https://images.unsplash.com/photo-1655720828018-edd2daec9349?w=800&q=80",
-      "source": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/05/20/stability-ai-release-a-new-audio-model-that-can-create-six-minute-songs/",
-      "publishedAt": "2026-05-20T15:00:00.000Z"
-    },
-    {
-      "id": "wry5rb",
-      "title": "It’s make or break time for AI labeling systems",
-      "summary": "If robust AI labeling was in place when these swagged out images of Pope Francis went viral, it may have been easier for people to tell they were fake. | Image: via Reddit We're about to find out if the systems designed to make deepfakes and AI-generated content easy to spot are actually up to snuff. SynthID and C2PA Content Credentials, two distinct technologies for invisibly tagging image, video, and audio files with information about their origins, are getting their biggest expansion to date,…",
-      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/05/ai-label-swag-pope.png?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "source": "The Verge",
-      "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/934521/google-synthid-c2pa-content-credentials-ai-labelling-efforts",
-      "publishedAt": "2026-05-20T14:12:54.000Z"
-    },
-    {
-      "id": "dqwlbx",
-      "title": "Startup Battlefield 200 applications close in 1 week: Window to nominate and apply for the most promising startups closes May 27",
-      "summary": "Startup Battlefield 200 applications close May 27. Pitch at TechCrunch Disrupt, get investor access, win $100K, plus more scaling perks. Nominate an early-stage founder or submit your startup today.",
-      "imageUrl": "https://images.unsplash.com/photo-1531746790095-6c10a4031c5f?w=800&q=80",
-      "source": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/05/20/startup-battlefield-200-applications-close-in-1-week-window-to-nominate-and-apply-for-the-most-promising-startups-closes-may-27/",
-      "publishedAt": "2026-05-20T14:00:00.000Z"
-    },
-    {
-      "id": "a5r2b9",
-      "title": "NanoClaw creator turns down $20M buyout offer, raises $12M seed instead",
-      "summary": "NanoClaw was created as a secure alternative to OpenClaw to assist the Cohen brothers with their AI marketing firm that used agents to do much of the work. But instead of running directly on a computer, NanoClaw runs sandboxed in a container.",
-      "imageUrl": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=800&q=80",
-      "source": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/05/20/nanoclaw-creator-turns-down-20m-buyout-offer-raises-12m-seed-instead/",
-      "publishedAt": "2026-05-20T14:00:00.000Z"
-    },
-    {
-      "id": "u6w44n",
-      "title": "If Google can’t make AI agents useful, maybe no one can",
-      "summary": "For years, tech companies have promised AI will give everyone a capable personal assistant but delivered something more like a clueless intern. Over the past six months, that has started to change, thanks largely to the viral open-source AI agent platform OpenClaw. And among the top AI labs now chasing similar success, one seems particularly well-poised to make agents succeed at a large scale: Google. At I/O 2026, Google announced new AI agents for gathering information, planning events,…",
-      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/05/VRGSTKIO2026_v3.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "source": "The Verge",
-      "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/934478/if-google-cant-make-ai-agents-useful-maybe-no-one-can",
-      "publishedAt": "2026-05-20T13:24:22.000Z"
-    },
-    {
-      "id": "seh8qj",
-      "title": "Figma adds an AI assistant to its collaborative canvas",
-      "summary": "Figma says users can employ natural language text prompts to direct its new AI agent to generate new designs, edit existing ones, or automate tasks such as generating iterations of existing designs.",
-      "imageUrl": "https://images.unsplash.com/photo-1620712943543-bcc4688e7485?w=800&q=80",
-      "source": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/05/20/figma-adds-an-ai-assistant-to-its-collaborative-canvas/",
-      "publishedAt": "2026-05-20T13:00:00.000Z"
-    },
-    {
-      "id": "mx81pl",
-      "title": "The biggest data center ever is becoming a huge problem in Utah",
-      "summary": "Utah may host one of the world's most colossal data centers, despite stark warnings from experts and fierce public backlash. Earlier this month, commissioners in Box Elder County signed off on the Stratos Project: a 40,000-acre data center stretching across the county's Hansel Valley. It's supposed to establish American AI dominance, but potentially at the expense of environmental damage and a strain on already overtaxed water supplies. The Stratos Project, backed by Shark Tank investor and…",
-      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/05/STKP224_KEVIN_O_LEARY_CVIRGINIA_B.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "source": "The Verge",
-      "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/933687/utah-stratos-project-data-center-kevin-oleary",
-      "publishedAt": "2026-05-20T13:00:00.000Z"
     },
     {
       "id": "ovkvmd",
@@ -298,15 +334,6 @@
       "source": "Wired",
       "sourceUrl": "https://www.wired.com/story/commonwealth-short-story-prize-ai-allegations/",
       "publishedAt": "2026-05-19T22:53:04.000Z"
-    },
-    {
-      "id": "s5pr10",
-      "title": "Demis Hassabis said this might be the ‘foothills of the singularity.’ What?",
-      "summary": "Welcome to a \"profound moment for humanity,\" according to Google DeepMind CEO Demis Hassabis, who closed out Google I/O's keynote presentation on Tuesday, saying: Google's cutting-edge research and products will help unlock AGI's incredible potential for the benefit of the entire world. When we look back at this time, I think we will realize that we were standing in the foothills of the singularity. It will be a profound moment for humanity. This technology will be a force multiplier for human…",
-      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/05/Demis_GDM.OMNI_.AI-in-Real-World_3.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "source": "The Verge",
-      "sourceUrl": "https://www.theverge.com/tech/934260/google-io-ai-singularity-demis-hassabis",
-      "publishedAt": "2026-05-19T22:16:02.000Z"
     },
     {
       "id": "4md0e5",
@@ -417,24 +444,6 @@
       "publishedAt": "2026-05-19T12:00:00.000Z"
     },
     {
-      "id": "mv8e4j",
-      "title": "Here’s why Elon Musk lost his suit against OpenAI",
-      "summary": "On Monday, the jury in Musk v. Altman dealt Elon Musk a major blow—reaching a unanimous advisory verdict that he had sued OpenAI too late and, as a result, his claims are barred by the applicable statutes of limitations. US District Judge Yvonne Gonzalez Rogers immediately accepted it. Musk announced on X that he will…",
-      "imageUrl": "https://images.unsplash.com/photo-1526374965328-7f61d4dc18c5?w=800&q=80",
-      "source": "MIT Tech Review",
-      "sourceUrl": "https://www.technologyreview.com/2026/05/18/1137488/elon-musk-suit-openai-verdict/",
-      "publishedAt": "2026-05-19T00:53:10.000Z"
-    },
-    {
-      "id": "ko0fpt",
-      "title": "What to expect from Google this week",
-      "summary": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here. When Google opens its doors tomorrow for its annual developer conference, I/O, it will do so as a clear third place in the foundation model race. A year ago, at Google I/O…",
-      "imageUrl": "https://images.unsplash.com/photo-1485827404703-89b55fcc595e?w=800&q=80",
-      "source": "MIT Tech Review",
-      "sourceUrl": "https://www.technologyreview.com/2026/05/18/1137439/what-to-expect-from-google-this-week/",
-      "publishedAt": "2026-05-18T17:35:43.000Z"
-    },
-    {
       "id": "t172gt",
       "title": "Zero-day exploit completely defeats default Windows 11 BitLocker protections",
       "summary": "It's not entirely clear how the exploit works. Microsoft says it's investigating.",
@@ -532,15 +541,6 @@
       "source": "Ars Technica",
       "sourceUrl": "https://arstechnica.com/security/2026/04/as-the-most-severe-linux-threat-in-years-surfaces-the-world-scrambles/",
       "publishedAt": "2026-04-30T20:20:48.000Z"
-    },
-    {
-      "id": "3d320y",
-      "title": "Why a recent supply-chain attack singled out security firms Checkmarx and Bitwarden",
-      "summary": "Security firms find themselves especially exposed.",
-      "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2021/07/data-breach.jpeg",
-      "source": "Ars Technica",
-      "sourceUrl": "https://arstechnica.com/information-technology/2026/04/why-a-recent-supply-chain-attack-singled-out-security-firms-checkmarx-and-bitwarden/",
-      "publishedAt": "2026-04-29T11:00:24.000Z"
     }
   ]
 }
