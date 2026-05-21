@@ -1,7 +1,34 @@
 {
-  "fetchedAt": "2026-05-21T08:09:00.852Z",
+  "fetchedAt": "2026-05-21T11:48:47.267Z",
   "count": 60,
   "articles": [
+    {
+      "id": "74fvtb",
+      "title": "Climate tech companies are pivoting to critical minerals",
+      "summary": "We’re over a year into the second Trump administration here in the US, and support for climate causes is weak. But climate tech companies are finding ways to survive and even thrive in this new environment, including by focusing on potential benefits outside decarbonization. Suddenly, it feels like every climate tech company has a story…",
+      "imageUrl": "https://images.unsplash.com/photo-1550751827-4bd374c3f58b?w=800&q=80",
+      "source": "MIT Tech Review",
+      "sourceUrl": "https://www.technologyreview.com/2026/05/21/1137622/climate-tech-pivot-critical-minerals/",
+      "publishedAt": "2026-05-21T10:00:00.000Z"
+    },
+    {
+      "id": "dmh8m1",
+      "title": "Meta lays off thousands of employees to offset AI investments",
+      "summary": "Meta says it needs to “offset the other investments we're making.” | Image: Cath Virginia / The Verge, Getty Images Meta has reportedly notified thousands of employees that they've been laid off as the company attempts to compensate for its hefty AI investments. In an email from Meta management shared by Business Insider, impacted staffers were told that the planned headcount reduction was part of the company's \"continued effort to run the company more efficiently and to allow us to offset the…",
+      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/04/STKS507_FTCxMETA_ANTITRUST_CVIRGINIA_2_E.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "source": "The Verge",
+      "sourceUrl": "https://www.theverge.com/tech/935163/meta-layoffs-ai-investment-offset-memo",
+      "publishedAt": "2026-05-21T09:20:46.000Z"
+    },
+    {
+      "id": "9m7bvb",
+      "title": "Tech researchers are suing the Trump administration over the future of online safety",
+      "summary": "Since its earliest days back in office, the Trump administration has been going after researchers who study and try to counter hate speech, harassment, propaganda, and disinformation online. Now, some of those researchers are fighting back. Last week their lawsuit—which could have global repercussions for online safety and free speech—made its first appearance in court. …",
+      "imageUrl": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=800&q=80",
+      "source": "MIT Tech Review",
+      "sourceUrl": "https://www.technologyreview.com/2026/05/21/1137632/lawsuit-trump-administration-online-safety-coalition-for-independent-technology-research/",
+      "publishedAt": "2026-05-21T09:00:00.000Z"
+    },
     {
       "id": "v0nbyd",
       "title": "In SpaceX’s IPO, Elon Musk is a risk factor",
@@ -282,15 +309,6 @@
       "publishedAt": "2026-05-19T22:16:02.000Z"
     },
     {
-      "id": "c4o2x6",
-      "title": "The future of Google is a search box that does everything",
-      "summary": "Last year, after watching Google's I/O keynote, I wrote that it felt like Google's future was Google googling. After watching this year's I/O keynote on Tuesday, I don't think Google just wants to google for you - I think it wants to do everything for you, all from a search box. Take the trusty Google search bar itself, something Google is generally hesitant to update, which is getting some updates. It will \"dynamically\" expand as you type longer queries. It will offer \"AI-powered suggestions\"…",
-      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/05/lcimg-036c9a25-7169-4853-846e-94fd035c259f.jpeg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "source": "The Verge",
-      "sourceUrl": "https://www.theverge.com/tech/934217/google-search-box-does-everything-ai-io-2026",
-      "publishedAt": "2026-05-19T21:24:14.000Z"
-    },
-    {
       "id": "4md0e5",
       "title": "Roundtables: Inside the Musk v. Altman Trial",
       "summary": "Listen to the session or watch below Elon Musk lost his suit against OpenAI, in which he alleged CEO Sam Altman and President Greg Brockman had deceived him over the company’s non-profit status. Watch as AI reporter and attorney Michelle Kim, who covered the trial for MIT Technology Review, joins in conversation with editor in…",
@@ -415,24 +433,6 @@
       "source": "MIT Tech Review",
       "sourceUrl": "https://www.technologyreview.com/2026/05/18/1137439/what-to-expect-from-google-this-week/",
       "publishedAt": "2026-05-18T17:35:43.000Z"
-    },
-    {
-      "id": "n4jvsi",
-      "title": "The Signals That Matter – MIT Insider’s Panel",
-      "summary": "Read the full article from MIT Tech Review.",
-      "imageUrl": "https://images.unsplash.com/photo-1531746790095-6c10a4031c5f?w=800&q=80",
-      "source": "MIT Tech Review",
-      "sourceUrl": "https://www.technologyreview.com/2026/05/18/1137430/the-signals-that-matter-mit-insiders-panel/",
-      "publishedAt": "2026-05-18T16:57:44.000Z"
-    },
-    {
-      "id": "ctb1rv",
-      "title": "Inside Anduril and Meta’s quest to make smart glasses for warfare",
-      "summary": "The defense-tech company Anduril has shared new details about the augmented-reality headset for the military it’s prototyping with Meta, including a vision for ordering drone strikes via eye-tracking and voice commands. Quay Barnett, who leads the efforts as a vice president at Anduril following a career in the Army’s Special Operations Command, says his fundamental…",
-      "imageUrl": "https://images.unsplash.com/photo-1526374965328-7f61d4dc18c5?w=800&q=80",
-      "source": "MIT Tech Review",
-      "sourceUrl": "https://www.technologyreview.com/2026/05/18/1137412/inside-anduril-and-metas-quest-to-make-smart-glasses-for-warfare/",
-      "publishedAt": "2026-05-18T16:01:39.000Z"
     },
     {
       "id": "t172gt",
