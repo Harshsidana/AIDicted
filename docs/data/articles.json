@@ -1,7 +1,25 @@
 {
-  "fetchedAt": "2026-05-21T20:22:31.530Z",
+  "fetchedAt": "2026-05-21T22:02:34.452Z",
   "count": 60,
   "articles": [
+    {
+      "id": "rzd445",
+      "title": "Meta Is in Crisis, Google Search’s Makeover, and AI Gets Booed by Graduates",
+      "summary": "In this episode of Uncanny Valley, we unpack the mass layoffs at Meta, big announcements at Google I/O, and the latest backlash against AI.",
+      "imageUrl": "https://media.wired.com/photos/6a0e43f5fefe8abd82234107/master/pass/Uncanny-Valley-Meta-Layoffs-2235448475.jpg",
+      "source": "Wired",
+      "sourceUrl": "https://www.wired.com/story/uncanny-valley-podcast-meta-in-crisis-google-search-makeover-ai-booed-by-graduates/",
+      "publishedAt": "2026-05-21T20:44:53.000Z"
+    },
+    {
+      "id": "84alir",
+      "title": "Roundtables: Can AI Learn to Understand the World?",
+      "summary": "Listen to the session or watch below AI companies want to build systems that understand the external world and overcome the limitations of LLMs. Recent developments have brought world models to the forefront of the AI discussion. Watch a conversation with editor in chief Mat Honan, senior AI editor Will Douglas Heaven, and AI reporter…",
+      "imageUrl": "https://images.unsplash.com/photo-1676299081847-824916de030a?w=800&q=80",
+      "source": "MIT Tech Review",
+      "sourceUrl": "https://www.technologyreview.com/2026/05/21/1137756/roundtables-can-ai-learn-to-understand-the-world/",
+      "publishedAt": "2026-05-21T20:41:05.000Z"
+    },
     {
       "id": "olvt2i",
       "title": "All of the updates from Elon Musk and Sam Altman’s battle over OpenAI",
@@ -408,15 +426,6 @@
       "publishedAt": "2026-05-19T17:45:00.000Z"
     },
     {
-      "id": "vxcbx1",
-      "title": "Google Search Goes Agentic—and Doesn’t Need You Anymore",
-      "summary": "Vibe-coded results! Super widgets! Bots that never sleep! Google’s vision for the future of Search is hyper-personalized, automated, and extremely AI.",
-      "imageUrl": "https://media.wired.com/photos/6a0c9655fd46d3c726aa8789/master/pass/GettyImages-1946088999.jpg",
-      "source": "Wired",
-      "sourceUrl": "https://www.wired.com/story/google-search-goes-agentic-and-doesnt-need-you-anymore/",
-      "publishedAt": "2026-05-19T17:45:00.000Z"
-    },
-    {
       "id": "i30hcu",
       "title": "Google just redesigned the search box for the first time in 25 years — here’s why it matters more than you think.",
       "summary": "For a quarter century, the Google search box has been one of the most recognizable interfaces in computing: a thin white rectangle, a blinking cursor, a few typed words, and a list of blue links. On Tuesday, Google will formally retire that paradigm.At its annual I/O developer conference, Google announced a sweeping redesign of the search box itself — the literal text field where billions of queries begin every day — transforming it from a simple keyword input into a dynamic, AI-driven…",
@@ -433,15 +442,6 @@
       "source": "MIT Tech Review",
       "sourceUrl": "https://www.technologyreview.com/2026/05/19/1136925/understanding-the-modern-cybercrime-landscape/",
       "publishedAt": "2026-05-19T13:00:00.000Z"
-    },
-    {
-      "id": "6q55gd",
-      "title": "The Download: Musk v. Altman, smart glasses for warfare, and Google I/O",
-      "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. Here’s why Elon Musk lost his suit against OpenAI Elon Musk has lost his lawsuit against OpenAI, which centered on whether the company breached its founding contract as a nonprofit. A…",
-      "imageUrl": "https://images.unsplash.com/photo-1485827404703-89b55fcc595e?w=800&q=80",
-      "source": "MIT Tech Review",
-      "sourceUrl": "https://www.technologyreview.com/2026/05/19/1137505/the-download-musk-altman-trial-smart-glasses-warfare-google-i-o/",
-      "publishedAt": "2026-05-19T12:10:00.000Z"
     },
     {
       "id": "t172gt",
