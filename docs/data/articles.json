@@ -1,11 +1,20 @@
 {
-  "fetchedAt": "2026-05-22T22:13:39.740Z",
+  "fetchedAt": "2026-05-22T23:40:39.748Z",
   "count": 60,
   "articles": [
     {
+      "id": "u20glr",
+      "title": "AI is being used to resurrect the voices of dead pilots",
+      "summary": "People used AI on a spectrogram image of cockpit recordings to reconstruct them, forcing the NTSB to temporarily block access to its docket system.",
+      "imageUrl": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=800&q=80",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/05/22/ai-is-being-used-to-resurrect-the-voices-of-dead-pilots/",
+      "publishedAt": "2026-05-22T23:03:33.000Z"
+    },
+    {
       "id": "9qvfgs",
       "title": "Google goes for the glitter with disco-ball icons: ‘Are y’all sure you still want this?’",
-      "summary": "You can now disco ball-ify your entire Pixel homescreen, says Google.",
+      "summary": "You can now disco ball-ify your entire Pixel home screen, says Google.",
       "imageUrl": "https://images.unsplash.com/photo-1550751827-4bd374c3f58b?w=800&q=80",
       "source": "TechCrunch",
       "sourceUrl": "https://techcrunch.com/2026/05/22/google-goes-for-the-glitter-with-disco-ball-icons-are-yall-sure-you-still-want-this/",
@@ -15,7 +24,7 @@
       "id": "2g4uh6",
       "title": "How VCs and founders use inflated ‘ARR’ to crown AI startups",
       "summary": "Some AI startups are stretching traditional revenue metrics when talking about progress publicly. And their investors are fully aware.",
-      "imageUrl": "https://images.unsplash.com/photo-1531746790095-6c10a4031c5f?w=800&q=80",
+      "imageUrl": "https://images.unsplash.com/photo-1655720828018-edd2daec9349?w=800&q=80",
       "source": "TechCrunch",
       "sourceUrl": "https://techcrunch.com/2026/05/22/how-vcs-and-founders-use-inflated-arr-to-kingmake-ai-startups/",
       "publishedAt": "2026-05-22T20:40:48.000Z"
@@ -334,15 +343,6 @@
       "source": "TechCrunch",
       "sourceUrl": "https://techcrunch.com/2026/05/21/hark-raises-700m-series-a-for-its-secretive-universal-ai-interface/",
       "publishedAt": "2026-05-21T14:00:00.000Z"
-    },
-    {
-      "id": "v1sn3j",
-      "title": "Google is pitching an AI agent ecosystem to consumers who may not buy it",
-      "summary": "One of the most promising introductions at Google’s I/O developer conference on Tuesday was a new way for consumers to use the web: AI agents. Unfortunately, it was also the most confusing.",
-      "imageUrl": "https://images.unsplash.com/photo-1526374965328-7f61d4dc18c5?w=800&q=80",
-      "source": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/05/21/google-is-pitching-an-ai-agent-ecosystem-to-consumers-who-may-not-buy-it/",
-      "publishedAt": "2026-05-21T13:52:23.000Z"
     },
     {
       "id": "fuqb27",
