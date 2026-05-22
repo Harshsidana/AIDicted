@@ -1,15 +1,33 @@
 {
-  "fetchedAt": "2026-05-22T11:13:03.841Z",
+  "fetchedAt": "2026-05-22T13:55:18.212Z",
   "count": 60,
   "articles": [
     {
+      "id": "7so3vm",
+      "title": "The Download: coding’s future, the ‘Steroid Olympics,’ and AI-driven science",
+      "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. Anthropic’s Code with Claude showed off coding’s future—whether you like it or not At Anthropic’s developer event in London this week, Code with Claude, attendees were asked if they’d shipped code…",
+      "imageUrl": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=800&q=80",
+      "source": "MIT Tech Review",
+      "sourceUrl": "https://www.technologyreview.com/2026/05/22/1137845/the-download-coding-future-steroid-olympics-ai-science/",
+      "publishedAt": "2026-05-22T12:10:00.000Z"
+    },
+    {
       "id": "bd5fvc",
       "title": "Samsung’s memory chip employees negotiated $340,000 bonuses this year",
-      "summary": "48,000 Samsung workers had threatened to strike unless bonus caps were lifted. | Photo: Jung Yeon-je / AFP via Getty Images Details have emerged about a tentative deal struck between Samsung and semiconductor employees who had threatened to strike. The deal reportedly makes some workers eligible for average annual bonuses of $340,000. The proposed 18-day strike had hinged on Samsung's bonus cap for employees in the semiconductor division, and followed a substantial rise in the possible bonuses…",
+      "summary": "48,000 Samsung workers had threatened to strike unless bonus caps were lifted. | Photo: Jung Yeon-je / AFP via Getty Images Details have emerged about a tentative deal struck between Samsung and semiconductor employees who had threatened to strike. The deal reportedly makes some workers eligible for average annual bonuses of $340,000. The proposed 18-day strike had hinged on Samsung's bonus cap for employees in the semiconductor division and followed a substantial rise in the possible bonuses…",
       "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/05/gettyimages-2272013055.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
       "source": "The Verge",
       "sourceUrl": "https://www.theverge.com/tech/936002/samsung-memory-chip-employees-deal-strike-bonus",
       "publishedAt": "2026-05-22T11:05:25.000Z"
+    },
+    {
+      "id": "h1k54n",
+      "title": "A hacker group is poisoning open source code at an unprecedented scale",
+      "summary": "GitHub is just the latest victim of TeamPCP, a gang that has carried out a spree of software supply chain attacks.",
+      "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2026/05/GettyImages-2270725355-1152x648.jpg",
+      "source": "Ars Technica",
+      "sourceUrl": "https://arstechnica.com/information-technology/2026/05/a-hacker-group-is-poisoning-open-source-code-at-an-unprecedented-scale/",
+      "publishedAt": "2026-05-22T10:30:14.000Z"
     },
     {
       "id": "tpmlf5",
@@ -390,15 +408,6 @@
       "publishedAt": "2026-05-20T13:00:00.000Z"
     },
     {
-      "id": "9vcozn",
-      "title": "The Download: fully artificial chicken eggs and why Musk lost",
-      "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. Colossal Biosciences is growing chickens in a 3D-printed artificial eggshell The baby chicks were shifting and starting to pip—or trying to hatch. But not from an egg. Instead, these chickens were…",
-      "imageUrl": "https://images.unsplash.com/photo-1531746790095-6c10a4031c5f?w=800&q=80",
-      "source": "MIT Tech Review",
-      "sourceUrl": "https://www.technologyreview.com/2026/05/20/1137579/the-download-colossal-biosciences-egg-musk-altman-trial/",
-      "publishedAt": "2026-05-20T12:10:00.000Z"
-    },
-    {
       "id": "qxwajl",
       "title": "Literary Prizewinners Are Facing AI Allegations. It Feels Like the New Normal",
       "summary": "Three of five regional winners of the prestigious Commonwealth Short Story Prize are suspected of relying on chatbots. They’re certainly not alone.",
@@ -532,15 +541,6 @@
       "source": "Ars Technica",
       "sourceUrl": "https://arstechnica.com/security/2026/05/ubuntu-infrastructure-has-been-down-for-more-than-a-day/",
       "publishedAt": "2026-05-01T19:12:26.000Z"
-    },
-    {
-      "id": "h5ca51",
-      "title": "The most severe Linux threat to surface in years catches the world flat-footed",
-      "summary": "CopyFail threatens multi-tenant servers, CI/CD work flows, Kubernetes containers, and more.",
-      "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2023/09/code-vulnerability-security-1000x648.jpg",
-      "source": "Ars Technica",
-      "sourceUrl": "https://arstechnica.com/security/2026/04/as-the-most-severe-linux-threat-in-years-surfaces-the-world-scrambles/",
-      "publishedAt": "2026-04-30T20:20:48.000Z"
     }
   ]
 }
