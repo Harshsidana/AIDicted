@@ -1,7 +1,25 @@
 {
-  "fetchedAt": "2026-05-22T16:31:20.640Z",
+  "fetchedAt": "2026-05-22T18:57:39.821Z",
   "count": 60,
   "articles": [
+    {
+      "id": "yndoaw",
+      "title": "Elon Musk can’t hear you over the sound of his $1.75 trillion IPO",
+      "summary": "The SpaceX S-1 is finally here, and the story it tells goes way further than rockets. The filing runs to 36 pages of risk factors alone, and the numbers inside match the ambition: a $28 trillion total addressable market, a pay package tied to establishing a Mars colony, and a valuation target that would make it the largest IPO in American […]",
+      "imageUrl": "https://images.unsplash.com/photo-1485827404703-89b55fcc595e?w=800&q=80",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/podcast/elon-musk-cant-hear-you-over-the-sound-of-his-1-75-trillion-ipo/",
+      "publishedAt": "2026-05-22T18:17:07.000Z"
+    },
+    {
+      "id": "sf8vor",
+      "title": "Elon, stop trying to make Grok happen",
+      "summary": "There is a harsh truth about Elon Musk's \"truth-seeking\" AI chatbot Grok: It's not very good, and not many people are using it. That's the takeaway of a new Reuters report, which found that Grok barely appears in federal records of how the US government used AI last year. It's not the only sign xAI's signature chatbot is in trouble, even as Musk puts it at the heart of what could be the biggest IPO in history. Reuters reviewed more than 400 examples of government AI use where specific vendors…",
+      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/05/VRG_Illo_STK022_K_Radtke_Musk_Smiles.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "source": "The Verge",
+      "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/936219/elon-stop-trying-to-make-grok-happen",
+      "publishedAt": "2026-05-22T17:17:06.000Z"
+    },
     {
       "id": "adhp4r",
       "title": "You can no longer Google the word ‘disregard’",
@@ -39,6 +57,15 @@
       "publishedAt": "2026-05-22T15:00:00.000Z"
     },
     {
+      "id": "jryrgi",
+      "title": "SpaceX files to go public, and the math requires a little faith",
+      "summary": "The SpaceX S-1 is finally here, and the story it tells goes way further than rockets. The filing runs to 36 pages of risk factors alone, and the numbers inside match the ambition: a $28 trillion total addressable market, a pay package tied to establishing a Mars colony, and a valuation target that would make it the largest IPO in American […]",
+      "imageUrl": "https://images.unsplash.com/photo-1676299081847-824916de030a?w=800&q=80",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/video/spacex-files-to-go-public-and-the-math-requires-a-little-faith/",
+      "publishedAt": "2026-05-22T14:30:00.000Z"
+    },
+    {
       "id": "o2u32j",
       "title": "The literary world isn’t prepared for AI",
       "summary": "Since 2012, the British literary magazine Granta has published the regional winners of the annual Commonwealth Short Story Prize. This year, however, there was something off about one of the selections for the prestigious award: It appears to have been written by AI. Jamir Nazir's \"The Serpent in the Grove\" has many of the hallmarks of LLM-generated prose - mixed metaphors, anaphora, lists of threes. (I'm aware this, too, is a list of threes, and I promise I wrote this post myself, unassisted,…",
@@ -48,8 +75,8 @@
       "publishedAt": "2026-05-22T14:30:00.000Z"
     },
     {
-      "id": "o0uwtd",
-      "title": "Why would you disrespect your favorite artist with an AI remix?",
+      "id": "ha52n3",
+      "title": "Spotify says its AI remix tool is for superfans, but I’m not convinced",
       "summary": "Prompt something better than Beyoncé’s “Break My Soul,” I dare you. | Image: Cath Virginia / The Verge | Photo from Getty Images AI covers and remixes of songs are already a blight on the internet. Spotify, YouTube, TikTok, and Instagram are awash in flat reggae versions of \"Smells Like Teen Spirit,\" dinky country renditions of The Weeknd, and monotonous Motown reimaginings of AC/DC. Now, a new tool from Spotify will make them even easier to generate and share. Spotify and Universal Music Group…",
       "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/04/STK467_AI_MUSIC_CVirginia_A.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
       "source": "The Verge",
@@ -228,15 +255,6 @@
       "publishedAt": "2026-05-21T15:47:29.000Z"
     },
     {
-      "id": "izl1xv",
-      "title": "AI video is moving beyond clip slop",
-      "summary": "A still from Innovative Dreams, a new production company by Luma and Wonder Project | Image: Luma/X This is Lowpass by Janko Roettgers, a newsletter on the ever-evolving intersection of tech and entertainment, syndicated just for The Verge subscribers once a week. Hollywood is cooked - or so a growing number of people on social media would like you to believe. Their purported proof: AI-generated clips of Daniel Craig riding a Vespa through an Italian city, Godzilla fighting King Kong, or The…",
-      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/05/Screenshot-2026-05-21-at-10.55.11AM.png?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "source": "The Verge",
-      "sourceUrl": "https://www.theverge.com/column/935310/ai-video-luma-hollywood",
-      "publishedAt": "2026-05-21T15:30:00.000Z"
-    },
-    {
       "id": "thmyrj",
       "title": "Spotify adds AI-powered Q&A and briefing generation features to podcasts",
       "summary": "Spotify will let you generate daily or weekly briefs based on your prompts",
@@ -363,15 +381,6 @@
       "publishedAt": "2026-05-21T00:28:31.000Z"
     },
     {
-      "id": "6imcdp",
-      "title": "Anthropic says it’s about to have its first profitable quarter",
-      "summary": "Anthropic has told its investors that it will more than double revenue to around $10.9 billion in its second quarter.",
-      "imageUrl": "https://images.unsplash.com/photo-1550751827-4bd374c3f58b?w=800&q=80",
-      "source": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/05/20/anthropic-says-its-about-to-have-its-first-profitable-quarter/",
-      "publishedAt": "2026-05-21T00:21:21.000Z"
-    },
-    {
       "id": "md2uok",
       "title": "SpaceX Is Spending $2.8 Billion to Buy Gas Turbines for Its AI Data Centers",
       "summary": "The investment comes as Elon Musk’s AI unit faces complaints about the carbon-emitting units and looks to become a big player in cloud computing.",
@@ -379,15 +388,6 @@
       "source": "Wired",
       "sourceUrl": "https://www.wired.com/story/elon-musk-spacex-spending-gas-turbines-grok/",
       "publishedAt": "2026-05-20T23:30:06.000Z"
-    },
-    {
-      "id": "cdxq3r",
-      "title": "Clouted wants to take the guesswork out of making short videos go viral",
-      "summary": "The video clipping startup raised a $7 million seed round led by Slow Ventures.",
-      "imageUrl": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=800&q=80",
-      "source": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/05/20/clouted-wants-to-take-the-guesswork-out-of-making-short-videos-go-viral/",
-      "publishedAt": "2026-05-20T22:30:45.000Z"
     },
     {
       "id": "svl9jd",
