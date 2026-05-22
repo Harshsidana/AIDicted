@@ -1,15 +1,33 @@
 {
-  "fetchedAt": "2026-05-22T20:44:18.209Z",
+  "fetchedAt": "2026-05-22T22:13:39.740Z",
   "count": 60,
   "articles": [
     {
-      "id": "ya4sg",
-      "title": "How VCs and founders use inflated ‘ARR’ to kingmake AI startups",
+      "id": "9qvfgs",
+      "title": "Google goes for the glitter with disco-ball icons: ‘Are y’all sure you still want this?’",
+      "summary": "You can now disco ball-ify your entire Pixel homescreen, says Google.",
+      "imageUrl": "https://images.unsplash.com/photo-1550751827-4bd374c3f58b?w=800&q=80",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/05/22/google-goes-for-the-glitter-with-disco-ball-icons-are-yall-sure-you-still-want-this/",
+      "publishedAt": "2026-05-22T21:02:36.000Z"
+    },
+    {
+      "id": "2g4uh6",
+      "title": "How VCs and founders use inflated ‘ARR’ to crown AI startups",
       "summary": "Some AI startups are stretching traditional revenue metrics when talking about progress publicly. And their investors are fully aware.",
-      "imageUrl": "https://images.unsplash.com/photo-1655720828018-edd2daec9349?w=800&q=80",
+      "imageUrl": "https://images.unsplash.com/photo-1531746790095-6c10a4031c5f?w=800&q=80",
       "source": "TechCrunch",
       "sourceUrl": "https://techcrunch.com/2026/05/22/how-vcs-and-founders-use-inflated-arr-to-kingmake-ai-startups/",
       "publishedAt": "2026-05-22T20:40:48.000Z"
+    },
+    {
+      "id": "pj680g",
+      "title": "Google’s AI search is so broken it can ‘disregard’ what you’re looking for",
+      "summary": "Google's AI Overviews are running into an interesting problem right now. Earlier on Friday, if you searched for the term \"disregard,\" the AI Overview section would include a response like what you'd see from a more traditional AI chatbot instead of the typical AI summary, as spotted on X. As you can see in the image at the top of this story, I got an AI Overview response that said, \"Got it. If you need anything else or have a new question later, just let me know!\" As of Friday afternoon,…",
+      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/05/Screenshot-2026-05-22-at-8.44.28AM.png?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "source": "The Verge",
+      "sourceUrl": "https://www.theverge.com/tech/936176/google-ai-overviews-search-disregard",
+      "publishedAt": "2026-05-22T20:39:54.000Z"
     },
     {
       "id": "yndoaw",
@@ -46,15 +64,6 @@
       "source": "TechCrunch",
       "sourceUrl": "https://techcrunch.com/2026/05/22/you-can-no-longer-google-the-word-disregard/",
       "publishedAt": "2026-05-22T16:16:48.000Z"
-    },
-    {
-      "id": "pj680g",
-      "title": "Google’s AI search is so broken it can ‘disregard’ what you’re looking for",
-      "summary": "Google's AI Overviews are running into an interesting problem right now. As of this writing, if you search for the term \"disregard,\" instead of showing the usual AI-generated summary of search results, the AI Overview section instead includes a response like what you'd see from a more traditional AI chatbot, as called out by a post on X. To one Verge colleague searching \"disregard\": Got it! Let me know if you need help with anything else. Nothing else followed in the AI Overview portion of the…",
-      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/05/Screenshot-2026-05-22-at-8.44.28AM.png?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "source": "The Verge",
-      "sourceUrl": "https://www.theverge.com/tech/936176/google-ai-overviews-search-disregard",
-      "publishedAt": "2026-05-22T16:01:17.000Z"
     },
     {
       "id": "sxytiv",
@@ -343,15 +352,6 @@
       "source": "Ars Technica",
       "sourceUrl": "https://arstechnica.com/gadgets/2026/05/us-government-takes-2-billion-equity-stake-in-nine-quantum-computing-firms/",
       "publishedAt": "2026-05-21T13:48:38.000Z"
-    },
-    {
-      "id": "vfe9nj",
-      "title": "With aluminum prices up 20%, recycling startups bet on AI to cash in",
-      "summary": "Recycling startups are using AI to improve the recovery of critical minerals like aluminum, aiming to build a massive source of the metal.",
-      "imageUrl": "https://images.unsplash.com/photo-1485827404703-89b55fcc595e?w=800&q=80",
-      "source": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/05/21/with-aluminum-prices-up-20-recycling-startups-bet-on-ai-to-cash-in/",
-      "publishedAt": "2026-05-21T13:38:42.000Z"
     },
     {
       "id": "34texq",
