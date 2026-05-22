@@ -1,7 +1,16 @@
 {
-  "fetchedAt": "2026-05-21T23:35:57.076Z",
+  "fetchedAt": "2026-05-22T04:20:07.696Z",
   "count": 60,
   "articles": [
+    {
+      "id": "iempnz",
+      "title": "Can OpenAI’s ‘Master of Disaster’ Fix AI’s Reputation Crisis?",
+      "summary": "Global affairs chief Chris Lehane wants to tone down the debate over AI’s societal impacts—and get states to pass laws that won’t derail OpenAI’s meteoric rise.",
+      "imageUrl": "https://media.wired.com/photos/6a0f679a40b54a02fd444453/master/pass/Model-Behavior-Can-OpenAI-Global-Affairs-Chief-Fix-AI-Reputation-Problem-Business.jpg",
+      "source": "Wired",
+      "sourceUrl": "https://www.wired.com/story/openai-chris-lehane-global-affairs-pr/",
+      "publishedAt": "2026-05-22T00:04:25.000Z"
+    },
     {
       "id": "rzd445",
       "title": "Meta Is in Crisis, Google Search’s Makeover, and AI Gets Booed by Graduates",
@@ -414,15 +423,6 @@
       "imageUrl": "https://media.wired.com/photos/6a0c628c807dd3ba7634a39a/master/pass/GettyImages-2273112148.jpg",
       "source": "Wired",
       "sourceUrl": "https://www.wired.com/story/demis-hassabis-ai-layoffs-deepmind-google-io/",
-      "publishedAt": "2026-05-19T17:45:00.000Z"
-    },
-    {
-      "id": "cn2w15",
-      "title": "Google Makes It Easy to Deepfake Yourself",
-      "summary": "Google’s overhaul of its AI creation software, Flow, includes a new video model and a tool for generating selfie videos called avatars.",
-      "imageUrl": "https://media.wired.com/photos/6a0c9f6ca05e7a85645ca0a2/master/pass/Screenshot%202026-05-19%20at%201.33.39%E2%80%AFPM.png",
-      "source": "Wired",
-      "sourceUrl": "https://www.wired.com/story/google-makes-it-easy-to-make-a-deepfake-of-yourself/",
       "publishedAt": "2026-05-19T17:45:00.000Z"
     },
     {
