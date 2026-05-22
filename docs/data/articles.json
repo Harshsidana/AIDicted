@@ -1,7 +1,61 @@
 {
-  "fetchedAt": "2026-05-22T13:55:18.212Z",
+  "fetchedAt": "2026-05-22T16:31:20.640Z",
   "count": 60,
   "articles": [
+    {
+      "id": "adhp4r",
+      "title": "You can no longer Google the word ‘disregard’",
+      "summary": "After Google Search's AI update, the word \"disregard\" now effectively breaks the search interface.",
+      "imageUrl": "https://images.unsplash.com/photo-1485827404703-89b55fcc595e?w=800&q=80",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/05/22/you-can-no-longer-google-the-word-disregard/",
+      "publishedAt": "2026-05-22T16:16:48.000Z"
+    },
+    {
+      "id": "pj680g",
+      "title": "Google’s AI search is so broken it can ‘disregard’ what you’re looking for",
+      "summary": "Google's AI Overviews are running into an interesting problem right now. As of this writing, if you search for the term \"disregard,\" instead of showing the usual AI-generated summary of search results, the AI Overview section instead includes a response like what you'd see from a more traditional AI chatbot, as called out by a post on X. To one Verge colleague searching \"disregard\": Got it! Let me know if you need help with anything else. Nothing else followed in the AI Overview portion of the…",
+      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/05/Screenshot-2026-05-22-at-8.44.28AM.png?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "source": "The Verge",
+      "sourceUrl": "https://www.theverge.com/tech/936176/google-ai-overviews-search-disregard",
+      "publishedAt": "2026-05-22T16:01:17.000Z"
+    },
+    {
+      "id": "sxytiv",
+      "title": "We tried Google’s AI glasses and they’re almost there",
+      "summary": "Google demoed prototype Android XR glasses that overlay Gemini-powered translation, navigation, and other information directly into your field of view.",
+      "imageUrl": "https://images.unsplash.com/photo-1526374965328-7f61d4dc18c5?w=800&q=80",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/05/22/we-tried-googles-ai-glasses-and-theyre-almost-there/",
+      "publishedAt": "2026-05-22T15:37:15.000Z"
+    },
+    {
+      "id": "ljltqg",
+      "title": "Even If You Hate AI, You Will Use Google AI Search",
+      "summary": "The search giant’s AI-crafted answers are so convenient, you’ll be sucked in—to the detriment of the web and the artists and thinkers behind it.",
+      "imageUrl": "https://media.wired.com/photos/6a0f3c884bfa87f10e0f1aa1/master/pass/Backchannel-Google-Search-Business-2276578156.jpg",
+      "source": "Wired",
+      "sourceUrl": "https://www.wired.com/story/even-if-you-hate-ai-you-will-use-google-ai-search/",
+      "publishedAt": "2026-05-22T15:00:00.000Z"
+    },
+    {
+      "id": "o2u32j",
+      "title": "The literary world isn’t prepared for AI",
+      "summary": "Since 2012, the British literary magazine Granta has published the regional winners of the annual Commonwealth Short Story Prize. This year, however, there was something off about one of the selections for the prestigious award: It appears to have been written by AI. Jamir Nazir's \"The Serpent in the Grove\" has many of the hallmarks of LLM-generated prose - mixed metaphors, anaphora, lists of threes. (I'm aware this, too, is a list of threes, and I promise I wrote this post myself, unassisted,…",
+      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/04/257664_7_writing_apps_CVirginia.gif?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "source": "The Verge",
+      "sourceUrl": "https://www.theverge.com/tech/936073/ai-writing-granta-commonwealth-prize",
+      "publishedAt": "2026-05-22T14:30:00.000Z"
+    },
+    {
+      "id": "o0uwtd",
+      "title": "Why would you disrespect your favorite artist with an AI remix?",
+      "summary": "Prompt something better than Beyoncé’s “Break My Soul,” I dare you. | Image: Cath Virginia / The Verge | Photo from Getty Images AI covers and remixes of songs are already a blight on the internet. Spotify, YouTube, TikTok, and Instagram are awash in flat reggae versions of \"Smells Like Teen Spirit,\" dinky country renditions of The Weeknd, and monotonous Motown reimaginings of AC/DC. Now, a new tool from Spotify will make them even easier to generate and share. Spotify and Universal Music Group…",
+      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/04/STK467_AI_MUSIC_CVirginia_A.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "source": "The Verge",
+      "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/936072/spotify-umg-ai-music-remix-cover-superfan",
+      "publishedAt": "2026-05-22T14:20:00.000Z"
+    },
     {
       "id": "7so3vm",
       "title": "The Download: coding’s future, the ‘Steroid Olympics,’ and AI-driven science",
@@ -237,15 +291,6 @@
       "publishedAt": "2026-05-21T14:00:00.000Z"
     },
     {
-      "id": "15f9fh",
-      "title": "Musk v. Altman: Much ado about nothing",
-      "summary": "Today I’m talking with Liz Lopatto, who spent the last month covering the Musk v. Altman trial in all its chaos. You’ll hear her describe the courthouse as a “zoo” and explain that there were protests of one kind or another happening outside every day. Both Elon Musk and Sam Altman are big personalities, and people have a lot of feelings about both of them and the AI industry. And in the end… nothing happened! The jury found that Elon had filed his lawsuit after the statute of limitations had…",
-      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/05/VRG_DCD_MuskvAltman.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "source": "The Verge",
-      "sourceUrl": "https://www.theverge.com/podcast/934869/elon-musk-sam-altman-openai-suit-loss-pointless",
-      "publishedAt": "2026-05-21T14:00:00.000Z"
-    },
-    {
       "id": "v1sn3j",
       "title": "Google is pitching an AI agent ecosystem to consumers who may not buy it",
       "summary": "One of the most promising introductions at Google’s I/O developer conference on Tuesday was a new way for consumers to use the web: AI agents. Unfortunately, it was also the most confusing.",
@@ -271,24 +316,6 @@
       "source": "TechCrunch",
       "sourceUrl": "https://techcrunch.com/2026/05/21/with-aluminum-prices-up-20-recycling-startups-bet-on-ai-to-cash-in/",
       "publishedAt": "2026-05-21T13:38:42.000Z"
-    },
-    {
-      "id": "w916po",
-      "title": "Anthropic is paying $15 billion a year for access to Elon Musk’s data centers",
-      "summary": "Earlier this month, SpaceX and Anthropic announced a new compute partnership that provides access to the rocket company's Colossus data centers in Memphis, TN. Now, with the release of SpaceX's IPO filing, we have more details about that deal, including how much Anthropic is paying to Elon Musk's company. In its S-1 filing, SpaceX said that Anthropic agreed to pay $1.25 billion per month through May 2029 for access to SpaceX's AI training centers at Colossus I and Colossus II. That's $15 billion…",
-      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/04/STK269_ANTHROPIC_2_D.webp?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "source": "The Verge",
-      "sourceUrl": "https://www.theverge.com/science/935229/spacex-anthropic-ipo-ai-capacity-deal-colossus",
-      "publishedAt": "2026-05-21T13:35:52.000Z"
-    },
-    {
-      "id": "wl31s1",
-      "title": "I can’t believe how fast Google vibe coded my first Android app",
-      "summary": "That’s my own Android app. Bad, yet impressive. | Photo by Sean Hollister / The Verge Yesterday, I built my first Android app. Then, I made two more - three in one afternoon. For one, I literally typed 148 words into my web browser and walked away. Ten minutes later, I had an entire new app on my actual Android phone. I did have to prep that phone by enabling a USB debugging mode and plugging it into my PC, but as advertised, Google's AI Studio did literally everything else for me. I typed in…",
-      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/05/verge-mood-gemini-google-ai-studio.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "source": "The Verge",
-      "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/935056/google-vibe-coding-first-android-app-gemini-ai-studio",
-      "publishedAt": "2026-05-21T13:00:00.000Z"
     },
     {
       "id": "34texq",
@@ -363,24 +390,6 @@
       "publishedAt": "2026-05-20T22:30:45.000Z"
     },
     {
-      "id": "i6hjlw",
-      "title": "xAI burned $6.4B last year — SpaceX’s IPO filing shows why the spending is far from over",
-      "summary": "SpaceX's IPO filing reveals xAI lost $6.4 billion in 2025 while planning a massive Grok expansion — offering the first public look at Elon Musk's AI financials and more details about his ambitions.",
-      "imageUrl": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=800&q=80",
-      "source": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/05/20/xai-burned-6-4b-last-year-spacexs-ipo-filing-shows-why-the-spending-is-far-from-over/",
-      "publishedAt": "2026-05-20T22:26:08.000Z"
-    },
-    {
-      "id": "9vtgq1",
-      "title": "Nvidia posts another record quarter, reveals $43B of holdings in startups",
-      "summary": "Nvidia announced another record revenue figure after market close on Wednesday, but forecasted that revenue growth would slow in the following quarter.",
-      "imageUrl": "https://images.unsplash.com/photo-1620712943543-bcc4688e7485?w=800&q=80",
-      "source": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/05/20/nvidia-posts-another-record-quarter-reveals-43-billion-of-holdings-in-startups/",
-      "publishedAt": "2026-05-20T22:03:51.000Z"
-    },
-    {
       "id": "svl9jd",
       "title": "Google publishes exploit code threatening millions of Chromium users",
       "summary": "Google publishes exploit code before patch, reported 42 months earlier, is fixed.",
@@ -424,15 +433,6 @@
       "source": "Wired",
       "sourceUrl": "https://www.wired.com/story/everything-google-announced-at-google-io-2026/",
       "publishedAt": "2026-05-19T20:00:48.000Z"
-    },
-    {
-      "id": "lkoikl",
-      "title": "Meta Employees Are Scrambling to Use Up Benefits Ahead of Layoffs",
-      "summary": "On the eve of about 8,000 jobs being cut, employees are cashing in on headphone stipends and other perks while they still can.",
-      "imageUrl": "https://media.wired.com/photos/6a0cb2b791b600abc11af14d/master/pass/Meta-Employees-Scrambling-to-Use-Up-Benefits-Ahead-of-Layoffs-Business-2272777092.jpg",
-      "source": "Wired",
-      "sourceUrl": "https://www.wired.com/story/meta-employees-scramble-benefits-layoffs-ai/",
-      "publishedAt": "2026-05-19T19:00:46.000Z"
     },
     {
       "id": "ysk5mg",
