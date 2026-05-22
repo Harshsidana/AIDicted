@@ -1,7 +1,16 @@
 {
-  "fetchedAt": "2026-05-22T18:57:39.821Z",
+  "fetchedAt": "2026-05-22T20:44:18.209Z",
   "count": 60,
   "articles": [
+    {
+      "id": "ya4sg",
+      "title": "How VCs and founders use inflated ‘ARR’ to kingmake AI startups",
+      "summary": "Some AI startups are stretching traditional revenue metrics when talking about progress publicly. And their investors are fully aware.",
+      "imageUrl": "https://images.unsplash.com/photo-1655720828018-edd2daec9349?w=800&q=80",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/05/22/how-vcs-and-founders-use-inflated-arr-to-kingmake-ai-startups/",
+      "publishedAt": "2026-05-22T20:40:48.000Z"
+    },
     {
       "id": "yndoaw",
       "title": "Elon Musk can’t hear you over the sound of his $1.75 trillion IPO",
@@ -10,6 +19,15 @@
       "source": "TechCrunch",
       "sourceUrl": "https://techcrunch.com/podcast/elon-musk-cant-hear-you-over-the-sound-of-his-1-75-trillion-ipo/",
       "publishedAt": "2026-05-22T18:17:07.000Z"
+    },
+    {
+      "id": "op1zyd",
+      "title": "Texas AG sues Meta over claims that WhatsApp doesn't provide end-to-end encryption",
+      "summary": "Critics note a lack of factual support in lawsuit filed by US Senate candidate.",
+      "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2025/10/whatsapp-1024x648.jpg",
+      "source": "Ars Technica",
+      "sourceUrl": "https://arstechnica.com/security/2026/05/texas-ag-sues-meta-over-claims-that-whatsapp-doesnt-provide-end-to-end-encryption/",
+      "publishedAt": "2026-05-22T18:13:05.000Z"
     },
     {
       "id": "sf8vor",
@@ -372,15 +390,6 @@
       "publishedAt": "2026-05-21T00:43:13.000Z"
     },
     {
-      "id": "y4vhsk",
-      "title": "Jensen Huang says he’s found a ‘brand new’ $200B market for Nvidia",
-      "summary": "The next big thing for Nvidia will be CPUs for AI agents, $200 billion worth, CEO Jensen Huang predicts.",
-      "imageUrl": "https://images.unsplash.com/photo-1635070041078-e363dbe005cb?w=800&q=80",
-      "source": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/05/20/jensen-huang-says-hes-found-a-brand-new-200b-market-for-nvidia/",
-      "publishedAt": "2026-05-21T00:28:31.000Z"
-    },
-    {
       "id": "md2uok",
       "title": "SpaceX Is Spending $2.8 Billion to Buy Gas Turbines for Its AI Data Centers",
       "summary": "The investment comes as Elon Musk’s AI unit faces complaints about the carbon-emitting units and looks to become a big player in cloud computing.",
@@ -532,15 +541,6 @@
       "source": "Ars Technica",
       "sourceUrl": "https://arstechnica.com/tech-policy/2026/05/gamestop-offers-56-billion-for-ebay-struggles-to-explain-how-itll-pay-for-it/",
       "publishedAt": "2026-05-04T17:57:46.000Z"
-    },
-    {
-      "id": "2o6v9w",
-      "title": "Ubuntu infrastructure has been down for more than a day",
-      "summary": "The outage has hampered communication concerning a critical vulnerability that gives root.",
-      "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2022/11/error-503-1000x648.jpg",
-      "source": "Ars Technica",
-      "sourceUrl": "https://arstechnica.com/security/2026/05/ubuntu-infrastructure-has-been-down-for-more-than-a-day/",
-      "publishedAt": "2026-05-01T19:12:26.000Z"
     }
   ]
 }
