@@ -1,7 +1,16 @@
 {
-  "fetchedAt": "2026-05-23T09:07:16.311Z",
+  "fetchedAt": "2026-05-23T12:02:52.925Z",
   "count": 60,
   "articles": [
+    {
+      "id": "47lbl2",
+      "title": "Google’s new anything-to-anything AI model is wild",
+      "summary": "Just a stuffed deer having the time of his life. | Image: Gemini / The Verge Last year I deepfaked my kid's stuffed animal to make it look like his plush deer was on vacation. It was an experiment to see if I could re-create the events depicted in a Gemini ad Google was running, and I never showed the videos of Buddy the deer on his adventures to my four-year-old. But it was a revealing exercise that made me think a lot about the difference between some harmless fun with generative AI and…",
+      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/05/ai-label-19.png?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "source": "The Verge",
+      "sourceUrl": "https://www.theverge.com/tech/936507/gemini-omni-hands-on-deepfake-ai-video",
+      "publishedAt": "2026-05-23T11:00:00.000Z"
+    },
     {
       "id": "u20glr",
       "title": "AI is being used to resurrect the voices of dead pilots",
@@ -280,15 +289,6 @@
       "source": "Wired",
       "sourceUrl": "https://www.wired.com/story/i-cloned-myself-with-geminis-ai-avatar-tool-the-result-was-unnervingly-me/",
       "publishedAt": "2026-05-21T15:48:24.000Z"
-    },
-    {
-      "id": "nto0c4",
-      "title": "Spotify Studio’s AI agent creates a daily podcast just for you",
-      "summary": "Studio by Spotify Labs is a new standalone AI app that generates a daily briefing, podcasts, and playlists on your PC using chatbot prompts. The AI-generated content draws from your Spotify listening history, as well as info from apps you connect to it, like your email inbox, calendar, and notes. Spotify says its AI can also \"take action on your behalf,\" such as \"researching topics, using a web browser, organizing information, and helping complete tasks.\" Any content you generate in Studio, like…",
-      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/05/spotify-studio-ai.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "source": "The Verge",
-      "sourceUrl": "https://www.theverge.com/entertainment/935390/spotify-studio-ai-app-personal-podcasts",
-      "publishedAt": "2026-05-21T15:47:29.000Z"
     },
     {
       "id": "thmyrj",
