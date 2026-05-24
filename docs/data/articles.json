@@ -1,7 +1,16 @@
 {
-  "fetchedAt": "2026-05-24T13:51:10.967Z",
+  "fetchedAt": "2026-05-24T15:12:14.719Z",
   "count": 60,
   "articles": [
+    {
+      "id": "1pkufs",
+      "title": "I tried Amazon’s Bee wearable and am both intrigued and slightly creeped out",
+      "summary": "Like other AI wearables, Amazon's Bee offers an odd combination of convenience and privacy anxiety.",
+      "imageUrl": "https://images.unsplash.com/photo-1635070041078-e363dbe005cb?w=800&q=80",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/05/24/i-tried-amazons-bee-wearable-and-am-both-intrigued-and-slightly-creeped-out/",
+      "publishedAt": "2026-05-24T15:00:00.000Z"
+    },
     {
       "id": "fzrqhh",
       "title": "Hackers are learning to exploit chatbot ‘personalities’",
@@ -333,15 +342,6 @@
       "imageUrl": "https://images.unsplash.com/photo-1620712943543-bcc4688e7485?w=800&q=80",
       "source": "TechCrunch",
       "sourceUrl": "https://techcrunch.com/2026/05/21/spotify-debuts-a-new-desktop-app-for-creating-personal-podcasts/",
-      "publishedAt": "2026-05-21T15:27:00.000Z"
-    },
-    {
-      "id": "upsztm",
-      "title": "Spotify launches an ElevenLabs-powered audiobook creation tool",
-      "summary": "The AI-powered audiobook generation won't bind authors to an exclusive contract, meaning they are free to publish their generated audiobooks anywhere.",
-      "imageUrl": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=800&q=80",
-      "source": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/05/21/spotify-launches-an-elevenlabs-powered-audiobook-creation-tool/",
       "publishedAt": "2026-05-21T15:27:00.000Z"
     },
     {
