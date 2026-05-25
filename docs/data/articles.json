@@ -1,7 +1,16 @@
 {
-  "fetchedAt": "2026-05-25T18:11:23.276Z",
+  "fetchedAt": "2026-05-25T20:11:23.356Z",
   "count": 60,
   "articles": [
+    {
+      "id": "nic8xb",
+      "title": "What ClickUp’s mass layoff tells us about the future of work",
+      "summary": "The nine-year-old startup is replacing hundreds of employees with thousands of AI agents.",
+      "imageUrl": "https://images.unsplash.com/photo-1550751827-4bd374c3f58b?w=800&q=80",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/05/25/what-clickups-mass-layoff-tells-us-about-the-future-of-work/",
+      "publishedAt": "2026-05-25T16:00:00.000Z"
+    },
     {
       "id": "98cimf",
       "title": "The pope’s AI encyclical isn’t really about AI",
@@ -334,15 +343,6 @@
       "source": "The Verge",
       "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/935602/graduates-boo-ai-ceos",
       "publishedAt": "2026-05-21T20:00:06.000Z"
-    },
-    {
-      "id": "2aq36v",
-      "title": "Spotify and Universal Music strike deal allowing fan-made AI covers and remixes",
-      "summary": "Spotify is partnering with Universal Music Group￼ to let Premium subscribers create AI-generated song covers and remixes, with participating artists receiving a share of the revenue.",
-      "imageUrl": "https://images.unsplash.com/photo-1655720828018-edd2daec9349?w=800&q=80",
-      "source": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/05/21/spotify-and-universal-music-strike-deal-allowing-fan-made-ai-covers-and-remixes/",
-      "publishedAt": "2026-05-21T19:45:00.000Z"
     },
     {
       "id": "u6u7sr",
