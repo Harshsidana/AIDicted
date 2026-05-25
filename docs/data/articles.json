@@ -1,7 +1,25 @@
 {
-  "fetchedAt": "2026-05-25T05:07:28.841Z",
+  "fetchedAt": "2026-05-25T13:34:58.520Z",
   "count": 60,
   "articles": [
+    {
+      "id": "mjt8wp",
+      "title": "US's big bet on quantum computing may not be entirely legal",
+      "summary": "Deal also launched the first quantum foundry company, but is there a need for it?",
+      "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2026/05/image-2-1152x648.jpeg",
+      "source": "Ars Technica",
+      "sourceUrl": "https://arstechnica.com/tech-policy/2026/05/uss-big-bet-on-quantum-computing-may-not-be-entirely-legal/",
+      "publishedAt": "2026-05-25T12:00:15.000Z"
+    },
+    {
+      "id": "xk83op",
+      "title": "The AI Era Is Creating a Bug Hunting Arms Race",
+      "summary": "As attackers ramp up their AI exploit development, the search for software vulnerabilities is changing rapidly.",
+      "imageUrl": "https://media.wired.com/photos/6a0e3a04aa8901b570a25720/master/pass/security_bug_gettyimages.jpg",
+      "source": "Wired",
+      "sourceUrl": "https://www.wired.com/story/the-ai-era-is-creating-a-bug-hunting-arms-race/",
+      "publishedAt": "2026-05-25T10:30:00.000Z"
+    },
     {
       "id": "9p6bh8",
       "title": "Everyone is navigating AI security in real time — even Google",
@@ -435,15 +453,6 @@
       "publishedAt": "2026-05-20T13:00:00.000Z"
     },
     {
-      "id": "qxwajl",
-      "title": "Literary Prizewinners Are Facing AI Allegations. It Feels Like the New Normal",
-      "summary": "Three of five regional winners of the prestigious Commonwealth Short Story Prize are suspected of relying on chatbots. They’re certainly not alone.",
-      "imageUrl": "https://media.wired.com/photos/6a0ce86f98983a3fe2d17459/master/pass/Commonwealth-Prize-AI-Scandal-Culture.jpg",
-      "source": "Wired",
-      "sourceUrl": "https://www.wired.com/story/commonwealth-short-story-prize-ai-allegations/",
-      "publishedAt": "2026-05-19T22:53:04.000Z"
-    },
-    {
       "id": "ysk5mg",
       "title": "In stunning display of stupid, secret CISA credentials found in public GitHub repo",
       "summary": "SSH keys, plaintext passwords, other sensitive data had been up since November 2025.",
@@ -532,15 +541,6 @@
       "source": "Ars Technica",
       "sourceUrl": "https://arstechnica.com/information-technology/2026/05/why-reddit-blocked-my-daily-visit-to-its-mobile-website/",
       "publishedAt": "2026-05-05T11:20:08.000Z"
-    },
-    {
-      "id": "xo3s4q",
-      "title": "GameStop offers $56 billion for eBay, struggles to explain how it'll pay for it",
-      "summary": "Amid falling revenue and store closures, GameStop wants to buy the much larger eBay.",
-      "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2026/05/gamestop-store-1152x648-1777915631.jpg",
-      "source": "Ars Technica",
-      "sourceUrl": "https://arstechnica.com/tech-policy/2026/05/gamestop-offers-56-billion-for-ebay-struggles-to-explain-how-itll-pay-for-it/",
-      "publishedAt": "2026-05-04T17:57:46.000Z"
     }
   ]
 }
