@@ -1,7 +1,34 @@
 {
-  "fetchedAt": "2026-05-26T10:12:33.797Z",
+  "fetchedAt": "2026-05-26T13:28:50.128Z",
   "count": 60,
   "articles": [
+    {
+      "id": "unkxwl",
+      "title": "Nobody wants to tell me why they only listen to their own Suno slop",
+      "summary": "Do you even like art? | Image: Cath Virginia / The Verge, Getty Images There's this alarming trend in the Suno subreddit. People aren't just prompting AI songs; they're sitting around listening almost exclusively to their own slop. And in some cases, they proudly proclaim that they don't listen to music on traditional streaming platforms anymore - it's just AI all day. \"Does anyone just listen to their own music now and not even music on Spotify anymore.?\" \"I definitely listen to my own music…",
+      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/05/STKS511_AI_SLOP_A.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "source": "The Verge",
+      "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/937059/nobody-wants-to-tell-me-why-they-only-listen-their-own-suno-slop",
+      "publishedAt": "2026-05-26T12:46:03.000Z"
+    },
+    {
+      "id": "bb674u",
+      "title": "The Download: puncturing the AI jobs panic",
+      "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. A reality check on the AI jobs hysteria Despite the growing hysteria over AI’s threat to white-collar jobs, there’s still scant evidence that the technology has had a large-scale impact on…",
+      "imageUrl": "https://images.unsplash.com/photo-1526374965328-7f61d4dc18c5?w=800&q=80",
+      "source": "MIT Tech Review",
+      "sourceUrl": "https://www.technologyreview.com/2026/05/26/1138028/the-download-ai-jobs-data/",
+      "publishedAt": "2026-05-26T12:10:00.000Z"
+    },
+    {
+      "id": "n0e2x3",
+      "title": "AI warfare is already here",
+      "summary": "The Convention on Certain Conventional Weapons, an international forum that focuses on lethal autonomous systems, is hosted twice a year at the United Nations in Geneva. When Branka Marijan attended in November 2017, she thought the five-day sessions - which dealt largely in hypotheticals, speculating on a world where warfare was fought with killer robots - would be business as usual. After all, this was technology some thought might never be developed, and likely never deployed. That year, she…",
+      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/05/268475_AIs_red_line_JMac2.png?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "source": "The Verge",
+      "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/937028/military-ai-warfare-red-lines",
+      "publishedAt": "2026-05-26T12:00:00.000Z"
+    },
     {
       "id": "piy9gs",
       "title": "AI Agents Plunged the Tech World Into Chaos. Here’s Exactly How That Happened",
@@ -39,6 +66,15 @@
       "publishedAt": "2026-05-26T10:00:00.000Z"
     },
     {
+      "id": "g5h1dz",
+      "title": "Take This Mandatory AI Workplace Training Right Now—or Else",
+      "summary": "AI could make you redundant. Here’s what you need to know.",
+      "imageUrl": "https://media.wired.com/photos/6a104f8cc9c138425f4055c9/master/pass/1-lets%20get%20oriented.jpg",
+      "source": "Wired",
+      "sourceUrl": "https://www.wired.com/story/ai-or-die-trying/",
+      "publishedAt": "2026-05-26T10:00:00.000Z"
+    },
+    {
       "id": "82ykv",
       "title": "I’m a Professional Fact-Checker. AI Is Wrong More Often Than You Think",
       "summary": "Can AI do fact-checking? A WIRED fact-checker fact-checks.",
@@ -63,15 +99,6 @@
       "imageUrl": "https://media.wired.com/photos/6a0df9f99e7a013d4de6fd4e/master/pass/HowToBeANativeWithAI_v2.jpg",
       "source": "Wired",
       "sourceUrl": "https://www.wired.com/story/7-ways-to-get-so-good-at-ai-people-will-think-you-are-ai/",
-      "publishedAt": "2026-05-26T10:00:00.000Z"
-    },
-    {
-      "id": "g5h1dz",
-      "title": "Take This Mandatory AI Workplace Training Right Now—or Else",
-      "summary": "AI could make you redundant. Here’s what you need to know.",
-      "imageUrl": "https://media.wired.com/photos/6a104f8cc9c138425f4055c9/master/pass/1-lets%20get%20oriented.jpg",
-      "source": "Wired",
-      "sourceUrl": "https://www.wired.com/story/ai-or-die-trying/",
       "publishedAt": "2026-05-26T10:00:00.000Z"
     },
     {
@@ -345,15 +372,6 @@
       "publishedAt": "2026-05-22T12:10:00.000Z"
     },
     {
-      "id": "bd5fvc",
-      "title": "Samsung’s memory chip employees negotiated $340,000 bonuses this year",
-      "summary": "48,000 Samsung workers had threatened to strike unless bonus caps were lifted. | Photo: Jung Yeon-je / AFP via Getty Images Details have emerged about a tentative deal struck between Samsung and semiconductor employees who had threatened to strike. The deal reportedly makes some workers eligible for average annual bonuses of $340,000. The proposed 18-day strike had hinged on Samsung's bonus cap for employees in the semiconductor division and followed a substantial rise in the possible bonuses…",
-      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/05/gettyimages-2272013055.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "source": "The Verge",
-      "sourceUrl": "https://www.theverge.com/tech/936002/samsung-memory-chip-employees-deal-strike-bonus",
-      "publishedAt": "2026-05-22T11:05:25.000Z"
-    },
-    {
       "id": "h1k54n",
       "title": "A hacker group is poisoning open source code at an unprecedented scale",
       "summary": "GitHub is just the latest victim of TeamPCP, a gang that has carried out a spree of software supply chain attacks.",
@@ -390,15 +408,6 @@
       "publishedAt": "2026-05-21T20:41:05.000Z"
     },
     {
-      "id": "olvt2i",
-      "title": "All of the updates from Elon Musk and Sam Altman’s battle over OpenAI",
-      "summary": "Sam Altman and Elon Musk are facing off in a high-stakes trial that could alter the future of OpenAI and its most well-known product, ChatGPT. In 2024, Musk filed a lawsuit accusing OpenAI of abandoning its founding mission of developing AI to benefit humanity and shifting focus to boosting profits instead. After nearly a month, with the trial featuring testimony from Musk, Altman, Microsoft CEO Satya Nadella, OpenAI cofounder Greg Brockman, former OpenAI board member and mother of several of…",
-      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/04/268474_musk_vs_altman_CVirginia.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "source": "The Verge",
-      "sourceUrl": "https://www.theverge.com/tech/917225/sam-altman-elon-musk-openai-lawsuit",
-      "publishedAt": "2026-05-21T20:15:18.000Z"
-    },
-    {
       "id": "u6u7sr",
       "title": "Scaling creativity in the age of AI",
       "summary": "Storytelling is core to humanity’s DNA, stemming from our impulse to express ideals, warnings, hopes, and experiences. Technology has always been woven through the medium and the distribution: from early humans’ innovation of natural pigments and charcoals for cave paintings to literal representation by the camera. The landscape of storytelling continues to shift under our…",
@@ -433,15 +442,6 @@
       "source": "MIT Tech Review",
       "sourceUrl": "https://www.technologyreview.com/2026/05/21/1137733/the-download-online-safety-climate-tech-pivot/",
       "publishedAt": "2026-05-21T12:10:00.000Z"
-    },
-    {
-      "id": "74fvtb",
-      "title": "Climate tech companies are pivoting to critical minerals",
-      "summary": "We’re over a year into the second Trump administration here in the US, and support for climate causes is weak. But climate tech companies are finding ways to survive and even thrive in this new environment, including by focusing on potential benefits outside decarbonization. Suddenly, it feels like every climate tech company has a story…",
-      "imageUrl": "https://images.unsplash.com/photo-1550751827-4bd374c3f58b?w=800&q=80",
-      "source": "MIT Tech Review",
-      "sourceUrl": "https://www.technologyreview.com/2026/05/21/1137622/climate-tech-pivot-critical-minerals/",
-      "publishedAt": "2026-05-21T10:00:00.000Z"
     },
     {
       "id": "svl9jd",
