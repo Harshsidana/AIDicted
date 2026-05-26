@@ -1,7 +1,25 @@
 {
-  "fetchedAt": "2026-05-26T19:25:30.359Z",
+  "fetchedAt": "2026-05-26T21:13:10.550Z",
   "count": 60,
   "articles": [
+    {
+      "id": "57iwho",
+      "title": "Why the Vatican Invited Anthropic to the Pope’s AI Encyclical Presentation",
+      "summary": "Pope Leo’s first encyclical marks an unprecedented alliance between the Church and Silicon Valley.",
+      "imageUrl": "https://media.wired.com/photos/6a15cbcd37553f2c38327fce/master/pass/2278118480",
+      "source": "Wired",
+      "sourceUrl": "https://www.wired.com/story/anthropic-christopher-olah-pope-ai-encyclical/",
+      "publishedAt": "2026-05-26T20:46:03.000Z"
+    },
+    {
+      "id": "99v07m",
+      "title": "What Pope Leo XIV’s First Encyclical Says About the Power of AI",
+      "summary": "In Magnifica Humanitas, the Pope decries the concentration of technological power in a few global players.",
+      "imageUrl": "https://media.wired.com/photos/6a15ce296bb944abda95a6f4/master/pass/2277573822",
+      "source": "Wired",
+      "sourceUrl": "https://www.wired.com/story/what-pope-leo-xivs-first-encyclical-says-about-the-power-of-ai/",
+      "publishedAt": "2026-05-26T20:17:47.000Z"
+    },
     {
       "id": "v8m0pb",
       "title": "OpenRouter more than doubles valuation to $1.3B in a year",
@@ -84,12 +102,12 @@
       "publishedAt": "2026-05-26T12:00:00.000Z"
     },
     {
-      "id": "z8d0eo",
-      "title": "Quiz: Will AI Destroy Your Career?",
-      "summary": "Some jobs may be toast. Some will survive. Click your answers to learn your fate.",
-      "imageUrl": "https://media.wired.com/photos/6a0b67820ce29a972051a9e8/master/pass/ai_exposed_jobs.jpg",
+      "id": "piy9gs",
+      "title": "AI Agents Plunged the Tech World Into Chaos. Here’s Exactly How That Happened",
+      "summary": "The definitive story of how Claude Code and OpenClaw kicked off computing’s biggest transformation possibly ever.",
+      "imageUrl": "https://media.wired.com/photos/69fdc08ed818d4f01db33c98/master/pass/wired_agents_web.gif",
       "source": "Wired",
-      "sourceUrl": "https://www.wired.com/story/quiz-will-ai-destroy-your-career/",
+      "sourceUrl": "https://www.wired.com/story/how-ai-agents-plunged-tech-world-into-chaos/",
       "publishedAt": "2026-05-26T10:00:00.000Z"
     },
     {
@@ -111,12 +129,12 @@
       "publishedAt": "2026-05-26T10:00:00.000Z"
     },
     {
-      "id": "piy9gs",
-      "title": "AI Agents Plunged the Tech World Into Chaos. Here’s Exactly How That Happened",
-      "summary": "The definitive story of how Claude Code and OpenClaw kicked off computing’s biggest transformation possibly ever.",
-      "imageUrl": "https://media.wired.com/photos/69fdc08ed818d4f01db33c98/master/pass/wired_agents_web.gif",
+      "id": "z8d0eo",
+      "title": "Quiz: Will AI Destroy Your Career?",
+      "summary": "Some jobs may be toast. Some will survive. Click your answers to learn your fate.",
+      "imageUrl": "https://media.wired.com/photos/6a0b67820ce29a972051a9e8/master/pass/ai_exposed_jobs.jpg",
       "source": "Wired",
-      "sourceUrl": "https://www.wired.com/story/how-ai-agents-plunged-tech-world-into-chaos/",
+      "sourceUrl": "https://www.wired.com/story/quiz-will-ai-destroy-your-career/",
       "publishedAt": "2026-05-26T10:00:00.000Z"
     },
     {
@@ -163,15 +181,6 @@
       "source": "The Verge",
       "sourceUrl": "https://www.theverge.com/transportation/937116/uber-ai-investment-hard-to-justify",
       "publishedAt": "2026-05-26T09:55:09.000Z"
-    },
-    {
-      "id": "5h3ugd",
-      "title": "US Law Enforcement Warns of ‘Anti-Tech Extremism’ as AI Hatred Grows",
-      "summary": "As Americans stew over the looming risk of job-stealing AI and data centers in their back yards, the feds are raising the alarm about a new category of threat, documents obtained by WIRED show.",
-      "imageUrl": "https://media.wired.com/photos/6a10b0246e47ced150ad32d6/master/pass/US-Law-Enforcement-Warns-of-Anti-Tech-Extremism-Security.jpg",
-      "source": "Wired",
-      "sourceUrl": "https://www.wired.com/story/us-law-enforcement-warns-of-anti-tech-extremism/",
-      "publishedAt": "2026-05-26T09:30:00.000Z"
     },
     {
       "id": "679sdp",
@@ -244,15 +253,6 @@
       "source": "Ars Technica",
       "sourceUrl": "https://arstechnica.com/tech-policy/2026/05/uss-big-bet-on-quantum-computing-may-not-be-entirely-legal/",
       "publishedAt": "2026-05-25T12:00:15.000Z"
-    },
-    {
-      "id": "9m7uba",
-      "title": "The AI Era Is Creating a Bug-Hunting Arms Race",
-      "summary": "As attackers ramp up their AI exploit development, the search for software vulnerabilities is changing rapidly.",
-      "imageUrl": "https://media.wired.com/photos/6a0e3a04aa8901b570a25720/master/pass/security_bug_gettyimages.jpg",
-      "source": "Wired",
-      "sourceUrl": "https://www.wired.com/story/the-ai-era-is-creating-a-bug-hunting-arms-race/",
-      "publishedAt": "2026-05-25T10:30:00.000Z"
     },
     {
       "id": "9p6bh8",
