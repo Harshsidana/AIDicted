@@ -1,7 +1,115 @@
 {
-  "fetchedAt": "2026-05-26T05:46:25.024Z",
+  "fetchedAt": "2026-05-26T10:12:33.797Z",
   "count": 60,
   "articles": [
+    {
+      "id": "piy9gs",
+      "title": "AI Agents Plunged the Tech World Into Chaos. Here’s Exactly How That Happened",
+      "summary": "The definitive story of how Claude Code and OpenClaw kicked off computing’s biggest transformation possibly ever.",
+      "imageUrl": "https://media.wired.com/photos/69fdc08ed818d4f01db33c98/master/pass/wired_agents_web.gif",
+      "source": "Wired",
+      "sourceUrl": "https://www.wired.com/story/how-ai-agents-plunged-tech-world-into-chaos/",
+      "publishedAt": "2026-05-26T10:00:00.000Z"
+    },
+    {
+      "id": "z8d0eo",
+      "title": "Quiz: Will AI Destroy Your Career?",
+      "summary": "Some jobs may be toast. Some will survive. Click your answers to learn your fate.",
+      "imageUrl": "https://media.wired.com/photos/6a0b67820ce29a972051a9e8/master/pass/ai_exposed_jobs.jpg",
+      "source": "Wired",
+      "sourceUrl": "https://www.wired.com/story/quiz-will-ai-destroy-your-career/",
+      "publishedAt": "2026-05-26T10:00:00.000Z"
+    },
+    {
+      "id": "34f85c",
+      "title": "AI Is Taking Over the Most Cursed Job in the World",
+      "summary": "There’s a mad dash to automate the world’s most hated calls. Have an unpaid bill? You’ll hear from an AI debt collector sometime soon.",
+      "imageUrl": "https://media.wired.com/photos/6a047c1d138310676483b3fe/master/pass/AIDebtCollectors_v3.1.jpg",
+      "source": "Wired",
+      "sourceUrl": "https://www.wired.com/story/ai-takes-over-debt-collection/",
+      "publishedAt": "2026-05-26T10:00:00.000Z"
+    },
+    {
+      "id": "bqgm50",
+      "title": "I Spent a Week Recording Myself Doing Chores for Money. Who's the Robot Now?",
+      "summary": "Cooking. Doing laundry. Tidying up. All your household tasks can be turned into data to train future humanoids—if you’re prepared for the consequences.",
+      "imageUrl": "https://media.wired.com/photos/6a077b4e67132e88ffa730a4/master/pass/AIPanic_TrainingRobots_v2.1.jpg",
+      "source": "Wired",
+      "sourceUrl": "https://www.wired.com/story/household-chores-training-robots/",
+      "publishedAt": "2026-05-26T10:00:00.000Z"
+    },
+    {
+      "id": "82ykv",
+      "title": "I’m a Professional Fact-Checker. AI Is Wrong More Often Than You Think",
+      "summary": "Can AI do fact-checking? A WIRED fact-checker fact-checks.",
+      "imageUrl": "https://media.wired.com/photos/6a04e6a1d7be752b48cba500/master/pass/AiFactChecking-Final.jpg",
+      "source": "Wired",
+      "sourceUrl": "https://www.wired.com/story/fact-checking-ai/",
+      "publishedAt": "2026-05-26T10:00:00.000Z"
+    },
+    {
+      "id": "m5bb40",
+      "title": "To Land a Job in AI, Try Reading Kant",
+      "summary": "The world’s leading AI labs are hiring philosophers to think through ethical edge cases and grand questions of mind and morality. Are they another instrument of hype?",
+      "imageUrl": "https://media.wired.com/photos/6a0722c3cc137669535c6942/master/pass/AIPhilosophers_v2.jpg",
+      "source": "Wired",
+      "sourceUrl": "https://www.wired.com/story/to-land-a-job-in-ai-try-reading-kant/",
+      "publishedAt": "2026-05-26T10:00:00.000Z"
+    },
+    {
+      "id": "es4sj",
+      "title": "7 Ways to Get So Good at AI, People Will Think You Are AI",
+      "summary": "From killing your chatbots to optimizing your prompts, here are the best ways to go full AI native and conquer the new world.",
+      "imageUrl": "https://media.wired.com/photos/6a0df9f99e7a013d4de6fd4e/master/pass/HowToBeANativeWithAI_v2.jpg",
+      "source": "Wired",
+      "sourceUrl": "https://www.wired.com/story/7-ways-to-get-so-good-at-ai-people-will-think-you-are-ai/",
+      "publishedAt": "2026-05-26T10:00:00.000Z"
+    },
+    {
+      "id": "g5h1dz",
+      "title": "Take This Mandatory AI Workplace Training Right Now—or Else",
+      "summary": "AI could make you redundant. Here’s what you need to know.",
+      "imageUrl": "https://media.wired.com/photos/6a104f8cc9c138425f4055c9/master/pass/1-lets%20get%20oriented.jpg",
+      "source": "Wired",
+      "sourceUrl": "https://www.wired.com/story/ai-or-die-trying/",
+      "publishedAt": "2026-05-26T10:00:00.000Z"
+    },
+    {
+      "id": "5ns68h",
+      "title": "Uber president says AI spending is getting ‘harder to justify’",
+      "summary": "Uber president Andrew Macdonald (pictured) says its “hard to draw a line” between AI spending and deliverable features. | Photo: Zed Jameson/Bloomberg via Getty Images After reportedly exhausting its annual AI budget just four months into 2026, Uber is now questioning whether it's actually seeing meaningful returns on its investments. In an interview with Rapid Response, Uber president and chief operating officer Andrew Macdonald said the company isn't seeing a connection between rising token…",
+      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/05/gettyimages-2245764686.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "source": "The Verge",
+      "sourceUrl": "https://www.theverge.com/transportation/937116/uber-ai-investment-hard-to-justify",
+      "publishedAt": "2026-05-26T09:55:09.000Z"
+    },
+    {
+      "id": "5h3ugd",
+      "title": "US Law Enforcement Warns of ‘Anti-Tech Extremism’ as AI Hatred Grows",
+      "summary": "As Americans stew over the looming risk of job-stealing AI and data centers in their back yards, the feds are raising the alarm about a new category of threat, documents obtained by WIRED show.",
+      "imageUrl": "https://media.wired.com/photos/6a10b0246e47ced150ad32d6/master/pass/US-Law-Enforcement-Warns-of-Anti-Tech-Extremism-Security.jpg",
+      "source": "Wired",
+      "sourceUrl": "https://www.wired.com/story/us-law-enforcement-warns-of-anti-tech-extremism/",
+      "publishedAt": "2026-05-26T09:30:00.000Z"
+    },
+    {
+      "id": "679sdp",
+      "title": "A reality check on the AI jobs hysteria",
+      "summary": "Haven’t you heard? White-collar jobs are going away, decimated by AI. Waves of layoffs in the tech sector (most recently at Coinbase and Meta and Cisco) are said to presage what will soon come for all of us knowledge workers. But before you quit your job as a software developer or financial analyst—or tech journalist—and…",
+      "imageUrl": "https://images.unsplash.com/photo-1635070041078-e363dbe005cb?w=800&q=80",
+      "source": "MIT Tech Review",
+      "sourceUrl": "https://www.technologyreview.com/2026/05/26/1137855/a-reality-check-on-the-ai-jobs-hysteria/",
+      "publishedAt": "2026-05-26T09:00:00.000Z"
+    },
+    {
+      "id": "ben0ej",
+      "title": "It’s time to address the looming crisis in entry-level work.",
+      "summary": "Artificial intelligence has not so far produced a clean story of mass unemployment. Aggregate employment in developed countries remains broadly stable, and recent assessments have found limited evidence that AI has shifted the headline numbers. But a troubling change may be hiding beneath the surface: the quiet weakening of the first rung of the career…",
+      "imageUrl": "https://images.unsplash.com/photo-1485827404703-89b55fcc595e?w=800&q=80",
+      "source": "MIT Tech Review",
+      "sourceUrl": "https://www.technologyreview.com/2026/05/26/1137865/its-time-to-address-the-looming-crisis-in-entry-level-work/",
+      "publishedAt": "2026-05-26T09:00:00.000Z"
+    },
     {
       "id": "nic8xb",
       "title": "What ClickUp’s mass layoff tells us about the future of work",
@@ -91,15 +199,6 @@
       "source": "The Verge",
       "sourceUrl": "https://www.theverge.com/column/935545/hackers-ai-chatbots",
       "publishedAt": "2026-05-24T12:00:00.000Z"
-    },
-    {
-      "id": "ss25q8",
-      "title": "These Robots Are Making Meals for a Nonprofit in San Francisco’s Tenderloin",
-      "summary": "A nonprofit in the city’s most troubled district has turned to robotic meal prep tech to make up for a dearth of human volunteers.",
-      "imageUrl": "https://media.wired.com/photos/6a10ce314007cbd416b6e106/master/pass/Robot-Meals-Gear-Chef+-robot-(1).jpg",
-      "source": "Wired",
-      "sourceUrl": "https://www.wired.com/story/these-robots-are-making-meals-for-a-nonprofit-in-san-franciscos-tenderloin/",
-      "publishedAt": "2026-05-24T10:30:00.000Z"
     },
     {
       "id": "vmeonx",
@@ -210,15 +309,6 @@
       "publishedAt": "2026-05-22T15:37:15.000Z"
     },
     {
-      "id": "ljltqg",
-      "title": "Even If You Hate AI, You Will Use Google AI Search",
-      "summary": "The search giant’s AI-crafted answers are so convenient, you’ll be sucked in—to the detriment of the web and the artists and thinkers behind it.",
-      "imageUrl": "https://media.wired.com/photos/6a0f3c884bfa87f10e0f1aa1/master/pass/Backchannel-Google-Search-Business-2276578156.jpg",
-      "source": "Wired",
-      "sourceUrl": "https://www.wired.com/story/even-if-you-hate-ai-you-will-use-google-ai-search/",
-      "publishedAt": "2026-05-22T15:00:00.000Z"
-    },
-    {
       "id": "jryrgi",
       "title": "SpaceX files to go public, and the math requires a little faith",
       "summary": "The SpaceX S-1 is finally here, and the story it tells goes way further than rockets. The filing runs to 36 pages of risk factors alone, and the numbers inside match the ambition: a $28 trillion total addressable market, a pay package tied to establishing a Mars colony, and a valuation target that would make it the largest IPO in American […]",
@@ -282,15 +372,6 @@
       "publishedAt": "2026-05-22T10:00:00.000Z"
     },
     {
-      "id": "itq45",
-      "title": "The Gulf’s AI Boom Has an Undersea Cable Problem",
-      "summary": "Hyperscalers are pushing the Gulf to rethink internet infrastructure as AI raises the stakes of cable disruptions.",
-      "imageUrl": "https://media.wired.com/photos/6a0f1eac22b304758d42f327/master/pass/6a0ecc1805928bccd6b0e6c5_UnderwaterCables_Lead_autoxauto.0000001.jpg",
-      "source": "Wired",
-      "sourceUrl": "https://www.wired.com/story/the-gulfs-ai-boom-has-an-undersea-cable-problem/",
-      "publishedAt": "2026-05-22T09:00:00.000Z"
-    },
-    {
       "id": "cu19u2",
       "title": "The Enhanced Games fit right in with the rest of 2026’s longevity vibes",
       "summary": "This Sunday, a group of 42 athletes will gather in Las Vegas to compete in a somewhat unusual sporting competition. Participants in the inaugural Enhanced Games are being encouraged to take performance-enhancing drugs. The goal is to “push the boundaries of human performance.” The games’ organizers have said that competitors will only be taking substances that…",
@@ -298,24 +379,6 @@
       "source": "MIT Tech Review",
       "sourceUrl": "https://www.technologyreview.com/2026/05/22/1137753/the-enhanced-games-fit-right-in-with-the-rest-of-2026s-longevity-vibes/",
       "publishedAt": "2026-05-22T09:00:00.000Z"
-    },
-    {
-      "id": "iempnz",
-      "title": "Can OpenAI’s ‘Master of Disaster’ Fix AI’s Reputation Crisis?",
-      "summary": "Global affairs chief Chris Lehane wants to tone down the debate over AI’s societal impacts—and get states to pass laws that won’t derail OpenAI’s meteoric rise.",
-      "imageUrl": "https://media.wired.com/photos/6a0f679a40b54a02fd444453/master/pass/Model-Behavior-Can-OpenAI-Global-Affairs-Chief-Fix-AI-Reputation-Problem-Business.jpg",
-      "source": "Wired",
-      "sourceUrl": "https://www.wired.com/story/openai-chris-lehane-global-affairs-pr/",
-      "publishedAt": "2026-05-22T00:04:25.000Z"
-    },
-    {
-      "id": "rzd445",
-      "title": "Meta Is in Crisis, Google Search’s Makeover, and AI Gets Booed by Graduates",
-      "summary": "In this episode of Uncanny Valley, we unpack the mass layoffs at Meta, big announcements at Google I/O, and the latest backlash against AI.",
-      "imageUrl": "https://media.wired.com/photos/6a0e43f5fefe8abd82234107/master/pass/Uncanny-Valley-Meta-Layoffs-2235448475.jpg",
-      "source": "Wired",
-      "sourceUrl": "https://www.wired.com/story/uncanny-valley-podcast-meta-in-crisis-google-search-makeover-ai-booed-by-graduates/",
-      "publishedAt": "2026-05-21T20:44:53.000Z"
     },
     {
       "id": "84alir",
@@ -336,15 +399,6 @@
       "publishedAt": "2026-05-21T20:15:18.000Z"
     },
     {
-      "id": "blm8bm",
-      "title": "In desperate times, graduates find hope in humiliating tech CEOs",
-      "summary": "University graduates are booing and heckling corporate executives who praise AI during their commencement ceremonies, and the only people who seem to be genuinely surprised by this are the executives themselves. In a procession of viral videos, 2026 commencement speakers like former Google CEO Eric Schmidt face loud and sustained jeers from students after praising AI and describing the technology as both inevitable and mandatory. The videos have clearly struck a chord among young people entering…",
-      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/05/Screenshot-2026-05-21-at-3.44.22PM.png?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "source": "The Verge",
-      "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/935602/graduates-boo-ai-ceos",
-      "publishedAt": "2026-05-21T20:00:06.000Z"
-    },
-    {
       "id": "u6u7sr",
       "title": "Scaling creativity in the age of AI",
       "summary": "Storytelling is core to humanity’s DNA, stemming from our impulse to express ideals, warnings, hopes, and experiences. Technology has always been woven through the medium and the distribution: from early humans’ innovation of natural pigments and charcoals for cave paintings to literal representation by the camera. The landscape of storytelling continues to shift under our…",
@@ -352,15 +406,6 @@
       "source": "MIT Tech Review",
       "sourceUrl": "https://www.technologyreview.com/2026/05/21/1137613/scaling-creativity-in-the-age-of-ai/",
       "publishedAt": "2026-05-21T19:16:43.000Z"
-    },
-    {
-      "id": "x6z8ip",
-      "title": "I Cloned Myself With Gemini’s AI Avatar Tool. The Result Was Unnervingly Me",
-      "summary": "I used the Gemini app to generate lifelike videos featuring a digital clone of myself. Google sees this as the future of creation. I’m still creeped out.",
-      "imageUrl": "https://media.wired.com/photos/6a0e4530773c1aab709e10aa/master/pass/Hands-On-With-Gemini-Gear-2276204472.jpg",
-      "source": "Wired",
-      "sourceUrl": "https://www.wired.com/story/i-cloned-myself-with-geminis-ai-avatar-tool-the-result-was-unnervingly-me/",
-      "publishedAt": "2026-05-21T15:48:24.000Z"
     },
     {
       "id": "d5wn9l",
@@ -399,33 +444,6 @@
       "publishedAt": "2026-05-21T10:00:00.000Z"
     },
     {
-      "id": "9m7bvb",
-      "title": "Tech researchers are suing the Trump administration over the future of online safety",
-      "summary": "Since its earliest days back in office, the Trump administration has been going after researchers who study and try to counter hate speech, harassment, propaganda, and disinformation online. Now, some of those researchers are fighting back. Last week their lawsuit—which could have global repercussions for online safety and free speech—made its first appearance in court. …",
-      "imageUrl": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=800&q=80",
-      "source": "MIT Tech Review",
-      "sourceUrl": "https://www.technologyreview.com/2026/05/21/1137632/lawsuit-trump-administration-online-safety-coalition-for-independent-technology-research/",
-      "publishedAt": "2026-05-21T09:00:00.000Z"
-    },
-    {
-      "id": "xk17p3",
-      "title": "SpaceX Listed Grok’s ‘Spicy’ Mode as a Risk in Its IPO Filing",
-      "summary": "The rocket company has set aside more than $500 million for potential litigation losses, in part to account for complaints alleging that Grok created sexualized images.",
-      "imageUrl": "https://media.wired.com/photos/6a0e32d330c7f349f26634db/master/pass/Grok-Has-Over-100-Million-Monthly-Users-Business-2255064635.jpg",
-      "source": "Wired",
-      "sourceUrl": "https://www.wired.com/story/spacex-ipo-grok-spicy-mode-risks/",
-      "publishedAt": "2026-05-21T00:43:13.000Z"
-    },
-    {
-      "id": "md2uok",
-      "title": "SpaceX Is Spending $2.8 Billion to Buy Gas Turbines for Its AI Data Centers",
-      "summary": "The investment comes as Elon Musk’s AI unit faces complaints about the carbon-emitting units and looks to become a big player in cloud computing.",
-      "imageUrl": "https://media.wired.com/photos/6a0e35cf773c1aab709e1077/master/pass/Elon-Musk-SpaceX-Spending-2.8-Billion-on-Gas-Turbines-Business-2275592313.jpg",
-      "source": "Wired",
-      "sourceUrl": "https://www.wired.com/story/elon-musk-spacex-spending-gas-turbines-grok/",
-      "publishedAt": "2026-05-20T23:30:06.000Z"
-    },
-    {
       "id": "svl9jd",
       "title": "Google publishes exploit code threatening millions of Chromium users",
       "summary": "Google publishes exploit code before patch, reported 42 months earlier, is fixed.",
@@ -433,24 +451,6 @@
       "source": "Ars Technica",
       "sourceUrl": "https://arstechnica.com/security/2026/05/google-publishes-exploit-code-threatening-millions-of-chromium-users/",
       "publishedAt": "2026-05-20T19:10:36.000Z"
-    },
-    {
-      "id": "gtt11i",
-      "title": "I Gave My OpenClaw Agent a Physical Body",
-      "summary": "The coding skills of AI models are about to make it much easier to build and deploy robots.",
-      "imageUrl": "https://media.wired.com/photos/6a0ca4ce280901f1fa2a6d37/master/pass/AI-Lab-Rock-Em-Sock-Em-Vibe-Coded-Robots-Business.jpg",
-      "source": "Wired",
-      "sourceUrl": "https://www.wired.com/story/i-gave-my-openclaw-agent-physical-body-robot/",
-      "publishedAt": "2026-05-20T18:00:00.000Z"
-    },
-    {
-      "id": "ovkvmd",
-      "title": "Green steel startup Boston Metal is doubling down on critical metals",
-      "summary": "The startup Boston Metal has raised a $75 million funding round to produce critical metals, MIT Technology Review can exclusively report. The company has been known largely for its efforts to clean up steel production, an industry that’s responsible for about 8% of global greenhouse emissions today. With the additional money, the new focus could…",
-      "imageUrl": "https://images.unsplash.com/photo-1485827404703-89b55fcc595e?w=800&q=80",
-      "source": "MIT Tech Review",
-      "sourceUrl": "https://www.technologyreview.com/2026/05/20/1137523/boston-metal-funding-critical-metals/",
-      "publishedAt": "2026-05-20T13:00:00.000Z"
     },
     {
       "id": "ysk5mg",
