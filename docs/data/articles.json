@@ -1,7 +1,61 @@
 {
-  "fetchedAt": "2026-05-26T13:28:50.128Z",
+  "fetchedAt": "2026-05-26T19:25:30.359Z",
   "count": 60,
   "articles": [
+    {
+      "id": "v8m0pb",
+      "title": "OpenRouter more than doubles valuation to $1.3B in a year",
+      "summary": "OpenRouter has raised a $113 million Series B led by CapitalG. Its 5x growth in usage over six months indicates the multi-AI-model future is here.",
+      "imageUrl": "https://images.unsplash.com/photo-1676299081847-824916de030a?w=800&q=80",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/05/26/openrouter-more-than-doubles-valuation-to-1-3b-in-a-year/",
+      "publishedAt": "2026-05-26T18:33:01.000Z"
+    },
+    {
+      "id": "1i2v91",
+      "title": "This startup is betting India’s gig economy can train the world’s robots",
+      "summary": "Human Archive, a startup founded by UC Berkeley and Stanford researchers, is paying gig workers in India to wear camera-equipped caps and sensor devices to collect the real-world physical training data that AI and robotics labs are racing to acquire.",
+      "imageUrl": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=800&q=80",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/05/26/human-archive-taps-into-indias-services-startups-to-collect-data-for-physical-ai/",
+      "publishedAt": "2026-05-26T16:00:00.000Z"
+    },
+    {
+      "id": "e1kdt0",
+      "title": "Universal Music Group and TikTok renew agreement to combat unauthorized AI music",
+      "summary": "For years, UMG has pushed platforms, streaming services, and AI companies to implement stricter content moderation policies.",
+      "imageUrl": "https://images.unsplash.com/photo-1531746790095-6c10a4031c5f?w=800&q=80",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/05/26/universal-music-group-and-tiktok-renew-agreement-to-combat-unauthorized-ai-music/",
+      "publishedAt": "2026-05-26T14:55:05.000Z"
+    },
+    {
+      "id": "gnc2i5",
+      "title": "Rethinking organizational design in the age of agentic AI",
+      "summary": "Amid rapidly growing adoption of enterprise-level AI agents, there’s a disconnect emerging between ambition and execution. Although 85% of organizations say they want to be agentic within the next three years, 76% say their current operations and infrastructure can’t support that change. They cite a lack of readiness across people, processes, and workflows. The sticky…",
+      "imageUrl": "https://images.unsplash.com/photo-1676299081847-824916de030a?w=800&q=80",
+      "source": "MIT Tech Review",
+      "sourceUrl": "https://www.technologyreview.com/2026/05/26/1137584/rethinking-organizational-design-in-the-age-of-agentic-ai/",
+      "publishedAt": "2026-05-26T14:54:10.000Z"
+    },
+    {
+      "id": "yrr8xo",
+      "title": "TechCrunch Disrupt 2026 Early Bird ticket rates end May 29",
+      "summary": "Save up to $410 on your TechCrunch Disrupt 2026 pass before prices increase on May 29 at 11:59 p.m. PT. Register here to join the tech epicenter in San Francisco.",
+      "imageUrl": "https://images.unsplash.com/photo-1676299081847-824916de030a?w=800&q=80",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/05/26/techcrunch-disrupt-2026-early-bird-ticket-rates-end-may-29/",
+      "publishedAt": "2026-05-26T14:00:00.000Z"
+    },
+    {
+      "id": "mdjic7",
+      "title": "Sundar Pichai on AI, the future of search, and what’s happening to the web",
+      "summary": "Today, I’m talking with Google and Alphabet CEO Sundar Pichai, in a conversation we recorded just after the Google I/O developer conference. This is the fifth year Sundar and I have sat down after I/O, and it’s become one of my favorite Decoder traditions. There’s always a lot of news at I/O, and this year was no exception — Google has powerful new Gemini models, it’s putting AI agents in everything, and it’s making huge changes to Search on both the web and YouTube that will once again reshape…",
+      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/05/DCD_2026.05.26_Sundar_Google.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "source": "The Verge",
+      "sourceUrl": "https://www.theverge.com/podcast/936445/sundar-pichai-ai-search-google-zero-youtube-web",
+      "publishedAt": "2026-05-26T14:00:00.000Z"
+    },
     {
       "id": "unkxwl",
       "title": "Nobody wants to tell me why they only listen to their own Suno slop",
@@ -28,15 +82,6 @@
       "source": "The Verge",
       "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/937028/military-ai-warfare-red-lines",
       "publishedAt": "2026-05-26T12:00:00.000Z"
-    },
-    {
-      "id": "piy9gs",
-      "title": "AI Agents Plunged the Tech World Into Chaos. Here’s Exactly How That Happened",
-      "summary": "The definitive story of how Claude Code and OpenClaw kicked off computing’s biggest transformation possibly ever.",
-      "imageUrl": "https://media.wired.com/photos/69fdc08ed818d4f01db33c98/master/pass/wired_agents_web.gif",
-      "source": "Wired",
-      "sourceUrl": "https://www.wired.com/story/how-ai-agents-plunged-tech-world-into-chaos/",
-      "publishedAt": "2026-05-26T10:00:00.000Z"
     },
     {
       "id": "z8d0eo",
@@ -66,6 +111,24 @@
       "publishedAt": "2026-05-26T10:00:00.000Z"
     },
     {
+      "id": "piy9gs",
+      "title": "AI Agents Plunged the Tech World Into Chaos. Here’s Exactly How That Happened",
+      "summary": "The definitive story of how Claude Code and OpenClaw kicked off computing’s biggest transformation possibly ever.",
+      "imageUrl": "https://media.wired.com/photos/69fdc08ed818d4f01db33c98/master/pass/wired_agents_web.gif",
+      "source": "Wired",
+      "sourceUrl": "https://www.wired.com/story/how-ai-agents-plunged-tech-world-into-chaos/",
+      "publishedAt": "2026-05-26T10:00:00.000Z"
+    },
+    {
+      "id": "m5bb40",
+      "title": "To Land a Job in AI, Try Reading Kant",
+      "summary": "The world’s leading AI labs are hiring philosophers to think through ethical edge cases and grand questions of mind and morality. Are they another instrument of hype?",
+      "imageUrl": "https://media.wired.com/photos/6a0722c3cc137669535c6942/master/pass/AIPhilosophers_v2.jpg",
+      "source": "Wired",
+      "sourceUrl": "https://www.wired.com/story/to-land-a-job-in-ai-try-reading-kant/",
+      "publishedAt": "2026-05-26T10:00:00.000Z"
+    },
+    {
       "id": "g5h1dz",
       "title": "Take This Mandatory AI Workplace Training Right Now—or Else",
       "summary": "AI could make you redundant. Here’s what you need to know.",
@@ -84,15 +147,6 @@
       "publishedAt": "2026-05-26T10:00:00.000Z"
     },
     {
-      "id": "m5bb40",
-      "title": "To Land a Job in AI, Try Reading Kant",
-      "summary": "The world’s leading AI labs are hiring philosophers to think through ethical edge cases and grand questions of mind and morality. Are they another instrument of hype?",
-      "imageUrl": "https://media.wired.com/photos/6a0722c3cc137669535c6942/master/pass/AIPhilosophers_v2.jpg",
-      "source": "Wired",
-      "sourceUrl": "https://www.wired.com/story/to-land-a-job-in-ai-try-reading-kant/",
-      "publishedAt": "2026-05-26T10:00:00.000Z"
-    },
-    {
       "id": "es4sj",
       "title": "7 Ways to Get So Good at AI, People Will Think You Are AI",
       "summary": "From killing your chatbots to optimizing your prompts, here are the best ways to go full AI native and conquer the new world.",
@@ -104,7 +158,7 @@
     {
       "id": "5ns68h",
       "title": "Uber president says AI spending is getting ‘harder to justify’",
-      "summary": "Uber president Andrew Macdonald (pictured) says its “hard to draw a line” between AI spending and deliverable features. | Photo: Zed Jameson/Bloomberg via Getty Images After reportedly exhausting its annual AI budget just four months into 2026, Uber is now questioning whether it's actually seeing meaningful returns on its investments. In an interview with Rapid Response, Uber president and chief operating officer Andrew Macdonald said the company isn't seeing a connection between rising token…",
+      "summary": "Uber president Andrew Macdonald (pictured) says it’s “hard to draw a line” between AI spending and deliverable features. | Photo: Zed Jameson / Bloomberg via Getty Images After reportedly exhausting its annual AI budget just four months into 2026, Uber is now questioning whether it's actually seeing meaningful returns on its investments. In an interview with Rapid Response, Uber president and chief operating officer Andrew Macdonald said the company isn't seeing a connection between rising token…",
       "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/05/gettyimages-2245764686.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
       "source": "The Verge",
       "sourceUrl": "https://www.theverge.com/transportation/937116/uber-ai-investment-hard-to-justify",
@@ -158,7 +212,7 @@
     {
       "id": "hv5ibg",
       "title": "Pope Leo calls for being ‘profoundly human’ in the age of AI",
-      "summary": "Pope Leo XIV attends the presentation of his first Encyclical Letter \"Magnifica humanitas\" on May 25, 2026 in Vatican City, Vatican. | Getty Images Pope Leo XIV warned of the risks of AI and unconstrained technological power in his first major papal document released on Monday. Magnifica Humanitas is the pope's manifesto on \"safeguarding the human person in the time of artificial intelligence,\" in which he discusses the dangers of AI-powered warfare, the effects of AI on labor, and the need for…",
+      "summary": "Pope Leo XIV attends the presentation of his first encyclical letter, Magnifica Humanitas, on May 25th, 2026 in Vatican City, Vatican. | Photo: Getty Images Pope Leo XIV warned of the risks of AI and unconstrained technological power in his first major papal document released on Monday. Magnifica Humanitas is the pope's manifesto on \"safeguarding the human person in the time of artificial intelligence,\" in which he discusses the dangers of AI-powered warfare, the effects of AI on labor, and the…",
       "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/05/gettyimages-2278126608.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
       "source": "The Verge",
       "sourceUrl": "https://www.theverge.com/news/936945/pope-leo-letter-encyclical-ai-anthropic-labor-warfare",
@@ -192,8 +246,8 @@
       "publishedAt": "2026-05-25T12:00:15.000Z"
     },
     {
-      "id": "xk83op",
-      "title": "The AI Era Is Creating a Bug Hunting Arms Race",
+      "id": "9m7uba",
+      "title": "The AI Era Is Creating a Bug-Hunting Arms Race",
       "summary": "As attackers ramp up their AI exploit development, the search for software vulnerabilities is changing rapidly.",
       "imageUrl": "https://media.wired.com/photos/6a0e3a04aa8901b570a25720/master/pass/security_bug_gettyimages.jpg",
       "source": "Wired",
@@ -291,15 +345,6 @@
       "publishedAt": "2026-05-22T20:39:54.000Z"
     },
     {
-      "id": "yndoaw",
-      "title": "Elon Musk can’t hear you over the sound of his $1.75 trillion IPO",
-      "summary": "The SpaceX S-1 is finally here, and the story it tells goes way further than rockets. The filing runs to 36 pages of risk factors alone, and the numbers inside match the ambition: a $28 trillion total addressable market, a pay package tied to establishing a Mars colony, and a valuation target that would make it the largest IPO in American […]",
-      "imageUrl": "https://images.unsplash.com/photo-1485827404703-89b55fcc595e?w=800&q=80",
-      "source": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/podcast/elon-musk-cant-hear-you-over-the-sound-of-his-1-75-trillion-ipo/",
-      "publishedAt": "2026-05-22T18:17:07.000Z"
-    },
-    {
       "id": "op1zyd",
       "title": "Texas AG sues Meta over claims that WhatsApp doesn't provide end-to-end encryption",
       "summary": "Critics note a lack of factual support in lawsuit filed by US Senate candidate.",
@@ -318,33 +363,6 @@
       "publishedAt": "2026-05-22T17:17:06.000Z"
     },
     {
-      "id": "adhp4r",
-      "title": "You can no longer Google the word ‘disregard’",
-      "summary": "After Google Search's AI update, the word \"disregard\" now effectively breaks the search interface.",
-      "imageUrl": "https://images.unsplash.com/photo-1485827404703-89b55fcc595e?w=800&q=80",
-      "source": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/05/22/you-can-no-longer-google-the-word-disregard/",
-      "publishedAt": "2026-05-22T16:16:48.000Z"
-    },
-    {
-      "id": "sxytiv",
-      "title": "We tried Google’s AI glasses and they’re almost there",
-      "summary": "Google demoed prototype Android XR glasses that overlay Gemini-powered translation, navigation, and other information directly into your field of view.",
-      "imageUrl": "https://images.unsplash.com/photo-1526374965328-7f61d4dc18c5?w=800&q=80",
-      "source": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/05/22/we-tried-googles-ai-glasses-and-theyre-almost-there/",
-      "publishedAt": "2026-05-22T15:37:15.000Z"
-    },
-    {
-      "id": "jryrgi",
-      "title": "SpaceX files to go public, and the math requires a little faith",
-      "summary": "The SpaceX S-1 is finally here, and the story it tells goes way further than rockets. The filing runs to 36 pages of risk factors alone, and the numbers inside match the ambition: a $28 trillion total addressable market, a pay package tied to establishing a Mars colony, and a valuation target that would make it the largest IPO in American […]",
-      "imageUrl": "https://images.unsplash.com/photo-1676299081847-824916de030a?w=800&q=80",
-      "source": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/video/spacex-files-to-go-public-and-the-math-requires-a-little-faith/",
-      "publishedAt": "2026-05-22T14:30:00.000Z"
-    },
-    {
       "id": "o2u32j",
       "title": "The literary world isn’t prepared for AI",
       "summary": "Since 2012, the British literary magazine Granta has published the regional winners of the annual Commonwealth Short Story Prize. This year, however, there was something off about one of the selections for the prestigious award: It appears to have been written by AI. Jamir Nazir's \"The Serpent in the Grove\" has many of the hallmarks of LLM-generated prose - mixed metaphors, anaphora, lists of threes. (I'm aware this, too, is a list of threes, and I promise I wrote this post myself, unassisted,…",
@@ -352,15 +370,6 @@
       "source": "The Verge",
       "sourceUrl": "https://www.theverge.com/tech/936073/ai-writing-granta-commonwealth-prize",
       "publishedAt": "2026-05-22T14:30:00.000Z"
-    },
-    {
-      "id": "ha52n3",
-      "title": "Spotify says its AI remix tool is for superfans, but I’m not convinced",
-      "summary": "Prompt something better than Beyoncé’s “Break My Soul,” I dare you. | Image: Cath Virginia / The Verge | Photo from Getty Images AI covers and remixes of songs are already a blight on the internet. Spotify, YouTube, TikTok, and Instagram are awash in flat reggae versions of \"Smells Like Teen Spirit,\" dinky country renditions of The Weeknd, and monotonous Motown reimaginings of AC/DC. Now, a new tool from Spotify will make them even easier to generate and share. Spotify and Universal Music Group…",
-      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/04/STK467_AI_MUSIC_CVirginia_A.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "source": "The Verge",
-      "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/936072/spotify-umg-ai-music-remix-cover-superfan",
-      "publishedAt": "2026-05-22T14:20:00.000Z"
     },
     {
       "id": "7so3vm",
@@ -433,15 +442,6 @@
       "source": "Ars Technica",
       "sourceUrl": "https://arstechnica.com/gadgets/2026/05/us-government-takes-2-billion-equity-stake-in-nine-quantum-computing-firms/",
       "publishedAt": "2026-05-21T13:48:38.000Z"
-    },
-    {
-      "id": "34texq",
-      "title": "The Download: online safety’s future and climate tech’s big pivot",
-      "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. Tech researchers are suing the Trump administration over the future of online safety For months, the Trump administration has been going after researchers who study and try to counter hate speech,…",
-      "imageUrl": "https://images.unsplash.com/photo-1620712943543-bcc4688e7485?w=800&q=80",
-      "source": "MIT Tech Review",
-      "sourceUrl": "https://www.technologyreview.com/2026/05/21/1137733/the-download-online-safety-climate-tech-pivot/",
-      "publishedAt": "2026-05-21T12:10:00.000Z"
     },
     {
       "id": "svl9jd",
