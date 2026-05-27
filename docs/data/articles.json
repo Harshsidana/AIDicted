@@ -1,7 +1,34 @@
 {
-  "fetchedAt": "2026-05-27T18:40:09.488Z",
+  "fetchedAt": "2026-05-27T21:05:04.174Z",
   "count": 60,
   "articles": [
+    {
+      "id": "d4l9db",
+      "title": "Websites have a new way to spy on visitors: analyzing their SSD activity",
+      "summary": "Telltale SSD activity can be measured in the browser using simple JavaScript.",
+      "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2026/05/solid-state-drive-ssd-1152x648.jpg",
+      "source": "Ars Technica",
+      "sourceUrl": "https://arstechnica.com/security/2026/05/websites-have-a-new-way-to-spy-on-visitors-analyzing-their-ssd-activity/",
+      "publishedAt": "2026-05-27T20:56:03.000Z"
+    },
+    {
+      "id": "tf1453",
+      "title": "In more good news for Amazon, Snowflake signs $6B deal with AWS for AI CPU chips",
+      "summary": "Snowflake has signed a new, enormous five-year deal with Amazon to secure chips for AI usage. Nvidia is once again being put on notice.",
+      "imageUrl": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=800&q=80",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/05/27/in-more-good-news-for-amazon-snowflake-signs-6b-deal-with-aws-for-ai-cpu-chips/",
+      "publishedAt": "2026-05-27T20:10:00.000Z"
+    },
+    {
+      "id": "ltffep",
+      "title": "Payroll startup Remote says it grew revenue 50% per employee without adding headcount",
+      "summary": "Payroll service provider Remote recently surpassed $300 million in annual recurring revenue (ARR) and became cash-flow positive, thanks to a 50% increase in revenue per employee resulting from AI adoption.",
+      "imageUrl": "https://images.unsplash.com/photo-1531746790095-6c10a4031c5f?w=800&q=80",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/05/27/payroll-startup-remote-says-it-grew-revenue-50-per-employee-without-adding-headcount/",
+      "publishedAt": "2026-05-27T19:39:45.000Z"
+    },
     {
       "id": "xejpwi",
       "title": "Your SEO strategy is optimized for a search engine that no longer exists.",
@@ -120,12 +147,12 @@
       "publishedAt": "2026-05-27T13:48:41.000Z"
     },
     {
-      "id": "5gfd2r",
-      "title": "ClickHouse triples anualized revenue to $250M, charting a path toward an IPO",
+      "id": "rim8mr",
+      "title": "ClickHouse triples annualized revenue to $250M, charting a path toward an IPO",
       "summary": "The database provider is eyeing a public debut within the next few years.",
       "imageUrl": "https://images.unsplash.com/photo-1485827404703-89b55fcc595e?w=800&q=80",
       "source": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/05/27/clickhouse-triples-anualized-revenue-to-250m-charting-a-path-toward-an-ipo/",
+      "sourceUrl": "https://techcrunch.com/2026/05/27/clickhouse-triples-annualized-revenue-to-250m-charting-a-path-toward-an-ipo/",
       "publishedAt": "2026-05-27T13:04:20.000Z"
     },
     {
@@ -149,7 +176,7 @@
     {
       "id": "dl03tf",
       "title": "Robinhood now lets your AI agents trade stocks",
-      "summary": "Robinhood will let users create a separate account with pre-loaded balance that an agent use to trade",
+      "summary": "While these agents would be able to read and analyze users' portfolios to come up with trading strategies and suggest investments, they'll only be able to access the pre-loaded balance in the dedicated wallet to place orders.",
       "imageUrl": "https://images.unsplash.com/photo-1676299081847-824916de030a?w=800&q=80",
       "source": "TechCrunch",
       "sourceUrl": "https://techcrunch.com/2026/05/27/robinhood-now-lets-your-ai-agents-trade-stocks/",
@@ -244,24 +271,6 @@
       "source": "Ars Technica",
       "sourceUrl": "https://arstechnica.com/information-technology/2026/05/millions-of-ai-agents-imperiled-by-critical-vulnerability-in-open-source-package/",
       "publishedAt": "2026-05-26T19:50:33.000Z"
-    },
-    {
-      "id": "v8m0pb",
-      "title": "OpenRouter more than doubles valuation to $1.3B in a year",
-      "summary": "OpenRouter has raised a $113 million Series B led by CapitalG. Its 5x growth in usage over six months indicates the multi-AI-model future is here.",
-      "imageUrl": "https://images.unsplash.com/photo-1676299081847-824916de030a?w=800&q=80",
-      "source": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/05/26/openrouter-more-than-doubles-valuation-to-1-3b-in-a-year/",
-      "publishedAt": "2026-05-26T18:33:01.000Z"
-    },
-    {
-      "id": "1i2v91",
-      "title": "This startup is betting India’s gig economy can train the world’s robots",
-      "summary": "Human Archive, a startup founded by UC Berkeley and Stanford researchers, is paying gig workers in India to wear camera-equipped caps and sensor devices to collect the real-world physical training data that AI and robotics labs are racing to acquire.",
-      "imageUrl": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=800&q=80",
-      "source": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/05/26/human-archive-taps-into-indias-services-startups-to-collect-data-for-physical-ai/",
-      "publishedAt": "2026-05-26T16:00:00.000Z"
     },
     {
       "id": "gnc2i5",
@@ -532,15 +541,6 @@
       "source": "Ars Technica",
       "sourceUrl": "https://arstechnica.com/information-technology/2026/05/ars-asks-share-your-shell-and-show-us-your-tricked-out-terminals/",
       "publishedAt": "2026-05-06T13:32:47.000Z"
-    },
-    {
-      "id": "k35nqd",
-      "title": "Widely used Daemon Tools disk app backdoored in monthlong supply-chain attack",
-      "summary": "Daemon Tools users: It's time to check your machines for stealthy infections, stat.",
-      "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2022/08/GettyImages-1230467668-1152x648.jpg",
-      "source": "Ars Technica",
-      "sourceUrl": "https://arstechnica.com/security/2026/05/widely-used-daemon-tools-disk-app-backdoored-in-monthlong-supply-chain-attack/",
-      "publishedAt": "2026-05-05T19:46:15.000Z"
     }
   ]
 }
