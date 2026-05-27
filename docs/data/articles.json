@@ -1,7 +1,16 @@
 {
-  "fetchedAt": "2026-05-27T00:15:06.984Z",
+  "fetchedAt": "2026-05-27T04:57:58.078Z",
   "count": 60,
   "articles": [
+    {
+      "id": "mb932k",
+      "title": "Did the Pope use AI to write about the dangers of AI?",
+      "summary": "It's possible that AI was used to write parts of Pope Leo XIV's latest encyclical about AI's impact on humanity. An analysis by Linch Zhang posted on the forum LessWrong found certain paragraphs of Magnifica Humanitas to be between 40 percent and 100 percent written by AI, according to the popular AI detector Pangram. The document includes known traits that appear in AI-generated writing, such as a higher use of the word \"genuinely\" - which crops up in writing by Anthropic's Claude - than…",
+      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/05/gettyimages-2278118480.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "source": "The Verge",
+      "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/937801/pope-leo-xiv-magnifica-humanitas-ai-pangram",
+      "publishedAt": "2026-05-27T00:38:11.000Z"
+    },
     {
       "id": "pmus73",
       "title": "Pope Leo Schooled the Tech Bros on Tolkien",
@@ -129,12 +138,12 @@
       "publishedAt": "2026-05-26T12:00:00.000Z"
     },
     {
-      "id": "piy9gs",
-      "title": "AI Agents Plunged the Tech World Into Chaos. Here’s Exactly How That Happened",
-      "summary": "The definitive story of how Claude Code and OpenClaw kicked off computing’s biggest transformation possibly ever.",
-      "imageUrl": "https://media.wired.com/photos/69fdc08ed818d4f01db33c98/master/pass/wired_agents_web.gif",
+      "id": "z8d0eo",
+      "title": "Quiz: Will AI Destroy Your Career?",
+      "summary": "Some jobs may be toast. Some will survive. Click your answers to learn your fate.",
+      "imageUrl": "https://media.wired.com/photos/6a0b67820ce29a972051a9e8/master/pass/ai_exposed_jobs.jpg",
       "source": "Wired",
-      "sourceUrl": "https://www.wired.com/story/how-ai-agents-plunged-tech-world-into-chaos/",
+      "sourceUrl": "https://www.wired.com/story/quiz-will-ai-destroy-your-career/",
       "publishedAt": "2026-05-26T10:00:00.000Z"
     },
     {
@@ -156,12 +165,12 @@
       "publishedAt": "2026-05-26T10:00:00.000Z"
     },
     {
-      "id": "z8d0eo",
-      "title": "Quiz: Will AI Destroy Your Career?",
-      "summary": "Some jobs may be toast. Some will survive. Click your answers to learn your fate.",
-      "imageUrl": "https://media.wired.com/photos/6a0b67820ce29a972051a9e8/master/pass/ai_exposed_jobs.jpg",
+      "id": "piy9gs",
+      "title": "AI Agents Plunged the Tech World Into Chaos. Here’s Exactly How That Happened",
+      "summary": "The definitive story of how Claude Code and OpenClaw kicked off computing’s biggest transformation possibly ever.",
+      "imageUrl": "https://media.wired.com/photos/69fdc08ed818d4f01db33c98/master/pass/wired_agents_web.gif",
       "source": "Wired",
-      "sourceUrl": "https://www.wired.com/story/quiz-will-ai-destroy-your-career/",
+      "sourceUrl": "https://www.wired.com/story/how-ai-agents-plunged-tech-world-into-chaos/",
       "publishedAt": "2026-05-26T10:00:00.000Z"
     },
     {
@@ -183,12 +192,12 @@
       "publishedAt": "2026-05-26T10:00:00.000Z"
     },
     {
-      "id": "es4sj",
-      "title": "7 Ways to Get So Good at AI, People Will Think You Are AI",
-      "summary": "From killing your chatbots to optimizing your prompts, here are the best ways to go full AI native and conquer the new world.",
-      "imageUrl": "https://media.wired.com/photos/6a0df9f99e7a013d4de6fd4e/master/pass/HowToBeANativeWithAI_v2.jpg",
+      "id": "82ykv",
+      "title": "I’m a Professional Fact-Checker. AI Is Wrong More Often Than You Think",
+      "summary": "Can AI do fact-checking? A WIRED fact-checker fact-checks.",
+      "imageUrl": "https://media.wired.com/photos/6a04e6a1d7be752b48cba500/master/pass/AiFactChecking-Final.jpg",
       "source": "Wired",
-      "sourceUrl": "https://www.wired.com/story/7-ways-to-get-so-good-at-ai-people-will-think-you-are-ai/",
+      "sourceUrl": "https://www.wired.com/story/fact-checking-ai/",
       "publishedAt": "2026-05-26T10:00:00.000Z"
     },
     {
@@ -370,15 +379,6 @@
       "source": "The Verge",
       "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/936219/elon-stop-trying-to-make-grok-happen",
       "publishedAt": "2026-05-22T17:17:06.000Z"
-    },
-    {
-      "id": "o2u32j",
-      "title": "The literary world isn’t prepared for AI",
-      "summary": "Since 2012, the British literary magazine Granta has published the regional winners of the annual Commonwealth Short Story Prize. This year, however, there was something off about one of the selections for the prestigious award: It appears to have been written by AI. Jamir Nazir's \"The Serpent in the Grove\" has many of the hallmarks of LLM-generated prose - mixed metaphors, anaphora, lists of threes. (I'm aware this, too, is a list of threes, and I promise I wrote this post myself, unassisted,…",
-      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/04/257664_7_writing_apps_CVirginia.gif?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "source": "The Verge",
-      "sourceUrl": "https://www.theverge.com/tech/936073/ai-writing-granta-commonwealth-prize",
-      "publishedAt": "2026-05-22T14:30:00.000Z"
     },
     {
       "id": "7so3vm",
