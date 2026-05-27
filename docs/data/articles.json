@@ -1,7 +1,25 @@
 {
-  "fetchedAt": "2026-05-27T08:45:32.267Z",
+  "fetchedAt": "2026-05-27T12:28:00.308Z",
   "count": 60,
   "articles": [
+    {
+      "id": "m6j4og",
+      "title": "The AI fight brewing inside The New York Times",
+      "summary": "Yellow taxis pass in front of The New York Times newspaper building. | Alexandra Schuler/dpa (Photo by Alexandra Schuler/picture alliance via Getty Images) How newsrooms should use AI - or if they should at all - has been a recurrent debate within the media industry over the last several years. Increasingly, these rules are being hammered out at the bargaining table between unions and publishers. Right now, employees at The New York Times are gearing up for a fight. Unionized staff with the Tech…",
+      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/05/gettyimages-1171305932.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "source": "The Verge",
+      "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/937689/new-york-times-tech-guild-ai-monitoring-performance-union-contract",
+      "publishedAt": "2026-05-27T12:00:00.000Z"
+    },
+    {
+      "id": "p0fbdh",
+      "title": "The Pope isn’t AGI-pilled",
+      "summary": "On Monday, Pope Leo XIV unveiled an encyclical letter addressing the societal implications of artificial intelligence. The letter, titled Magnifica Humanitas, warned that the \"use of AI is never a purely technical matter: when it enters processes that affect people's lives, it touches on rights, opportunities, status and freedom.\" Alongside him was Anthropic cofounder and interpretability team lead Christopher Olah, representing a partnership between the Catholic Church and one of the biggest…",
+      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/05/gettyimages-2214106807.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "source": "The Verge",
+      "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/937933/pope-ai-encyclical-tech-industry-reactions",
+      "publishedAt": "2026-05-27T12:00:00.000Z"
+    },
     {
       "id": "mb932k",
       "title": "Did the Pope use AI to write about the dangers of AI?",
@@ -156,15 +174,6 @@
       "publishedAt": "2026-05-26T10:00:00.000Z"
     },
     {
-      "id": "bqgm50",
-      "title": "I Spent a Week Recording Myself Doing Chores for Money. Who's the Robot Now?",
-      "summary": "Cooking. Doing laundry. Tidying up. All your household tasks can be turned into data to train future humanoids—if you’re prepared for the consequences.",
-      "imageUrl": "https://media.wired.com/photos/6a077b4e67132e88ffa730a4/master/pass/AIPanic_TrainingRobots_v2.1.jpg",
-      "source": "Wired",
-      "sourceUrl": "https://www.wired.com/story/household-chores-training-robots/",
-      "publishedAt": "2026-05-26T10:00:00.000Z"
-    },
-    {
       "id": "z8d0eo",
       "title": "Quiz: Will AI Destroy Your Career?",
       "summary": "Some jobs may be toast. Some will survive. Click your answers to learn your fate.",
@@ -174,12 +183,21 @@
       "publishedAt": "2026-05-26T10:00:00.000Z"
     },
     {
-      "id": "m5bb40",
-      "title": "To Land a Job in AI, Try Reading Kant",
-      "summary": "The world’s leading AI labs are hiring philosophers to think through ethical edge cases and grand questions of mind and morality. Are they another instrument of hype?",
-      "imageUrl": "https://media.wired.com/photos/6a0722c3cc137669535c6942/master/pass/AIPhilosophers_v2.jpg",
+      "id": "bqgm50",
+      "title": "I Spent a Week Recording Myself Doing Chores for Money. Who's the Robot Now?",
+      "summary": "Cooking. Doing laundry. Tidying up. All your household tasks can be turned into data to train future humanoids—if you’re prepared for the consequences.",
+      "imageUrl": "https://media.wired.com/photos/6a077b4e67132e88ffa730a4/master/pass/AIPanic_TrainingRobots_v2.1.jpg",
       "source": "Wired",
-      "sourceUrl": "https://www.wired.com/story/to-land-a-job-in-ai-try-reading-kant/",
+      "sourceUrl": "https://www.wired.com/story/household-chores-training-robots/",
+      "publishedAt": "2026-05-26T10:00:00.000Z"
+    },
+    {
+      "id": "82ykv",
+      "title": "I’m a Professional Fact-Checker. AI Is Wrong More Often Than You Think",
+      "summary": "Can AI do fact-checking? A WIRED fact-checker fact-checks.",
+      "imageUrl": "https://media.wired.com/photos/6a04e6a1d7be752b48cba500/master/pass/AiFactChecking-Final.jpg",
+      "source": "Wired",
+      "sourceUrl": "https://www.wired.com/story/fact-checking-ai/",
       "publishedAt": "2026-05-26T10:00:00.000Z"
     },
     {
@@ -192,12 +210,12 @@
       "publishedAt": "2026-05-26T10:00:00.000Z"
     },
     {
-      "id": "82ykv",
-      "title": "I’m a Professional Fact-Checker. AI Is Wrong More Often Than You Think",
-      "summary": "Can AI do fact-checking? A WIRED fact-checker fact-checks.",
-      "imageUrl": "https://media.wired.com/photos/6a04e6a1d7be752b48cba500/master/pass/AiFactChecking-Final.jpg",
+      "id": "es4sj",
+      "title": "7 Ways to Get So Good at AI, People Will Think You Are AI",
+      "summary": "From killing your chatbots to optimizing your prompts, here are the best ways to go full AI native and conquer the new world.",
+      "imageUrl": "https://media.wired.com/photos/6a0df9f99e7a013d4de6fd4e/master/pass/HowToBeANativeWithAI_v2.jpg",
       "source": "Wired",
-      "sourceUrl": "https://www.wired.com/story/fact-checking-ai/",
+      "sourceUrl": "https://www.wired.com/story/7-ways-to-get-so-good-at-ai-people-will-think-you-are-ai/",
       "publishedAt": "2026-05-26T10:00:00.000Z"
     },
     {
@@ -354,15 +372,6 @@
       "publishedAt": "2026-05-22T23:03:33.000Z"
     },
     {
-      "id": "pj680g",
-      "title": "Google’s AI search is so broken it can ‘disregard’ what you’re looking for",
-      "summary": "Google's AI Overviews are running into an interesting problem right now. Earlier on Friday, if you searched for the term \"disregard,\" the AI Overview section would include a response like what you'd see from a more traditional AI chatbot instead of the typical AI summary, as spotted on X. As you can see in the image at the top of this story, I got an AI Overview response that said, \"Got it. If you need anything else or have a new question later, just let me know!\" As of Friday afternoon,…",
-      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/05/Screenshot-2026-05-22-at-8.44.28AM.png?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "source": "The Verge",
-      "sourceUrl": "https://www.theverge.com/tech/936176/google-ai-overviews-search-disregard",
-      "publishedAt": "2026-05-22T20:39:54.000Z"
-    },
-    {
       "id": "op1zyd",
       "title": "Texas AG sues Meta over claims that WhatsApp doesn't provide end-to-end encryption",
       "summary": "Critics note a lack of factual support in lawsuit filed by US Senate candidate.",
@@ -370,15 +379,6 @@
       "source": "Ars Technica",
       "sourceUrl": "https://arstechnica.com/security/2026/05/texas-ag-sues-meta-over-claims-that-whatsapp-doesnt-provide-end-to-end-encryption/",
       "publishedAt": "2026-05-22T18:13:05.000Z"
-    },
-    {
-      "id": "sf8vor",
-      "title": "Elon, stop trying to make Grok happen",
-      "summary": "There is a harsh truth about Elon Musk's \"truth-seeking\" AI chatbot Grok: It's not very good, and not many people are using it. That's the takeaway of a new Reuters report, which found that Grok barely appears in federal records of how the US government used AI last year. It's not the only sign xAI's signature chatbot is in trouble, even as Musk puts it at the heart of what could be the biggest IPO in history. Reuters reviewed more than 400 examples of government AI use where specific vendors…",
-      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/05/VRG_Illo_STK022_K_Radtke_Musk_Smiles.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "source": "The Verge",
-      "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/936219/elon-stop-trying-to-make-grok-happen",
-      "publishedAt": "2026-05-22T17:17:06.000Z"
     },
     {
       "id": "7so3vm",
