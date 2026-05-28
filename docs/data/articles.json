@@ -1,7 +1,25 @@
 {
-  "fetchedAt": "2026-05-28T00:08:48.266Z",
+  "fetchedAt": "2026-05-28T04:52:08.195Z",
   "count": 60,
   "articles": [
+    {
+      "id": "omdz7h",
+      "title": "Why Google’s AI can’t spell Google (or anything else)",
+      "summary": "Google is embarrassing itself, again.",
+      "imageUrl": "https://images.unsplash.com/photo-1676299081847-824916de030a?w=800&q=80",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/05/27/why-googles-ai-cant-spell-google-or-anything-else/",
+      "publishedAt": "2026-05-28T00:17:41.000Z"
+    },
+    {
+      "id": "aeanm6",
+      "title": "Illinois Lawmakers Just Passed America’s Strongest AI Safety Bill",
+      "summary": "The bill requires companies like OpenAI, Anthropic, and Google to have third parties confirm they’re following safety standards. Illinois governor JB Pritzker says he’ll sign it.",
+      "imageUrl": "https://media.wired.com/photos/6a1769e135f75a644600c4ac/master/pass/Illionois-AI-Safetry-Bill-Business-2270597563.jpg",
+      "source": "Wired",
+      "sourceUrl": "https://www.wired.com/story/illinois-pass-major-ai-safety-law-pritzker/",
+      "publishedAt": "2026-05-28T00:10:42.000Z"
+    },
     {
       "id": "d4l9db",
       "title": "Websites have a new way to spy on visitors: analyzing their SSD activity",
@@ -174,21 +192,21 @@
       "publishedAt": "2026-05-27T13:00:00.000Z"
     },
     {
-      "id": "axb0h",
-      "title": "Tech CEOs are apparently suffering from AI psychosis",
-      "summary": "\"CEOs are uniquely prone to AI psychosis,\" Box CEO Aaron Levie opines. Maybe that explains the almost religious belief in AI productivity gains.",
-      "imageUrl": "https://images.unsplash.com/photo-1635070041078-e363dbe005cb?w=800&q=80",
-      "source": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/05/27/tech-ceos-are-apparently-suffering-from-ai-psychosis/",
-      "publishedAt": "2026-05-27T12:30:00.000Z"
-    },
-    {
       "id": "dl03tf",
       "title": "Robinhood now lets your AI agents trade stocks",
       "summary": "While these agents would be able to read and analyze users' portfolios to come up with trading strategies and suggest investments, they'll only be able to access the pre-loaded balance in the dedicated wallet to place orders.",
       "imageUrl": "https://images.unsplash.com/photo-1676299081847-824916de030a?w=800&q=80",
       "source": "TechCrunch",
       "sourceUrl": "https://techcrunch.com/2026/05/27/robinhood-now-lets-your-ai-agents-trade-stocks/",
+      "publishedAt": "2026-05-27T12:30:00.000Z"
+    },
+    {
+      "id": "axb0h",
+      "title": "Tech CEOs are apparently suffering from AI psychosis",
+      "summary": "\"CEOs are uniquely prone to AI psychosis,\" Box CEO Aaron Levie opines. Maybe that explains the almost religious belief in AI productivity gains.",
+      "imageUrl": "https://images.unsplash.com/photo-1635070041078-e363dbe005cb?w=800&q=80",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/05/27/tech-ceos-are-apparently-suffering-from-ai-psychosis/",
       "publishedAt": "2026-05-27T12:30:00.000Z"
     },
     {
@@ -235,15 +253,6 @@
       "source": "Wired",
       "sourceUrl": "https://www.wired.com/story/pope-leo-schooled-the-tech-bros-on-tolkien/",
       "publishedAt": "2026-05-26T23:19:03.000Z"
-    },
-    {
-      "id": "z4v7bc",
-      "title": "DuckDuckGo installs are up 30% as users reject being ‘force-fed’ Google’s AI Search",
-      "summary": "Google overhauled Search at I/O 2026, replacing blue links with AI agents. The backlash has been swift. DuckDuckGo app installs spiked 30% as users seek a way out.",
-      "imageUrl": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=800&q=80",
-      "source": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/05/26/duckduckgo-installs-are-up-30-as-users-reject-being-force-fed-googles-ai-search/",
-      "publishedAt": "2026-05-26T22:32:56.000Z"
     },
     {
       "id": "57iwho",
@@ -351,15 +360,6 @@
       "imageUrl": "https://media.wired.com/photos/6a077b4e67132e88ffa730a4/master/pass/AIPanic_TrainingRobots_v2.1.jpg",
       "source": "Wired",
       "sourceUrl": "https://www.wired.com/story/household-chores-training-robots/",
-      "publishedAt": "2026-05-26T10:00:00.000Z"
-    },
-    {
-      "id": "82ykv",
-      "title": "I’m a Professional Fact-Checker. AI Is Wrong More Often Than You Think",
-      "summary": "Can AI do fact-checking? A WIRED fact-checker fact-checks.",
-      "imageUrl": "https://media.wired.com/photos/6a04e6a1d7be752b48cba500/master/pass/AiFactChecking-Final.jpg",
-      "source": "Wired",
-      "sourceUrl": "https://www.wired.com/story/fact-checking-ai/",
       "publishedAt": "2026-05-26T10:00:00.000Z"
     },
     {
