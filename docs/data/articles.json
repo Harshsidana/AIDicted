@@ -1,12 +1,48 @@
 {
-  "fetchedAt": "2026-05-28T19:42:36.783Z",
+  "fetchedAt": "2026-05-28T22:01:24.418Z",
   "count": 60,
   "articles": [
     {
-      "id": "fh88by",
-      "title": "Anthropic raises $65 Billion, nears $1T valuation ahead of IPO",
+      "id": "mm7lej",
+      "title": "The internet is being rebuilt for machines",
+      "summary": "As AI agents move from experiments to production, AWS, Cloudflare, and others are redesigning cloud infrastructure for a future dominated by machine-generated internet traffic instead of human users.",
+      "imageUrl": "https://images.unsplash.com/photo-1485827404703-89b55fcc595e?w=800&q=80",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/05/28/the-internet-is-being-rebuilt-for-machines/",
+      "publishedAt": "2026-05-28T21:24:01.000Z"
+    },
+    {
+      "id": "42hmdt",
+      "title": "Fed up with vibe coders, dev sneaks data-nuking prompt injection into their code",
+      "summary": "Undisclosed addition in jqwik instructed AI coding agents to delete app output.",
+      "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2026/01/coding_robots_agents-1152x648.jpg",
+      "source": "Ars Technica",
+      "sourceUrl": "https://arstechnica.com/security/2026/05/fed-up-with-vibe-coders-dev-sneaks-data-nuking-prompt-injection-into-their-code/",
+      "publishedAt": "2026-05-28T20:29:53.000Z"
+    },
+    {
+      "id": "sg37b0",
+      "title": "Microsoft 365 Copilot gets a speed boost and cleaner design",
+      "summary": "Microsoft is launching a revamped version of Microsoft 365 Copilot, offering a cleaner design that the company claims loads twice as fast. As part of this update, Copilot will provide more reliable and structured responses that are easier to scan, according to Microsoft. The redesign, which is rolling out across desktop and mobile devices, comes with a feature Microsoft calls \"progressive disclosure.\" That means Copilot will present you with tools and controls based on your prompt, instead of…",
+      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/05/M365Copilot_Hero_BannerImage_1920x1080.webp?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "source": "The Verge",
+      "sourceUrl": "https://www.theverge.com/tech/939273/microsoft-365-copilot-redesign",
+      "publishedAt": "2026-05-28T20:14:07.000Z"
+    },
+    {
+      "id": "xf9al4",
+      "title": "Asana acquires no-code agent-builder StackAI",
+      "summary": "Asana will incorporate StackAI into its growing suite of AI workflow tools.",
+      "imageUrl": "https://images.unsplash.com/photo-1550751827-4bd374c3f58b?w=800&q=80",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/05/28/asana-acquires-no-code-agent-builder-stack-ai/",
+      "publishedAt": "2026-05-28T20:06:07.000Z"
+    },
+    {
+      "id": "gdm32",
+      "title": "Anthropic raises $65 billion, nears $1T valuation ahead of IPO",
       "summary": "Anthropic has closed a $65 billion Series H round at a $965 billion post-money valuation, marking what could be the AI startup's final private fundraise before a highly anticipated IPO.",
-      "imageUrl": "https://images.unsplash.com/photo-1676299081847-824916de030a?w=800&q=80",
+      "imageUrl": "https://images.unsplash.com/photo-1635070041078-e363dbe005cb?w=800&q=80",
       "source": "TechCrunch",
       "sourceUrl": "https://techcrunch.com/2026/05/28/anthropic-raises-65-billion-nears-1t-valuation-ahead-of-ipo/",
       "publishedAt": "2026-05-28T18:52:51.000Z"
@@ -75,10 +111,10 @@
       "publishedAt": "2026-05-28T16:05:00.000Z"
     },
     {
-      "id": "dl9qbf",
-      "title": "How long is Anthropic’s lease with SpaceX? Opinions vary.",
+      "id": "k0uxdl",
+      "title": "How long is Anthropic’s lease with SpaceX? Opinions vary",
       "summary": "Elon Musk is publicly reframing xAI’s massive Anthropic compute deal as short-term and cancellable, despite SpaceX’s own S-1 filing describing payments through May 2029.",
-      "imageUrl": "https://images.unsplash.com/photo-1676299081847-824916de030a?w=800&q=80",
+      "imageUrl": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=800&q=80",
       "source": "TechCrunch",
       "sourceUrl": "https://techcrunch.com/2026/05/28/how-long-is-anthropics-lease-with-spacex-opinions-vary/",
       "publishedAt": "2026-05-28T15:36:00.000Z"
@@ -246,24 +282,6 @@
       "publishedAt": "2026-05-28T08:49:07.000Z"
     },
     {
-      "id": "1vz1i9",
-      "title": "Vertu wants CEOs to run companies from an AI foldable starting at $6,880",
-      "summary": "Built on top of the open source Hermes project, Vertu's new foldable combines AI-agent workflows, enterprise integrations, and ultra-premium luxury finishes.",
-      "imageUrl": "https://images.unsplash.com/photo-1655720828018-edd2daec9349?w=800&q=80",
-      "source": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/05/28/vertu-wants-ceos-to-run-companies-from-an-ai-foldable-starting-at-6880/",
-      "publishedAt": "2026-05-28T07:00:00.000Z"
-    },
-    {
-      "id": "omdz7h",
-      "title": "Why Google’s AI can’t spell Google (or anything else)",
-      "summary": "Google is embarrassing itself, again.",
-      "imageUrl": "https://images.unsplash.com/photo-1676299081847-824916de030a?w=800&q=80",
-      "source": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/05/27/why-googles-ai-cant-spell-google-or-anything-else/",
-      "publishedAt": "2026-05-28T00:17:41.000Z"
-    },
-    {
       "id": "aeanm6",
       "title": "Illinois Lawmakers Just Passed America’s Strongest AI Safety Bill",
       "summary": "The bill requires companies like OpenAI, Anthropic, and Google to have third parties confirm they’re following safety standards. Illinois governor JB Pritzker says he’ll sign it.",
@@ -307,15 +325,6 @@
       "source": "The Verge",
       "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/938095/robinhood-ai-agent-stock-trading",
       "publishedAt": "2026-05-27T14:36:10.000Z"
-    },
-    {
-      "id": "9kciai",
-      "title": "This smart bird feeder captures more of my backyard drama",
-      "summary": "This smart bird feeder sees more but with less whimsy. | Photo by Jennifer Pattison Tuohy / The Verge Since moving to South Carolina's Lowcountry, I've been spellbound by the myriad of beautiful birds that share the coast with us - ospreys raising their babies in towering nests beside the road to my daughter's school, roseate spoonbills wading in the marsh on my morning walks, eagles circling over my son's tennis matches, and a constant parade of songbirds through my backyard. The challenge, as…",
-      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/05/8A0A6250.jpeg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "source": "The Verge",
-      "sourceUrl": "https://www.theverge.com/tech/937628/coolfly-aura-smart-bird-feeder-review",
-      "publishedAt": "2026-05-27T14:00:00.000Z"
     },
     {
       "id": "t5edst",
@@ -532,15 +541,6 @@
       "source": "Ars Technica",
       "sourceUrl": "https://arstechnica.com/information-technology/2026/05/mozilla-says-271-vulnerabilities-found-by-mythos-have-almost-no-false-positives/",
       "publishedAt": "2026-05-07T19:18:16.000Z"
-    },
-    {
-      "id": "nci0sv",
-      "title": "Ars Asks: Share your shell and show us your tricked-out terminals!",
-      "summary": "A celebration of the tweaks and customizations that make life easier at the CLI.",
-      "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2026/04/terminal-hotness-1152x648.jpg",
-      "source": "Ars Technica",
-      "sourceUrl": "https://arstechnica.com/information-technology/2026/05/ars-asks-share-your-shell-and-show-us-your-tricked-out-terminals/",
-      "publishedAt": "2026-05-06T13:32:47.000Z"
     }
   ]
 }
