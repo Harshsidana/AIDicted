@@ -1,7 +1,61 @@
 {
-  "fetchedAt": "2026-05-28T08:49:23.683Z",
+  "fetchedAt": "2026-05-28T12:36:53.679Z",
   "count": 60,
   "articles": [
+    {
+      "id": "t26sqg",
+      "title": "New Moms Are Returning to Coding Jobs Radically Reshaped by AI",
+      "summary": "New mothers working in software development are staring down an AI-pilled workplace they barely recognize.",
+      "imageUrl": "https://media.wired.com/photos/6a0b7d9d4db62c986283e838/master/pass/Business_TheWomenWhoWentonMaternityLeaveandReturnedtoanOfficeReshapedbyAI_v2.jpg",
+      "source": "Wired",
+      "sourceUrl": "https://www.wired.com/story/women-parental-leave-return-office-ai/",
+      "publishedAt": "2026-05-28T11:00:00.000Z"
+    },
+    {
+      "id": "15jur2",
+      "title": "Amazon Thinks the Future of Data Centers Depends on a Technical Problem It Just Solved",
+      "summary": "The tech giant says a breakthrough in data-center networking has dramatically accelerated the flow of information through its massive cloud infrastructure.",
+      "imageUrl": "https://media.wired.com/photos/6a173c117ababccb510cce19/master/pass/Amazon-AI-Future-Business-Ratul-Giacomo-Sesh-in-front-of-RNG-racks3.jpg",
+      "source": "Wired",
+      "sourceUrl": "https://www.wired.com/story/amazon-thinks-the-future-of-data-centers-depends-on-a-technical-problem-it-just-solved/",
+      "publishedAt": "2026-05-28T10:30:00.000Z"
+    },
+    {
+      "id": "yginbx",
+      "title": "Climate tech companies are going public. What’s next?",
+      "summary": "This year, there’s been a wave of notable energy companies going public via IPO in the US. The solar and battery company Solv Energy went public in February, to the tune of $6 billion. X-energy, which is building small modular nuclear reactors, did the same in April, and its stocks surged on its first day…",
+      "imageUrl": "https://images.unsplash.com/photo-1655720828018-edd2daec9349?w=800&q=80",
+      "source": "MIT Tech Review",
+      "sourceUrl": "https://www.technologyreview.com/2026/05/28/1138067/climate-tech-ipos/",
+      "publishedAt": "2026-05-28T10:00:00.000Z"
+    },
+    {
+      "id": "l7fusm",
+      "title": "The AI Hype Index: AI gets booed in graduation season",
+      "summary": "It is one thing to say AI will change the world. It is another to expect the class of 2026 to applaud it. In fact, when former Google CEO Eric Schmidt told University of Arizona graduates that their task is to help shape AI, he was met with a resounding chorus of boos. “I can…",
+      "imageUrl": "https://images.unsplash.com/photo-1550751827-4bd374c3f58b?w=800&q=80",
+      "source": "MIT Tech Review",
+      "sourceUrl": "https://www.technologyreview.com/2026/05/28/1138053/the-ai-hype-index-ai-gets-booed-in-graduation-season/",
+      "publishedAt": "2026-05-28T09:51:11.000Z"
+    },
+    {
+      "id": "1xm3u5",
+      "title": "YouTube will let you ask AI to make a custom video feed",
+      "summary": "You can enter your own prompt, or select from the suggested options provided by YouTube. | Image: YouTube YouTube is launching a new AI feature that creates a personalized video feed based on descriptions of what you want to watch. In its announcement, YouTube says custom content feeds can be built around your specific interests, moods, or favorite topics, which you can then pin to the top of your YouTube homepage - making it easy to jump back into the feed. This feature is currently rolling out…",
+      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/05/YouTube-AI-custom-feeds.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "source": "The Verge",
+      "sourceUrl": "https://www.theverge.com/streaming/938759/youtube-custom-ai-feed-prompt-availability",
+      "publishedAt": "2026-05-28T08:49:07.000Z"
+    },
+    {
+      "id": "1vz1i9",
+      "title": "Vertu wants CEOs to run companies from an AI foldable starting at $6,880",
+      "summary": "Built on top of the open-source Hermes project, Vertu's new foldable combines AI-agent workflows, enterprise integrations, and ultra-premium luxury finishes.",
+      "imageUrl": "https://images.unsplash.com/photo-1655720828018-edd2daec9349?w=800&q=80",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/05/28/vertu-wants-ceos-to-run-companies-from-an-ai-foldable-starting-at-6880/",
+      "publishedAt": "2026-05-28T07:00:00.000Z"
+    },
     {
       "id": "omdz7h",
       "title": "Why Google’s AI can’t spell Google (or anything else)",
@@ -201,15 +255,6 @@
       "publishedAt": "2026-05-27T12:30:00.000Z"
     },
     {
-      "id": "axb0h",
-      "title": "Tech CEOs are apparently suffering from AI psychosis",
-      "summary": "\"CEOs are uniquely prone to AI psychosis,\" Box CEO Aaron Levie opines. Maybe that explains the almost religious belief in AI productivity gains.",
-      "imageUrl": "https://images.unsplash.com/photo-1635070041078-e363dbe005cb?w=800&q=80",
-      "source": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/05/27/tech-ceos-are-apparently-suffering-from-ai-psychosis/",
-      "publishedAt": "2026-05-27T12:30:00.000Z"
-    },
-    {
       "id": "wi7r7k",
       "title": "The Download: keeping up with AI, and the future of IVF",
       "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. Stay on top of what’s going on in AI this summer Here at MIT Technology Review, we understand exactly how relentless the pace of news from the world of artificial intelligence…",
@@ -318,15 +363,6 @@
       "publishedAt": "2026-05-26T12:10:00.000Z"
     },
     {
-      "id": "n0e2x3",
-      "title": "AI warfare is already here",
-      "summary": "The Convention on Certain Conventional Weapons, an international forum that focuses on lethal autonomous systems, is hosted twice a year at the United Nations in Geneva. When Branka Marijan attended in November 2017, she thought the five-day sessions - which dealt largely in hypotheticals, speculating on a world where warfare was fought with killer robots - would be business as usual. After all, this was technology some thought might never be developed, and likely never deployed. That year, she…",
-      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/05/268475_AIs_red_line_JMac2.png?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "source": "The Verge",
-      "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/937028/military-ai-warfare-red-lines",
-      "publishedAt": "2026-05-26T12:00:00.000Z"
-    },
-    {
       "id": "piy9gs",
       "title": "AI Agents Plunged the Tech World Into Chaos. Here’s Exactly How That Happened",
       "summary": "The definitive story of how Claude Code and OpenClaw kicked off computing’s biggest transformation possibly ever.",
@@ -342,24 +378,6 @@
       "imageUrl": "https://media.wired.com/photos/6a047c1d138310676483b3fe/master/pass/AIDebtCollectors_v3.1.jpg",
       "source": "Wired",
       "sourceUrl": "https://www.wired.com/story/ai-takes-over-debt-collection/",
-      "publishedAt": "2026-05-26T10:00:00.000Z"
-    },
-    {
-      "id": "z8d0eo",
-      "title": "Quiz: Will AI Destroy Your Career?",
-      "summary": "Some jobs may be toast. Some will survive. Click your answers to learn your fate.",
-      "imageUrl": "https://media.wired.com/photos/6a0b67820ce29a972051a9e8/master/pass/ai_exposed_jobs.jpg",
-      "source": "Wired",
-      "sourceUrl": "https://www.wired.com/story/quiz-will-ai-destroy-your-career/",
-      "publishedAt": "2026-05-26T10:00:00.000Z"
-    },
-    {
-      "id": "bqgm50",
-      "title": "I Spent a Week Recording Myself Doing Chores for Money. Who's the Robot Now?",
-      "summary": "Cooking. Doing laundry. Tidying up. All your household tasks can be turned into data to train future humanoids—if you’re prepared for the consequences.",
-      "imageUrl": "https://media.wired.com/photos/6a077b4e67132e88ffa730a4/master/pass/AIPanic_TrainingRobots_v2.1.jpg",
-      "source": "Wired",
-      "sourceUrl": "https://www.wired.com/story/household-chores-training-robots/",
       "publishedAt": "2026-05-26T10:00:00.000Z"
     },
     {
@@ -433,24 +451,6 @@
       "source": "MIT Tech Review",
       "sourceUrl": "https://www.technologyreview.com/2026/05/22/1137753/the-enhanced-games-fit-right-in-with-the-rest-of-2026s-longevity-vibes/",
       "publishedAt": "2026-05-22T09:00:00.000Z"
-    },
-    {
-      "id": "84alir",
-      "title": "Roundtables: Can AI Learn to Understand the World?",
-      "summary": "Listen to the session or watch below AI companies want to build systems that understand the external world and overcome the limitations of LLMs. Recent developments have brought world models to the forefront of the AI discussion. Watch a conversation with editor in chief Mat Honan, senior AI editor Will Douglas Heaven, and AI reporter…",
-      "imageUrl": "https://images.unsplash.com/photo-1676299081847-824916de030a?w=800&q=80",
-      "source": "MIT Tech Review",
-      "sourceUrl": "https://www.technologyreview.com/2026/05/21/1137756/roundtables-can-ai-learn-to-understand-the-world/",
-      "publishedAt": "2026-05-21T20:41:05.000Z"
-    },
-    {
-      "id": "u6u7sr",
-      "title": "Scaling creativity in the age of AI",
-      "summary": "Storytelling is core to humanity’s DNA, stemming from our impulse to express ideals, warnings, hopes, and experiences. Technology has always been woven through the medium and the distribution: from early humans’ innovation of natural pigments and charcoals for cave paintings to literal representation by the camera. The landscape of storytelling continues to shift under our…",
-      "imageUrl": "https://images.unsplash.com/photo-1550751827-4bd374c3f58b?w=800&q=80",
-      "source": "MIT Tech Review",
-      "sourceUrl": "https://www.technologyreview.com/2026/05/21/1137613/scaling-creativity-in-the-age-of-ai/",
-      "publishedAt": "2026-05-21T19:16:43.000Z"
     },
     {
       "id": "fuqb27",
