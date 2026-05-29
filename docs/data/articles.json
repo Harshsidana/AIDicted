@@ -1,11 +1,20 @@
 {
-  "fetchedAt": "2026-05-29T19:11:47.687Z",
+  "fetchedAt": "2026-05-29T21:22:53.019Z",
   "count": 60,
   "articles": [
     {
+      "id": "z16k0p",
+      "title": "Amazon Is Making an AI-Animated ‘Good Advice Cupcake’ TV Show. Its Original Creator Is Furious",
+      "summary": "Loryn Brantz created The Good Advice Cupcake for BuzzFeed years ago. The company licensed the character for a new Amazon series—made with AI—without her consent.",
+      "imageUrl": "https://media.wired.com/photos/6a18c5e0148c56039b79b0d5/master/pass/Amazon-Turns-Buzzfeed-Good-Advice-Cupcake-Into-AI-Series-Culture-1164238077.jpg",
+      "source": "Wired",
+      "sourceUrl": "https://www.wired.com/story/story/amazon-is-making-an-ai-animated-good-advice-cupcake-tv-show-its-original-creator-is-furious/",
+      "publishedAt": "2026-05-29T20:56:59.000Z"
+    },
+    {
       "id": "n3qes",
       "title": "Hands-On With Gemini Spark: I Gave It Access to My Life and It Friend-Zoned My Boyfriend",
-      "summary": "Google's new AI agent combed through my emails, documents, and calendar to plan a birthday party and still didn’t clock the person most important to me.",
+      "summary": "Google’s new AI agent combed through my emails, documents, and calendar to plan a birthday party and still didn’t clock the person most important to me.",
       "imageUrl": "https://media.wired.com/photos/6a19d3576c603cc05220330d/master/pass/Gear_HandsOnWithGeminiSparkGoogle%E2%80%99sAIAgentThatLivesinYourPhone_v1.jpg",
       "source": "Wired",
       "sourceUrl": "https://www.wired.com/story/google-gemini-spark-ai-agent-hands-on/",
@@ -19,6 +28,15 @@
       "source": "TechCrunch",
       "sourceUrl": "https://techcrunch.com/2026/05/29/artificial-intelligence-definition-glossary-hallucinations-guide-to-common-ai-terms/",
       "publishedAt": "2026-05-29T18:49:19.000Z"
+    },
+    {
+      "id": "hk244o",
+      "title": "Botnet of more than 17 million devices dismantled",
+      "summary": "The botnet was reportedly tied to a Russia-based residential proxy network.",
+      "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2020/04/botnet6.jpg",
+      "source": "Ars Technica",
+      "sourceUrl": "https://arstechnica.com/security/2026/05/botnet-of-more-than-17-million-devices-dismantled/",
+      "publishedAt": "2026-05-29T18:46:33.000Z"
     },
     {
       "id": "5s9i9m",
@@ -39,12 +57,12 @@
       "publishedAt": "2026-05-29T17:37:43.000Z"
     },
     {
-      "id": "gbgqot",
-      "title": "After Nvidia’s $20B not-aqui-hire, AI chip startup Groq reportedly raising $650M",
+      "id": "4d16s7",
+      "title": "After Nvidia’s $20B not-acqui-hire, AI chip startup Groq reportedly raising $650M",
       "summary": "Chipmaker Groq is looking to raise $650 million in internal funding as it pivots from hardware to focus more on AI inference, the process of refining the way AI models respond to prompted requests, per Axios.",
-      "imageUrl": "https://images.unsplash.com/photo-1620712943543-bcc4688e7485?w=800&q=80",
+      "imageUrl": "https://images.unsplash.com/photo-1676299081847-824916de030a?w=800&q=80",
       "source": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/05/29/after-nvidias-20b-not-aqui-hire-ai-chip-startup-groq-reportedly-raising-650m/",
+      "sourceUrl": "https://techcrunch.com/2026/05/29/after-nvidias-20b-not-acqui-hire-ai-chip-startup-groq-reportedly-raising-650m/",
       "publishedAt": "2026-05-29T17:27:13.000Z"
     },
     {
@@ -399,15 +417,6 @@
       "publishedAt": "2026-05-27T12:10:00.000Z"
     },
     {
-      "id": "pmus73",
-      "title": "Pope Leo Schooled the Tech Bros on Tolkien",
-      "summary": "The Holy Father referenced The Lord of the Rings in his encyclical about AI—an expert (if unintentional) troll of tech billionaires who keep misinterpreting the series.",
-      "imageUrl": "https://media.wired.com/photos/6a15ebea591e522c95b4533e/master/pass/The-Pope-Gets-Tolkien-Culture-2277270022.jpg",
-      "source": "Wired",
-      "sourceUrl": "https://www.wired.com/story/pope-leo-schooled-the-tech-bros-on-tolkien/",
-      "publishedAt": "2026-05-26T23:19:03.000Z"
-    },
-    {
       "id": "6z35pf",
       "title": "Millions of AI agents imperiled by critical vulnerability in open source package",
       "summary": "\"BadHost\" was found in Starlette, a package with 325 million weekly downloads.",
@@ -532,15 +541,6 @@
       "source": "Ars Technica",
       "sourceUrl": "https://arstechnica.com/security/2026/05/chaos-erupts-as-cyberattack-disrupts-learning-platform-canvas-amid-finals/",
       "publishedAt": "2026-05-08T18:33:48.000Z"
-    },
-    {
-      "id": "bik5l9",
-      "title": "Mozilla says 271 vulnerabilities found by Mythos have \"almost no false positives\"",
-      "summary": "The developer of Firefox says it has \"completely bought in\" on AI-assisted bug discovery.",
-      "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2026/03/GettyImages-2167753513-1152x648.jpg",
-      "source": "Ars Technica",
-      "sourceUrl": "https://arstechnica.com/information-technology/2026/05/mozilla-says-271-vulnerabilities-found-by-mythos-have-almost-no-false-positives/",
-      "publishedAt": "2026-05-07T19:18:16.000Z"
     }
   ]
 }
