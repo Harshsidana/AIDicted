@@ -1,7 +1,79 @@
 {
-  "fetchedAt": "2026-05-29T11:49:15.043Z",
+  "fetchedAt": "2026-05-29T16:00:53.863Z",
   "count": 60,
   "articles": [
+    {
+      "id": "ov7nnh",
+      "title": "The Vatican’s Man Inside Anthropic",
+      "summary": "Pope Leo XIV may not be able to disarm AI, but he’s got the attention of the industry.",
+      "imageUrl": "https://media.wired.com/photos/6a1898e5148c56039b79abe1/master/pass/Backchannel-Pope-Leo-AI-Business-2214167500.jpg",
+      "source": "Wired",
+      "sourceUrl": "https://www.wired.com/story/the-vaticans-man-inside-anthropic/",
+      "publishedAt": "2026-05-29T15:00:00.000Z"
+    },
+    {
+      "id": "awh3zi",
+      "title": "Today is the last day to apply to speak at TechCrunch Disrupt 2026",
+      "summary": "Submit your session topic before today ends for a chance to speak at TechCrunch Disrupt 2026. Apply now to share your insight and help shape the conversations defining the tech industry.",
+      "imageUrl": "https://images.unsplash.com/photo-1655720828018-edd2daec9349?w=800&q=80",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/05/29/today-is-the-last-day-to-apply-to-speak-at-techcrunch-disrupt-2026/",
+      "publishedAt": "2026-05-29T14:15:00.000Z"
+    },
+    {
+      "id": "2t6wfz",
+      "title": "Final 24 hours to save up to $410 on your TechCrunch Disrupt 2026 ticket",
+      "summary": "You now have until tonight at 11:59 p.m. PT to lock in Early Bird savings of up to $410 for TechCrunch Disrupt 2026 before prices increase. Join 10,000+ tech leaders in October for one of the most anticipated tech events of the year. Register now.",
+      "imageUrl": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=800&q=80",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/05/29/final-24-hours-to-save-up-to-410-on-your-techcrunch-disrupt-2026-ticket/",
+      "publishedAt": "2026-05-29T14:00:00.000Z"
+    },
+    {
+      "id": "m5p86f",
+      "title": "Kiwibit’s AI-powered bird feeder is my new backyard buddy",
+      "summary": "If you're looking for a fun way to connect with nature while collecting bird species on an app like Pokémon, give this smart feeder a try.",
+      "imageUrl": "https://images.unsplash.com/photo-1485827404703-89b55fcc595e?w=800&q=80",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/05/29/kiwibits-ai-powered-bird-feeder-is-my-new-backyard-buddy/",
+      "publishedAt": "2026-05-29T13:00:00.000Z"
+    },
+    {
+      "id": "dxwj59",
+      "title": "Jony Ive’s funky Ferrari",
+      "summary": "Most people will never own, drive, or even sit inside a Ferrari Luce. (If you can, or do… hit us up.) There's still no question that Ferrari's first electric vehicle is one of the most interesting, surprising cars of the year. With a decidedly un-Ferrari look, and lots of new technology and designs courtesy of Sir Jony Ive, the Luce is a lot of big ideas in a single swoopy package. A lot of people really hate it. Verge subscribers, don't forget you get exclusive access to ad-free Vergecast…",
+      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/05/VRG_VST_052926_Site.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "source": "The Verge",
+      "sourceUrl": "https://www.theverge.com/podcast/939589/ferrari-luce-jony-ive-vergecast",
+      "publishedAt": "2026-05-29T12:25:12.000Z"
+    },
+    {
+      "id": "qhba0r",
+      "title": "The Download: unlocking lithium and controlling Ebola",
+      "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. How a new extraction process could unlock the world’s lithium A new method for extracting lithium could cut costs and emissions from one of the world’s most important materials for EVs…",
+      "imageUrl": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=800&q=80",
+      "source": "MIT Tech Review",
+      "sourceUrl": "https://www.technologyreview.com/2026/05/29/1138110/the-download-lithium-extraction-ebola-ai-pope/",
+      "publishedAt": "2026-05-29T12:10:00.000Z"
+    },
+    {
+      "id": "ku6a0w",
+      "title": "This chip startup just raised $135M on a bet that AI’s biggest bottleneck isn’t compute — it’s memory",
+      "summary": "South Korean chip startup XCENA is betting that AI's real bottleneck is not compute, but memory.",
+      "imageUrl": "https://images.unsplash.com/photo-1531746790095-6c10a4031c5f?w=800&q=80",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/05/29/xcena-secures-135m-at-570m-valuation-betting-on-memory-as-ais-real-bottleneck/",
+      "publishedAt": "2026-05-29T12:00:00.000Z"
+    },
+    {
+      "id": "y4ifkw",
+      "title": "This AI startup will clean your home for free to train future robots",
+      "summary": "AI training startup Shift wants to clean your home for free. The catch - because, despite what its website says, there's always a catch - is that it will record cleaners as they scrub, vacuum, dust, tidy, and wash, and use that footage to train robots. Shift announced the unusual offer on social media on Thursday, explaining that the value of the training data generated from the cleanings is more than enough to fund the service. As its website puts it: \"You get a spotless apartment. We get…",
+      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/05/Screenshot-2026-05-29-at-12.44.12.png?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "source": "The Verge",
+      "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/939765/ai-training-data-startup-shift-free-cleaning",
+      "publishedAt": "2026-05-29T11:58:40.000Z"
+    },
     {
       "id": "41e0fc",
       "title": "The deadly Ebola outbreak is proving difficult to control",
@@ -30,10 +102,10 @@
       "publishedAt": "2026-05-29T10:00:00.000Z"
     },
     {
-      "id": "563p0",
-      "title": "Glean’s top line crosses $300M as AI budget-cutting becomes its major selling point",
+      "id": "18lye9",
+      "title": "Glean’s top line crosses $300M as AI budget cutting becomes its major selling point",
       "summary": "The enterprise AI search startup tripled its annual revenue even as tech giants entered the category.",
-      "imageUrl": "https://images.unsplash.com/photo-1655720828018-edd2daec9349?w=800&q=80",
+      "imageUrl": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=800&q=80",
       "source": "TechCrunch",
       "sourceUrl": "https://techcrunch.com/2026/05/28/gleans-top-line-crosses-300m-as-ai-budget-cutting-becomes-its-major-selling-point/",
       "publishedAt": "2026-05-29T00:44:37.000Z"
@@ -201,24 +273,6 @@
       "publishedAt": "2026-05-28T14:30:17.000Z"
     },
     {
-      "id": "kpwkyx",
-      "title": "At TechCrunch Disrupt 2026: Databricks’ co-founder on what kills enterprise AI deals",
-      "summary": "Enterprise AI is entering a different phase now, one where enterprises are no longer evaluating whether AI is exciting. They are evaluating whether it is safe to deploy broadly.",
-      "imageUrl": "https://images.unsplash.com/photo-1635070041078-e363dbe005cb?w=800&q=80",
-      "source": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/05/28/techcrunch-disrupt-2026-databricks-co-founder-on-what-kills-enterprise-ai-deals/",
-      "publishedAt": "2026-05-28T14:30:00.000Z"
-    },
-    {
-      "id": "6s0ti4",
-      "title": "YouTube adds new podcast features, including an AI recommendation tool and ‘Auto speed’",
-      "summary": "The update signals YouTube's ongoing efforts to compete with other platforms for podcast audiences.",
-      "imageUrl": "https://images.unsplash.com/photo-1531746790095-6c10a4031c5f?w=800&q=80",
-      "source": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/05/28/youtube-adds-new-podcast-features-including-an-ai-recommendation-tool-and-auto-speed/",
-      "publishedAt": "2026-05-28T14:28:47.000Z"
-    },
-    {
       "id": "uzoq0m",
       "title": "CNN sues Perplexity over ‘verbatim’ copycat articles",
       "summary": "CNN has filed a lawsuit against Perplexity, claiming that the startup's AI tools generate \"verbatim\" copies of its work, as reported earlier by CNN. The lawsuit, filed in a New York court on Thursday, also alleges that Perplexity provides users with information locked behind CNN's subscription. Perplexity, which offers an AI \"answer\" engine along with the AI browser Comet, is accused of ignoring CNN's efforts \"to recognize or block Perplexity's unidentified crawlers\" from scraping its content.…",
@@ -226,24 +280,6 @@
       "source": "The Verge",
       "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/938893/cnn-perplexity-ai-copyright-lawsuit",
       "publishedAt": "2026-05-28T14:08:36.000Z"
-    },
-    {
-      "id": "yw73at",
-      "title": "2 days left: Lock in ticket savings of up to $410 to TechCrunch Disrupt 2026",
-      "summary": "Savings of up to $410 on TechCrunch Disrupt 2026 tickets end tomorrow, May 29, 11:59 p.m. PT. Register now to save and join 10,000+ tech leaders on October 13-15 in San Francisco.",
-      "imageUrl": "https://images.unsplash.com/photo-1635070041078-e363dbe005cb?w=800&q=80",
-      "source": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/05/28/2-days-left-lock-in-ticket-savings-of-up-to-410-to-techcrunch-disrupt-2026/",
-      "publishedAt": "2026-05-28T14:00:00.000Z"
-    },
-    {
-      "id": "qmi55w",
-      "title": "Visa invests in Replit to power agentic payments for developers",
-      "summary": "Visa said that over 1,000 employees have been using Replit for prototyping and development.",
-      "imageUrl": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=800&q=80",
-      "source": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/05/28/visa-invests-in-replit-to-power-agentic-payments-for-developers/",
-      "publishedAt": "2026-05-28T14:00:00.000Z"
     },
     {
       "id": "ryw670",
@@ -300,15 +336,6 @@
       "publishedAt": "2026-05-28T09:51:11.000Z"
     },
     {
-      "id": "1xm3u5",
-      "title": "YouTube will let you ask AI to make a custom video feed",
-      "summary": "You can enter your own prompt, or select from the suggested options provided by YouTube. | Image: YouTube YouTube is launching a new AI feature that creates a personalized video feed based on descriptions of what you want to watch. In its announcement, YouTube says custom content feeds can be built around your specific interests, moods, or favorite topics, which you can then pin to the top of your YouTube homepage - making it easy to jump back into the feed. This feature is currently rolling out…",
-      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/05/YouTube-AI-custom-feeds.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "source": "The Verge",
-      "sourceUrl": "https://www.theverge.com/streaming/938759/youtube-custom-ai-feed-prompt-availability",
-      "publishedAt": "2026-05-28T08:49:07.000Z"
-    },
-    {
       "id": "aeanm6",
       "title": "Illinois Lawmakers Just Passed America’s Strongest AI Safety Bill",
       "summary": "The bill requires companies like OpenAI, Anthropic, and Google to have third parties confirm they’re following safety standards. Illinois governor JB Pritzker says he’ll sign it.",
@@ -334,15 +361,6 @@
       "source": "Wired",
       "sourceUrl": "https://www.wired.com/story/huawei-chip-queen-moores-law-tau/",
       "publishedAt": "2026-05-27T18:00:00.000Z"
-    },
-    {
-      "id": "w54zkk",
-      "title": "AI tried to bury this politician — now people have actually heard of him",
-      "summary": "NY-12 congressional candidate Alex Bores speaks during a campaign event. | Bloomberg via Getty Images By the time that the Democratic primary for New York's 12th congressional district wraps up in June, Anthropic and OpenAI will have spent millions on their battle over the political future of AI: who gets to regulate it, or who will be punished for trying to regulate it. But the real winner of their feud may be the guy they're currently fighting over: a once-obscure New York state assemblyman,…",
-      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/05/gettyimages-2271137268.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "source": "The Verge",
-      "sourceUrl": "https://www.theverge.com/policy/937650/ai-alex-bores-openai-anthropic-ny12",
-      "publishedAt": "2026-05-27T15:40:00.000Z"
     },
     {
       "id": "t5edst",
@@ -415,24 +433,6 @@
       "source": "MIT Tech Review",
       "sourceUrl": "https://www.technologyreview.com/2026/05/26/1138028/the-download-ai-jobs-data/",
       "publishedAt": "2026-05-26T12:10:00.000Z"
-    },
-    {
-      "id": "piy9gs",
-      "title": "AI Agents Plunged the Tech World Into Chaos. Here’s Exactly How That Happened",
-      "summary": "The definitive story of how Claude Code and OpenClaw kicked off computing’s biggest transformation possibly ever.",
-      "imageUrl": "https://media.wired.com/photos/69fdc08ed818d4f01db33c98/master/pass/wired_agents_web.gif",
-      "source": "Wired",
-      "sourceUrl": "https://www.wired.com/story/how-ai-agents-plunged-tech-world-into-chaos/",
-      "publishedAt": "2026-05-26T10:00:00.000Z"
-    },
-    {
-      "id": "679sdp",
-      "title": "A reality check on the AI jobs hysteria",
-      "summary": "Haven’t you heard? White-collar jobs are going away, decimated by AI. Waves of layoffs in the tech sector (most recently at Coinbase and Meta and Cisco) are said to presage what will soon come for all of us knowledge workers. But before you quit your job as a software developer or financial analyst—or tech journalist—and…",
-      "imageUrl": "https://images.unsplash.com/photo-1635070041078-e363dbe005cb?w=800&q=80",
-      "source": "MIT Tech Review",
-      "sourceUrl": "https://www.technologyreview.com/2026/05/26/1137855/a-reality-check-on-the-ai-jobs-hysteria/",
-      "publishedAt": "2026-05-26T09:00:00.000Z"
     },
     {
       "id": "mjt8wp",
