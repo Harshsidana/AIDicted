@@ -1,7 +1,34 @@
 {
-  "fetchedAt": "2026-05-29T08:25:26.014Z",
+  "fetchedAt": "2026-05-29T11:49:15.043Z",
   "count": 60,
   "articles": [
+    {
+      "id": "41e0fc",
+      "title": "The deadly Ebola outbreak is proving difficult to control",
+      "summary": "The alert was raised on May 5. Four health-care workers in the Ituri Province of the Democratic Republic of the Congo had died from an unknown illness within four days. Rapid response teams were sent to investigate, and tests at a research center in Kinshasa revealed the culprit: the Bundibugyo virus, one of the viruses…",
+      "imageUrl": "https://images.unsplash.com/photo-1550751827-4bd374c3f58b?w=800&q=80",
+      "source": "MIT Tech Review",
+      "sourceUrl": "https://www.technologyreview.com/2026/05/29/1138093/the-deadly-ebola-outbreak-is-proving-difficult-to-control/",
+      "publishedAt": "2026-05-29T11:19:52.000Z"
+    },
+    {
+      "id": "pn31a",
+      "title": "Adobe’s conversational AI agent is a mediocre design intern",
+      "summary": "It explained the process of how it made these edits beautifully, I’m just not terribly impressed by the results. | Images by Jess Weatherbed / The Verge AI image tools rarely make me feel like I'm part of the creative process. They are, after all, mostly designed so that people with no design experience can type in a few words and get back a usable result. So I was pleasantly surprised by Adobe's latest take on an AI image assistant: It's a bot designed to take away some busywork, while still…",
+      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/05/Adobe-Firefly-AI-Assistant-hands-on-hero.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "source": "The Verge",
+      "sourceUrl": "https://www.theverge.com/tech/939686/adobes-conversational-ai-agent-is-a-mediocre-design-intern",
+      "publishedAt": "2026-05-29T10:00:00.000Z"
+    },
+    {
+      "id": "3iptt",
+      "title": "How the Pope’s Magnifica Humanitas offers a template for individuals to meet the AI moment",
+      "summary": "Pope Leo XIV’s new encyclical on artificial intelligence includes a statement that warrants serious attention from technologists and policymakers: “Technology is never neutral.” Magnifica Humanitas (“Magnificent Humanity”) is a clarion call to all people to act with courage and solidarity as we enter an age already being transformed by artificial intelligence, the greatest change in…",
+      "imageUrl": "https://images.unsplash.com/photo-1635070041078-e363dbe005cb?w=800&q=80",
+      "source": "MIT Tech Review",
+      "sourceUrl": "https://www.technologyreview.com/2026/05/29/1138107/how-the-popes-magnifica-humanitas-offers-a-template-for-individuals-to-meet-the-ai-moment/",
+      "publishedAt": "2026-05-29T10:00:00.000Z"
+    },
     {
       "id": "563p0",
       "title": "Glean’s top line crosses $300M as AI budget-cutting becomes its major selling point",
@@ -318,15 +345,6 @@
       "publishedAt": "2026-05-27T15:40:00.000Z"
     },
     {
-      "id": "fxptpy",
-      "title": "Robinhood will let your AI agent trade stocks and make (or lose) lots of money",
-      "summary": "Robinhood is opening its trading platform to AI agents. In an announcement on Wednesday, Robinhood says traders can now create a separate account for an AI agent and add a specific amount of money, allowing the agent to buy and sell stocks across the market. The company pitches the feature as a way for traders to automate investment decisions, such as having an agent monitor specific industries and make trades, or rebalancing an existing portfolio. But it comes with a big warning from Robinhood:…",
-      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/05/acastro_STK049_03.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "source": "The Verge",
-      "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/938095/robinhood-ai-agent-stock-trading",
-      "publishedAt": "2026-05-27T14:36:10.000Z"
-    },
-    {
       "id": "t5edst",
       "title": "Former Google and Apple Researchers Launch a Startup to Build AI’s Missing Feedback Loop",
       "summary": "Trajectory is betting the rapid iteration cycle that supercharged vibe-coding can help all kinds of companies build AI products that learn continuously.",
@@ -417,15 +435,6 @@
       "publishedAt": "2026-05-26T09:00:00.000Z"
     },
     {
-      "id": "ben0ej",
-      "title": "It’s time to address the looming crisis in entry-level work.",
-      "summary": "Artificial intelligence has not so far produced a clean story of mass unemployment. Aggregate employment in developed countries remains broadly stable, and recent assessments have found limited evidence that AI has shifted the headline numbers. But a troubling change may be hiding beneath the surface: the quiet weakening of the first rung of the career…",
-      "imageUrl": "https://images.unsplash.com/photo-1485827404703-89b55fcc595e?w=800&q=80",
-      "source": "MIT Tech Review",
-      "sourceUrl": "https://www.technologyreview.com/2026/05/26/1137865/its-time-to-address-the-looming-crisis-in-entry-level-work/",
-      "publishedAt": "2026-05-26T09:00:00.000Z"
-    },
-    {
       "id": "mjt8wp",
       "title": "US's big bet on quantum computing may not be entirely legal",
       "summary": "Deal also launched the first quantum foundry company, but is there a need for it?",
@@ -442,15 +451,6 @@
       "source": "Ars Technica",
       "sourceUrl": "https://arstechnica.com/security/2026/05/texas-ag-sues-meta-over-claims-that-whatsapp-doesnt-provide-end-to-end-encryption/",
       "publishedAt": "2026-05-22T18:13:05.000Z"
-    },
-    {
-      "id": "7so3vm",
-      "title": "The Download: coding’s future, the ‘Steroid Olympics,’ and AI-driven science",
-      "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. Anthropic’s Code with Claude showed off coding’s future—whether you like it or not At Anthropic’s developer event in London this week, Code with Claude, attendees were asked if they’d shipped code…",
-      "imageUrl": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=800&q=80",
-      "source": "MIT Tech Review",
-      "sourceUrl": "https://www.technologyreview.com/2026/05/22/1137845/the-download-coding-future-steroid-olympics-ai-science/",
-      "publishedAt": "2026-05-22T12:10:00.000Z"
     },
     {
       "id": "h1k54n",
