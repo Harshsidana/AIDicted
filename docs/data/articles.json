@@ -1,7 +1,25 @@
 {
-  "fetchedAt": "2026-05-31T12:15:24.817Z",
+  "fetchedAt": "2026-05-31T15:51:11.628Z",
   "count": 60,
   "articles": [
+    {
+      "id": "pzgnf0",
+      "title": "Making sense of the debate over AI psychosis",
+      "summary": "On the latest episode of Equity, we debate whether tech CEOs are \"uniquely prone to AI psychosis.\"",
+      "imageUrl": "https://images.unsplash.com/photo-1620712943543-bcc4688e7485?w=800&q=80",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/05/31/making-sense-of-the-debate-over-ai-psychosis/",
+      "publishedAt": "2026-05-31T15:30:00.000Z"
+    },
+    {
+      "id": "9uiggw",
+      "title": "I went looking for the AI weed vape that gives you Bitcoin for smoking",
+      "summary": "The crypto weed vape found me on 4/20, the high holiday of cannabis enthusiasts everywhere. It arrived over Slack with the thumbnail of a man exhaling a plume of vapor, the words \"every hit delivers Bitcoin\" emblazoned across it. It claimed to be advertising a device called Gudtrip, and I thought everything about it sounded fake. So I went looking for it. What I eventually found, after weeks of searching, dozens of emails, and a reporting effort that spanned continents, was somehow even dumber…",
+      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/05/268553_We_went_looking_for_the_weed_vape_that_gives_you_Bitcoin_for_smoking_CVirginia2.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "source": "The Verge",
+      "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/933916/ai-powered-crypto-cannabis-vape",
+      "publishedAt": "2026-05-31T13:00:00.000Z"
+    },
     {
       "id": "dwgfbw",
       "title": "How Turkey Hacked the Hair Transplant Industry",
@@ -246,15 +264,6 @@
       "publishedAt": "2026-05-29T12:10:00.000Z"
     },
     {
-      "id": "ku6a0w",
-      "title": "This chip startup just raised $135M on a bet that AI’s biggest bottleneck isn’t compute — it’s memory",
-      "summary": "South Korean chip startup XCENA is betting that AI's real bottleneck is not compute, but memory.",
-      "imageUrl": "https://images.unsplash.com/photo-1531746790095-6c10a4031c5f?w=800&q=80",
-      "source": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/05/29/xcena-secures-135m-at-570m-valuation-betting-on-memory-as-ais-real-bottleneck/",
-      "publishedAt": "2026-05-29T12:00:00.000Z"
-    },
-    {
       "id": "y4ifkw",
       "title": "This AI startup will clean your home for free to train future robots",
       "summary": "AI training startup Shift wants to clean your home for free. The catch - because, despite what its website says, there's always a catch - is that it will record cleaners as they scrub, vacuum, dust, tidy, and wash, and use that footage to train robots. Shift announced the unusual offer on social media on Thursday, explaining that the value of the training data generated from the cleanings is more than enough to fund the service. As its website puts it: \"You get a spotless apartment. We get…",
@@ -325,15 +334,6 @@
       "source": "The Verge",
       "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/939094/anthropic-claude-4-8-opus-honesty-effort",
       "publishedAt": "2026-05-28T17:00:00.000Z"
-    },
-    {
-      "id": "tkdp92",
-      "title": "A $2,000 AI-generated film will make its debut at Tribeca",
-      "summary": "Next month's Tribeca Festival will include the premiere of an AI-generated film: Dreams of Violets. The 75-minute film is a fictional dramatization of the Iranian government's mass killing of protestors in January, with the people and images fully created by AI, as reported earlier by The Hollywood Reporter. Dreams of Violets cost $2,000 to make and is \"based on journalistic reports, photographs, and eyewitness accounts,\" according to a press release. It was created by Ash and Pooya Koosha, two…",
-      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/05/ai-dreams-of-violets.png?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "source": "The Verge",
-      "sourceUrl": "https://www.theverge.com/entertainment/939067/ai-film-dreams-of-violets-tribeca",
-      "publishedAt": "2026-05-28T16:08:45.000Z"
     },
     {
       "id": "kwq46t",
