@@ -1,7 +1,16 @@
 {
-  "fetchedAt": "2026-05-31T08:27:51.593Z",
+  "fetchedAt": "2026-05-31T10:32:43.039Z",
   "count": 60,
   "articles": [
+    {
+      "id": "dwgfbw",
+      "title": "How Turkey Hacked the Hair Transplant Industry",
+      "summary": "From specialized motors to the use of machine learning algorithms, Turkey’s billion-dollar hair-transplant industry is the result of a constant process of innovation.",
+      "imageUrl": "https://media.wired.com/photos/6a15b365e372bcf500f31f9b/master/pass/GettyImages-1280800924.jpg",
+      "source": "Wired",
+      "sourceUrl": "https://www.wired.com/story/how-turkey-hacked-the-hair-transplant-industry/",
+      "publishedAt": "2026-05-31T09:00:00.000Z"
+    },
     {
       "id": "2uwvui",
       "title": "SoftBank says it will invest up to €75 billion to build French data centers",
@@ -397,15 +406,6 @@
       "source": "Ars Technica",
       "sourceUrl": "https://arstechnica.com/security/2026/05/websites-have-a-new-way-to-spy-on-visitors-analyzing-their-ssd-activity/",
       "publishedAt": "2026-05-27T20:56:03.000Z"
-    },
-    {
-      "id": "t2ogqz",
-      "title": "Huawei's ‘Chip Queen’ Throws Down the Gauntlet",
-      "summary": "The Chinese company is adapting to the demise of Moore’s Law, which guides chip production. It could complicate US chip dominance.",
-      "imageUrl": "https://media.wired.com/photos/6a1615f55f7c39896f97f413/master/pass/AI-Lab-Huawei-Chip-Queen-Says-No-More-Moores-Law-Business.jpg",
-      "source": "Wired",
-      "sourceUrl": "https://www.wired.com/story/huawei-chip-queen-moores-law-tau/",
-      "publishedAt": "2026-05-27T18:00:00.000Z"
     },
     {
       "id": "wi7r7k",
