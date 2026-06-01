@@ -1,7 +1,88 @@
 {
-  "fetchedAt": "2026-06-01T13:13:34.385Z",
+  "fetchedAt": "2026-06-01T19:10:22.240Z",
   "count": 60,
   "articles": [
+    {
+      "id": "c5w6kd",
+      "title": "Water access is now a risk factor in SpaceX’s IPO",
+      "summary": "The company says it needs \"significant\" water resources to cool its data centers, and that access to abundant, affordable water is a challenge.",
+      "imageUrl": "https://images.unsplash.com/photo-1550751827-4bd374c3f58b?w=800&q=80",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/06/01/water-access-is-now-a-risk-factor-in-spacexs-ipo/",
+      "publishedAt": "2026-06-01T18:19:53.000Z"
+    },
+    {
+      "id": "ptt7uk",
+      "title": "Anthropic Confidentially Files for What Could Be the Largest IPO Ever",
+      "summary": "The AI giant behind Claude submitted paperwork on Monday that would take it public, just a couple of weeks after SpaceX’s splashy IPO announcement.",
+      "imageUrl": "https://media.wired.com/photos/6a1db04538f4e0fcb2641f17/master/pass/Anthropic-Goes-Public-Business-2274306161.jpg",
+      "source": "Wired",
+      "sourceUrl": "https://www.wired.com/story/anthropic-files-s1-ipo-sec/",
+      "publishedAt": "2026-06-01T17:17:58.000Z"
+    },
+    {
+      "id": "rngc34",
+      "title": "Anthropic has officially filed to go public",
+      "summary": "After months of speculation about whether OpenAI or Anthropic would be first in their race to IPO, Anthropic on Monday reached a key milestone: filing to kick off the process with the U.S. Securities and Exchange Commission. The filing sets the stage for what's sure to be a massive IPO. As of its fundraise last week, Anthropic is being called the world's most valuable startup, with a post-money valuation of $965 billion. That tops the $852 billion post-money valuation of OpenAI, which is its…",
+      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25469941/STK202_DARIO_AMODEI_CVIRGINIA_D.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "source": "The Verge",
+      "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/941016/anthropic-has-officially-filed-to-go-public",
+      "publishedAt": "2026-06-01T16:40:38.000Z"
+    },
+    {
+      "id": "vb46n9",
+      "title": "Anthropic files to go public",
+      "summary": "The company said Monday it has filed confidentially for an IPO.",
+      "imageUrl": "https://images.unsplash.com/photo-1550751827-4bd374c3f58b?w=800&q=80",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/06/01/anthropic-files-to-go-public/",
+      "publishedAt": "2026-06-01T16:36:55.000Z"
+    },
+    {
+      "id": "c1m2zc",
+      "title": "This AI weather startup is out-forecasting government agencies",
+      "summary": "Windborne Systems' newest weather forecasting model beats the best government predictions by days.",
+      "imageUrl": "https://images.unsplash.com/photo-1550751827-4bd374c3f58b?w=800&q=80",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/06/01/this-ai-weather-startup-is-out-forecasting-government-agencies/",
+      "publishedAt": "2026-06-01T16:00:00.000Z"
+    },
+    {
+      "id": "9y4vqs",
+      "title": "DuckDuckGo makes its ‘no-AI’ search engine easier to access as its traffic booms",
+      "summary": "Alternative search engine DuckDuckGo launches 'no AI' web extensions for Chrome and Firefox users.",
+      "imageUrl": "https://images.unsplash.com/photo-1620712943543-bcc4688e7485?w=800&q=80",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/06/01/duckduckgo-makes-its-no-ai-search-engine-easier-to-access-as-its-traffic-booms/",
+      "publishedAt": "2026-06-01T14:49:10.000Z"
+    },
+    {
+      "id": "ll4640",
+      "title": "Microsoft to unveil new AI models and Windows improvements at Build",
+      "summary": "Microsoft is heading to San Francisco this week in a bid to win back developers at its Build conference. I've been attending Build since the days when Microsoft called it the Professional Developers Conference, and I can't remember a more pivotal moment. As Microsoft continues to reshuffle its entire business around AI, it's moving Build into a smaller, more intimate venue. Trust in Windows and GitHub is at an all-time low, and this is Microsoft's chance to reconnect with developers and outline…",
+      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/03/MS_BUILD.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "source": "The Verge",
+      "sourceUrl": "https://www.theverge.com/report/940861/microsoft-build-ai-models-windows-dev-mode-what-to-expect",
+      "publishedAt": "2026-06-01T14:39:03.000Z"
+    },
+    {
+      "id": "pjk6z7",
+      "title": "AI is blowing up music. How should the Grammys handle it?",
+      "summary": "Today I’m talking with Harvey Mason Jr., who is CEO of the Recording Academy — that’s the outfit that puts on the Grammy Awards. I last talked to Harvey in 2024, when it was obvious that generative AI would upend the music industry, but still not exactly clear how that would happen. Well, it’s been 18 months since that conversation, and you’re going to hear Harvey say that AI is now “omnipresent” in music production. And Harvey knows what he’s talking about — he is himself a legendary producer…",
+      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/DCD_20260601_Mason_Grammys.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "source": "The Verge",
+      "sourceUrl": "https://www.theverge.com/podcast/940831/ai-grammys-music-recording-harvey-mason",
+      "publishedAt": "2026-06-01T14:30:00.000Z"
+    },
+    {
+      "id": "ymek6y",
+      "title": "Strava blames zero-code AI apps and scrapers as it tightens API access",
+      "summary": "The popular fitness-tracking platform, Strava, is restricting access to its API as part of efforts to clamp down on AI scraping, as reported earlier by TechCrunch. Developers who want to build an app using Strava's data now need to pay for a flat $11.99 / month subscription. In an update on its developer hub, Strava blames the change on \"zero-code AI tools\" that allow users to quickly create apps that \"hammer\" APIs. \"We have felt this firsthand - developer applications to our program are up 448%…",
+      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/10/STKB305_STRAVA_B.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "source": "The Verge",
+      "sourceUrl": "https://www.theverge.com/gadgets/940854/strava-restricts-api-access-ai-apps",
+      "publishedAt": "2026-06-01T14:06:44.000Z"
+    },
     {
       "id": "mio9o8",
       "title": "The Download: China’s brain implant ambitions",
@@ -75,10 +156,10 @@
       "publishedAt": "2026-05-30T21:45:00.000Z"
     },
     {
-      "id": "dsem7d",
-      "title": "‘What a joke’: Github Copilot’s new token-based billing spurs consternation among devs",
-      "summary": "The golden age of Microsoft's Github Copilot appears to be at an end.",
-      "imageUrl": "https://images.unsplash.com/photo-1676299081847-824916de030a?w=800&q=80",
+      "id": "bo7hft",
+      "title": "‘What a joke’: GitHub Copilot’s new token-based billing spurs consternation among devs",
+      "summary": "The golden age of Microsoft's GitHub Copilot appears to be at an end.",
+      "imageUrl": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=800&q=80",
       "source": "TechCrunch",
       "sourceUrl": "https://techcrunch.com/2026/05/30/what-a-joke-github-copilots-new-token-based-billing-spurs-consternation-among-devs/",
       "publishedAt": "2026-05-30T16:30:00.000Z"
@@ -100,6 +181,15 @@
       "source": "TechCrunch",
       "sourceUrl": "https://techcrunch.com/2026/05/30/i-put-googles-24-7-ai-assistant-gemini-spark-to-work-and-its-actually-pretty-useful/",
       "publishedAt": "2026-05-30T15:30:00.000Z"
+    },
+    {
+      "id": "7kl1lf",
+      "title": "The groupthink boom: what 3 top VCs really think about the AI frenzy",
+      "summary": "\"If you're 22 years old in San Francisco and building something in AI, there may be a seed term sheet in your inbox — but if you're 19, oh my God, this means you're really good; you might already have a Series A [offer],\" said one, half-kiddingly.",
+      "imageUrl": "https://images.unsplash.com/photo-1526374965328-7f61d4dc18c5?w=800&q=80",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/05/30/the-groupthink-boom-what-three-top-vcs-really-think-about-the-ai-frenzy/",
+      "publishedAt": "2026-05-30T14:49:27.000Z"
     },
     {
       "id": "q2nw86",
@@ -210,15 +300,6 @@
       "publishedAt": "2026-05-29T17:37:43.000Z"
     },
     {
-      "id": "4d16s7",
-      "title": "After Nvidia’s $20B not-acqui-hire, AI chip startup Groq reportedly raising $650M",
-      "summary": "Chipmaker Groq is looking to raise $650 million in internal funding as it pivots from hardware to focus more on AI inference, the process of refining the way AI models respond to prompted requests, per Axios.",
-      "imageUrl": "https://images.unsplash.com/photo-1676299081847-824916de030a?w=800&q=80",
-      "source": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/05/29/after-nvidias-20b-not-acqui-hire-ai-chip-startup-groq-reportedly-raising-650m/",
-      "publishedAt": "2026-05-29T17:27:13.000Z"
-    },
-    {
       "id": "efgykj",
       "title": "We Asked the ‘Future of Truth’ Author to Explain How He Used AI. It Didn’t Go Well",
       "summary": "A book about how AI shapes perceptions of reality came under fire for using AI-generated quotes. Its problems go beyond that.",
@@ -228,15 +309,6 @@
       "publishedAt": "2026-05-29T16:30:00.000Z"
     },
     {
-      "id": "m3llyr",
-      "title": "Cognition’s Scott Wu says AI coding agents shouldn’t replace humans",
-      "summary": "Cognition makes Devin, the first and arguably most successful AI coding agent. But famed coder Wu says it isn't designed to supplant human programmers.",
-      "imageUrl": "https://images.unsplash.com/photo-1550751827-4bd374c3f58b?w=800&q=80",
-      "source": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/05/29/cognitions-scott-wu-says-ai-coding-agents-shouldnt-replace-humans/",
-      "publishedAt": "2026-05-29T16:13:47.000Z"
-    },
-    {
       "id": "ov7nnh",
       "title": "The Vatican’s Man Inside Anthropic",
       "summary": "Pope Leo XIV may not be able to disarm AI, but he’s got the attention of the industry.",
@@ -244,33 +316,6 @@
       "source": "Wired",
       "sourceUrl": "https://www.wired.com/story/the-vaticans-man-inside-anthropic/",
       "publishedAt": "2026-05-29T15:00:00.000Z"
-    },
-    {
-      "id": "awh3zi",
-      "title": "Today is the last day to apply to speak at TechCrunch Disrupt 2026",
-      "summary": "Submit your session topic before today ends for a chance to speak at TechCrunch Disrupt 2026. Apply now to share your insight and help shape the conversations defining the tech industry.",
-      "imageUrl": "https://images.unsplash.com/photo-1655720828018-edd2daec9349?w=800&q=80",
-      "source": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/05/29/today-is-the-last-day-to-apply-to-speak-at-techcrunch-disrupt-2026/",
-      "publishedAt": "2026-05-29T14:15:00.000Z"
-    },
-    {
-      "id": "2t6wfz",
-      "title": "Final 24 hours to save up to $410 on your TechCrunch Disrupt 2026 ticket",
-      "summary": "You now have until tonight at 11:59 p.m. PT to lock in Early Bird savings of up to $410 for TechCrunch Disrupt 2026 before prices increase. Join 10,000+ tech leaders in October for one of the most anticipated tech events of the year. Register now.",
-      "imageUrl": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=800&q=80",
-      "source": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/05/29/final-24-hours-to-save-up-to-410-on-your-techcrunch-disrupt-2026-ticket/",
-      "publishedAt": "2026-05-29T14:00:00.000Z"
-    },
-    {
-      "id": "wayvpb",
-      "title": "Does your CEO have AI psychosis? Aaron Levie thinks most of them do.",
-      "summary": "The people deciding that AI can replace your job are also the ones least likely to understand what your job truly involves, according to Box founder Aaron Levie, who pointed to this as an example of “AI psychosis.” Indeed, ClickUp recently cut 22% of its workforce for AI agents, tech layoffs in 2026 are already nearly matching all of 2025, […]",
-      "imageUrl": "https://images.unsplash.com/photo-1550751827-4bd374c3f58b?w=800&q=80",
-      "source": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/podcast/does-your-ceo-have-ai-psychosis-aaron-levie-thinks-most-of-them-do/",
-      "publishedAt": "2026-05-29T14:00:00.000Z"
     },
     {
       "id": "dxwj59",
@@ -291,15 +336,6 @@
       "publishedAt": "2026-05-29T12:10:00.000Z"
     },
     {
-      "id": "y4ifkw",
-      "title": "This AI startup will clean your home for free to train future robots",
-      "summary": "AI training startup Shift wants to clean your home for free. The catch - because, despite what its website says, there's always a catch - is that it will record cleaners as they scrub, vacuum, dust, tidy, and wash, and use that footage to train robots. Shift announced the unusual offer on social media on Thursday, explaining that the value of the training data generated from the cleanings is more than enough to fund the service. As its website puts it: \"You get a spotless apartment. We get…",
-      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/05/Screenshot-2026-05-29-at-12.44.12.png?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "source": "The Verge",
-      "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/939765/ai-training-data-startup-shift-free-cleaning",
-      "publishedAt": "2026-05-29T11:58:40.000Z"
-    },
-    {
       "id": "41e0fc",
       "title": "The deadly Ebola outbreak is proving difficult to control",
       "summary": "The alert was raised on May 5. Four health-care workers in the Ituri Province of the Democratic Republic of the Congo had died from an unknown illness within four days. Rapid response teams were sent to investigate, and tests at a research center in Kinshasa revealed the culprit: the Bundibugyo virus, one of the viruses…",
@@ -307,15 +343,6 @@
       "source": "MIT Tech Review",
       "sourceUrl": "https://www.technologyreview.com/2026/05/29/1138093/the-deadly-ebola-outbreak-is-proving-difficult-to-control/",
       "publishedAt": "2026-05-29T11:19:52.000Z"
-    },
-    {
-      "id": "pn31a",
-      "title": "Adobe’s conversational AI agent is a mediocre design intern",
-      "summary": "It explained the process of how it made these edits beautifully, I’m just not terribly impressed by the results. | Images by Jess Weatherbed / The Verge AI image tools rarely make me feel like I'm part of the creative process. They are, after all, mostly designed so that people with no design experience can type in a few words and get back a usable result. So I was pleasantly surprised by Adobe's latest take on an AI image assistant: It's a bot designed to take away some busywork, while still…",
-      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/05/Adobe-Firefly-AI-Assistant-hands-on-hero.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "source": "The Verge",
-      "sourceUrl": "https://www.theverge.com/tech/939686/adobes-conversational-ai-agent-is-a-mediocre-design-intern",
-      "publishedAt": "2026-05-29T10:00:00.000Z"
     },
     {
       "id": "3iptt",
@@ -336,15 +363,6 @@
       "publishedAt": "2026-05-28T20:29:53.000Z"
     },
     {
-      "id": "sg37b0",
-      "title": "Microsoft 365 Copilot gets a speed boost and cleaner design",
-      "summary": "Microsoft is launching a revamped version of Microsoft 365 Copilot, offering a cleaner design that the company claims loads twice as fast. As part of this update, Copilot will provide more reliable and structured responses that are easier to scan, according to Microsoft. The redesign, which is rolling out across desktop and mobile devices, comes with a feature Microsoft calls \"progressive disclosure.\" That means Copilot will present you with tools and controls based on your prompt, instead of…",
-      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/05/M365Copilot_Hero_BannerImage_1920x1080.webp?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "source": "The Verge",
-      "sourceUrl": "https://www.theverge.com/tech/939273/microsoft-365-copilot-redesign",
-      "publishedAt": "2026-05-28T20:14:07.000Z"
-    },
-    {
       "id": "nys0f0",
       "title": "How a new extraction process could unlock the world’s lithium",
       "summary": "Researchers say they’ve found a new way to extract lithium, a crucial metal used in the lithium-ion batteries that power electric vehicles and energy storage arrays. This new technique could be more environmentally friendly and cheaper than existing ones. The research was published today in Science, and a startup called Rock Zero is working to…",
@@ -352,15 +370,6 @@
       "source": "MIT Tech Review",
       "sourceUrl": "https://www.technologyreview.com/2026/05/28/1138096/lithium-extraction-rock-zero/",
       "publishedAt": "2026-05-28T18:01:00.000Z"
-    },
-    {
-      "id": "g5udic",
-      "title": "Claude’s new model is more ‘honest’ when it messes up",
-      "summary": "Anthropic is releasing Claude Opus 4.8 on Thursday, and the company is touting the model's \"honesty.\" According to Anthropic, it trains \"all [its] models to be honest - for instance, to avoid making claims that they can't support.\" But it notes that \"a general problem with AI models is that they sometimes jump to conclusions, confidently presenting their work as making progress despite thin evidence.\" The AI lab claims that early testers have found that Opus 4.8 \"is more likely to flag…",
-      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/08/STKB364_CLAUDE_C.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "source": "The Verge",
-      "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/939094/anthropic-claude-4-8-opus-honesty-effort",
-      "publishedAt": "2026-05-28T17:00:00.000Z"
     },
     {
       "id": "kwq46t",
@@ -388,15 +397,6 @@
       "source": "Wired",
       "sourceUrl": "https://www.wired.com/story/women-parental-leave-return-office-ai/",
       "publishedAt": "2026-05-28T11:00:00.000Z"
-    },
-    {
-      "id": "15jur2",
-      "title": "Amazon Thinks the Future of Data Centers Depends on a Technical Problem It Just Solved",
-      "summary": "The tech giant says a breakthrough in data center networking has dramatically accelerated the flow of information through its massive cloud infrastructure.",
-      "imageUrl": "https://media.wired.com/photos/6a173c117ababccb510cce19/master/pass/Amazon-AI-Future-Business-Ratul-Giacomo-Sesh-in-front-of-RNG-racks3.jpg",
-      "source": "Wired",
-      "sourceUrl": "https://www.wired.com/story/amazon-thinks-the-future-of-data-centers-depends-on-a-technical-problem-it-just-solved/",
-      "publishedAt": "2026-05-28T10:30:00.000Z"
     },
     {
       "id": "yginbx",
