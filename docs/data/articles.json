@@ -1,7 +1,61 @@
 {
-  "fetchedAt": "2026-06-01T19:10:22.240Z",
+  "fetchedAt": "2026-06-01T22:22:06.485Z",
   "count": 60,
   "articles": [
+    {
+      "id": "ic3u9e",
+      "title": "Nvidia chases $200B CPU market with AI agent PCs from Microsoft, Dell, and HP",
+      "summary": "If Nvidia has cracked a way to bring AI agents easily, safely and usefully to the masses, it could — and should — be big.",
+      "imageUrl": "https://images.unsplash.com/photo-1655720828018-edd2daec9349?w=800&q=80",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/06/01/nvidia-chases-200b-cpu-market-with-ai-agent-pcs-from-microsoft-dell-and-hp/",
+      "publishedAt": "2026-06-01T21:35:00.000Z"
+    },
+    {
+      "id": "3519k1",
+      "title": "Florida sues OpenAI, Sam Altman, in first-of-its-kind lawsuit over violent incidents",
+      "summary": "The lawsuit partially revolves around a shooting at Florida State University last year, and ChatGPT's alleged role in the incident.",
+      "imageUrl": "https://images.unsplash.com/photo-1550751827-4bd374c3f58b?w=800&q=80",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/06/01/florida-sues-openai-sam-altman-in-first-of-its-kind-lawsuit-over-violent-incidents/",
+      "publishedAt": "2026-06-01T20:03:40.000Z"
+    },
+    {
+      "id": "x8gcgj",
+      "title": "This could be Windows’ M1 moment — but expect it to cost a ton",
+      "summary": "Nvidia's announcement that it's getting into the consumer laptop chip space with RTX Spark is huge. Apple has proved for years that Arm-based chips can perform incredibly well while also delivering great battery life - at least on the Mac. In the Windows world, performance hasn't fully matched up under Qualcomm chips, mostly in the graphics department. There's clearly still untapped potential, and Nvidia seems to be promising to deliver it. This could be Windows' moment to blow us away with a…",
+      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/05/Screenshot_20260531_212701.png?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "source": "The Verge",
+      "sourceUrl": "https://www.theverge.com/tech/941215/windows-laptops-nvidia-rtx-spark-apple-m1-arm-price-ram",
+      "publishedAt": "2026-06-01T20:02:31.000Z"
+    },
+    {
+      "id": "f3uisj",
+      "title": "Gemini’s new AI agent is about as good as Google’s demo",
+      "summary": "Google's new \"24/7\" AI agent, Gemini Spark, can be shockingly good at doing things on your behalf. But I'm not sure it's worth the financial cost and potential privacy tradeoffs. The company gave me access to Spark last week. Google advertises Spark as an AI agent that can take on tasks and work on them in the background - even tasks that have multiple steps - allowing you to put your phone down or walk away from your computer. It also advertises at the very top of the Spark website that it's…",
+      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/lcimg-0ebbe911-9fbb-4f68-97b0-b7361d7cb53c.jpeg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "source": "The Verge",
+      "sourceUrl": "https://www.theverge.com/tech/941138/google-gemini-spark-ai-agent-hands-on",
+      "publishedAt": "2026-06-01T20:00:00.000Z"
+    },
+    {
+      "id": "5u78a5",
+      "title": "Dozens of Red Hat packages backdoored through its official NPM channel",
+      "summary": "Anyone who has downloaded affected Red Hat packages should investigate immediately.",
+      "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2026/06/redhat-1152x648.jpg",
+      "source": "Ars Technica",
+      "sourceUrl": "https://arstechnica.com/security/2026/06/dozens-of-red-hat-packages-backdoored-through-its-offical-npm-channel/",
+      "publishedAt": "2026-06-01T19:49:09.000Z"
+    },
+    {
+      "id": "zo2jq",
+      "title": "Meta’s own AI was exploited to hijack Instagram accounts",
+      "summary": "Meta's AI support chatbot helped hackers hijack Instagram accounts, as reported earlier by 404 Media. In a video shared on Telegram, a hacker shows how they could take over an account by asking Meta's chatbot to switch the email associated with someone else's profile and then reset the password. The issue, which Meta says has since been patched, cropped up around the same time Barack Obama's White House account on Instagram was hacked. On Sunday, users noticed that the @obamawhitehouse account…",
+      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/meta-chatbot-support.png?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "source": "The Verge",
+      "sourceUrl": "https://www.theverge.com/tech/941179/meta-instagram-ai-support-chatbot-exploit-hacked",
+      "publishedAt": "2026-06-01T19:20:47.000Z"
+    },
     {
       "id": "c5w6kd",
       "title": "Water access is now a risk factor in SpaceX’s IPO",
@@ -32,7 +86,7 @@
     {
       "id": "vb46n9",
       "title": "Anthropic files to go public",
-      "summary": "The company said Monday it has filed confidentially for an IPO.",
+      "summary": "Anthropic, now an AI powerhouse that has landed top-tier enterprise customers, was once considered an underdog in the emerging world of large language models.",
       "imageUrl": "https://images.unsplash.com/photo-1550751827-4bd374c3f58b?w=800&q=80",
       "source": "TechCrunch",
       "sourceUrl": "https://techcrunch.com/2026/06/01/anthropic-files-to-go-public/",
@@ -41,7 +95,7 @@
     {
       "id": "c1m2zc",
       "title": "This AI weather startup is out-forecasting government agencies",
-      "summary": "Windborne Systems' newest weather forecasting model beats the best government predictions by days.",
+      "summary": "WindBorne benefits from its unique combination of model-building and data collection. The company now has about 400 balloons in flight gathering sensor readings at any given time, launched from 15 sites around the globe. The advances in its current model come from improvements in how the data collected by the balloons is fed into the models.",
       "imageUrl": "https://images.unsplash.com/photo-1550751827-4bd374c3f58b?w=800&q=80",
       "source": "TechCrunch",
       "sourceUrl": "https://techcrunch.com/2026/06/01/this-ai-weather-startup-is-out-forecasting-government-agencies/",
@@ -147,10 +201,10 @@
       "publishedAt": "2026-05-31T09:00:00.000Z"
     },
     {
-      "id": "2uwvui",
-      "title": "SoftBank says it will invest up to €75 billion to build French data centers",
+      "id": "8w7srz",
+      "title": "SoftBank says it will invest up to €75B to build French data centers",
       "summary": "The goal, the firm said, is to develop and operate up to 5 gigawatts of additional data center capacity.",
-      "imageUrl": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=800&q=80",
+      "imageUrl": "https://images.unsplash.com/photo-1550751827-4bd374c3f58b?w=800&q=80",
       "source": "TechCrunch",
       "sourceUrl": "https://techcrunch.com/2026/05/30/softbank-says-it-will-invest-up-to-e75-billion-to-build-french-data-centers/",
       "publishedAt": "2026-05-30T21:45:00.000Z"
@@ -219,15 +273,6 @@
       "publishedAt": "2026-05-30T13:00:00.000Z"
     },
     {
-      "id": "8p5qvm",
-      "title": "The SpaceX IPO is great for Elon Musk and terrible for you",
-      "summary": "Number go up? | Image: Cath Virginia / The Verge, Getty Images I haven't seen anything as stupid as the WeWork IPO document in a very long time - that is, until Elon Musk filed to take SpaceX public. WeWork was a joke. SpaceX is a threat. And if Musk and his bankers have their way, you are going to be their bagholder. Lots of the top-line details leaked long before the S-1 filing itself became public. There's the rumored valuation of more than $1 trillion. That's despite the nearly $5 billion in…",
-      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/03/STKB355_SPACE_X_IPO_B.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "source": "The Verge",
-      "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/940001/elon-musk-spacex-ipo-ai",
-      "publishedAt": "2026-05-30T12:00:00.000Z"
-    },
-    {
       "id": "s3qs61",
       "title": "Do You Actually Need to Pay for Transcription Software?",
       "summary": "I tested Wispr Flow and various AI-powered transcription software to see whether you should bother subscribing or stick with free services.",
@@ -264,15 +309,6 @@
       "publishedAt": "2026-05-29T19:07:46.000Z"
     },
     {
-      "id": "aqug7b",
-      "title": "So you’ve heard these AI terms and nodded along; let’s fix that",
-      "summary": "The rise of AI has brought an avalanche of new terms and slang. Here is a glossary with definitions of some of the most important words and phrases you might encounter.",
-      "imageUrl": "https://images.unsplash.com/photo-1620712943543-bcc4688e7485?w=800&q=80",
-      "source": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/05/29/artificial-intelligence-definition-glossary-hallucinations-guide-to-common-ai-terms/",
-      "publishedAt": "2026-05-29T18:49:19.000Z"
-    },
-    {
       "id": "hk244o",
       "title": "Botnet of more than 17 million devices dismantled",
       "summary": "The botnet was reportedly tied to a Russia-based residential proxy network.",
@@ -280,24 +316,6 @@
       "source": "Ars Technica",
       "sourceUrl": "https://arstechnica.com/security/2026/05/botnet-of-more-than-17-million-devices-dismantled/",
       "publishedAt": "2026-05-29T18:46:33.000Z"
-    },
-    {
-      "id": "5s9i9m",
-      "title": "What happens when companies become too AI-pilled?",
-      "summary": "The people deciding that AI can replace your job are also the ones least likely to understand what your job truly involves, according to Box founder Aaron Levie, who pointed to this as an example of “AI psychosis.” Indeed, ClickUp recently cut 22% of its workforce for AI agents, tech layoffs in 2026 are already nearly matching all of 2025, […]",
-      "imageUrl": "https://images.unsplash.com/photo-1620712943543-bcc4688e7485?w=800&q=80",
-      "source": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/video/what-happens-when-companies-become-too-ai-pilled/",
-      "publishedAt": "2026-05-29T17:57:05.000Z"
-    },
-    {
-      "id": "308x8o",
-      "title": "Tech companies desperately want to film you doing chores",
-      "summary": "This week, an AI training startup called Shift said it would clean New Yorkers' homes for free. It has plans to expand into other cities as well, including London, and looking around my flat, I get the appeal. But there's a catch. There's always a catch. In exchange for the cleaning, Shift wants footage of its cleaners at work: scrubbing dishes, wiping counters, dusting tables, mopping floors. It wants everything. Video of all the boring domestic labor we'd happily outsource if we could - and…",
-      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/05/STK414_AI_CVIRGINIA_I__0009_7.png?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "source": "The Verge",
-      "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/940007/ai-companies-will-pay-for-robot-training-data",
-      "publishedAt": "2026-05-29T17:37:43.000Z"
     },
     {
       "id": "efgykj",
@@ -316,15 +334,6 @@
       "source": "Wired",
       "sourceUrl": "https://www.wired.com/story/the-vaticans-man-inside-anthropic/",
       "publishedAt": "2026-05-29T15:00:00.000Z"
-    },
-    {
-      "id": "dxwj59",
-      "title": "Jony Ive’s funky Ferrari",
-      "summary": "Most people will never own, drive, or even sit inside a Ferrari Luce. (If you can, or do… hit us up.) There's still no question that Ferrari's first electric vehicle is one of the most interesting, surprising cars of the year. With a decidedly un-Ferrari look, and lots of new technology and designs courtesy of Sir Jony Ive, the Luce is a lot of big ideas in a single swoopy package. A lot of people really hate it. Verge subscribers, don't forget you get exclusive access to ad-free Vergecast…",
-      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/05/VRG_VST_052926_Site.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "source": "The Verge",
-      "sourceUrl": "https://www.theverge.com/podcast/939589/ferrari-luce-jony-ive-vergecast",
-      "publishedAt": "2026-05-29T12:25:12.000Z"
     },
     {
       "id": "qhba0r",
@@ -532,15 +541,6 @@
       "source": "Ars Technica",
       "sourceUrl": "https://arstechnica.com/security/2026/05/linux-bitten-by-second-severe-vulnerability-in-as-many-weeks/",
       "publishedAt": "2026-05-11T22:28:19.000Z"
-    },
-    {
-      "id": "8cfwxs",
-      "title": "Chaos erupts as cyberattack disrupts learning platform Canvas amid finals",
-      "summary": "Across the country, schools and colleges postpone year-end tests.",
-      "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2026/05/GettyImages-2192144566-1152x648.jpg",
-      "source": "Ars Technica",
-      "sourceUrl": "https://arstechnica.com/security/2026/05/chaos-erupts-as-cyberattack-disrupts-learning-platform-canvas-amid-finals/",
-      "publishedAt": "2026-05-08T18:33:48.000Z"
     }
   ]
 }
