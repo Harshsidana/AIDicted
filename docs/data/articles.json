@@ -1,11 +1,20 @@
 {
-  "fetchedAt": "2026-06-01T22:22:06.485Z",
+  "fetchedAt": "2026-06-01T23:52:43.038Z",
   "count": 60,
   "articles": [
     {
+      "id": "nt02iy",
+      "title": "Alphabet plans to raise $80B to pay for AI buildout",
+      "summary": "\"The company is experiencing strong demand for its AI solutions and services from enterprises and consumers, at levels that are exceeding the company’s available supply,\" Alphabet said in its statement.",
+      "imageUrl": "https://images.unsplash.com/photo-1635070041078-e363dbe005cb?w=800&q=80",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/06/01/alphabet-plans-to-raise-80-billion-to-pay-for-ai-buildout/",
+      "publishedAt": "2026-06-01T22:55:09.000Z"
+    },
+    {
       "id": "ic3u9e",
       "title": "Nvidia chases $200B CPU market with AI agent PCs from Microsoft, Dell, and HP",
-      "summary": "If Nvidia has cracked a way to bring AI agents easily, safely and usefully to the masses, it could — and should — be big.",
+      "summary": "If Nvidia has cracked a way to bring AI agents easily, safely, and usefully to the masses, it could — and should — be big.",
       "imageUrl": "https://images.unsplash.com/photo-1655720828018-edd2daec9349?w=800&q=80",
       "source": "TechCrunch",
       "sourceUrl": "https://techcrunch.com/2026/06/01/nvidia-chases-200b-cpu-market-with-ai-agent-pcs-from-microsoft-dell-and-hp/",
@@ -280,15 +289,6 @@
       "source": "Wired",
       "sourceUrl": "https://www.wired.com/story/do-you-actually-need-to-pay-for-transcription-software/",
       "publishedAt": "2026-05-30T09:30:00.000Z"
-    },
-    {
-      "id": "l8bv66",
-      "title": "Coders are refusing to work without AI — and that could come back to bite them",
-      "summary": "While AI is helping coders produce code faster, it may not be producing better code, researchers warn. And that could cause problems down the road for them.",
-      "imageUrl": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=800&q=80",
-      "source": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/05/29/coders-are-refusing-to-work-without-ai-and-that-could-come-back-to-bite-them/",
-      "publishedAt": "2026-05-29T22:14:22.000Z"
     },
     {
       "id": "z16k0p",
