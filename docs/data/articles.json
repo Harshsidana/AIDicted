@@ -1,7 +1,70 @@
 {
-  "fetchedAt": "2026-06-02T09:15:27.666Z",
+  "fetchedAt": "2026-06-02T12:57:41.377Z",
   "count": 60,
   "articles": [
+    {
+      "id": "kabmd5",
+      "title": "Gemini Spark is the most impressive and terrifying AI experience I’ve had yet",
+      "summary": "Spark is Google’s new agentic answer for everything. According to every product demo from the last four years, planning a trip is a killer use case for AI. Just tell it where you're going, they all promise, and your chatbot / agent / other buzzword will exhaustively search travel options, read up on all the fun things to do, check all the local hotspots, and offer you a fully fledged itinerary. So far, I've found this to work only in the most generic ways: If you want to do the six most obvious…",
+      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/Google-Gemini-Spark.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "source": "The Verge",
+      "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/941388/gemini-spark-ai-agent-trip-planning",
+      "publishedAt": "2026-06-02T12:38:08.000Z"
+    },
+    {
+      "id": "z4kva3",
+      "title": "ZeroDrift raises $10 million to protect AI models from themselves",
+      "summary": "A new AI compliance service sits between AI models and end users to flag and replace any messages that might present a compliance problem.",
+      "imageUrl": "https://images.unsplash.com/photo-1655720828018-edd2daec9349?w=800&q=80",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/06/02/zerodrift-raises-10-million-to-protect-ai-models-from-themselves/",
+      "publishedAt": "2026-06-02T12:32:59.000Z"
+    },
+    {
+      "id": "wcwz2f",
+      "title": "The Download: AI can run your admin department now",
+      "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. How small businesses can leverage AI From accounting to design to market research and product development, there’s a staggering breadth of skills needed to run a business. Large companies can hire…",
+      "imageUrl": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=800&q=80",
+      "source": "MIT Tech Review",
+      "sourceUrl": "https://www.technologyreview.com/2026/06/02/1138277/the-download-ai-tips-small-businesses-admin/",
+      "publishedAt": "2026-06-02T12:10:00.000Z"
+    },
+    {
+      "id": "hs1ywl",
+      "title": "Rocket engine startup Impulse raises $500 million to hire people, not AI",
+      "summary": "Engineering physical systems still depends on human talent, according to Impulse Space president Eric Romo.",
+      "imageUrl": "https://images.unsplash.com/photo-1550751827-4bd374c3f58b?w=800&q=80",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/06/02/rocket-engine-startup-impulse-raises-500-million-to-hire-people-not-ai/",
+      "publishedAt": "2026-06-02T12:00:00.000Z"
+    },
+    {
+      "id": "pbm7yi",
+      "title": "Rehumanizing global health care with agentic AI",
+      "summary": "The global health care sector is under increasing strain. Decades of chronic underinvestment and constraints in recruitment have coincided with a surge in demand for services for aging populations. Gaps in provision are already taking a toll, with fragmented access to care and high rates of stress and burnout among staff. And it’s getting worse.…",
+      "imageUrl": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=800&q=80",
+      "source": "MIT Tech Review",
+      "sourceUrl": "https://www.technologyreview.com/2026/06/02/1137827/rehumanizing-global-health-care-with-agentic-ai/",
+      "publishedAt": "2026-06-02T11:23:34.000Z"
+    },
+    {
+      "id": "vgiacd",
+      "title": "The Trump Administration Is at War With Itself Over AI Regulation",
+      "summary": "Donald Trump killed an executive order to regulate AI. Now, administration officials and AI executives are trying to figure out if there’s anything left to piece back together.",
+      "imageUrl": "https://media.wired.com/photos/6a1a11a6b6c847bce706bb1b/master/pass/pol_AI_GettyImages-2277330455.jpg",
+      "source": "Wired",
+      "sourceUrl": "https://www.wired.com/story/the-white-house-is-at-war-with-itself-over-ai-regulation/",
+      "publishedAt": "2026-06-02T09:30:00.000Z"
+    },
+    {
+      "id": "oiz1jm",
+      "title": "How small businesses can leverage AI",
+      "summary": "This article is from Making AI Work, MIT Technology Review’s limited-run newsletter examining how to apply LLMs across industries. To receive it in your inbox,sign up here. From accounting to design to market research and product development, there’s a staggering breadth of skills needed to run a business. A large company can hire experts to…",
+      "imageUrl": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=800&q=80",
+      "source": "MIT Tech Review",
+      "sourceUrl": "https://www.technologyreview.com/2026/06/02/1138227/how-small-businesses-can-leverage-ai/",
+      "publishedAt": "2026-06-02T09:00:00.000Z"
+    },
     {
       "id": "nt02iy",
       "title": "Alphabet plans to raise $80B to pay for AI buildout",
@@ -246,39 +309,12 @@
       "publishedAt": "2026-05-30T15:30:00.000Z"
     },
     {
-      "id": "7kl1lf",
-      "title": "The groupthink boom: what 3 top VCs really think about the AI frenzy",
-      "summary": "\"If you're 22 years old in San Francisco and building something in AI, there may be a seed term sheet in your inbox — but if you're 19, oh my God, this means you're really good; you might already have a Series A [offer],\" said one, half-kiddingly.",
-      "imageUrl": "https://images.unsplash.com/photo-1526374965328-7f61d4dc18c5?w=800&q=80",
-      "source": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/05/30/the-groupthink-boom-what-three-top-vcs-really-think-about-the-ai-frenzy/",
-      "publishedAt": "2026-05-30T14:49:27.000Z"
-    },
-    {
-      "id": "q2nw86",
-      "title": "As the browser wars heat up, here are the hottest alternatives to Chrome and Safari in 2026",
-      "summary": "We’ve compiled an overview of some of the top alternative browsers available today aiming to challenge Chrome and Safari.",
-      "imageUrl": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=800&q=80",
-      "source": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/05/30/as-the-browser-wars-heat-up-here-are-the-hottest-alternatives-to-chrome-and-safari-in-2026/",
-      "publishedAt": "2026-05-30T13:00:00.000Z"
-    },
-    {
       "id": "glw2vo",
       "title": "How one founder’s bet on ‘the old school web’ is paying off",
       "summary": "A good time with old maps. | Image: Past Maps Craig Campbell walked away from the river of investor money flowing into AI to create, of all things, a website. Sure, Campbell probably could have started an AI company. He's a former engineer at Meta and an experienced tech founder who in 2022 sold his last venture - an e-commerce tool for businesses that use Shopify - right as the AI boom was booming. \"I had my prior VC investors breathing down my neck, going 'start something else. We'll write you…",
       "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/05/Screenshot-2026-05-27-at-11.17.27AM.png?quality=90&#038;strip=all&#038;crop=0,0,100,100",
       "source": "The Verge",
       "sourceUrl": "https://www.theverge.com/tech/938245/past-maps-website-google-zero-ai",
-      "publishedAt": "2026-05-30T13:00:00.000Z"
-    },
-    {
-      "id": "hwlfzw",
-      "title": "AI grifters are creating fake Black people to sell Shein junk",
-      "summary": "TikTok sellers that appear to be AI generated, in tears. | The Verge Aliyah, a light-skinned Black woman dressed in country-western gear, is struggling to sell metal buckles she handmade on TikTok. In a video for the social media platform from March, she cries to the camera and pleads for views: \"Even as a black woman, I have more faith that white women will stay 13 seconds [on this video] to save my belt buckle business,\" the onscreen text reads. She wipes a tear off her cheek. But Aliyah isn't…",
-      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/05/268550_Crying_AI_avatars_AParkin_2.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "source": "The Verge",
-      "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/938844/ai-tiktok-shop-blackface-shein-dropshipping",
       "publishedAt": "2026-05-30T13:00:00.000Z"
     },
     {
@@ -399,33 +435,6 @@
       "publishedAt": "2026-05-28T12:10:00.000Z"
     },
     {
-      "id": "t26sqg",
-      "title": "New Moms Are Returning to Coding Jobs Radically Reshaped by AI",
-      "summary": "New mothers working in software development are staring down an AI-pilled workplace they barely recognize.",
-      "imageUrl": "https://media.wired.com/photos/6a0b7d9d4db62c986283e838/master/pass/Business_TheWomenWhoWentonMaternityLeaveandReturnedtoanOfficeReshapedbyAI_v2.jpg",
-      "source": "Wired",
-      "sourceUrl": "https://www.wired.com/story/women-parental-leave-return-office-ai/",
-      "publishedAt": "2026-05-28T11:00:00.000Z"
-    },
-    {
-      "id": "yginbx",
-      "title": "Climate tech companies are going public. What’s next?",
-      "summary": "This year, there’s been a wave of notable energy companies going public via IPO in the US. The solar and battery company Solv Energy went public in February, to the tune of $6 billion. X-energy, which is building small modular nuclear reactors, did the same in April, and its stocks surged on its first day…",
-      "imageUrl": "https://images.unsplash.com/photo-1655720828018-edd2daec9349?w=800&q=80",
-      "source": "MIT Tech Review",
-      "sourceUrl": "https://www.technologyreview.com/2026/05/28/1138067/climate-tech-ipos/",
-      "publishedAt": "2026-05-28T10:00:00.000Z"
-    },
-    {
-      "id": "l7fusm",
-      "title": "The AI Hype Index: AI gets booed in graduation season",
-      "summary": "It is one thing to say AI will change the world. It is another to expect the class of 2026 to applaud it. In fact, when former Google CEO Eric Schmidt told University of Arizona graduates that their task is to help shape AI, he was met with a resounding chorus of boos. “I can…",
-      "imageUrl": "https://images.unsplash.com/photo-1550751827-4bd374c3f58b?w=800&q=80",
-      "source": "MIT Tech Review",
-      "sourceUrl": "https://www.technologyreview.com/2026/05/28/1138053/the-ai-hype-index-ai-gets-booed-in-graduation-season/",
-      "publishedAt": "2026-05-28T09:51:11.000Z"
-    },
-    {
       "id": "s5a0c1",
       "title": "Websites have a new way to spy on visitors: Analyzing their SSD activity",
       "summary": "Telltale SSD activity can be measured in the browser using simple JavaScript.",
@@ -433,15 +442,6 @@
       "source": "Ars Technica",
       "sourceUrl": "https://arstechnica.com/security/2026/05/websites-have-a-new-way-to-spy-on-visitors-analyzing-their-ssd-activity/",
       "publishedAt": "2026-05-27T20:56:03.000Z"
-    },
-    {
-      "id": "wi7r7k",
-      "title": "The Download: keeping up with AI, and the future of IVF",
-      "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. Stay on top of what’s going on in AI this summer Here at MIT Technology Review, we understand exactly how relentless the pace of news from the world of artificial intelligence…",
-      "imageUrl": "https://images.unsplash.com/photo-1676299081847-824916de030a?w=800&q=80",
-      "source": "MIT Tech Review",
-      "sourceUrl": "https://www.technologyreview.com/2026/05/27/1138048/the-download-ai-future-ivf-technology/",
-      "publishedAt": "2026-05-27T12:10:00.000Z"
     },
     {
       "id": "6z35pf",
