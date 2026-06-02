@@ -1,7 +1,124 @@
 {
-  "fetchedAt": "2026-06-02T17:47:25.795Z",
+  "fetchedAt": "2026-06-02T21:18:42.345Z",
   "count": 60,
   "articles": [
+    {
+      "id": "mlmqkg",
+      "title": "Microsoft Build 2026: The 7 biggest announcements",
+      "summary": "Microsoft just kicked off Build 2026 with a keynote from CEO Satya Nadella and other company leaders. As expected, it was filled with announcements, ranging from new Surface hardware to an always-on personal assistant and updates across Microsoft's in-house AI models. If you didn't watch the event live, you can catch up on all the latest news in the roundup below. A mini Surface PC designed for AI development The Surface RTX Spark Dev Box is geared toward developers who want to run local AI…",
+      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/nadella-build-2026.png?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "source": "The Verge",
+      "sourceUrl": "https://www.theverge.com/tech/941738/microsoft-build-2026-biggest-announcements",
+      "publishedAt": "2026-06-02T19:23:52.000Z"
+    },
+    {
+      "id": "k4bnhp",
+      "title": "Uber caps employee AI spending after blowing through budget in four months",
+      "summary": "Uber's cutback has occurred after the company had reportedly encouraged staff to use AI as much as possible.",
+      "imageUrl": "https://images.unsplash.com/photo-1485827404703-89b55fcc595e?w=800&q=80",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/06/02/uber-caps-employee-ai-spending-after-blowing-through-budget-in-four-months/",
+      "publishedAt": "2026-06-02T19:11:48.000Z"
+    },
+    {
+      "id": "zfy95w",
+      "title": "New Microsoft tool lets devs spin up AI behavior tests using text descriptions",
+      "summary": "Microsoft on Tuesday took the wraps off Adaptive Spec-driven Scoring for Evaluation and Regression Testing, an open source framework for spinning up AI evaluations.",
+      "imageUrl": "https://images.unsplash.com/photo-1526374965328-7f61d4dc18c5?w=800&q=80",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/06/02/new-microsoft-tool-lets-devs-spin-up-ai-behavior-tests-using-text-descriptions/",
+      "publishedAt": "2026-06-02T19:02:21.000Z"
+    },
+    {
+      "id": "s9tui7",
+      "title": "Trump signs executive order to review AI models before they’re released",
+      "summary": "President Donald Trump signed an executive order Tuesday creating a \"voluntary framework\" for AI companies to share their frontier models with the federal government before they're released \"to promote secure innovation and strengthen the cybersecurity of critical infrastructure.\" The order says the US AI industry has succeeded in part \"because we refuse to stifle this innovation with overly burdensome regulation,\" but that it also recognizes new AI capabilities come with security risks.…",
+      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/09/STK466_ELECTION_2024_CVirginia_E.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "source": "The Verge",
+      "sourceUrl": "https://www.theverge.com/policy/941775/trump-ai-executive-order",
+      "publishedAt": "2026-06-02T18:33:42.000Z"
+    },
+    {
+      "id": "5ee0iv",
+      "title": "Martin Scorsese becomes the latest — and most unlikely — Hollywood voice for AI",
+      "summary": "The caveat is that one of the world's most famous living directors is using the tech solely for storyboarding.",
+      "imageUrl": "https://images.unsplash.com/photo-1655720828018-edd2daec9349?w=800&q=80",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/06/02/martin-scorsese-becomes-the-latest-and-most-unlikely-hollywood-voice-for-ai/",
+      "publishedAt": "2026-06-02T18:16:53.000Z"
+    },
+    {
+      "id": "83m6rj",
+      "title": "Microsoft’s first advanced reasoning AI is here",
+      "summary": "Microsoft announced a bunch of new in-house AI models at Build 2026, including a new \"flagship\" model: MAI-Thinking-1. It's an ambitious step into model development for Microsoft, which introduced its initial in-house models last year - before then, it had relied on OpenAI's models. The two companies recently renegotiated their deal to loosen ties. According to Microsoft, MAI-Thinking-1 is a \"medium-sized model\" that \"matches leading models\" on \"key\" software engineering benchmarks. Microsoft…",
+      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25832912/STK095_MICROSOFT_2_CVirginia_A.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "source": "The Verge",
+      "sourceUrl": "https://www.theverge.com/tech/941664/microsoft-ai-model-reasoning-mai-thinking-1-build-2026",
+      "publishedAt": "2026-06-02T18:12:44.000Z"
+    },
+    {
+      "id": "i9hlvu",
+      "title": "Microsoft launches Scout, an OpenClaw-inspired personal assistant",
+      "summary": "Launched at Build, Microsoft Scout is a new AI assistant meant to bring the power and flexibility of OpenClaw into the Microsoft 365 system.",
+      "imageUrl": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=800&q=80",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/06/02/microsoft-launches-scout-an-openclaw-inspired-personal-assistant/",
+      "publishedAt": "2026-06-02T18:02:44.000Z"
+    },
+    {
+      "id": "bysmba",
+      "title": "Google rolls out fake call detection to protect against AI deepfake impersonation scams",
+      "summary": "As people increasingly refuse to answer calls from unknown numbers, scammers are shifting their tactics by spoofing trusted phone numbers and using AI deepfake technology to sound like authority figures, family members, or employers.",
+      "imageUrl": "https://images.unsplash.com/photo-1526374965328-7f61d4dc18c5?w=800&q=80",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/06/02/google-rolls-out-fake-call-detection-to-protect-against-ai-deepfake-impersonation-scams/",
+      "publishedAt": "2026-06-02T18:00:00.000Z"
+    },
+    {
+      "id": "s61m3a",
+      "title": "Microsoft offers devs a better way to control AI agent behavior",
+      "summary": "The specification lets developer, compliance, and security teams define their own policies for agents to follow in portable policy files.",
+      "imageUrl": "https://images.unsplash.com/photo-1526374965328-7f61d4dc18c5?w=800&q=80",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/06/02/microsoft-offers-devs-a-better-way-to-control-ai-agent-behavior/",
+      "publishedAt": "2026-06-02T18:00:00.000Z"
+    },
+    {
+      "id": "s9samg",
+      "title": "Microsoft Scout is a new AI personal assistant built on OpenClaw",
+      "summary": "Much like Google, Microsoft is launching its own version of OpenClaw. Microsoft Scout is an always-on assistant that integrates into Microsoft 365 apps like Outlook, OneDrive, and Microsoft Teams, allowing businesses to assign a virtual assistant to employees to help with organizing calendars, expense reporting, email drafts, and much more. Unlike Copilot that lives inside Microsoft 365 apps, Microsoft Scout can see and do a lot more. \"This is a personal assistant, it's the first real personal…",
+      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/Microsoft-Scout.png?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "source": "The Verge",
+      "sourceUrl": "https://www.theverge.com/news/939713/microsoft-scout-assistant-openclaw",
+      "publishedAt": "2026-06-02T18:00:00.000Z"
+    },
+    {
+      "id": "v4y26p",
+      "title": "Google’s Phone app will tell you if a scammer is impersonating one of your contacts",
+      "summary": "Google is launching a new feature for its Phone app that aims to protect you from AI impersonation scams. Now, when you receive a call from a scammer that appears to be coming from the same number as one of your contacts, Phone by Google will flag the call as suspicious so you can hang up. It's part of Google's broader June Android drop, which will add support for Apple AirDrop across more devices, including the Samsung Galaxy S25 lineup. Google is also making its Personal Safety app available…",
+      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/0.-Fake-call-detection-header.png?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "source": "The Verge",
+      "sourceUrl": "https://www.theverge.com/tech/941517/google-phone-scammer-ai-impersonation",
+      "publishedAt": "2026-06-02T18:00:00.000Z"
+    },
+    {
+      "id": "qbt9k1",
+      "title": "Meet Microsoft Scout, Your AI Coworker That Never Logs Off",
+      "summary": "Microsoft’s OpenClaw-style agent appears in Teams, just like a human colleague, and automates your dull office tasks.",
+      "imageUrl": "https://media.wired.com/photos/6a1e1d3c70c7c8b915b99802/master/pass/Microsoft-Debuts-Scout-a-Workplace-AI-Agent-Gear.jpg",
+      "source": "Wired",
+      "sourceUrl": "https://www.wired.com/story/meet-microsoft-scout-your-ai-coworker-that-never-logs-off/",
+      "publishedAt": "2026-06-02T18:00:00.000Z"
+    },
+    {
+      "id": "scy78o",
+      "title": "Amazon faces class action lawsuit over Ring facial-recognition feature",
+      "summary": "The class action lawsuit, filed in Seattle by Virginia resident Charles Sigwalt, claims that Ring's Familiar Faces feature stores images of passersby without consent.",
+      "imageUrl": "https://images.unsplash.com/photo-1620712943543-bcc4688e7485?w=800&q=80",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/06/02/amazon-faces-class-action-lawsuit-over-ring-facial-recognition-feature/",
+      "publishedAt": "2026-06-02T17:47:28.000Z"
+    },
     {
       "id": "vwkbfe",
       "title": "Microsoft’s Project Solara is an OS for AI agent gadgets",
@@ -32,7 +149,7 @@
     {
       "id": "7cejr7",
       "title": "OpenAI launches new Codex tools for white-collar work",
-      "summary": "OpenAI is getting serious about courting enterprise users. On Tuesday, the AI lab released a new set of capabilities for Codex, meant to expand the agentic tool’s uses in the workplace. Together with the new tools, the company released an internal report on how Codex is being used for knowledge work, finding its uses go […]",
+      "summary": "OpenAI released a set of six plug-ins aimed at specific jobs: data analytics, creative production, sales, product design, equity investing, and investment banking. Available from within the Codex app, each of the new tools bundles integrations, instructions, and context to allow Codex to approximate a specific job.",
       "imageUrl": "https://images.unsplash.com/photo-1635070041078-e363dbe005cb?w=800&q=80",
       "source": "TechCrunch",
       "sourceUrl": "https://techcrunch.com/2026/06/02/openai-launches-new-codex-tools-for-white-collar-work/",
@@ -41,7 +158,7 @@
     {
       "id": "k46hf6",
       "title": "Microsoft Build 2026: All the news about Windows, AI, RTX Spark, and more",
-      "summary": "Microsoft’s annual developer conference is kicking off on June 2nd in San Francisco with the keynote presentation streaming live at 12:30PM ET / 9:30AM PT, and we will be following along here with everything as it’s announced. The Verge’s Tom Warren reports that we can expect to hear about new AI models and agentic OpenClaw-like tools, plus a Copilot “super app” to go along with some of the major changes to Windows 11 that have already started appearing. Microsoft just announced the new Surface…",
+      "summary": "Microsoft Build 2026 kicked off with a keynote presentation that introduced some developer-focused Windows updates, an OpenClaw-based AI assistant called Scout, the new Majorana 2 quantum computing chip, and a Surface mini PC designed for AI developers. Microsoft also rolled out a new Android-based OS called Project Solara that’s designed for gadgets that run AI agents. Build will continue through June 3rd, and we’ll have all the updates on Microsoft’s announcements here. Follow along here for…",
       "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/03/STK095_MICROSOFT_2_CVirginia_C.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
       "source": "The Verge",
       "sourceUrl": "https://www.theverge.com/tech/941668/microsoft-build-may-2026-live-news-updates",
@@ -165,15 +282,6 @@
       "publishedAt": "2026-06-01T20:02:31.000Z"
     },
     {
-      "id": "f3uisj",
-      "title": "Gemini’s new AI agent is about as good as Google’s demo",
-      "summary": "Google's new \"24/7\" AI agent, Gemini Spark, can be shockingly good at doing things on your behalf. But I'm not sure it's worth the financial cost and potential privacy tradeoffs. The company gave me access to Spark last week. Google advertises Spark as an AI agent that can take on tasks and work on them in the background - even tasks that have multiple steps - allowing you to put your phone down or walk away from your computer. It also advertises at the very top of the Spark website that it's…",
-      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/lcimg-0ebbe911-9fbb-4f68-97b0-b7361d7cb53c.jpeg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "source": "The Verge",
-      "sourceUrl": "https://www.theverge.com/tech/941138/google-gemini-spark-ai-agent-hands-on",
-      "publishedAt": "2026-06-01T20:00:00.000Z"
-    },
-    {
       "id": "5u78a5",
       "title": "Dozens of Red Hat packages backdoored through its official NPM channel",
       "summary": "Anyone who has downloaded affected Red Hat packages should investigate immediately.",
@@ -183,24 +291,6 @@
       "publishedAt": "2026-06-01T19:49:09.000Z"
     },
     {
-      "id": "zo2jq",
-      "title": "Meta’s own AI was exploited to hijack Instagram accounts",
-      "summary": "Meta's AI support chatbot helped hackers hijack Instagram accounts, as reported earlier by 404 Media. In a video shared on Telegram, a hacker shows how they could take over an account by asking Meta's chatbot to switch the email associated with someone else's profile and then reset the password. The issue, which Meta says has since been patched, cropped up around the same time Barack Obama's White House account on Instagram was hacked. On Sunday, users noticed that the @obamawhitehouse account…",
-      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/meta-chatbot-support.png?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "source": "The Verge",
-      "sourceUrl": "https://www.theverge.com/tech/941179/meta-instagram-ai-support-chatbot-exploit-hacked",
-      "publishedAt": "2026-06-01T19:20:47.000Z"
-    },
-    {
-      "id": "c5w6kd",
-      "title": "Water access is now a risk factor in SpaceX’s IPO",
-      "summary": "The company says it needs \"significant\" water resources to cool its data centers, and that access to abundant, affordable water is a challenge.",
-      "imageUrl": "https://images.unsplash.com/photo-1550751827-4bd374c3f58b?w=800&q=80",
-      "source": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/06/01/water-access-is-now-a-risk-factor-in-spacexs-ipo/",
-      "publishedAt": "2026-06-01T18:19:53.000Z"
-    },
-    {
       "id": "ptt7uk",
       "title": "Anthropic Confidentially Files for What Could Be the Largest IPO Ever",
       "summary": "The AI giant behind Claude submitted paperwork on Monday that would take it public, just a couple of weeks after SpaceX’s splashy IPO announcement.",
@@ -208,60 +298,6 @@
       "source": "Wired",
       "sourceUrl": "https://www.wired.com/story/anthropic-files-s1-ipo-sec/",
       "publishedAt": "2026-06-01T17:17:58.000Z"
-    },
-    {
-      "id": "rngc34",
-      "title": "Anthropic has officially filed to go public",
-      "summary": "After months of speculation about whether OpenAI or Anthropic would be first in their race to IPO, Anthropic on Monday reached a key milestone: filing to kick off the process with the U.S. Securities and Exchange Commission. The filing sets the stage for what's sure to be a massive IPO. As of its fundraise last week, Anthropic is being called the world's most valuable startup, with a post-money valuation of $965 billion. That tops the $852 billion post-money valuation of OpenAI, which is its…",
-      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25469941/STK202_DARIO_AMODEI_CVIRGINIA_D.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "source": "The Verge",
-      "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/941016/anthropic-has-officially-filed-to-go-public",
-      "publishedAt": "2026-06-01T16:40:38.000Z"
-    },
-    {
-      "id": "vb46n9",
-      "title": "Anthropic files to go public",
-      "summary": "Anthropic, now an AI powerhouse that has landed top-tier enterprise customers, was once considered an underdog in the emerging world of large language models.",
-      "imageUrl": "https://images.unsplash.com/photo-1550751827-4bd374c3f58b?w=800&q=80",
-      "source": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/06/01/anthropic-files-to-go-public/",
-      "publishedAt": "2026-06-01T16:36:55.000Z"
-    },
-    {
-      "id": "c1m2zc",
-      "title": "This AI weather startup is out-forecasting government agencies",
-      "summary": "WindBorne benefits from its unique combination of model-building and data collection. The company now has about 400 balloons in flight gathering sensor readings at any given time, launched from 15 sites around the globe. The advances in its current model come from improvements in how the data collected by the balloons is fed into the models.",
-      "imageUrl": "https://images.unsplash.com/photo-1550751827-4bd374c3f58b?w=800&q=80",
-      "source": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/06/01/this-ai-weather-startup-is-out-forecasting-government-agencies/",
-      "publishedAt": "2026-06-01T16:00:00.000Z"
-    },
-    {
-      "id": "9y4vqs",
-      "title": "DuckDuckGo makes its ‘no-AI’ search engine easier to access as its traffic booms",
-      "summary": "Alternative search engine DuckDuckGo launches 'no AI' web extensions for Chrome and Firefox users.",
-      "imageUrl": "https://images.unsplash.com/photo-1620712943543-bcc4688e7485?w=800&q=80",
-      "source": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/06/01/duckduckgo-makes-its-no-ai-search-engine-easier-to-access-as-its-traffic-booms/",
-      "publishedAt": "2026-06-01T14:49:10.000Z"
-    },
-    {
-      "id": "ll4640",
-      "title": "Microsoft to unveil new AI models and Windows improvements at Build",
-      "summary": "Microsoft is heading to San Francisco this week in a bid to win back developers at its Build conference. I've been attending Build since the days when Microsoft called it the Professional Developers Conference, and I can't remember a more pivotal moment. As Microsoft continues to reshuffle its entire business around AI, it's moving Build into a smaller, more intimate venue. Trust in Windows and GitHub is at an all-time low, and this is Microsoft's chance to reconnect with developers and outline…",
-      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/03/MS_BUILD.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "source": "The Verge",
-      "sourceUrl": "https://www.theverge.com/report/940861/microsoft-build-ai-models-windows-dev-mode-what-to-expect",
-      "publishedAt": "2026-06-01T14:39:03.000Z"
-    },
-    {
-      "id": "pjk6z7",
-      "title": "AI is blowing up music. How should the Grammys handle it?",
-      "summary": "Today I’m talking with Harvey Mason Jr., who is CEO of the Recording Academy — that’s the outfit that puts on the Grammy Awards. I last talked to Harvey in 2024, when it was obvious that generative AI would upend the music industry, but still not exactly clear how that would happen. Well, it’s been 18 months since that conversation, and you’re going to hear Harvey say that AI is now “omnipresent” in music production. And Harvey knows what he’s talking about — he is himself a legendary producer…",
-      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/DCD_20260601_Mason_Grammys.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "source": "The Verge",
-      "sourceUrl": "https://www.theverge.com/podcast/940831/ai-grammys-music-recording-harvey-mason",
-      "publishedAt": "2026-06-01T14:30:00.000Z"
     },
     {
       "id": "mio9o8",
@@ -291,24 +327,6 @@
       "publishedAt": "2026-06-01T09:09:00.000Z"
     },
     {
-      "id": "i71b2y",
-      "title": "Erin Brockovich takes aim at data center secrecy",
-      "summary": "Environmental activist Erin Brockovich has a new mission.",
-      "imageUrl": "https://images.unsplash.com/photo-1620712943543-bcc4688e7485?w=800&q=80",
-      "source": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/05/31/erin-brockovich-takes-aim-at-data-center-secrecy/",
-      "publishedAt": "2026-05-31T21:05:14.000Z"
-    },
-    {
-      "id": "pzgnf0",
-      "title": "Making sense of the debate over AI psychosis",
-      "summary": "On the latest episode of Equity, we debate whether tech CEOs are \"uniquely prone to AI psychosis.\"",
-      "imageUrl": "https://images.unsplash.com/photo-1620712943543-bcc4688e7485?w=800&q=80",
-      "source": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/05/31/making-sense-of-the-debate-over-ai-psychosis/",
-      "publishedAt": "2026-05-31T15:30:00.000Z"
-    },
-    {
       "id": "dwgfbw",
       "title": "How Turkey Hacked the Hair Transplant Industry",
       "summary": "From specialized motors to the use of machine learning algorithms, Turkey’s billion-dollar hair-transplant industry is the result of a constant process of innovation.",
@@ -316,15 +334,6 @@
       "source": "Wired",
       "sourceUrl": "https://www.wired.com/story/how-turkey-hacked-the-hair-transplant-industry/",
       "publishedAt": "2026-05-31T09:00:00.000Z"
-    },
-    {
-      "id": "8w7srz",
-      "title": "SoftBank says it will invest up to €75B to build French data centers",
-      "summary": "The goal, the firm said, is to develop and operate up to 5 gigawatts of additional data center capacity.",
-      "imageUrl": "https://images.unsplash.com/photo-1550751827-4bd374c3f58b?w=800&q=80",
-      "source": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/05/30/softbank-says-it-will-invest-up-to-e75-billion-to-build-french-data-centers/",
-      "publishedAt": "2026-05-30T21:45:00.000Z"
     },
     {
       "id": "s3qs61",
@@ -370,15 +379,6 @@
       "source": "Wired",
       "sourceUrl": "https://www.wired.com/story/future-of-truth-ai-interview/",
       "publishedAt": "2026-05-29T16:30:00.000Z"
-    },
-    {
-      "id": "ov7nnh",
-      "title": "The Vatican’s Man Inside Anthropic",
-      "summary": "Pope Leo XIV may not be able to disarm AI, but he’s got the attention of the industry.",
-      "imageUrl": "https://media.wired.com/photos/6a1898e5148c56039b79abe1/master/pass/Backchannel-Pope-Leo-AI-Business-2214167500.jpg",
-      "source": "Wired",
-      "sourceUrl": "https://www.wired.com/story/the-vaticans-man-inside-anthropic/",
-      "publishedAt": "2026-05-29T15:00:00.000Z"
     },
     {
       "id": "qhba0r",
