@@ -1,7 +1,97 @@
 {
-  "fetchedAt": "2026-06-03T12:21:25.769Z",
+  "fetchedAt": "2026-06-03T17:28:39.876Z",
   "count": 60,
   "articles": [
+    {
+      "id": "xs8apq",
+      "title": "How virtual power plants could provide energy for data centers",
+      "summary": "Would you take a payment to ramp down your electricity use? Would it change anything if you were doing so to help power a local data center? Google just signed a new deal to help pay for a virtual power plant (VPP) in the largest power grid in the US. The agreement is with Voltus,…",
+      "imageUrl": "https://images.unsplash.com/photo-1620712943543-bcc4688e7485?w=800&q=80",
+      "source": "MIT Tech Review",
+      "sourceUrl": "https://www.technologyreview.com/2026/06/03/1138350/virtual-power-plants-data-centers/",
+      "publishedAt": "2026-06-03T16:51:38.000Z"
+    },
+    {
+      "id": "lw3ifv",
+      "title": "Amazon’s search bar will invent AI-generated products you can’t buy",
+      "summary": "Amazon's updated search bar will now show you AI-generated images of products as you describe them. For now, the in-app feature only surfaces AI images of clothing and home goods, allowing you to tap on the image that best matches what you're looking for and search for similar-looking items. In a blog post, Amazon positions the feature as a way to help you search for items if you can't remember the name of a specific texture or style, like describing a \"shirt with a draped collar\" if you can't…",
+      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/amazon-ai-search.png?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "source": "The Verge",
+      "sourceUrl": "https://www.theverge.com/tech/942547/amazon-search-bar-ai-images",
+      "publishedAt": "2026-06-03T16:07:31.000Z"
+    },
+    {
+      "id": "gtpjt8",
+      "title": "Amazon will show AI product images when you search for some reason",
+      "summary": "Amazon will use visual search and AI to show AI generated product images that match your search queries. The retailer says it will help guide users to products.",
+      "imageUrl": "https://images.unsplash.com/photo-1526374965328-7f61d4dc18c5?w=800&q=80",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/06/03/amazon-will-show-ai-product-images-when-you-search-for-some-reason/",
+      "publishedAt": "2026-06-03T15:50:26.000Z"
+    },
+    {
+      "id": "ldisy5",
+      "title": "This Is How Trump Finally Signed the AI Executive Order",
+      "summary": "After shelving the original executive order last month, Donald Trump finally got on board Monday night.",
+      "imageUrl": "https://media.wired.com/photos/6a2042b93fae6e15d3dce8a2/master/pass/GettyImages-2278487848.jpg",
+      "source": "Wired",
+      "sourceUrl": "https://www.wired.com/story/this-is-how-trump-finally-signed-the-ai-executive-order/",
+      "publishedAt": "2026-06-03T15:46:52.000Z"
+    },
+    {
+      "id": "1hwl7g",
+      "title": "These two founders left Goldman and Meta to build voice AI for markets everyone else overlooked",
+      "summary": "The startup's own stack for Africa and Middle East is now handling more than 17,000 calls per day.",
+      "imageUrl": "https://images.unsplash.com/photo-1655720828018-edd2daec9349?w=800&q=80",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/06/03/these-two-founders-left-goldman-and-meta-to-build-voice-ai-for-markets-everyone-else-overlooked/",
+      "publishedAt": "2026-06-03T15:00:00.000Z"
+    },
+    {
+      "id": "9p1f8u",
+      "title": "Publishers will be able to opt out of AI Search, thanks to new regulation",
+      "summary": "U.K. regulators are requiring Google offer a tool allowing website publishers to opt-out of generative AI search features. The option will be tested in the U.K. then rolled out globally.",
+      "imageUrl": "https://images.unsplash.com/photo-1655720828018-edd2daec9349?w=800&q=80",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/06/03/publishers-will-be-able-to-opt-out-of-ai-search-thanks-to-new-regulation/",
+      "publishedAt": "2026-06-03T14:58:33.000Z"
+    },
+    {
+      "id": "zi2q6n",
+      "title": "Microsoft and OpenAI broke up — now they’re ready to fight",
+      "summary": "At Microsoft's annual Build conference on Tuesday, the company announced a slew of new or expanded AI initiatives, including a super app, in-house reasoning models, a cybersecurity tool, and OpenClaw-esque AI agents. All this news added up to a clear message: Microsoft is positioned to be one of the biggest players in AI, and it's finally acting like it. For years, Microsoft's AI business leaned hard on its early and exclusive partnership with OpenAI. But the drama-filled marriage slowly…",
+      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/10/STK178_Satya_Nadella_B.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "source": "The Verge",
+      "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/942242/microsoft-build-ai-agents-openai-competition",
+      "publishedAt": "2026-06-03T14:04:00.000Z"
+    },
+    {
+      "id": "bkqr2l",
+      "title": "Meta’s AI agent for WhatsApp Business is now available globally",
+      "summary": "WhatsApp will charge businesses for using its AI agent based on token usage",
+      "imageUrl": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=800&q=80",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/06/03/metas-ai-agent-for-whatsapp-business-is-now-available-globally/",
+      "publishedAt": "2026-06-03T13:40:00.000Z"
+    },
+    {
+      "id": "1ipw10",
+      "title": "Coralogix raises $200M on bet that someone needs to watch the AI agents",
+      "summary": "The Series F round values Coralogix at $1.6 billion and comes less than a year after its previous raise.",
+      "imageUrl": "https://images.unsplash.com/photo-1531746790095-6c10a4031c5f?w=800&q=80",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/06/03/coralogix-raises-200m-in-race-to-build-the-monitoring-layer-for-ai-agents/",
+      "publishedAt": "2026-06-03T13:02:51.000Z"
+    },
+    {
+      "id": "g9vttv",
+      "title": "The Download: Trump’s new AI order, and smart glasses for warfare",
+      "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. 5 key points in Trump’s new AI order Less than two weeks after scrapping an executive order on AI, President Donald Trump signed a new one on Tuesday. Promising to promote…",
+      "imageUrl": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=800&q=80",
+      "source": "MIT Tech Review",
+      "sourceUrl": "https://www.technologyreview.com/2026/06/03/1138322/the-download-trump-ai-order-smart-glasses-warfare/",
+      "publishedAt": "2026-06-03T12:10:00.000Z"
+    },
     {
       "id": "9snsfa",
       "title": "Nvidia’s RTX Spark Laptops Look Hell-Bent on Disruption",
@@ -21,8 +111,8 @@
       "publishedAt": "2026-06-03T10:00:00.000Z"
     },
     {
-      "id": "vy04sy",
-      "title": "AI has a water problem. Google thinks it has a fix",
+      "id": "bl0ll2",
+      "title": "AI has a water problem — Google thinks it has a fix",
       "summary": "In the face of widespread backlash to the AI data center buildout throughout the US, Google is touting its efforts to minimize the environmental impact by actually increasing water for local communities. The company laid out five commitments around water use in a new blog post published Wednesday, including a goal to replenish more water than it uses at its data centers by 2030. Google also said it will invest in local water infrastructure, identify alternative water sources to power its…",
       "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/04/STKS528_DATA_CENTERS_B.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
       "source": "The Verge",
@@ -183,15 +273,6 @@
       "publishedAt": "2026-06-02T17:31:02.000Z"
     },
     {
-      "id": "8wxaxw",
-      "title": "Microsoft created the mini Surface dev box that Qualcomm couldn’t",
-      "summary": "Microsoft only just announced a new Surface Laptop Ultra at the weekend, and it's now revealing a miniature Surface PC aimed at developers. The new Surface RTX Spark Dev Box is powered by Nvidia's new Arm-based RTX Spark chips, just like the Surface Laptop Ultra, and is optimized for sustained workloads and local AI tasks. The Surface RTX Spark Dev Box looks a little like the top of an Xbox Series X console, with an aluminum chassis that also doubles as a heatsink. It has a 100-watt thermal…",
-      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/Surface-RTX-Spark-Image-4.png?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "source": "The Verge",
-      "sourceUrl": "https://www.theverge.com/news/941271/microsoft-surface-rtx-spark-dev-box-specs-availability",
-      "publishedAt": "2026-06-02T16:30:00.000Z"
-    },
-    {
       "id": "apz4ku",
       "title": "Trump signs narrower executive order on AI oversight after industry objections",
       "summary": "After industry objections, President Trump signed a revised AI executive order requiring only voluntary prerelease government reviews of advanced models.",
@@ -210,15 +291,6 @@
       "publishedAt": "2026-06-02T16:00:00.000Z"
     },
     {
-      "id": "k46hf6",
-      "title": "Microsoft Build 2026: All the news about Windows, AI, RTX Spark, and more",
-      "summary": "Microsoft Build 2026 kicked off with a keynote presentation that introduced some developer-focused Windows updates, an OpenClaw-based AI assistant called Scout, the new Majorana 2 quantum computing chip, and a Surface mini PC designed for AI developers. Microsoft also rolled out a new Android-based OS called Project Solara that’s designed for gadgets that run AI agents. Build will continue through June 3rd, and we’ll have all the updates on Microsoft’s announcements here. Follow along here for…",
-      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/03/STK095_MICROSOFT_2_CVirginia_C.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "source": "The Verge",
-      "sourceUrl": "https://www.theverge.com/tech/941668/microsoft-build-may-2026-live-news-updates",
-      "publishedAt": "2026-06-02T15:59:58.000Z"
-    },
-    {
       "id": "6paujx",
       "title": "Flush With Cash From OpenAI, Opal Is Making an AI-Powered Audio Gadget",
       "summary": "Opal, the company famous for making a fancy webcam, has pivoted to making other consumer electronics. Fueled by big investments from OpenAI and Samsung, it’s working on an audio gadget first.",
@@ -228,24 +300,6 @@
       "publishedAt": "2026-06-02T15:30:00.000Z"
     },
     {
-      "id": "o8yim0",
-      "title": "Anthropic scales Claude Mythos to critical infrastructure in 15+ countries",
-      "summary": "Anthropic is expanding Project Glasswing, its security vulnerability program, and access to Mythos to 150 organizations across 15 countries — targeting critical infrastructure in power, water, healthcare, and communications where a cyberattack could affect 100 million people.",
-      "imageUrl": "https://images.unsplash.com/photo-1526374965328-7f61d4dc18c5?w=800&q=80",
-      "source": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/06/02/anthropic-scales-claude-mythos-to-critical-infrastructure-in-15-countries/",
-      "publishedAt": "2026-06-02T14:44:21.000Z"
-    },
-    {
-      "id": "jidgj8",
-      "title": "ZeroDrift raises $10M to protect AI models from themselves",
-      "summary": "A new AI compliance service sits between AI models and end users to flag and replace any messages that might present a compliance problem.",
-      "imageUrl": "https://images.unsplash.com/photo-1635070041078-e363dbe005cb?w=800&q=80",
-      "source": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/06/02/zerodrift-raises-10-million-to-protect-ai-models-from-themselves/",
-      "publishedAt": "2026-06-02T12:32:59.000Z"
-    },
-    {
       "id": "wcwz2f",
       "title": "The Download: AI can run your admin department now",
       "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. How small businesses can leverage AI From accounting to design to market research and product development, there’s a staggering breadth of skills needed to run a business. Large companies can hire…",
@@ -253,15 +307,6 @@
       "source": "MIT Tech Review",
       "sourceUrl": "https://www.technologyreview.com/2026/06/02/1138277/the-download-ai-tips-small-businesses-admin/",
       "publishedAt": "2026-06-02T12:10:00.000Z"
-    },
-    {
-      "id": "hs1ywl",
-      "title": "Rocket engine startup Impulse raises $500 million to hire people, not AI",
-      "summary": "Engineering physical systems still depends on human talent, according to Impulse Space president Eric Romo.",
-      "imageUrl": "https://images.unsplash.com/photo-1550751827-4bd374c3f58b?w=800&q=80",
-      "source": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/06/02/rocket-engine-startup-impulse-raises-500-million-to-hire-people-not-ai/",
-      "publishedAt": "2026-06-02T12:00:00.000Z"
     },
     {
       "id": "pbm7yi",
@@ -289,24 +334,6 @@
       "source": "MIT Tech Review",
       "sourceUrl": "https://www.technologyreview.com/2026/06/02/1138227/how-small-businesses-can-leverage-ai/",
       "publishedAt": "2026-06-02T09:00:00.000Z"
-    },
-    {
-      "id": "nt02iy",
-      "title": "Alphabet plans to raise $80B to pay for AI buildout",
-      "summary": "\"The company is experiencing strong demand for its AI solutions and services from enterprises and consumers, at levels that are exceeding the company’s available supply,\" Alphabet said in its statement.",
-      "imageUrl": "https://images.unsplash.com/photo-1635070041078-e363dbe005cb?w=800&q=80",
-      "source": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/06/01/alphabet-plans-to-raise-80-billion-to-pay-for-ai-buildout/",
-      "publishedAt": "2026-06-01T22:55:09.000Z"
-    },
-    {
-      "id": "ic3u9e",
-      "title": "Nvidia chases $200B CPU market with AI agent PCs from Microsoft, Dell, and HP",
-      "summary": "If Nvidia has cracked a way to bring AI agents easily, safely, and usefully to the masses, it could — and should — be big.",
-      "imageUrl": "https://images.unsplash.com/photo-1655720828018-edd2daec9349?w=800&q=80",
-      "source": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/06/01/nvidia-chases-200b-cpu-market-with-ai-agent-pcs-from-microsoft-dell-and-hp/",
-      "publishedAt": "2026-06-01T21:35:00.000Z"
     },
     {
       "id": "5u78a5",
@@ -363,15 +390,6 @@
       "publishedAt": "2026-05-31T09:00:00.000Z"
     },
     {
-      "id": "s3qs61",
-      "title": "Do You Actually Need to Pay for Transcription Software?",
-      "summary": "I tested Wispr Flow and various AI-powered transcription software to see whether you should bother subscribing or stick with free services.",
-      "imageUrl": "https://media.wired.com/photos/6a16ee1164b9036ecc8e9699/master/pass/GettyImages-1241968547.jpg",
-      "source": "Wired",
-      "sourceUrl": "https://www.wired.com/story/do-you-actually-need-to-pay-for-transcription-software/",
-      "publishedAt": "2026-05-30T09:30:00.000Z"
-    },
-    {
       "id": "hk244o",
       "title": "Botnet of more than 17 million devices dismantled",
       "summary": "The botnet was reportedly tied to a Russia-based residential proxy network.",
@@ -415,24 +433,6 @@
       "source": "Ars Technica",
       "sourceUrl": "https://arstechnica.com/security/2026/05/fed-up-with-vibe-coders-dev-sneaks-data-nuking-prompt-injection-into-their-code/",
       "publishedAt": "2026-05-28T20:29:53.000Z"
-    },
-    {
-      "id": "nys0f0",
-      "title": "How a new extraction process could unlock the world’s lithium",
-      "summary": "Researchers say they’ve found a new way to extract lithium, a crucial metal used in the lithium-ion batteries that power electric vehicles and energy storage arrays. This new technique could be more environmentally friendly and cheaper than existing ones. The research was published today in Science, and a startup called Rock Zero is working to…",
-      "imageUrl": "https://images.unsplash.com/photo-1620712943543-bcc4688e7485?w=800&q=80",
-      "source": "MIT Tech Review",
-      "sourceUrl": "https://www.technologyreview.com/2026/05/28/1138096/lithium-extraction-rock-zero/",
-      "publishedAt": "2026-05-28T18:01:00.000Z"
-    },
-    {
-      "id": "5tt8v6",
-      "title": "The Download: climate tech goes public and the AI Hype Index returns",
-      "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. Climate tech companies are going public. What’s next? Solar and battery company Solv Energy went public in February, hitting a $6 billion valuation. X-energy, which builds small modular nuclear reactors, followed…",
-      "imageUrl": "https://images.unsplash.com/photo-1635070041078-e363dbe005cb?w=800&q=80",
-      "source": "MIT Tech Review",
-      "sourceUrl": "https://www.technologyreview.com/2026/05/28/1138085/the-download-climate-tech-ipos-ai-hype-index/",
-      "publishedAt": "2026-05-28T12:10:00.000Z"
     },
     {
       "id": "s5a0c1",
