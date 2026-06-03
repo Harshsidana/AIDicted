@@ -1,11 +1,29 @@
 {
-  "fetchedAt": "2026-06-03T20:39:50.205Z",
+  "fetchedAt": "2026-06-03T23:08:20.627Z",
   "count": 60,
   "articles": [
     {
+      "id": "18brox",
+      "title": "Lovable signs multi-year deal with Google Cloud to up usage 5x, source says",
+      "summary": "Lovable and Google signed an expanded multi-year deal athat involves a 5x expansion of Lovable's footprint on Google Cloud, and expanded access to Anthropic Claude.",
+      "imageUrl": "https://images.unsplash.com/photo-1485827404703-89b55fcc595e?w=800&q=80",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/06/03/lovable-signs-multi-year-deal-with-google-cloud-to-up-usage-5x-source-says/",
+      "publishedAt": "2026-06-03T22:56:51.000Z"
+    },
+    {
+      "id": "kr56qx",
+      "title": "Dashlane issues opaque advisory warning 20 encrypted vaults were stolen",
+      "summary": "Security advisory leaves out key details. Dashlane maintains complete silence.",
+      "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2026/06/dashlane-app-1152x648-1780514208.webp",
+      "source": "Ars Technica",
+      "sourceUrl": "https://arstechnica.com/security/2026/06/dashlane-issues-opaque-advisory-warning-20-encrypted-vaults-were-stolen/",
+      "publishedAt": "2026-06-03T19:53:14.000Z"
+    },
+    {
       "id": "wfm7m7",
       "title": "Alphabet’s record-breaking $85B raise for Google’s AI business is a helluva good signal",
-      "summary": "If Alphabet's record-breaking, $85 billion stock sale signals investor appetite for AI-related offerings, we can see that investors are ready to chow.",
+      "summary": "If Alphabet's record-breaking $85 billion stock sale signals investor appetite for AI-related offerings, we can see that investors are ready to chow.",
       "imageUrl": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=800&q=80",
       "source": "TechCrunch",
       "sourceUrl": "https://techcrunch.com/2026/06/03/alphabets-record-breaking-85b-raise-for-googles-ai-business-is-a-helluva-good-signal/",
@@ -300,15 +318,6 @@
       "publishedAt": "2026-06-02T18:00:00.000Z"
     },
     {
-      "id": "scy78o",
-      "title": "Amazon faces class action lawsuit over Ring facial-recognition feature",
-      "summary": "The class action lawsuit, filed in Seattle by Virginia resident Charles Sigwalt, claims that Ring's Familiar Faces feature stores images of passersby without consent.",
-      "imageUrl": "https://images.unsplash.com/photo-1620712943543-bcc4688e7485?w=800&q=80",
-      "source": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/06/02/amazon-faces-class-action-lawsuit-over-ring-facial-recognition-feature/",
-      "publishedAt": "2026-06-02T17:47:28.000Z"
-    },
-    {
       "id": "6paujx",
       "title": "Flush With Cash From OpenAI, Opal Is Making an AI-Powered Audio Gadget",
       "summary": "Opal, the company famous for making a fancy webcam, has pivoted to making other consumer electronics. Fueled by big investments from OpenAI and Samsung, it’s working on an audio gadget first.",
@@ -532,15 +541,6 @@
       "source": "Ars Technica",
       "sourceUrl": "https://arstechnica.com/information-technology/2026/05/cisco-announces-record-revenue-and-4000-layoffs-in-the-same-day/",
       "publishedAt": "2026-05-14T16:47:43.000Z"
-    },
-    {
-      "id": "qdsdu8",
-      "title": "Linux bitten by second severe vulnerability in as many weeks",
-      "summary": "Production-version patches are coming online and should be installed pronto.",
-      "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2022/05/caution-tape-1000x648.jpeg",
-      "source": "Ars Technica",
-      "sourceUrl": "https://arstechnica.com/security/2026/05/linux-bitten-by-second-severe-vulnerability-in-as-many-weeks/",
-      "publishedAt": "2026-05-11T22:28:19.000Z"
     }
   ]
 }
