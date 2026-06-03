@@ -1,7 +1,52 @@
 {
-  "fetchedAt": "2026-06-03T07:23:34.585Z",
+  "fetchedAt": "2026-06-03T12:21:25.769Z",
   "count": 60,
   "articles": [
+    {
+      "id": "9snsfa",
+      "title": "Nvidia’s RTX Spark Laptops Look Hell-Bent on Disruption",
+      "summary": "The company’s RTX Spark chips might finally turn the “AI PC” into reality.",
+      "imageUrl": "https://media.wired.com/photos/6a1f958fbb0dd697e44abd3e/master/pass/Courtesy-of-Nvidia.jpg",
+      "source": "Wired",
+      "sourceUrl": "https://www.wired.com/story/nvidia-rtx-spark-laptop-disruption/",
+      "publishedAt": "2026-06-03T11:00:00.000Z"
+    },
+    {
+      "id": "w62zod",
+      "title": "What’s Worth More Than Cash in San Francisco Real Estate? Anthropic Stock",
+      "summary": "Several real estate listings in the San Francisco Bay Area are offering to exchange a home for a piece of the AI startup.",
+      "imageUrl": "https://media.wired.com/photos/6a1f6880163032d6de40fd16/master/pass/Exchange-Home-for-Anthropic-Stock-Business.jpg",
+      "source": "Wired",
+      "sourceUrl": "https://www.wired.com/story/whats-worth-more-than-san-francisco-real-estate-anthropic-stock/",
+      "publishedAt": "2026-06-03T10:00:00.000Z"
+    },
+    {
+      "id": "vy04sy",
+      "title": "AI has a water problem. Google thinks it has a fix",
+      "summary": "In the face of widespread backlash to the AI data center buildout throughout the US, Google is touting its efforts to minimize the environmental impact by actually increasing water for local communities. The company laid out five commitments around water use in a new blog post published Wednesday, including a goal to replenish more water than it uses at its data centers by 2030. Google also said it will invest in local water infrastructure, identify alternative water sources to power its…",
+      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/04/STKS528_DATA_CENTERS_B.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "source": "The Verge",
+      "sourceUrl": "https://www.theverge.com/policy/942296/google-water-commitments-data-centers",
+      "publishedAt": "2026-06-03T09:00:00.000Z"
+    },
+    {
+      "id": "d7ffsp",
+      "title": "Redditors Are Using AI to Beat Obscene World Cup Ticket Prices",
+      "summary": "Soccer fans on r/WorldCup2026Tickets are using Claude to build DIY ticketing software, exchanging on back channels, and leaving scalpers scrambling.",
+      "imageUrl": "https://media.wired.com/photos/6a1fdc7925887801d470b4c0/master/pass/WIRED-WC26-Cristian-Mera-Reddit.png",
+      "source": "Wired",
+      "sourceUrl": "https://www.wired.com/story/redditors-are-using-ai-to-beat-obscene-fifa-world-cup-ticket-prices/",
+      "publishedAt": "2026-06-03T09:00:00.000Z"
+    },
+    {
+      "id": "fu4n5x",
+      "title": "Google must let publishers opt out of AI Search features, rules UK",
+      "summary": "Online publishers are getting more control over whether their websites appear in Google's AI Search features, thanks to a UK regulatory ruling. The new conduct rule imposed by the Competition and Markets Authority (CMA) requires Google to let website owners keep their content out of features like AI Overviews and prevent it from being used for the \"fine-tuning\" of Google's AI models. \"In a world first, publishers will now have effective tools to prevent their content being used to power AI…",
+      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/04/STKS487_ANTITRUST_2__STK093_GOOGLE.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "source": "The Verge",
+      "sourceUrl": "https://www.theverge.com/tech/942302/google-search-ai-overviews-uk-cma-publisher-opt-out",
+      "publishedAt": "2026-06-03T08:45:48.000Z"
+    },
     {
       "id": "mlg03c",
       "title": "Cyera eyes $12B valuation at 80x ARR multiple despite operating losses",
@@ -192,15 +237,6 @@
       "publishedAt": "2026-06-02T14:44:21.000Z"
     },
     {
-      "id": "kabmd5",
-      "title": "Gemini Spark is the most impressive and terrifying AI experience I’ve had yet",
-      "summary": "Spark is Google’s new agentic answer for everything. According to every product demo from the last four years, planning a trip is a killer use case for AI. Just tell it where you're going, they all promise, and your chatbot / agent / other buzzword will exhaustively search travel options, read up on all the fun things to do, check all the local hotspots, and offer you a fully fledged itinerary. So far, I've found this to work only in the most generic ways: If you want to do the six most obvious…",
-      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/Google-Gemini-Spark.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "source": "The Verge",
-      "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/941388/gemini-spark-ai-agent-trip-planning",
-      "publishedAt": "2026-06-02T12:38:08.000Z"
-    },
-    {
       "id": "jidgj8",
       "title": "ZeroDrift raises $10M to protect AI models from themselves",
       "summary": "A new AI compliance service sits between AI models and end users to flag and replace any messages that might present a compliance problem.",
@@ -273,15 +309,6 @@
       "publishedAt": "2026-06-01T21:35:00.000Z"
     },
     {
-      "id": "x8gcgj",
-      "title": "This could be Windows’ M1 moment — but expect it to cost a ton",
-      "summary": "Nvidia's announcement that it's getting into the consumer laptop chip space with RTX Spark is huge. Apple has proved for years that Arm-based chips can perform incredibly well while also delivering great battery life - at least on the Mac. In the Windows world, performance hasn't fully matched up under Qualcomm chips, mostly in the graphics department. There's clearly still untapped potential, and Nvidia seems to be promising to deliver it. This could be Windows' moment to blow us away with a…",
-      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/05/Screenshot_20260531_212701.png?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "source": "The Verge",
-      "sourceUrl": "https://www.theverge.com/tech/941215/windows-laptops-nvidia-rtx-spark-apple-m1-arm-price-ram",
-      "publishedAt": "2026-06-01T20:02:31.000Z"
-    },
-    {
       "id": "5u78a5",
       "title": "Dozens of Red Hat packages backdoored through its official NPM channel",
       "summary": "Anyone who has downloaded affected Red Hat packages should investigate immediately.",
@@ -345,24 +372,6 @@
       "publishedAt": "2026-05-30T09:30:00.000Z"
     },
     {
-      "id": "z16k0p",
-      "title": "Amazon Is Making an AI-Animated ‘Good Advice Cupcake’ TV Show. Its Original Creator Is Furious",
-      "summary": "Loryn Brantz created The Good Advice Cupcake for BuzzFeed years ago. The company licensed the character for a new Amazon series—made with AI—without her consent.",
-      "imageUrl": "https://media.wired.com/photos/6a18c5e0148c56039b79b0d5/master/pass/Amazon-Turns-Buzzfeed-Good-Advice-Cupcake-Into-AI-Series-Culture-1164238077.jpg",
-      "source": "Wired",
-      "sourceUrl": "https://www.wired.com/story/story/amazon-is-making-an-ai-animated-good-advice-cupcake-tv-show-its-original-creator-is-furious/",
-      "publishedAt": "2026-05-29T20:56:59.000Z"
-    },
-    {
-      "id": "n3qes",
-      "title": "Hands-On With Gemini Spark: I Gave It Access to My Life and It Friend-Zoned My Boyfriend",
-      "summary": "Google’s new AI agent combed through my emails, documents, and calendar to plan a birthday party and still didn’t clock the person most important to me.",
-      "imageUrl": "https://media.wired.com/photos/6a19d3576c603cc05220330d/master/pass/Gear_HandsOnWithGeminiSparkGoogle%E2%80%99sAIAgentThatLivesinYourPhone_v1.jpg",
-      "source": "Wired",
-      "sourceUrl": "https://www.wired.com/story/google-gemini-spark-ai-agent-hands-on/",
-      "publishedAt": "2026-05-29T19:07:46.000Z"
-    },
-    {
       "id": "hk244o",
       "title": "Botnet of more than 17 million devices dismantled",
       "summary": "The botnet was reportedly tied to a Russia-based residential proxy network.",
@@ -370,15 +379,6 @@
       "source": "Ars Technica",
       "sourceUrl": "https://arstechnica.com/security/2026/05/botnet-of-more-than-17-million-devices-dismantled/",
       "publishedAt": "2026-05-29T18:46:33.000Z"
-    },
-    {
-      "id": "efgykj",
-      "title": "We Asked the ‘Future of Truth’ Author to Explain How He Used AI. It Didn’t Go Well",
-      "summary": "A book about how AI shapes perceptions of reality came under fire for using AI-generated quotes. Its problems go beyond that.",
-      "imageUrl": "https://media.wired.com/photos/6a173332faa2148b4ab454b6/master/pass/Business_AIBookAuthorUsedAItoWriteHisBook_v1.jpg",
-      "source": "Wired",
-      "sourceUrl": "https://www.wired.com/story/future-of-truth-ai-interview/",
-      "publishedAt": "2026-05-29T16:30:00.000Z"
     },
     {
       "id": "qhba0r",
