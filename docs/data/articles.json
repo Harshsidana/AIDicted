@@ -1,19 +1,28 @@
 {
-  "fetchedAt": "2026-06-03T23:08:20.627Z",
+  "fetchedAt": "2026-06-04T02:07:51.764Z",
   "count": 60,
   "articles": [
     {
-      "id": "18brox",
-      "title": "Lovable signs multi-year deal with Google Cloud to up usage 5x, source says",
-      "summary": "Lovable and Google signed an expanded multi-year deal athat involves a 5x expansion of Lovable's footprint on Google Cloud, and expanded access to Anthropic Claude.",
-      "imageUrl": "https://images.unsplash.com/photo-1485827404703-89b55fcc595e?w=800&q=80",
+      "id": "je0a6b",
+      "title": "OpenAI and Anthropic Sign Letter to Prevent AI-Developed Biological Weapons",
+      "summary": "Leading AI labs, executives, and scientists are sending a letter to lawmakers urging them to improve tracking of synthetic DNA sequences that could be used for bioweapons.",
+      "imageUrl": "https://media.wired.com/photos/6a1f6447234d4b89dad80277/master/pass/science_anthropic_final.jpg",
+      "source": "Wired",
+      "sourceUrl": "https://www.wired.com/story/openai-anthropic-letter-ai-biological-weapons/",
+      "publishedAt": "2026-06-04T01:01:00.000Z"
+    },
+    {
+      "id": "8tu1zu",
+      "title": "Lovable signs multiyear deal with Google Cloud to up usage 5x, source says",
+      "summary": "Lovable and Google signed an expanded multiyear deal that involves a 5x expansion of Lovable's footprint on Google Cloud, and expanded access to Anthropic Claude.",
+      "imageUrl": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=800&q=80",
       "source": "TechCrunch",
       "sourceUrl": "https://techcrunch.com/2026/06/03/lovable-signs-multi-year-deal-with-google-cloud-to-up-usage-5x-source-says/",
       "publishedAt": "2026-06-03T22:56:51.000Z"
     },
     {
-      "id": "kr56qx",
-      "title": "Dashlane issues opaque advisory warning 20 encrypted vaults were stolen",
+      "id": "vnpg4i",
+      "title": "Can't make sense of Dashlane's vault theft notification? You're not alone.",
       "summary": "Security advisory leaves out key details. Dashlane maintains complete silence.",
       "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2026/06/dashlane-app-1152x648-1780514208.webp",
       "source": "Ars Technica",
@@ -370,15 +379,6 @@
       "source": "Ars Technica",
       "sourceUrl": "https://arstechnica.com/security/2026/06/dozens-of-red-hat-packages-backdoored-through-its-offical-npm-channel/",
       "publishedAt": "2026-06-01T19:49:09.000Z"
-    },
-    {
-      "id": "ptt7uk",
-      "title": "Anthropic Confidentially Files for What Could Be the Largest IPO Ever",
-      "summary": "The AI giant behind Claude submitted paperwork on Monday that would take it public, just a couple of weeks after SpaceX’s splashy IPO announcement.",
-      "imageUrl": "https://media.wired.com/photos/6a1db04538f4e0fcb2641f17/master/pass/Anthropic-Goes-Public-Business-2274306161.jpg",
-      "source": "Wired",
-      "sourceUrl": "https://www.wired.com/story/anthropic-files-s1-ipo-sec/",
-      "publishedAt": "2026-06-01T17:17:58.000Z"
     },
     {
       "id": "mio9o8",
