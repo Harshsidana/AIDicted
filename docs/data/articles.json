@@ -1,7 +1,43 @@
 {
-  "fetchedAt": "2026-06-04T14:08:33.169Z",
+  "fetchedAt": "2026-06-04T17:31:46.749Z",
   "count": 60,
   "articles": [
+    {
+      "id": "lch20j",
+      "title": "Meta rolls out a new AI creator assistant on Facebook",
+      "summary": "Creators often have to parse through charts and dashboards to understand their performance, but with the new AI assistant, they can get quick answers to questions like \"When should I post?\" and \"What are people saying in my comments?\"",
+      "imageUrl": "https://images.unsplash.com/photo-1531746790095-6c10a4031c5f?w=800&q=80",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/06/04/meta-rolls-out-a-new-ai-creator-assistant-on-facebook/",
+      "publishedAt": "2026-06-04T16:32:48.000Z"
+    },
+    {
+      "id": "pvdqje",
+      "title": "What to expect from WWDC 2026: Siri’s highly anticipated revamp and Apple Intelligence updates",
+      "summary": "Apple's WWDC nears: here's what you can look forward to.",
+      "imageUrl": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=800&q=80",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/06/04/what-to-expect-from-wwdc-2026-siris-highly-anticipated-revamp-and-apple-intelligence-updates/",
+      "publishedAt": "2026-06-04T16:31:12.000Z"
+    },
+    {
+      "id": "g9g2tw",
+      "title": "Is Silicon Valley ready to put robots in people’s homes? Hello Robot is.",
+      "summary": "The California startup released the fourth-generation of its home assistance robot, Stretch.",
+      "imageUrl": "https://images.unsplash.com/photo-1485827404703-89b55fcc595e?w=800&q=80",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/06/04/is-silicon-valley-ready-to-put-robots-in-peoples-homes-hello-robot-is/",
+      "publishedAt": "2026-06-04T15:05:00.000Z"
+    },
+    {
+      "id": "h01lyj",
+      "title": "TSMC struggles to keep up with AI demand: ‘We can only support so much’",
+      "summary": "Taiwan Semiconductor Manufacturing Co. - the world's biggest semiconductor-maker - is struggling to meet demands from American customers even with its factory buildout in the US, according to reports from Reuters and Bloomberg. \"Customer demand is so high, and we can only support so much,\" TSMC CEO C.C. Wei said after a shareholder meeting on Thursday, Reuters reports. \"We are doing our best to ensure TSMC does not become a bottleneck.\" The surge in AI use has already put constraints on the…",
+      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/acastro_210430_1777_semiCon_0001.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "source": "The Verge",
+      "sourceUrl": "https://www.theverge.com/tech/943066/tsmc-ai-demand-struggles",
+      "publishedAt": "2026-06-04T14:15:44.000Z"
+    },
     {
       "id": "h2y3un",
       "title": "Apple touts $1.4 trillion in App Store billings and sales, 90% without a commission",
@@ -309,15 +345,6 @@
       "publishedAt": "2026-06-02T22:50:56.000Z"
     },
     {
-      "id": "mlmqkg",
-      "title": "Microsoft Build 2026: The 7 biggest announcements",
-      "summary": "Microsoft just kicked off Build 2026 with a keynote from CEO Satya Nadella and other company leaders. As expected, it was filled with announcements, ranging from new Surface hardware to an always-on personal assistant and updates across Microsoft's in-house AI models. If you didn't watch the event live, you can catch up on all the latest news in the roundup below. A mini Surface PC designed for AI development The Surface RTX Spark Dev Box is geared toward developers who want to run local AI…",
-      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/nadella-build-2026.png?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "source": "The Verge",
-      "sourceUrl": "https://www.theverge.com/tech/941738/microsoft-build-2026-biggest-announcements",
-      "publishedAt": "2026-06-02T19:23:52.000Z"
-    },
-    {
       "id": "u1ubvn",
       "title": "Uber caps employee AI spending after blowing through budget in 4 months",
       "summary": "Uber's cutback has occurred after the company had reportedly encouraged staff to use AI as much as possible.",
@@ -334,33 +361,6 @@
       "source": "TechCrunch",
       "sourceUrl": "https://techcrunch.com/2026/06/02/new-microsoft-tool-lets-devs-spin-up-ai-behavior-tests-using-text-descriptions/",
       "publishedAt": "2026-06-02T19:02:21.000Z"
-    },
-    {
-      "id": "5ee0iv",
-      "title": "Martin Scorsese becomes the latest — and most unlikely — Hollywood voice for AI",
-      "summary": "The caveat is that one of the world's most famous living directors is using the tech solely for storyboarding.",
-      "imageUrl": "https://images.unsplash.com/photo-1655720828018-edd2daec9349?w=800&q=80",
-      "source": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/06/02/martin-scorsese-becomes-the-latest-and-most-unlikely-hollywood-voice-for-ai/",
-      "publishedAt": "2026-06-02T18:16:53.000Z"
-    },
-    {
-      "id": "i9hlvu",
-      "title": "Microsoft launches Scout, an OpenClaw-inspired personal assistant",
-      "summary": "Launched at Build, Microsoft Scout is a new AI assistant meant to bring the power and flexibility of OpenClaw into the Microsoft 365 system.",
-      "imageUrl": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=800&q=80",
-      "source": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/06/02/microsoft-launches-scout-an-openclaw-inspired-personal-assistant/",
-      "publishedAt": "2026-06-02T18:02:44.000Z"
-    },
-    {
-      "id": "bysmba",
-      "title": "Google rolls out fake call detection to protect against AI deepfake impersonation scams",
-      "summary": "As people increasingly refuse to answer calls from unknown numbers, scammers are shifting their tactics by spoofing trusted phone numbers and using AI deepfake technology to sound like authority figures, family members, or employers.",
-      "imageUrl": "https://images.unsplash.com/photo-1526374965328-7f61d4dc18c5?w=800&q=80",
-      "source": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/06/02/google-rolls-out-fake-call-detection-to-protect-against-ai-deepfake-impersonation-scams/",
-      "publishedAt": "2026-06-02T18:00:00.000Z"
     },
     {
       "id": "wcwz2f",
