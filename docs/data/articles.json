@@ -1,7 +1,61 @@
 {
-  "fetchedAt": "2026-06-05T12:15:45.432Z",
+  "fetchedAt": "2026-06-05T15:36:27.266Z",
   "count": 60,
   "articles": [
+    {
+      "id": "pup0lk",
+      "title": "New York lawmakers pass one-year ban on new data centers",
+      "summary": "The New York State legislature passed a one-year moratorium on new large data centers, the first statewide ban of its kind if Democratic Governor Kathy Hochul signs it into law. Lawmakers behind the bill say it's meant to give policymakers time to understand the impact of large data centers on the environment and energy prices. It directs the state's environmental agency to create an impact report assessing the amount of electricity, water, and land that data centers use, and the pollution they…",
+      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/04/STKS528_DATA_CENTERS_C.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "source": "The Verge",
+      "sourceUrl": "https://www.theverge.com/policy/944041/new-york-data-center-moratorium",
+      "publishedAt": "2026-06-05T15:25:10.000Z"
+    },
+    {
+      "id": "53f6pt",
+      "title": "Has Microsoft Lost Its Mojo (Again)?",
+      "summary": "Microsoft’s AI products aren’t selling and Github’s been plagued with troubles. WIRED spoke with VP Scott Hanselman about whether the company is in catch-up mode.",
+      "imageUrl": "https://media.wired.com/photos/6a21bf0470a986f0e78c96a3/master/pass/Backchannel-Q-A-Scott-Hanselma-Business-681613422.jpg",
+      "source": "Wired",
+      "sourceUrl": "https://www.wired.com/story/has-microsoft-lost-its-mojo-again/",
+      "publishedAt": "2026-06-05T15:00:00.000Z"
+    },
+    {
+      "id": "urnkn3",
+      "title": "The token bill comes due: Inside the industry scramble to manage AI’s runaway costs",
+      "summary": "\"The whole conversation shifted from tokenmaxxing and 'go fast' to 'we need guardrails, how do we control this?'\"",
+      "imageUrl": "https://images.unsplash.com/photo-1531746790095-6c10a4031c5f?w=800&q=80",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/06/05/the-token-bill-comes-due-inside-the-industry-scramble-to-manage-ais-runaway-costs/",
+      "publishedAt": "2026-06-05T14:49:12.000Z"
+    },
+    {
+      "id": "3x0y8j",
+      "title": "This AI startup says it can tell if a script will make a hit film",
+      "summary": "When Quilty hit the industry trades earlier this year, the AI startup promised that its tool could accurately predict a film's success just by reading the script. When people actually got a chance to experiment with Quilty's product, though, they were left skeptical. Even with all the available data in the world, it predicted the script for Christy, which would go on to be a box office flop, would outperform the script for Sinners, which became an Oscar-winning blockbuster. As many AI execs have…",
+      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/268573_This_AI_startup_wants_tell_you_if_your_script_will_make_a_hit_film_CVirginia.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "source": "The Verge",
+      "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/943531/ai-script-quilty-simon-horsman-daniel-wood",
+      "publishedAt": "2026-06-05T13:57:31.000Z"
+    },
+    {
+      "id": "upqkpi",
+      "title": "AirTrunk commits $30B to build 5GW of AI data centers in India",
+      "summary": "The Australian data center operator plans to set up 5GW of capacity in India.",
+      "imageUrl": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=800&q=80",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/06/05/airtrunk-commits-30b-to-build-5gw-of-ai-data-centers-in-india/",
+      "publishedAt": "2026-06-05T13:03:10.000Z"
+    },
+    {
+      "id": "taq2aj",
+      "title": "The Download: AI hacking beyond Mythos, and chatbots’ impact on our brains",
+      "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. The Meta hack shows there’s more to AI security than Mythos On Monday, reports emerged that attackers had used Meta’s AI customer support agent to steal Instagram accounts. Their approach was…",
+      "imageUrl": "https://images.unsplash.com/photo-1531746790095-6c10a4031c5f?w=800&q=80",
+      "source": "MIT Tech Review",
+      "sourceUrl": "https://www.technologyreview.com/2026/06/05/1138452/the-download-ai-hacking-mythos-chatbots-brain-impacts/",
+      "publishedAt": "2026-06-05T12:10:00.000Z"
+    },
     {
       "id": "ph9rl1",
       "title": "OpenAI and Anthropic May Be Rivals, but Investors Aren’t Picking Sides",
@@ -122,7 +176,7 @@
     {
       "id": "dxj2gl",
       "title": "Kevin O’Leary agrees to downsize massive Utah data center",
-      "summary": "Kevin O'Leary agreed to halve the size of his planned 40,000-acre data center in Utah amid mounting pressure from residents and activists, as reported earlier by local affiliate ABC4. The Shark Tank star sent a letter to Utah Senate President J. Stuart Adams on Thursday, saying that he will remove 19,430 acres from the project, located in and around the Locomotive Springs Waterfowl Management Area. The change comes just days after Adams called on O'Leary to slash the size of his Project Stratos…",
+      "summary": "Kevin O'Leary agreed to halve the size of his planned 40,000-acre data center in Utah amid mounting pressure from residents and activists, as reported earlier by local affiliate ABC4. The Shark Tank star sent a letter to Utah Senate President J. Stuart Adams on Thursday, saying that he will remove 19,430 acres from the project, located in and around the Locomotive Springs Waterfowl Management Area. The change comes just days after Adams called on O'Leary to slash the size of his Stratos Project…",
       "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/05/STKP224_KEVIN_O_LEARY_CVIRGINIA_A.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
       "source": "The Verge",
       "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/943234/kevin-oleary-agrees-to-downsize-massive-utah-data-center",
@@ -309,15 +363,6 @@
       "publishedAt": "2026-06-03T18:49:32.000Z"
     },
     {
-      "id": "px0igk",
-      "title": "The Humanoid Robot of the Future Is a 6-Foot-Tall Beefcake With a Chinese Body and an American Brain",
-      "summary": "Spencer Huang, Nvidia’s robotics lead, tells WIRED that the new bot combines the best of both worlds.",
-      "imageUrl": "https://media.wired.com/photos/6a1f67f31c7b696a4249008a/master/pass/AI-Lab-Nvidia-Unitree-Frankenstein-Humanoid-Robot-Business.jpg",
-      "source": "Wired",
-      "sourceUrl": "https://www.wired.com/story/nvidia-unitree-humanoid-robot-h2-plus/",
-      "publishedAt": "2026-06-03T18:00:00.000Z"
-    },
-    {
       "id": "ivm26f",
       "title": "As AI gets better, it reveals an empty promise",
       "summary": "This week we've got tandem hands-ons with Google's new Gemini AI agent - Spark - from my colleagues David Pierce and Jay Peters. Their takeaways are similar: It's so effective that it's scary. Spark knew that David's dog is named Frida and knew the first name of Jay's wife, even though neither of them explicitly provided this information to Google. But what's scary to me is how all of this stuff seems geared toward a future of \"productivity\" that completely misses what needs to be fixed in our…",
@@ -345,33 +390,6 @@
       "publishedAt": "2026-06-03T16:07:31.000Z"
     },
     {
-      "id": "gtpjt8",
-      "title": "Amazon will show AI product images when you search for some reason",
-      "summary": "Amazon will use visual search and AI to show AI-generated product images that match your search queries. The retailer says it will help guide users to products.",
-      "imageUrl": "https://images.unsplash.com/photo-1526374965328-7f61d4dc18c5?w=800&q=80",
-      "source": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/06/03/amazon-will-show-ai-product-images-when-you-search-for-some-reason/",
-      "publishedAt": "2026-06-03T15:50:26.000Z"
-    },
-    {
-      "id": "1hwl7g",
-      "title": "These two founders left Goldman and Meta to build voice AI for markets everyone else overlooked",
-      "summary": "The startup's own stack for Africa and Middle East is now handling more than 17,000 calls per day.",
-      "imageUrl": "https://images.unsplash.com/photo-1655720828018-edd2daec9349?w=800&q=80",
-      "source": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/06/03/these-two-founders-left-goldman-and-meta-to-build-voice-ai-for-markets-everyone-else-overlooked/",
-      "publishedAt": "2026-06-03T15:00:00.000Z"
-    },
-    {
-      "id": "zi2q6n",
-      "title": "Microsoft and OpenAI broke up — now they’re ready to fight",
-      "summary": "At Microsoft's annual Build conference on Tuesday, the company announced a slew of new or expanded AI initiatives, including a super app, in-house reasoning models, a cybersecurity tool, and OpenClaw-esque AI agents. All this news added up to a clear message: Microsoft is positioned to be one of the biggest players in AI, and it's finally acting like it. For years, Microsoft's AI business leaned hard on its early and exclusive partnership with OpenAI. But the drama-filled marriage slowly…",
-      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/10/STK178_Satya_Nadella_B.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "source": "The Verge",
-      "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/942242/microsoft-build-ai-agents-openai-competition",
-      "publishedAt": "2026-06-03T14:04:00.000Z"
-    },
-    {
       "id": "g9vttv",
       "title": "The Download: Trump’s new AI order, and smart glasses for warfare",
       "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. 5 key points in Trump’s new AI order Less than two weeks after scrapping an executive order on AI, President Donald Trump signed a new one on Tuesday. Promising to promote…",
@@ -379,15 +397,6 @@
       "source": "MIT Tech Review",
       "sourceUrl": "https://www.technologyreview.com/2026/06/03/1138322/the-download-trump-ai-order-smart-glasses-warfare/",
       "publishedAt": "2026-06-03T12:10:00.000Z"
-    },
-    {
-      "id": "bl0ll2",
-      "title": "AI has a water problem — Google thinks it has a fix",
-      "summary": "In the face of widespread backlash to the AI data center buildout throughout the US, Google is touting its efforts to minimize the environmental impact by actually increasing water for local communities. The company laid out five commitments around water use in a new blog post published Wednesday, including a goal to replenish more water than it uses at its data centers by 2030. Google also said it will invest in local water infrastructure, identify alternative water sources to power its…",
-      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/04/STKS528_DATA_CENTERS_B.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "source": "The Verge",
-      "sourceUrl": "https://www.theverge.com/policy/942296/google-water-commitments-data-centers",
-      "publishedAt": "2026-06-03T09:00:00.000Z"
     },
     {
       "id": "wcwz2f",
@@ -424,15 +433,6 @@
       "source": "Ars Technica",
       "sourceUrl": "https://arstechnica.com/security/2026/06/dozens-of-red-hat-packages-backdoored-through-its-offical-npm-channel/",
       "publishedAt": "2026-06-01T19:49:09.000Z"
-    },
-    {
-      "id": "mio9o8",
-      "title": "The Download: China’s brain implant ambitions",
-      "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. China has approved the world’s first invasive brain-computer chip—here’s what’s next Sitting in the courtyard of his house in China’s Henan province last October, Dong Hui decided to try holding a…",
-      "imageUrl": "https://images.unsplash.com/photo-1550751827-4bd374c3f58b?w=800&q=80",
-      "source": "MIT Tech Review",
-      "sourceUrl": "https://www.technologyreview.com/2026/06/01/1138207/the-download-china-bci-brain-implant-nvidia-ai-chips-laptops/",
-      "publishedAt": "2026-06-01T12:10:00.000Z"
     },
     {
       "id": "hk244o",
