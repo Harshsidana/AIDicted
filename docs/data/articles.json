@@ -1,7 +1,16 @@
 {
-  "fetchedAt": "2026-06-06T18:49:40.698Z",
+  "fetchedAt": "2026-06-06T21:38:29.828Z",
   "count": 60,
   "articles": [
+    {
+      "id": "zag22b",
+      "title": "OpenAI unveils Lockdown Mode to protect sensitive data from prompt injection attacks",
+      "summary": "Even with Lockdown Mode, ChatGPT could be still vulnerable to prompt injections, but the goal is to reduce the likelihood that sensitive data gets shared in the process.",
+      "imageUrl": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=800&q=80",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/06/06/openai-unveils-lockdown-mode-to-protect-sensitive-data-from-prompt-injection-attacks/",
+      "publishedAt": "2026-06-06T20:32:24.000Z"
+    },
     {
       "id": "3isv14",
       "title": "What to expect from WWDC 2026: Siri’s highly anticipated revamp and Apple Intelligence updates",
@@ -271,15 +280,6 @@
       "source": "TechCrunch",
       "sourceUrl": "https://techcrunch.com/2026/06/04/meta-steals-a-tactic-from-tesla-and-builds-data-centers-in-tents/",
       "publishedAt": "2026-06-04T19:33:09.000Z"
-    },
-    {
-      "id": "hituqv",
-      "title": "Apple approves Poke as the first AI agent on its Messages for Business platform",
-      "summary": "Poke, the startup that lets people use AI agents through simple text messages, has become the first AI agent approved for Apple’s Messages for Business platform.",
-      "imageUrl": "https://images.unsplash.com/photo-1526374965328-7f61d4dc18c5?w=800&q=80",
-      "source": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/06/04/apple-approves-poke-as-the-first-ai-agent-on-its-messages-for-business-platform/",
-      "publishedAt": "2026-06-04T19:20:58.000Z"
     },
     {
       "id": "z7ilaz",
