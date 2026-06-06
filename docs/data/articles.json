@@ -1,7 +1,16 @@
 {
-  "fetchedAt": "2026-06-06T10:13:30.535Z",
+  "fetchedAt": "2026-06-06T11:56:11.334Z",
   "count": 60,
   "articles": [
+    {
+      "id": "kypvvc",
+      "title": "Crypto-Funded Chinese Peptide Labs Are Booming",
+      "summary": "Plus: Hackers use Meta’s AI bots to hack Instagram accounts, Anthropic helps NSA hackers, a decades-long GPS satellite mystery may have been solved, and more.",
+      "imageUrl": "https://media.wired.com/photos/6a2312eb2b342fb72975a62e/master/pass/Security-Roundup-Crypto-funded-Chinese-labs-sales-of-peptides-Security-1312618198.jpg",
+      "source": "Wired",
+      "sourceUrl": "https://www.wired.com/story/security-news-this-week-crypto-funded-chinese-peptide-labs-are-booming/",
+      "publishedAt": "2026-06-06T10:30:00.000Z"
+    },
     {
       "id": "9el4r7",
       "title": "How a USB-connected speaker can infect a PC without ever being touched",
@@ -370,15 +379,6 @@
       "source": "Ars Technica",
       "sourceUrl": "https://arstechnica.com/security/2026/06/dashlane-issues-opaque-advisory-warning-20-encrypted-vaults-were-stolen/",
       "publishedAt": "2026-06-03T19:53:14.000Z"
-    },
-    {
-      "id": "5jgysh",
-      "title": "xAI Asks Court to Strip Alleged Grok Deepfake Nudes Victims of Anonymity",
-      "summary": "Four people suing Elon Musk's AI firm under pseudonyms due to the risks of being identified may face a difficult choice: Reveal your real names, or drop the lawsuit.",
-      "imageUrl": "https://media.wired.com/photos/6a1f4ea4c350c2fb60808fa6/master/pass/Security_xAIWantstoStripAllegedGrokDeepfakeNudesVictimsofAnonymity_v1.jpg",
-      "source": "Wired",
-      "sourceUrl": "https://www.wired.com/story/xai-asks-court-to-strip-alleged-grok-deepfake-nudes-victims-of-anonymity/",
-      "publishedAt": "2026-06-03T18:49:32.000Z"
     },
     {
       "id": "ivm26f",
