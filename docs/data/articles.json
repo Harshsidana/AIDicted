@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-06-05T23:47:15.601Z",
+  "fetchedAt": "2026-06-06T04:10:46.430Z",
   "count": 60,
   "articles": [
     {
@@ -37,6 +37,15 @@
       "source": "TechCrunch",
       "sourceUrl": "https://techcrunch.com/video/the-most-interesting-startups-right-now-want-to-get-you-off-your-phone/",
       "publishedAt": "2026-06-05T17:17:06.000Z"
+    },
+    {
+      "id": "31oyxn",
+      "title": "This is your laptop… on AI",
+      "summary": "We're now deep into developer conference season, and one of the themes so far is the relentless conviction from Big Tech companies that AI is going to change everything about how we do everything. Nvidia's Jensen Huang made that clearer than anyone this week, when he described a completely new way of using our laptops - and a completely new kind of laptop made to support it. It's all very interesting, but it raises the same question we have around so many AI products: Does anyone actually want…",
+      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/VRG_VST_0605_Site.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "source": "The Verge",
+      "sourceUrl": "https://www.theverge.com/podcast/944058/ai-laptop-nvidia-build-gemini-spark-vergecast",
+      "publishedAt": "2026-06-05T16:39:07.000Z"
     },
     {
       "id": "pup0lk",
@@ -388,15 +397,6 @@
       "source": "MIT Tech Review",
       "sourceUrl": "https://www.technologyreview.com/2026/06/03/1138350/virtual-power-plants-data-centers/",
       "publishedAt": "2026-06-03T16:51:38.000Z"
-    },
-    {
-      "id": "lw3ifv",
-      "title": "Amazon’s search bar will invent AI-generated products you can’t buy",
-      "summary": "Amazon's updated search bar will now show you AI-generated images of products as you describe them. For now, the in-app feature only surfaces AI images of clothing and home goods, allowing you to tap on the image that best matches what you're looking for and search for similar-looking items. In a blog post, Amazon positions the feature as a way to help you search for items if you can't remember the name of a specific texture or style, like describing a \"shirt with a draped collar\" if you can't…",
-      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/amazon-ai-search.png?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "source": "The Verge",
-      "sourceUrl": "https://www.theverge.com/tech/942547/amazon-search-bar-ai-images",
-      "publishedAt": "2026-06-03T16:07:31.000Z"
     },
     {
       "id": "g9vttv",
