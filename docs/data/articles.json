@@ -1,7 +1,16 @@
 {
-  "fetchedAt": "2026-06-07T20:19:23.993Z",
+  "fetchedAt": "2026-06-07T21:46:18.175Z",
   "count": 60,
   "articles": [
+    {
+      "id": "2mbflg",
+      "title": "Is this the dawn of the Tokenpocalypse?",
+      "summary": "We're likely to see more price increases as the big AI companies plan to go public.",
+      "imageUrl": "https://images.unsplash.com/photo-1655720828018-edd2daec9349?w=800&q=80",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/06/07/is-this-the-dawn-of-the-tokenpocalypse/",
+      "publishedAt": "2026-06-07T20:26:13.000Z"
+    },
     {
       "id": "br2514",
       "title": "Notion restores access to Anthropic after service disruption",
@@ -271,15 +280,6 @@
       "source": "TechCrunch",
       "sourceUrl": "https://techcrunch.com/2026/06/04/ahead-of-its-ipo-anthropics-daniela-amodei-shrugs-off-doubts-about-ais-returns/",
       "publishedAt": "2026-06-04T22:43:26.000Z"
-    },
-    {
-      "id": "r2wpne",
-      "title": "Airbnb’s Brian Chesky plans to launch a new AI lab",
-      "summary": "The Airbnb CEO said last year it hasn't struck an LLM partnership because existing products weren't quite ready.",
-      "imageUrl": "https://images.unsplash.com/photo-1655720828018-edd2daec9349?w=800&q=80",
-      "source": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/06/04/airbnbs-brian-chesky-plans-to-launch-a-new-ai-lab/",
-      "publishedAt": "2026-06-04T22:29:50.000Z"
     },
     {
       "id": "ng11dv",
