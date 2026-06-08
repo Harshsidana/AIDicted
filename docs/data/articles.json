@@ -1,7 +1,61 @@
 {
-  "fetchedAt": "2026-06-08T21:24:19.413Z",
+  "fetchedAt": "2026-06-08T22:59:18.515Z",
   "count": 60,
   "articles": [
+    {
+      "id": "55qsby",
+      "title": "As OpenAI files for IPO, Sam Altman’s eye-scanning company is doing layoffs, report says",
+      "summary": "Tools for Humanity, Sam Altman's identify verification company, is reportedly struggling to generate revenue and will downsize its staff.",
+      "imageUrl": "https://images.unsplash.com/photo-1655720828018-edd2daec9349?w=800&q=80",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/06/08/as-openai-files-for-ipo-sam-altmans-eye-scanning-company-is-doing-layoffs-report-says/",
+      "publishedAt": "2026-06-08T22:41:45.000Z"
+    },
+    {
+      "id": "8rxzk0",
+      "title": "Apple’s WWDC AI demos looked more real after $250M false ad settlement",
+      "summary": "The vibe of Apple's 2026 WWDC keynote felt like a spouse proudly listing all the honey-do-list items tackled. One subtle example: the many AI demos of someone standing, phone in hand.",
+      "imageUrl": "https://images.unsplash.com/photo-1620712943543-bcc4688e7485?w=800&q=80",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/06/08/apples-wwdc-ai-demos-looked-more-real-after-250m-false-ad-settlement/",
+      "publishedAt": "2026-06-08T22:39:57.000Z"
+    },
+    {
+      "id": "mco1ay",
+      "title": "Apple is using AI to fix Safari’s extension problem",
+      "summary": "Apple is trying to solve one of Safari's biggest weaknesses with AI. Safari has long lacked the robust library of extensions that its rivals have, mainly due to the stringent development requirements from Apple. But now, Apple is inviting users to essentially vibe-code their own extensions. In a demo shared by Apple, the company showed how you can ask Safari to create an extension by describing it. \"Save and track cooking recipes from around the web,\" the prompt said. \"Click the toolbar button…",
+      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/describe-extension-safari.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "source": "The Verge",
+      "sourceUrl": "https://www.theverge.com/tech/946345/apple-safari-ai-update-extensions",
+      "publishedAt": "2026-06-08T22:14:17.000Z"
+    },
+    {
+      "id": "ogmsy4",
+      "title": "OpenAI files for IPO, following Anthropic",
+      "summary": "OpenAI on Monday checked off a preliminary step in the IPO race that it and rival Anthropic have been competing in for the better part of a year: The company announced it has confidentially submitted a Form S-1 with the US Securities and Exchange Commission, following Anthropic's decision to do the same on June 1st. The confidential filing means that certain details normally available through the form - such as executive compensation figures, potential risks to a company's business, and more…",
+      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/04/STK155_OPEN_AI_CVirginia_C.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "source": "The Verge",
+      "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/946335/openai-ipo-s-1-confidential",
+      "publishedAt": "2026-06-08T21:38:29.000Z"
+    },
+    {
+      "id": "4k9gkz",
+      "title": "OpenAI Confidentially Files for IPO on the Heels of SpaceX and Anthropic",
+      "summary": "The ChatGPT-maker announced it has filed paperwork to go public, just a week after rival Anthropic took the same step.",
+      "imageUrl": "https://media.wired.com/photos/6a0f431f2e3deb13670a3fb1/master/pass/OpenAI-IPO-Business-2265445220.jpg",
+      "source": "Wired",
+      "sourceUrl": "https://www.wired.com/story/openai-confidentially-files-for-ipo/",
+      "publishedAt": "2026-06-08T21:31:58.000Z"
+    },
+    {
+      "id": "ps6azo",
+      "title": "OpenAI files confidentially for IPO, following Anthropic",
+      "summary": "The filing comes a little more than a week after its main rival, Anthropic, also filed to go public, ramping up the race between the two AI firms.",
+      "imageUrl": "https://images.unsplash.com/photo-1526374965328-7f61d4dc18c5?w=800&q=80",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/06/08/following-anthropic-openai-files-confidentially-for-ipo/",
+      "publishedAt": "2026-06-08T21:29:57.000Z"
+    },
     {
       "id": "tuzkwk",
       "title": "Apple plays catch-up at WWDC",
@@ -113,7 +167,7 @@
     {
       "id": "rj361d",
       "title": "Amazon is launching AI-generated custom merch",
-      "summary": "Amazon is expanding its print-on-demand features to AI-generated designs created using Alexa for Shopping for products like T-shirts, water bottles, and hoodies. Shoppers can use text prompts to generate images that are then printed on to blanks for sale on Amazon. They can then share the link to the design so other people can buy the same custom item. Amazon offers family reunions and pet-themed designs as use case examples, but the feature also threatens an entire ecosystem of drop-shipped…",
+      "summary": "Amazon is expanding its print-on-demand features to AI-generated designs created using Alexa for Shopping for products like T-shirts, water bottles, and hoodies. Shoppers can use text prompts to generate images that are then printed onto blanks for sale on Amazon. They can then share the link to the design so other people can buy the same custom item. Amazon offers family reunions and pet-themed designs as use case examples, but the feature also threatens an entire ecosystem of drop-shipped…",
       "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/09/acastro_STK103__03.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
       "source": "The Verge",
       "sourceUrl": "https://www.theverge.com/news/945905/amazon-alexa-shopping-ai-generated-custom-merch-design-printing",
@@ -219,33 +273,6 @@
       "publishedAt": "2026-06-08T09:00:00.000Z"
     },
     {
-      "id": "2mbflg",
-      "title": "Is this the dawn of the Tokenpocalypse?",
-      "summary": "We're likely to see more price increases as the big AI companies plan to go public.",
-      "imageUrl": "https://images.unsplash.com/photo-1655720828018-edd2daec9349?w=800&q=80",
-      "source": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/06/07/is-this-the-dawn-of-the-tokenpocalypse/",
-      "publishedAt": "2026-06-07T20:26:13.000Z"
-    },
-    {
-      "id": "br2514",
-      "title": "Notion restores access to Anthropic after service disruption",
-      "summary": "Notion's head of product said he was \"astonished\" at “the amount of people RT-ing this.\"",
-      "imageUrl": "https://images.unsplash.com/photo-1531746790095-6c10a4031c5f?w=800&q=80",
-      "source": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/06/07/notion-restores-access-to-anthropic-after-service-disruption/",
-      "publishedAt": "2026-06-07T17:56:22.000Z"
-    },
-    {
-      "id": "oq7xdb",
-      "title": "OpenAI is still working on that ‘super app’",
-      "summary": "\"Chat is dead\" — at least, according to a senior OpenAI employee.",
-      "imageUrl": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=800&q=80",
-      "source": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/06/07/openai-is-still-working-on-that-super-app/",
-      "publishedAt": "2026-06-07T16:23:22.000Z"
-    },
-    {
       "id": "98igxr",
       "title": "AI ‘content creators’ are getting harder to spot",
       "summary": "Aitana Lopez, AI avatar by creative agency The Clueless. | Image: The Clueless This is The Stepback, a weekly newsletter breaking down one essential story from the tech world. For more on AI confusion, follow Robert Hart. The Stepback arrives in our subscribers' inboxes at 8AM ET. Opt in for The Stepback here. How it started At first, AI influencers were relatively easy to identify - and to ignore. Aside from the occasional bursts of hype, they didn't seem to change much about the way social…",
@@ -273,15 +300,6 @@
       "publishedAt": "2026-06-06T14:00:00.000Z"
     },
     {
-      "id": "axbvik",
-      "title": "Here comes new Siri again",
-      "summary": "Our first glimpse of the new AI Siri came all the way back at WWDC 2024. Apple has been on its back foot, AI-wise, for the past few years. But in a strange way, playing from behind might not be such a bad move. At WWDC on Monday, Apple appears to be getting ready to reintroduce us to the new Siri. Again. As a reminder, we met the new Siri in 2024 when Apple \"launched\" Apple Intelligence. Siri came with a new glowing border, different voice options, and the ability to punt questions to ChatGPT.…",
-      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/wwdc_2024.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "source": "The Verge",
-      "sourceUrl": "https://www.theverge.com/tech/944245/apple-wwdc-2026-ai-siri-gemini",
-      "publishedAt": "2026-06-06T12:00:00.000Z"
-    },
-    {
       "id": "kypvvc",
       "title": "Crypto-Funded Chinese Peptide Labs Are Booming",
       "summary": "Plus: Hackers use Meta’s AI bots to hack Instagram accounts, Anthropic helps NSA hackers, a decades-long GPS satellite mystery may have been solved, and more.",
@@ -298,15 +316,6 @@
       "source": "Ars Technica",
       "sourceUrl": "https://arstechnica.com/security/2026/06/highly-reviewed-speaker-can-be-hacked-over-the-air-to-infect-connected-devices/",
       "publishedAt": "2026-06-05T21:00:29.000Z"
-    },
-    {
-      "id": "31oyxn",
-      "title": "This is your laptop… on AI",
-      "summary": "We're now deep into developer conference season, and one of the themes so far is the relentless conviction from Big Tech companies that AI is going to change everything about how we do everything. Nvidia's Jensen Huang made that clearer than anyone this week, when he described a completely new way of using our laptops - and a completely new kind of laptop made to support it. It's all very interesting, but it raises the same question we have around so many AI products: Does anyone actually want…",
-      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/VRG_VST_0605_Site.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "source": "The Verge",
-      "sourceUrl": "https://www.theverge.com/podcast/944058/ai-laptop-nvidia-build-gemini-spark-vergecast",
-      "publishedAt": "2026-06-05T16:39:07.000Z"
     },
     {
       "id": "53f6pt",
@@ -379,15 +388,6 @@
       "source": "Ars Technica",
       "sourceUrl": "https://arstechnica.com/security/2026/06/dashlane-explains-how-attackers-managed-to-download-encrypted-password-vaults/",
       "publishedAt": "2026-06-04T20:02:04.000Z"
-    },
-    {
-      "id": "z7ilaz",
-      "title": "The AI IPO Race Heats Up, DOGE Whistleblower Sues Elon Musk, and Instagram Gets Hacked",
-      "summary": "On Uncanny Valley, we dive into the IPO bonanza that the top AI companies are embarking on to the point where some real estate listings are looking for not just regular old cash, but Anthropic stock.",
-      "imageUrl": "https://media.wired.com/photos/6a20a487d5b5f5af30a6fa53/master/pass/Uncanny-Valley-AI-IPO-Race-Business-1189366547.jpg",
-      "source": "Wired",
-      "sourceUrl": "https://www.wired.com/story/uncanny-valley-podcast-ai-ipo-race-elon-musk-doge-whistleblower-instagram-hacking-incident/",
-      "publishedAt": "2026-06-04T18:44:49.000Z"
     },
     {
       "id": "ko80ty",
