@@ -1,7 +1,151 @@
 {
-  "fetchedAt": "2026-06-08T16:36:49.681Z",
+  "fetchedAt": "2026-06-08T21:24:19.413Z",
   "count": 60,
   "articles": [
+    {
+      "id": "tuzkwk",
+      "title": "Apple plays catch-up at WWDC",
+      "summary": "Apple spent much of its WWDC keynote highlighting fixes, performance improvements, and long-requested features before unveiling its upgraded AI-powered Siri, signaling that the company wants users to see AI as just one part of a broader effort to improve its software.",
+      "imageUrl": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=800&q=80",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/06/08/apple-plays-catch-up-at-wwdc/",
+      "publishedAt": "2026-06-08T21:15:42.000Z"
+    },
+    {
+      "id": "wfxoax",
+      "title": "Apple bets cheaper AI will woo small developers",
+      "summary": "As AI experimentation grows more expensive, Apple is waiving cloud API costs for developers with fewer than 2 million first-time App Store downloads.",
+      "imageUrl": "https://images.unsplash.com/photo-1655720828018-edd2daec9349?w=800&q=80",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/06/08/apple-bets-cheaper-ai-will-woo-small-developers/",
+      "publishedAt": "2026-06-08T20:53:55.000Z"
+    },
+    {
+      "id": "71jdtp",
+      "title": "WWDC 2026: Everything announced on Siri AI, iOS 27, Apple Intelligence and more",
+      "summary": "Apple primarily made the case for an improved experience with its longstanding Siri assistant, which like most other announcements had a hefty helping of AI.",
+      "imageUrl": "https://images.unsplash.com/photo-1526374965328-7f61d4dc18c5?w=800&q=80",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/06/08/wwdc-2026-everything-announced-on-siri-ai-os-27-apple-intelligence-and-more/",
+      "publishedAt": "2026-06-08T19:41:32.000Z"
+    },
+    {
+      "id": "y26ha7",
+      "title": "Apple just taught your iPhone to finish your sentences, your photos, and your workflows",
+      "summary": "Apple is adding new AI-powered features to Safari, Shortcuts, and Password apps.",
+      "imageUrl": "https://images.unsplash.com/photo-1635070041078-e363dbe005cb?w=800&q=80",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/06/08/apple-just-taught-your-iphone-to-finish-your-sentences-your-photos-and-your-workflows/",
+      "publishedAt": "2026-06-08T18:48:45.000Z"
+    },
+    {
+      "id": "l8tnb4",
+      "title": "Apple will let you build workflows using AI in its new Shortcuts app",
+      "summary": "Shortcuts gets an AI upgrade, letting you describe the workflow you want in a prompt.",
+      "imageUrl": "https://images.unsplash.com/photo-1655720828018-edd2daec9349?w=800&q=80",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/06/08/apple-will-let-you-build-workflows-using-ai-in-its-new-shortcuts-app/",
+      "publishedAt": "2026-06-08T18:45:12.000Z"
+    },
+    {
+      "id": "b8qs73",
+      "title": "Apple’s Image Playground doesn’t suck anymore",
+      "summary": "Apple's AI image generator is getting a makeover that could make it more competitive.",
+      "imageUrl": "https://images.unsplash.com/photo-1550751827-4bd374c3f58b?w=800&q=80",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/06/08/apples-image-playground-doesnt-suck-anymore/",
+      "publishedAt": "2026-06-08T18:38:07.000Z"
+    },
+    {
+      "id": "9cxma7",
+      "title": "Apple’s Photos app is getting new AI editing features",
+      "summary": "A new spatial \"Reframe\" feature will let users use AI to adjust perspectives.",
+      "imageUrl": "https://images.unsplash.com/photo-1531746790095-6c10a4031c5f?w=800&q=80",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/06/08/apples-photos-app-is-getting-new-ai-editing-features/",
+      "publishedAt": "2026-06-08T18:36:04.000Z"
+    },
+    {
+      "id": "hwuhc3",
+      "title": "For the 2nd time in weeks, Microsoft packages laced with credential stealer",
+      "summary": "73 packages run self-replicating stealer as soon as they're opened by an AI agent.",
+      "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2025/09/microsoft-logo-1024x648.jpg",
+      "source": "Ars Technica",
+      "sourceUrl": "https://arstechnica.com/security/2026/06/for-the-2nd-time-in-weeks-microsoft-packages-laced-with-credential-stealer/",
+      "publishedAt": "2026-06-08T18:34:23.000Z"
+    },
+    {
+      "id": "pf31jq",
+      "title": "Apple gives Siri its own dedicated app",
+      "summary": "Siri is finally getting its own app.",
+      "imageUrl": "https://images.unsplash.com/photo-1550751827-4bd374c3f58b?w=800&q=80",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/06/08/apple-gives-siri-its-own-dedicated-app/",
+      "publishedAt": "2026-06-08T18:33:42.000Z"
+    },
+    {
+      "id": "4dihkd",
+      "title": "Apple is fixing the headache of splitting the bill with its new Siri in Camera feature",
+      "summary": "\"If you're grabbing a bite with friends and point your iPhone at the bill, then [you can] select what you ordered to split the tab with Apple Cash,\" said Apple VP of Software Sebastien Marineau-Mes.",
+      "imageUrl": "https://images.unsplash.com/photo-1655720828018-edd2daec9349?w=800&q=80",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/06/08/apple-is-fixing-the-headache-of-splitting-the-bill-with-its-new-siri-in-camera-feature/",
+      "publishedAt": "2026-06-08T18:23:04.000Z"
+    },
+    {
+      "id": "5cux55",
+      "title": "Apple’s New Siri AI Is Ready to Get Personal",
+      "summary": "From a stand-alone app to a Google Gemini partnership, here’s everything you need to know from WWDC 2026 about Apple’s upcoming overhaul of Siri.",
+      "imageUrl": "https://media.wired.com/photos/6a2710703d01e9a6c2f2cfec/master/pass/Apple-Siri-AI-architecture-diagram-260608.jpg",
+      "source": "Wired",
+      "sourceUrl": "https://www.wired.com/story/apples-new-siri-ai-is-ready-to-get-personal/",
+      "publishedAt": "2026-06-08T18:17:44.000Z"
+    },
+    {
+      "id": "381l60",
+      "title": "Apple’s long-awaited AI Siri overhaul is finally here",
+      "summary": "The idea behind the new \"Siri AI\" is to turn the assistant from a voice controlled assistant into an AI companion that can do a lot more.",
+      "imageUrl": "https://images.unsplash.com/photo-1676299081847-824916de030a?w=800&q=80",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/06/08/apples-long-awaited-ai-siri-overhaul-is-finally-here/",
+      "publishedAt": "2026-06-08T17:56:21.000Z"
+    },
+    {
+      "id": "rj361d",
+      "title": "Amazon is launching AI-generated custom merch",
+      "summary": "Amazon is expanding its print-on-demand features to AI-generated designs created using Alexa for Shopping for products like T-shirts, water bottles, and hoodies. Shoppers can use text prompts to generate images that are then printed on to blanks for sale on Amazon. They can then share the link to the design so other people can buy the same custom item. Amazon offers family reunions and pet-themed designs as use case examples, but the feature also threatens an entire ecosystem of drop-shipped…",
+      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/09/acastro_STK103__03.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "source": "The Verge",
+      "sourceUrl": "https://www.theverge.com/news/945905/amazon-alexa-shopping-ai-generated-custom-merch-design-printing",
+      "publishedAt": "2026-06-08T17:52:51.000Z"
+    },
+    {
+      "id": "c31ktg",
+      "title": "The UK Is Betting on a Billion-Dollar AI Supercomputer to Kick Its Addiction to US Tech",
+      "summary": "The British government thinks a state-backed infrastructure initiative will help supercharge homegrown chip startups.",
+      "imageUrl": "https://media.wired.com/photos/6a26d742255fdba4ebd668f3/master/pass/GettyImages-2267728396.jpg",
+      "source": "Wired",
+      "sourceUrl": "https://www.wired.com/story/uk-supercomputer-investment-ai-homegrown-semiconductor/",
+      "publishedAt": "2026-06-08T17:44:28.000Z"
+    },
+    {
+      "id": "i6d2o2",
+      "title": "Apple announces Siri AI and its next generation of Apple Intelligence",
+      "summary": "Two years after first revealing its plans for Apple Intelligence and a smarter Siri that never fully materialized, at WWDC, Apple just revealed a new set of AI features and a smarter, more personalized Siri. Apple calls Siri AI an \"entirely new version of Siri\" and says it's both more conversational and more capable than the previous version of the smart assistant. In conversations, it has a more expressive voice that can be customized by pace, expressivity, and accent. Siri AI will be…",
+      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/Apple-announces-Siri-AI-and-its-next-generation-of-Apple-Intelligence.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "source": "The Verge",
+      "sourceUrl": "https://www.theverge.com/tech/942416/apple-siri-ai-update-wwdc",
+      "publishedAt": "2026-06-08T17:34:24.000Z"
+    },
+    {
+      "id": "pmv4jx",
+      "title": "Meta Deletes Face-Recognition System From Its Smart Glasses App After WIRED Report",
+      "summary": "The code WIRED identified is gone from the latest version of Meta AI, the companion app for the company’s smart glasses. Meta won’t say why or whether it’s coming back.",
+      "imageUrl": "https://media.wired.com/photos/6a26baa814f2ec6e95bd841b/master/pass/GettyImages-2235451108.jpg",
+      "source": "Wired",
+      "sourceUrl": "https://www.wired.com/story/meta-removes-face-recognition-code-meta-ai-app-smart-glasses/",
+      "publishedAt": "2026-06-08T17:31:11.000Z"
+    },
     {
       "id": "4kb88l",
       "title": "NotebookLM’s Gemini 3.5 upgrade adds a cloud computer and help finding sources",
@@ -111,33 +255,6 @@
       "publishedAt": "2026-06-07T12:00:00.000Z"
     },
     {
-      "id": "zag22b",
-      "title": "OpenAI unveils Lockdown Mode to protect sensitive data from prompt injection attacks",
-      "summary": "Even with Lockdown Mode, ChatGPT could be still vulnerable to prompt injections, but the goal is to reduce the likelihood that sensitive data gets shared in the process.",
-      "imageUrl": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=800&q=80",
-      "source": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/06/06/openai-unveils-lockdown-mode-to-protect-sensitive-data-from-prompt-injection-attacks/",
-      "publishedAt": "2026-06-06T20:32:24.000Z"
-    },
-    {
-      "id": "6zkuu6",
-      "title": "Sriram Krishnan is leaving his role as White House AI advisor",
-      "summary": "Krishnan is reportedly starting a new institution to continue shaping Trump's AI policy.",
-      "imageUrl": "https://images.unsplash.com/photo-1531746790095-6c10a4031c5f?w=800&q=80",
-      "source": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/06/06/sriram-krishnan-is-leaving-his-role-as-white-house-ai-advisor/",
-      "publishedAt": "2026-06-06T17:42:15.000Z"
-    },
-    {
-      "id": "jffsch",
-      "title": "The Trump administration might take an equity stake in OpenAI",
-      "summary": "President Donald Trump said he's discussing deals \"where the American people can benefit from the success of AI.\"",
-      "imageUrl": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=800&q=80",
-      "source": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/06/06/the-trump-administration-might-take-an-equity-stake-in-openai/",
-      "publishedAt": "2026-06-06T16:17:21.000Z"
-    },
-    {
       "id": "tvv1q4",
       "title": "The mayor of Shelbyville, Indiana, says only people who live in ‘shitty houses’ oppose data center",
       "summary": "A proposed $2 billion data center has become a political flashpoint in the small city of Shelbyville, Indiana. And the controversy has only grown more intense after the mayor, Scott Furgeson, was caught on camera saying of the \"No Data Center\" signs going up that, \"I've seen a lot of these all over town, but I only see them in shitty houses,\" before adding, \"most of them are rentals.\" The woman speaking to him in the clip quickly pushes back, saying that they're \"working class,\" and someone…",
@@ -183,33 +300,6 @@
       "publishedAt": "2026-06-05T21:00:29.000Z"
     },
     {
-      "id": "ap2vkd",
-      "title": "Startup Battlefield 200 applications officially close in 3 days",
-      "summary": "Applications for Startup Battlefield 200 officially close on June 8, 11:59 p.m. PT. Don't wait any longer. Secure your shot at competing on the Disrupt Stage at TechCrunch Disrupt 2026 this October at San Francisco's Moscone West.",
-      "imageUrl": "https://images.unsplash.com/photo-1620712943543-bcc4688e7485?w=800&q=80",
-      "source": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/06/05/startup-battlefield-200-applications-officially-close-in-3-days/",
-      "publishedAt": "2026-06-05T20:00:00.000Z"
-    },
-    {
-      "id": "8ft7w3",
-      "title": "Google will pay SpaceX $920M per month for compute",
-      "summary": "In a statement, a Google representative described the deal as a result of unexpected demand for its recently launched AI products.",
-      "imageUrl": "https://images.unsplash.com/photo-1676299081847-824916de030a?w=800&q=80",
-      "source": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/06/05/google-will-pay-spacex-920m-per-month-for-compute/",
-      "publishedAt": "2026-06-05T18:57:20.000Z"
-    },
-    {
-      "id": "n661p",
-      "title": "The most interesting startups right now want to get you off your phone",
-      "summary": "While the AI fundraising machine keeps breaking its own records, some founders are building in the other direction. Mirror founder Brynn Putnam just raised money for Board, a startup focused on bringing people together through in-person games and social experiences. Cyberdeck creators are going viral crafting whimsical DIY computers that literally encourage users to touch grass. Unlike the AI-free browser crowd, this doesn’t just feel like backlash, […]",
-      "imageUrl": "https://images.unsplash.com/photo-1635070041078-e363dbe005cb?w=800&q=80",
-      "source": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/video/the-most-interesting-startups-right-now-want-to-get-you-off-your-phone/",
-      "publishedAt": "2026-06-05T17:17:06.000Z"
-    },
-    {
       "id": "31oyxn",
       "title": "This is your laptop… on AI",
       "summary": "We're now deep into developer conference season, and one of the themes so far is the relentless conviction from Big Tech companies that AI is going to change everything about how we do everything. Nvidia's Jensen Huang made that clearer than anyone this week, when he described a completely new way of using our laptops - and a completely new kind of laptop made to support it. It's all very interesting, but it raises the same question we have around so many AI products: Does anyone actually want…",
@@ -219,15 +309,6 @@
       "publishedAt": "2026-06-05T16:39:07.000Z"
     },
     {
-      "id": "pup0lk",
-      "title": "New York lawmakers pass one-year ban on new data centers",
-      "summary": "The New York State legislature passed a one-year moratorium on new large data centers, the first statewide ban of its kind if Democratic Governor Kathy Hochul signs it into law. Lawmakers behind the bill say it's meant to give policymakers time to understand the impact of large data centers on the environment and energy prices. It directs the state's environmental agency to create an impact report assessing the amount of electricity, water, and land that data centers use, and the pollution they…",
-      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/04/STKS528_DATA_CENTERS_C.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "source": "The Verge",
-      "sourceUrl": "https://www.theverge.com/policy/944041/new-york-data-center-moratorium",
-      "publishedAt": "2026-06-05T15:25:10.000Z"
-    },
-    {
       "id": "53f6pt",
       "title": "Has Microsoft Lost Its Mojo (Again)?",
       "summary": "Microsoft’s AI products aren’t selling, and Github’s been plagued with troubles. WIRED spoke with VP Scott Hanselman about whether the company is in catch-up mode.",
@@ -235,42 +316,6 @@
       "source": "Wired",
       "sourceUrl": "https://www.wired.com/story/has-microsoft-lost-its-mojo-again/",
       "publishedAt": "2026-06-05T15:00:00.000Z"
-    },
-    {
-      "id": "urnkn3",
-      "title": "The token bill comes due: Inside the industry scramble to manage AI’s runaway costs",
-      "summary": "\"The whole conversation shifted from tokenmaxxing and 'go fast' to 'we need guardrails, how do we control this?'\"",
-      "imageUrl": "https://images.unsplash.com/photo-1531746790095-6c10a4031c5f?w=800&q=80",
-      "source": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/06/05/the-token-bill-comes-due-inside-the-industry-scramble-to-manage-ais-runaway-costs/",
-      "publishedAt": "2026-06-05T14:49:12.000Z"
-    },
-    {
-      "id": "p9nz2z",
-      "title": "The ‘together tech’ wave might be the most intriguing startup bet of 2026",
-      "summary": "While the AI fundraising machine keeps breaking its own records, some founders are building in the other direction. Mirror founder Brynn Putnam just raised money for Board, a startup focused on bringing people together through in-person games and social experiences. Cyberdeck creators are going viral crafting whimsical DIY computers that literally encourage users to touch grass. Unlike the AI-free browser crowd, this doesn’t just feel like backlash, […]",
-      "imageUrl": "https://images.unsplash.com/photo-1676299081847-824916de030a?w=800&q=80",
-      "source": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/podcast/the-together-tech-wave-might-be-the-most-intriguing-startup-bet-of-2026/",
-      "publishedAt": "2026-06-05T14:00:00.000Z"
-    },
-    {
-      "id": "3x0y8j",
-      "title": "This AI startup says it can tell if a script will make a hit film",
-      "summary": "When Quilty hit the industry trades earlier this year, the AI startup promised that its tool could accurately predict a film's success just by reading the script. When people actually got a chance to experiment with Quilty's product, though, they were left skeptical. Even with all the available data in the world, it predicted the script for Christy, which would go on to be a box office flop, would outperform the script for Sinners, which became an Oscar-winning blockbuster. As many AI execs have…",
-      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/268573_This_AI_startup_wants_tell_you_if_your_script_will_make_a_hit_film_CVirginia.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "source": "The Verge",
-      "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/943531/ai-script-quilty-simon-horsman-daniel-wood",
-      "publishedAt": "2026-06-05T13:57:31.000Z"
-    },
-    {
-      "id": "upqkpi",
-      "title": "AirTrunk commits $30B to build 5GW of AI data centers in India",
-      "summary": "The Australian data center operator plans to set up 5GW of capacity in India.",
-      "imageUrl": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=800&q=80",
-      "source": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/06/05/airtrunk-commits-30b-to-build-5gw-of-ai-data-centers-in-india/",
-      "publishedAt": "2026-06-05T13:03:10.000Z"
     },
     {
       "id": "taq2aj",
@@ -327,15 +372,6 @@
       "publishedAt": "2026-06-05T09:00:00.000Z"
     },
     {
-      "id": "2fjnp7",
-      "title": "Mira Murati steps back into the spotlight, carefully",
-      "summary": "In the current environment, remaining heads down has diminishing returns; at some point, you have to make some noise just to remind the market you exist.",
-      "imageUrl": "https://images.unsplash.com/photo-1655720828018-edd2daec9349?w=800&q=80",
-      "source": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/06/04/mira-murati-steps-back-into-the-spotlight-carefully/",
-      "publishedAt": "2026-06-05T05:06:37.000Z"
-    },
-    {
       "id": "ng11dv",
       "title": "Dashlane explains how attackers managed to download encrypted password vaults",
       "summary": "By targeting large numbers of users, attackers increased their chances of success.",
@@ -370,33 +406,6 @@
       "source": "MIT Tech Review",
       "sourceUrl": "https://www.technologyreview.com/2026/06/04/1138391/courts-coping-ai-lawsuits/",
       "publishedAt": "2026-06-04T10:50:18.000Z"
-    },
-    {
-      "id": "1q3h1h",
-      "title": "Jeff Bezos Is Funding a Wild Hunt for the Brain’s ‘Core Algorithm’",
-      "summary": "With $500 million in funding and a reported $2.5 billion valuation, Flourish wants to reinvent AI by putting real neurons under the microscope.",
-      "imageUrl": "https://media.wired.com/photos/6a209f600b0d0bfc18ec9c17/master/pass/LannaApisukh_Flourish_AI-0242.jpg",
-      "source": "Wired",
-      "sourceUrl": "https://www.wired.com/story/jeff-bezos-is-funding-a-wild-hunt-for-the-brains-core-algorithm/",
-      "publishedAt": "2026-06-04T10:30:00.000Z"
-    },
-    {
-      "id": "wl8pm5",
-      "title": "Alpha School’s Ritzy New York City Campus Costs $65,000 a Year—but Isn’t Actually a School",
-      "summary": "A homeschooling center in Manhattan is part of the company’s nationwide expansion. Internal documents reveal its strategy: “Opening date > safety.”",
-      "imageUrl": "https://media.wired.com/photos/6a20945f908e6d6c546136d8/master/pass/Alphaschool_Print.jpg",
-      "source": "Wired",
-      "sourceUrl": "https://www.wired.com/story/alpha-schools-new-york-city-campus-isnt-actually-a-school/",
-      "publishedAt": "2026-06-04T10:00:00.000Z"
-    },
-    {
-      "id": "smtmd3",
-      "title": "Quantum Computing Is Having Its Public Market Moment",
-      "summary": "Quantinuum, a quantum computing startup, is losing millions. Investors want in anyway.",
-      "imageUrl": "https://media.wired.com/photos/6a209f374cffcda8ea79256c/master/pass/Quantum-Computing-Having-Public-Market-Moment-Business-2275664973.jpg",
-      "source": "Wired",
-      "sourceUrl": "https://www.wired.com/story/quantum-computing-is-having-its-public-market-moment-quantinuum/",
-      "publishedAt": "2026-06-04T09:34:23.000Z"
     },
     {
       "id": "vnpg4i",
@@ -532,15 +541,6 @@
       "source": "Ars Technica",
       "sourceUrl": "https://arstechnica.com/information-technology/2026/05/in-stunning-display-of-stupid-secret-cisa-credentials-found-in-public-github-repo/",
       "publishedAt": "2026-05-19T18:27:08.000Z"
-    },
-    {
-      "id": "i30hcu",
-      "title": "Google just redesigned the search box for the first time in 25 years — here’s why it matters more than you think.",
-      "summary": "For a quarter century, the Google search box has been one of the most recognizable interfaces in computing: a thin white rectangle, a blinking cursor, a few typed words, and a list of blue links. On Tuesday, Google will formally retire that paradigm.At its annual I/O developer conference, Google announced a sweeping redesign of the search box itself — the literal text field where billions of queries begin every day — transforming it from a simple keyword input into a dynamic, AI-driven…",
-      "imageUrl": "https://images.ctfassets.net/jdtwqhzvc2n1/1TD0Sl7Zq6nnBSZMK9FXpl/41ce2cc6da055da7647670c71ba8aa6b/Nuneybits_Vector_art_of_an_oversized_white_search_bar_rimmed_in_695cac3f-1536-4438-acc1-51c16e2ff51f.webp?w=300&q=30",
-      "source": "VentureBeat",
-      "sourceUrl": "https://venturebeat.com/technology/google-just-redesigned-the-search-box-for-the-first-time-in-25-years-heres-why-it-matters-more-than-you-think",
-      "publishedAt": "2026-05-19T17:45:00.000Z"
     }
   ]
 }
