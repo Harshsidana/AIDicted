@@ -1,7 +1,52 @@
 {
-  "fetchedAt": "2026-06-08T12:04:13.382Z",
+  "fetchedAt": "2026-06-08T16:36:49.681Z",
   "count": 60,
   "articles": [
+    {
+      "id": "4kb88l",
+      "title": "NotebookLM’s Gemini 3.5 upgrade adds a cloud computer and help finding sources",
+      "summary": "Google is rolling out \"across the board\" updates to NotebookLM. The AI-powered note-taking app now uses Google's upgraded Gemini 3.5 model, which will allow it to respond with \"more accurate and reliable information,\" according to a blog post on Monday. Launched in 2023, NotebookLM allows you to interact with your notes and sources using AI, as well as ask questions about the materials. With this update, Google says you can start a research project by just asking NotebookLM questions about a…",
+      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/NotebookLM-Welcome.png?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "source": "The Verge",
+      "sourceUrl": "https://www.theverge.com/tech/944325/google-notebooklm-ai-gemini-update",
+      "publishedAt": "2026-06-08T16:00:00.000Z"
+    },
+    {
+      "id": "1r3lue",
+      "title": "Amazon now lets you design custom merch using AI",
+      "summary": "A new feature in the Amazon Shopping app allows users to generate designs with Alexa, then print them on products like T-shirts, hoodies, and tumblers.",
+      "imageUrl": "https://images.unsplash.com/photo-1655720828018-edd2daec9349?w=800&q=80",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/06/08/amazon-now-lets-you-design-custom-merch-using-ai/",
+      "publishedAt": "2026-06-08T15:49:12.000Z"
+    },
+    {
+      "id": "xompe",
+      "title": "WWDC 2026: What to expect, from Siri’s highly anticipated revamp to Apple Intelligence and iOS 27",
+      "summary": "Apple's WWDC nears: Here's what you can look forward to.",
+      "imageUrl": "https://images.unsplash.com/photo-1655720828018-edd2daec9349?w=800&q=80",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/06/08/wwdc-2026-what-to-expect-from-siris-highly-anticipated-revamp-to-apple-intelligence-and-ios-27/",
+      "publishedAt": "2026-06-08T15:34:59.000Z"
+    },
+    {
+      "id": "gkvx6x",
+      "title": "Microsoft’s AI chief says superintelligence is near, but won’t take your job",
+      "summary": "Today I’m talking with Mustafa Suleyman, the CEO of Microsoft AI. And I’m actually going to keep today’s intro short — I’m working from my wife’s family farm this week, as you’ll see in the video, but also this is a real burner of an episode. We covered everything from Mustafa’s approach to training new models to his criticisms of Anthropic talking about Claude as though it is conscious. Of course, we also talked about Microsoft’s relationship with OpenAI, how Mustafa is thinking about all the…",
+      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/DCD-Mustafa-Suleyman.png?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "source": "The Verge",
+      "sourceUrl": "https://www.theverge.com/podcast/944138/microsoft-ai-ceo-mustafa-suleyman-superintelligence-agi-openai-automation",
+      "publishedAt": "2026-06-08T14:00:00.000Z"
+    },
+    {
+      "id": "v6lua4",
+      "title": "The Download: how the World Cup ball will fly and OpenAI’s “super app”",
+      "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. Why this year’s World Cup ball may not fly as far Much is new about this month’s FIFA World Cup tournament. It hosts more teams than ever before. It’s the first…",
+      "imageUrl": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=800&q=80",
+      "source": "MIT Tech Review",
+      "sourceUrl": "https://www.technologyreview.com/2026/06/08/1138485/the-download-world-cup-ball-openai-super-app/",
+      "publishedAt": "2026-06-08T12:10:00.000Z"
+    },
     {
       "id": "h8eu7o",
       "title": "WWDC 2026: How to watch and what to expect",
@@ -73,15 +118,6 @@
       "source": "TechCrunch",
       "sourceUrl": "https://techcrunch.com/2026/06/06/openai-unveils-lockdown-mode-to-protect-sensitive-data-from-prompt-injection-attacks/",
       "publishedAt": "2026-06-06T20:32:24.000Z"
-    },
-    {
-      "id": "3isv14",
-      "title": "What to expect from WWDC 2026: Siri’s highly anticipated revamp and Apple Intelligence updates",
-      "summary": "Apple's WWDC nears: Here's what you can look forward to.",
-      "imageUrl": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=800&q=80",
-      "source": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/06/06/what-to-expect-from-wwdc-2026-siris-highly-anticipated-revamp-and-apple-intelligence-updates/",
-      "publishedAt": "2026-06-06T18:13:36.000Z"
     },
     {
       "id": "6zkuu6",
@@ -300,15 +336,6 @@
       "publishedAt": "2026-06-05T05:06:37.000Z"
     },
     {
-      "id": "y94t96",
-      "title": "Ahead of its IPO, Anthropic’s Daniela Amodei shrugs off doubts about AI’s returns",
-      "summary": "Anthropic has been growing at a breakneck pace. The company announced that annualized revenue crossed $47 billion in May, up dramatically from roughly $9 billion at the end of 2025. That trajectory faces a real test, though.",
-      "imageUrl": "https://images.unsplash.com/photo-1655720828018-edd2daec9349?w=800&q=80",
-      "source": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/06/04/ahead-of-its-ipo-anthropics-daniela-amodei-shrugs-off-doubts-about-ais-returns/",
-      "publishedAt": "2026-06-04T22:43:26.000Z"
-    },
-    {
       "id": "ng11dv",
       "title": "Dashlane explains how attackers managed to download encrypted password vaults",
       "summary": "By targeting large numbers of users, attackers increased their chances of success.",
@@ -325,24 +352,6 @@
       "source": "Wired",
       "sourceUrl": "https://www.wired.com/story/uncanny-valley-podcast-ai-ipo-race-elon-musk-doge-whistleblower-instagram-hacking-incident/",
       "publishedAt": "2026-06-04T18:44:49.000Z"
-    },
-    {
-      "id": "dxj2gl",
-      "title": "Kevin O’Leary agrees to downsize massive Utah data center",
-      "summary": "Kevin O'Leary agreed to halve the size of his planned 40,000-acre data center in Utah amid mounting pressure from residents and activists, as reported earlier by local affiliate ABC4. The Shark Tank star sent a letter to Utah Senate President J. Stuart Adams on Thursday, saying that he will remove 19,430 acres from the project, located in and around the Locomotive Springs Waterfowl Management Area. The change comes just days after Adams called on O'Leary to slash the size of his Stratos Project…",
-      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/05/STKP224_KEVIN_O_LEARY_CVIRGINIA_A.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "source": "The Verge",
-      "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/943234/kevin-oleary-agrees-to-downsize-massive-utah-data-center",
-      "publishedAt": "2026-06-04T18:38:04.000Z"
-    },
-    {
-      "id": "h01lyj",
-      "title": "TSMC struggles to keep up with AI demand: ‘We can only support so much’",
-      "summary": "Taiwan Semiconductor Manufacturing Co. - the world's biggest semiconductor-maker - is struggling to meet demands from American customers even with its factory buildout in the US, according to reports from Reuters and Bloomberg. \"Customer demand is so high, and we can only support so much,\" TSMC CEO C.C. Wei said after a shareholder meeting on Thursday, Reuters reports. \"We are doing our best to ensure TSMC does not become a bottleneck.\" The surge in AI use has already put constraints on the…",
-      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/acastro_210430_1777_semiCon_0001.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "source": "The Verge",
-      "sourceUrl": "https://www.theverge.com/tech/943066/tsmc-ai-demand-struggles",
-      "publishedAt": "2026-06-04T14:15:44.000Z"
     },
     {
       "id": "ko80ty",
@@ -424,15 +433,6 @@
       "source": "MIT Tech Review",
       "sourceUrl": "https://www.technologyreview.com/2026/06/02/1138277/the-download-ai-tips-small-businesses-admin/",
       "publishedAt": "2026-06-02T12:10:00.000Z"
-    },
-    {
-      "id": "pbm7yi",
-      "title": "Rehumanizing global health care with agentic AI",
-      "summary": "The global health care sector is under increasing strain. Decades of chronic underinvestment and constraints in recruitment have coincided with a surge in demand for services for aging populations. Gaps in provision are already taking a toll, with fragmented access to care and high rates of stress and burnout among staff. And it’s getting worse.…",
-      "imageUrl": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=800&q=80",
-      "source": "MIT Tech Review",
-      "sourceUrl": "https://www.technologyreview.com/2026/06/02/1137827/rehumanizing-global-health-care-with-agentic-ai/",
-      "publishedAt": "2026-06-02T11:23:34.000Z"
     },
     {
       "id": "5u78a5",
