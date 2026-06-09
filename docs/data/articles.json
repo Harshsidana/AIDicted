@@ -1,12 +1,30 @@
 {
-  "fetchedAt": "2026-06-09T18:14:25.849Z",
+  "fetchedAt": "2026-06-09T20:30:15.077Z",
   "count": 60,
   "articles": [
     {
-      "id": "3roke",
-      "title": "WWDC 2026: Everything announced on Siri AI, iOS 27, Apple Intelligence and more",
-      "summary": "Apple primarily made the case for an improved experience with its longstanding Siri assistant, which like most other announcements had a hefty helping of AI.",
-      "imageUrl": "https://images.unsplash.com/photo-1526374965328-7f61d4dc18c5?w=800&q=80",
+      "id": "n8ovid",
+      "title": "Microsoft AI head calls out Anthropic for acting like Claude is conscious",
+      "summary": "Microsoft AI CEO Mustafa Suleyman says it's \"really, really dangerous\" for Anthropic to speculate about Claude's consciousness inside its \"constitution,\" or the instructions that tell the model how to behave. During an episode of Decoder, Suleyman argues that this kind of speculation may have set up the chatbot to act as though it's conscious: I think that it's almost as though some of the folks at Anthropic have anthropomorphized the design of Claude so much that it has then gone and wireheaded…",
+      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/gettyimages-2207866106.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "source": "The Verge",
+      "sourceUrl": "https://www.theverge.com/tech/947197/microsoft-ai-mustafa-suleyman-anthropic-claude-conscious",
+      "publishedAt": "2026-06-09T20:24:25.000Z"
+    },
+    {
+      "id": "7jxt6t",
+      "title": "Can tech companies learn to love cheaper AI models?",
+      "summary": "If those same AI workloads can be handled by cheaper models without affecting quality, it would mean a massive shift in the economics of AI.",
+      "imageUrl": "https://images.unsplash.com/photo-1531746790095-6c10a4031c5f?w=800&q=80",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/06/09/can-tech-companies-learn-to-love-cheaper-models/",
+      "publishedAt": "2026-06-09T18:56:09.000Z"
+    },
+    {
+      "id": "6dh4cm",
+      "title": "WWDC 2026: Everything announced on Siri AI, iOS 27, Apple Intelligence, and more",
+      "summary": "Apple primarily made the case for an improved experience with its long-standing Siri assistant, which like most other announcements had a hefty helping of AI.",
+      "imageUrl": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=800&q=80",
       "source": "TechCrunch",
       "sourceUrl": "https://techcrunch.com/2026/06/09/wwdc-2026-everything-announced-on-siri-ai-os-27-apple-intelligence-and-more/",
       "publishedAt": "2026-06-09T18:04:24.000Z"
@@ -30,6 +48,24 @@
       "publishedAt": "2026-06-09T17:00:00.000Z"
     },
     {
+      "id": "nr6g38",
+      "title": "Anthropic releases its first Mythos-class model Claude Fable",
+      "summary": "Anthropic just announced Claude Fable 5, a new AI model it said is the most powerful model it has ever made widely available. According to the company, Fable 5 \"shows exceptional performance in software engineering, knowledge work, and vision,\" with its lead over other models growing as tasks become longer and more complex. Fable 5 marks the first broad release from Anthropic's Mythos class of AI models, after the company said the family was so capable at cybersecurity tasks that it was too…",
+      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/05/STKB364_CLAUDE_2_C_96d15c.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "source": "The Verge",
+      "sourceUrl": "https://www.theverge.com/news/946725/anthropic-releases-claude-fable-5-mythos",
+      "publishedAt": "2026-06-09T17:00:00.000Z"
+    },
+    {
+      "id": "ku7d5s",
+      "title": "Apple is embracing the fantasy of AI photo editing",
+      "summary": "Apple’s feature showcase at WWDC 2026 didn’t flag which if these “photographs” are real or created with its new AI fakery. | Images by Apple / compiled by The Verge Apple used to question whether generative AI-powered editing features were worth the risk of distorting our perceptions of the world. Now it seems Apple no longer believes that photos should accurately capture reality. At WWDC 2026, the company announced a host of new AI-powered photo editing tools. They give users effortless powers…",
+      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/Apple-generative-AI-photo-editing-lede.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "source": "The Verge",
+      "sourceUrl": "https://www.theverge.com/tech/946850/apple-ai-photo-editing-tools-ios27-wwdc-2026-deepfakes",
+      "publishedAt": "2026-06-09T16:13:14.000Z"
+    },
+    {
       "id": "f2optg",
       "title": "It’s not FAANG anymore. It’s MANGOS.",
       "summary": "With SpaceX, Anthropic, and OpenAI all eyeing massive public debuts, the tech industry may soon have a new class of corporate overlords — and a new acronym to match. Say goodbye to FAANG and hello to MANGOS.",
@@ -39,13 +75,31 @@
       "publishedAt": "2026-06-09T16:09:14.000Z"
     },
     {
-      "id": "8pluzb",
-      "title": "High-severity vulnerability in Linux caused by a single errant character",
+      "id": "srorqs",
+      "title": "High-severity vulnerability in Linux caused by a single faulty character",
       "summary": "Use-after-free bug can be exploited to evade sandbox defenses.",
       "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2023/07/exploit-vulnerability-security.jpg",
       "source": "Ars Technica",
       "sourceUrl": "https://arstechnica.com/security/2026/06/a-single-errant-character-in-the-linux-kernel-allows-attacker-to-gain-root/",
       "publishedAt": "2026-06-09T15:12:43.000Z"
+    },
+    {
+      "id": "ywanxf",
+      "title": "Microsoft AI chief walks back comments about AI taking over white-collar work",
+      "summary": "Microsoft AI head Mustafa Suleyman is walking back his statement about AI automating jobs done by white-collar workers, including lawyers, accountants, and project managers. During an episode of Decoder on Monday, Suleyman says he meant AI will help these workers complete tasks, rather than do their jobs: Sending an email, having a conversation with a colleague, putting together a PowerPoint - sub-tasks will increasingly become digitized, automated, and we can basically generate more and more of…",
+      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/gettyimages-2219304754.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "source": "The Verge",
+      "sourceUrl": "https://www.theverge.com/tech/946879/microsoft-mustafa-suleyman-ai-white-collar-jobs",
+      "publishedAt": "2026-06-09T14:54:51.000Z"
+    },
+    {
+      "id": "9sf2uy",
+      "title": "Apple’s AI promises are finally, almost, sort of here",
+      "summary": "Apple kicked off its annual developer conference with bold promises about AI. The company, CEO Tim Cook said, would be \"introducing new technologies and innovations that push the limits on what's possible.\" But its slew of announcements - centered on a brand-new \"Siri AI\" - had more to do with catching up. After almost entirely neglecting Siri and punting its AI promises down the road in 2025, Apple went all in on the tech this year. It pitched Siri as an all-encompassing virtual assistant that…",
+      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/lcimg-e9a9ad41-eb47-49f2-80a4-3fb06df3a0d1.jpeg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "source": "The Verge",
+      "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/946780/apples-ai-promises-are-finally-almost-sort-of-here",
+      "publishedAt": "2026-06-09T14:18:18.000Z"
     },
     {
       "id": "ylo09a",
@@ -57,6 +111,15 @@
       "publishedAt": "2026-06-09T13:47:25.000Z"
     },
     {
+      "id": "7hwseu",
+      "title": "Apple’s best AI idea looks a lot like vibe coding",
+      "summary": "Most of Apple's current AI ideas are roughly the same as everyone else's AI ideas. A chatbot you can ask questions; quick ways to create or summarize text; bizarre, borderline creepy image-generation tools. The company spent most of its WWDC keynote playing catch-up with the state of the AI art, announcing Siri features you can already find on Android phones and in the Claude and ChatGPT apps. The pitch, in so many cases, is just \"this thing you know, but on your iPhone now.\" But a few minutes…",
+      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/AI-Apple-Shortcuts.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "source": "The Verge",
+      "sourceUrl": "https://www.theverge.com/tech/946733/apple-shortcuts-ai-safari-tabs-vibe-code",
+      "publishedAt": "2026-06-09T13:34:48.000Z"
+    },
+    {
       "id": "m6yofe",
       "title": "Lovable says it has hit $500M in annualized revenue, with 1 million new projects a week",
       "summary": "Lovable says it has now surpassed $500 million in annualized run-rate revenue and its users are building businesses and replacing internal software.",
@@ -64,6 +127,15 @@
       "source": "TechCrunch",
       "sourceUrl": "https://techcrunch.com/2026/06/09/lovable-says-it-has-hit-500m-in-annualized-revenue-with-1-million-new-projects-a-week/",
       "publishedAt": "2026-06-09T13:00:00.000Z"
+    },
+    {
+      "id": "q1z7pe",
+      "title": "Apple’s AI pitch will live or die by its privacy promise",
+      "summary": "Apple says its cloud processing is as private as on-device, despite expanding to run on Google’s servers. | Screenshot: Apple WWDC 2026 keynote As expected, yesterday's WWDC keynote was mostly about AI. And also as expected, Apple tried to turn its late arrival into its sales pitch: It didn't rush into AI because it was taking its time to do things right. In this case, \"right\" means \"with more privacy than anyone else.\" It's a good pitch - the question will be how well it holds up. The new Apple…",
+      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/apple-intelligence-siri-ai-private-cloud-compute.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "source": "The Verge",
+      "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/946705/apple-private-cloud-compute-ai-siri-intelligence-wwdc",
+      "publishedAt": "2026-06-09T12:55:33.000Z"
     },
     {
       "id": "ok606u",
@@ -100,6 +172,15 @@
       "source": "MIT Tech Review",
       "sourceUrl": "https://www.technologyreview.com/2026/06/09/1137830/learning-to-lead-in-a-hybrid-human-ai-enterprise/",
       "publishedAt": "2026-06-09T10:20:06.000Z"
+    },
+    {
+      "id": "fp4bzu",
+      "title": "Amazon employees ask Seattle to put the brakes on new data centers",
+      "summary": "On Tuesday, the Seattle City Council will vote on whether to enact a one-year moratorium on new data centers - just two months after several companies proposed building five large-scale centers in the city. Among the moratorium's fiercest supporters are current employees from the city's biggest tech giant, Amazon, who joined others to testify in support of the policy last week. Data centers have sparked protests across the country over concerns about water consumption, local electricity prices,…",
+      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/04/STKS528_DATA_CENTERS_A.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "source": "The Verge",
+      "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/945809/amazon-employees-seattle-data-center-moratorium",
+      "publishedAt": "2026-06-09T10:00:00.000Z"
     },
     {
       "id": "t2oeba",
@@ -156,6 +237,24 @@
       "publishedAt": "2026-06-08T22:39:57.000Z"
     },
     {
+      "id": "mco1ay",
+      "title": "Apple is using AI to fix Safari’s extension problem",
+      "summary": "Apple is trying to solve one of Safari's biggest weaknesses with AI. Safari has long lacked the robust library of extensions that its rivals have, mainly due to the stringent development requirements from Apple. But now, Apple is inviting users to essentially vibe-code their own extensions. In a demo shared by Apple, the company showed how you can ask Safari to create an extension by describing it. \"Save and track cooking recipes from around the web,\" the prompt said. \"Click the toolbar button…",
+      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/describe-extension-safari.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "source": "The Verge",
+      "sourceUrl": "https://www.theverge.com/tech/946345/apple-safari-ai-update-extensions",
+      "publishedAt": "2026-06-08T22:14:17.000Z"
+    },
+    {
+      "id": "ogmsy4",
+      "title": "OpenAI files for IPO, following Anthropic",
+      "summary": "OpenAI on Monday checked off a preliminary step in the IPO race that it and rival Anthropic have been competing in for the better part of a year: The company announced it has confidentially submitted a Form S-1 with the US Securities and Exchange Commission, following Anthropic's decision to do the same on June 1st. The confidential filing means that certain details normally available through the form - such as executive compensation figures, potential risks to a company's business, and more…",
+      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/04/STK155_OPEN_AI_CVirginia_C.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "source": "The Verge",
+      "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/946335/openai-ipo-s-1-confidential",
+      "publishedAt": "2026-06-08T21:38:29.000Z"
+    },
+    {
       "id": "4k9gkz",
       "title": "OpenAI Confidentially Files for IPO on the Heels of SpaceX and Anthropic",
       "summary": "The ChatGPT-maker announced it has filed paperwork to go public, just a week after rival Anthropic took the same step.",
@@ -201,15 +300,6 @@
       "publishedAt": "2026-06-08T18:48:45.000Z"
     },
     {
-      "id": "l8tnb4",
-      "title": "Apple will let you build workflows using AI in its new Shortcuts app",
-      "summary": "Shortcuts gets an AI upgrade, letting you describe the workflow you want in a prompt.",
-      "imageUrl": "https://images.unsplash.com/photo-1655720828018-edd2daec9349?w=800&q=80",
-      "source": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/06/08/apple-will-let-you-build-workflows-using-ai-in-its-new-shortcuts-app/",
-      "publishedAt": "2026-06-08T18:45:12.000Z"
-    },
-    {
       "id": "hwuhc3",
       "title": "For the 2nd time in weeks, Microsoft packages laced with credential stealer",
       "summary": "73 packages run self-replicating stealer as soon as they're opened by an AI agent.",
@@ -228,15 +318,6 @@
       "publishedAt": "2026-06-08T18:17:44.000Z"
     },
     {
-      "id": "rj361d",
-      "title": "Amazon is launching AI-generated custom merch",
-      "summary": "Amazon is expanding its print-on-demand features to AI-generated designs created using Alexa for Shopping for products like T-shirts, water bottles, and hoodies. Shoppers can use text prompts to generate images that are then printed on to blanks for sale on Amazon. They can then share the link to the design so other people can buy the same custom item. Amazon offers family reunions and pet-themed designs as use case examples, but the feature also threatens an entire ecosystem of drop-shipped…",
-      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/09/acastro_STK103__03.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "source": "The Verge",
-      "sourceUrl": "https://www.theverge.com/news/945905/amazon-alexa-shopping-ai-generated-custom-merch-design-printing",
-      "publishedAt": "2026-06-08T17:52:51.000Z"
-    },
-    {
       "id": "c31ktg",
       "title": "The UK Is Betting on a Billion-Dollar AI Supercomputer to Kick Its Addiction to US Tech",
       "summary": "The British government thinks a state-backed infrastructure initiative will help supercharge homegrown chip startups.",
@@ -244,15 +325,6 @@
       "source": "Wired",
       "sourceUrl": "https://www.wired.com/story/uk-supercomputer-investment-ai-homegrown-semiconductor/",
       "publishedAt": "2026-06-08T17:44:28.000Z"
-    },
-    {
-      "id": "i6d2o2",
-      "title": "Apple announces Siri AI and its next generation of Apple Intelligence",
-      "summary": "Two years after first revealing its plans for Apple Intelligence and a smarter Siri that never fully materialized, at WWDC, Apple just revealed a new set of AI features and a smarter, more personalized Siri. Apple calls Siri AI an \"entirely new version of Siri\" and says it's both more conversational and more capable than the previous version of the smart assistant. In conversations, it has a more expressive voice that can be customized by pace, expressivity, and accent. Siri AI will be…",
-      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/Apple-announces-Siri-AI-and-its-next-generation-of-Apple-Intelligence.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "source": "The Verge",
-      "sourceUrl": "https://www.theverge.com/tech/942416/apple-siri-ai-update-wwdc",
-      "publishedAt": "2026-06-08T17:34:24.000Z"
     },
     {
       "id": "pmv4jx",
@@ -264,24 +336,6 @@
       "publishedAt": "2026-06-08T17:31:11.000Z"
     },
     {
-      "id": "4kb88l",
-      "title": "NotebookLM’s Gemini 3.5 upgrade adds a cloud computer and help finding sources",
-      "summary": "Google is rolling out \"across the board\" updates to NotebookLM. The AI-powered note-taking app now uses Google's upgraded Gemini 3.5 model, which will allow it to respond with \"more accurate and reliable information,\" according to a blog post on Monday. Launched in 2023, NotebookLM allows you to interact with your notes and sources using AI, as well as ask questions about the materials. With this update, Google says you can start a research project by just asking NotebookLM questions about a…",
-      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/NotebookLM-Welcome.png?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "source": "The Verge",
-      "sourceUrl": "https://www.theverge.com/tech/944325/google-notebooklm-ai-gemini-update",
-      "publishedAt": "2026-06-08T16:00:00.000Z"
-    },
-    {
-      "id": "gkvx6x",
-      "title": "Microsoft’s AI chief says superintelligence is near, but won’t take your job",
-      "summary": "Today I’m talking with Mustafa Suleyman, the CEO of Microsoft AI. And I’m actually going to keep today’s intro short — I’m working from my wife’s family farm this week, as you’ll see in the video, but also this is a real burner of an episode. We covered everything from Mustafa’s approach to training new models to his criticisms of Anthropic talking about Claude as though it is conscious. Of course, we also talked about Microsoft’s relationship with OpenAI, how Mustafa is thinking about all the…",
-      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/DCD-Mustafa-Suleyman.png?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "source": "The Verge",
-      "sourceUrl": "https://www.theverge.com/podcast/944138/microsoft-ai-ceo-mustafa-suleyman-superintelligence-agi-openai-automation",
-      "publishedAt": "2026-06-08T14:00:00.000Z"
-    },
-    {
       "id": "v6lua4",
       "title": "The Download: how the World Cup ball will fly and OpenAI’s “super app”",
       "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. Why this year’s World Cup ball may not fly as far Much is new about this month’s FIFA World Cup tournament. It hosts more teams than ever before. It’s the first…",
@@ -289,15 +343,6 @@
       "source": "MIT Tech Review",
       "sourceUrl": "https://www.technologyreview.com/2026/06/08/1138485/the-download-world-cup-ball-openai-super-app/",
       "publishedAt": "2026-06-08T12:10:00.000Z"
-    },
-    {
-      "id": "h8eu7o",
-      "title": "WWDC 2026: How to watch and what to expect",
-      "summary": "Apple's biggest event of the year is nearly here. The company's Worldwide Developers Conference will spotlight updates to iOS, macOS, and all of Apple's other operating systems, and this year's event could also include a major overhaul for Siri. Here's how you can watch along live. When WWDC will happen and where you can watch it WWDC lasts a few days, but Apple's biggest announcements will be in the keynote presentation on June 8th at 1PM ET / 10AM PT. The full presentation usually lasts a…",
-      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/05/unnamed-8.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "source": "The Verge",
-      "sourceUrl": "https://www.theverge.com/tech/944099/wwdc-2026-how-to-watch",
-      "publishedAt": "2026-06-08T11:00:00.000Z"
     },
     {
       "id": "p8hh8k",
@@ -318,42 +363,6 @@
       "publishedAt": "2026-06-08T09:00:00.000Z"
     },
     {
-      "id": "98igxr",
-      "title": "AI ‘content creators’ are getting harder to spot",
-      "summary": "Aitana Lopez, AI avatar by creative agency The Clueless. | Image: The Clueless This is The Stepback, a weekly newsletter breaking down one essential story from the tech world. For more on AI confusion, follow Robert Hart. The Stepback arrives in our subscribers' inboxes at 8AM ET. Opt in for The Stepback here. How it started At first, AI influencers were relatively easy to identify - and to ignore. Aside from the occasional bursts of hype, they didn't seem to change much about the way social…",
-      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/GAUYdq3a4AAAlsX.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "source": "The Verge",
-      "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/943187/ai-content-creators",
-      "publishedAt": "2026-06-07T12:00:00.000Z"
-    },
-    {
-      "id": "tvv1q4",
-      "title": "The mayor of Shelbyville, Indiana, says only people who live in ‘shitty houses’ oppose data center",
-      "summary": "A proposed $2 billion data center has become a political flashpoint in the small city of Shelbyville, Indiana. And the controversy has only grown more intense after the mayor, Scott Furgeson, was caught on camera saying of the \"No Data Center\" signs going up that, \"I've seen a lot of these all over town, but I only see them in shitty houses,\" before adding, \"most of them are rentals.\" The woman speaking to him in the clip quickly pushes back, saying that they're \"working class,\" and someone…",
-      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/04/STKS528_DATA_CENTERS_A.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "source": "The Verge",
-      "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/944984/shelbyville-indiana-mayor-shitty-houses-data-center",
-      "publishedAt": "2026-06-06T15:05:00.000Z"
-    },
-    {
-      "id": "1xn15k",
-      "title": "Meta made its own AI-generated clickbait news feed",
-      "summary": "An AI-generated image of the royal family featuring two Queen Elizabeth IIs. | Image: Meta AI Facebook has long been filled with feeds of clickbait articles. Now, Meta is making its own clickbait articles with AI. The standalone Meta AI app now has a \"For You\" section that populates a list of clickbait-style stories for you to read. But the topics, images, and text are all AI-generated - and as questionable as you'd expect from AI-created works. The Meta AI app first launched in April 2025 with…",
-      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/ai-label-14.png?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "source": "The Verge",
-      "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/944235/meta-app-ai-clickbait-articles",
-      "publishedAt": "2026-06-06T14:00:00.000Z"
-    },
-    {
-      "id": "axbvik",
-      "title": "Here comes new Siri again",
-      "summary": "Our first glimpse of the new AI Siri came all the way back at WWDC 2024. Apple has been on its back foot, AI-wise, for the past few years. But in a strange way, playing from behind might not be such a bad move. At WWDC on Monday, Apple appears to be getting ready to reintroduce us to the new Siri. Again. As a reminder, we met the new Siri in 2024 when Apple \"launched\" Apple Intelligence. Siri came with a new glowing border, different voice options, and the ability to punt questions to ChatGPT.…",
-      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/wwdc_2024.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "source": "The Verge",
-      "sourceUrl": "https://www.theverge.com/tech/944245/apple-wwdc-2026-ai-siri-gemini",
-      "publishedAt": "2026-06-06T12:00:00.000Z"
-    },
-    {
       "id": "kypvvc",
       "title": "Crypto-Funded Chinese Peptide Labs Are Booming",
       "summary": "Plus: Hackers use Meta’s AI bots to hack Instagram accounts, Anthropic helps NSA hackers, a decades-long GPS satellite mystery may have been solved, and more.",
@@ -370,15 +379,6 @@
       "source": "Ars Technica",
       "sourceUrl": "https://arstechnica.com/security/2026/06/highly-reviewed-speaker-can-be-hacked-over-the-air-to-infect-connected-devices/",
       "publishedAt": "2026-06-05T21:00:29.000Z"
-    },
-    {
-      "id": "31oyxn",
-      "title": "This is your laptop… on AI",
-      "summary": "We're now deep into developer conference season, and one of the themes so far is the relentless conviction from Big Tech companies that AI is going to change everything about how we do everything. Nvidia's Jensen Huang made that clearer than anyone this week, when he described a completely new way of using our laptops - and a completely new kind of laptop made to support it. It's all very interesting, but it raises the same question we have around so many AI products: Does anyone actually want…",
-      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/VRG_VST_0605_Site.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "source": "The Verge",
-      "sourceUrl": "https://www.theverge.com/podcast/944058/ai-laptop-nvidia-build-gemini-spark-vergecast",
-      "publishedAt": "2026-06-05T16:39:07.000Z"
     },
     {
       "id": "53f6pt",
