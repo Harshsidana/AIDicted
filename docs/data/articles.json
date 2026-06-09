@@ -1,7 +1,61 @@
 {
-  "fetchedAt": "2026-06-09T08:36:25.926Z",
+  "fetchedAt": "2026-06-09T12:11:26.087Z",
   "count": 60,
   "articles": [
+    {
+      "id": "2ddd7s",
+      "title": "How an e-scooter founder raised $5 million to build space data centers",
+      "summary": "Orbital founder Euwyn Poon built 250,000 scooters at Spin. Now he wants to launch 10,000 space data centers.",
+      "imageUrl": "https://images.unsplash.com/photo-1620712943543-bcc4688e7485?w=800&q=80",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/06/09/how-an-e-scooter-founder-raised-5-million-to-build-space-data-centers/",
+      "publishedAt": "2026-06-09T12:00:00.000Z"
+    },
+    {
+      "id": "ssn9hv",
+      "title": "Alex Vindman Survived Trump’s Retaliation Machine. Now He’s Running for Senate",
+      "summary": "In 2019, Alex Vindman testified during President Trump’s first impeachment trial–a decision that ended his military career. Now he wants to challenge the president from the halls of Congress.",
+      "imageUrl": "https://media.wired.com/photos/6a27183be76eea53dfe3d41c/master/pass/Big-Interview-UV-Alex-Vindman.jpg",
+      "source": "Wired",
+      "sourceUrl": "https://www.wired.com/story/the-big-interview-podcast-alex-vindman/",
+      "publishedAt": "2026-06-09T10:30:00.000Z"
+    },
+    {
+      "id": "hvo53k",
+      "title": "Learning to lead in a hybrid human-AI enterprise",
+      "summary": "As adoption of AI agents looks set to surge by as much as 300% in the next two years, leadership teams are carefully considering the implications of a hybrid human-AI workforce. Unlike existing enterprise-level automation that relies on manual input, AI agents are capable of autonomously coordinating complex tasks, interacting with multiple tools and environments across…",
+      "imageUrl": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=800&q=80",
+      "source": "MIT Tech Review",
+      "sourceUrl": "https://www.technologyreview.com/2026/06/09/1137830/learning-to-lead-in-a-hybrid-human-ai-enterprise/",
+      "publishedAt": "2026-06-09T10:20:06.000Z"
+    },
+    {
+      "id": "fp4bzu",
+      "title": "Amazon employees ask Seattle to put the brakes on new data centers",
+      "summary": "On Tuesday, the Seattle City Council will vote on whether to enact a one-year moratorium on new data centers - just two months after several companies proposed building five large-scale centers in the city. Among the moratorium's fiercest supporters are current employees from the city's biggest tech giant, Amazon, who joined others to testify in support of the policy last week. Data centers have sparked protests across the country over concerns about water consumption, local electricity prices,…",
+      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/04/STKS528_DATA_CENTERS_A.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "source": "The Verge",
+      "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/945809/amazon-employees-seattle-data-center-moratorium",
+      "publishedAt": "2026-06-09T10:00:00.000Z"
+    },
+    {
+      "id": "t2oeba",
+      "title": "David Sinclair plans to test whole-body rejuvenation drugs in the XPrize competition",
+      "summary": "The outspoken longevity scientist David Sinclair has been predicting that one day, you’ll go to the doctor and get a prescription that will make you 10 years younger. Now MIT Technology Review has learned that he has plans to launch human tests of an oral “reprogramming” drug as part of a $101 million competition organized…",
+      "imageUrl": "https://images.unsplash.com/photo-1676299081847-824916de030a?w=800&q=80",
+      "source": "MIT Tech Review",
+      "sourceUrl": "https://www.technologyreview.com/2026/06/09/1138545/david-sinclair-plans-to-test-whole-body-rejuvenation-drugs-in-the-xprize-competition/",
+      "publishedAt": "2026-06-09T10:00:00.000Z"
+    },
+    {
+      "id": "ch5pi9",
+      "title": "Five things you need to know about AI",
+      "summary": "At SXSW London last week I gave a talk called “Five things you need to know about AI,” in which I shared what I think are the biggest themes in AI right now. I pulled a few things from our first AI10 list, an annual guide to the most important trends in this buzzy world,…",
+      "imageUrl": "https://images.unsplash.com/photo-1531746790095-6c10a4031c5f?w=800&q=80",
+      "source": "MIT Tech Review",
+      "sourceUrl": "https://www.technologyreview.com/2026/06/09/1138582/five-things-you-need-to-know-about-ai/",
+      "publishedAt": "2026-06-09T09:16:45.000Z"
+    },
     {
       "id": "nz2z7l",
       "title": "Why Apple’s slow-and-steady AI bet is starting to look pretty smart",
@@ -174,15 +228,6 @@
       "publishedAt": "2026-06-08T18:17:44.000Z"
     },
     {
-      "id": "381l60",
-      "title": "Apple’s long-awaited AI Siri overhaul is finally here",
-      "summary": "The idea behind the new \"Siri AI\" is to turn the assistant from a voice controlled assistant into an AI companion that can do a lot more.",
-      "imageUrl": "https://images.unsplash.com/photo-1676299081847-824916de030a?w=800&q=80",
-      "source": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/06/08/apples-long-awaited-ai-siri-overhaul-is-finally-here/",
-      "publishedAt": "2026-06-08T17:56:21.000Z"
-    },
-    {
       "id": "rj361d",
       "title": "Amazon is launching AI-generated custom merch",
       "summary": "Amazon is expanding its print-on-demand features to AI-generated designs created using Alexa for Shopping for products like T-shirts, water bottles, and hoodies. Shoppers can use text prompts to generate images that are then printed onto blanks for sale on Amazon. They can then share the link to the design so other people can buy the same custom item. Amazon offers family reunions and pet-themed designs as use case examples, but the feature also threatens an entire ecosystem of drop-shipped…",
@@ -291,15 +336,6 @@
       "publishedAt": "2026-06-06T15:05:00.000Z"
     },
     {
-      "id": "1xn15k",
-      "title": "Meta made its own AI-generated clickbait news feed",
-      "summary": "An AI-generated image of the royal family featuring two Queen Elizabeth IIs. | Image: Meta AI Facebook has long been filled with feeds of clickbait articles. Now, Meta is making its own clickbait articles with AI. The standalone Meta AI app now has a \"For You\" section that populates a list of clickbait-style stories for you to read. But the topics, images, and text are all AI-generated - and as questionable as you'd expect from AI-created works. The Meta AI app first launched in April 2025 with…",
-      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/ai-label-14.png?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "source": "The Verge",
-      "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/944235/meta-app-ai-clickbait-articles",
-      "publishedAt": "2026-06-06T14:00:00.000Z"
-    },
-    {
       "id": "kypvvc",
       "title": "Crypto-Funded Chinese Peptide Labs Are Booming",
       "summary": "Plus: Hackers use Meta’s AI bots to hack Instagram accounts, Anthropic helps NSA hackers, a decades-long GPS satellite mystery may have been solved, and more.",
@@ -354,15 +390,6 @@
       "publishedAt": "2026-06-05T10:00:00.000Z"
     },
     {
-      "id": "iaw7lz",
-      "title": "AI Has Come for Serif Fonts",
-      "summary": "AI companies are using serif to project humanity. Critics are calling it “tasteslop.”",
-      "imageUrl": "https://media.wired.com/photos/6a20d5436a7879400ec4323c/master/pass/culture_ai_serif_font.jpg",
-      "source": "Wired",
-      "sourceUrl": "https://www.wired.com/story/ai-has-come-for-serif-fonts/",
-      "publishedAt": "2026-06-05T09:00:00.000Z"
-    },
-    {
       "id": "yl5fn8",
       "title": "Are AI chatbots making us lose control of our brains?",
       "summary": "This week I’ve been at SXSW London. There’s been music, film, and a lot—and I mean a lot—of talk about AI. I also had the opportunity to sit down with Gloria Mark, a psychologist at the University of California, Irvine, who has spent the last 30 years studying how people interact with digital technologies. Early…",
@@ -415,33 +442,6 @@
       "source": "Ars Technica",
       "sourceUrl": "https://arstechnica.com/security/2026/06/dashlane-issues-opaque-advisory-warning-20-encrypted-vaults-were-stolen/",
       "publishedAt": "2026-06-03T19:53:14.000Z"
-    },
-    {
-      "id": "xs8apq",
-      "title": "How virtual power plants could provide energy for data centers",
-      "summary": "Would you take a payment to ramp down your electricity use? Would it change anything if you were doing so to help power a local data center? Google just signed a new deal to help pay for a virtual power plant (VPP) in the largest power grid in the US. The agreement is with Voltus,…",
-      "imageUrl": "https://images.unsplash.com/photo-1620712943543-bcc4688e7485?w=800&q=80",
-      "source": "MIT Tech Review",
-      "sourceUrl": "https://www.technologyreview.com/2026/06/03/1138350/virtual-power-plants-data-centers/",
-      "publishedAt": "2026-06-03T16:51:38.000Z"
-    },
-    {
-      "id": "g9vttv",
-      "title": "The Download: Trump’s new AI order, and smart glasses for warfare",
-      "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. 5 key points in Trump’s new AI order Less than two weeks after scrapping an executive order on AI, President Donald Trump signed a new one on Tuesday. Promising to promote…",
-      "imageUrl": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=800&q=80",
-      "source": "MIT Tech Review",
-      "sourceUrl": "https://www.technologyreview.com/2026/06/03/1138322/the-download-trump-ai-order-smart-glasses-warfare/",
-      "publishedAt": "2026-06-03T12:10:00.000Z"
-    },
-    {
-      "id": "wcwz2f",
-      "title": "The Download: AI can run your admin department now",
-      "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. How small businesses can leverage AI From accounting to design to market research and product development, there’s a staggering breadth of skills needed to run a business. Large companies can hire…",
-      "imageUrl": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=800&q=80",
-      "source": "MIT Tech Review",
-      "sourceUrl": "https://www.technologyreview.com/2026/06/02/1138277/the-download-ai-tips-small-businesses-admin/",
-      "publishedAt": "2026-06-02T12:10:00.000Z"
     },
     {
       "id": "5u78a5",
