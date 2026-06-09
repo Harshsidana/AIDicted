@@ -1,7 +1,79 @@
 {
-  "fetchedAt": "2026-06-09T12:11:26.087Z",
+  "fetchedAt": "2026-06-09T18:14:25.849Z",
   "count": 60,
   "articles": [
+    {
+      "id": "3roke",
+      "title": "WWDC 2026: Everything announced on Siri AI, iOS 27, Apple Intelligence and more",
+      "summary": "Apple primarily made the case for an improved experience with its longstanding Siri assistant, which like most other announcements had a hefty helping of AI.",
+      "imageUrl": "https://images.unsplash.com/photo-1526374965328-7f61d4dc18c5?w=800&q=80",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/06/09/wwdc-2026-everything-announced-on-siri-ai-os-27-apple-intelligence-and-more/",
+      "publishedAt": "2026-06-09T18:04:24.000Z"
+    },
+    {
+      "id": "46m2k6",
+      "title": "Anthropic Offers Mythos Upgrade for Cyber Partners and a ‘Safe’ Version for the Rest of You",
+      "summary": "Anthropic is releasing Claude Mythos 5 to trusted organizations and Claude Fable 5 to the public, a version it says can’t be used for cyberattacks.",
+      "imageUrl": "https://media.wired.com/photos/6a270618e083d018dff70e49/master/pass/Anthropic-Dangerous-AI-Business-2261854833.jpg",
+      "source": "Wired",
+      "sourceUrl": "https://www.wired.com/story/anthropic-releases-claude-fable-5-mythos-5/",
+      "publishedAt": "2026-06-09T17:00:46.000Z"
+    },
+    {
+      "id": "pmc5hd",
+      "title": "Anthropic’s Claude Fable 5 is a version of Mythos the public can access today",
+      "summary": "Anthropic is releasing Claude Fable 5, its first Mythos-class model available to the public. The model comes with guardrails that block responses in high-risk areas like cybersecurity and biology.",
+      "imageUrl": "https://images.unsplash.com/photo-1635070041078-e363dbe005cb?w=800&q=80",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/06/09/anthropic-released-claude-fable-5-its-most-powerful-model-publicly-days-after-warning-ai-is-getting-too-dangerous/",
+      "publishedAt": "2026-06-09T17:00:00.000Z"
+    },
+    {
+      "id": "f2optg",
+      "title": "It’s not FAANG anymore. It’s MANGOS.",
+      "summary": "With SpaceX, Anthropic, and OpenAI all eyeing massive public debuts, the tech industry may soon have a new class of corporate overlords — and a new acronym to match. Say goodbye to FAANG and hello to MANGOS.",
+      "imageUrl": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=800&q=80",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/06/09/its-not-faang-anymore-its-mangos/",
+      "publishedAt": "2026-06-09T16:09:14.000Z"
+    },
+    {
+      "id": "8pluzb",
+      "title": "High-severity vulnerability in Linux caused by a single errant character",
+      "summary": "Use-after-free bug can be exploited to evade sandbox defenses.",
+      "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2023/07/exploit-vulnerability-security.jpg",
+      "source": "Ars Technica",
+      "sourceUrl": "https://arstechnica.com/security/2026/06/a-single-errant-character-in-the-linux-kernel-allows-attacker-to-gain-root/",
+      "publishedAt": "2026-06-09T15:12:43.000Z"
+    },
+    {
+      "id": "ylo09a",
+      "title": "Sandstone raises $30M to bring AI to in-house legal teams",
+      "summary": "Sandstone's Series A comes just six months after a Sequoia-led seed round.",
+      "imageUrl": "https://images.unsplash.com/photo-1655720828018-edd2daec9349?w=800&q=80",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/06/09/sandstone-raises-30m-to-bring-ai-to-in-house-legal-teams/",
+      "publishedAt": "2026-06-09T13:47:25.000Z"
+    },
+    {
+      "id": "m6yofe",
+      "title": "Lovable says it has hit $500M in annualized revenue, with 1 million new projects a week",
+      "summary": "Lovable says it has now surpassed $500 million in annualized run-rate revenue and its users are building businesses and replacing internal software.",
+      "imageUrl": "https://images.unsplash.com/photo-1620712943543-bcc4688e7485?w=800&q=80",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/06/09/lovable-says-it-has-hit-500m-in-annualized-revenue-with-1-million-new-projects-a-week/",
+      "publishedAt": "2026-06-09T13:00:00.000Z"
+    },
+    {
+      "id": "ok606u",
+      "title": "The Download: whole-body rejuvenation drugs and five things to know about AI",
+      "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. David Sinclair plans to test whole-body rejuvenation drugs in the XPrize competition The outspoken longevity scientist David Sinclair has predicted that, one day, you’ll go to the doctor and get a…",
+      "imageUrl": "https://images.unsplash.com/photo-1655720828018-edd2daec9349?w=800&q=80",
+      "source": "MIT Tech Review",
+      "sourceUrl": "https://www.technologyreview.com/2026/06/09/1138604/the-download-anti-aging-drugs-ai-five-things-to-know/",
+      "publishedAt": "2026-06-09T12:10:00.000Z"
+    },
     {
       "id": "2ddd7s",
       "title": "How an e-scooter founder raised $5 million to build space data centers",
@@ -30,15 +102,6 @@
       "publishedAt": "2026-06-09T10:20:06.000Z"
     },
     {
-      "id": "fp4bzu",
-      "title": "Amazon employees ask Seattle to put the brakes on new data centers",
-      "summary": "On Tuesday, the Seattle City Council will vote on whether to enact a one-year moratorium on new data centers - just two months after several companies proposed building five large-scale centers in the city. Among the moratorium's fiercest supporters are current employees from the city's biggest tech giant, Amazon, who joined others to testify in support of the policy last week. Data centers have sparked protests across the country over concerns about water consumption, local electricity prices,…",
-      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/04/STKS528_DATA_CENTERS_A.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "source": "The Verge",
-      "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/945809/amazon-employees-seattle-data-center-moratorium",
-      "publishedAt": "2026-06-09T10:00:00.000Z"
-    },
-    {
       "id": "t2oeba",
       "title": "David Sinclair plans to test whole-body rejuvenation drugs in the XPrize competition",
       "summary": "The outspoken longevity scientist David Sinclair has been predicting that one day, you’ll go to the doctor and get a prescription that will make you 10 years younger. Now MIT Technology Review has learned that he has plans to launch human tests of an oral “reprogramming” drug as part of a $101 million competition organized…",
@@ -59,7 +122,7 @@
     {
       "id": "nz2z7l",
       "title": "Why Apple’s slow-and-steady AI bet is starting to look pretty smart",
-      "summary": "Can Apple's new AI glow up put to bed accusations that it's losing an all-important industry race?",
+      "summary": "Can Apple's new AI glow-up put to bed accusations that it's losing an all-important industry race?",
       "imageUrl": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=800&q=80",
       "source": "TechCrunch",
       "sourceUrl": "https://techcrunch.com/2026/06/08/why-apples-slow-and-steady-ai-bet-is-starting-to-look-pretty-smart/",
@@ -91,24 +154,6 @@
       "source": "TechCrunch",
       "sourceUrl": "https://techcrunch.com/2026/06/08/apples-wwdc-ai-demos-looked-more-real-after-250m-false-ad-settlement/",
       "publishedAt": "2026-06-08T22:39:57.000Z"
-    },
-    {
-      "id": "mco1ay",
-      "title": "Apple is using AI to fix Safari’s extension problem",
-      "summary": "Apple is trying to solve one of Safari's biggest weaknesses with AI. Safari has long lacked the robust library of extensions that its rivals have, mainly due to the stringent development requirements from Apple. But now, Apple is inviting users to essentially vibe-code their own extensions. In a demo shared by Apple, the company showed how you can ask Safari to create an extension by describing it. \"Save and track cooking recipes from around the web,\" the prompt said. \"Click the toolbar button…",
-      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/describe-extension-safari.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "source": "The Verge",
-      "sourceUrl": "https://www.theverge.com/tech/946345/apple-safari-ai-update-extensions",
-      "publishedAt": "2026-06-08T22:14:17.000Z"
-    },
-    {
-      "id": "ogmsy4",
-      "title": "OpenAI files for IPO, following Anthropic",
-      "summary": "OpenAI on Monday checked off a preliminary step in the IPO race that it and rival Anthropic have been competing in for the better part of a year: The company announced it has confidentially submitted a Form S-1 with the US Securities and Exchange Commission, following Anthropic's decision to do the same on June 1st. The confidential filing means that certain details normally available through the form - such as executive compensation figures, potential risks to a company's business, and more…",
-      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/04/STK155_OPEN_AI_CVirginia_C.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "source": "The Verge",
-      "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/946335/openai-ipo-s-1-confidential",
-      "publishedAt": "2026-06-08T21:38:29.000Z"
     },
     {
       "id": "4k9gkz",
@@ -147,15 +192,6 @@
       "publishedAt": "2026-06-08T20:53:55.000Z"
     },
     {
-      "id": "71jdtp",
-      "title": "WWDC 2026: Everything announced on Siri AI, iOS 27, Apple Intelligence and more",
-      "summary": "Apple primarily made the case for an improved experience with its longstanding Siri assistant, which like most other announcements had a hefty helping of AI.",
-      "imageUrl": "https://images.unsplash.com/photo-1526374965328-7f61d4dc18c5?w=800&q=80",
-      "source": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/06/08/wwdc-2026-everything-announced-on-siri-ai-os-27-apple-intelligence-and-more/",
-      "publishedAt": "2026-06-08T19:41:32.000Z"
-    },
-    {
       "id": "y26ha7",
       "title": "Apple just taught your iPhone to finish your sentences, your photos, and your workflows",
       "summary": "Apple is adding new AI-powered features to Safari, Shortcuts, and Password apps.",
@@ -174,24 +210,6 @@
       "publishedAt": "2026-06-08T18:45:12.000Z"
     },
     {
-      "id": "b8qs73",
-      "title": "Apple’s Image Playground doesn’t suck anymore",
-      "summary": "Apple's AI image generator is getting a makeover that could make it more competitive.",
-      "imageUrl": "https://images.unsplash.com/photo-1550751827-4bd374c3f58b?w=800&q=80",
-      "source": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/06/08/apples-image-playground-doesnt-suck-anymore/",
-      "publishedAt": "2026-06-08T18:38:07.000Z"
-    },
-    {
-      "id": "9cxma7",
-      "title": "Apple’s Photos app is getting new AI editing features",
-      "summary": "A new spatial \"Reframe\" feature will let users use AI to adjust perspectives.",
-      "imageUrl": "https://images.unsplash.com/photo-1531746790095-6c10a4031c5f?w=800&q=80",
-      "source": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/06/08/apples-photos-app-is-getting-new-ai-editing-features/",
-      "publishedAt": "2026-06-08T18:36:04.000Z"
-    },
-    {
       "id": "hwuhc3",
       "title": "For the 2nd time in weeks, Microsoft packages laced with credential stealer",
       "summary": "73 packages run self-replicating stealer as soon as they're opened by an AI agent.",
@@ -199,24 +217,6 @@
       "source": "Ars Technica",
       "sourceUrl": "https://arstechnica.com/security/2026/06/for-the-2nd-time-in-weeks-microsoft-packages-laced-with-credential-stealer/",
       "publishedAt": "2026-06-08T18:34:23.000Z"
-    },
-    {
-      "id": "pf31jq",
-      "title": "Apple gives Siri its own dedicated app",
-      "summary": "Siri is finally getting its own app.",
-      "imageUrl": "https://images.unsplash.com/photo-1550751827-4bd374c3f58b?w=800&q=80",
-      "source": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/06/08/apple-gives-siri-its-own-dedicated-app/",
-      "publishedAt": "2026-06-08T18:33:42.000Z"
-    },
-    {
-      "id": "4dihkd",
-      "title": "Apple is fixing the headache of splitting the bill with its new Siri in Camera feature",
-      "summary": "\"If you're grabbing a bite with friends and point your iPhone at the bill, then [you can] select what you ordered to split the tab with Apple Cash,\" said Apple VP of Software Sebastien Marineau-Mes.",
-      "imageUrl": "https://images.unsplash.com/photo-1655720828018-edd2daec9349?w=800&q=80",
-      "source": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/06/08/apple-is-fixing-the-headache-of-splitting-the-bill-with-its-new-siri-in-camera-feature/",
-      "publishedAt": "2026-06-08T18:23:04.000Z"
     },
     {
       "id": "5cux55",
@@ -230,7 +230,7 @@
     {
       "id": "rj361d",
       "title": "Amazon is launching AI-generated custom merch",
-      "summary": "Amazon is expanding its print-on-demand features to AI-generated designs created using Alexa for Shopping for products like T-shirts, water bottles, and hoodies. Shoppers can use text prompts to generate images that are then printed onto blanks for sale on Amazon. They can then share the link to the design so other people can buy the same custom item. Amazon offers family reunions and pet-themed designs as use case examples, but the feature also threatens an entire ecosystem of drop-shipped…",
+      "summary": "Amazon is expanding its print-on-demand features to AI-generated designs created using Alexa for Shopping for products like T-shirts, water bottles, and hoodies. Shoppers can use text prompts to generate images that are then printed on to blanks for sale on Amazon. They can then share the link to the design so other people can buy the same custom item. Amazon offers family reunions and pet-themed designs as use case examples, but the feature also threatens an entire ecosystem of drop-shipped…",
       "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/09/acastro_STK103__03.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
       "source": "The Verge",
       "sourceUrl": "https://www.theverge.com/news/945905/amazon-alexa-shopping-ai-generated-custom-merch-design-printing",
@@ -336,6 +336,24 @@
       "publishedAt": "2026-06-06T15:05:00.000Z"
     },
     {
+      "id": "1xn15k",
+      "title": "Meta made its own AI-generated clickbait news feed",
+      "summary": "An AI-generated image of the royal family featuring two Queen Elizabeth IIs. | Image: Meta AI Facebook has long been filled with feeds of clickbait articles. Now, Meta is making its own clickbait articles with AI. The standalone Meta AI app now has a \"For You\" section that populates a list of clickbait-style stories for you to read. But the topics, images, and text are all AI-generated - and as questionable as you'd expect from AI-created works. The Meta AI app first launched in April 2025 with…",
+      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/ai-label-14.png?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "source": "The Verge",
+      "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/944235/meta-app-ai-clickbait-articles",
+      "publishedAt": "2026-06-06T14:00:00.000Z"
+    },
+    {
+      "id": "axbvik",
+      "title": "Here comes new Siri again",
+      "summary": "Our first glimpse of the new AI Siri came all the way back at WWDC 2024. Apple has been on its back foot, AI-wise, for the past few years. But in a strange way, playing from behind might not be such a bad move. At WWDC on Monday, Apple appears to be getting ready to reintroduce us to the new Siri. Again. As a reminder, we met the new Siri in 2024 when Apple \"launched\" Apple Intelligence. Siri came with a new glowing border, different voice options, and the ability to punt questions to ChatGPT.…",
+      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/wwdc_2024.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "source": "The Verge",
+      "sourceUrl": "https://www.theverge.com/tech/944245/apple-wwdc-2026-ai-siri-gemini",
+      "publishedAt": "2026-06-06T12:00:00.000Z"
+    },
+    {
       "id": "kypvvc",
       "title": "Crypto-Funded Chinese Peptide Labs Are Booming",
       "summary": "Plus: Hackers use Meta’s AI bots to hack Instagram accounts, Anthropic helps NSA hackers, a decades-long GPS satellite mystery may have been solved, and more.",
@@ -352,6 +370,15 @@
       "source": "Ars Technica",
       "sourceUrl": "https://arstechnica.com/security/2026/06/highly-reviewed-speaker-can-be-hacked-over-the-air-to-infect-connected-devices/",
       "publishedAt": "2026-06-05T21:00:29.000Z"
+    },
+    {
+      "id": "31oyxn",
+      "title": "This is your laptop… on AI",
+      "summary": "We're now deep into developer conference season, and one of the themes so far is the relentless conviction from Big Tech companies that AI is going to change everything about how we do everything. Nvidia's Jensen Huang made that clearer than anyone this week, when he described a completely new way of using our laptops - and a completely new kind of laptop made to support it. It's all very interesting, but it raises the same question we have around so many AI products: Does anyone actually want…",
+      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/VRG_VST_0605_Site.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "source": "The Verge",
+      "sourceUrl": "https://www.theverge.com/podcast/944058/ai-laptop-nvidia-build-gemini-spark-vergecast",
+      "publishedAt": "2026-06-05T16:39:07.000Z"
     },
     {
       "id": "53f6pt",
@@ -379,15 +406,6 @@
       "source": "Wired",
       "sourceUrl": "https://www.wired.com/story/openai-and-anthropic-may-be-rivals-but-their-investors-arent-choosing-sides/",
       "publishedAt": "2026-06-05T10:30:00.000Z"
-    },
-    {
-      "id": "rg2ry8",
-      "title": "Why Apple Might Put Cameras Into Its Next AirPods",
-      "summary": "From battery life to privacy, there are many hurdles to the idea taking off.",
-      "imageUrl": "https://media.wired.com/photos/6a21fac373f57a5aa16309ff/master/pass/gear_airpodcamera_getty.jpg",
-      "source": "Wired",
-      "sourceUrl": "https://www.wired.com/story/why-apple-might-put-cameras-into-its-next-airpods/",
-      "publishedAt": "2026-06-05T10:00:00.000Z"
     },
     {
       "id": "yl5fn8",
@@ -424,15 +442,6 @@
       "source": "MIT Tech Review",
       "sourceUrl": "https://www.technologyreview.com/2026/06/04/1138408/the-download-ai-lawsuits-virtual-power-plants-data-centers/",
       "publishedAt": "2026-06-04T12:10:00.000Z"
-    },
-    {
-      "id": "yliwpg",
-      "title": "How courts are coping with a flood of AI-generated lawsuits",
-      "summary": "Most days in her chambers, Judge Maritza Braswell, a federal magistrate judge in Colorado, sifts through stacks of documents written by people without a lawyer. Many of them can’t afford to hire a lawyer, and others have cases too weak or too small to interest one. She reads each one carefully, mindful of how daunting…",
-      "imageUrl": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=800&q=80",
-      "source": "MIT Tech Review",
-      "sourceUrl": "https://www.technologyreview.com/2026/06/04/1138391/courts-coping-ai-lawsuits/",
-      "publishedAt": "2026-06-04T10:50:18.000Z"
     },
     {
       "id": "vnpg4i",
@@ -532,15 +541,6 @@
       "source": "Ars Technica",
       "sourceUrl": "https://arstechnica.com/security/2026/05/google-publishes-exploit-code-threatening-millions-of-chromium-users/",
       "publishedAt": "2026-05-20T19:10:36.000Z"
-    },
-    {
-      "id": "ysk5mg",
-      "title": "In stunning display of stupid, secret CISA credentials found in public GitHub repo",
-      "summary": "SSH keys, plaintext passwords, other sensitive data had been up since November 2025.",
-      "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2026/05/GettyImages-1303783356-1152x648.jpg",
-      "source": "Ars Technica",
-      "sourceUrl": "https://arstechnica.com/information-technology/2026/05/in-stunning-display-of-stupid-secret-cisa-credentials-found-in-public-github-repo/",
-      "publishedAt": "2026-05-19T18:27:08.000Z"
     }
   ]
 }
