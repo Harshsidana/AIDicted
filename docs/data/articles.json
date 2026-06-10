@@ -1,7 +1,97 @@
 {
-  "fetchedAt": "2026-06-10T12:30:44.148Z",
+  "fetchedAt": "2026-06-10T16:40:33.877Z",
   "count": 60,
   "articles": [
+    {
+      "id": "2yfcvq",
+      "title": "Google will save your Lens photos, Search Live recordings, and Translate audio for AI training",
+      "summary": "Google is making some changes to how it saves your interactions with Search. In an email sent to users, Google says it will save the images, files, audio, and video you use to search under a new \"Search Services History\" setting. That includes the images you search for with Google Lens, recordings from its real-time Search Live tool, voice searches, and phrases spoken into Translate, according to an update on the company's website. You can switch off the Search Services History setting and…",
+      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/01/STK093_GOOGLE_B.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "source": "The Verge",
+      "sourceUrl": "https://www.theverge.com/tech/947836/google-search-privacy-settings-images-audio",
+      "publishedAt": "2026-06-10T16:18:45.000Z"
+    },
+    {
+      "id": "tbl2gc",
+      "title": "How memory tools can make AI models worse",
+      "summary": "New research suggests that AI memory systems can degrade model performance and encourage sycophantic tendencies.",
+      "imageUrl": "https://images.unsplash.com/photo-1526374965328-7f61d4dc18c5?w=800&q=80",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/06/10/how-memory-tools-can-make-ai-models-worse/",
+      "publishedAt": "2026-06-10T16:11:08.000Z"
+    },
+    {
+      "id": "wk116s",
+      "title": "Cybersecurity researchers aren’t happy about the guardrails on Anthropic’s Fable",
+      "summary": "Cybersecurity researchers are complaining that Anthropic's new model Fable has guardrails that are too strict for any cybersecurity work.",
+      "imageUrl": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=800&q=80",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/06/10/cybersecurity-researchers-arent-happy-about-the-guardrails-on-anthropics-fable/",
+      "publishedAt": "2026-06-10T15:41:22.000Z"
+    },
+    {
+      "id": "v4ap7w",
+      "title": "Datadog veterans launch AI coding startup Niteshift on a bet against Big AI lock-in",
+      "summary": "AI coding agent startup Niteshift has raised a $7 million seed round from a who's who of angels. It's betting companies will want power over, not lock-in with model makers.",
+      "imageUrl": "https://images.unsplash.com/photo-1550751827-4bd374c3f58b?w=800&q=80",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/06/10/datadog-veterans-launch-ai-coding-startup-niteshift-on-a-bet-against-big-ai-lock-in/",
+      "publishedAt": "2026-06-10T15:00:00.000Z"
+    },
+    {
+      "id": "dwjm9z",
+      "title": "The three hard-tech moonshots fueling SpaceX’s unbelievable IPO",
+      "summary": "Most of the value in SpaceX's IPO is effectively a call option on the company's ambitious space data center plans.",
+      "imageUrl": "https://images.unsplash.com/photo-1531746790095-6c10a4031c5f?w=800&q=80",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/06/10/the-three-hard-tech-moonshots-fueling-spacexs-unbelievable-ipo/",
+      "publishedAt": "2026-06-10T14:48:01.000Z"
+    },
+    {
+      "id": "qbn956",
+      "title": "Warner Music acquires AI attribution startup Sureel AI",
+      "summary": "Through the acquisition, WMG aims to better track when its artists' work is used in AI-generated content or for training AI models.",
+      "imageUrl": "https://images.unsplash.com/photo-1485827404703-89b55fcc595e?w=800&q=80",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/06/10/warner-music-acquires-ai-attribution-startup-sureel-ai/",
+      "publishedAt": "2026-06-10T14:31:30.000Z"
+    },
+    {
+      "id": "w14kom",
+      "title": "Wrongful Arrest Exposes Failures in One of the Oldest Police Face-Recognition Tools in the US",
+      "summary": "The ACLU is suing two Florida police departments over the arrest of a Fort Myers man in a child-abduction case, saying officers treated a flawed face-recognition match as a near-certain ID.",
+      "imageUrl": "https://media.wired.com/photos/6a296cd55fb28d50a6268abc/master/pass/061026_Wrongful-Arrest-Tests-One-of-the-Oldest-Police-Face-Recognition-Databases-in-the-US.gif",
+      "source": "Wired",
+      "sourceUrl": "https://www.wired.com/story/wrongful-arrest-tests-one-of-the-oldest-police-face-recognition-tools-in-the-us/",
+      "publishedAt": "2026-06-10T14:00:00.000Z"
+    },
+    {
+      "id": "zfxm1u",
+      "title": "China Opens World’s First Wind-Powered Underwater Data Center",
+      "summary": "With an initial capacity of 24 megawatts, the innovative data center uses seawater as a natural cooling system.",
+      "imageUrl": "https://media.wired.com/photos/68fab92565a13f02607aecfa/master/pass/Screenshot%202025-10-23%20at%2011.33.04%E2%80%AFa.m..png",
+      "source": "Wired",
+      "sourceUrl": "https://www.wired.com/story/china-opens-worlds-first-wind-powered-underwater-data-center/",
+      "publishedAt": "2026-06-10T13:39:32.000Z"
+    },
+    {
+      "id": "fuf7by",
+      "title": "Jedify raises $24M to help companies arm AI agents with context on their business",
+      "summary": "The funding round was led by Norwest, with participation S Capital VC, Cerca Partners, and Oceans Ventures. Snowflake Ventures also participated as a strategic investor.",
+      "imageUrl": "https://images.unsplash.com/photo-1526374965328-7f61d4dc18c5?w=800&q=80",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/06/10/jedify-raises-24m-to-help-companies-arm-ai-agents-with-context-on-their-business/",
+      "publishedAt": "2026-06-10T13:33:09.000Z"
+    },
+    {
+      "id": "tj3yui",
+      "title": "Decart’s new world model can simulate hours of photorealistic driving — with some caveats",
+      "summary": "Decart is launching Oasis 3, a real-time world model that generates photorealistic driving environments for autonomous vehicle testing, now available via API for developers to build on.",
+      "imageUrl": "https://images.unsplash.com/photo-1635070041078-e363dbe005cb?w=800&q=80",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/06/10/decarts-new-world-model-can-simulate-hours-of-photorealistic-driving-with-some-caveats/",
+      "publishedAt": "2026-06-10T13:07:56.000Z"
+    },
     {
       "id": "hb284v",
       "title": "The Download: the “steroid olympics” and a safer Mythos",
@@ -165,15 +255,6 @@
       "publishedAt": "2026-06-09T16:13:14.000Z"
     },
     {
-      "id": "f2optg",
-      "title": "It’s not FAANG anymore. It’s MANGOS.",
-      "summary": "With SpaceX, Anthropic, and OpenAI all eyeing massive public debuts, the tech industry may soon have a new class of corporate overlords — and a new acronym to match. Say goodbye to FAANG and hello to MANGOS.",
-      "imageUrl": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=800&q=80",
-      "source": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/06/09/its-not-faang-anymore-its-mangos/",
-      "publishedAt": "2026-06-09T16:09:14.000Z"
-    },
-    {
       "id": "srorqs",
       "title": "High-severity vulnerability in Linux caused by a single faulty character",
       "summary": "Use-after-free bug can be exploited to evade sandbox defenses.",
@@ -201,15 +282,6 @@
       "publishedAt": "2026-06-09T14:18:18.000Z"
     },
     {
-      "id": "ylo09a",
-      "title": "Sandstone raises $30M to bring AI to in-house legal teams",
-      "summary": "Sandstone's Series A comes just six months after a Sequoia-led seed round.",
-      "imageUrl": "https://images.unsplash.com/photo-1655720828018-edd2daec9349?w=800&q=80",
-      "source": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/06/09/sandstone-raises-30m-to-bring-ai-to-in-house-legal-teams/",
-      "publishedAt": "2026-06-09T13:47:25.000Z"
-    },
-    {
       "id": "7hwseu",
       "title": "Apple’s best AI idea looks a lot like vibe coding",
       "summary": "Most of Apple's current AI ideas are roughly the same as everyone else's AI ideas. A chatbot you can ask questions; quick ways to create or summarize text; bizarre, borderline creepy image-generation tools. The company spent most of its WWDC keynote playing catch-up with the state of the AI art, announcing Siri features you can already find on Android phones and in the Claude and ChatGPT apps. The pitch, in so many cases, is just \"this thing you know, but on your iPhone now.\" But a few minutes…",
@@ -217,15 +289,6 @@
       "source": "The Verge",
       "sourceUrl": "https://www.theverge.com/tech/946733/apple-shortcuts-ai-safari-tabs-vibe-code",
       "publishedAt": "2026-06-09T13:34:48.000Z"
-    },
-    {
-      "id": "m6yofe",
-      "title": "Lovable says it has hit $500M in annualized revenue, with 1 million new projects a week",
-      "summary": "Lovable says it has now surpassed $500 million in annualized run-rate revenue and its users are building businesses and replacing internal software.",
-      "imageUrl": "https://images.unsplash.com/photo-1620712943543-bcc4688e7485?w=800&q=80",
-      "source": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/06/09/lovable-says-it-has-hit-500m-in-annualized-revenue-with-1-million-new-projects-a-week/",
-      "publishedAt": "2026-06-09T13:00:00.000Z"
     },
     {
       "id": "q1z7pe",
@@ -246,15 +309,6 @@
       "publishedAt": "2026-06-09T12:10:00.000Z"
     },
     {
-      "id": "2ddd7s",
-      "title": "How an e-scooter founder raised $5 million to build space data centers",
-      "summary": "Orbital founder Euwyn Poon built 250,000 scooters at Spin. Now he wants to launch 10,000 space data centers.",
-      "imageUrl": "https://images.unsplash.com/photo-1620712943543-bcc4688e7485?w=800&q=80",
-      "source": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/06/09/how-an-e-scooter-founder-raised-5-million-to-build-space-data-centers/",
-      "publishedAt": "2026-06-09T12:00:00.000Z"
-    },
-    {
       "id": "ssn9hv",
       "title": "Alex Vindman Survived Trump’s Retaliation Machine. Now He’s Running for Senate",
       "summary": "In 2019, Alex Vindman testified during President Trump’s first impeachment trial–a decision that ended his military career. Now he wants to challenge the president from the halls of Congress.",
@@ -273,15 +327,6 @@
       "publishedAt": "2026-06-09T10:20:06.000Z"
     },
     {
-      "id": "fp4bzu",
-      "title": "Amazon employees ask Seattle to put the brakes on new data centers",
-      "summary": "On Tuesday, the Seattle City Council will vote on whether to enact a one-year moratorium on new data centers - just two months after several companies proposed building five large-scale centers in the city. Among the moratorium's fiercest supporters are current employees from the city's biggest tech giant, Amazon, who joined others to testify in support of the policy last week. Data centers have sparked protests across the country over concerns about water consumption, local electricity prices,…",
-      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/04/STKS528_DATA_CENTERS_A.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "source": "The Verge",
-      "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/945809/amazon-employees-seattle-data-center-moratorium",
-      "publishedAt": "2026-06-09T10:00:00.000Z"
-    },
-    {
       "id": "t2oeba",
       "title": "David Sinclair plans to test whole-body rejuvenation drugs in the XPrize competition",
       "summary": "The outspoken longevity scientist David Sinclair has been predicting that one day, you’ll go to the doctor and get a prescription that will make you 10 years younger. Now MIT Technology Review has learned that he has plans to launch human tests of an oral “reprogramming” drug as part of a $101 million competition organized…",
@@ -298,33 +343,6 @@
       "source": "MIT Tech Review",
       "sourceUrl": "https://www.technologyreview.com/2026/06/09/1138582/five-things-you-need-to-know-about-ai/",
       "publishedAt": "2026-06-09T09:16:45.000Z"
-    },
-    {
-      "id": "nz2z7l",
-      "title": "Why Apple’s slow-and-steady AI bet is starting to look pretty smart",
-      "summary": "Can Apple's new AI glow-up put to bed accusations that it's losing an all-important industry race?",
-      "imageUrl": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=800&q=80",
-      "source": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/06/08/why-apples-slow-and-steady-ai-bet-is-starting-to-look-pretty-smart/",
-      "publishedAt": "2026-06-09T01:56:48.000Z"
-    },
-    {
-      "id": "hasow",
-      "title": "Mercor’s Brendan Foody calls out Sequoia, accusing it of ‘dual-pricing’ valuation tricks",
-      "summary": "Sequoia is just one of the top firms that sells same equity at two different prices.",
-      "imageUrl": "https://images.unsplash.com/photo-1620712943543-bcc4688e7485?w=800&q=80",
-      "source": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/06/08/mercors-brendan-foody-calls-out-sequoia-over-dual-pricing-valuation-tricks/",
-      "publishedAt": "2026-06-09T00:45:56.000Z"
-    },
-    {
-      "id": "55qsby",
-      "title": "As OpenAI files for IPO, Sam Altman’s eye-scanning company is doing layoffs, report says",
-      "summary": "Tools for Humanity, Sam Altman's identity verification company, is reportedly struggling to generate revenue and will downsize its staff.",
-      "imageUrl": "https://images.unsplash.com/photo-1655720828018-edd2daec9349?w=800&q=80",
-      "source": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/06/08/as-openai-files-for-ipo-sam-altmans-eye-scanning-company-is-doing-layoffs-report-says/",
-      "publishedAt": "2026-06-08T22:41:45.000Z"
     },
     {
       "id": "4k9gkz",
@@ -399,15 +417,6 @@
       "publishedAt": "2026-06-08T09:00:00.000Z"
     },
     {
-      "id": "kypvvc",
-      "title": "Crypto-Funded Chinese Peptide Labs Are Booming",
-      "summary": "Plus: Hackers use Meta’s AI bots to hack Instagram accounts, Anthropic helps NSA hackers, a decades-long GPS satellite mystery may have been solved, and more.",
-      "imageUrl": "https://media.wired.com/photos/6a2312eb2b342fb72975a62e/master/pass/Security-Roundup-Crypto-funded-Chinese-labs-sales-of-peptides-Security-1312618198.jpg",
-      "source": "Wired",
-      "sourceUrl": "https://www.wired.com/story/security-news-this-week-crypto-funded-chinese-peptide-labs-are-booming/",
-      "publishedAt": "2026-06-06T10:30:00.000Z"
-    },
-    {
       "id": "9el4r7",
       "title": "How a USB-connected speaker can infect a PC without ever being touched",
       "summary": "Seller of the Sound Blaster Katana V2X doesn't consider the behavior a vulnerability.",
@@ -415,15 +424,6 @@
       "source": "Ars Technica",
       "sourceUrl": "https://arstechnica.com/security/2026/06/highly-reviewed-speaker-can-be-hacked-over-the-air-to-infect-connected-devices/",
       "publishedAt": "2026-06-05T21:00:29.000Z"
-    },
-    {
-      "id": "53f6pt",
-      "title": "Has Microsoft Lost Its Mojo (Again)?",
-      "summary": "Microsoft’s AI products aren’t selling, and Github’s been plagued with troubles. WIRED spoke with VP Scott Hanselman about whether the company is in catch-up mode.",
-      "imageUrl": "https://media.wired.com/photos/6a21bf0470a986f0e78c96a3/master/pass/Backchannel-Q-A-Scott-Hanselma-Business-681613422.jpg",
-      "source": "Wired",
-      "sourceUrl": "https://www.wired.com/story/has-microsoft-lost-its-mojo-again/",
-      "publishedAt": "2026-06-05T15:00:00.000Z"
     },
     {
       "id": "taq2aj",
