@@ -1,7 +1,43 @@
 {
-  "fetchedAt": "2026-06-10T04:25:26.354Z",
+  "fetchedAt": "2026-06-10T12:30:44.148Z",
   "count": 60,
   "articles": [
+    {
+      "id": "hb284v",
+      "title": "The Download: the “steroid olympics” and a safer Mythos",
+      "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. The “steroid olympics” were a circus—and a window into our culture —Amit Katwala A couple of weeks ago, at a $50 million arena built in a casino parking lot in Las…",
+      "imageUrl": "https://images.unsplash.com/photo-1635070041078-e363dbe005cb?w=800&q=80",
+      "source": "MIT Tech Review",
+      "sourceUrl": "https://www.technologyreview.com/2026/06/10/1138739/the-download-steroid-olympics-enhanced-games-anthropic-mythos/",
+      "publishedAt": "2026-06-10T12:10:00.000Z"
+    },
+    {
+      "id": "k2rbay",
+      "title": "Artificial Intelligence Sneaks Into the World Cup Thanks to Google Gemini",
+      "summary": "The Argentine national team will be Google’s test bench and technological showcase during the World Cup.",
+      "imageUrl": "https://media.wired.com/photos/6a26f2821d5621d5724e9dd9/master/pass/Artificial-Intelligence-Sneaks-into-World-Cup-2279691552.jpg",
+      "source": "Wired",
+      "sourceUrl": "https://www.wired.com/story/artificial-intelligence-sneaks-into-the-world-cup-thanks-to-google-gemini/",
+      "publishedAt": "2026-06-10T10:00:00.000Z"
+    },
+    {
+      "id": "ecodf4",
+      "title": "The “steroid olympics” were a circus—and a window into our culture",
+      "summary": "Testosterone. Methenolone. Nandrolone. Human growth hormone and EPO. Meldonium, modafinil, and mixed amphetamine salts. Clomiphene, anastrozole, levothyroxine, and liothyronine. Patches and capsules, creams and pills. A whole galaxy of steroids, metabolic modulators, and synthetic hormones coursing through the blood of a few dozen swimmers, sprinters, and weightlifters. And millions of dollars up for grabs for athletes…",
+      "imageUrl": "https://images.unsplash.com/photo-1620712943543-bcc4688e7485?w=800&q=80",
+      "source": "MIT Tech Review",
+      "sourceUrl": "https://www.technologyreview.com/2026/06/10/1138670/enhanced-games-doping-steroids-hormones-supplements-longevity/",
+      "publishedAt": "2026-06-10T09:00:00.000Z"
+    },
+    {
+      "id": "ey7arl",
+      "title": "Meta signs first AI data center deal in India with Reliance",
+      "summary": "The 168-megawatt facility will support Meta's global AI computing needs and can be expanded over time.",
+      "imageUrl": "https://images.unsplash.com/photo-1531746790095-6c10a4031c5f?w=800&q=80",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/06/10/meta-signs-first-ai-data-center-deal-in-india-with-reliance/",
+      "publishedAt": "2026-06-10T07:05:26.000Z"
+    },
     {
       "id": "5glhg8",
       "title": "Google just fired a warning shot in the AI subscription price wars",
@@ -291,15 +327,6 @@
       "publishedAt": "2026-06-08T22:41:45.000Z"
     },
     {
-      "id": "8rxzk0",
-      "title": "Apple’s WWDC AI demos looked more real after $250M false ad settlement",
-      "summary": "The vibe of Apple's 2026 WWDC keynote felt like a spouse proudly listing all the honey-do-list items tackled. One subtle example: the many AI demos of someone standing, phone in hand.",
-      "imageUrl": "https://images.unsplash.com/photo-1620712943543-bcc4688e7485?w=800&q=80",
-      "source": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/06/08/apples-wwdc-ai-demos-looked-more-real-after-250m-false-ad-settlement/",
-      "publishedAt": "2026-06-08T22:39:57.000Z"
-    },
-    {
       "id": "4k9gkz",
       "title": "OpenAI Confidentially Files for IPO on the Heels of SpaceX and Anthropic",
       "summary": "The ChatGPT-maker announced it has filed paperwork to go public, just a week after rival Anthropic took the same step.",
@@ -408,30 +435,12 @@
       "publishedAt": "2026-06-05T12:10:00.000Z"
     },
     {
-      "id": "ph9rl1",
-      "title": "OpenAI and Anthropic May Be Rivals, but Investors Aren’t Picking Sides",
-      "summary": "“Why wouldn’t you want to be in both Pepsi and Coke?” says one venture capitalist. “It’s the same here.”",
-      "imageUrl": "https://media.wired.com/photos/6a1f7877452f8f7907d948a3/master/pass/Nearly-Half-of-Investors-Have-Stakes-in-Both-OpenAI-and-Anthropic-Business.jpg",
-      "source": "Wired",
-      "sourceUrl": "https://www.wired.com/story/openai-and-anthropic-may-be-rivals-but-their-investors-arent-choosing-sides/",
-      "publishedAt": "2026-06-05T10:30:00.000Z"
-    },
-    {
       "id": "yl5fn8",
       "title": "Are AI chatbots making us lose control of our brains?",
       "summary": "This week I’ve been at SXSW London. There’s been music, film, and a lot—and I mean a lot—of talk about AI. I also had the opportunity to sit down with Gloria Mark, a psychologist at the University of California, Irvine, who has spent the last 30 years studying how people interact with digital technologies. Early…",
       "imageUrl": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=800&q=80",
       "source": "MIT Tech Review",
       "sourceUrl": "https://www.technologyreview.com/2026/06/05/1138427/are-ai-chatbots-making-us-lose-control-of-our-brains/",
-      "publishedAt": "2026-06-05T09:00:00.000Z"
-    },
-    {
-      "id": "fidxji",
-      "title": "The Meta hack shows there’s more to AI security than Mythos",
-      "summary": "On June 5, 404 Media reported that attackers had been using Meta’s AI customer support agent to steal Instagram accounts. Their approach was simple: They asked the agent to link the accounts to email addresses that they controlled, and the agent complied. One attacker broke into the dormant Obama White House account and made pro-Iran…",
-      "imageUrl": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=800&q=80",
-      "source": "MIT Tech Review",
-      "sourceUrl": "https://www.technologyreview.com/2026/06/05/1138437/the-meta-hack-shows-theres-more-to-ai-security-than-mythos/",
       "publishedAt": "2026-06-05T09:00:00.000Z"
     },
     {
@@ -442,15 +451,6 @@
       "source": "Ars Technica",
       "sourceUrl": "https://arstechnica.com/security/2026/06/dashlane-explains-how-attackers-managed-to-download-encrypted-password-vaults/",
       "publishedAt": "2026-06-04T20:02:04.000Z"
-    },
-    {
-      "id": "ko80ty",
-      "title": "The Download: AI-generated lawsuits and virtual power plants for data centers",
-      "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. How courts are coping with a flood of AI-generated lawsuits Most days in her chambers, Judge Maritza Braswell, a federal magistrate judge in Colorado, sifts through stacks of documents written by…",
-      "imageUrl": "https://images.unsplash.com/photo-1531746790095-6c10a4031c5f?w=800&q=80",
-      "source": "MIT Tech Review",
-      "sourceUrl": "https://www.technologyreview.com/2026/06/04/1138408/the-download-ai-lawsuits-virtual-power-plants-data-centers/",
-      "publishedAt": "2026-06-04T12:10:00.000Z"
     },
     {
       "id": "vnpg4i",
