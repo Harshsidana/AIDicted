@@ -1,7 +1,52 @@
 {
-  "fetchedAt": "2026-06-09T20:30:15.077Z",
+  "fetchedAt": "2026-06-09T23:53:34.541Z",
   "count": 60,
   "articles": [
+    {
+      "id": "ccs36s",
+      "title": "How Justin Ernest invested nearly $400M into hot startups without a traditional VC fund",
+      "summary": "Instead of spending a year raising a formal venture fund, the Sabertooth VC founder used a captive network of LPs to invest startups like Anthropic, Anduril, and SpaceX.",
+      "imageUrl": "https://images.unsplash.com/photo-1620712943543-bcc4688e7485?w=800&q=80",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/06/09/how-justin-ernest-invested-nearly-400m-into-hot-startups-without-a-traditional-vc-fund/",
+      "publishedAt": "2026-06-09T23:17:51.000Z"
+    },
+    {
+      "id": "sw2ey5",
+      "title": "GM thinks EVs can help offset AI’s energy suck with vehicle-to-grid tech",
+      "summary": "At an event in San Francisco today, General Motors made a series of announcements around EV batteries, energy storage, and grid resiliency in the face of growing electricity demand from AI data centers. The automaker announced that it would be activating new vehicle-to-grid capabilities for its current EV and home energy customers. It's releasing a new commercial energy storage system strategy, anchored by newly developed sodium-ion batteries for industrial-scale grid applications. And it's…",
+      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/GM-Energy-home-energy-system-2.png?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "source": "The Verge",
+      "sourceUrl": "https://www.theverge.com/transportation/946820/gm-energy-ev-v2g-storage-sodium-ion",
+      "publishedAt": "2026-06-09T21:00:00.000Z"
+    },
+    {
+      "id": "dzirgs",
+      "title": "Locked in heated rivalry with researcher, Microsoft fixes 0-day they disclosed",
+      "summary": "A separate zero-day also disclosed by Nightmare Eclipse appears to be patched as well.",
+      "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2023/09/code-vulnerability-security-1000x648.jpg",
+      "source": "Ars Technica",
+      "sourceUrl": "https://arstechnica.com/security/2026/06/locked-in-heated-rivalry-with-researcher-microsoft-fixes-0-day-they-disclosed/",
+      "publishedAt": "2026-06-09T20:56:52.000Z"
+    },
+    {
+      "id": "l5vqxk",
+      "title": "Hey, Siri, here’s what I actually want from AI",
+      "summary": "I'm desperate for a personal AI assistant, but do I really want to become the kind of person who can't function without the friendly robot voice in my phone?",
+      "imageUrl": "https://images.unsplash.com/photo-1531746790095-6c10a4031c5f?w=800&q=80",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/06/09/hey-siri-heres-what-i-actually-want-from-ai/",
+      "publishedAt": "2026-06-09T20:50:17.000Z"
+    },
+    {
+      "id": "xewi8c",
+      "title": "Anthropic’s Fable 5 can make weirdly fun video games with the click of a button",
+      "summary": "Anthropic's Claude Fable 5 is going to be a big hit with the web's vibe coders.",
+      "imageUrl": "https://images.unsplash.com/photo-1485827404703-89b55fcc595e?w=800&q=80",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/06/09/anthropics-fable-5-can-make-weirdly-fun-video-games-with-the-click-of-a-button/",
+      "publishedAt": "2026-06-09T20:37:49.000Z"
+    },
     {
       "id": "n8ovid",
       "title": "Microsoft AI head calls out Anthropic for acting like Claude is conscious",
@@ -39,12 +84,12 @@
       "publishedAt": "2026-06-09T17:00:46.000Z"
     },
     {
-      "id": "pmc5hd",
+      "id": "8esrt1",
       "title": "Anthropic’s Claude Fable 5 is a version of Mythos the public can access today",
       "summary": "Anthropic is releasing Claude Fable 5, its first Mythos-class model available to the public. The model comes with guardrails that block responses in high-risk areas like cybersecurity and biology.",
       "imageUrl": "https://images.unsplash.com/photo-1635070041078-e363dbe005cb?w=800&q=80",
       "source": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/06/09/anthropic-released-claude-fable-5-its-most-powerful-model-publicly-days-after-warning-ai-is-getting-too-dangerous/",
+      "sourceUrl": "https://techcrunch.com/2026/06/09/anthropics-claude-fable-5-is-a-version-of-mythos-the-public-can-access-today/",
       "publishedAt": "2026-06-09T17:00:00.000Z"
     },
     {
@@ -246,15 +291,6 @@
       "publishedAt": "2026-06-08T22:14:17.000Z"
     },
     {
-      "id": "ogmsy4",
-      "title": "OpenAI files for IPO, following Anthropic",
-      "summary": "OpenAI on Monday checked off a preliminary step in the IPO race that it and rival Anthropic have been competing in for the better part of a year: The company announced it has confidentially submitted a Form S-1 with the US Securities and Exchange Commission, following Anthropic's decision to do the same on June 1st. The confidential filing means that certain details normally available through the form - such as executive compensation figures, potential risks to a company's business, and more…",
-      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/04/STK155_OPEN_AI_CVirginia_C.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "source": "The Verge",
-      "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/946335/openai-ipo-s-1-confidential",
-      "publishedAt": "2026-06-08T21:38:29.000Z"
-    },
-    {
       "id": "4k9gkz",
       "title": "OpenAI Confidentially Files for IPO on the Heels of SpaceX and Anthropic",
       "summary": "The ChatGPT-maker announced it has filed paperwork to go public, just a week after rival Anthropic took the same step.",
@@ -271,33 +307,6 @@
       "source": "TechCrunch",
       "sourceUrl": "https://techcrunch.com/2026/06/08/following-anthropic-openai-files-confidentially-for-ipo/",
       "publishedAt": "2026-06-08T21:29:57.000Z"
-    },
-    {
-      "id": "tuzkwk",
-      "title": "Apple plays catch-up at WWDC",
-      "summary": "Apple spent much of its WWDC keynote highlighting fixes, performance improvements, and long-requested features before unveiling its upgraded AI-powered Siri, signaling that the company wants users to see AI as just one part of a broader effort to improve its software.",
-      "imageUrl": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=800&q=80",
-      "source": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/06/08/apple-plays-catch-up-at-wwdc/",
-      "publishedAt": "2026-06-08T21:15:42.000Z"
-    },
-    {
-      "id": "wfxoax",
-      "title": "Apple bets cheaper AI will woo small developers",
-      "summary": "As AI experimentation grows more expensive, Apple is waiving cloud API costs for developers with fewer than 2 million first-time App Store downloads.",
-      "imageUrl": "https://images.unsplash.com/photo-1655720828018-edd2daec9349?w=800&q=80",
-      "source": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/06/08/apple-bets-cheaper-ai-will-woo-small-developers/",
-      "publishedAt": "2026-06-08T20:53:55.000Z"
-    },
-    {
-      "id": "y26ha7",
-      "title": "Apple just taught your iPhone to finish your sentences, your photos, and your workflows",
-      "summary": "Apple is adding new AI-powered features to Safari, Shortcuts, and Password apps.",
-      "imageUrl": "https://images.unsplash.com/photo-1635070041078-e363dbe005cb?w=800&q=80",
-      "source": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/06/08/apple-just-taught-your-iphone-to-finish-your-sentences-your-photos-and-your-workflows/",
-      "publishedAt": "2026-06-08T18:48:45.000Z"
     },
     {
       "id": "hwuhc3",
@@ -532,15 +541,6 @@
       "source": "Ars Technica",
       "sourceUrl": "https://arstechnica.com/gadgets/2026/05/us-government-takes-2-billion-equity-stake-in-nine-quantum-computing-firms/",
       "publishedAt": "2026-05-21T13:48:38.000Z"
-    },
-    {
-      "id": "svl9jd",
-      "title": "Google publishes exploit code threatening millions of Chromium users",
-      "summary": "Google publishes exploit code before patch, reported 42 months earlier, is fixed.",
-      "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2025/01/chromium_logo.jpeg",
-      "source": "Ars Technica",
-      "sourceUrl": "https://arstechnica.com/security/2026/05/google-publishes-exploit-code-threatening-millions-of-chromium-users/",
-      "publishedAt": "2026-05-20T19:10:36.000Z"
     }
   ]
 }
