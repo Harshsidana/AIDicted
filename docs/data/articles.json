@@ -1,14 +1,32 @@
 {
-  "fetchedAt": "2026-06-09T23:53:34.541Z",
+  "fetchedAt": "2026-06-10T04:25:26.354Z",
   "count": 60,
   "articles": [
     {
-      "id": "ccs36s",
-      "title": "How Justin Ernest invested nearly $400M into hot startups without a traditional VC fund",
-      "summary": "Instead of spending a year raising a formal venture fund, the Sabertooth VC founder used a captive network of LPs to invest startups like Anthropic, Anduril, and SpaceX.",
+      "id": "5glhg8",
+      "title": "Google just fired a warning shot in the AI subscription price wars",
+      "summary": "Google just made it significantly cheaper to enjoy its budget AI subscription tier.",
       "imageUrl": "https://images.unsplash.com/photo-1620712943543-bcc4688e7485?w=800&q=80",
       "source": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/06/09/how-justin-ernest-invested-nearly-400m-into-hot-startups-without-a-traditional-vc-fund/",
+      "sourceUrl": "https://techcrunch.com/2026/06/09/google-just-fired-a-warning-shot-in-the-ai-subscription-price-wars/",
+      "publishedAt": "2026-06-10T00:26:10.000Z"
+    },
+    {
+      "id": "pwvvba",
+      "title": "I tried Siri AI, and so far it actually works",
+      "summary": "Siri, are you there? Parents want one thing, and one thing only, out of AI: to add a list of soccer games or \"spirit week\" theme days from an email or a poorly formatted flyer onto their calendar in one shot. And I have good news for parents with iPhones - the new Siri can finally do this. After stumbling through its first launch of an AI-imbued Siri, Apple is trying again. The newly upgraded Siri AI can chat with you about what might be killing the roses in your yard, put together a shopping…",
+      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/DSC03775_processed.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "source": "The Verge",
+      "sourceUrl": "https://www.theverge.com/tech/947432/siri-ai-apple-intelligence-ios-27-wwdc",
+      "publishedAt": "2026-06-09T23:43:00.000Z"
+    },
+    {
+      "id": "f4mtwa",
+      "title": "How Justin Ernest invested nearly $500M into hot startups without a traditional VC fund",
+      "summary": "Instead of spending a year raising a formal venture fund, the Sabertooth VC founder used a captive network of LPs to invest in startups like Anthropic, Anduril, and SpaceX.",
+      "imageUrl": "https://images.unsplash.com/photo-1526374965328-7f61d4dc18c5?w=800&q=80",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/06/09/how-justin-ernest-invested-nearly-500m-into-hot-startups-without-a-traditional-vc-fund/",
       "publishedAt": "2026-06-09T23:17:51.000Z"
     },
     {
@@ -282,15 +300,6 @@
       "publishedAt": "2026-06-08T22:39:57.000Z"
     },
     {
-      "id": "mco1ay",
-      "title": "Apple is using AI to fix Safari’s extension problem",
-      "summary": "Apple is trying to solve one of Safari's biggest weaknesses with AI. Safari has long lacked the robust library of extensions that its rivals have, mainly due to the stringent development requirements from Apple. But now, Apple is inviting users to essentially vibe-code their own extensions. In a demo shared by Apple, the company showed how you can ask Safari to create an extension by describing it. \"Save and track cooking recipes from around the web,\" the prompt said. \"Click the toolbar button…",
-      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/describe-extension-safari.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "source": "The Verge",
-      "sourceUrl": "https://www.theverge.com/tech/946345/apple-safari-ai-update-extensions",
-      "publishedAt": "2026-06-08T22:14:17.000Z"
-    },
-    {
       "id": "4k9gkz",
       "title": "OpenAI Confidentially Files for IPO on the Heels of SpaceX and Anthropic",
       "summary": "The ChatGPT-maker announced it has filed paperwork to go public, just a week after rival Anthropic took the same step.",
@@ -298,15 +307,6 @@
       "source": "Wired",
       "sourceUrl": "https://www.wired.com/story/openai-confidentially-files-for-ipo/",
       "publishedAt": "2026-06-08T21:31:58.000Z"
-    },
-    {
-      "id": "ps6azo",
-      "title": "OpenAI files confidentially for IPO, following Anthropic",
-      "summary": "The filing comes a little more than a week after its main rival, Anthropic, also filed to go public, ramping up the race between the two AI firms.",
-      "imageUrl": "https://images.unsplash.com/photo-1526374965328-7f61d4dc18c5?w=800&q=80",
-      "source": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/06/08/following-anthropic-openai-files-confidentially-for-ipo/",
-      "publishedAt": "2026-06-08T21:29:57.000Z"
     },
     {
       "id": "hwuhc3",
