@@ -1,7 +1,25 @@
 {
-  "fetchedAt": "2026-06-11T19:59:14.167Z",
+  "fetchedAt": "2026-06-11T22:09:27.759Z",
   "count": 60,
   "articles": [
+    {
+      "id": "v11d16",
+      "title": "Meet the OpenAI Engineer Leading ChatGPT's Biggest Transformation Yet",
+      "summary": "Thibault Sottiaux helped make AI coding one of OpenAI’s fastest-growing businesses. Now he’s overseeing a sweeping overhaul of ChatGPT.",
+      "imageUrl": "https://media.wired.com/photos/6a29dcf7d0be49584df640a0/master/pass/Model-Behavior-OpenAI-Codex-Lead-Tibo-Sottiaux-Business.jpg",
+      "source": "Wired",
+      "sourceUrl": "https://www.wired.com/story/model-behavior-interview-with-openai-codex-lead-tibo-sottiaux/",
+      "publishedAt": "2026-06-11T21:21:04.000Z"
+    },
+    {
+      "id": "fbclzy",
+      "title": "SpaceX officially prices shares at $135 in the largest IPO ever",
+      "summary": "Wits its official share pricing announcement, SpaceX's IPO has begun.",
+      "imageUrl": "https://images.unsplash.com/photo-1635070041078-e363dbe005cb?w=800&q=80",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/06/11/spacex-officially-prices-shares-at-135-in-the-largest-ipo-ever/",
+      "publishedAt": "2026-06-11T20:33:10.000Z"
+    },
     {
       "id": "dba0tm",
       "title": "SpaceX SPV investors won’t know their true holdings until post-IPO lock-ups lift",
@@ -291,15 +309,6 @@
       "publishedAt": "2026-06-10T13:39:32.000Z"
     },
     {
-      "id": "fuf7by",
-      "title": "Jedify raises $24M to help companies arm AI agents with context on their business",
-      "summary": "The funding round was led by Norwest, with participation from S Capital VC, Cerca Partners, and Oceans Ventures. Snowflake Ventures also participated as a strategic investor.",
-      "imageUrl": "https://images.unsplash.com/photo-1526374965328-7f61d4dc18c5?w=800&q=80",
-      "source": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/06/10/jedify-raises-24m-to-help-companies-arm-ai-agents-with-context-on-their-business/",
-      "publishedAt": "2026-06-10T13:33:09.000Z"
-    },
-    {
       "id": "hb284v",
       "title": "The Download: the “steroid olympics” and a safer Mythos",
       "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. The “steroid olympics” were a circus—and a window into our culture —Amit Katwala A couple of weeks ago, at a $50 million arena built in a casino parking lot in Las…",
@@ -424,15 +433,6 @@
       "source": "Wired",
       "sourceUrl": "https://www.wired.com/story/apples-new-siri-ai-is-ready-to-get-personal/",
       "publishedAt": "2026-06-08T18:17:44.000Z"
-    },
-    {
-      "id": "c31ktg",
-      "title": "The UK Is Betting on a Billion-Dollar AI Supercomputer to Kick Its Addiction to US Tech",
-      "summary": "The British government thinks a state-backed infrastructure initiative will help supercharge homegrown chip startups.",
-      "imageUrl": "https://media.wired.com/photos/6a26d742255fdba4ebd668f3/master/pass/GettyImages-2267728396.jpg",
-      "source": "Wired",
-      "sourceUrl": "https://www.wired.com/story/uk-supercomputer-investment-ai-homegrown-semiconductor/",
-      "publishedAt": "2026-06-08T17:44:28.000Z"
     },
     {
       "id": "9el4r7",
