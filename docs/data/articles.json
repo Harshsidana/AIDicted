@@ -1,7 +1,34 @@
 {
-  "fetchedAt": "2026-06-11T17:07:00.662Z",
+  "fetchedAt": "2026-06-11T19:59:14.167Z",
   "count": 60,
   "articles": [
+    {
+      "id": "dba0tm",
+      "title": "SpaceX SPV investors won’t know their true holdings until post-IPO lock-ups lift",
+      "summary": "After SpaceX makes its public debut, lower-tier SPV investors face hidden fees, lengthy payout delays, and the risk of outright fraud.",
+      "imageUrl": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=800&q=80",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/06/11/spacex-spv-investors-wont-know-their-true-holdings-until-post-ipo-lock-ups-lift/",
+      "publishedAt": "2026-06-11T19:58:01.000Z"
+    },
+    {
+      "id": "q4jlb4",
+      "title": "Grok Is Still Hosting Sexualized Deepfakes of Famous Women",
+      "summary": "A WIRED investigation found dozens of “nudified” deepfake images and videos on Grok's website, including nonconsensual depictions of celebrities and at least one prominent US politician.",
+      "imageUrl": "https://media.wired.com/photos/6a2ae8ee8b0f92b3d6867ab3/master/pass/grok-explicit-videos.jpg",
+      "source": "Wired",
+      "sourceUrl": "https://www.wired.com/story/grok-is-still-hosting-sexualized-deepfakes-of-famous-women/",
+      "publishedAt": "2026-06-11T19:41:01.000Z"
+    },
+    {
+      "id": "jb1rxp",
+      "title": "Amazon’s data centers used 2.5 billion gallons of water last year",
+      "summary": "Just after Seattle enacted a one-year data center moratorium that some of Amazon's own employees pushed for, Amazon shared how much water its data centers use, reportedly for the first time. With concerns about water consumption and energy use a focus of new AI data center construction debates, Amazon says its global data center operations consumed 2.5 billion gallons of water in 2025 at a rate of 0.12 liters per kilowatt-hour of electricity, dropping by two percent from its 2024 total even as…",
+      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/STKS528_DATA_CENTERS2_C.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "source": "The Verge",
+      "sourceUrl": "https://www.theverge.com/tech/948534/amazon-data-centers-water-use",
+      "publishedAt": "2026-06-11T17:26:57.000Z"
+    },
     {
       "id": "2431p9",
       "title": "Deezer’s new tool can identify AI music from Spotify, Apple Music, and others",
@@ -273,15 +300,6 @@
       "publishedAt": "2026-06-10T13:33:09.000Z"
     },
     {
-      "id": "tj3yui",
-      "title": "Decart’s new world model can simulate hours of photorealistic driving — with some caveats",
-      "summary": "Decart is launching Oasis 3, a real-time world model that generates photorealistic driving environments for autonomous vehicle testing, now available via API for developers to build on.",
-      "imageUrl": "https://images.unsplash.com/photo-1635070041078-e363dbe005cb?w=800&q=80",
-      "source": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/06/10/decarts-new-world-model-can-simulate-hours-of-photorealistic-driving-with-some-caveats/",
-      "publishedAt": "2026-06-10T13:07:56.000Z"
-    },
-    {
       "id": "hb284v",
       "title": "The Download: the “steroid olympics” and a safer Mythos",
       "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. The “steroid olympics” were a circus—and a window into our culture —Amit Katwala A couple of weeks ago, at a $50 million arena built in a casino parking lot in Las…",
@@ -316,15 +334,6 @@
       "source": "The Verge",
       "sourceUrl": "https://www.theverge.com/tech/947432/siri-ai-apple-intelligence-ios-27-wwdc",
       "publishedAt": "2026-06-09T23:43:00.000Z"
-    },
-    {
-      "id": "sw2ey5",
-      "title": "GM thinks EVs can help offset AI’s energy suck with vehicle-to-grid tech",
-      "summary": "At an event in San Francisco today, General Motors made a series of announcements around EV batteries, energy storage, and grid resiliency in the face of growing electricity demand from AI data centers. The automaker announced that it would be activating new vehicle-to-grid capabilities for its current EV and home energy customers. It's releasing a new commercial energy storage system strategy, anchored by newly developed sodium-ion batteries for industrial-scale grid applications. And it's…",
-      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/GM-Energy-home-energy-system-2.png?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "source": "The Verge",
-      "sourceUrl": "https://www.theverge.com/transportation/946820/gm-energy-ev-v2g-storage-sodium-ion",
-      "publishedAt": "2026-06-09T21:00:00.000Z"
     },
     {
       "id": "dzirgs",
@@ -424,15 +433,6 @@
       "source": "Wired",
       "sourceUrl": "https://www.wired.com/story/uk-supercomputer-investment-ai-homegrown-semiconductor/",
       "publishedAt": "2026-06-08T17:44:28.000Z"
-    },
-    {
-      "id": "pmv4jx",
-      "title": "Meta Deletes Face-Recognition System From Its Smart Glasses App After WIRED Report",
-      "summary": "The code WIRED identified is gone from the latest version of Meta AI, the companion app for the company’s smart glasses. Meta won’t say why or whether it’s coming back.",
-      "imageUrl": "https://media.wired.com/photos/6a26baa814f2ec6e95bd841b/master/pass/GettyImages-2235451108.jpg",
-      "source": "Wired",
-      "sourceUrl": "https://www.wired.com/story/meta-removes-face-recognition-code-meta-ai-app-smart-glasses/",
-      "publishedAt": "2026-06-08T17:31:11.000Z"
     },
     {
       "id": "9el4r7",
