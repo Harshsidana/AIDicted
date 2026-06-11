@@ -1,7 +1,34 @@
 {
-  "fetchedAt": "2026-06-11T13:02:56.912Z",
+  "fetchedAt": "2026-06-11T17:07:00.662Z",
   "count": 60,
   "articles": [
+    {
+      "id": "2431p9",
+      "title": "Deezer’s new tool can identify AI music from Spotify, Apple Music, and others",
+      "summary": "Deezer introduced a tool that scans playlists from Spotify, Apple Music, and other platforms to identify AI music.",
+      "imageUrl": "https://images.unsplash.com/photo-1550751827-4bd374c3f58b?w=800&q=80",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/06/11/deezers-new-tool-can-identify-ai-music-from-spotify-apple-music-and-others/",
+      "publishedAt": "2026-06-11T16:36:20.000Z"
+    },
+    {
+      "id": "7of51n",
+      "title": "Pool’s new app turns your screenshots into something useful",
+      "summary": "Pool's new app automatically sorts screenshots into personalized collections, tracks down the original links behind saved content, and helps you rediscover products, recipes, travel ideas, and other things you meant to revisit.",
+      "imageUrl": "https://images.unsplash.com/photo-1485827404703-89b55fcc595e?w=800&q=80",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/06/11/pools-new-app-turns-your-screenshots-into-a-searchable-memory-bank/",
+      "publishedAt": "2026-06-11T15:30:00.000Z"
+    },
+    {
+      "id": "497dsv",
+      "title": "DoorDash’s new AI chatbot lets you order with prompts and photos",
+      "summary": "The new chatbot, called Ask DoorDash, allows users to search the app for what they're looking for in their own words instead of having to scroll through restaurants and stores to build a cart.",
+      "imageUrl": "https://images.unsplash.com/photo-1620712943543-bcc4688e7485?w=800&q=80",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/06/11/doordashs-new-ai-chatbot-lets-you-order-with-prompts-and-photos/",
+      "publishedAt": "2026-06-11T14:23:43.000Z"
+    },
     {
       "id": "ch84wc",
       "title": "The Download: soccer’s data renaissance and China’s big nuclear plans",
@@ -77,7 +104,7 @@
     {
       "id": "6lkht9",
       "title": "Anthropic’s Dario Amodei has just one direct report",
-      "summary": "If you doubted his genius, doubt no more.",
+      "summary": "If founders and other business leaders weren't already envious of Dario Amodei, who sits atop one of the world's fastest-growing AI companies, they're going to be seriously envious now.",
       "imageUrl": "https://images.unsplash.com/photo-1531746790095-6c10a4031c5f?w=800&q=80",
       "source": "TechCrunch",
       "sourceUrl": "https://techcrunch.com/2026/06/10/anthropics-dario-amodei-has-just-one-direct-report/",
@@ -87,7 +114,7 @@
       "id": "uuq9ql",
       "title": "Anthropic Walks Back Policy That Could Have ‘Sabotaged’ AI Researchers Using Claude",
       "summary": "The company changed course after researchers spoke out against the policy, which would have covertly limited Claude’s ability to develop competing AI models.",
-      "imageUrl": "https://media.wired.com/photos/6a2a20f0915182808732c01f/master/pass/2280239203",
+      "imageUrl": "https://media.wired.com/photos/6a2a474b0ce2fad63750beac/master/pass/Anthropic-Responds-to-Backlash-Business-2276530995.jpg",
       "source": "Wired",
       "sourceUrl": "https://www.wired.com/story/anthropic-responds-to-backlash-on-claudes-secret-sabotage-on-ai-research/",
       "publishedAt": "2026-06-11T03:11:22.000Z"
@@ -282,24 +309,6 @@
       "publishedAt": "2026-06-10T09:00:00.000Z"
     },
     {
-      "id": "ey7arl",
-      "title": "Meta signs first AI data center deal in India with Reliance",
-      "summary": "The 168-megawatt facility will support Meta's global AI computing needs and can be expanded over time.",
-      "imageUrl": "https://images.unsplash.com/photo-1531746790095-6c10a4031c5f?w=800&q=80",
-      "source": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/06/10/meta-signs-first-ai-data-center-deal-in-india-with-reliance/",
-      "publishedAt": "2026-06-10T07:05:26.000Z"
-    },
-    {
-      "id": "5glhg8",
-      "title": "Google just fired a warning shot in the AI subscription price wars",
-      "summary": "Google just made it significantly cheaper to enjoy its budget AI subscription tier.",
-      "imageUrl": "https://images.unsplash.com/photo-1620712943543-bcc4688e7485?w=800&q=80",
-      "source": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/06/09/google-just-fired-a-warning-shot-in-the-ai-subscription-price-wars/",
-      "publishedAt": "2026-06-10T00:26:10.000Z"
-    },
-    {
       "id": "pwvvba",
       "title": "I tried Siri AI, and so far it actually works",
       "summary": "Siri, are you there? Parents want one thing, and one thing only, out of AI: to add a list of soccer games or \"spirit week\" theme days from an email or a poorly formatted flyer onto their calendar in one shot. And I have good news for parents with iPhones - the new Siri can finally do this. After stumbling through its first launch of an AI-imbued Siri, Apple is trying again. The newly upgraded Siri AI can chat with you about what might be killing the roses in your yard, put together a shopping…",
@@ -307,15 +316,6 @@
       "source": "The Verge",
       "sourceUrl": "https://www.theverge.com/tech/947432/siri-ai-apple-intelligence-ios-27-wwdc",
       "publishedAt": "2026-06-09T23:43:00.000Z"
-    },
-    {
-      "id": "f4mtwa",
-      "title": "How Justin Ernest invested nearly $500M into hot startups without a traditional VC fund",
-      "summary": "Instead of spending a year raising a formal venture fund, the Sabertooth VC founder used a captive network of LPs to invest in startups like Anthropic, Anduril, and SpaceX.",
-      "imageUrl": "https://images.unsplash.com/photo-1526374965328-7f61d4dc18c5?w=800&q=80",
-      "source": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/06/09/how-justin-ernest-invested-nearly-500m-into-hot-startups-without-a-traditional-vc-fund/",
-      "publishedAt": "2026-06-09T23:17:51.000Z"
     },
     {
       "id": "sw2ey5",
