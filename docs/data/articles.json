@@ -1,7 +1,70 @@
 {
-  "fetchedAt": "2026-06-12T05:17:07.049Z",
+  "fetchedAt": "2026-06-12T13:33:39.654Z",
   "count": 60,
   "articles": [
+    {
+      "id": "jnxj28",
+      "title": "The Download: “reprogramming” aging, and the hidden sense of interoception",
+      "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. Why “reprogramming” is the buzziest approach to reversing aging right now Earlier this week, Life Biosciences, a biotech company focused on reversing age-related diseases, announced that it had dosed its first…",
+      "imageUrl": "https://images.unsplash.com/photo-1635070041078-e363dbe005cb?w=800&q=80",
+      "source": "MIT Tech Review",
+      "sourceUrl": "https://www.technologyreview.com/2026/06/12/1138899/the-download-reprogramming-reverse-aging-interoception/",
+      "publishedAt": "2026-06-12T12:10:00.000Z"
+    },
+    {
+      "id": "m6vgiy",
+      "title": "You do your own time",
+      "summary": "There we were, a regular murderers’ row of librarians. Little Jo. Eustace. And me. Turning around in the nave of our library to greet the sound of footsteps, pistols leveled in case whoever was coming in didn’t respect sanctuary. Little Jo had a stack of books under one arm. Eustace was holding the screwdriver she’d…",
+      "imageUrl": "https://images.unsplash.com/photo-1635070041078-e363dbe005cb?w=800&q=80",
+      "source": "MIT Tech Review",
+      "sourceUrl": "https://www.technologyreview.com/2026/06/12/1138518/you-do-your-own-time-fiction/",
+      "publishedAt": "2026-06-12T10:00:00.000Z"
+    },
+    {
+      "id": "nyk35l",
+      "title": "You Probably Won’t Get Rich Off the SpaceX IPO",
+      "summary": "The company has set aside an unusually high number of shares for retail investors. Still, experts say, you’re just getting the crumbs.",
+      "imageUrl": "https://media.wired.com/photos/6a2b26d63472ef5ff1e6a164/master/pass/Probably-Wont-Get-Rich-SpaceX-IPO-Business-AP-26156715402871.jpg",
+      "source": "Wired",
+      "sourceUrl": "https://www.wired.com/story/you-probably-wont-get-rich-off-the-spacex-ipo/",
+      "publishedAt": "2026-06-12T09:30:00.000Z"
+    },
+    {
+      "id": "gb1kf7",
+      "title": "Why “reprogramming” is the buzziest approach to reversing aging right now",
+      "summary": "Earlier this week, Life Biosciences, a biotech company focused on reversing age-related diseases, announced that it had dosed its first volunteer. A person with glaucoma has had an experimental treatment injected straight into their eyeball. The idea is to try to treat the disease—which can cause vision loss—by regenerating healthy nerves in the eye. But…",
+      "imageUrl": "https://images.unsplash.com/photo-1526374965328-7f61d4dc18c5?w=800&q=80",
+      "source": "MIT Tech Review",
+      "sourceUrl": "https://www.technologyreview.com/2026/06/12/1138829/reprogramming-buzziest-approach-reversing-aging-right-now/",
+      "publishedAt": "2026-06-12T09:00:00.000Z"
+    },
+    {
+      "id": "wpfn89",
+      "title": "Inside interoception: The hidden sense of how you feel inside",
+      "summary": "MIT Technology Review Explains: Let our writers untangle the complex, messy world of science and technology to help you understand what’s coming next. You can read more from the series here. Your brain lives in the dark space of your skull. Yet it knows when the wind lifts the hairs on your skin, when your heart is…",
+      "imageUrl": "https://images.unsplash.com/photo-1526374965328-7f61d4dc18c5?w=800&q=80",
+      "source": "MIT Tech Review",
+      "sourceUrl": "https://www.technologyreview.com/2026/06/12/1138833/inside-interoception-brain-body/",
+      "publishedAt": "2026-06-12T09:00:00.000Z"
+    },
+    {
+      "id": "mb6hmy",
+      "title": "Siri won’t be your AI girlfriend",
+      "summary": "‘Listen, that's not what I'm here for.' | Image: Apple Our early testing has already shown that Siri AI knows when to shut up, and that's very much by design. In an interview with Mostly Human spotted by MacRumors, Craig Federighi said Apple's new Siri won't act all sycophantic like chatbots made by OpenAI, Google, and others. \"As you may know, if you use many of the existing chatbots, they're really focused on engagement to a large degree,\" said Federighi, who is responsible for software at…",
+      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/siri-ai.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "source": "The Verge",
+      "sourceUrl": "https://www.theverge.com/tech/948890/siri-wont-be-your-ai-girlfriend",
+      "publishedAt": "2026-06-12T07:00:31.000Z"
+    },
+    {
+      "id": "7txixk",
+      "title": "Cheaper, faster, and culturally aware, Avataar’s video AI is built for India’s scale",
+      "summary": "Avataar AI's distilled video model is priced at $0.005 for every second of generation",
+      "imageUrl": "https://images.unsplash.com/photo-1676299081847-824916de030a?w=800&q=80",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/06/11/cheaper-faster-and-culturally-aware-avataars-video-ai-is-built-for-indias-scale/",
+      "publishedAt": "2026-06-12T04:30:00.000Z"
+    },
     {
       "id": "t29n9w",
       "title": "Theker just raised $85M to build the factory robot that doesn’t specialize in anything",
@@ -77,7 +140,7 @@
     {
       "id": "jb1rxp",
       "title": "Amazon’s data centers used 2.5 billion gallons of water last year",
-      "summary": "Just after Seattle enacted a one-year data center moratorium that some of Amazon's own employees pushed for, Amazon shared how much water its data centers use, reportedly for the first time. With concerns about water consumption and energy use a focus of new AI data center construction debates, Amazon says its global data center operations consumed 2.5 billion gallons of water in 2025 at a rate of 0.12 liters per kilowatt-hour of electricity, dropping by two percent from its 2024 total even as…",
+      "summary": "Just after Seattle enacted a one-year data center moratorium that some of Amazon's own employees pushed for, Amazon shared how much water its data centers use, reportedly for the first time. With concerns about water consumption and energy use a focus of new AI data center construction debates, Amazon says its global data center operations consumed 2.5 billion gallons of water in 2025 at a rate of 0.12 liters per kilowatt-hour of electricity, dropping by 2 percent from its 2024 total even as it…",
       "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/STKS528_DATA_CENTERS2_C.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
       "source": "The Verge",
       "sourceUrl": "https://www.theverge.com/tech/948534/amazon-data-centers-water-use",
@@ -300,15 +363,6 @@
       "publishedAt": "2026-06-10T15:41:22.000Z"
     },
     {
-      "id": "v4ap7w",
-      "title": "Datadog veterans launch AI coding startup Niteshift on a bet against Big AI lock-in",
-      "summary": "AI coding agent startup Niteshift has raised a $7 million seed round from a who's who of angels. It's betting companies will want power over, not lock-in with model makers.",
-      "imageUrl": "https://images.unsplash.com/photo-1550751827-4bd374c3f58b?w=800&q=80",
-      "source": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/06/10/datadog-veterans-launch-ai-coding-startup-niteshift-on-a-bet-against-big-ai-lock-in/",
-      "publishedAt": "2026-06-10T15:00:00.000Z"
-    },
-    {
       "id": "w14kom",
       "title": "Wrongful Arrest Exposes Failures in One of the Oldest Police Face-Recognition Tools in the US",
       "summary": "The ACLU is suing two Florida police departments over the arrest of a Fort Myers man in a child-abduction case, saying officers treated a flawed face-recognition match as a near-certain ID.",
@@ -345,24 +399,6 @@
       "publishedAt": "2026-06-10T10:00:00.000Z"
     },
     {
-      "id": "ecodf4",
-      "title": "The “steroid olympics” were a circus—and a window into our culture",
-      "summary": "Testosterone. Methenolone. Nandrolone. Human growth hormone and EPO. Meldonium, modafinil, and mixed amphetamine salts. Clomiphene, anastrozole, levothyroxine, and liothyronine. Patches and capsules, creams and pills. A whole galaxy of steroids, metabolic modulators, and synthetic hormones coursing through the blood of a few dozen swimmers, sprinters, and weightlifters. And millions of dollars up for grabs for athletes…",
-      "imageUrl": "https://images.unsplash.com/photo-1620712943543-bcc4688e7485?w=800&q=80",
-      "source": "MIT Tech Review",
-      "sourceUrl": "https://www.technologyreview.com/2026/06/10/1138670/enhanced-games-doping-steroids-hormones-supplements-longevity/",
-      "publishedAt": "2026-06-10T09:00:00.000Z"
-    },
-    {
-      "id": "pwvvba",
-      "title": "I tried Siri AI, and so far it actually works",
-      "summary": "Siri, are you there? Parents want one thing, and one thing only, out of AI: to add a list of soccer games or \"spirit week\" theme days from an email or a poorly formatted flyer onto their calendar in one shot. And I have good news for parents with iPhones - the new Siri can finally do this. After stumbling through its first launch of an AI-imbued Siri, Apple is trying again. The newly upgraded Siri AI can chat with you about what might be killing the roses in your yard, put together a shopping…",
-      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/DSC03775_processed.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "source": "The Verge",
-      "sourceUrl": "https://www.theverge.com/tech/947432/siri-ai-apple-intelligence-ios-27-wwdc",
-      "publishedAt": "2026-06-09T23:43:00.000Z"
-    },
-    {
       "id": "dzirgs",
       "title": "Locked in heated rivalry with researcher, Microsoft fixes 0-day they disclosed",
       "summary": "A separate zero-day also disclosed by Nightmare Eclipse appears to be patched as well.",
@@ -388,42 +424,6 @@
       "source": "Ars Technica",
       "sourceUrl": "https://arstechnica.com/security/2026/06/a-single-errant-character-in-the-linux-kernel-allows-attacker-to-gain-root/",
       "publishedAt": "2026-06-09T15:12:43.000Z"
-    },
-    {
-      "id": "ok606u",
-      "title": "The Download: whole-body rejuvenation drugs and five things to know about AI",
-      "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. David Sinclair plans to test whole-body rejuvenation drugs in the XPrize competition The outspoken longevity scientist David Sinclair has predicted that, one day, you’ll go to the doctor and get a…",
-      "imageUrl": "https://images.unsplash.com/photo-1655720828018-edd2daec9349?w=800&q=80",
-      "source": "MIT Tech Review",
-      "sourceUrl": "https://www.technologyreview.com/2026/06/09/1138604/the-download-anti-aging-drugs-ai-five-things-to-know/",
-      "publishedAt": "2026-06-09T12:10:00.000Z"
-    },
-    {
-      "id": "ssn9hv",
-      "title": "Alex Vindman Survived Trump’s Retaliation Machine. Now He’s Running for Senate",
-      "summary": "In 2019, Alex Vindman testified during President Trump’s first impeachment trial–a decision that ended his military career. Now he wants to challenge the president from the halls of Congress.",
-      "imageUrl": "https://media.wired.com/photos/6a27183be76eea53dfe3d41c/master/pass/Big-Interview-UV-Alex-Vindman.jpg",
-      "source": "Wired",
-      "sourceUrl": "https://www.wired.com/story/the-big-interview-podcast-alex-vindman/",
-      "publishedAt": "2026-06-09T10:30:00.000Z"
-    },
-    {
-      "id": "hvo53k",
-      "title": "Learning to lead in a hybrid human-AI enterprise",
-      "summary": "As adoption of AI agents looks set to surge by as much as 300% in the next two years, leadership teams are carefully considering the implications of a hybrid human-AI workforce. Unlike existing enterprise-level automation that relies on manual input, AI agents are capable of autonomously coordinating complex tasks, interacting with multiple tools and environments across…",
-      "imageUrl": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=800&q=80",
-      "source": "MIT Tech Review",
-      "sourceUrl": "https://www.technologyreview.com/2026/06/09/1137830/learning-to-lead-in-a-hybrid-human-ai-enterprise/",
-      "publishedAt": "2026-06-09T10:20:06.000Z"
-    },
-    {
-      "id": "t2oeba",
-      "title": "David Sinclair plans to test whole-body rejuvenation drugs in the XPrize competition",
-      "summary": "The outspoken longevity scientist David Sinclair has been predicting that one day, you’ll go to the doctor and get a prescription that will make you 10 years younger. Now MIT Technology Review has learned that he has plans to launch human tests of an oral “reprogramming” drug as part of a $101 million competition organized…",
-      "imageUrl": "https://images.unsplash.com/photo-1676299081847-824916de030a?w=800&q=80",
-      "source": "MIT Tech Review",
-      "sourceUrl": "https://www.technologyreview.com/2026/06/09/1138545/david-sinclair-plans-to-test-whole-body-rejuvenation-drugs-in-the-xprize-competition/",
-      "publishedAt": "2026-06-09T10:00:00.000Z"
     },
     {
       "id": "hwuhc3",
