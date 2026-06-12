@@ -1,10 +1,19 @@
 {
-  "fetchedAt": "2026-06-11T22:09:27.759Z",
+  "fetchedAt": "2026-06-12T00:05:31.575Z",
   "count": 60,
   "articles": [
     {
-      "id": "v11d16",
-      "title": "Meet the OpenAI Engineer Leading ChatGPT's Biggest Transformation Yet",
+      "id": "f1jju4",
+      "title": "Why You Might Already Own SpaceX Shares, Siri’s AI Makeover, and Knicks Owner’s Surveillance Machine",
+      "summary": "Today on Uncanny Valley, we take an early look at the SpaceX IPO and why you might find yourself among the investors without even realizing it.",
+      "imageUrl": "https://media.wired.com/photos/6a29de1c2286375b80445272/master/pass/Uncanny-Valley-SpaceX-IPO-Business-2280020800.jpg",
+      "source": "Wired",
+      "sourceUrl": "https://www.wired.com/story/uncanny-valley-podcast-why-you-might-already-own-spacex-shares-siri-ai-makeover-knicks-owner-surveillance-machine/",
+      "publishedAt": "2026-06-11T23:37:49.000Z"
+    },
+    {
+      "id": "hmrz2s",
+      "title": "Meet the OpenAI Engineer Leading ChatGPT’s Biggest Transformation Yet",
       "summary": "Thibault Sottiaux helped make AI coding one of OpenAI’s fastest-growing businesses. Now he’s overseeing a sweeping overhaul of ChatGPT.",
       "imageUrl": "https://media.wired.com/photos/6a29dcf7d0be49584df640a0/master/pass/Model-Behavior-OpenAI-Codex-Lead-Tibo-Sottiaux-Business.jpg",
       "source": "Wired",
@@ -37,15 +46,6 @@
       "source": "Wired",
       "sourceUrl": "https://www.wired.com/story/grok-is-still-hosting-sexualized-deepfakes-of-famous-women/",
       "publishedAt": "2026-06-11T19:41:01.000Z"
-    },
-    {
-      "id": "jb1rxp",
-      "title": "Amazon’s data centers used 2.5 billion gallons of water last year",
-      "summary": "Just after Seattle enacted a one-year data center moratorium that some of Amazon's own employees pushed for, Amazon shared how much water its data centers use, reportedly for the first time. With concerns about water consumption and energy use a focus of new AI data center construction debates, Amazon says its global data center operations consumed 2.5 billion gallons of water in 2025 at a rate of 0.12 liters per kilowatt-hour of electricity, dropping by two percent from its 2024 total even as…",
-      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/STKS528_DATA_CENTERS2_C.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "source": "The Verge",
-      "sourceUrl": "https://www.theverge.com/tech/948534/amazon-data-centers-water-use",
-      "publishedAt": "2026-06-11T17:26:57.000Z"
     },
     {
       "id": "2431p9",
@@ -84,15 +84,6 @@
       "publishedAt": "2026-06-11T12:10:00.000Z"
     },
     {
-      "id": "hcfm1w",
-      "title": "Anthropic apologizes for invisible Claude Fable guardrails",
-      "summary": "Anthropic has apologized for stealthily throttling its new AI model, Claude Fable 5, with hidden guardrails that undermine both researchers and rivals using it to develop competing systems. The company says it is reversing course and will be more transparent about when the restrictions kick in, even if that means Fable refuses more queries. Fable is the first widely available model in Anthropic's Mythos class of AI systems, a group the company has spent months warning are too dangerous for…",
-      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/STKB364_CLAUDE_D.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "source": "The Verge",
-      "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/948280/anthropic-claude-fable-invisible-distillation-guardrail",
-      "publishedAt": "2026-06-11T11:40:43.000Z"
-    },
-    {
       "id": "z26sf9",
       "title": "Google DeepMind is worried about what happens when millions of agents start to interact",
       "summary": "Google DeepMind is funding research into the potential dangers of situations where millions of different AI agents interact with each other online. According to Rohin Shah, who directs the company’s AGI safety and alignment research, the mass-market arrival of agents that can carry out tasks without human oversight and follow instructions given to them by other…",
@@ -127,15 +118,6 @@
       "source": "MIT Tech Review",
       "sourceUrl": "https://www.technologyreview.com/2026/06/11/1138789/china-big-nuclear-reactors/",
       "publishedAt": "2026-06-11T10:00:00.000Z"
-    },
-    {
-      "id": "w7y6h",
-      "title": "Deezer launches an AI music detector for other streaming services",
-      "summary": "Deezer will now scan your playlists on other streaming platforms to detect AI-generated music. Deezer was the first of the big streaming services to start labeling AI-generated music. It even offered its tech to other platforms, but it doesn't seem like it had many buyers. Qobuz launched its own detection tech, while Apple and Spotify have opted for a voluntary tagging system. \"No other company has followed our lead yet, so we decided to make it possible for everyone to check if their playlists…",
-      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/NEW_1200-x-580-pixel-SI-logo-1240x600-1.jpeg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "source": "The Verge",
-      "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/948153/deezer-ai-music-detector-spotify-apple",
-      "publishedAt": "2026-06-11T08:00:00.000Z"
     },
     {
       "id": "349n09",
@@ -181,15 +163,6 @@
       "source": "TechCrunch",
       "sourceUrl": "https://techcrunch.com/2026/06/10/fresh-off-bond-sale-amazon-borrows-17-5-billion-from-banks-as-ai-spending-continues/",
       "publishedAt": "2026-06-10T20:19:31.000Z"
-    },
-    {
-      "id": "55iaiq",
-      "title": "Claude Fable won’t answer basic biology questions",
-      "summary": "Anthropic just released Claude Fable 5, calling it the most powerful AI model it has ever made widely available and praising its skills in biology, among others. But the model won't answer basic biology questions - the kind you'd expect a high schooler to handle. Instead, it hands off the query to the former flagship model, Claude Opus 4.8. It isn't because Fable doesn't know the answers. It's because Anthropic won't let it, by design. Fable is a public-facing, Mythos-class model, a family so…",
-      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/STKB364_CLAUDE_2_A_3800fc.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "source": "The Verge",
-      "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/947973/fable-wont-answer-basic-biology-questions",
-      "publishedAt": "2026-06-10T18:43:34.000Z"
     },
     {
       "id": "n0dr81",
@@ -345,6 +318,15 @@
       "publishedAt": "2026-06-09T23:43:00.000Z"
     },
     {
+      "id": "sw2ey5",
+      "title": "GM thinks EVs can help offset AI’s energy suck with vehicle-to-grid tech",
+      "summary": "At an event in San Francisco today, General Motors made a series of announcements around EV batteries, energy storage, and grid resiliency in the face of growing electricity demand from AI data centers. The automaker announced that it would be activating new vehicle-to-grid capabilities for its current EV and home energy customers. It's releasing a new commercial energy storage system strategy, anchored by newly developed sodium-ion batteries for industrial-scale grid applications. And it's…",
+      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/GM-Energy-home-energy-system-2.png?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "source": "The Verge",
+      "sourceUrl": "https://www.theverge.com/transportation/946820/gm-energy-ev-v2g-storage-sodium-ion",
+      "publishedAt": "2026-06-09T21:00:00.000Z"
+    },
+    {
       "id": "dzirgs",
       "title": "Locked in heated rivalry with researcher, Microsoft fixes 0-day they disclosed",
       "summary": "A separate zero-day also disclosed by Nightmare Eclipse appears to be patched as well.",
@@ -354,6 +336,15 @@
       "publishedAt": "2026-06-09T20:56:52.000Z"
     },
     {
+      "id": "n8ovid",
+      "title": "Microsoft AI head calls out Anthropic for acting like Claude is conscious",
+      "summary": "Microsoft AI CEO Mustafa Suleyman says it's \"really, really dangerous\" for Anthropic to speculate about Claude's consciousness inside its \"constitution,\" or the instructions that tell the model how to behave. During an episode of Decoder, Suleyman argues that this kind of speculation may have set up the chatbot to act as though it's conscious: I think that it's almost as though some of the folks at Anthropic have anthropomorphized the design of Claude so much that it has then gone and wireheaded…",
+      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/gettyimages-2207866106.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "source": "The Verge",
+      "sourceUrl": "https://www.theverge.com/tech/947197/microsoft-ai-mustafa-suleyman-anthropic-claude-conscious",
+      "publishedAt": "2026-06-09T20:24:25.000Z"
+    },
+    {
       "id": "46m2k6",
       "title": "Anthropic Offers Mythos Upgrade for Cyber Partners and a ‘Safe’ Version for the Rest of You",
       "summary": "Anthropic is releasing Claude Mythos 5 to trusted organizations and Claude Fable 5 to the public, a version it says can’t be used for cyberattacks.",
@@ -361,6 +352,24 @@
       "source": "Wired",
       "sourceUrl": "https://www.wired.com/story/anthropic-releases-claude-fable-5-mythos-5/",
       "publishedAt": "2026-06-09T17:00:46.000Z"
+    },
+    {
+      "id": "nr6g38",
+      "title": "Anthropic releases its first Mythos-class model Claude Fable",
+      "summary": "Anthropic just announced Claude Fable 5, a new AI model it said is the most powerful model it has ever made widely available. According to the company, Fable 5 \"shows exceptional performance in software engineering, knowledge work, and vision,\" with its lead over other models growing as tasks become longer and more complex. Fable 5 marks the first broad release from Anthropic's Mythos class of AI models, after the company said the family was so capable at cybersecurity tasks that it was too…",
+      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/05/STKB364_CLAUDE_2_C_96d15c.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "source": "The Verge",
+      "sourceUrl": "https://www.theverge.com/news/946725/anthropic-releases-claude-fable-5-mythos",
+      "publishedAt": "2026-06-09T17:00:00.000Z"
+    },
+    {
+      "id": "ku7d5s",
+      "title": "Apple is embracing the fantasy of AI photo editing",
+      "summary": "Apple’s feature showcase at WWDC 2026 didn’t flag which if these “photographs” are real or created with its new AI fakery. | Images by Apple / compiled by The Verge Apple used to question whether generative AI-powered editing features were worth the risk of distorting our perceptions of the world. Now it seems Apple no longer believes that photos should accurately capture reality. At WWDC 2026, the company announced a host of new AI-powered photo editing tools. They give users effortless powers…",
+      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/Apple-generative-AI-photo-editing-lede.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "source": "The Verge",
+      "sourceUrl": "https://www.theverge.com/tech/946850/apple-ai-photo-editing-tools-ios27-wwdc-2026-deepfakes",
+      "publishedAt": "2026-06-09T16:13:14.000Z"
     },
     {
       "id": "srorqs",
@@ -424,15 +433,6 @@
       "source": "Ars Technica",
       "sourceUrl": "https://arstechnica.com/security/2026/06/for-the-2nd-time-in-weeks-microsoft-packages-laced-with-credential-stealer/",
       "publishedAt": "2026-06-08T18:34:23.000Z"
-    },
-    {
-      "id": "5cux55",
-      "title": "Apple’s New Siri AI Is Ready to Get Personal",
-      "summary": "From a stand-alone app to a Google Gemini partnership, here’s everything you need to know from WWDC 2026 about Apple’s upcoming overhaul of Siri.",
-      "imageUrl": "https://media.wired.com/photos/6a2710703d01e9a6c2f2cfec/master/pass/Apple-Siri-AI-architecture-diagram-260608.jpg",
-      "source": "Wired",
-      "sourceUrl": "https://www.wired.com/story/apples-new-siri-ai-is-ready-to-get-personal/",
-      "publishedAt": "2026-06-08T18:17:44.000Z"
     },
     {
       "id": "9el4r7",
