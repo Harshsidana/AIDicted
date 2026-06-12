@@ -1,7 +1,16 @@
 {
-  "fetchedAt": "2026-06-12T19:12:47.192Z",
+  "fetchedAt": "2026-06-12T21:15:06.299Z",
   "count": 60,
   "articles": [
+    {
+      "id": "366rcv",
+      "title": "Chinese cybercrime operation that used AI to scam ‘hundreds of thousands of victims’ sued by Google",
+      "summary": "The tech giant said a group called \"Outsider Enterprise\" used AI to scam hundreds of thousands of victims, sending 2.5 million text messages over a span of two weeks.",
+      "imageUrl": "https://images.unsplash.com/photo-1550751827-4bd374c3f58b?w=800&q=80",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/06/12/chinese-cybercrime-operation-that-used-ai-to-scam-hundreds-of-thousands-of-victims-sued-by-google/",
+      "publishedAt": "2026-06-12T20:38:09.000Z"
+    },
     {
       "id": "6tkh7e",
       "title": "SpaceX IPO: Live updates on everything you need to know",
@@ -9,7 +18,16 @@
       "imageUrl": "https://images.unsplash.com/photo-1485827404703-89b55fcc595e?w=800&q=80",
       "source": "TechCrunch",
       "sourceUrl": "https://techcrunch.com/2026/06/12/spacex-ipo-live-updates-on-everything-you-need-to-know/",
-      "publishedAt": "2026-06-12T18:36:19.000Z"
+      "publishedAt": "2026-06-12T20:04:38.000Z"
+    },
+    {
+      "id": "2tsxwb",
+      "title": "PeopleSoft 0-day affecting hundreds of organizations steals gigabytes of data",
+      "summary": "Vulnerability in the Oracle-owned PeopleSoft software is about as critical as they come.",
+      "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2025/12/GettyImages-1867844462-1152x648.jpg",
+      "source": "Ars Technica",
+      "sourceUrl": "https://arstechnica.com/security/2026/06/peoplesoft-0-day-affecting-hundreds-of-organizations-steals-gigabytes-of-data/",
+      "publishedAt": "2026-06-12T19:26:47.000Z"
     },
     {
       "id": "zidsju",
@@ -21,22 +39,31 @@
       "publishedAt": "2026-06-12T17:38:11.000Z"
     },
     {
-      "id": "ydy5zh",
-      "title": "Google sues alleged Chinese cybercrime operation that used AI to send scam texts",
-      "summary": "The tech giant said a group called \"Outsider Enterprise\" used AI to scam hundreds of thousands of victims, sending 2.5 million text messages over a span of two weeks.",
-      "imageUrl": "https://images.unsplash.com/photo-1550751827-4bd374c3f58b?w=800&q=80",
-      "source": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/06/12/google-sues-alleged-chinese-cybercrime-operation-that-used-ai-to-send-scam-texts/",
-      "publishedAt": "2026-06-12T17:26:08.000Z"
-    },
-    {
-      "id": "g67f0o",
-      "title": "China Didn't Make People Hate Data Centers",
-      "summary": "GOP lawmakers, tech investors, and even OpenAI have tied the anti-data center movement in the US to Chinese interference. Experts say it’s much more complicated than that.",
+      "id": "oc46w0",
+      "title": "China Didn’t Make Americans Hate Data Centers",
+      "summary": "GOP lawmakers, tech investors, and even OpenAI have tied the anti-data-center movement in the US to Chinese interference. Experts say it’s much more complicated than that.",
       "imageUrl": "https://media.wired.com/photos/6a2bc68dcccd59782588bff1/master/pass/061226_Data%20Center%20Boosters%20Think%20China%20Is%20Funding%20Opposition%20in%20the%20US.jpg",
       "source": "Wired",
       "sourceUrl": "https://www.wired.com/story/china-us-data-center-opposition/",
       "publishedAt": "2026-06-12T17:17:10.000Z"
+    },
+    {
+      "id": "bmh623",
+      "title": "Siri is good now??",
+      "summary": "You'd be forgiven for thinking this day would never come. Siri has spent a decade and half somewhere between \"sort of useful at a few things\" and \"utterly disastrous, why did I even try, can it honestly not even set a timer.\" But the wildest thing just happened: Apple put out a new version of Siri, and it actually seems to be pretty good. On this episode of The Vergecast, David and Nilay talk about their early experiences with Siri AI, and what it means for users, and the rest of the AI…",
+      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/VST_0612_Site.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "source": "The Verge",
+      "sourceUrl": "https://www.theverge.com/podcast/949079/siri-ai-good-vergecast",
+      "publishedAt": "2026-06-12T17:17:04.000Z"
+    },
+    {
+      "id": "qp86l8",
+      "title": "Elon Musk is the world’s first trillionaire",
+      "summary": "Elon Musk's net worth has passed the trillion-dollar mark after SpaceX's IPO. His net worth, which was hovering around $800 billion before the IPO, includes the value of his 4.8 billion shares in SpaceX, along with his wealth from his other companies, like Tesla. Shares of SPCX opened at $150 and have remained well above the $138 benchmark that gives Musk a 13-figure net worth. SpaceX combined Musk's rocket, AI, and social media platforms earlier this year, and said in its S-1 that its goal is…",
+      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/STKE012_SPACEX_IPO_2026_D.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "source": "The Verge",
+      "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/948409/elon-musk-trillionaire-spacex-ipo",
+      "publishedAt": "2026-06-12T16:24:39.000Z"
     },
     {
       "id": "hwqseo",
@@ -59,8 +86,8 @@
     {
       "id": "wd4jqk",
       "title": "SpaceX’s massive IPO: all the latest news",
-      "summary": "SpaceX’s IPO on Friday allows the public to buy shares of the combined rocket, AI, and social media company for the first time, and is raising enough money to likely make Elon Musk the first trillionaire. He’ll have more wealth, on paper at least, than the economies of nations like Ireland, Sweden, or his home country of South Africa (CNN cites the International Monetary Fund saying only 20 countries have economies larger than $1.1 trillion), now largely based on the promise of a business based…",
-      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/STKE012_SPACEX_IPO_2026_A.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "summary": "SpaceX’s IPO on Friday allows the public to buy shares of the combined rocket, AI, and social media company for the first time, and raised enough money to make Elon Musk the first trillionaire. He has more wealth, on paper at least, than the economies of nations like Ireland, Sweden, or his home country of South Africa (CNN cites the International Monetary Fund saying only 20 countries have economies larger than $1.1 trillion), now linked to the promise of a business based on launching AI…",
+      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/268591_SPaceX_IPO_AKrales_0072.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
       "source": "The Verge",
       "sourceUrl": "https://www.theverge.com/business/948996/spacex-ipo-elon-musk",
       "publishedAt": "2026-06-12T14:35:48.000Z"
@@ -354,24 +381,6 @@
       "publishedAt": "2026-06-10T17:45:11.000Z"
     },
     {
-      "id": "143b0b",
-      "title": "The future of AI regulation is courting the strangest, most anxious bedfellows",
-      "summary": "(L-R) Sen. Mike Rounds, Pamela Brown, Chris Malachowsky, Kevin O'Leary, Gabriele Caccia, Tammy Haddad, Michele L. Jawando, Sen. Mark Warner, Michael Kelly and Major General Patrick Ellis attend the Second Annual AI Honors. | Getty Images for Washington AI N Hello and welcome to Regulator, a newsletter for Verge subscribers about tech politics, tech influence, and tech shenanigans in Washington, DC. (If you're not a subscriber, you can get on board here.) We're back after a two-week hiatus,…",
-      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/gettyimages-2279697530.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "source": "The Verge",
-      "sourceUrl": "https://www.theverge.com/column/947838/washington-ai-network-honors-2026-midterms",
-      "publishedAt": "2026-06-10T17:38:00.000Z"
-    },
-    {
-      "id": "fckkhi",
-      "title": "Google won’t just admit it’s feeding YouTube creators to its music AI",
-      "summary": "A group of independent musicians is suing Google claiming it trained Lyria on their uploads. | Image: Cath Virginia / The Verge If you've uploaded a song to YouTube, Google almost certainly considers your video fair game for training its Lyria music AI, it just won't admit it right now. A group of independent musicians is suing Google, claiming that it illegally used songs they uploaded to YouTube to train its Lyria 3 model. Google has filed a motion to dismiss the case, saying: Their lawsuit is…",
-      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/04/STKS487_ANTITRUST_2__STK093_GOOGLE.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "source": "The Verge",
-      "sourceUrl": "https://www.theverge.com/tech/947770/google-lyria-music-ai-lawsuit-youtube",
-      "publishedAt": "2026-06-10T17:20:36.000Z"
-    },
-    {
       "id": "w14kom",
       "title": "Wrongful Arrest Exposes Failures in One of the Oldest Police Face-Recognition Tools in the US",
       "summary": "The ACLU is suing two Florida police departments over the arrest of a Fort Myers man in a child-abduction case, saying officers treated a flawed face-recognition match as a near-certain ID.",
@@ -532,15 +541,6 @@
       "source": "Ars Technica",
       "sourceUrl": "https://arstechnica.com/information-technology/2026/05/a-hacker-group-is-poisoning-open-source-code-at-an-unprecedented-scale/",
       "publishedAt": "2026-05-22T10:30:14.000Z"
-    },
-    {
-      "id": "fuqb27",
-      "title": "US government takes $2 billion equity stake in nine quantum computing firms",
-      "summary": "Beneficiaries include startup backed by firm with links to the Trump family.",
-      "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2017/03/Screen-Shot-2017-03-31-at-1.37.22-PM.png",
-      "source": "Ars Technica",
-      "sourceUrl": "https://arstechnica.com/gadgets/2026/05/us-government-takes-2-billion-equity-stake-in-nine-quantum-computing-firms/",
-      "publishedAt": "2026-05-21T13:48:38.000Z"
     }
   ]
 }
