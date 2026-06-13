@@ -1,15 +1,15 @@
 {
-  "fetchedAt": "2026-06-12T21:15:06.299Z",
+  "fetchedAt": "2026-06-13T00:24:45.009Z",
   "count": 60,
   "articles": [
     {
-      "id": "366rcv",
-      "title": "Chinese cybercrime operation that used AI to scam ‘hundreds of thousands of victims’ sued by Google",
-      "summary": "The tech giant said a group called \"Outsider Enterprise\" used AI to scam hundreds of thousands of victims, sending 2.5 million text messages over a span of two weeks.",
-      "imageUrl": "https://images.unsplash.com/photo-1550751827-4bd374c3f58b?w=800&q=80",
-      "source": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/06/12/chinese-cybercrime-operation-that-used-ai-to-scam-hundreds-of-thousands-of-victims-sued-by-google/",
-      "publishedAt": "2026-06-12T20:38:09.000Z"
+      "id": "9wkvhd",
+      "title": "Meta Employees Absolutely Hate Zuckerberg’s Plan for a Companywide AI Hackathon",
+      "summary": "“I’m not sure that this company supports a hackathon culture anymore,” one employee posted in a forum open to the entire staff.",
+      "imageUrl": "https://media.wired.com/photos/6a29a9c94fc22a32725fb4b6/master/pass/Meta-Employee-Interrupts-AI-Business-AP-26085781053500.jpg",
+      "source": "Wired",
+      "sourceUrl": "https://www.wired.com/story/meta-employees-absolutely-hate-mark-zuckerbergs-hackathon-idea/",
+      "publishedAt": "2026-06-12T23:45:26.000Z"
     },
     {
       "id": "6tkh7e",
@@ -18,7 +18,34 @@
       "imageUrl": "https://images.unsplash.com/photo-1485827404703-89b55fcc595e?w=800&q=80",
       "source": "TechCrunch",
       "sourceUrl": "https://techcrunch.com/2026/06/12/spacex-ipo-live-updates-on-everything-you-need-to-know/",
-      "publishedAt": "2026-06-12T20:04:38.000Z"
+      "publishedAt": "2026-06-12T23:15:14.000Z"
+    },
+    {
+      "id": "sf8jgd",
+      "title": "Meta’s months-old AI unit is a soul-crushing gulag, say the engineers stuck inside it",
+      "summary": "A new report suggests the unit, which employs 6,500 people, is on the verge of revolt.",
+      "imageUrl": "https://images.unsplash.com/photo-1485827404703-89b55fcc595e?w=800&q=80",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/06/12/metas-months-old-ai-unit-is-a-soul-crushing-gulag-say-the-engineers-stuck-inside-it/",
+      "publishedAt": "2026-06-12T23:00:54.000Z"
+    },
+    {
+      "id": "b5rykp",
+      "title": "‘Tell Him He’s a Piece of Shit’: Meta’s New AI Unit Is a Total Mess",
+      "summary": "Executives and employees alike are struggling with Meta’s chaotic AI strategy, according to sources and internal discussions reviewed by WIRED.",
+      "imageUrl": "https://media.wired.com/photos/6a2c555e0473de232b255ae6/master/pass/Meta-Employee-Interrupts-AI-Training-Business-2261841192.jpg",
+      "source": "Wired",
+      "sourceUrl": "https://www.wired.com/story/mark-zuckerberg-meta-employee-meeting-interrupt-ai/",
+      "publishedAt": "2026-06-12T21:16:25.000Z"
+    },
+    {
+      "id": "366rcv",
+      "title": "Chinese cybercrime operation that used AI to scam ‘hundreds of thousands of victims’ sued by Google",
+      "summary": "The tech giant said a group called \"Outsider Enterprise\" used AI to scam hundreds of thousands of victims, sending 2.5 million text messages over a span of two weeks.",
+      "imageUrl": "https://images.unsplash.com/photo-1550751827-4bd374c3f58b?w=800&q=80",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/06/12/chinese-cybercrime-operation-that-used-ai-to-scam-hundreds-of-thousands-of-victims-sued-by-google/",
+      "publishedAt": "2026-06-12T20:38:09.000Z"
     },
     {
       "id": "2tsxwb",
@@ -345,15 +372,6 @@
       "publishedAt": "2026-06-11T04:02:19.000Z"
     },
     {
-      "id": "6lkht9",
-      "title": "Anthropic’s Dario Amodei has just one direct report",
-      "summary": "If founders and other business leaders weren't already envious of Dario Amodei, who sits atop one of the world's fastest-growing AI companies, they're going to be seriously envious now.",
-      "imageUrl": "https://images.unsplash.com/photo-1531746790095-6c10a4031c5f?w=800&q=80",
-      "source": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/06/10/anthropics-dario-amodei-has-just-one-direct-report/",
-      "publishedAt": "2026-06-11T03:53:06.000Z"
-    },
-    {
       "id": "uuq9ql",
       "title": "Anthropic Walks Back Policy That Could Have ‘Sabotaged’ AI Researchers Using Claude",
       "summary": "The company changed course after researchers spoke out against the policy, which would have covertly limited Claude’s ability to develop competing AI models.",
@@ -390,15 +408,6 @@
       "publishedAt": "2026-06-10T14:00:00.000Z"
     },
     {
-      "id": "zfxm1u",
-      "title": "China Opens World’s First Wind-Powered Underwater Data Center",
-      "summary": "With an initial capacity of 24 megawatts, the innovative data center uses seawater as a natural cooling system.",
-      "imageUrl": "https://media.wired.com/photos/68fab92565a13f02607aecfa/master/pass/Screenshot%202025-10-23%20at%2011.33.04%E2%80%AFa.m..png",
-      "source": "Wired",
-      "sourceUrl": "https://www.wired.com/story/china-opens-worlds-first-wind-powered-underwater-data-center/",
-      "publishedAt": "2026-06-10T13:39:32.000Z"
-    },
-    {
       "id": "hb284v",
       "title": "The Download: the “steroid olympics” and a safer Mythos",
       "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. The “steroid olympics” were a circus—and a window into our culture —Amit Katwala A couple of weeks ago, at a $50 million arena built in a casino parking lot in Las…",
@@ -406,15 +415,6 @@
       "source": "MIT Tech Review",
       "sourceUrl": "https://www.technologyreview.com/2026/06/10/1138739/the-download-steroid-olympics-enhanced-games-anthropic-mythos/",
       "publishedAt": "2026-06-10T12:10:00.000Z"
-    },
-    {
-      "id": "k2rbay",
-      "title": "Artificial Intelligence Sneaks Into the World Cup Thanks to Google Gemini",
-      "summary": "The Argentine national team will be Google’s test bench and technological showcase during the World Cup.",
-      "imageUrl": "https://media.wired.com/photos/6a26f2821d5621d5724e9dd9/master/pass/Artificial-Intelligence-Sneaks-into-World-Cup-2279691552.jpg",
-      "source": "Wired",
-      "sourceUrl": "https://www.wired.com/story/artificial-intelligence-sneaks-into-the-world-cup-thanks-to-google-gemini/",
-      "publishedAt": "2026-06-10T10:00:00.000Z"
     },
     {
       "id": "dzirgs",
