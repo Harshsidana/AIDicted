@@ -1,7 +1,52 @@
 {
-  "fetchedAt": "2026-06-15T22:01:47.922Z",
+  "fetchedAt": "2026-06-16T06:10:47.186Z",
   "count": 60,
   "articles": [
+    {
+      "id": "szgapt",
+      "title": "DOJ Lawyers Argue xAI Is ‘Vital’ for National Security in NAACP Lawsuit",
+      "summary": "In a bid to dismiss a lawsuit over xAI’s polluting gas turbines, the Justice Department claimed the company is integral to military operations—including the Iran War.",
+      "imageUrl": "https://media.wired.com/photos/6a30b0678f3c861b578bab3f/master/pass/GettyImages-2217198328.jpg",
+      "source": "Wired",
+      "sourceUrl": "https://www.wired.com/story/doj-lawyers-argue-xai-vital-national-security-naacp-lawsuit/",
+      "publishedAt": "2026-06-16T03:06:37.000Z"
+    },
+    {
+      "id": "o25mte",
+      "title": "Inside the fight over Claude Mythos 5",
+      "summary": "As the rest of the country celebrated the USA's first World Cup win and the New York Knicks championship, Anthropic spent its weekend fighting the Trump administration over its latest model release. At 5:21 PM on Friday, the company received a US export control directive to suspend access to its Mythos 5 and Fable 5 AI models by \"any foreign national\" inside or outside the US, \"including foreign national Anthropic employees.\" The only way that was possible, Anthropic determined, was to…",
+      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/03/STKS515_CYBER_WARFARE2_D.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "source": "The Verge",
+      "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/950412/anthropic-trump-adminstration-claude-mythos-fable-5-export-controls",
+      "publishedAt": "2026-06-16T03:00:00.000Z"
+    },
+    {
+      "id": "l8xppc",
+      "title": "Anthropic Is Still at Odds With the White House Over Claude Fable 5",
+      "summary": "Anthropic leaders flew to Washington, DC, to meet with White House officials on Monday. After high-level talks, they’re still split on the risk Claude Fable 5 presents.",
+      "imageUrl": "https://media.wired.com/photos/6a3068b96de136e1eb346f80/master/pass/Anthropic-Latest-Clash-With-White-House-Business-2280291383.jpg",
+      "source": "Wired",
+      "sourceUrl": "https://www.wired.com/story/anthropic-is-still-at-odds-with-the-white-house-over-claude-fable-5/",
+      "publishedAt": "2026-06-16T00:53:46.000Z"
+    },
+    {
+      "id": "3blvoe",
+      "title": "Sundar Pichai faces boos, walkout at Stanford graduation ceremony over Google’s Israel, ICE ties",
+      "summary": "AI is once again at the heart of a college graduation protest — this time for the technology's use in Google's defense contracts.",
+      "imageUrl": "https://images.unsplash.com/photo-1676299081847-824916de030a?w=800&q=80",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/06/15/sundar-pichai-faces-boos-walkout-at-stanford-graduation-ceremony-over-googles-israel-ice-ties/",
+      "publishedAt": "2026-06-15T23:51:44.000Z"
+    },
+    {
+      "id": "f9q2ok",
+      "title": "The US government’s Anthropic models ban was never about an AI jailbreak",
+      "summary": "The Trump administration's decision that forced Anthropic to pull its latest cybersecurity models could be reactionary, retaliatory, or both, but the message is clear: The AI industry isn't immune from U.S. government interference.",
+      "imageUrl": "https://images.unsplash.com/photo-1531746790095-6c10a4031c5f?w=800&q=80",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/06/15/the-us-governments-anthropic-models-ban-was-never-about-an-ai-jailbreak/",
+      "publishedAt": "2026-06-15T21:50:21.000Z"
+    },
     {
       "id": "u1vyaw",
       "title": "Meta CTO Andrew Bosworth Admits the Company’s AI Reorg Was ‘Atrocious’",
@@ -10,6 +55,24 @@
       "source": "Wired",
       "sourceUrl": "https://www.wired.com/story/andrew-bosworth-meta-employees-unrest/",
       "publishedAt": "2026-06-15T21:33:46.000Z"
+    },
+    {
+      "id": "mfeto6",
+      "title": "Facebook’s new AI Mode search gets its info from public posts",
+      "summary": "Your public Facebook posts could help inform AI-generated results in Meta's new AI Mode. When you search on Facebook, the \"AI Mode\" option will appear alongside the usual search modes like \"People\" and \"Marketplace.\" It's one of several new AI features Meta is rolling out starting today, including photo presets that swap sports jerseys onto fans and suggestions for collage templates. Instead of \"just links,\" it gives users AI-generated results that pull from publicly-posted content across Meta's…",
+      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/videoframe_7395.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "source": "The Verge",
+      "sourceUrl": "https://www.theverge.com/tech/950264/meta-ai-mode-search-facebook",
+      "publishedAt": "2026-06-15T21:15:08.000Z"
+    },
+    {
+      "id": "r0y5d3",
+      "title": "All the news about Anthropic’s new AI fight with the White House",
+      "summary": "Anthropic was already navigating one dispute with the government in its standoff with the Pentagon, and then came an order on June 12th to block off foreign access to its most recently released AI models, Fable 5 and Mythos 5. When they launched on June 9th, Anthropic said “Fable 5’s capabilities exceed those of any model we’ve ever made generally available,” and that Claude Mythos 5 had the same underlying model, “but with the safeguards lifted in some areas.” According to reports, the order…",
+      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/04/STK269_ANTHROPIC_2_D.webp?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "source": "The Verge",
+      "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/950026/anthropic-fable-mythos-ban-ai-shutdown",
+      "publishedAt": "2026-06-15T19:04:53.000Z"
     },
     {
       "id": "l7rwo0",
@@ -39,6 +102,15 @@
       "publishedAt": "2026-06-15T18:30:34.000Z"
     },
     {
+      "id": "od3c14",
+      "title": "Trump’s Anthropic shutdown just made the case for non-American AI",
+      "summary": "At Washington's request, Anthropic suddenly took its newest and most powerful AI models offline over the weekend. The American company said it had little choice after the White House demanded it block access for all foreign nationals, including its own employees. Abroad, the incident offered a sobering reminder that the US not only dominates frontier AI - its government also wields power over who gets to use it. The Trump administration's action was swift, sweeping, and imposed with little…",
+      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/04/VRG_Illo_STK175_L_Normand_DonaldTrump_Negative.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "source": "The Verge",
+      "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/949986/anthropic-fable-mythos-shutdown-sovereign-ai",
+      "publishedAt": "2026-06-15T18:10:27.000Z"
+    },
+    {
       "id": "vf8x91",
       "title": "Users cry foul after AMD stripped memory crypto from its consumer CPUs",
       "summary": "AMD's stripping of TSME from consumer CPUs appears to be a deliberate, covert move.",
@@ -46,6 +118,15 @@
       "source": "Ars Technica",
       "sourceUrl": "https://arstechnica.com/security/2026/06/users-cry-foul-after-amd-stripped-memory-crypto-from-its-consumer-cpus/",
       "publishedAt": "2026-06-15T17:55:46.000Z"
+    },
+    {
+      "id": "ykg1gx",
+      "title": "Big Tech’s desperate last push at AI regulation",
+      "summary": "U.S. Sen. Marsha Blackburn (R-TN) and Majority Leader Chuck Schumer (D-NY) arrive for a news conference with bipartisan senators on passage of the Online Privacy Protection Act at the Capitol on July 30, 2024 in Washington, DC. | Kent Nishimura/Getty Images. For months, Big Tech's Washington lobbyists have chased after the holy grail of pro-AI legislation: preemption. This would be a comprehensive federal law, passed in Congress and signed by the president, applying one set of AI rules across…",
+      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/gettyimages-2163958194.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "source": "The Verge",
+      "sourceUrl": "https://www.theverge.com/policy/949970/ai-regulation-child-safety-kosa-congress",
+      "publishedAt": "2026-06-15T17:44:10.000Z"
     },
     {
       "id": "oe9rlf",
@@ -73,6 +154,15 @@
       "source": "TechCrunch",
       "sourceUrl": "https://techcrunch.com/2026/06/15/salesforce-acquires-ai-customer-service-platform-fin-for-3-6b/",
       "publishedAt": "2026-06-15T14:34:45.000Z"
+    },
+    {
+      "id": "a4vsw9",
+      "title": "Skydio CEO Adam Bry on why Silicon Valley shouldn’t draw red lines for drone use",
+      "summary": "Today, I’m talking with Adam Bry, who is CEO of Skydio, the leading US maker of autonomous drones. Before we recorded this episode, I actually got to remotely operate one of Skydio’s drones in the Bay Area from Adam’s laptop in our podcast studio in New York and fly an indoor drone around our office. You can check out the full video of that on our YouTube channel. Beyond flying drones around the country, Adam and I talked about why Skydio is so focused on the enterprise market — I asked him a…",
+      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/DCD_20260615_Adam_Bry.png?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "source": "The Verge",
+      "sourceUrl": "https://www.theverge.com/podcast/949195/skydio-ceo-adam-bry-autonmous-drones-china-red-lines-military",
+      "publishedAt": "2026-06-15T14:00:00.000Z"
     },
     {
       "id": "vd6sn6",
@@ -201,15 +291,6 @@
       "publishedAt": "2026-06-13T19:11:41.000Z"
     },
     {
-      "id": "mzdgty",
-      "title": "OpenAI faces investigation from state attorneys general",
-      "summary": "It's not clear which states are involved, but they're asking about everything from OpenAI's ad policies to its handling of health data.",
-      "imageUrl": "https://images.unsplash.com/photo-1676299081847-824916de030a?w=800&q=80",
-      "source": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/06/13/openai-faces-investigation-from-state-attorneys-general/",
-      "publishedAt": "2026-06-13T16:47:18.000Z"
-    },
-    {
       "id": "efvss9",
       "title": "My yard is dying, so I made an app for that",
       "summary": "When I returned to my computer five minutes after giving Gemini a lengthy prompt, I had two things: a functional app in a preview window, and a message about a bug. \"~ Channel is unrecoverably broken and will be disposed!\" Sounded bad! But right below it was a button to fix the bug. Pretty weird that I just instructed a computer to build a whole app for me with a single prompt, but it needed me to click a button to fix a bug. I did anyway, and in 233 seconds Gemini reported back that it had…",
@@ -228,24 +309,6 @@
       "publishedAt": "2026-06-13T12:55:49.000Z"
     },
     {
-      "id": "2o9hjz",
-      "title": "Apple’s new AI photo editing tools mostly work, for better and worse",
-      "summary": "iPhone owners are getting real, native AI photo editing for the first time. The most popular camera in the world just got its first set of serious AI photo editing features, and I don't think any of us are ready. As far as AI photo editing goes, the new features in iOS 27 are pretty tame compared to what you can do on, say, Google's Pixel phones. But for the iPhone, they represent a tipping point in what the native photos app allows you to do to your photos. I mean memories. I mean, I don't know…",
-      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/DSC03778_processed.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "source": "The Verge",
-      "sourceUrl": "https://www.theverge.com/tech/949360/apple-ai-photo-edit-reframe-extend-clean-up-hands-on",
-      "publishedAt": "2026-06-13T12:00:00.000Z"
-    },
-    {
-      "id": "nw2m5q",
-      "title": "The future of Hollywood isn’t feeding prompts into vanilla gen AI models",
-      "summary": "Concept art from Dear Upstairs Neighbors that used to train custom builds of Google’s Veo and Imagen models. | Image: Google DeepMind For all the noise that's been made about how generative AI is poised to revolutionize the filmmaking industry, there haven't really been any projects created with the technology that felt like the sort of entertainment people would pay to see. Most AI firms' video models are still only capable of churning out short bursts of visually inconsistent footage. And some…",
-      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/Figure05_700_6_1080p.png?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "source": "The Verge",
-      "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/948425/tribeca-2026-dear-upstairs-neighbors-google-deepmind-openai",
-      "publishedAt": "2026-06-13T11:00:00.000Z"
-    },
-    {
       "id": "khb970",
       "title": "A Court Has Ruled That Google Is Liable for False Statements Generated by AI Overviews",
       "summary": "The ruling holds that a company that designs, trains, operates, and manages an AI system must assume legal liability for any damages caused by the responses it generates.",
@@ -253,15 +316,6 @@
       "source": "Wired",
       "sourceUrl": "https://www.wired.com/story/a-court-has-ruled-that-google-is-liable-for-false-statements-generated-by-ai-overviews/",
       "publishedAt": "2026-06-13T09:00:00.000Z"
-    },
-    {
-      "id": "gfye64",
-      "title": "Andrew Yang thinks the next big startup opportunity is lowering the cost of living",
-      "summary": "Andrew Yang made a list of everything Americans overpay for — housing, food, wireless — and thinks the next startup gold rush is giving that money back.",
-      "imageUrl": "https://images.unsplash.com/photo-1526374965328-7f61d4dc18c5?w=800&q=80",
-      "source": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/06/12/andrew-yang-thinks-the-next-big-startup-opportunity-is-lowering-the-cost-of-living/",
-      "publishedAt": "2026-06-13T04:14:19.000Z"
     },
     {
       "id": "ippw55",
@@ -309,42 +363,6 @@
       "publishedAt": "2026-06-12T17:17:10.000Z"
     },
     {
-      "id": "bmh623",
-      "title": "Siri is good now??",
-      "summary": "You'd be forgiven for thinking this day would never come. Siri has spent a decade and half somewhere between \"sort of useful at a few things\" and \"utterly disastrous, why did I even try, can it honestly not even set a timer.\" But the wildest thing just happened: Apple put out a new version of Siri, and it actually seems to be pretty good. On this episode of The Vergecast, David and Nilay talk about their early experiences with Siri AI, and what it means for users, and the rest of the AI…",
-      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/VST_0612_Site.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "source": "The Verge",
-      "sourceUrl": "https://www.theverge.com/podcast/949079/siri-ai-good-vergecast",
-      "publishedAt": "2026-06-12T17:17:04.000Z"
-    },
-    {
-      "id": "qp86l8",
-      "title": "Elon Musk is the world’s first trillionaire",
-      "summary": "Elon Musk's net worth has passed the trillion-dollar mark after SpaceX's IPO. His net worth, which was hovering around $800 billion before the IPO, includes the value of his 4.8 billion shares in SpaceX, along with his wealth from his other companies, like Tesla. Shares of SPCX opened at $150 and have remained well above the $138 benchmark that gives Musk a 13-figure net worth. SpaceX combined Musk's rocket, AI, and social media platforms earlier this year, and said in its S-1 that its goal is…",
-      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/STKE012_SPACEX_IPO_2026_D.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "source": "The Verge",
-      "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/948409/elon-musk-trillionaire-spacex-ipo",
-      "publishedAt": "2026-06-12T16:24:39.000Z"
-    },
-    {
-      "id": "wd4jqk",
-      "title": "SpaceX’s massive IPO: all the latest news",
-      "summary": "SpaceX’s IPO on Friday allows the public to buy shares of the combined rocket, AI, and social media company for the first time, and raised enough money to make Elon Musk the first trillionaire. He has more wealth, on paper at least, than the economies of nations like Ireland, Sweden, or his home country of South Africa (CNN cites the International Monetary Fund saying only 20 countries have economies larger than $1.1 trillion), now linked to the promise of a business based on launching AI…",
-      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/268591_SPaceX_IPO_AKrales_0072.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "source": "The Verge",
-      "sourceUrl": "https://www.theverge.com/business/948996/spacex-ipo-elon-musk",
-      "publishedAt": "2026-06-12T14:35:48.000Z"
-    },
-    {
-      "id": "us6g2o",
-      "title": "Jeff Bezos’ AI startup aims to build an ‘artificial general engineer’",
-      "summary": "Amazon founder Jeff Bezos says his new AI startup will work toward developing an \"artificial general engineer,\" according to reports from The New York Times and CNBC. The startup, called Prometheus, aims to develop AI-powered engineering tools to aid in the design of physical products. The NYT first reported on Prometheus last November, but now Bezos is sharing more information about the startup after a $12 billion funding round, putting the company at a $41 billion valuation. Bezos serves as…",
-      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/23951505/VRG_Illo_STK173_L_Normand_JeffBezos_Positive.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "source": "The Verge",
-      "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/949005/jeff-bezos-prometheus-artificial-general-engineer",
-      "publishedAt": "2026-06-12T14:03:39.000Z"
-    },
-    {
       "id": "jnxj28",
       "title": "The Download: “reprogramming” aging, and the hidden sense of interoception",
       "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. Why “reprogramming” is the buzziest approach to reversing aging right now Earlier this week, Life Biosciences, a biotech company focused on reversing age-related diseases, announced that it had dosed its first…",
@@ -388,24 +406,6 @@
       "source": "MIT Tech Review",
       "sourceUrl": "https://www.technologyreview.com/2026/06/12/1138833/inside-interoception-brain-body/",
       "publishedAt": "2026-06-12T09:00:00.000Z"
-    },
-    {
-      "id": "ai2kii",
-      "title": "Apple’s Camera Chief Thinks AI Can Give You Superpowers",
-      "summary": "The generative features in iOS 27’s new Photos app will add fake pixels to some of your shots, but Apple’s Jon McCormack says the company isn’t using AI “for the sake of AI.”",
-      "imageUrl": "https://media.wired.com/photos/6a2991038b88eda4e0bec24e/master/pass/Siri%20AI%20in%20Camera%20SOURCE%20Julian%20Chokkattu%20(1).jpg",
-      "source": "Wired",
-      "sourceUrl": "https://www.wired.com/story/apple-camera-chief-thinks-ai-can-give-you-superpowers/",
-      "publishedAt": "2026-06-12T01:00:00.000Z"
-    },
-    {
-      "id": "f1jju4",
-      "title": "Why You Might Already Own SpaceX Shares, Siri’s AI Makeover, and Knicks Owner’s Surveillance Machine",
-      "summary": "Today on Uncanny Valley, we take an early look at the SpaceX IPO and why you might find yourself among the investors without even realizing it.",
-      "imageUrl": "https://media.wired.com/photos/6a29de1c2286375b80445272/master/pass/Uncanny-Valley-SpaceX-IPO-Business-2280020800.jpg",
-      "source": "Wired",
-      "sourceUrl": "https://www.wired.com/story/uncanny-valley-podcast-why-you-might-already-own-spacex-shares-siri-ai-makeover-knicks-owner-surveillance-machine/",
-      "publishedAt": "2026-06-11T23:37:49.000Z"
     },
     {
       "id": "ch84wc",
