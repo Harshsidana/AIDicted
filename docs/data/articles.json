@@ -1,7 +1,25 @@
 {
-  "fetchedAt": "2026-06-16T20:25:43.159Z",
+  "fetchedAt": "2026-06-16T22:31:01.443Z",
   "count": 60,
   "articles": [
+    {
+      "id": "f0ikwf",
+      "title": "HPE tempts VMware users, partners with year of free virtualization software",
+      "summary": "Partner tells Ars that HPE should be giving out more free VM Essentials licenses.",
+      "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2026/06/GettyImages-1166474639-1152x648.jpg",
+      "source": "Ars Technica",
+      "sourceUrl": "https://arstechnica.com/information-technology/2026/06/hpe-tempts-vmware-users-partners-with-year-of-free-virtualization-software/",
+      "publishedAt": "2026-06-16T22:11:15.000Z"
+    },
+    {
+      "id": "rpseq8",
+      "title": "Exclusive eBook: How AI is becoming the next military advisor",
+      "summary": "A collection of stories about how militaries are using AI models to make decisions. This subscriber-only eBook is a package of six stories that were originally published in MIT Technology Review between April 11, 2025, and April 21, 2026, and have been updated to reflect recent developments. by James O’Donnell Choose which file format to…",
+      "imageUrl": "https://images.unsplash.com/photo-1655720828018-edd2daec9349?w=800&q=80",
+      "source": "MIT Tech Review",
+      "sourceUrl": "https://www.technologyreview.com/2026/06/16/1138905/exclusive-ebook-how-ai-is-becoming-the-next-military-advisor/",
+      "publishedAt": "2026-06-16T20:35:02.000Z"
+    },
     {
       "id": "orbnt1",
       "title": "SpaceX valuation balloons to $2.6T, briefly passes Amazon",
@@ -426,15 +444,6 @@
       "publishedAt": "2026-06-12T09:00:00.000Z"
     },
     {
-      "id": "wpfn89",
-      "title": "Inside interoception: The hidden sense of how you feel inside",
-      "summary": "MIT Technology Review Explains: Let our writers untangle the complex, messy world of science and technology to help you understand what’s coming next. You can read more from the series here. Your brain lives in the dark space of your skull. Yet it knows when the wind lifts the hairs on your skin, when your heart is…",
-      "imageUrl": "https://images.unsplash.com/photo-1526374965328-7f61d4dc18c5?w=800&q=80",
-      "source": "MIT Tech Review",
-      "sourceUrl": "https://www.technologyreview.com/2026/06/12/1138833/inside-interoception-brain-body/",
-      "publishedAt": "2026-06-12T09:00:00.000Z"
-    },
-    {
       "id": "dzirgs",
       "title": "Locked in heated rivalry with researcher, Microsoft fixes 0-day they disclosed",
       "summary": "A separate zero-day also disclosed by Nightmare Eclipse appears to be patched as well.",
@@ -532,15 +541,6 @@
       "source": "Ars Technica",
       "sourceUrl": "https://arstechnica.com/information-technology/2026/05/millions-of-ai-agents-imperiled-by-critical-vulnerability-in-open-source-package/",
       "publishedAt": "2026-05-26T19:50:33.000Z"
-    },
-    {
-      "id": "mjt8wp",
-      "title": "US's big bet on quantum computing may not be entirely legal",
-      "summary": "Deal also launched the first quantum foundry company, but is there a need for it?",
-      "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2026/05/image-2-1152x648.jpeg",
-      "source": "Ars Technica",
-      "sourceUrl": "https://arstechnica.com/tech-policy/2026/05/uss-big-bet-on-quantum-computing-may-not-be-entirely-legal/",
-      "publishedAt": "2026-05-25T12:00:15.000Z"
     }
   ]
 }
