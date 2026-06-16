@@ -1,11 +1,38 @@
 {
-  "fetchedAt": "2026-06-16T17:12:00.072Z",
+  "fetchedAt": "2026-06-16T20:25:43.159Z",
   "count": 60,
   "articles": [
     {
+      "id": "orbnt1",
+      "title": "SpaceX valuation balloons to $2.6T, briefly passes Amazon",
+      "summary": "SpaceX's valuation has increased by $1 trillion since its shares started trading on Friday.",
+      "imageUrl": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=800&q=80",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/06/16/spacex-valuation-balloons-to-2-6t-briefly-passes-amazon/",
+      "publishedAt": "2026-06-16T20:11:00.000Z"
+    },
+    {
+      "id": "j5qtxc",
+      "title": "Android 17 launches with new multitasking tools as Google expands Gemini features",
+      "summary": "Google has released Android 17 and Wear OS 7, introducing new multitasking features, parental controls, security tools, and smartwatch upgrades. The launch is also accompanied by a Pixel Drop that brings Google’s latest AI models to its devices.",
+      "imageUrl": "https://images.unsplash.com/photo-1620712943543-bcc4688e7485?w=800&q=80",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/06/16/android-17-launches-with-new-multitasking-tools-as-google-expands-gemini-features/",
+      "publishedAt": "2026-06-16T18:00:00.000Z"
+    },
+    {
+      "id": "scesi2",
+      "title": "‘Dangerous’ AI Models Are Coming No Matter What",
+      "summary": "The US government crackdown on Anthropic’s Claude Fable 5 and Mythos 5 hides a glaring truth: AI models with advanced hacking capabilities will soon be the norm.",
+      "imageUrl": "https://media.wired.com/photos/6a30202e9402edb0adc1701d/master/pass/GettyImages-2280291188.jpg",
+      "source": "Wired",
+      "sourceUrl": "https://www.wired.com/story/dangerous-ai-models-are-coming-no-matter-what/",
+      "publishedAt": "2026-06-16T17:50:52.000Z"
+    },
+    {
       "id": "949ju1",
       "title": "Apple 2027 rumors: AirPods with cameras for AI and the second folding iPhone",
-      "summary": "AirPods Pro 3 shown with an iPhone and live translation features | Photo by Amelia Holowaty Krales / The Verge Now that we're clear of WWDC and all of the AI-powered features coming to Apple's platforms, Bloomberg reporter Mark Gurman has more details about rumored new hardware like the camera-equipped AirPods he'd previously written about. He says they are currently on schedule for a late 2027 launch, and that while we're checking out beta releases for this fall's iOS 27 update, the new earbuds…",
+      "summary": "AirPods Pro 3 shown with an iPhone and live translation features. | Photo by Amelia Holowaty Krales / The Verge Now that we're clear of WWDC and all of the new AI-powered features coming to Apple's platforms, Bloomberg reporter Mark Gurman has more details about rumored new hardware, like the camera-equipped AirPods he'd previously written about. He says they are currently on schedule for a late 2027 launch, and that while we're checking out beta releases for this fall's iOS 27 update, the new…",
       "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/09/257943_Airpods_Pro3_AKrales_0078.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
       "source": "The Verge",
       "sourceUrl": "https://www.theverge.com/tech/950826/apple-airpod-camera-ai-foldable-iphone-rumor",
@@ -21,10 +48,10 @@
       "publishedAt": "2026-06-16T17:00:00.000Z"
     },
     {
-      "id": "pugfwl",
-      "title": "Sixty percent of U.S. consumers say ‘AI’ in brand messaging is a turnoff, survey finds",
+      "id": "nrmcf9",
+      "title": "Sixty percent of US consumers say ‘AI’ in brand messaging is a turnoff, survey finds",
       "summary": "WordPress VIP’s latest survey suggests consumers are wary of AI-generated answers even as companies increasingly view AI search as an important referral channel.",
-      "imageUrl": "https://images.unsplash.com/photo-1531746790095-6c10a4031c5f?w=800&q=80",
+      "imageUrl": "https://images.unsplash.com/photo-1655720828018-edd2daec9349?w=800&q=80",
       "source": "TechCrunch",
       "sourceUrl": "https://techcrunch.com/2026/06/16/sixty-percent-of-u-s-consumers-say-ai-in-brand-messaging-is-a-turnoff-survey-finds/",
       "publishedAt": "2026-06-16T16:49:44.000Z"
@@ -84,15 +111,6 @@
       "publishedAt": "2026-06-16T14:00:00.000Z"
     },
     {
-      "id": "trdull",
-      "title": "SpaceX passes Amazon as valuation balloons to $2.7T",
-      "summary": "SpaceX's valuation has increased by $1 trillion since its shares started trading on Friday.",
-      "imageUrl": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=800&q=80",
-      "source": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/06/16/spacex-passes-amazon-as-valuation-balloons-to-2-7t/",
-      "publishedAt": "2026-06-16T13:48:37.000Z"
-    },
-    {
       "id": "olgkrd",
       "title": "Probably raises $9M to build a more reliable kind of AI",
       "summary": "Probably wants to prevent hallucinations and factual errors from reaching users, and achieve accuracy on par with deterministic systems.",
@@ -129,13 +147,22 @@
       "publishedAt": "2026-06-16T11:21:41.000Z"
     },
     {
-      "id": "bpdprg",
-      "title": "Critical Copilot vulnerability allowed hackers to seal 2FA code from users",
+      "id": "qeb4b8",
+      "title": "Critical Copilot vulnerability allowed hackers to steal 2FA code from users",
       "summary": "SearchLeak exploit shows why the industry's approach to LLM security fails over and over.",
       "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2026/06/GettyImages-2242817595-1152x648.jpg",
       "source": "Ars Technica",
       "sourceUrl": "https://arstechnica.com/security/2026/06/critical-copilot-vulnerability-allowed-hackers-to-seal-2fa-code-from-users/",
       "publishedAt": "2026-06-16T11:15:46.000Z"
+    },
+    {
+      "id": "rsh3df",
+      "title": "ChatGPT’s market share slips below 50% for first time",
+      "summary": "The chatbot still remains the most popular AI assistant worldwide with over 1.1 billion monthly users, followed by Gemini with 662 million and Claude with 245 million.",
+      "imageUrl": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=800&q=80",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/06/16/chatgpts-market-share-slips-below-50-for-first-time/",
+      "publishedAt": "2026-06-16T10:30:00.000Z"
     },
     {
       "id": "9b6vws",
@@ -300,15 +327,6 @@
       "publishedAt": "2026-06-15T15:12:28.000Z"
     },
     {
-      "id": "emphbv",
-      "title": "Salesforce acquires AI customer service platform Fin for $3.6B",
-      "summary": "Salesforce says it wants to use Fin's team and technology to improve Agentforce, its existing enterprise platform that businesses can use to build custom AI agents that automate tasks.",
-      "imageUrl": "https://images.unsplash.com/photo-1485827404703-89b55fcc595e?w=800&q=80",
-      "source": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/06/15/salesforce-acquires-ai-customer-service-platform-fin-for-3-6b/",
-      "publishedAt": "2026-06-15T14:34:45.000Z"
-    },
-    {
       "id": "a4vsw9",
       "title": "Skydio CEO Adam Bry on why Silicon Valley shouldn’t draw red lines for drone use",
       "summary": "Today, I’m talking with Adam Bry, who is CEO of Skydio, the leading US maker of autonomous drones. Before we recorded this episode, I actually got to remotely operate one of Skydio’s drones in the Bay Area from Adam’s laptop in our podcast studio in New York and fly an indoor drone around our office. You can check out the full video of that on our YouTube channel. Beyond flying drones around the country, Adam and I talked about why Skydio is so focused on the enterprise market — I asked him a…",
@@ -316,15 +334,6 @@
       "source": "The Verge",
       "sourceUrl": "https://www.theverge.com/podcast/949195/skydio-ceo-adam-bry-autonmous-drones-china-red-lines-military",
       "publishedAt": "2026-06-15T14:00:00.000Z"
-    },
-    {
-      "id": "vd6sn6",
-      "title": "Sarvam becomes India’s newest AI unicorn with $234 million funding round led by HCLTech",
-      "summary": "Indian IT services company HCLTech is investing $150 million in the Bengaluru startup.",
-      "imageUrl": "https://images.unsplash.com/photo-1676299081847-824916de030a?w=800&q=80",
-      "source": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/06/15/sarvam-becomes-indias-newest-ai-unicorn-with-234-million-funding-round-led-by-hcltech/",
-      "publishedAt": "2026-06-15T13:46:08.000Z"
     },
     {
       "id": "cpfqsn",
@@ -379,15 +388,6 @@
       "source": "Wired",
       "sourceUrl": "https://www.wired.com/story/anthropic-says-us-government-ordered-it-to-shut-down-mythos-models/",
       "publishedAt": "2026-06-13T02:26:10.000Z"
-    },
-    {
-      "id": "3tsjck",
-      "title": "Meta Employees Absolutely Hate Mark Zuckerberg’s Plan for a Companywide AI Hackathon",
-      "summary": "“I’m not sure that this company supports a hackathon culture anymore,” one employee posted in a forum open to the entire staff.",
-      "imageUrl": "https://media.wired.com/photos/6a29a9c94fc22a32725fb4b6/master/pass/Meta-Employee-Interrupts-AI-Business-AP-26085781053500.jpg",
-      "source": "Wired",
-      "sourceUrl": "https://www.wired.com/story/meta-employees-absolutely-hate-mark-zuckerbergs-hackathon-idea/",
-      "publishedAt": "2026-06-12T23:45:26.000Z"
     },
     {
       "id": "2tsxwb",
