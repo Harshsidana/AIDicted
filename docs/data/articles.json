@@ -1,7 +1,25 @@
 {
-  "fetchedAt": "2026-06-17T20:24:47.795Z",
+  "fetchedAt": "2026-06-17T22:21:41.605Z",
   "count": 60,
   "articles": [
+    {
+      "id": "4jbut",
+      "title": "Roelof Botha joins SpaceX’s board of directors",
+      "summary": "The former Sequoia Capital leader is filling an \"existing vacancy\" on SpaceX's board, days after the company went public in the largest IPO ever.",
+      "imageUrl": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=800&q=80",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/06/17/roelof-botha-joins-spacexs-board-of-directors/",
+      "publishedAt": "2026-06-17T20:32:52.000Z"
+    },
+    {
+      "id": "e6ye51",
+      "title": "After unveiling ridiculously expensive AR glasses, Snap’s stock takes a dive",
+      "summary": "Snap's long-awaited smart glasses debut hasn't exactly done wonders for the company's stock.",
+      "imageUrl": "https://images.unsplash.com/photo-1676299081847-824916de030a?w=800&q=80",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/06/17/after-unveiling-ridiculously-expensive-ar-glasses-snaps-stock-takes-a-dive/",
+      "publishedAt": "2026-06-17T20:24:28.000Z"
+    },
     {
       "id": "c7x6lv",
       "title": "NEA’s Tiffany Luck says enterprises are still figuring out their AI ROI",
@@ -10,6 +28,24 @@
       "source": "TechCrunch",
       "sourceUrl": "https://techcrunch.com/video/neas-tiffany-luck-says-enterprises-are-still-figuring-out-their-ai-roi/",
       "publishedAt": "2026-06-17T20:17:38.000Z"
+    },
+    {
+      "id": "5g3o82",
+      "title": "Massive breach spills credentials for thousands of sensitive networks",
+      "summary": "The affected include Oracle, Lenovo, FedEx, a NATO contractor, and Fortinet.",
+      "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2023/07/exploit-vulnerability-security.jpg",
+      "source": "Ars Technica",
+      "sourceUrl": "https://arstechnica.com/security/2026/06/massive-breach-spills-credentials-for-thousands-of-sensitive-networks/",
+      "publishedAt": "2026-06-17T19:54:31.000Z"
+    },
+    {
+      "id": "qbo9c3",
+      "title": "Tesco moving 40,000 server workloads off VMware amid Broadcom's “abusive conduct”",
+      "summary": "Tesco claimed Broadcom hiked its VMware prices by about 175 percent in UK court filings.",
+      "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2026/06/GettyImages-1265241057-1152x648.jpg",
+      "source": "Ars Technica",
+      "sourceUrl": "https://arstechnica.com/information-technology/2026/06/tesco-moving-40000-server-workloads-off-vmware-amid-broadcoms-abusive-conduct/",
+      "publishedAt": "2026-06-17T19:43:13.000Z"
     },
     {
       "id": "swl17",
@@ -228,15 +264,6 @@
       "publishedAt": "2026-06-17T11:15:17.000Z"
     },
     {
-      "id": "mhb5ii",
-      "title": "Pinterest launches an experimental AI shopping app called ‘Ask Pinterest’",
-      "summary": "Pinterest has launched 'Ask Pinterest,' an experimental AI-powered shopping app that lets users seek recommendations and inspiration through a conversational interface.",
-      "imageUrl": "https://images.unsplash.com/photo-1635070041078-e363dbe005cb?w=800&q=80",
-      "source": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/06/17/pinterest-launches-an-experimental-ai-shopping-app-called-ask-pinterest/",
-      "publishedAt": "2026-06-17T11:00:00.000Z"
-    },
-    {
       "id": "tbp635",
       "title": "The next humanoid robot might not look human at all",
       "summary": "The next humanoid robot might not have a head. It might not have legs. It might even sit on a wheeled base and fold down like a deck chair. But, as Genesis AI puts it, \"humanoid robots don't need to look human.\" That explains the look of Eno, the new robot from the French startup backed by former Google CEO Eric Schmidt. Genesis says Eno is designed \"around human capability\" rather than human appearance and is intended as a fully \"general-purpose\" robot rather than a machine built around a…",
@@ -262,15 +289,6 @@
       "source": "MIT Tech Review",
       "sourceUrl": "https://www.technologyreview.com/2026/06/17/1138743/hacking-atmosphere-geoengineering-reality-check/",
       "publishedAt": "2026-06-17T09:00:00.000Z"
-    },
-    {
-      "id": "axycz9",
-      "title": "Anthropic’s latest feud with the Trump admin may actually help it, sales data suggests",
-      "summary": "Anthropic's popularity with business users is growing so well that the latest beef with the government might actually boost it, data from Ramp suggests.",
-      "imageUrl": "https://images.unsplash.com/photo-1635070041078-e363dbe005cb?w=800&q=80",
-      "source": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/06/16/anthropics-latest-feud-with-the-trump-admin-may-actually-help-it-sales-data-suggests/",
-      "publishedAt": "2026-06-16T22:34:17.000Z"
     },
     {
       "id": "gewjf5",
@@ -523,24 +541,6 @@
       "source": "Ars Technica",
       "sourceUrl": "https://arstechnica.com/security/2026/06/dozens-of-red-hat-packages-backdoored-through-its-offical-npm-channel/",
       "publishedAt": "2026-06-01T19:49:09.000Z"
-    },
-    {
-      "id": "hk244o",
-      "title": "Botnet of more than 17 million devices dismantled",
-      "summary": "The botnet was reportedly tied to a Russia-based residential proxy network.",
-      "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2020/04/botnet6.jpg",
-      "source": "Ars Technica",
-      "sourceUrl": "https://arstechnica.com/security/2026/05/botnet-of-more-than-17-million-devices-dismantled/",
-      "publishedAt": "2026-05-29T18:46:33.000Z"
-    },
-    {
-      "id": "42hmdt",
-      "title": "Fed up with vibe coders, dev sneaks data-nuking prompt injection into their code",
-      "summary": "Undisclosed addition in jqwik instructed AI coding agents to delete app output.",
-      "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2026/01/coding_robots_agents-1152x648.jpg",
-      "source": "Ars Technica",
-      "sourceUrl": "https://arstechnica.com/security/2026/05/fed-up-with-vibe-coders-dev-sneaks-data-nuking-prompt-injection-into-their-code/",
-      "publishedAt": "2026-05-28T20:29:53.000Z"
     }
   ]
 }
