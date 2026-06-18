@@ -1,7 +1,16 @@
 {
-  "fetchedAt": "2026-06-17T22:21:41.605Z",
+  "fetchedAt": "2026-06-17T23:58:48.597Z",
   "count": 60,
   "articles": [
+    {
+      "id": "5o3kpx",
+      "title": "The Korean Telecom Giant at the Center of Anthropic’s Mythos Controversy",
+      "summary": "Days before Anthropic took its most advanced AI models offline, the White House ordered the company to revoke SK Telecom’s access to Claude Mythos over claims of alleged ties to China.",
+      "imageUrl": "https://media.wired.com/photos/6a22ce03ffc48019a74127a3/master/pass/GettyImages-2272066793.jpg",
+      "source": "Wired",
+      "sourceUrl": "https://www.wired.com/story/sk-telecom-anthropic-mythos-export-controls/",
+      "publishedAt": "2026-06-17T22:52:00.000Z"
+    },
     {
       "id": "4jbut",
       "title": "Roelof Botha joins SpaceX’s board of directors",
@@ -415,15 +424,6 @@
       "source": "Wired",
       "sourceUrl": "https://www.wired.com/story/anthropic-is-still-at-odds-with-the-white-house-over-claude-fable-5/",
       "publishedAt": "2026-06-16T00:53:46.000Z"
-    },
-    {
-      "id": "u1vyaw",
-      "title": "Meta CTO Andrew Bosworth Admits the Company’s AI Reorg Was ‘Atrocious’",
-      "summary": "In an internal memo seen by WIRED, Bosworth promised employees more stability, better communication, and the return of workplace perks as the company seeks to improve morale.",
-      "imageUrl": "https://media.wired.com/photos/6a3066677da677701d8b62cd/master/pass/Andrew-Bosworth-Urges-Employees-Business-2235573265.jpg",
-      "source": "Wired",
-      "sourceUrl": "https://www.wired.com/story/andrew-bosworth-meta-employees-unrest/",
-      "publishedAt": "2026-06-15T21:33:46.000Z"
     },
     {
       "id": "l7rwo0",
