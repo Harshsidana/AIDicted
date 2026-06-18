@@ -1,7 +1,25 @@
 {
-  "fetchedAt": "2026-06-18T04:55:48.167Z",
+  "fetchedAt": "2026-06-18T09:21:45.737Z",
   "count": 60,
   "articles": [
+    {
+      "id": "g670ke",
+      "title": "The UK Will Scan Asylum-Seekers’ Faces for Age Checks—Despite Knowing the Tech Is Flawed",
+      "summary": "Internal Home Office tests of age-verification technology show the risks of life-altering errors. It’s moving forward anyway.",
+      "imageUrl": "https://media.wired.com/photos/6a32f1cdd9e60209eb61b7f3/master/pass/GettyImages-2151441286.jpg",
+      "source": "Wired",
+      "sourceUrl": "https://www.wired.com/story/facial-age-estimate-uk-asylum-seekers/",
+      "publishedAt": "2026-06-18T06:00:00.000Z"
+    },
+    {
+      "id": "e38sbw",
+      "title": "Midjourney goes from generating cat images to full-body ultrasound scans",
+      "summary": "“A scan of an imaging phantom, segmented to validate how cleanly structures separate under controlled conditions.“ | Image: Midjourney Medical Midjourney CEO David Holz just showed off the company's first hardware product and plans to build a San Francisco spa, which he admitted is a bit different from the \"cat pictures\" produced by its AI image generator. Dubbed The Midjourney Scanner, it's an ultrasound-based full-body scanner that uses a ring of sensors to capture vertical slices of the…",
+      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/ultrasound_phantom_segmentation-b254a71d083eb5c9.png?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "source": "The Verge",
+      "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/952011/midjourney-medical-ai-ultrasound-scan",
+      "publishedAt": "2026-06-18T03:12:31.000Z"
+    },
     {
       "id": "m2uj98",
       "title": "How to turn off AI in your Google Docs",
@@ -372,15 +390,6 @@
       "publishedAt": "2026-06-16T12:10:00.000Z"
     },
     {
-      "id": "gnyu7j",
-      "title": "SpaceX is officially buying Cursor for $60 billion",
-      "summary": "Days after its massive IPO, SpaceX says it is spending $60 billion to buy Cursor - a bet designed to help Elon Musk's sprawling rocket / AI / social media behemoth win over lucrative enterprise customers and close the gap with AI rivals like Anthropic and OpenAI. The takeover was not entirely unexpected: SpaceX announced a peculiar arrangement in April in which it agreed to either acquire the programming platform for $60 billion or pay a $10 billion breakup fee. The company had been holding off…",
-      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/STKB355_SPACEX_E.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "source": "The Verge",
-      "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/950571/spacex-is-officially-buying-cursor-for-60-billion",
-      "publishedAt": "2026-06-16T11:41:31.000Z"
-    },
-    {
       "id": "qeb4b8",
       "title": "Critical Copilot vulnerability allowed hackers to steal 2FA code from users",
       "summary": "SearchLeak exploit shows why the industry's approach to LLM security fails over and over.",
@@ -415,15 +424,6 @@
       "source": "Wired",
       "sourceUrl": "https://www.wired.com/story/doj-lawyers-argue-xai-vital-national-security-naacp-lawsuit/",
       "publishedAt": "2026-06-16T03:06:37.000Z"
-    },
-    {
-      "id": "l8xppc",
-      "title": "Anthropic Is Still at Odds With the White House Over Claude Fable 5",
-      "summary": "Anthropic leaders flew to Washington, DC, to meet with White House officials on Monday. After high-level talks, they’re still split on the risk Claude Fable 5 presents.",
-      "imageUrl": "https://media.wired.com/photos/6a3068b96de136e1eb346f80/master/pass/Anthropic-Latest-Clash-With-White-House-Business-2280291383.jpg",
-      "source": "Wired",
-      "sourceUrl": "https://www.wired.com/story/anthropic-is-still-at-odds-with-the-white-house-over-claude-fable-5/",
-      "publishedAt": "2026-06-16T00:53:46.000Z"
     },
     {
       "id": "l7rwo0",
