@@ -1,7 +1,25 @@
 {
-  "fetchedAt": "2026-06-19T00:11:28.859Z",
+  "fetchedAt": "2026-06-19T05:35:15.573Z",
   "count": 60,
   "articles": [
+    {
+      "id": "jih5rz",
+      "title": "Source: Elastic agrees to buy CRV-backed DeductiveAI for up to $85M",
+      "summary": "DeductiveAI, a startup that uses AI to catch and resolve bugs in software, was founded just three years ago.",
+      "imageUrl": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=800&q=80",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/06/18/source-elastic-agrees-to-buy-crv-backed-deductiveai-for-up-to-85m/",
+      "publishedAt": "2026-06-19T00:51:11.000Z"
+    },
+    {
+      "id": "fusrp0",
+      "title": "Microsoft discovers new lightweight backdoor that steals cryptocurrency",
+      "summary": "Crypto Clipper spreads over USB and communicates over Tor.",
+      "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2026/02/cryptocurrency-theft-heist-1152x648.jpg",
+      "source": "Ars Technica",
+      "sourceUrl": "https://arstechnica.com/security/2026/06/microsoft-spots-new-self-propagating-malware-for-stealing-cryptocurrency/",
+      "publishedAt": "2026-06-18T23:28:52.000Z"
+    },
     {
       "id": "q1mff0",
       "title": "How the Peter Thiel-Linked Dialog Club Secretly Ranks Its Members",
@@ -102,19 +120,19 @@
       "publishedAt": "2026-06-18T17:42:18.000Z"
     },
     {
-      "id": "oqlp7n",
-      "title": "The smartphone era created an attention crisis. Slowtech is fixing it",
+      "id": "egv6hv",
+      "title": "The smartphone era created an attention crisis — slow tech is fixing it",
       "summary": "“People just really want to take back control of their time, their lives, their attention... They’re down for whatever helps them do that.”",
-      "imageUrl": "https://images.unsplash.com/photo-1531746790095-6c10a4031c5f?w=800&q=80",
+      "imageUrl": "https://images.unsplash.com/photo-1655720828018-edd2daec9349?w=800&q=80",
       "source": "TechCrunch",
       "sourceUrl": "https://techcrunch.com/2026/06/18/the-smartphone-era-created-an-attention-crisis-slowtech-is-fixing-it/",
       "publishedAt": "2026-06-18T17:16:30.000Z"
     },
     {
-      "id": "jqtdj4",
-      "title": "‘Queer Eye’s’ life coach Karamo Brown launches Kē, a wellness app featuring his AI digital clone",
-      "summary": "Karamo Brown, famous for his pep talks on Netflix’s “Queer Eye,” has jumped into the wellness and AI space with his new app, Kē. After spending a year and a half focusing on his own journey—from fitness and nutrition to meditation, sobriety, relationships, and personal growth—Brown wants to help others do the same. Kē offers […]",
-      "imageUrl": "https://images.unsplash.com/photo-1485827404703-89b55fcc595e?w=800&q=80",
+      "id": "pyw2py",
+      "title": "‘Queer Eye’ life coach Karamo Brown launches Kē, a wellness app featuring his AI digital clone",
+      "summary": "After spending a year and a half focusing on his own journey — from fitness and nutrition to meditation, sobriety, relationships, and personal growth — Brown wants to help others do the same.",
+      "imageUrl": "https://images.unsplash.com/photo-1655720828018-edd2daec9349?w=800&q=80",
       "source": "TechCrunch",
       "sourceUrl": "https://techcrunch.com/2026/06/18/queer-eyes-life-coach-karamo-brown-launches-ke-a-wellness-app-featuring-his-ai-digital-clone/",
       "publishedAt": "2026-06-18T16:55:04.000Z"
@@ -127,15 +145,6 @@
       "source": "Wired",
       "sourceUrl": "https://www.wired.com/story/amazon-workers-under-internal-investigation-after-speaking-out-about-data-centers/",
       "publishedAt": "2026-06-18T16:03:27.000Z"
-    },
-    {
-      "id": "2kbjru",
-      "title": "Amazon employees say they’re facing termination for backing data center limits",
-      "summary": "When three Amazon software engineers testified earlier this month at Seattle City Council hearings about data centers, they started their testimony by citing a city law barring employment discrimination over political speech. Now, they're accusing their employer of breaking that law by retaliating against them. On June 10th - one week after the hearing, and one day after the City Council passed a milestone moratorium on data centers - Patrick Schloesser, Darius Irani, and Liesl Wigand were each…",
-      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/STKS528_DATA_CENTERS2_C.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "source": "The Verge",
-      "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/952180/amazon-seattle-data-center-moratorium-aecj-disciplinary-action",
-      "publishedAt": "2026-06-18T16:00:00.000Z"
     },
     {
       "id": "m6fnaz",
@@ -154,33 +163,6 @@
       "source": "TechCrunch",
       "sourceUrl": "https://techcrunch.com/2026/06/18/a-tech-worker-backed-pac-is-bringing-a-5m-knife-to-big-techs-100m-gunfight/",
       "publishedAt": "2026-06-18T15:13:21.000Z"
-    },
-    {
-      "id": "md26bz",
-      "title": "Who decides when AI is too dangerous?",
-      "summary": "On today’s episode of Decoder, my guest is Hayden Field, senior AI reporter for The Verge. Often when Hayden comes on the show, it’s because something has gone wrong in the world of AI. Last weekend, that something was a pretty intense mix of Anthropic, the Trump administration, and Anthropic’s new AI model, Fable 5. On Friday, not even a week since Anthropic released Fable to the public, the US government said it was imposing export controls on the new model, as well as the underlying Mythos…",
-      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/DCD_0617_Fable5.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "source": "The Verge",
-      "sourceUrl": "https://www.theverge.com/podcast/951542/anthropic-claude-fable-5-mythos-ban-pentagon-ai-regulation-trump",
-      "publishedAt": "2026-06-18T14:00:00.000Z"
-    },
-    {
-      "id": "njolsz",
-      "title": "Photoshop and Premiere now have AI assistants",
-      "summary": "Photoshop is one of several Adobe Creative Cloud apps to receive new conversational editing capabilities. | Image: Adobe Adobe's plan to stick AI assistants into all of its Creative Cloud suite is now fully underway, with new chatbots now rolling out to its biggest editing and design apps. As part of a public beta launching today, Photoshop, Premiere, Illustrator, InDesign, and Frame.io now each have a bespoke AI Assistant that can be used to organize your work and automate app-specific tasks.…",
-      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/Adobe-Photoshop-AI-assistant-hero.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "source": "The Verge",
-      "sourceUrl": "https://www.theverge.com/tech/952099/adobe-ai-assistants-photoshop-premiere-illustrator-beta-launch",
-      "publishedAt": "2026-06-18T13:00:00.000Z"
-    },
-    {
-      "id": "n8u2si",
-      "title": "Adobe’s redesigned AI studio remembers what your creations look like",
-      "summary": "Give your characters, objects, and backgrounds a name to easily replicate them without changing the design. | Image: Adobe Adobe is introducing some new capabilities for its Firefly AI assistant, alongside a \"reimagined\" AI studio that lets you edit and generate new designs from a single interface. The new Firefly experience launching today in private beta is designed to give you \"persistent context, reusable assets, and organized workflows\" across your projects, according to Adobe, making it…",
-      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/Adobe-Firefly-AI-studio-updates-lede.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "source": "The Verge",
-      "sourceUrl": "https://www.theverge.com/tech/952104/adobe-firefly-ai-agent-elements-projects-update",
-      "publishedAt": "2026-06-18T13:00:00.000Z"
     },
     {
       "id": "91g9pz",
@@ -273,15 +255,6 @@
       "publishedAt": "2026-06-17T20:24:28.000Z"
     },
     {
-      "id": "c7x6lv",
-      "title": "NEA’s Tiffany Luck says enterprises are still figuring out their AI ROI",
-      "summary": "Tokenmaxxing was the hottest trend in Silicon Valley earlier this year, with CEOs encouraging employees to push AI usage as far as it would go. Then the bill came due. Uber reportedly blew through its annual AI budget in a few months, some companies cut Claude licenses for parts of their org, and Meta killed its internal leaderboard. This tension between […]",
-      "imageUrl": "https://images.unsplash.com/photo-1620712943543-bcc4688e7485?w=800&q=80",
-      "source": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/video/neas-tiffany-luck-says-enterprises-are-still-figuring-out-their-ai-roi/",
-      "publishedAt": "2026-06-17T20:17:38.000Z"
-    },
-    {
       "id": "5g3o82",
       "title": "Massive breach spills credentials for thousands of sensitive networks",
       "summary": "The affected include Oracle, Lenovo, FedEx, a NATO contractor, and Fortinet.",
@@ -372,6 +345,15 @@
       "publishedAt": "2026-06-17T13:30:00.000Z"
     },
     {
+      "id": "l521pf",
+      "title": "Google’s first smart speaker in six years arrives next week",
+      "summary": "The Google Home Speaker comes in four colors, including porcelain. (Stroopwafel not included.) | Photo by Jennifer Pattison Tuohy / The Verge Google's first new smart speaker in six years starts shipping on June 25th, narrowly missing its promised spring launch window. Preorders for the Google Home Speaker open today, June 17th. Nothing has changed hardware-wise in the nine months since the $99 speaker was announced. It has the same slightly squished round design, with touch-capacitive buttons…",
+      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/10/IMG_0204.jpeg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "source": "The Verge",
+      "sourceUrl": "https://www.theverge.com/tech/951147/google-home-speaker-gemini-launch-date-price-specs-features",
+      "publishedAt": "2026-06-17T13:00:00.000Z"
+    },
+    {
       "id": "7k9k4h",
       "title": "The Gemini-Powered Google Home Speaker Is Finally Here",
       "summary": "Arriving six years after Google’s last smart speaker, the new HomePod-style device was redesigned to play host to Gemini’s chatbot.",
@@ -397,6 +379,15 @@
       "source": "Ars Technica",
       "sourceUrl": "https://arstechnica.com/security/2026/06/windows-and-linux-users-the-deadline-to-update-secure-boot-keys-is-near/",
       "publishedAt": "2026-06-17T11:15:17.000Z"
+    },
+    {
+      "id": "tbp635",
+      "title": "The next humanoid robot might not look human at all",
+      "summary": "The next humanoid robot might not have a head. It might not have legs. It might even sit on a wheeled base and fold down like a deck chair. But, as Genesis AI puts it, \"humanoid robots don't need to look human.\" That explains the look of Eno, the new robot from the French startup backed by former Google CEO Eric Schmidt. Genesis says Eno is designed \"around human capability\" rather than human appearance and is intended as a fully \"general-purpose\" robot rather than a machine built around a…",
+      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/Genesis-Eno-Home-Pebble-Beach-CA-06062026-Pouring.png?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "source": "The Verge",
+      "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/951283/genesis-ai-humanoid-robot-eno",
+      "publishedAt": "2026-06-17T09:46:56.000Z"
     },
     {
       "id": "62192v",
@@ -442,6 +433,24 @@
       "source": "Wired",
       "sourceUrl": "https://www.wired.com/story/dangerous-ai-models-are-coming-no-matter-what/",
       "publishedAt": "2026-06-16T17:50:52.000Z"
+    },
+    {
+      "id": "949ju1",
+      "title": "Apple 2027 rumors: AirPods with cameras for AI and the second folding iPhone",
+      "summary": "AirPods Pro 3 shown with an iPhone and live translation features. | Photo by Amelia Holowaty Krales / The Verge Now that we're clear of WWDC and all of the new AI-powered features coming to Apple's platforms, Bloomberg reporter Mark Gurman has more details about rumored new hardware, like the camera-equipped AirPods he'd previously written about. He says they are currently on schedule for a late 2027 launch, and that while we're checking out beta releases for this fall's iOS 27 update, the new…",
+      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/09/257943_Airpods_Pro3_AKrales_0078.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "source": "The Verge",
+      "sourceUrl": "https://www.theverge.com/tech/950826/apple-airpod-camera-ai-foldable-iphone-rumor",
+      "publishedAt": "2026-06-16T17:04:05.000Z"
+    },
+    {
+      "id": "8535np",
+      "title": "Qualcomm’s latest chip hints that more powerful smart glasses could be on the way",
+      "summary": "Smart glasses are still a nascent category, but chipmaker Qualcomm is hard at work upgrading the silicon to power the next wave of XR devices: the Snapdragon Reality Elite. Although Qualcomm is announcing the chip today at Augmented World Expo, we've technically already gotten a hands-on with a device powered by the new chip at last month's Google I/O: the forthcoming Aura glasses for Android XR. At the time, Xreal and Google were coy about the processor upgrades to the long-awaited spectacles.…",
+      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/snapdragonreality.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "source": "The Verge",
+      "sourceUrl": "https://www.theverge.com/gadgets/950229/qualcomm-snapdragon-reality-elite-xr-smart-glasses-wearables",
+      "publishedAt": "2026-06-16T17:00:00.000Z"
     },
     {
       "id": "9w4w23",
@@ -532,15 +541,6 @@
       "source": "Ars Technica",
       "sourceUrl": "https://arstechnica.com/security/2026/06/highly-reviewed-speaker-can-be-hacked-over-the-air-to-infect-connected-devices/",
       "publishedAt": "2026-06-05T21:00:29.000Z"
-    },
-    {
-      "id": "ng11dv",
-      "title": "Dashlane explains how attackers managed to download encrypted password vaults",
-      "summary": "By targeting large numbers of users, attackers increased their chances of success.",
-      "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2022/07/password-login-1000x648.jpeg",
-      "source": "Ars Technica",
-      "sourceUrl": "https://arstechnica.com/security/2026/06/dashlane-explains-how-attackers-managed-to-download-encrypted-password-vaults/",
-      "publishedAt": "2026-06-04T20:02:04.000Z"
     }
   ]
 }
