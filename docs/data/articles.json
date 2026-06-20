@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-06-20T21:49:22.440Z",
+  "fetchedAt": "2026-06-20T23:17:14.805Z",
   "count": 60,
   "articles": [
     {
@@ -19,6 +19,15 @@
       "source": "TechCrunch",
       "sourceUrl": "https://techcrunch.com/2026/06/20/in-the-weights-is-your-new-ai-centric-vanity-search/",
       "publishedAt": "2026-06-20T19:41:11.000Z"
+    },
+    {
+      "id": "xeqs4g",
+      "title": "The Atlantic created a searchable database of the music used to train AI",
+      "summary": "Atlantic reporter Alex Reisner recently uncovered four datasets of music being used to train AI models and made them fully searchable for the public. Two of the sets are absolutely enormous at 12 million and 9 million tracks. The other two are much smaller, but still represent a significant amount of training data at over 100,000 songs each. According to Reisner, the sets have been downloaded thousands of times and, while it's impossible to know exactly who has used them, Google and Stability…",
+      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/01/STK467_AI_MUSIC_CVirginia_B.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "source": "The Verge",
+      "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/953183/the-atlantic-searchable-database-music-ai-training-data",
+      "publishedAt": "2026-06-20T18:46:48.000Z"
     },
     {
       "id": "f9u7dn",
@@ -415,15 +424,6 @@
       "source": "Wired",
       "sourceUrl": "https://www.wired.com/story/the-white-house-wants-anthropic-to-block-all-jailbreaks-that-may-not-be-possible/",
       "publishedAt": "2026-06-17T17:00:00.000Z"
-    },
-    {
-      "id": "32er6r",
-      "title": "Vibe-decoding the White House-Anthropic fight over Fable",
-      "summary": "CEO of Anthropic Dario Amodei attends a working lunch with G7 leaders, G7 outreach partners, and global tech CEOs on innovation and AI, during the G7 Summit on June 17th, 2026, in Evian-les-Bains, France. | Photo: Anna Moneymaker / Getty Images Hello and welcome to Regulator, an email for Verge subscribers about technology, politics, and what happens when science crashes headlong into self-interest. Not a subscriber? Sign up here today! Got the scoop on a petty feud that's going to somehow…",
-      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/gettyimages-2282033342.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "source": "The Verge",
-      "sourceUrl": "https://www.theverge.com/column/951516/trump-anthropic-feud-mythos-fable-white-house",
-      "publishedAt": "2026-06-17T16:27:00.000Z"
     },
     {
       "id": "7k9k4h",
