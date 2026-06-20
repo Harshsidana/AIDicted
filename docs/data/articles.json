@@ -1,15 +1,24 @@
 {
-  "fetchedAt": "2026-06-20T18:55:39.097Z",
+  "fetchedAt": "2026-06-20T21:49:22.440Z",
   "count": 60,
   "articles": [
     {
-      "id": "xeqs4g",
-      "title": "The Atlantic created a searchable database of the music used to train AI",
-      "summary": "Atlantic reporter Alex Reisner recently uncovered four datasets of music being used to train AI models and made them fully searchable for the public. Two of the sets are absolutely enormous at 12 million and 9 million tracks. The other two are much smaller, but still represent a significant amount of training data at over 100,000 songs each. According to Reisner, the sets have been downloaded thousands of times and, while it's impossible to know exactly who has used them, Google and Stability…",
-      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/01/STK467_AI_MUSIC_CVirginia_B.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "source": "The Verge",
-      "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/953183/the-atlantic-searchable-database-music-ai-training-data",
-      "publishedAt": "2026-06-20T18:46:48.000Z"
+      "id": "luhg6t",
+      "title": "Signal’s Meredith Whittaker wants you to remember that AI chatbots ‘are not your friends’",
+      "summary": "\"These are not your friends. These are not conscious beings. These are not sentient interlocutors.”",
+      "imageUrl": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=800&q=80",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/06/20/signals-meredith-whittaker-wants-you-to-remember-that-ai-chatbots-are-not-your-friends/",
+      "publishedAt": "2026-06-20T20:32:29.000Z"
+    },
+    {
+      "id": "4bupp6",
+      "title": "In the Weights is your new AI-centric vanity search",
+      "summary": "So ... what's your In the Weights score?",
+      "imageUrl": "https://images.unsplash.com/photo-1635070041078-e363dbe005cb?w=800&q=80",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/06/20/in-the-weights-is-your-new-ai-centric-vanity-search/",
+      "publishedAt": "2026-06-20T19:41:11.000Z"
     },
     {
       "id": "f9u7dn",
@@ -237,15 +246,6 @@
       "publishedAt": "2026-06-18T18:22:13.000Z"
     },
     {
-      "id": "mrakos",
-      "title": "AI data centers just got a government-mandated fast lane to the grid",
-      "summary": "FERC told grid operators to give data centers a fast lane for interconnections, but it failed to address electricity supply shortages.",
-      "imageUrl": "https://images.unsplash.com/photo-1550751827-4bd374c3f58b?w=800&q=80",
-      "source": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/06/18/ai-data-centers-just-got-a-government-mandated-fast-lane-to-the-grid/",
-      "publishedAt": "2026-06-18T17:49:23.000Z"
-    },
-    {
       "id": "ui15zb",
       "title": "Before SpaceX IPO, investors in China secretly acquired stakes",
       "summary": "One previously unreported SpaceX investor has ties to Chinese military contractors.",
@@ -253,15 +253,6 @@
       "source": "Ars Technica",
       "sourceUrl": "https://arstechnica.com/information-technology/2026/06/before-spacex-ipo-investors-in-china-secretly-acquired-stakes/",
       "publishedAt": "2026-06-18T17:42:18.000Z"
-    },
-    {
-      "id": "egv6hv",
-      "title": "The smartphone era created an attention crisis — slow tech is fixing it",
-      "summary": "“People just really want to take back control of their time, their lives, their attention... They’re down for whatever helps them do that.”",
-      "imageUrl": "https://images.unsplash.com/photo-1655720828018-edd2daec9349?w=800&q=80",
-      "source": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/06/18/the-smartphone-era-created-an-attention-crisis-slowtech-is-fixing-it/",
-      "publishedAt": "2026-06-18T17:16:30.000Z"
     },
     {
       "id": "v7tadc",
@@ -424,6 +415,15 @@
       "source": "Wired",
       "sourceUrl": "https://www.wired.com/story/the-white-house-wants-anthropic-to-block-all-jailbreaks-that-may-not-be-possible/",
       "publishedAt": "2026-06-17T17:00:00.000Z"
+    },
+    {
+      "id": "32er6r",
+      "title": "Vibe-decoding the White House-Anthropic fight over Fable",
+      "summary": "CEO of Anthropic Dario Amodei attends a working lunch with G7 leaders, G7 outreach partners, and global tech CEOs on innovation and AI, during the G7 Summit on June 17th, 2026, in Evian-les-Bains, France. | Photo: Anna Moneymaker / Getty Images Hello and welcome to Regulator, an email for Verge subscribers about technology, politics, and what happens when science crashes headlong into self-interest. Not a subscriber? Sign up here today! Got the scoop on a petty feud that's going to somehow…",
+      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/gettyimages-2282033342.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "source": "The Verge",
+      "sourceUrl": "https://www.theverge.com/column/951516/trump-anthropic-feud-mythos-fable-white-house",
+      "publishedAt": "2026-06-17T16:27:00.000Z"
     },
     {
       "id": "7k9k4h",
