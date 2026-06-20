@@ -1,7 +1,16 @@
 {
-  "fetchedAt": "2026-06-20T08:03:08.652Z",
+  "fetchedAt": "2026-06-20T12:56:52.754Z",
   "count": 60,
   "articles": [
+    {
+      "id": "pwo57b",
+      "title": "Siri AI Hands On: A Smart, Helpful Assistant",
+      "summary": "The new Siri AI is conversational, omnipresent, and actually helpful.",
+      "imageUrl": "https://media.wired.com/photos/6a33443c27f7de3a00911dff/master/pass/Gear_TestingSiriAI-v1.jpg",
+      "source": "Wired",
+      "sourceUrl": "https://www.wired.com/story/siri-ai-hands-on-iphone/",
+      "publishedAt": "2026-06-20T10:00:00.000Z"
+    },
     {
       "id": "4nakgq",
       "title": "From PGP to Mythos: a brief history of export controls that didn’t stop anyone",
@@ -469,15 +478,6 @@
       "source": "Ars Technica",
       "sourceUrl": "https://arstechnica.com/information-technology/2026/06/hpe-tempts-vmware-users-partners-with-year-of-free-virtualization-software/",
       "publishedAt": "2026-06-16T22:11:15.000Z"
-    },
-    {
-      "id": "scesi2",
-      "title": "‘Dangerous’ AI Models Are Coming No Matter What",
-      "summary": "The US government crackdown on Anthropic’s Claude Fable 5 and Mythos 5 hides a glaring truth: AI models with advanced hacking capabilities will soon be the norm.",
-      "imageUrl": "https://media.wired.com/photos/6a30202e9402edb0adc1701d/master/pass/GettyImages-2280291188.jpg",
-      "source": "Wired",
-      "sourceUrl": "https://www.wired.com/story/dangerous-ai-models-are-coming-no-matter-what/",
-      "publishedAt": "2026-06-16T17:50:52.000Z"
     },
     {
       "id": "qeb4b8",
