@@ -1,7 +1,43 @@
 {
-  "fetchedAt": "2026-06-22T05:17:41.455Z",
+  "fetchedAt": "2026-06-22T11:16:01.276Z",
   "count": 60,
   "articles": [
+    {
+      "id": "ped6dx",
+      "title": "Read this before you vibe-code another app",
+      "summary": "Bob Starr was delighted with his vibe-coded website. \"Boomberg\" showed how much US tax money is going to tech companies, and Starr launched it online immediately after making it. It wasn't until months after the site went live that he realized there was a problem: a hidden SQL injection risk. It could've left the site open for an attacker to read or alter data they shouldn't have access to. \"It was just a glaring oversight on my part. It was a complete blindspot in my state of learning this new…",
+      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/268570_vibe_coding_security_CVirginia2.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "source": "The Verge",
+      "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/950844/vibe-coding-security-risks-apps",
+      "publishedAt": "2026-06-22T11:00:00.000Z"
+    },
+    {
+      "id": "513kti",
+      "title": "Some Electricians Think Building Data Centers Is for Sellouts",
+      "summary": "Big Tech is throwing big money into data center buildouts. As national opposition to the facilities grows, some workers are beginning to question whether it’s worth it.",
+      "imageUrl": "https://media.wired.com/photos/6a317f4a898b4be9664d5a85/master/pass/Business_ElectriciansHaveaLotofComplicatedFeelingsAboutBuildingDataCenters-v1.jpg",
+      "source": "Wired",
+      "sourceUrl": "https://www.wired.com/story/data-center-buildout-electricians-selling-out/",
+      "publishedAt": "2026-06-22T09:30:00.000Z"
+    },
+    {
+      "id": "491w27",
+      "title": "World Cup Scams Are Getting Harder to Spot",
+      "summary": "From fake tickets to cloned websites, AI is magnifying World Cup scams. Can fans distinguish between what’s real and what’s not?",
+      "imageUrl": "https://media.wired.com/clips/6a33f50cfdecea08d2cf6a9a/master/pass/WorldcupScam_lead.mp4",
+      "source": "Wired",
+      "sourceUrl": "https://www.wired.com/story/world-cup-scams-are-getting-harder-to-spot/",
+      "publishedAt": "2026-06-22T09:30:00.000Z"
+    },
+    {
+      "id": "vrq66y",
+      "title": "Inside the world’s deepest and longest subsea road tunnel",
+      "summary": "It’s cold, it’s very, very noisy, and—if I can be quite honest with you—I’m not feeling super relaxed. I’m currently around 300 meters, or 1,000 feet, beneath the North Sea, in a dark, dank cave. It smells weird. And I am increasingly aware of the pressure from millions of tons of seawater just above my…",
+      "imageUrl": "https://images.unsplash.com/photo-1485827404703-89b55fcc595e?w=800&q=80",
+      "source": "MIT Tech Review",
+      "sourceUrl": "https://www.technologyreview.com/2026/06/22/1138821/inside-worlds-deepest-longest-subsea-road-tunnel/",
+      "publishedAt": "2026-06-22T08:00:00.000Z"
+    },
     {
       "id": "5o7vll",
       "title": "When the Trump administration cracks down on Anthropic, who benefits?",
@@ -176,7 +212,7 @@
     {
       "id": "2iktb1",
       "title": "Barret Zoph is out at OpenAI again after just five months",
-      "summary": "Five months after returning to OpenAI, Barret Zoph - the company's head of enterprise AI sales - has departed, The Verge has learned. Zoph returned to OpenAI in mid-January after a stint as co-founder and CTO of Thinking Machines Lab, the competing AI company founded by former OpenAI CTO Mira Murati. Shortly after Zoph returned to OpenAI, the company said he would lead its push into enterprise - a significant role at OpenAI, since in recent months it had vowed to stop chasing so-called \"side…",
+      "summary": "Five months after returning to OpenAI, Barret Zoph - the company's head of enterprise AI sales - has departed, The Verge has learned. Zoph returned to OpenAI in mid-January after a stint as cofounder and CTO of Thinking Machines Lab, the competing AI company founded by former OpenAI CTO Mira Murati. Shortly after Zoph returned to OpenAI, the company said he would lead its push into enterprise - a significant role at OpenAI, since in recent months it had vowed to stop chasing so-called \"side…",
       "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/04/STK155_OPEN_AI_CVirginia_C.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
       "source": "The Verge",
       "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/952837/barret-zoph-openai-thinking-machines-lab",
@@ -399,15 +435,6 @@
       "publishedAt": "2026-06-17T18:28:50.000Z"
     },
     {
-      "id": "udx73",
-      "title": "Operating a Humanoid With Your Body Is a Hot Job in China’s Hardware Capital",
-      "summary": "In Shenzhen, workers at IO-AI Tech control humanoid robots using a VR rig reminiscent of Ready Player One.",
-      "imageUrl": "https://media.wired.com/photos/6a31de8a8b1536f155402681/master/pass/AI-Lab-Operating-Humanoid-With-Your-Body-is-Hot-Job-in-China-Hardware-Capital-Business.jpg",
-      "source": "Wired",
-      "sourceUrl": "https://www.wired.com/story/humanoid-robot-training-in-chinas-hardware-capital/",
-      "publishedAt": "2026-06-17T18:25:35.000Z"
-    },
-    {
       "id": "lgvhrl",
       "title": "\"Dangerous\" AI models are coming no matter what",
       "summary": "AI models with advanced hacking capabilities will soon be the norm.",
@@ -415,24 +442,6 @@
       "source": "Ars Technica",
       "sourceUrl": "https://arstechnica.com/ai/2026/06/dangerous-ai-models-are-coming-no-matter-what/",
       "publishedAt": "2026-06-17T17:50:46.000Z"
-    },
-    {
-      "id": "ga7g6j",
-      "title": "Two-thirds of Americans think AI is advancing too quickly",
-      "summary": "According to the latest Pew Research poll, 49 percent of Americans report using chatbots at least occasionally, but 63 percent think the tech is advancing too quickly. Overall, use of AI chatbots has increased dramatically since 2024, when only 33 percent reported using them. Specifically, ChatGPT's usage has doubled since 2023, with 44 percent of respondents saying they've used it. But opinions remain negative, with only 16 percent saying that AI will have a positive impact on society.…",
-      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/04/STK_414_AI_J-copy.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "source": "The Verge",
-      "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/951653/pew-research-ai-chatbot-usage-advancing-too-quickly",
-      "publishedAt": "2026-06-17T17:20:24.000Z"
-    },
-    {
-      "id": "nzcazd",
-      "title": "The White House Wants Anthropic to Block All Jailbreaks. That May Not Be Possible",
-      "summary": "Trump administration officials tell WIRED that if Anthropic wants to rerelease Fable 5, it will need to ensure the model's guardrails can't be circumvented. Security experts say that can't be done.",
-      "imageUrl": "https://media.wired.com/photos/6a31d49a95ac419546b42eb7/master/pass/politics_white_house_anthropic.jpg",
-      "source": "Wired",
-      "sourceUrl": "https://www.wired.com/story/the-white-house-wants-anthropic-to-block-all-jailbreaks-that-may-not-be-possible/",
-      "publishedAt": "2026-06-17T17:00:00.000Z"
     },
     {
       "id": "qn7t01",
@@ -459,15 +468,6 @@
       "imageUrl": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=800&q=80",
       "source": "MIT Tech Review",
       "sourceUrl": "https://www.technologyreview.com/2026/06/17/1138600/entrepreneurs-nairobi-case-for-going-solar/",
-      "publishedAt": "2026-06-17T09:00:00.000Z"
-    },
-    {
-      "id": "kaxb8n",
-      "title": "Hacking the atmosphere: Geoengineering gets a reality check",
-      "summary": "Jim Franke pulls away the cover page of a presentation on the wraparound desk in his office, revealing an illustration of an odd-­looking aircraft with massive wings stretching out from a stubby fuselage. The uncrewed plane is soaring thousands of meters higher than commercial jets fly—so high you can see the curvature of the Earth.…",
-      "imageUrl": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=800&q=80",
-      "source": "MIT Tech Review",
-      "sourceUrl": "https://www.technologyreview.com/2026/06/17/1138743/hacking-atmosphere-geoengineering-reality-check/",
       "publishedAt": "2026-06-17T09:00:00.000Z"
     },
     {
