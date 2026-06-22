@@ -1,11 +1,65 @@
 {
-  "fetchedAt": "2026-06-22T16:12:59.330Z",
+  "fetchedAt": "2026-06-22T19:54:22.905Z",
   "count": 60,
   "articles": [
     {
+      "id": "ymdzqt",
+      "title": "Following user outcry, AMD reinstates memory encryption in consumer CPUs",
+      "summary": "Critics saw the move as an underhanded way to steer them toward more costly chips.",
+      "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2025/07/GettyImages-1952157610-1152x648-1753386930.jpg",
+      "source": "Ars Technica",
+      "sourceUrl": "https://arstechnica.com/security/2026/06/following-user-outcry-amd-reinstates-memory-encryption-in-consumer-cpus/",
+      "publishedAt": "2026-06-22T19:16:52.000Z"
+    },
+    {
+      "id": "rptuqq",
+      "title": "Google DeepMind bets $75M on AI’s future in Hollywood with A24 deal",
+      "summary": "Google DeepMind and A24 are teaming up to build AI filmmaking tools.",
+      "imageUrl": "https://images.unsplash.com/photo-1485827404703-89b55fcc595e?w=800&q=80",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/06/22/google-deepmind-bets-75m-on-ais-future-in-hollywood-with-a24-deal/",
+      "publishedAt": "2026-06-22T18:49:44.000Z"
+    },
+    {
+      "id": "9fk24q",
+      "title": "Three things to watch amid Anthropic’s latest feud with the government",
+      "summary": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here. For those of you enjoying your summer unaware of Anthropic’s latest feud with the US government, here’s a recap: In April the company said it had built an AI model called Mythos…",
+      "imageUrl": "https://images.unsplash.com/photo-1620712943543-bcc4688e7485?w=800&q=80",
+      "source": "MIT Tech Review",
+      "sourceUrl": "https://www.technologyreview.com/2026/06/22/1139424/three-things-to-watch-amid-anthropics-latest-feud-with-the-government/",
+      "publishedAt": "2026-06-22T18:00:00.000Z"
+    },
+    {
+      "id": "bix1ed",
+      "title": "Amazon is testing Alexa+ in India with Hindi support",
+      "summary": "Amazon is planning to increase the footprint of its new conversational AI assistant Alexa+ to India and is inviting users in the country to test out a Hindi-language version.",
+      "imageUrl": "https://images.unsplash.com/photo-1620712943543-bcc4688e7485?w=800&q=80",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/06/22/amazon-is-testing-alexa-in-india-with-hindi-support/",
+      "publishedAt": "2026-06-22T17:31:29.000Z"
+    },
+    {
+      "id": "qulkzo",
+      "title": "OpenAI Launches Full-Scale Effort to Patch Open-Source Bugs as It Takes on Anthropic’s Mythos",
+      "summary": "Amid concerns about AI models’ cybersecurity capabilities, OpenAI revealed an improved version of GPT-5.5-Cyber and its “Patch the Planet” initiative to fix open-source software bugs.",
+      "imageUrl": "https://media.wired.com/photos/6a2fc599a8e3255f0ac3665f/master/pass/061526_OpenAI%20Hires%20an%20Army%20to%20Patch%20Open%20Source%20Bugs%20as%20It%20Battles%20Mythos%20for%20Cyber%20AI%20Supremacy.jpg",
+      "source": "Wired",
+      "sourceUrl": "https://www.wired.com/story/openai-launches-full-scale-effort-to-patch-open-source-bugs-as-it-takes-on-anthropics-mythos/",
+      "publishedAt": "2026-06-22T17:00:00.000Z"
+    },
+    {
+      "id": "2atoip",
+      "title": "SpaceX inks compute deal with Reflection AI, an open source AI lab",
+      "summary": "Reflection AI will pay $150 million a month beginning July 1, 2026 through 2029 for immediate access to Nvidia's latest GB300 AI chips and supporting hardware across SpaceX's Colossus 2 data center near Memphis, Tennessee.",
+      "imageUrl": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=800&q=80",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/06/22/spacex-inks-compute-deal-with-reflection-ai-an-open-source-ai-lab/",
+      "publishedAt": "2026-06-22T16:51:29.000Z"
+    },
+    {
       "id": "536chp",
       "title": "The founder conference built for growth: TechCrunch Founder Summit pass rates increase June 26",
-      "summary": "Save up to $190 on your pass to TechCrunch Founder Summit 2026 by June 26, 11:59 p.m. PT. Designed for founders first on November 4 in Boston. Register here.",
+      "summary": "Save up to $190 on your pass to TechCrunch Founder Summit 2026 by June 26, 11:59 p.m. PT. Designed for founders first on November 4 in Boston. Register today.",
       "imageUrl": "https://images.unsplash.com/photo-1531746790095-6c10a4031c5f?w=800&q=80",
       "source": "TechCrunch",
       "sourceUrl": "https://techcrunch.com/2026/06/22/the-founder-conference-built-for-growth-techcrunch-founder-summit-pass-rates-increase-june-26/",
@@ -237,15 +291,6 @@
       "publishedAt": "2026-06-19T04:49:33.000Z"
     },
     {
-      "id": "w0xobd",
-      "title": "Source: Elastic agrees to buy CRV-backed Deductive AI for up to $85M",
-      "summary": "Deductive AI, a startup that uses AI to catch and resolve bugs in software, was founded just three years ago.",
-      "imageUrl": "https://images.unsplash.com/photo-1676299081847-824916de030a?w=800&q=80",
-      "source": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/06/18/source-elastic-agrees-to-buy-crv-backed-deductiveai-for-up-to-85m/",
-      "publishedAt": "2026-06-19T00:51:11.000Z"
-    },
-    {
       "id": "fusrp0",
       "title": "Microsoft discovers new lightweight backdoor that steals cryptocurrency",
       "summary": "Crypto Clipper spreads over USB and communicates over Tor.",
@@ -264,15 +309,6 @@
       "publishedAt": "2026-06-18T22:12:45.000Z"
     },
     {
-      "id": "v807fl",
-      "title": "AI inference startup Baseten reportedly raising $1.5B months after its last mega-round",
-      "summary": "Startup Baseten is reportedly close to finalizing a $1.5 billion round at a $13 billion as the “inference gold rush\" marches on.",
-      "imageUrl": "https://images.unsplash.com/photo-1620712943543-bcc4688e7485?w=800&q=80",
-      "source": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/06/18/ai-inference-startup-baseten-reportedly-raising-1-5b-months-after-its-last-mega-round/",
-      "publishedAt": "2026-06-18T21:20:13.000Z"
-    },
-    {
       "id": "rduz2i",
       "title": "The White House Is Making Up Its Rules for AI in Real Time",
       "summary": "Anthropic still can’t distribute Claude Mythos or Fable 5 after running afoul of the Trump administration. But no one can say exactly what the company did wrong.",
@@ -280,15 +316,6 @@
       "source": "Wired",
       "sourceUrl": "https://www.wired.com/story/anthropic-mythos-export-controls-ai-regulations/",
       "publishedAt": "2026-06-18T21:03:43.000Z"
-    },
-    {
-      "id": "u3auk5",
-      "title": "Snap spins off AI video team into new company, Dotmo, due to costs",
-      "summary": "The Snapchat maker is spinning off yet another internal unit. Dotmo will be composed of current Snap staff who are leaving the social media company to focus on AI video development.",
-      "imageUrl": "https://images.unsplash.com/photo-1550751827-4bd374c3f58b?w=800&q=80",
-      "source": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/06/18/snap-spins-off-ai-video-team-into-new-company-dotmo-due-to-costs/",
-      "publishedAt": "2026-06-18T20:30:00.000Z"
     },
     {
       "id": "m9flv2",
@@ -408,15 +435,6 @@
       "publishedAt": "2026-06-18T03:12:31.000Z"
     },
     {
-      "id": "5o3kpx",
-      "title": "The Korean Telecom Giant at the Center of Anthropic’s Mythos Controversy",
-      "summary": "Days before Anthropic took its most advanced AI models offline, the White House ordered the company to revoke SK Telecom’s access to Claude Mythos over claims of alleged ties to China.",
-      "imageUrl": "https://media.wired.com/photos/6a22ce03ffc48019a74127a3/master/pass/GettyImages-2272066793.jpg",
-      "source": "Wired",
-      "sourceUrl": "https://www.wired.com/story/sk-telecom-anthropic-mythos-export-controls/",
-      "publishedAt": "2026-06-17T22:52:00.000Z"
-    },
-    {
       "id": "5g3o82",
       "title": "Massive breach spills credentials for thousands of sensitive networks",
       "summary": "The affected include Oracle, Lenovo, FedEx, a NATO contractor, and Fortinet.",
@@ -451,15 +469,6 @@
       "source": "Ars Technica",
       "sourceUrl": "https://arstechnica.com/ai/2026/06/dangerous-ai-models-are-coming-no-matter-what/",
       "publishedAt": "2026-06-17T17:50:46.000Z"
-    },
-    {
-      "id": "qn7t01",
-      "title": "The Download: a reality check for geoengineering and the science of interoception",
-      "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. Hacking the atmosphere: geoengineering gets a reality check Solar geoengineering, the controversial idea that we could deliberately intervene in the climate system to counteract global warming, is moving beyond computer simulations…",
-      "imageUrl": "https://images.unsplash.com/photo-1550751827-4bd374c3f58b?w=800&q=80",
-      "source": "MIT Tech Review",
-      "sourceUrl": "https://www.technologyreview.com/2026/06/17/1139200/the-download-solar-geoengineering-interoception/",
-      "publishedAt": "2026-06-17T12:10:00.000Z"
     },
     {
       "id": "vtf64q",
@@ -532,15 +541,6 @@
       "source": "Ars Technica",
       "sourceUrl": "https://arstechnica.com/security/2026/06/for-the-2nd-time-in-weeks-microsoft-packages-laced-with-credential-stealer/",
       "publishedAt": "2026-06-08T18:34:23.000Z"
-    },
-    {
-      "id": "9el4r7",
-      "title": "How a USB-connected speaker can infect a PC without ever being touched",
-      "summary": "Seller of the Sound Blaster Katana V2X doesn't consider the behavior a vulnerability.",
-      "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2026/06/sound-blaster-katana-v2x-1152x648-1780688877.jpg",
-      "source": "Ars Technica",
-      "sourceUrl": "https://arstechnica.com/security/2026/06/highly-reviewed-speaker-can-be-hacked-over-the-air-to-infect-connected-devices/",
-      "publishedAt": "2026-06-05T21:00:29.000Z"
     }
   ]
 }
