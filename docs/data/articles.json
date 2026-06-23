@@ -1,7 +1,61 @@
 {
-  "fetchedAt": "2026-06-23T11:40:10.942Z",
+  "fetchedAt": "2026-06-23T15:17:20.869Z",
   "count": 60,
   "articles": [
+    {
+      "id": "4q3cha",
+      "title": "The Fitbit Air takes a smarter approach to the AI health dumpster fire",
+      "summary": "The Google Fitbit Air is one of the better attempts at an AI-compatible health tracker. Google Health Coach seems to think I'm on the verge of physical collapse. My sleep is not where it needs to be, hence my unimpressive readiness score. My heart rate variability, a measure of how recovered I am, is below baseline. I'm spending too much time in a hot, humid environment, it says, reminding me temperatures are creeping above 90 degrees Fahrenheit. According to Google's AI coach, I should skip my…",
+      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/05/268538_Fitbit_Air_AKrales_0012.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "source": "The Verge",
+      "sourceUrl": "https://www.theverge.com/tech/954768/google-fitbit-air-review-fitness-tracker-wearable-ai-health-coach",
+      "publishedAt": "2026-06-23T15:00:00.000Z"
+    },
+    {
+      "id": "68qh4v",
+      "title": "4 days left to save up to $190 on TechCrunch Founder Summit 2026",
+      "summary": "Four days left to save up to $190 on your pass to TechCrunch Founder Summit 2026 - the ultimate founder bootcamp - before Early Bird rates end on June 26 at 11:59 p.m. PT. Register here.",
+      "imageUrl": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=800&q=80",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/06/23/4-days-left-to-save-up-to-190-on-techcrunch-founder-summit-2026/",
+      "publishedAt": "2026-06-23T14:00:00.000Z"
+    },
+    {
+      "id": "1l51cs",
+      "title": "Sony’s AI Camera Assistant is exactly as bad as it looks",
+      "summary": "I’m sorry Sony, your AI isn’t very good at photography. When Sony announced the Xperia 1 VIII last month, it promoted the phone by sharing some of the worst photos taken on a Sony camera in years. These weren't just any photos, though: they were taken with Sony's new AI Camera Assistant. After a week with the Xperia 1 VIII, I'm here to tell you that the AI assistant is exactly as bad as Sony made it look. After Sony first showed me the AI Camera Assistant during a press briefing for the Xperia 1…",
+      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/sony-xperia-1-viii-ai-camera-assistant-samples.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "source": "The Verge",
+      "sourceUrl": "https://www.theverge.com/tech/954676/sony-xperia-1-viii-ai-camera-assistant",
+      "publishedAt": "2026-06-23T13:25:42.000Z"
+    },
+    {
+      "id": "iqzrtt",
+      "title": "Fika Jobs raises $4M to build a video-first hiring platform where AI agents interview candidates",
+      "summary": "Stockholm-based startup Fika Jobs is building a video-first hiring platform that combines AI interview agents with short-form video profiles, creating something that feels like a cross between LinkedIn and TikTok.",
+      "imageUrl": "https://images.unsplash.com/photo-1531746790095-6c10a4031c5f?w=800&q=80",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/06/23/fika-jobs-raises-4m-to-build-a-video-first-hiring-platform-where-ai-agents-interview-candidates/",
+      "publishedAt": "2026-06-23T13:00:00.000Z"
+    },
+    {
+      "id": "xs04cz",
+      "title": "Meta launches cheaper smart glasses without Ray-Ban",
+      "summary": "For the past three years, \"Meta\" and \"Ray-Ban\" have been synonymous in the smart glasses space. Not anymore. Yesterday, I slipped on several pairs of Meta Glasses - no Ray-Bans - in three different styles and seven colors. One style, I was told several times by various enthusiastic Meta spokespeople, is a collaboration with socialite and reality TV star Kylie Jenner. Meta could've struck out on its own from the get-go, but teaming up with EssilorLuxottica and the Ray-Ban brand was a savvy move…",
+      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/MetaGlasses_1.jpg?quality=90&#038;strip=all&#038;crop=8.55,21.565660205136,82.25546875,73.01650212582",
+      "source": "The Verge",
+      "sourceUrl": "https://www.theverge.com/tech/954052/meta-glasses-hands-on-kylie-jenner-smart-glasses-price-battery-privacy",
+      "publishedAt": "2026-06-23T13:00:00.000Z"
+    },
+    {
+      "id": "gpg241",
+      "title": "The Download: the future of chipmaking and Anthropic’s government clash",
+      "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. The $400 million machine powering the future of chipmaking It’s a bit of a schlep to get to the top of ASML’s newest machine. It’s about the size of a double-decker…",
+      "imageUrl": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=800&q=80",
+      "source": "MIT Tech Review",
+      "sourceUrl": "https://www.technologyreview.com/2026/06/23/1139483/the-download-chipmaking-future-asml-ai-anthropic-government-clash/",
+      "publishedAt": "2026-06-23T12:10:00.000Z"
+    },
     {
       "id": "x2x124",
       "title": "Elephant alert! AI warning systems aim to avoid deadly clashes",
@@ -264,15 +318,6 @@
       "publishedAt": "2026-06-20T18:46:48.000Z"
     },
     {
-      "id": "f9u7dn",
-      "title": "Nobel laureate John Jumper is leaving DeepMind for rival Anthropic",
-      "summary": "Jumper isn't the only big name leaving Google DeepMind.",
-      "imageUrl": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=800&q=80",
-      "source": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/06/20/nobel-laureate-john-jumper-is-leaving-deepmind-for-rival-anthropic/",
-      "publishedAt": "2026-06-20T16:39:57.000Z"
-    },
-    {
       "id": "pwo57b",
       "title": "Siri AI Hands On: A Smart, Helpful Assistant",
       "summary": "The new Siri AI is conversational, omnipresent, and actually helpful.",
@@ -280,15 +325,6 @@
       "source": "Wired",
       "sourceUrl": "https://www.wired.com/story/siri-ai-hands-on-iphone/",
       "publishedAt": "2026-06-20T10:00:00.000Z"
-    },
-    {
-      "id": "4nakgq",
-      "title": "From PGP to Mythos: a brief history of export controls that didn’t stop anyone",
-      "summary": "For the last 30 years, stopping the flow of cybersecurity-related software has proven to be ineffective. It's unclear why it would work now with Anthropic’s cybersecurity model Mythos.",
-      "imageUrl": "https://images.unsplash.com/photo-1550751827-4bd374c3f58b?w=800&q=80",
-      "source": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/06/19/encryption-spyware-and-now-mythos-history-shows-why-cyber-export-control-doesnt-work/",
-      "publishedAt": "2026-06-19T22:40:14.000Z"
     },
     {
       "id": "292u5m",
@@ -406,42 +442,6 @@
       "source": "The Verge",
       "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/952180/amazon-seattle-data-center-moratorium-aecj-disciplinary-action",
       "publishedAt": "2026-06-18T16:00:00.000Z"
-    },
-    {
-      "id": "md26bz",
-      "title": "Who decides when AI is too dangerous?",
-      "summary": "On today’s episode of Decoder, my guest is Hayden Field, senior AI reporter for The Verge. Often when Hayden comes on the show, it’s because something has gone wrong in the world of AI. Last weekend, that something was a pretty intense mix of Anthropic, the Trump administration, and Anthropic’s new AI model, Fable 5. On Friday, not even a week since Anthropic released Fable to the public, the US government said it was imposing export controls on the new model, as well as the underlying Mythos…",
-      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/DCD_0617_Fable5.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "source": "The Verge",
-      "sourceUrl": "https://www.theverge.com/podcast/951542/anthropic-claude-fable-5-mythos-ban-pentagon-ai-regulation-trump",
-      "publishedAt": "2026-06-18T14:00:00.000Z"
-    },
-    {
-      "id": "njolsz",
-      "title": "Photoshop and Premiere now have AI assistants",
-      "summary": "Photoshop is one of several Adobe Creative Cloud apps to receive new conversational editing capabilities. | Image: Adobe Adobe's plan to stick AI assistants into all of its Creative Cloud suite is now fully underway, with new chatbots now rolling out to its biggest editing and design apps. As part of a public beta launching today, Photoshop, Premiere, Illustrator, InDesign, and Frame.io now each have a bespoke AI Assistant that can be used to organize your work and automate app-specific tasks.…",
-      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/Adobe-Photoshop-AI-assistant-hero.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "source": "The Verge",
-      "sourceUrl": "https://www.theverge.com/tech/952099/adobe-ai-assistants-photoshop-premiere-illustrator-beta-launch",
-      "publishedAt": "2026-06-18T13:00:00.000Z"
-    },
-    {
-      "id": "n8u2si",
-      "title": "Adobe’s redesigned AI studio remembers what your creations look like",
-      "summary": "Give your characters, objects, and backgrounds a name to easily replicate them without changing the design. | Image: Adobe Adobe is introducing some new capabilities for its Firefly AI assistant, alongside a \"reimagined\" AI studio that lets you edit and generate new designs from a single interface. The new Firefly experience launching today in private beta is designed to give you \"persistent context, reusable assets, and organized workflows\" across your projects, according to Adobe, making it…",
-      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/Adobe-Firefly-AI-studio-updates-lede.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "source": "The Verge",
-      "sourceUrl": "https://www.theverge.com/tech/952104/adobe-firefly-ai-agent-elements-projects-update",
-      "publishedAt": "2026-06-18T13:00:00.000Z"
-    },
-    {
-      "id": "91g9pz",
-      "title": "The Download: a new hunt for dark matter and Kenya’s case for going solar",
-      "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. The search for dark matter has been blown wide open For decades, physicists have hunted for weakly interacting massive particles (WIMPs), a leading candidate for dark matter. But their search has…",
-      "imageUrl": "https://images.unsplash.com/photo-1635070041078-e363dbe005cb?w=800&q=80",
-      "source": "MIT Tech Review",
-      "sourceUrl": "https://www.technologyreview.com/2026/06/18/1139261/the-download-dark-matter-hunt-kenya-solar-power/",
-      "publishedAt": "2026-06-18T12:10:00.000Z"
     },
     {
       "id": "5g3o82",
