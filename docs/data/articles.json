@@ -1,7 +1,34 @@
 {
-  "fetchedAt": "2026-06-23T15:17:20.869Z",
+  "fetchedAt": "2026-06-23T17:27:15.592Z",
   "count": 60,
   "articles": [
+    {
+      "id": "uqeyh4",
+      "title": "Anthropic’s Claude Tag is learning your company, one Slack message at a time",
+      "summary": "Anthropic’s new Claude Tag brings an always-on AI teammate to Slack. But beyond productivity, the feature is a strategic play to capture organizational context, institutional knowledge, and enterprise workflows.",
+      "imageUrl": "https://images.unsplash.com/photo-1635070041078-e363dbe005cb?w=800&q=80",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/06/23/anthropics-claude-tag-is-learning-your-company-one-slack-message-at-a-time/",
+      "publishedAt": "2026-06-23T17:00:00.000Z"
+    },
+    {
+      "id": "9jyp3b",
+      "title": "Why corporate AI super PACs spent $27 million on a local election",
+      "summary": "Hello and welcome to Regulator, the newsletter for Verge subscribers chronicling the misadventures of their favorite tech overlords and Washington swamp creatures. (\"Favorite\" is, of course, subjective.) Not a subscriber yet? Sign up here, especially if you want the hot scoop on quality Amazon Prime Day deals recommended by the wonderful humans of The Verge's newsroom, and not by a slop algorithm. Some news: The Verge now has a special subscription price of $10 / year for students with a valid…",
+      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/gettyimages-2280753489.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "source": "The Verge",
+      "sourceUrl": "https://www.theverge.com/policy/954970/ai-super-pacs-alex-bores-new-york-12th-district",
+      "publishedAt": "2026-06-23T17:00:00.000Z"
+    },
+    {
+      "id": "xyc3cb",
+      "title": "Something’s off with Midjourney’s pivot to body scanners",
+      "summary": "A scan of an imaging phantom, segmented to validate how cleanly structures separate under controlled conditions. | Image: Midjourney Medical Last week, Midjourney, an AI startup best known for its image generator, made an unusual pivot: medical imaging. The company announced a futuristic ultrasound scanner that would dunk users into a vat of water and, hopefully, produce \"something as powerful as MRI\" yet \"as casual as a trip to the spa.\" Midjourney says the goal is to help people live longer,…",
+      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/ultrasound_phantom_segmentation-b254a71d083eb5c9.png?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "source": "The Verge",
+      "sourceUrl": "https://www.theverge.com/report/954826/midjourney-medical-ai-ultrasound-body-scanner-lacks-evidence",
+      "publishedAt": "2026-06-23T15:56:35.000Z"
+    },
     {
       "id": "4q3cha",
       "title": "The Fitbit Air takes a smarter approach to the AI health dumpster fire",
@@ -14,7 +41,7 @@
     {
       "id": "68qh4v",
       "title": "4 days left to save up to $190 on TechCrunch Founder Summit 2026",
-      "summary": "Four days left to save up to $190 on your pass to TechCrunch Founder Summit 2026 - the ultimate founder bootcamp - before Early Bird rates end on June 26 at 11:59 p.m. PT. Register here.",
+      "summary": "Four days left to save up to $190 on your pass to TechCrunch Founder Summit 2026 — the ultimate founder bootcamp — before Early Bird rates end on June 26 at 11:59 p.m. PT. Register today.",
       "imageUrl": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=800&q=80",
       "source": "TechCrunch",
       "sourceUrl": "https://techcrunch.com/2026/06/23/4-days-left-to-save-up-to-190-on-techcrunch-founder-summit-2026/",
@@ -300,15 +327,6 @@
       "publishedAt": "2026-06-20T20:32:29.000Z"
     },
     {
-      "id": "4bupp6",
-      "title": "In the Weights is your new AI-centric vanity search",
-      "summary": "So ... what's your In the Weights score?",
-      "imageUrl": "https://images.unsplash.com/photo-1635070041078-e363dbe005cb?w=800&q=80",
-      "source": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/06/20/in-the-weights-is-your-new-ai-centric-vanity-search/",
-      "publishedAt": "2026-06-20T19:41:11.000Z"
-    },
-    {
       "id": "xeqs4g",
       "title": "The Atlantic created a searchable database of the music used to train AI",
       "summary": "Atlantic reporter Alex Reisner recently uncovered four datasets of music being used to train AI models and made them fully searchable for the public. Two of the sets are absolutely enormous at 12 million and 9 million tracks. The other two are much smaller, but still represent a significant amount of training data at over 100,000 songs each. According to Reisner, the sets have been downloaded thousands of times and, while it's impossible to know exactly who has used them, Google and Stability…",
@@ -372,15 +390,6 @@
       "publishedAt": "2026-06-19T09:00:00.000Z"
     },
     {
-      "id": "2iktb1",
-      "title": "Barret Zoph is out at OpenAI again after just five months",
-      "summary": "Five months after returning to OpenAI, Barret Zoph - the company's head of enterprise AI sales - has departed, The Verge has learned. Zoph returned to OpenAI in mid-January after a stint as cofounder and CTO of Thinking Machines Lab, the competing AI company founded by former OpenAI CTO Mira Murati. Shortly after Zoph returned to OpenAI, the company said he would lead its push into enterprise - a significant role at OpenAI, since in recent months it had vowed to stop chasing so-called \"side…",
-      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/04/STK155_OPEN_AI_CVirginia_C.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "source": "The Verge",
-      "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/952837/barret-zoph-openai-thinking-machines-lab",
-      "publishedAt": "2026-06-19T04:49:33.000Z"
-    },
-    {
       "id": "fusrp0",
       "title": "Microsoft discovers new lightweight backdoor that steals cryptocurrency",
       "summary": "Crypto Clipper spreads over USB and communicates over Tor.",
@@ -433,15 +442,6 @@
       "source": "Ars Technica",
       "sourceUrl": "https://arstechnica.com/information-technology/2026/06/before-spacex-ipo-investors-in-china-secretly-acquired-stakes/",
       "publishedAt": "2026-06-18T17:42:18.000Z"
-    },
-    {
-      "id": "2kbjru",
-      "title": "Amazon employees say they’re facing termination for backing data center limits",
-      "summary": "When three Amazon software engineers testified earlier this month at Seattle City Council hearings about data centers, they started their testimony by citing a city law barring employment discrimination over political speech. Now, they're accusing their employer of breaking that law by retaliating against them. On June 10th - one week after the hearing, and one day after the City Council passed a milestone moratorium on data centers - Patrick Schloesser, Darius Irani, and Liesl Wigand were each…",
-      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/STKS528_DATA_CENTERS2_C.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "source": "The Verge",
-      "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/952180/amazon-seattle-data-center-moratorium-aecj-disciplinary-action",
-      "publishedAt": "2026-06-18T16:00:00.000Z"
     },
     {
       "id": "5g3o82",
