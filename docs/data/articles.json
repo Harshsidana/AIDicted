@@ -1,7 +1,133 @@
 {
-  "fetchedAt": "2026-06-23T17:27:15.592Z",
+  "fetchedAt": "2026-06-23T22:48:19.091Z",
   "count": 60,
   "articles": [
+    {
+      "id": "b9z5b6",
+      "title": "Executive order bumps up deadline to move off quantum-vulnerable crypto",
+      "summary": "Order warns of national security risks if post-quantum cryptography isn't adopted in time.",
+      "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2024/03/GettyImages-1070527780-1152x648.jpg",
+      "source": "Ars Technica",
+      "sourceUrl": "https://arstechnica.com/information-technology/2026/06/executive-order-bumps-up-deadline-to-move-off-quantum-vulnerable-crypto/",
+      "publishedAt": "2026-06-23T22:30:57.000Z"
+    },
+    {
+      "id": "m7n1eu",
+      "title": "Google Home will soon get better at recognizing you",
+      "summary": "A new update for Google Home could make it less likely your smart home cameras mistake you for someone else, just because you're facing away from the camera. Starting June 23rd, Google's expanding its facial recognition feature so that people you've tagged in your Familiar Faces library can continue to be identified when their faces aren't clearly visible, using \"additional non-biometric signals (body size, clothing color, etc.).\" The Familiar Faces library will also begin automatically updating…",
+      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/23451196/acastro_220510_STK123_0002.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "source": "The Verge",
+      "sourceUrl": "https://www.theverge.com/tech/955385/google-home-familiar-faces-clothing",
+      "publishedAt": "2026-06-23T22:28:19.000Z"
+    },
+    {
+      "id": "rcwa8v",
+      "title": "Hollywood is bending the knee to OpenAI",
+      "summary": "Netflix, A24, Focus Features, and Warner Bros.' Clockwork have all reportedly decided to pass on picking up Artificial - director Luca Guadagnino's new biographical drama about OpenAI cofounder / CEO Sam Altman - for distribution deals. And while Neon and Mubi are still said to be interested in the film, this situation makes it seem like Hollywood no longer has the courage to tell critical stories about Big Tech. Postproduction on Artificial was nearly finished when Amazon MGM unexpectedly…",
+      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25431704/STK201_SAM_ALTMAN_CVIRGINIA_C.jpg?quality=90&#038;strip=all&#038;crop=4.7487503051758,18.543864880511,95.251249694824,81.456135119489",
+      "source": "The Verge",
+      "sourceUrl": "https://www.theverge.com/entertainment/954899/luca-guadagnino-artificial-sam-altman-amazon-a24-neon-mubi-chatgpt",
+      "publishedAt": "2026-06-23T22:03:18.000Z"
+    },
+    {
+      "id": "75rklb",
+      "title": "Heads in the game",
+      "summary": "The Argentina v. France final of the 2022 Men’s World Cup in Qatar was shaping up to be one of the most epic games in soccer history. With just 12 minutes remaining in the extra time added to the game to break a tie, the referee had a critical decision to make—and fast. Lionel Messi,…",
+      "imageUrl": "https://images.unsplash.com/photo-1531746790095-6c10a4031c5f?w=800&q=80",
+      "source": "MIT Tech Review",
+      "sourceUrl": "https://www.technologyreview.com/2026/06/23/1138214/heads-in-the-game/",
+      "publishedAt": "2026-06-23T21:00:00.000Z"
+    },
+    {
+      "id": "aykalt",
+      "title": "Super Mario is mathier than you think",
+      "summary": "Here’s a problem you probably didn’t solve in school: You’re an ambitious young plumber from Brooklyn in a world inhabited by violent human-size mushrooms called Goombas. The love of your life has been kidnapped, so you embark on a quest to rescue her, venturing through stretches of pipe-filled and monster-­ridden terrain where your only means…",
+      "imageUrl": "https://images.unsplash.com/photo-1550751827-4bd374c3f58b?w=800&q=80",
+      "source": "MIT Tech Review",
+      "sourceUrl": "https://www.technologyreview.com/2026/06/23/1138262/super-mario-is-mathier-than-you-think/",
+      "publishedAt": "2026-06-23T21:00:00.000Z"
+    },
+    {
+      "id": "lrpm7q",
+      "title": "A man of many words",
+      "summary": "Brian Sietsema has a favorite word. It’s somewhat surprising that he can choose just one. He’s the person spellers rely on to confirm pronunciations and answer questions about the roots of the words they’re given at the Scripps National Spelling Bee—arguably the world’s most prestigious competition of its kind. The story of how the word…",
+      "imageUrl": "https://images.unsplash.com/photo-1676299081847-824916de030a?w=800&q=80",
+      "source": "MIT Tech Review",
+      "sourceUrl": "https://www.technologyreview.com/2026/06/23/1138267/a-man-of-many-words/",
+      "publishedAt": "2026-06-23T21:00:00.000Z"
+    },
+    {
+      "id": "hilmqx",
+      "title": "Sharing a love for calculus",
+      "summary": "The national conversation about the value of education is currently dominated by speculation about the risks and positive potential of AI. Whatever your own perspective on that debate, I hope you’ll be glad to know that MIT is also working on a deeply important but comparatively old-fashioned challenge: American high school students’ startlingly uneven access…",
+      "imageUrl": "https://images.unsplash.com/photo-1676299081847-824916de030a?w=800&q=80",
+      "source": "MIT Tech Review",
+      "sourceUrl": "https://www.technologyreview.com/2026/06/23/1138271/sharing-a-love-for-calculus/",
+      "publishedAt": "2026-06-23T21:00:00.000Z"
+    },
+    {
+      "id": "bsra7z",
+      "title": "Stand Up for Research, Innovation, and Education",
+      "summary": "Right now, MIT alumni and friends are voicing their support for: America’s scientific and technological leadership Merit-based admissions and affordable education Advances that increase US health, security, and prosperity Our community is standing up for MIT and its mission to serve the nation and the world. And we need you to join us at this…",
+      "imageUrl": "https://images.unsplash.com/photo-1620712943543-bcc4688e7485?w=800&q=80",
+      "source": "MIT Tech Review",
+      "sourceUrl": "https://www.technologyreview.com/2026/06/23/1138274/stand-up-for-research-innovation-and-education-6/",
+      "publishedAt": "2026-06-23T21:00:00.000Z"
+    },
+    {
+      "id": "u2pf66",
+      "title": "Ultrasound imaging turns a robot hand into a skillful mimic",
+      "summary": "Our hands are the nimblest parts of our bodies, coordinating 34 muscles, 27 joints, and over 100 tendons and ligaments to perform countless nuanced movements and gestures. So far, robots have been notoriously bad at mimicking that dexterity, in part because researchers struggle to capture what is actually going on under our skin in order…",
+      "imageUrl": "https://images.unsplash.com/photo-1485827404703-89b55fcc595e?w=800&q=80",
+      "source": "MIT Tech Review",
+      "sourceUrl": "https://www.technologyreview.com/2026/06/23/1138279/ultrasound-imaging-turns-a-robot-hand-into-a-skillful-mimic/",
+      "publishedAt": "2026-06-23T21:00:00.000Z"
+    },
+    {
+      "id": "5xu3j",
+      "title": "Reinventing the zipper",
+      "summary": "With an adaptable fastener designed at CSAIL, pitching a tent or adjusting the cast for a broken bone could be almost as easy as zipping your coat. The researchers, led by associate professor Stefanie Mueller, were inspired by an abandoned prototype for a three-sided zipper that William Freeman, PhD ’92 (now an MIT professor), patented…",
+      "imageUrl": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=800&q=80",
+      "source": "MIT Tech Review",
+      "sourceUrl": "https://www.technologyreview.com/2026/06/23/1138282/reinventing-the-zipper/",
+      "publishedAt": "2026-06-23T21:00:00.000Z"
+    },
+    {
+      "id": "wshpub",
+      "title": "Engineered “mini livers” could be injected as an alternative to transplantation",
+      "summary": "A technology developed by Professor Sangeeta Bhatia, SM ’93, PhD ’97, and colleagues could offer new hope to the thousands of Americans with chronic liver disease who are waiting for an organ transplant or not strong enough to tolerate one. The liver is involved in regulating blood clotting, removing bacteria from the bloodstream, metabolizing drugs,…",
+      "imageUrl": "https://images.unsplash.com/photo-1526374965328-7f61d4dc18c5?w=800&q=80",
+      "source": "MIT Tech Review",
+      "sourceUrl": "https://www.technologyreview.com/2026/06/23/1138285/engineered-mini-livers-could-be-injected-as-an-alternative-to-transplantation/",
+      "publishedAt": "2026-06-23T21:00:00.000Z"
+    },
+    {
+      "id": "nboz6f",
+      "title": "Plants appear to detect the patter of falling rain",
+      "summary": "MIT engineers have found the first direct evidence that plant seeds can sense sounds in nature: Rice submerged in shallow water germinated 30% to 40% more quickly when exposed to vibrations from water dripping on the surface. They think other types of seeds may respond similarly. When a raindrop hits a puddle’s surface or the…",
+      "imageUrl": "https://images.unsplash.com/photo-1635070041078-e363dbe005cb?w=800&q=80",
+      "source": "MIT Tech Review",
+      "sourceUrl": "https://www.technologyreview.com/2026/06/23/1138288/plants-appear-to-detect-the-patter-of-falling-rain/",
+      "publishedAt": "2026-06-23T21:00:00.000Z"
+    },
+    {
+      "id": "cdvd2y",
+      "title": "A breath test could diagnose pneumonia in minutes",
+      "summary": "With a test being developed at MIT, diagnosing pneumonia and other lung conditions could someday be as easy as breathing into a tube. The test, dubbed PlasmoSniff, is a portable, chip-scale sensor that traps and detects biomarkers, synthetic compounds indicating disease. The idea is that a person would first breathe in nanoparticles that are specially…",
+      "imageUrl": "https://images.unsplash.com/photo-1676299081847-824916de030a?w=800&q=80",
+      "source": "MIT Tech Review",
+      "sourceUrl": "https://www.technologyreview.com/2026/06/23/1138291/a-breath-test-could-diagnose-pneumonia-in-minutes/",
+      "publishedAt": "2026-06-23T21:00:00.000Z"
+    },
+    {
+      "id": "ag0pu3",
+      "title": "Oracle’s 21,000 layoffs help drive its debt-fueled AI investments",
+      "summary": "Oracle is spending billions on data center infrastructure to support AI.",
+      "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2026/06/GettyImages-2212917669-1152x648.jpg",
+      "source": "Ars Technica",
+      "sourceUrl": "https://arstechnica.com/ai/2026/06/oracles-21000-layoffs-help-drive-its-debt-fueled-ai-investments/",
+      "publishedAt": "2026-06-23T20:17:38.000Z"
+    },
     {
       "id": "uqeyh4",
       "title": "Anthropic’s Claude Tag is learning your company, one Slack message at a time",
@@ -73,33 +199,6 @@
       "source": "The Verge",
       "sourceUrl": "https://www.theverge.com/tech/954052/meta-glasses-hands-on-kylie-jenner-smart-glasses-price-battery-privacy",
       "publishedAt": "2026-06-23T13:00:00.000Z"
-    },
-    {
-      "id": "gpg241",
-      "title": "The Download: the future of chipmaking and Anthropic’s government clash",
-      "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. The $400 million machine powering the future of chipmaking It’s a bit of a schlep to get to the top of ASML’s newest machine. It’s about the size of a double-decker…",
-      "imageUrl": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=800&q=80",
-      "source": "MIT Tech Review",
-      "sourceUrl": "https://www.technologyreview.com/2026/06/23/1139483/the-download-chipmaking-future-asml-ai-anthropic-government-clash/",
-      "publishedAt": "2026-06-23T12:10:00.000Z"
-    },
-    {
-      "id": "x2x124",
-      "title": "Elephant alert! AI warning systems aim to avoid deadly clashes",
-      "summary": "India is home to about 60% of the world’s wild Asian elephants, and around 80% of the animals’ habitat lies outside protected areas, according to the Ministry of Environment, Forest, and Climate Change. That brings people and wildlife into close contact, and clashes can turn lethal: There have been some 3,000 human casualties in the…",
-      "imageUrl": "https://images.unsplash.com/photo-1485827404703-89b55fcc595e?w=800&q=80",
-      "source": "MIT Tech Review",
-      "sourceUrl": "https://www.technologyreview.com/2026/06/23/1138562/elephant-alert-ai-warning-systems-avoid-deadly-clashes-india/",
-      "publishedAt": "2026-06-23T09:00:00.000Z"
-    },
-    {
-      "id": "pgiuf8",
-      "title": "The $400 million machine powering the future of chipmaking",
-      "summary": "Jos Benschop is climbing a ladder to get to the top of his newest machine. It’s a bit of a schlep. The contraption is the size of a double-decker bus—more than 150 tons of gleaming precision-milled aluminum covered in thousands of snaking tubes, colored cables, and pressurized tanks. From the ground, it looks like a…",
-      "imageUrl": "https://images.unsplash.com/photo-1531746790095-6c10a4031c5f?w=800&q=80",
-      "source": "MIT Tech Review",
-      "sourceUrl": "https://www.technologyreview.com/2026/06/23/1138837/asml-400-million-dollar-machine-powering-future-of-chipmaking/",
-      "publishedAt": "2026-06-23T09:00:00.000Z"
     },
     {
       "id": "gzyi53",
@@ -201,15 +300,6 @@
       "publishedAt": "2026-06-22T18:49:44.000Z"
     },
     {
-      "id": "9fk24q",
-      "title": "Three things to watch amid Anthropic’s latest feud with the government",
-      "summary": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here. For those of you enjoying your summer unaware of Anthropic’s latest feud with the US government, here’s a recap: In April the company said it had built an AI model called Mythos…",
-      "imageUrl": "https://images.unsplash.com/photo-1620712943543-bcc4688e7485?w=800&q=80",
-      "source": "MIT Tech Review",
-      "sourceUrl": "https://www.technologyreview.com/2026/06/22/1139424/three-things-to-watch-amid-anthropics-latest-feud-with-the-government/",
-      "publishedAt": "2026-06-22T18:00:00.000Z"
-    },
-    {
       "id": "bix1ed",
       "title": "Amazon is testing Alexa+ in India with Hindi support",
       "summary": "Amazon is planning to increase the footprint of its new conversational AI assistant Alexa+ to India and is inviting users in the country to test out a Hindi-language version.",
@@ -246,15 +336,6 @@
       "publishedAt": "2026-06-22T14:00:00.000Z"
     },
     {
-      "id": "3k7gs7",
-      "title": "The Download: record-breaking subsea tunnels and flexible data centers",
-      "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. Inside the world’s deepest and longest subsea road tunnel —Niall Firth I’m currently around 1,000 feet beneath the North Sea, in a dark, dank cave. It smells weird. And I’m increasingly…",
-      "imageUrl": "https://images.unsplash.com/photo-1635070041078-e363dbe005cb?w=800&q=80",
-      "source": "MIT Tech Review",
-      "sourceUrl": "https://www.technologyreview.com/2026/06/22/1139385/the-download-rogfast-subsea-tunnel-flexible-data-centers/",
-      "publishedAt": "2026-06-22T12:10:00.000Z"
-    },
-    {
       "id": "ped6dx",
       "title": "Read this before you vibe-code another app",
       "summary": "Bob Starr was delighted with his vibe-coded website. \"Boomberg\" showed how much US tax money is going to tech companies, and Starr launched it online immediately after making it. It wasn't until months after the site went live that he realized there was a problem: a hidden SQL injection risk. It could've left the site open for an attacker to read or alter data they shouldn't have access to. \"It was just a glaring oversight on my part. It was a complete blindspot in my state of learning this new…",
@@ -280,15 +361,6 @@
       "source": "Wired",
       "sourceUrl": "https://www.wired.com/story/world-cup-scams-are-getting-harder-to-spot/",
       "publishedAt": "2026-06-22T09:30:00.000Z"
-    },
-    {
-      "id": "vrq66y",
-      "title": "Inside the world’s deepest and longest subsea road tunnel",
-      "summary": "It’s cold, it’s very, very noisy, and—if I can be quite honest with you—I’m not feeling super relaxed. I’m currently around 300 meters, or 1,000 feet, beneath the North Sea, in a dark, dank cave. It smells weird. And I am increasingly aware of the pressure from millions of tons of seawater just above my…",
-      "imageUrl": "https://images.unsplash.com/photo-1485827404703-89b55fcc595e?w=800&q=80",
-      "source": "MIT Tech Review",
-      "sourceUrl": "https://www.technologyreview.com/2026/06/22/1138821/inside-worlds-deepest-longest-subsea-road-tunnel/",
-      "publishedAt": "2026-06-22T08:00:00.000Z"
     },
     {
       "id": "5o7vll",
@@ -327,15 +399,6 @@
       "publishedAt": "2026-06-20T20:32:29.000Z"
     },
     {
-      "id": "xeqs4g",
-      "title": "The Atlantic created a searchable database of the music used to train AI",
-      "summary": "Atlantic reporter Alex Reisner recently uncovered four datasets of music being used to train AI models and made them fully searchable for the public. Two of the sets are absolutely enormous at 12 million and 9 million tracks. The other two are much smaller, but still represent a significant amount of training data at over 100,000 songs each. According to Reisner, the sets have been downloaded thousands of times and, while it's impossible to know exactly who has used them, Google and Stability…",
-      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/01/STK467_AI_MUSIC_CVirginia_B.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "source": "The Verge",
-      "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/953183/the-atlantic-searchable-database-music-ai-training-data",
-      "publishedAt": "2026-06-20T18:46:48.000Z"
-    },
-    {
       "id": "pwo57b",
       "title": "Siri AI Hands On: A Smart, Helpful Assistant",
       "summary": "The new Siri AI is conversational, omnipresent, and actually helpful.",
@@ -343,51 +406,6 @@
       "source": "Wired",
       "sourceUrl": "https://www.wired.com/story/siri-ai-hands-on-iphone/",
       "publishedAt": "2026-06-20T10:00:00.000Z"
-    },
-    {
-      "id": "292u5m",
-      "title": "The film about Sam Altman has been dropped by Amazon MGM",
-      "summary": "Luca Guadagnino's film about OpenAI CEO Sam Altman, Artificial, has reportedly been dropped by Amazon MGM. The film, which stars Andrew Garfield and covers the rollercoaster five days in 2023 spanning Altman's termination and reinstatement as CEO, had been in the works for about a year. The cast also includes A Complete Unknown actress Monica Barbaro as OpenAI CTO Mira Murati, Ike Barinholtz as Elon Musk, and Anora's Yura Borisov as OpenAI chief scientist Ilya Sutskever. In a statement to…",
-      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/04/STK201_SAM_ALTMAN_CVIRGINIA2D_717b98.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "source": "The Verge",
-      "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/952906/sam-altman-film-artificial-openai-amazon-mgm-dropped",
-      "publishedAt": "2026-06-19T14:15:29.000Z"
-    },
-    {
-      "id": "g995ow",
-      "title": "The Download: AI bottleneck debates, and BCI trials take off",
-      "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. A startup claims it broke through a bottleneck that’s holding back LLMs AI startup Subquadratic came out of stealth last month with a huge claim: it had solved a mathematical bottleneck…",
-      "imageUrl": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=800&q=80",
-      "source": "MIT Tech Review",
-      "sourceUrl": "https://www.technologyreview.com/2026/06/19/1139327/the-download-llms-bottleneck-breakthrough-bci-trials-take-off/",
-      "publishedAt": "2026-06-19T12:10:00.000Z"
-    },
-    {
-      "id": "h88932",
-      "title": "A startup claims it broke through a bottleneck that’s holding back LLMs",
-      "summary": "The Miami-based AI startup Subquadratic came out of stealth mode last month with a huge claim. It announced that it had solved a mathematical bottleneck that had been holding back large language models for almost a decade. The details were thin, and many people were unconvinced. But Subquadratic has started to bring the receipts, sharing…",
-      "imageUrl": "https://images.unsplash.com/photo-1655720828018-edd2daec9349?w=800&q=80",
-      "source": "MIT Tech Review",
-      "sourceUrl": "https://www.technologyreview.com/2026/06/19/1139313/a-startup-claims-it-broke-through-a-bottleneck-thats-holding-back-llms/",
-      "publishedAt": "2026-06-19T10:40:24.000Z"
-    },
-    {
-      "id": "icqo9r",
-      "title": "The inevitable weakness of metrics",
-      "summary": "There are plenty of useful things a metric can reveal. There are even more it can obscure or corrupt. It took me well over a decade of tracking my own life in ever greater detail to fully appreciate this duality, which probably reveals something about both me and the nature of measurement. Like a lot…",
-      "imageUrl": "https://images.unsplash.com/photo-1531746790095-6c10a4031c5f?w=800&q=80",
-      "source": "MIT Tech Review",
-      "sourceUrl": "https://www.technologyreview.com/2026/06/19/1138778/inevitable-weakness-metrics-quantified-life-book-review/",
-      "publishedAt": "2026-06-19T09:00:00.000Z"
-    },
-    {
-      "id": "yo72kh",
-      "title": "Brain-computer interface trials are taking off",
-      "summary": "This week, I covered the story of Casey Harrell—a man with ALS who is “the first power user” of a brain implant, according to the researchers who worked with him. Harrell is paralyzed and unable to speak coherently without the device. He has now spent almost three years using a brain-computer interface (BCI) that enables…",
-      "imageUrl": "https://images.unsplash.com/photo-1620712943543-bcc4688e7485?w=800&q=80",
-      "source": "MIT Tech Review",
-      "sourceUrl": "https://www.technologyreview.com/2026/06/19/1139270/brain-computer-interface-trials-are-taking-off/",
-      "publishedAt": "2026-06-19T09:00:00.000Z"
     },
     {
       "id": "fusrp0",
@@ -523,24 +541,6 @@
       "source": "Ars Technica",
       "sourceUrl": "https://arstechnica.com/security/2026/06/locked-in-heated-rivalry-with-researcher-microsoft-fixes-0-day-they-disclosed/",
       "publishedAt": "2026-06-09T20:56:52.000Z"
-    },
-    {
-      "id": "srorqs",
-      "title": "High-severity vulnerability in Linux caused by a single faulty character",
-      "summary": "Use-after-free bug can be exploited to evade sandbox defenses.",
-      "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2023/07/exploit-vulnerability-security.jpg",
-      "source": "Ars Technica",
-      "sourceUrl": "https://arstechnica.com/security/2026/06/a-single-errant-character-in-the-linux-kernel-allows-attacker-to-gain-root/",
-      "publishedAt": "2026-06-09T15:12:43.000Z"
-    },
-    {
-      "id": "hwuhc3",
-      "title": "For the 2nd time in weeks, Microsoft packages laced with credential stealer",
-      "summary": "73 packages run self-replicating stealer as soon as they're opened by an AI agent.",
-      "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2025/09/microsoft-logo-1024x648.jpg",
-      "source": "Ars Technica",
-      "sourceUrl": "https://arstechnica.com/security/2026/06/for-the-2nd-time-in-weeks-microsoft-packages-laced-with-credential-stealer/",
-      "publishedAt": "2026-06-08T18:34:23.000Z"
     }
   ]
 }
