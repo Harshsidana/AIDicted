@@ -1,7 +1,34 @@
 {
-  "fetchedAt": "2026-06-24T21:55:24.806Z",
+  "fetchedAt": "2026-06-24T23:14:01.582Z",
   "count": 60,
   "articles": [
+    {
+      "id": "2gr14n",
+      "title": "Cerebras stock plunges after earnings as CEO says margin outlook was misunderstood",
+      "summary": "In its first earnings report since going public, the AI chipmaker forecast a narrower gross margin in its core business, scaring investors.",
+      "imageUrl": "https://images.unsplash.com/photo-1620712943543-bcc4688e7485?w=800&q=80",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/06/24/cerebras-stock-plunges-after-earnings-as-ceo-says-margin-outlook-was-misunderstood/",
+      "publishedAt": "2026-06-24T22:41:41.000Z"
+    },
+    {
+      "id": "a5b4hm",
+      "title": "How to Opt Out of Google Search’s New AI Data Training Feature",
+      "summary": "Google’s Search history update stores media uploads from your interactions, like images used in reverse image searches, for training its AI models.",
+      "imageUrl": "https://media.wired.com/photos/6a3b32d9e6c7ac5cabfbc242/master/pass/You-Can-Opt-Out-of-Google-Search-New-AI-Data-Training-Gear-1496939065.jpg",
+      "source": "Wired",
+      "sourceUrl": "https://www.wired.com/story/how-to-opt-out-of-google-search-new-ai-data-training/",
+      "publishedAt": "2026-06-24T22:36:16.000Z"
+    },
+    {
+      "id": "3sj47t",
+      "title": "AI was supposed to kill engineering jobs, but new data suggests they’re the most resilient",
+      "summary": "While AI dominates the layoff narrative, engineers are actually making up a larger share of new hires, according to SignalFire data.",
+      "imageUrl": "https://images.unsplash.com/photo-1620712943543-bcc4688e7485?w=800&q=80",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/06/24/ai-was-supposed-to-kill-engineering-jobs-but-new-data-suggests-theyre-the-most-resilient/",
+      "publishedAt": "2026-06-24T21:56:41.000Z"
+    },
     {
       "id": "x28g5q",
       "title": "AI researchers continue to leave Google for its rivals",
@@ -12,10 +39,10 @@
       "publishedAt": "2026-06-24T21:42:07.000Z"
     },
     {
-      "id": "ze03fp",
-      "title": "The memory chip crunch is paying off for this U.S. company",
+      "id": "7a5ei9",
+      "title": "The memory chip crunch is paying off for this US company",
       "summary": "Revenue quadrupled to $41.45 billion compared with the same period a year ago. The company's profit, meanwhile, rose from $1.88 billion to an incredible $28.2 billion year-over-year.",
-      "imageUrl": "https://images.unsplash.com/photo-1676299081847-824916de030a?w=800&q=80",
+      "imageUrl": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=800&q=80",
       "source": "TechCrunch",
       "sourceUrl": "https://techcrunch.com/2026/06/24/the-memory-chip-crunch-is-paying-off-for-this-u-s-company/",
       "publishedAt": "2026-06-24T21:30:55.000Z"
@@ -363,15 +390,6 @@
       "publishedAt": "2026-06-23T01:27:55.000Z"
     },
     {
-      "id": "gnioy5",
-      "title": "OpenAI launches new initiative to help find and patch open source bugs",
-      "summary": "OpenAI is using AI to help the open source community better protect itself.",
-      "imageUrl": "https://images.unsplash.com/photo-1531746790095-6c10a4031c5f?w=800&q=80",
-      "source": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/06/22/openai-launches-new-initiative-to-help-find-and-patch-open-source-bugs/",
-      "publishedAt": "2026-06-23T00:11:31.000Z"
-    },
-    {
       "id": "jkqzv7",
       "title": "Meta Pauses Employee-Tracking Program Following Internal Data Leak",
       "summary": "The move comes after the company left potentially sensitive data from the initiative exposed internally.",
@@ -379,15 +397,6 @@
       "source": "Wired",
       "sourceUrl": "https://www.wired.com/story/meta-pauses-employee-tracking-program-following-internal-security-breach/",
       "publishedAt": "2026-06-22T21:08:09.000Z"
-    },
-    {
-      "id": "q0nvf8",
-      "title": "The AI world is getting ‘loopy’",
-      "summary": "The loop takes agentic AI a step further by authorizing a swarm of agents to work continuously in the background, endlessly.",
-      "imageUrl": "https://images.unsplash.com/photo-1531746790095-6c10a4031c5f?w=800&q=80",
-      "source": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/06/22/the-ai-world-is-getting-loopy/",
-      "publishedAt": "2026-06-22T20:53:11.000Z"
     },
     {
       "id": "jx2tfr",
@@ -433,15 +442,6 @@
       "source": "Wired",
       "sourceUrl": "https://www.wired.com/story/world-cup-scams-are-getting-harder-to-spot/",
       "publishedAt": "2026-06-22T09:30:00.000Z"
-    },
-    {
-      "id": "iqfcpk",
-      "title": "28 Tips to Take Your ChatGPT Prompts to the Next Level",
-      "summary": "Sure, anyone can use OpenAI’s chatbot. But with smart engineering, you can get way more interesting results.",
-      "imageUrl": "https://media.wired.com/photos/641df3ef11b9b75446f8f278/master/pass/11-Creative-ChatGPT-Prompts-Gear-GettyImages-1433912783.jpg",
-      "source": "Wired",
-      "sourceUrl": "https://www.wired.com/story/28-tips-to-take-your-chatgpt-prompts-to-the-next-level/",
-      "publishedAt": "2026-06-21T10:30:00.000Z"
     },
     {
       "id": "fusrp0",
