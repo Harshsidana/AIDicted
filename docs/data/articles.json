@@ -1,7 +1,25 @@
 {
-  "fetchedAt": "2026-06-25T15:26:26.013Z",
+  "fetchedAt": "2026-06-25T17:32:06.497Z",
   "count": 60,
   "articles": [
+    {
+      "id": "mjwykt",
+      "title": "General Intuition’s $2.3B bet that video games can train AI agents for the real world",
+      "summary": "General Intuition has raised $320 million to scale AI trained on millions of hours of gameplay, betting action data can help AI develop something closer to human intuition.",
+      "imageUrl": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=800&q=80",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/06/25/general-intuitions-2-3b-bet-that-video-games-can-train-ai-agents-for-the-real-world/",
+      "publishedAt": "2026-06-25T16:55:00.000Z"
+    },
+    {
+      "id": "ulw485",
+      "title": "Databricks’ former AI chief thinks he can cut AI’s power bill by 1,000x",
+      "summary": "Un0 is an image-generation system tool that shows for the first time how the company's technology can replicate conventional AI systems.",
+      "imageUrl": "https://images.unsplash.com/photo-1655720828018-edd2daec9349?w=800&q=80",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/06/25/databricks-former-ai-chief-thinks-he-can-cut-ais-power-bill-by-1000x/",
+      "publishedAt": "2026-06-25T16:48:11.000Z"
+    },
     {
       "id": "kpaa2c",
       "title": "Netris raises $15M Series A from a16z to help AI neoclouds go live faster",
@@ -23,7 +41,7 @@
     {
       "id": "99dmo0",
       "title": "2 days left to save up to $190: Join 1,000+ founders and investors at TechCrunch Founder Summit",
-      "summary": "2 days left to lock in your spot at TechCrunch Founder Summit 2026 and save up to $190 before Early Bird rates expire on June 26 at 11:59 p.m. PT. Register here.",
+      "summary": "Two days left to lock in your spot at TechCrunch Founder Summit 2026 and save up to $190 before Early Bird rates expire on June 26 at 11:59 p.m. PT. Register today.",
       "imageUrl": "https://images.unsplash.com/photo-1676299081847-824916de030a?w=800&q=80",
       "source": "TechCrunch",
       "sourceUrl": "https://techcrunch.com/2026/06/25/2-days-left-to-save-up-to-190-join-1000-founders-and-investors-at-techcrunch-founder-summit/",
@@ -246,15 +264,6 @@
       "publishedAt": "2026-06-24T16:48:43.000Z"
     },
     {
-      "id": "trhpiy",
-      "title": "Figma adds code layers, support for animations, more AI features in new update",
-      "summary": "Figma's update adds a new code layer, support for motion and shaders, and the ability to create custom plug-ins for various tasks using AI.",
-      "imageUrl": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=800&q=80",
-      "source": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/06/24/figma-adds-code-layers-support-for-animations-more-ai-features-in-new-update/",
-      "publishedAt": "2026-06-24T16:15:00.000Z"
-    },
-    {
       "id": "ow7onf",
       "title": "Figma now has AI motion graphics and shader tools",
       "summary": "Figma has revealed some new design and coding product updates at its annual Config conference that aim to help creatives \"push their ideas further\" and automate tedious tasks with AI. Part of this is a reimagined canvas that's now optimized for full-stack development, according to Figma, bringing teams, AI agents, tools, and materials \"together in one place.\" Notable callouts include coding layers that let you tweak the code of your projects without leaving the Figma Design canvas, and…",
@@ -280,15 +289,6 @@
       "source": "Wired",
       "sourceUrl": "https://www.wired.com/story/the-trump-white-house-is-over-anthropics-dario-amodei/",
       "publishedAt": "2026-06-24T15:15:00.000Z"
-    },
-    {
-      "id": "wryx4s",
-      "title": "OpenAI unveils its first custom chip, built by Broadcom",
-      "summary": "Named Jalapeño, the new processor was designed specifically for the unique needs of OpenAI's inference systems.",
-      "imageUrl": "https://images.unsplash.com/photo-1550751827-4bd374c3f58b?w=800&q=80",
-      "source": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/06/24/openai-unveils-its-first-custom-chip-built-by-broadcom/",
-      "publishedAt": "2026-06-24T14:54:46.000Z"
     },
     {
       "id": "i0rj30",
