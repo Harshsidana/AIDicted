@@ -1,7 +1,25 @@
 {
-  "fetchedAt": "2026-06-25T17:32:06.497Z",
+  "fetchedAt": "2026-06-25T20:12:53.087Z",
   "count": 60,
   "articles": [
+    {
+      "id": "z0xyl8",
+      "title": "Notion killing Skiff-influenced email app since most users use AI agents instead",
+      "summary": "Notion is \"going all in on using agents to run your inbox.\"",
+      "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2026/06/GettyImages-2230437159-1024x648.jpg",
+      "source": "Ars Technica",
+      "sourceUrl": "https://arstechnica.com/gadgets/2026/06/notion-killing-skiff-influenced-email-app-since-most-users-use-ai-agents-instead/",
+      "publishedAt": "2026-06-25T19:04:57.000Z"
+    },
+    {
+      "id": "o80uc1",
+      "title": "Anthropic’s Claude is winning over paid consumers, a market owned by ChatGPT",
+      "summary": "Despite ChatGPT's commanding market lead, consumers who pay for AI have been increasingly choosing Anthropic's Claude, data shows.",
+      "imageUrl": "https://images.unsplash.com/photo-1531746790095-6c10a4031c5f?w=800&q=80",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/06/25/anthropics-claude-is-winning-over-paid-consumers-a-market-owned-by-chatgpt/",
+      "publishedAt": "2026-06-25T17:38:27.000Z"
+    },
     {
       "id": "mjwykt",
       "title": "General Intuition’s $2.3B bet that video games can train AI agents for the real world",
@@ -14,7 +32,7 @@
     {
       "id": "ulw485",
       "title": "Databricks’ former AI chief thinks he can cut AI’s power bill by 1,000x",
-      "summary": "Un0 is an image-generation system tool that shows for the first time how the company's technology can replicate conventional AI systems.",
+      "summary": "Un-0 is an image-generation system tool that shows for the first time how the company's technology can replicate conventional AI systems.",
       "imageUrl": "https://images.unsplash.com/photo-1655720828018-edd2daec9349?w=800&q=80",
       "source": "TechCrunch",
       "sourceUrl": "https://techcrunch.com/2026/06/25/databricks-former-ai-chief-thinks-he-can-cut-ais-power-bill-by-1000x/",
@@ -253,15 +271,6 @@
       "source": "TechCrunch",
       "sourceUrl": "https://techcrunch.com/2026/06/24/facebook-rolls-out-an-ai-companion-app-for-creators/",
       "publishedAt": "2026-06-24T17:16:24.000Z"
-    },
-    {
-      "id": "f0n0h0",
-      "title": "Agility Robotics plans to go public via SPAC in a $2.5B deal",
-      "summary": "Agility Robotics, the humanoid robotics startup that spun out of Oregon State University in 2015, expects to generate $620 million in proceeds.",
-      "imageUrl": "https://images.unsplash.com/photo-1635070041078-e363dbe005cb?w=800&q=80",
-      "source": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/06/24/agility-robotics-plans-to-go-public-via-spac-in-a-2-5b-deal/",
-      "publishedAt": "2026-06-24T16:48:43.000Z"
     },
     {
       "id": "ow7onf",
@@ -532,15 +541,6 @@
       "source": "Ars Technica",
       "sourceUrl": "https://arstechnica.com/security/2026/06/users-cry-foul-after-amd-stripped-memory-crypto-from-its-consumer-cpus/",
       "publishedAt": "2026-06-15T17:55:46.000Z"
-    },
-    {
-      "id": "2tsxwb",
-      "title": "PeopleSoft 0-day affecting hundreds of organizations steals gigabytes of data",
-      "summary": "Vulnerability in the Oracle-owned PeopleSoft software is about as critical as they come.",
-      "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2025/12/GettyImages-1867844462-1152x648.jpg",
-      "source": "Ars Technica",
-      "sourceUrl": "https://arstechnica.com/security/2026/06/peoplesoft-0-day-affecting-hundreds-of-organizations-steals-gigabytes-of-data/",
-      "publishedAt": "2026-06-12T19:26:47.000Z"
     }
   ]
 }
