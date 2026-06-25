@@ -1,7 +1,43 @@
 {
-  "fetchedAt": "2026-06-25T20:12:53.087Z",
+  "fetchedAt": "2026-06-25T23:54:10.836Z",
   "count": 60,
   "articles": [
+    {
+      "id": "t0xvaa",
+      "title": "The White House is asking OpenAI to slow roll the release of its new model over safety concerns",
+      "summary": "penAI reportedly plans to share its newest model, GPT 5.6, with a select group of partners instead of to the broader public. The reason: the Trump administration told it to.",
+      "imageUrl": "https://images.unsplash.com/photo-1620712943543-bcc4688e7485?w=800&q=80",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/06/25/the-white-house-is-asking-openai-to-slow-roll-the-release-of-its-new-model-over-safety-concerns/",
+      "publishedAt": "2026-06-25T23:34:39.000Z"
+    },
+    {
+      "id": "dmua90",
+      "title": "Why Amazon Dropped Its OpenAI Movie, Data Center Workers Fight Back, and Meta Leaks Employee Data",
+      "summary": "Amazon-owned MGM Studios’ decision to drop the OpenAI movie is just part of AI and film industries becoming increasingly intertwined. On Uncanny Valley, we take a look at where this is all headed.",
+      "imageUrl": "https://media.wired.com/photos/6a3c48825cdc2b309c97a195/master/pass/Uncanny-Valley-AI-Hollywood-Business.jpg",
+      "source": "Wired",
+      "sourceUrl": "https://www.wired.com/story/uncanny-valley-podcast-amazon-mgm-openai-movie-data-center-workers-fight-back-meta-leaks-employee-data/",
+      "publishedAt": "2026-06-25T23:13:45.000Z"
+    },
+    {
+      "id": "bl2pra",
+      "title": "OpenAI will delay GPT-5.6 after Trump administration request",
+      "summary": "The Trump administration, apprehensive of potential security issues, has reportedly asked OpenAI to stagger the release of its next big-ticket model, GPT-5.6. The Information reported that OpenAI CEO Sam Altman told employees Wednesday in a company Q&A that it would release GPT-5.6 in limited preview form - granting access only to a small group of enterprise customers - in compliance with a request from the federal government. During that preview period, the Trump administration itself would…",
+      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/04/STK201_SAM_ALTMAN_CVIRGINIA2A.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "source": "The Verge",
+      "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/957372/openai-will-delay-gpt-5-6-after-trump-administration-request",
+      "publishedAt": "2026-06-25T21:57:06.000Z"
+    },
+    {
+      "id": "fmkamj",
+      "title": "Patronus AI lands $50M to build ‘digital worlds’ that stress-test AI agents",
+      "summary": "Agent-testing startup Patronus AI, founded by former Meta AI researchers, is experiencing nearly insatiable demand, its investor says.",
+      "imageUrl": "https://images.unsplash.com/photo-1550751827-4bd374c3f58b?w=800&q=80",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/06/25/patronus-ai-lands-50m-to-build-digital-worlds-that-stress-test-ai-agents/",
+      "publishedAt": "2026-06-25T20:19:25.000Z"
+    },
     {
       "id": "z0xyl8",
       "title": "Notion killing Skiff-influenced email app since most users use AI agents instead",
@@ -228,15 +264,6 @@
       "publishedAt": "2026-06-24T21:03:34.000Z"
     },
     {
-      "id": "420cuf",
-      "title": "Companies are scrambling to stop employees from maxing out AI budgets with small tasks",
-      "summary": "The tokenmaxxing era was brief. We now appear to be entering the era of token rationing.",
-      "imageUrl": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=800&q=80",
-      "source": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/06/24/companies-are-scrambling-to-stop-employees-from-maxing-out-ai-budgets-with-small-tasks/",
-      "publishedAt": "2026-06-24T20:09:45.000Z"
-    },
-    {
       "id": "ojlct7",
       "title": "Congresswoman denies staff used AI to write defense funding amendment",
       "summary": "Rep. Anna Paulina Luna (R-FL) says her staff used AI for \"spellcheck\" in an amendment summary for a major defense bill, but denies it was used for the bill text itself and says \"NO Legislation is ever drafted with AI.\" Luna issued the response after accounts on X began sharing screenshots of an amendment summary for the 2027 National Defense Authorization Act. It reads: \"Identical to H.R. 100 (118th Congress).11:25 AM????Claude responded: Requires the Secretary of Defense to designate Department…",
@@ -262,15 +289,6 @@
       "source": "The Verge",
       "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/956263/alex-bores-new-york-12th-district-congressional-primary-results",
       "publishedAt": "2026-06-24T17:25:00.000Z"
-    },
-    {
-      "id": "qexax4",
-      "title": "Facebook rolls out an AI companion app for creators",
-      "summary": "The new app, which is currently being tested with select creators, will have Facebook's recently launched AI creator assistant built into it.",
-      "imageUrl": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=800&q=80",
-      "source": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/06/24/facebook-rolls-out-an-ai-companion-app-for-creators/",
-      "publishedAt": "2026-06-24T17:16:24.000Z"
     },
     {
       "id": "ow7onf",
@@ -408,15 +426,6 @@
       "publishedAt": "2026-06-23T20:17:38.000Z"
     },
     {
-      "id": "9jyp3b",
-      "title": "Why corporate AI super PACs spent $27 million on a local election",
-      "summary": "Hello and welcome to Regulator, the newsletter for Verge subscribers chronicling the misadventures of their favorite tech overlords and Washington swamp creatures. (\"Favorite\" is, of course, subjective.) Not a subscriber yet? Sign up here, especially if you want the hot scoop on quality Amazon Prime Day deals recommended by the wonderful humans of The Verge's newsroom, and not by a slop algorithm. Some news: The Verge now has a special subscription price of $10 / year for students with a valid…",
-      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/gettyimages-2280753489.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "source": "The Verge",
-      "sourceUrl": "https://www.theverge.com/policy/954970/ai-super-pacs-alex-bores-new-york-12th-district",
-      "publishedAt": "2026-06-23T17:00:00.000Z"
-    },
-    {
       "id": "jkqzv7",
       "title": "Meta Pauses Employee-Tracking Program Following Internal Data Leak",
       "summary": "The move comes after the company left potentially sensitive data from the initiative exposed internally.",
@@ -442,15 +451,6 @@
       "source": "Ars Technica",
       "sourceUrl": "https://arstechnica.com/security/2026/06/following-user-outcry-amd-reinstates-memory-encryption-in-consumer-cpus/",
       "publishedAt": "2026-06-22T19:16:52.000Z"
-    },
-    {
-      "id": "qulkzo",
-      "title": "OpenAI Launches Full-Scale Effort to Patch Open-Source Bugs as It Takes on Anthropic’s Mythos",
-      "summary": "Amid concerns about AI models’ cybersecurity capabilities, OpenAI revealed an improved version of GPT-5.5-Cyber and its “Patch the Planet” initiative to fix open-source software bugs.",
-      "imageUrl": "https://media.wired.com/photos/6a2fc599a8e3255f0ac3665f/master/pass/061526_OpenAI%20Hires%20an%20Army%20to%20Patch%20Open%20Source%20Bugs%20as%20It%20Battles%20Mythos%20for%20Cyber%20AI%20Supremacy.jpg",
-      "source": "Wired",
-      "sourceUrl": "https://www.wired.com/story/openai-launches-full-scale-effort-to-patch-open-source-bugs-as-it-takes-on-anthropics-mythos/",
-      "publishedAt": "2026-06-22T17:00:00.000Z"
     },
     {
       "id": "fusrp0",
