@@ -1,7 +1,70 @@
 {
-  "fetchedAt": "2026-06-26T13:32:50.363Z",
+  "fetchedAt": "2026-06-26T18:11:48.077Z",
   "count": 60,
   "articles": [
+    {
+      "id": "h0ejbl",
+      "title": "Why everyone from OpenAI to SpaceX is building their own chips (and turning up the heat on Nvidia)",
+      "summary": "Nvidia has dominated the AI chip market for years, but the era of total dependence might be ending. OpenAI just shared its plans to spice things up with Jalapeño, its custom inference chip built with Broadcom, joining Google, Apple, and SpaceX in a growing list of companies building their way out of single-supplier risk. The goal is less of a […]",
+      "imageUrl": "https://images.unsplash.com/photo-1526374965328-7f61d4dc18c5?w=800&q=80",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/video/why-everyone-from-openai-to-spacex-is-building-their-own-chips-and-turning-up-the-heat-on-nvidia/",
+      "publishedAt": "2026-06-26T17:43:22.000Z"
+    },
+    {
+      "id": "pw4yfg",
+      "title": "OpenAI Has New AI Models. Here’s Why You Can’t Use Them",
+      "summary": "The White House asked OpenAI to delay the rollout of its GPT-5.6 AI models, two weeks after Anthropic had to take its most advanced AI models offline.",
+      "imageUrl": "https://media.wired.com/photos/6a3ea08bf7f42d4ea1deffa3/master/pass/GettyImages-2281424331.jpg",
+      "source": "Wired",
+      "sourceUrl": "https://www.wired.com/story/openai-gpt-56-model-release-trump-admin-approval/",
+      "publishedAt": "2026-06-26T17:05:40.000Z"
+    },
+    {
+      "id": "nd7upx",
+      "title": "OpenAI unveils GPT-5.6 amid US AI regulatory drama",
+      "summary": "Less than 24 hours after news broke that OpenAI would stagger its next model release at the request of the Trump administration, that model, GPT-5.6, is here. On Friday, the company unveiled the limited preview of its new GPT 5.6 model suite: Sol, the flagship; Terra, a medium-tier model for \"high-volume work\"; and Luna, a \"fast and affordable\" everyday model. OpenAI says it's especially skilled at coding, cybersecurity, and biology, as well as staying focused during long-horizon agentic AI…",
+      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/09/kTm2Q30DT9sCOWpyFewTes78TWbe7s-fy-w68LlL6V0.jpeg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "source": "The Verge",
+      "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/957845/openai-gpt-5-6-trump-administration-ai-preview",
+      "publishedAt": "2026-06-26T17:00:00.000Z"
+    },
+    {
+      "id": "s103kh",
+      "title": "It’s not about Anthropic vs. OpenAI anymore",
+      "summary": "AI models have progressed to the point where their capabilities have real political consequences. Dealing with those consequences will require collective action.",
+      "imageUrl": "https://images.unsplash.com/photo-1531746790095-6c10a4031c5f?w=800&q=80",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/06/26/its-not-about-anthropic-vs-openai-anymore/",
+      "publishedAt": "2026-06-26T16:24:47.000Z"
+    },
+    {
+      "id": "og5rbs",
+      "title": "Europe Is Fed Up and Wants Its Own AI",
+      "summary": "It's a stretch to think that the continent can build a top-tier model, but it has an advantage: Donald Trump.",
+      "imageUrl": "https://media.wired.com/photos/6a3d7dcc9d8ba41349d50023/master/pass/Backchannel-Macron-G7-2282316572.jpg",
+      "source": "Wired",
+      "sourceUrl": "https://www.wired.com/story/europe-is-fed-up-and-wants-its-own-ai/",
+      "publishedAt": "2026-06-26T15:00:00.000Z"
+    },
+    {
+      "id": "6kccj0",
+      "title": "Anthropic’s Mythos mess is only getting worse",
+      "summary": "It's been two weeks since Anthropic took its Mythos-class models offline after a Friday evening ultimatum from the Trump administration. The company sprang into action immediately, sending a barrage of executives to Washington, DC. But updates have been suspiciously lacking, with no resolution in sight. Anthropic declined to comment multiple times this week about the state of the talks, saying there was no news to share. But the lack of news is the story here. After 14 days of high-intensity…",
+      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/03/STK202_DARIO_AMODEI_CVIRGINIA_D.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "source": "The Verge",
+      "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/957327/anthropic-mythos-fable-ai-trump-administration-negotiations",
+      "publishedAt": "2026-06-26T14:07:03.000Z"
+    },
+    {
+      "id": "ydrh6n",
+      "title": "OpenAI’s Jalapeño chip is Big Tech’s spiciest move away from Nvidia",
+      "summary": "Nvidia has dominated the AI chip market for years, but the era of total dependence might be ending. OpenAI just shared its plans to spice things up with Jalapeño, its custom inference chip built with Broadcom, joining Google, Apple, and SpaceX in a growing list of companies building their way out of single-supplier risk. The goal is less of a […]",
+      "imageUrl": "https://images.unsplash.com/photo-1655720828018-edd2daec9349?w=800&q=80",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/podcast/openais-jalapeno-chip-is-big-techs-spiciest-move-away-from-nvidia/",
+      "publishedAt": "2026-06-26T14:00:00.000Z"
+    },
     {
       "id": "h82irw",
       "title": "Early Bird pricing ends tonight for TechCrunch Founder Summit",
@@ -246,15 +309,6 @@
       "publishedAt": "2026-06-24T23:26:52.000Z"
     },
     {
-      "id": "2gr14n",
-      "title": "Cerebras stock plunges after earnings as CEO says margin outlook was misunderstood",
-      "summary": "In its first earnings report since going public, the AI chipmaker forecast a narrower gross margin in its core business, scaring investors.",
-      "imageUrl": "https://images.unsplash.com/photo-1620712943543-bcc4688e7485?w=800&q=80",
-      "source": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/06/24/cerebras-stock-plunges-after-earnings-as-ceo-says-margin-outlook-was-misunderstood/",
-      "publishedAt": "2026-06-24T22:41:41.000Z"
-    },
-    {
       "id": "a5b4hm",
       "title": "How to Opt Out of Google Search’s New AI Data Training Feature",
       "summary": "Google’s Search history update stores media uploads from your interactions, like images used in reverse image searches, for training its AI models.",
@@ -262,24 +316,6 @@
       "source": "Wired",
       "sourceUrl": "https://www.wired.com/story/how-to-opt-out-of-google-search-new-ai-data-training/",
       "publishedAt": "2026-06-24T22:36:16.000Z"
-    },
-    {
-      "id": "3sj47t",
-      "title": "AI was supposed to kill engineering jobs, but new data suggests they’re the most resilient",
-      "summary": "While AI dominates the layoff narrative, engineers are actually making up a larger share of new hires, according to SignalFire data.",
-      "imageUrl": "https://images.unsplash.com/photo-1620712943543-bcc4688e7485?w=800&q=80",
-      "source": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/06/24/ai-was-supposed-to-kill-engineering-jobs-but-new-data-suggests-theyre-the-most-resilient/",
-      "publishedAt": "2026-06-24T21:56:41.000Z"
-    },
-    {
-      "id": "x28g5q",
-      "title": "AI researchers continue to leave Google for its rivals",
-      "summary": "Top AI researchers Jonas Adler and Alexander Pritzel are leaving Google for Anthropic, following departures from top scientists Noam Shazeer and John Jumper.",
-      "imageUrl": "https://images.unsplash.com/photo-1655720828018-edd2daec9349?w=800&q=80",
-      "source": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/06/24/ai-researchers-continue-to-leave-google-for-its-rivals/",
-      "publishedAt": "2026-06-24T21:42:07.000Z"
     },
     {
       "id": "xzf46b",
@@ -345,15 +381,6 @@
       "publishedAt": "2026-06-24T15:25:28.000Z"
     },
     {
-      "id": "hllu48",
-      "title": "The Trump White House Is Over Anthropic CEO Dario Amodei",
-      "summary": "At high-stakes meetings with the White House, Anthropic's cofounder—a \"weirdo,\" per one official—has been replaced by cofounder Tom Brown.",
-      "imageUrl": "https://media.wired.com/photos/6a3b1efdfb31b3da3e9adc12/master/pass/politics_white_house_anthropic_dario_amodei.jpg",
-      "source": "Wired",
-      "sourceUrl": "https://www.wired.com/story/the-trump-white-house-is-over-anthropics-dario-amodei/",
-      "publishedAt": "2026-06-24T15:15:00.000Z"
-    },
-    {
       "id": "i0rj30",
       "title": "OpenAI reveals its first AI processor: Jalapeño",
       "summary": "OpenAI has just revealed a new \"intelligence processor\" chip for AI servers made in partnership with Broadcom. The chip, called Jalape&ntilde;o, is designed to power current and future large language models, according to an announcement on Wednesday. Jalape&ntilde;o is an ASIC (Application-Specific Integrated Circuit), meaning it's designed for a specific purpose: AI inference. With AI inference, models process a user's request to run an agent like Codex or offer a response from ChatGPT, while…",
@@ -370,15 +397,6 @@
       "source": "The Verge",
       "sourceUrl": "https://www.theverge.com/gadgets/955537/google-home-smart-speaker-hands-on",
       "publishedAt": "2026-06-24T13:00:00.000Z"
-    },
-    {
-      "id": "qmnuqd",
-      "title": "Qualcomm Buys Buzzy Chip Startup Modular for Nearly $4 Billion",
-      "summary": "Modular, one of the most promising chip software startups of the AI era, heads for a multibillion-dollar exit.",
-      "imageUrl": "https://media.wired.com/photos/6a3bc8bcb0d9ff58f6121983/master/pass/GettyImages-2204326766.jpg",
-      "source": "Wired",
-      "sourceUrl": "https://www.wired.com/story/qualcomm-buys-buzzy-chip-startup-modular-for-nearly-dollar4-billion/",
-      "publishedAt": "2026-06-24T12:36:07.000Z"
     },
     {
       "id": "m68qc3",
@@ -415,24 +433,6 @@
       "source": "Ars Technica",
       "sourceUrl": "https://arstechnica.com/information-technology/2026/06/executive-order-bumps-up-deadline-to-move-off-quantum-vulnerable-crypto/",
       "publishedAt": "2026-06-23T22:30:57.000Z"
-    },
-    {
-      "id": "m7n1eu",
-      "title": "Google Home will soon get better at recognizing you",
-      "summary": "A new update for Google Home could make it less likely your smart home cameras mistake you for someone else, just because you're facing away from the camera. Starting June 23rd, Google's expanding its facial recognition feature so that people you've tagged in your Familiar Faces library can continue to be identified when their faces aren't clearly visible, using \"additional non-biometric signals (body size, clothing color, etc.).\" The Familiar Faces library will also begin automatically updating…",
-      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/23451196/acastro_220510_STK123_0002.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "source": "The Verge",
-      "sourceUrl": "https://www.theverge.com/tech/955385/google-home-familiar-faces-clothing",
-      "publishedAt": "2026-06-23T22:28:19.000Z"
-    },
-    {
-      "id": "rcwa8v",
-      "title": "Hollywood is bending the knee to OpenAI",
-      "summary": "Netflix, A24, Focus Features, and Warner Bros.' Clockwork have all reportedly decided to pass on picking up Artificial - director Luca Guadagnino's new biographical drama about OpenAI cofounder / CEO Sam Altman - for distribution deals. And while Neon and Mubi are still said to be interested in the film, this situation makes it seem like Hollywood no longer has the courage to tell critical stories about Big Tech. Postproduction on Artificial was nearly finished when Amazon MGM unexpectedly…",
-      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25431704/STK201_SAM_ALTMAN_CVIRGINIA_C.jpg?quality=90&#038;strip=all&#038;crop=4.7487503051758,18.543864880511,95.251249694824,81.456135119489",
-      "source": "The Verge",
-      "sourceUrl": "https://www.theverge.com/entertainment/954899/luca-guadagnino-artificial-sam-altman-amazon-a24-neon-mubi-chatgpt",
-      "publishedAt": "2026-06-23T22:03:18.000Z"
     },
     {
       "id": "ag0pu3",
