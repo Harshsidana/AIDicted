@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-06-26T20:19:23.530Z",
+  "fetchedAt": "2026-06-26T21:48:47.907Z",
   "count": 60,
   "articles": [
     {
@@ -37,6 +37,15 @@
       "source": "Wired",
       "sourceUrl": "https://www.wired.com/story/openai-gpt-56-model-release-trump-admin-approval/",
       "publishedAt": "2026-06-26T17:05:40.000Z"
+    },
+    {
+      "id": "nd7upx",
+      "title": "OpenAI unveils GPT-5.6 amid US AI regulatory drama",
+      "summary": "Less than 24 hours after news broke that OpenAI would stagger its next model release at the request of the Trump administration, that model, GPT-5.6, is here. On Friday, the company unveiled the limited preview of its new GPT 5.6 model suite: Sol, the flagship; Terra, a medium-tier model for \"high-volume work\"; and Luna, a \"fast and affordable\" everyday model. OpenAI says it's especially skilled at coding, cybersecurity, and biology, as well as staying focused during long-horizon agentic AI…",
+      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/09/kTm2Q30DT9sCOWpyFewTes78TWbe7s-fy-w68LlL6V0.jpeg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "source": "The Verge",
+      "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/957845/openai-gpt-5-6-trump-administration-ai-preview",
+      "publishedAt": "2026-06-26T17:00:00.000Z"
     },
     {
       "id": "s103kh",
@@ -424,15 +433,6 @@
       "source": "Ars Technica",
       "sourceUrl": "https://arstechnica.com/information-technology/2026/06/executive-order-bumps-up-deadline-to-move-off-quantum-vulnerable-crypto/",
       "publishedAt": "2026-06-23T22:30:57.000Z"
-    },
-    {
-      "id": "m7n1eu",
-      "title": "Google Home will soon get better at recognizing you",
-      "summary": "A new update for Google Home could make it less likely your smart home cameras mistake you for someone else, just because you're facing away from the camera. Starting June 23rd, Google's expanding its facial recognition feature so that people you've tagged in your Familiar Faces library can continue to be identified when their faces aren't clearly visible, using \"additional non-biometric signals (body size, clothing color, etc.).\" The Familiar Faces library will also begin automatically updating…",
-      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/23451196/acastro_220510_STK123_0002.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "source": "The Verge",
-      "sourceUrl": "https://www.theverge.com/tech/955385/google-home-familiar-faces-clothing",
-      "publishedAt": "2026-06-23T22:28:19.000Z"
     },
     {
       "id": "ag0pu3",
