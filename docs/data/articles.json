@@ -1,7 +1,25 @@
 {
-  "fetchedAt": "2026-06-29T20:08:59.448Z",
+  "fetchedAt": "2026-06-29T21:53:36.303Z",
   "count": 60,
   "articles": [
+    {
+      "id": "btco7z",
+      "title": "Meta Contractors Posed as Teens to Prompt Rival Chatbots About Suicide, Sex, and Drugs",
+      "summary": "Hundreds of contractors working on a project for Meta pretended to be kids—and then prompted rival chatbots like Gemini and ChatGPT to discuss high-risk subjects.",
+      "imageUrl": "https://media.wired.com/photos/6a429931b8212c2a1f822da2/master/pass/Meta-Paid-Contractors-to-Pose-as-Children-Security-2268011998.jpg",
+      "source": "Wired",
+      "sourceUrl": "https://www.wired.com/story/meta-contractors-pretending-to-be-teens-chatbot-testing/",
+      "publishedAt": "2026-06-29T21:49:26.000Z"
+    },
+    {
+      "id": "66gr1p",
+      "title": "Gemini’s personalized AI image generation is now free for US users",
+      "summary": "Google is expanding Gemini’s personalized AI image generation to eligible free users in the U.S., allowing the chatbot to create images based on your interests and data from connected Google apps.",
+      "imageUrl": "https://images.unsplash.com/photo-1620712943543-bcc4688e7485?w=800&q=80",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/06/29/geminis-personalized-ai-image-generation-is-now-free-for-u-s-users/",
+      "publishedAt": "2026-06-29T20:12:59.000Z"
+    },
     {
       "id": "xlvcye",
       "title": "Tidal won’t pay royalties on AI-generated music but isn’t banning it outright",
@@ -255,15 +273,6 @@
       "publishedAt": "2026-06-27T00:26:14.000Z"
     },
     {
-      "id": "m7kbly",
-      "title": "OpenAI limits GPT-5.6 rollout after government request, says restrictions shouldn’t be the norm",
-      "summary": "“We don’t believe this kind of government access process should become the long-term default,” says OpenAI. “It keeps the best tools from users, developers, enterprises, cyber defenders, and global partners who need them.”",
-      "imageUrl": "https://images.unsplash.com/photo-1550751827-4bd374c3f58b?w=800&q=80",
-      "source": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/06/26/openai-limits-gpt-5-6-rollout-after-government-request-says-restrictions-shouldnt-be-the-norm/",
-      "publishedAt": "2026-06-26T18:32:14.000Z"
-    },
-    {
       "id": "pw4yfg",
       "title": "OpenAI Has New AI Models. Here’s Why You Can’t Use Them",
       "summary": "The White House asked OpenAI to delay the rollout of its GPT-5.6 AI models, two weeks after Anthropic had to take its most advanced AI models offline.",
@@ -397,15 +406,6 @@
       "source": "MIT Tech Review",
       "sourceUrl": "https://www.technologyreview.com/2026/06/25/1139696/ibm-unveils-sub1nm-chip/",
       "publishedAt": "2026-06-25T10:00:00.000Z"
-    },
-    {
-      "id": "a5b4hm",
-      "title": "How to Opt Out of Google Search’s New AI Data Training Feature",
-      "summary": "Google’s Search history update stores media uploads from your interactions, like images used in reverse image searches, for training its AI models.",
-      "imageUrl": "https://media.wired.com/photos/6a3b32d9e6c7ac5cabfbc242/master/pass/You-Can-Opt-Out-of-Google-Search-New-AI-Data-Training-Gear-1496939065.jpg",
-      "source": "Wired",
-      "sourceUrl": "https://www.wired.com/story/how-to-opt-out-of-google-search-new-ai-data-training/",
-      "publishedAt": "2026-06-24T22:36:16.000Z"
     },
     {
       "id": "ozp905",
