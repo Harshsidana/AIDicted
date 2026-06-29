@@ -1,7 +1,52 @@
 {
-  "fetchedAt": "2026-06-29T14:35:16.142Z",
+  "fetchedAt": "2026-06-29T17:44:10.164Z",
   "count": 60,
   "articles": [
+    {
+      "id": "am55b",
+      "title": "Arena, the AI leaderboard everyone uses, is now a $100M business",
+      "summary": "The startup, which runs a popular free AI leaderboard, launched its commercial service just last September.",
+      "imageUrl": "https://images.unsplash.com/photo-1655720828018-edd2daec9349?w=800&q=80",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/06/29/arena-the-ai-leaderboard-everyone-uses-is-now-a-100m-business/",
+      "publishedAt": "2026-06-29T17:39:17.000Z"
+    },
+    {
+      "id": "i20td0",
+      "title": "Cursor now has a mobile app for guiding your coding agent on the go",
+      "summary": "Cursor has launched a new mobile app for remote oversight over coding agents.",
+      "imageUrl": "https://images.unsplash.com/photo-1635070041078-e363dbe005cb?w=800&q=80",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/06/29/cursor-now-has-a-mobile-app-for-guiding-your-coding-agent-on-the-go/",
+      "publishedAt": "2026-06-29T17:03:50.000Z"
+    },
+    {
+      "id": "ilcuqs",
+      "title": "TIDAL cracks down on AI music by cutting off monetization",
+      "summary": "TIDAL's new policy will prevent AI-generated music from making money on its service.",
+      "imageUrl": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=800&q=80",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/06/29/tidal-cracks-down-on-ai-music-by-cutting-off-monetization/",
+      "publishedAt": "2026-06-29T16:29:04.000Z"
+    },
+    {
+      "id": "51c38l",
+      "title": "Lawmakers want to ban AI companies from selling your health data",
+      "summary": "A new proposal would ban the sale of Americans' health and location information to data brokers - including information people reveal to an AI chatbot like ChatGPT or Claude. In the coming weeks, Senator Elizabeth Warren (D-MA) and Representative Mary Gay Scanlon (D-PA) are planning to debut a new version of the Health and Location Data Protection Act that's better suited to the AI era. The former version of the bill, first introduced in June 2022, prohibited data brokers from collecting and…",
+      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25299197/STK442_Password_Manager_A_CVirginia.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "source": "The Verge",
+      "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/959033/health-location-data-protection-act-ai-warren-scanlon",
+      "publishedAt": "2026-06-29T16:00:00.000Z"
+    },
+    {
+      "id": "firi7t",
+      "title": "Agent confidence on the technical frontier",
+      "summary": "Enterprise investment in AI is booming. Gartner is calling 2026 an “inflection year” for organizations to align their AI projects with strategic business objectives. As the pressure to prove ROI mounts, executives and technology leaders are looking to agentic AI to drive the measurable financial outcomes their businesses seek. A prime opportunity for AI agents…",
+      "imageUrl": "https://images.unsplash.com/photo-1655720828018-edd2daec9349?w=800&q=80",
+      "source": "MIT Tech Review",
+      "sourceUrl": "https://www.technologyreview.com/2026/06/29/1139635/agent-confidence-on-the-technical-frontier/",
+      "publishedAt": "2026-06-29T14:44:01.000Z"
+    },
     {
       "id": "ei21dm",
       "title": "Robot hand company settles Tesla trade secret suit and announces $11M raise",
@@ -95,7 +140,7 @@
     {
       "id": "bsx2b9",
       "title": "Margaret Atwood says the problem with AI is ‘garbage in, garbage out’",
-      "summary": "Margaret Atwood onstage at Detroit Opera House on January 26, 2026 | Photo: Monica Morgan/Getty Images Maraget Atwood, the storied author of The Handmaid's Tale and The Blind Assassin, was interviewed as part of the Babell Literary and Cultural Festival in Porto, Portugal. As it usually does at these things, the issue of AI came up, and Atwood didn't mince words. According to Deadline's recap, Atwood said she'd used an AI chatbot exactly once, Anthropic's Claude, and came away unimpressed. She…",
+      "summary": "Margaret Atwood onstage at Detroit Opera House on January 26, 2026 | Photo: Monica Morgan/Getty Images Margaret Atwood, the storied author of The Handmaid's Tale and The Blind Assassin, was interviewed as part of the Babell Literary and Cultural Festival in Porto, Portugal. As it usually does at these things, the issue of AI came up, and Atwood didn't mince words. According to Deadline's recap, Atwood said she'd used an AI chatbot exactly once, Anthropic's Claude, and came away unimpressed. She…",
       "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/gettyimages-2258417618.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
       "source": "The Verge",
       "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/958715/margaret-atwood-ai-problem-garbage-in-garbage-out",
@@ -113,7 +158,7 @@
     {
       "id": "4bfnct",
       "title": "The fittest founder in the room got cancer. Here’s how he used AI to fight back.",
-      "summary": "When confronted with cancer, Connor Christou fed everything tied tied to his regime — blood results, scan data, wearable output, journal entries — into Claude.",
+      "summary": "When confronted with cancer, Conno Christou fed everything tied to his regime — blood results, scan data, wearable output, journal entries — into Claude.",
       "imageUrl": "https://images.unsplash.com/photo-1526374965328-7f61d4dc18c5?w=800&q=80",
       "source": "TechCrunch",
       "sourceUrl": "https://techcrunch.com/2026/06/27/the-fittest-founder-in-the-room-got-cancer-heres-how-he-used-ai-to-fight-back/",
@@ -138,10 +183,10 @@
       "publishedAt": "2026-06-27T12:00:00.000Z"
     },
     {
-      "id": "vf0n5e",
-      "title": "Trump Admin releases Anthropic Mythos to be used by more than 100 US companies, agencies",
+      "id": "8b14a1",
+      "title": "Trump administration releases Anthropic Mythos to be used by more than 100 US companies, agencies",
       "summary": "Over 100 companies and government agencies are reportedly authorized to use Mythos 5, including their non-American employees.",
-      "imageUrl": "https://images.unsplash.com/photo-1526374965328-7f61d4dc18c5?w=800&q=80",
+      "imageUrl": "https://images.unsplash.com/photo-1620712943543-bcc4688e7485?w=800&q=80",
       "source": "TechCrunch",
       "sourceUrl": "https://techcrunch.com/2026/06/26/trump-admin-releases-anthropic-mythos-to-be-used-by-more-than-100-us-companies-agencies/",
       "publishedAt": "2026-06-27T01:01:37.000Z"
@@ -210,15 +255,6 @@
       "publishedAt": "2026-06-26T17:00:00.000Z"
     },
     {
-      "id": "s103kh",
-      "title": "It’s not about Anthropic vs. OpenAI anymore",
-      "summary": "AI models have progressed to the point where their capabilities have real political consequences. Dealing with those consequences will require collective action.",
-      "imageUrl": "https://images.unsplash.com/photo-1531746790095-6c10a4031c5f?w=800&q=80",
-      "source": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/06/26/its-not-about-anthropic-vs-openai-anymore/",
-      "publishedAt": "2026-06-26T16:24:47.000Z"
-    },
-    {
       "id": "og5rbs",
       "title": "Europe Is Fed Up and Wants Its Own AI",
       "summary": "It's a stretch to think that the continent can build a top-tier model, but it has an advantage: Donald Trump.",
@@ -235,24 +271,6 @@
       "source": "The Verge",
       "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/957327/anthropic-mythos-fable-ai-trump-administration-negotiations",
       "publishedAt": "2026-06-26T14:07:03.000Z"
-    },
-    {
-      "id": "ydrh6n",
-      "title": "OpenAI’s Jalapeño chip is Big Tech’s spiciest move away from Nvidia",
-      "summary": "Nvidia has dominated the AI chip market for years, but the era of total dependence might be ending. OpenAI just shared its plans to spice things up with Jalapeño, its custom inference chip built with Broadcom, joining Google, Apple, and SpaceX in a growing list of companies building their way out of single-supplier risk. The goal is less of a […]",
-      "imageUrl": "https://images.unsplash.com/photo-1655720828018-edd2daec9349?w=800&q=80",
-      "source": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/podcast/openais-jalapeno-chip-is-big-techs-spiciest-move-away-from-nvidia/",
-      "publishedAt": "2026-06-26T14:00:00.000Z"
-    },
-    {
-      "id": "h82irw",
-      "title": "Early Bird pricing ends tonight for TechCrunch Founder Summit",
-      "summary": "Save up to $190 on your pass to TechCrunch Founder Summit 2026. Early Bird pricing ends today, at 11:59 p.m. PT, after which rates increase. Register now.",
-      "imageUrl": "https://images.unsplash.com/photo-1550751827-4bd374c3f58b?w=800&q=80",
-      "source": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/06/26/early-bird-pricing-ends-tonight-for-techcrunch-founder-summit/",
-      "publishedAt": "2026-06-26T13:00:00.000Z"
     },
     {
       "id": "9wz2jw",
@@ -336,15 +354,6 @@
       "publishedAt": "2026-06-25T12:10:00.000Z"
     },
     {
-      "id": "i3zdun",
-      "title": "Ford had to hire back former engineers to fix mistakes made by its automated systems",
-      "summary": "To celebrate its new status as No. 1 in JD Power's initial quality ranking among mainstream automakers, Ford is opening up about the challenges it has faced in recent years, especially around its reliance on automated systems in production and design. It turns out that those automated systems were not as robust as previously assumed, requiring Ford to hire experienced technicians - sometimes bringing back former employees - to correct errors made by the company's robots. In Ford's view, AI is…",
-      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/08/acastro_STK056_02.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "source": "The Verge",
-      "sourceUrl": "https://www.theverge.com/transportation/956316/ford-quality-jd-power-ranking-ai-automated-mistakes",
-      "publishedAt": "2026-06-25T12:00:00.000Z"
-    },
-    {
       "id": "xkd22a",
       "title": "World Cup Teams Are in a Race for AI Dominance",
       "summary": "This year, FIFA is providing an AI agent that any team can use. Is it enough to level the playing field or will future winners be determined by which team can afford the best tools?",
@@ -415,15 +424,6 @@
       "source": "MIT Tech Review",
       "sourceUrl": "https://www.technologyreview.com/2026/06/24/1139658/the-download-introducing-engineering-issue/",
       "publishedAt": "2026-06-24T12:10:00.000Z"
-    },
-    {
-      "id": "44yhsz",
-      "title": "Stripe, Anthropic, and OpenAI are backing an effort to stop respiratory infections",
-      "summary": "The common cold comes for us all—often more than once a year. And there is no way to prevent it. The best you can do is take vitamin C and stay away from people with the sniffles. Now the payment company Stripe, founded by brothers Patrick and John Collison, says it will fund a new…",
-      "imageUrl": "https://images.unsplash.com/photo-1655720828018-edd2daec9349?w=800&q=80",
-      "source": "MIT Tech Review",
-      "sourceUrl": "https://www.technologyreview.com/2026/06/24/1139621/stripe-anthropic-and-openai-are-backing-an-effort-to-stop-respiratory-infections/",
-      "publishedAt": "2026-06-24T12:00:00.000Z"
     },
     {
       "id": "g3c0p4",
