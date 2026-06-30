@@ -1,7 +1,34 @@
 {
-  "fetchedAt": "2026-06-30T15:16:21.064Z",
+  "fetchedAt": "2026-06-30T17:25:57.697Z",
   "count": 60,
   "articles": [
+    {
+      "id": "mlmzyt",
+      "title": "Netflix is using an AI-generated Gene Wilder voice in its Willy Wonka reality show",
+      "summary": "A new teaser trailer confirmed that Wonka's The Golden Ticket will premiere on Netflix on September 23rd, following its Squid Game reality show in the trend of creating real competitions based on fictional torture scenarios. While the sets seen in the trailer are real and not some Glasgow-style AI fakes, the voiceover is AI-generated. Deadline reports that Netflix worked with AI audio company ElevenLabs with consent from Wilder's family, after working on productions recreating the voice of…",
+      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/videoframe_9748.png?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "source": "The Verge",
+      "sourceUrl": "https://www.theverge.com/streaming/959684/netflix-wonka-golden-ticket-gene-wilder",
+      "publishedAt": "2026-06-30T17:19:15.000Z"
+    },
+    {
+      "id": "y764pd",
+      "title": "Anthropic’s Claude Science bets on workflow, not a new model, to win over scientists",
+      "summary": "Anthropic's Claude Science is a workbench that gives scientists one environment to do computational research, saving them from the need to bounce between databases, pipelines, and tools.",
+      "imageUrl": "https://images.unsplash.com/photo-1620712943543-bcc4688e7485?w=800&q=80",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/06/30/anthropics-claude-science-bets-on-workflow-not-a-new-model-to-win-over-scientists/",
+      "publishedAt": "2026-06-30T17:00:00.000Z"
+    },
+    {
+      "id": "4etc11",
+      "title": "Libby will filter out AI content, kind of",
+      "summary": "This is Lowpass by Janko Roettgers, a newsletter on the ever-evolving intersection of tech and entertainment, syndicated just for The Verge subscribers once a week. \"AI is the new frontier for us,\" says Marc DeBevoise, who took over as the new CEO of OverDrive last week. OverDrive is best known for the ebook lending app Libby that is available through tens of thousands of public libraries. Like the rest of the digital publishing industry, it's poised to face massive disruption from a huge wave…",
+      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/24148705/PXL_20221028_153245856.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "source": "The Verge",
+      "sourceUrl": "https://www.theverge.com/column/959433/libby-ai-filter",
+      "publishedAt": "2026-06-30T15:30:00.000Z"
+    },
     {
       "id": "5fbxrm",
       "title": "X now offers an MCP server to make its platform easier for AI tools to use",
@@ -10,6 +37,15 @@
       "source": "TechCrunch",
       "sourceUrl": "https://techcrunch.com/2026/06/30/x-now-offers-an-mcp-server-to-make-its-platform-easier-for-ai-tools-to-use/",
       "publishedAt": "2026-06-30T15:08:42.000Z"
+    },
+    {
+      "id": "7z27pq",
+      "title": "Podcasting platform Riverside enters the newsletter publishing game",
+      "summary": "Users will be able use AI to create newsletters based on their recordings.",
+      "imageUrl": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=800&q=80",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/06/30/podcasting-platform-riverside-enters-the-newsletter-publishing-game/",
+      "publishedAt": "2026-06-30T15:00:00.000Z"
     },
     {
       "id": "mrifip",
@@ -228,15 +264,6 @@
       "publishedAt": "2026-06-29T14:00:08.000Z"
     },
     {
-      "id": "kc8nmj",
-      "title": "Omen AI’s plan to optimize data centers is all wet",
-      "summary": "Omen AI raised a $31 million Series A to monitor chip coolant and stop bacterial outbreaks in data centers.",
-      "imageUrl": "https://images.unsplash.com/photo-1620712943543-bcc4688e7485?w=800&q=80",
-      "source": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/06/29/omen-ais-plan-to-optimize-data-centers-is-all-wet/",
-      "publishedAt": "2026-06-29T13:00:00.000Z"
-    },
-    {
       "id": "o67mea",
       "title": "The Download: metric weaknesses and AI elephant warnings",
       "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. The inevitable weakness of metrics There are plenty of useful things a metric can reveal. There are even more that it can obscure or corrupt. Like a lot of people bitten…",
@@ -273,15 +300,6 @@
       "publishedAt": "2026-06-28T20:27:36.000Z"
     },
     {
-      "id": "tykysn",
-      "title": "Ford rehires ‘gray beard’ engineers after AI falls short",
-      "summary": "\"Mistakenly we thought that by just introducing artificial intelligence ... that would produce a high-quality product.”",
-      "imageUrl": "https://images.unsplash.com/photo-1620712943543-bcc4688e7485?w=800&q=80",
-      "source": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/06/28/ford-rehires-gray-beard-engineers-after-ai-falls-short/",
-      "publishedAt": "2026-06-28T19:05:39.000Z"
-    },
-    {
       "id": "mpcz5w",
       "title": "Prosecutors used ChatGPT logs as evidence in the Palisades fire trial",
       "summary": "Jonathan Rinderknecht was facing arson charges for setting a fire on New Year's Day in 2025, which became one of the deadliest wildfires in LA history. To make their case, prosecutors turned to location data from his iPhone, security camera footage, and witness testimony. But they also turned to his ChatGPT logs. Prosecutors said that Rinderknecht had ChatGPT generate images of fire, asked the chatbot, \"Why am I so angry all the time?\", and ranted to it about how the wealthy were destroying the…",
@@ -298,24 +316,6 @@
       "source": "The Verge",
       "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/958715/margaret-atwood-ai-problem-garbage-in-garbage-out",
       "publishedAt": "2026-06-27T18:39:32.000Z"
-    },
-    {
-      "id": "zdnhl0",
-      "title": "Why is Apple asking me to pay more for Big Tech’s AI obsession?",
-      "summary": "Tim Cook recently said price increases were \"unavoidable\" and described the company's pricing as \"unsustainable.\" The 16-inch MacBook Pro saw its price go up by $300. The 11-inch iPad Air went from $599 to $749. Even the HomePod Mini got a $30 bump to $129. Cook squarely placed the blame at the feet of the AI industry, which is not surprising. RAMageddon has already come for your desktop PCs and gaming consoles. The Xbox has seen its price climb nearly 25 percent depending on the model, and…",
-      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/03/STK071_ACastro_apple_0003_a30fb2.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "source": "The Verge",
-      "sourceUrl": "https://www.theverge.com/report/958678/apple-consumer-price-increase-ai-big-tech",
-      "publishedAt": "2026-06-27T13:30:00.000Z"
-    },
-    {
-      "id": "3vpalc",
-      "title": "Anthropic’s Mythos 5 is back",
-      "summary": "After a rollercoaster negotiation process with the Trump administration that dragged on for two weeks, Anthropic's Mythos 5 is finally back in action - at least, somewhat, for a select group of organizations, according to a letter from the government to Anthropic that was viewed by The Verge. Fable 5, however - the public-facing Mythos-class model - appears to still be in limbo, with no apparent timeline for a rollout agreement. The letter, dated June 26th and sent by Commerce Secretary Howard…",
-      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/DCD_0617_Fable5.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "source": "The Verge",
-      "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/958458/anthropic-mythos-5-is-back-trump-negotiations",
-      "publishedAt": "2026-06-27T00:33:44.000Z"
     },
     {
       "id": "209itb",
