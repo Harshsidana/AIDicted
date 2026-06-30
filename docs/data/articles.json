@@ -1,7 +1,34 @@
 {
-  "fetchedAt": "2026-06-30T01:31:56.339Z",
+  "fetchedAt": "2026-06-30T10:08:52.967Z",
   "count": 60,
   "articles": [
+    {
+      "id": "mj2izc",
+      "title": "Crypto exchange OKX wants AI agents to hire and pay each other",
+      "summary": "OKX is bringing together payments, identity and reputation into a marketplace for AI agents.",
+      "imageUrl": "https://images.unsplash.com/photo-1526374965328-7f61d4dc18c5?w=800&q=80",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/06/30/crypto-exchange-okx-wants-ai-agents-to-hire-and-pay-each-other/",
+      "publishedAt": "2026-06-30T09:00:00.000Z"
+    },
+    {
+      "id": "wotuqd",
+      "title": "The AI jobs debate just got messier",
+      "summary": "A new report finds \"high-intensity AI adopters” saw headcount increase 10.2%. Among those companies, entry-level headcount rose by 12%, countering the rhetoric that AI kills junior jobs.",
+      "imageUrl": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=800&q=80",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/06/29/the-ai-jobs-debate-just-got-messier/",
+      "publishedAt": "2026-06-30T04:01:00.000Z"
+    },
+    {
+      "id": "1jez66",
+      "title": "Vibe coding platform Base44 launches own model as AI startups seek defensibility",
+      "summary": "Wix-owned vibe coding platform Base44 has started rolling out its own AI model — with hopes that it will eventually outperform frontier models.",
+      "imageUrl": "https://images.unsplash.com/photo-1531746790095-6c10a4031c5f?w=800&q=80",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/06/29/vibe-coding-platform-base44-launches-own-model-as-ai-startups-seek-defensibility/",
+      "publishedAt": "2026-06-30T02:28:41.000Z"
+    },
     {
       "id": "u5cegi",
       "title": "US offers $10 million for info on group behind Signal and WhatsApp hacking spree",
@@ -30,8 +57,8 @@
       "publishedAt": "2026-06-29T20:12:59.000Z"
     },
     {
-      "id": "xlvcye",
-      "title": "Tidal won’t pay royalties on AI-generated music but isn’t banning it outright",
+      "id": "13ed5o",
+      "title": "Tidal won’t pay royalties on AI-generated music, but isn’t banning it outright",
       "summary": "Tidal shared its new policies regarding AI-generated music today and how the platform plans to \"protect artists\" and \"inform listeners.\" Instead of banning it outright, starting on July 15th Tidal will label tracks it has identified as being 100 percent AI-generated with an icon. But starting today those tracks will no longer be monetizable. \"Tidal's priority is ensuring royalties go to original works directly produced, written, and performed by people. We will therefore not knowingly attribute…",
       "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25319678/STK301_Tidal_01.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
       "source": "The Verge",
@@ -228,15 +255,6 @@
       "publishedAt": "2026-06-27T16:45:09.000Z"
     },
     {
-      "id": "4bfnct",
-      "title": "The fittest founder in the room got cancer. Here’s how he used AI to fight back.",
-      "summary": "When confronted with cancer, Conno Christou fed everything tied to his regime — blood results, scan data, wearable output, journal entries — into Claude.",
-      "imageUrl": "https://images.unsplash.com/photo-1526374965328-7f61d4dc18c5?w=800&q=80",
-      "source": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/06/27/the-fittest-founder-in-the-room-got-cancer-heres-how-he-used-ai-to-fight-back/",
-      "publishedAt": "2026-06-27T14:00:00.000Z"
-    },
-    {
       "id": "zdnhl0",
       "title": "Why is Apple asking me to pay more for Big Tech’s AI obsession?",
       "summary": "Tim Cook recently said price increases were \"unavoidable\" and described the company's pricing as \"unsustainable.\" The 16-inch MacBook Pro saw its price go up by $300. The 11-inch iPad Air went from $599 to $749. Even the HomePod Mini got a $30 bump to $129. Cook squarely placed the blame at the feet of the AI industry, which is not surprising. RAMageddon has already come for your desktop PCs and gaming consoles. The Xbox has seen its price climb nearly 25 percent depending on the model, and…",
@@ -244,24 +262,6 @@
       "source": "The Verge",
       "sourceUrl": "https://www.theverge.com/report/958678/apple-consumer-price-increase-ai-big-tech",
       "publishedAt": "2026-06-27T13:30:00.000Z"
-    },
-    {
-      "id": "h5o8al",
-      "title": "Asian AI startups launch Mythos-like models as Anthropic’s export ban drags on",
-      "summary": "New models are launching in Asia that promise Mythos-like capabilities without fear of an export ban. U.S. AI labs may never recover this enormous market.",
-      "imageUrl": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=800&q=80",
-      "source": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/06/27/asian-ai-startups-launch-mythos-like-models-as-anthropics-export-ban-drags-on/",
-      "publishedAt": "2026-06-27T12:00:00.000Z"
-    },
-    {
-      "id": "8b14a1",
-      "title": "Trump administration releases Anthropic Mythos to be used by more than 100 US companies, agencies",
-      "summary": "Over 100 companies and government agencies are reportedly authorized to use Mythos 5, including their non-American employees.",
-      "imageUrl": "https://images.unsplash.com/photo-1620712943543-bcc4688e7485?w=800&q=80",
-      "source": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/06/26/trump-admin-releases-anthropic-mythos-to-be-used-by-more-than-100-us-companies-agencies/",
-      "publishedAt": "2026-06-27T01:01:37.000Z"
     },
     {
       "id": "3vpalc",
