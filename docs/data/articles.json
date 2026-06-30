@@ -1,7 +1,16 @@
 {
-  "fetchedAt": "2026-06-29T23:05:32.279Z",
+  "fetchedAt": "2026-06-30T01:31:56.339Z",
   "count": 60,
   "articles": [
+    {
+      "id": "u5cegi",
+      "title": "US offers $10 million for info on group behind Signal and WhatsApp hacking spree",
+      "summary": "Operation by two Russia-state groups has been ongoing since at least March.",
+      "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2026/06/russia-hacking-binary-1152x648.jpg",
+      "source": "Ars Technica",
+      "sourceUrl": "https://arstechnica.com/information-technology/2026/06/us-offers-10-million-for-info-on-group-behind-signal-and-whatsapp-hacking-spree/",
+      "publishedAt": "2026-06-29T22:05:33.000Z"
+    },
     {
       "id": "btco7z",
       "title": "Meta Contractors Posed as Teens to Prompt Rival Chatbots About Suicide, Sex, and Drugs",
@@ -532,15 +541,6 @@
       "source": "Ars Technica",
       "sourceUrl": "https://arstechnica.com/security/2026/06/critical-copilot-vulnerability-allowed-hackers-to-seal-2fa-code-from-users/",
       "publishedAt": "2026-06-16T11:15:46.000Z"
-    },
-    {
-      "id": "vf8x91",
-      "title": "Users cry foul after AMD stripped memory crypto from its consumer CPUs",
-      "summary": "AMD's stripping of TSME from consumer CPUs appears to be a deliberate, covert move.",
-      "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2026/01/IMG_7105-1152x648-1769617334.jpeg",
-      "source": "Ars Technica",
-      "sourceUrl": "https://arstechnica.com/security/2026/06/users-cry-foul-after-amd-stripped-memory-crypto-from-its-consumer-cpus/",
-      "publishedAt": "2026-06-15T17:55:46.000Z"
     }
   ]
 }
