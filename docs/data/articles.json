@@ -1,11 +1,83 @@
 {
-  "fetchedAt": "2026-06-30T10:08:52.967Z",
+  "fetchedAt": "2026-06-30T15:16:21.064Z",
   "count": 60,
   "articles": [
     {
+      "id": "5fbxrm",
+      "title": "X now offers an MCP server to make its platform easier for AI tools to use",
+      "summary": "X has launched a hosted MCP server, making it easier for developers to connect AI applications with the company’s API.",
+      "imageUrl": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=800&q=80",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/06/30/x-now-offers-an-mcp-server-to-make-its-platform-easier-for-ai-tools-to-use/",
+      "publishedAt": "2026-06-30T15:08:42.000Z"
+    },
+    {
+      "id": "mrifip",
+      "title": "Amazon launches new $1 billion FDE org, following OpenAI and Anthropic",
+      "summary": "Engineers on the new team will embed within companies to deploy purpose-built agents, focusing on fast deployments and customer self-sufficiency.",
+      "imageUrl": "https://images.unsplash.com/photo-1635070041078-e363dbe005cb?w=800&q=80",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/06/30/amazon-launches-new-1-billion-fde-org-following-openai-and-anthropic/",
+      "publishedAt": "2026-06-30T15:00:00.000Z"
+    },
+    {
+      "id": "ivdzy1",
+      "title": "Lumo, Proton’s privacy-focused AI chatbot, gets an upgrade",
+      "summary": "Proton's Lumo 2.0 is dropping this week, giving users a broader variety of capabilities.",
+      "imageUrl": "https://images.unsplash.com/photo-1676299081847-824916de030a?w=800&q=80",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/06/30/lumo-protons-privacy-focused-ai-chatbot-gets-an-upgrade/",
+      "publishedAt": "2026-06-30T14:00:00.000Z"
+    },
+    {
+      "id": "ewuz4v",
+      "title": "The Download: AI “coworkers” and stratospheric internet",
+      "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. AI agents are not your “coworkers” Imagine coming in to work to learn that a new underling will report to you. The worker is not a person but an AI tool—one…",
+      "imageUrl": "https://images.unsplash.com/photo-1676299081847-824916de030a?w=800&q=80",
+      "source": "MIT Tech Review",
+      "sourceUrl": "https://www.technologyreview.com/2026/06/30/1139954/the-download-ai-agents-coworkers-solar-powered-internet/",
+      "publishedAt": "2026-06-30T12:10:00.000Z"
+    },
+    {
+      "id": "84f1gn",
+      "title": "Meet the lawyer who beat Elon Musk — twice",
+      "summary": "“After college, my plan was to come to New York and get a record deal.” | Cath Virginia / The Verge, Getty Images Watching Elon Musk fulminate at Bill Savitt during Musk v. Altman - the case in which Musk sued Sam Altman and OpenAI instead of seeing a therapist about his AI failures - was a bit like watching a toddler have a temper tantrum at his nursery school teacher. Savitt's questions were \"designed to trick me,\" Musk said. He also told Savitt at one point, \"You mostly do unfair questions.\"…",
+      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/268607_An_interview_with_William_Savitt_Elon_Musks_courtroom_nemesis_CVirginia.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "source": "The Verge",
+      "sourceUrl": "https://www.theverge.com/column/959270/elon-musk-open-ai-bill-savitt-twitter",
+      "publishedAt": "2026-06-30T12:00:00.000Z"
+    },
+    {
+      "id": "owqbyu",
+      "title": "Agriculture is ready for AI, but its data isn’t",
+      "summary": "Artificial intelligence is transforming what is possible in agriculture, but industry leaders should be wary of investing in AI without first laying the groundwork. The use cases are promising, especially for an industry navigating volatile fertilizer costs, unpredictable weather, and margins that leave little room for error. Research shows AI-enabled predictive models can improve crop…",
+      "imageUrl": "https://images.unsplash.com/photo-1485827404703-89b55fcc595e?w=800&q=80",
+      "source": "MIT Tech Review",
+      "sourceUrl": "https://www.technologyreview.com/2026/06/30/1139513/agriculture-is-ready-for-ai-but-its-data-isnt/",
+      "publishedAt": "2026-06-30T12:00:00.000Z"
+    },
+    {
+      "id": "lpbxfk",
+      "title": "Bernie Sanders Saw This Coming",
+      "summary": "For decades, the senator has argued that concentrated wealth threatened American democracy. Now he’s betting that frustration with Big Tech, billionaires, and unchecked AI is reaching a tipping point.",
+      "imageUrl": "https://media.wired.com/photos/6a3039f6f5bcaabf4a03a98c/master/pass/Big-Interview-UV-Solo-Bernie-Sanders--2233919777.jpg",
+      "source": "Wired",
+      "sourceUrl": "https://www.wired.com/story/the-big-interview-podcast-senator-bernie-sanders/",
+      "publishedAt": "2026-06-30T10:30:00.000Z"
+    },
+    {
+      "id": "opd90b",
+      "title": "Building tech in the world’s secret R&D hub",
+      "summary": "Apple. Anthropic. Disney Research. Google. Meta. Microsoft. NVIDIA. OpenAI. Few places outside Silicon Valley can claim R&D hubs from all of these companies. Fewer still are concentrated in a city of just over 400,000 people—roughly half the size of San Francisco. Over the past two decades, however, many of the world’s most influential technology companies…",
+      "imageUrl": "https://images.unsplash.com/photo-1550751827-4bd374c3f58b?w=800&q=80",
+      "source": "MIT Tech Review",
+      "sourceUrl": "https://www.technologyreview.com/2026/06/30/1139661/building-tech-in-the-worlds-secret-rd-hub/",
+      "publishedAt": "2026-06-30T10:23:30.000Z"
+    },
+    {
       "id": "mj2izc",
       "title": "Crypto exchange OKX wants AI agents to hire and pay each other",
-      "summary": "OKX is bringing together payments, identity and reputation into a marketplace for AI agents.",
+      "summary": "OKX is bringing together payments, identity, and reputation into a marketplace for AI agents.",
       "imageUrl": "https://images.unsplash.com/photo-1526374965328-7f61d4dc18c5?w=800&q=80",
       "source": "TechCrunch",
       "sourceUrl": "https://techcrunch.com/2026/06/30/crypto-exchange-okx-wants-ai-agents-to-hire-and-pay-each-other/",
@@ -21,10 +93,10 @@
       "publishedAt": "2026-06-30T04:01:00.000Z"
     },
     {
-      "id": "1jez66",
-      "title": "Vibe coding platform Base44 launches own model as AI startups seek defensibility",
-      "summary": "Wix-owned vibe coding platform Base44 has started rolling out its own AI model — with hopes that it will eventually outperform frontier models.",
-      "imageUrl": "https://images.unsplash.com/photo-1531746790095-6c10a4031c5f?w=800&q=80",
+      "id": "ct6wpx",
+      "title": "Vibe-coding platform Base44 launches own model as AI startups seek defensibility",
+      "summary": "Wix-owned vibe-coding platform Base44 has started rolling out its own AI model — with hopes that it will eventually outperform frontier models.",
+      "imageUrl": "https://images.unsplash.com/photo-1635070041078-e363dbe005cb?w=800&q=80",
       "source": "TechCrunch",
       "sourceUrl": "https://techcrunch.com/2026/06/29/vibe-coding-platform-base44-launches-own-model-as-ai-startups-seek-defensibility/",
       "publishedAt": "2026-06-30T02:28:41.000Z"
@@ -210,15 +282,6 @@
       "publishedAt": "2026-06-28T19:05:39.000Z"
     },
     {
-      "id": "p9pwhz",
-      "title": "Why Wall Street thinks US memory maker Micron is the next Nvidia",
-      "summary": "Eager to find more public AI-related companies that may do as well as Nvidia, Wall Street investors think they've found a winner with Micron.",
-      "imageUrl": "https://images.unsplash.com/photo-1676299081847-824916de030a?w=800&q=80",
-      "source": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/06/28/why-wall-street-thinks-us-memory-maker-micron-is-the-next-nvidia/",
-      "publishedAt": "2026-06-28T15:00:00.000Z"
-    },
-    {
       "id": "mpcz5w",
       "title": "Prosecutors used ChatGPT logs as evidence in the Palisades fire trial",
       "summary": "Jonathan Rinderknecht was facing arson charges for setting a fire on New Year's Day in 2025, which became one of the deadliest wildfires in LA history. To make their case, prosecutors turned to location data from his iPhone, security camera footage, and witness testimony. But they also turned to his ChatGPT logs. Prosecutors said that Rinderknecht had ChatGPT generate images of fire, asked the chatbot, \"Why am I so angry all the time?\", and ranted to it about how the wealthy were destroying the…",
@@ -228,15 +291,6 @@
       "publishedAt": "2026-06-28T14:12:06.000Z"
     },
     {
-      "id": "uxrcc8",
-      "title": "SoftBank’s CEO isn’t the only one with questions about Elon Musk’s orbital data center hype",
-      "summary": "Not everyone is buying Elon Musk’s vision for orbital data centers.",
-      "imageUrl": "https://images.unsplash.com/photo-1620712943543-bcc4688e7485?w=800&q=80",
-      "source": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/06/27/softbanks-ceo-isnt-the-only-one-with-questions-about-elon-musks-orbital-data-center-hype/",
-      "publishedAt": "2026-06-27T20:42:36.000Z"
-    },
-    {
       "id": "bsx2b9",
       "title": "Margaret Atwood says the problem with AI is ‘garbage in, garbage out’",
       "summary": "Margaret Atwood onstage at Detroit Opera House on January 26, 2026 | Photo: Monica Morgan/Getty Images Margaret Atwood, the storied author of The Handmaid's Tale and The Blind Assassin, was interviewed as part of the Babell Literary and Cultural Festival in Porto, Portugal. As it usually does at these things, the issue of AI came up, and Atwood didn't mince words. According to Deadline's recap, Atwood said she'd used an AI chatbot exactly once, Anthropic's Claude, and came away unimpressed. She…",
@@ -244,15 +298,6 @@
       "source": "The Verge",
       "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/958715/margaret-atwood-ai-problem-garbage-in-garbage-out",
       "publishedAt": "2026-06-27T18:39:32.000Z"
-    },
-    {
-      "id": "o3gdwf",
-      "title": "Apple Vision Pro exec is reportedly leaving for OpenAI",
-      "summary": "Paul Meade, the Apple vice president in charge of the Vision Pro headset, is reportedly leaving the company to join OpenAI’s hardware team.",
-      "imageUrl": "https://images.unsplash.com/photo-1550751827-4bd374c3f58b?w=800&q=80",
-      "source": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/06/27/apple-vision-pro-exec-is-reportedly-leaving-for-openai/",
-      "publishedAt": "2026-06-27T16:45:09.000Z"
     },
     {
       "id": "zdnhl0",
@@ -289,15 +334,6 @@
       "source": "Wired",
       "sourceUrl": "https://www.wired.com/story/openai-gpt-56-model-release-trump-admin-approval/",
       "publishedAt": "2026-06-26T17:05:40.000Z"
-    },
-    {
-      "id": "nd7upx",
-      "title": "OpenAI unveils GPT-5.6 amid US AI regulatory drama",
-      "summary": "Less than 24 hours after news broke that OpenAI would stagger its next model release at the request of the Trump administration, that model, GPT-5.6, is here. On Friday, the company unveiled the limited preview of its new GPT 5.6 model suite: Sol, the flagship; Terra, a medium-tier model for \"high-volume work\"; and Luna, a \"fast and affordable\" everyday model. OpenAI says it's especially skilled at coding, cybersecurity, and biology, as well as staying focused during long-horizon agentic AI…",
-      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/09/kTm2Q30DT9sCOWpyFewTes78TWbe7s-fy-w68LlL6V0.jpeg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "source": "The Verge",
-      "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/957845/openai-gpt-5-6-trump-administration-ai-preview",
-      "publishedAt": "2026-06-26T17:00:00.000Z"
     },
     {
       "id": "og5rbs",
@@ -390,33 +426,6 @@
       "publishedAt": "2026-06-25T11:00:00.000Z"
     },
     {
-      "id": "thsqtm",
-      "title": "British Police Built a Sprawling Crime-Prediction Machine. Some Results Couldn’t Be Trusted",
-      "summary": "As UK police embrace the AI revolution, a WIRED investigation reveals the messy inside story of one region’s experiment with predictive analytics.",
-      "imageUrl": "https://media.wired.com/photos/6a3567f180aca3ee482ce311/master/pass/WIRED-Bristol-Policing-Lena-Weber-01.gif",
-      "source": "Wired",
-      "sourceUrl": "https://www.wired.com/story/british-police-built-a-sprawling-crime-prediction-machine-some-results-couldnt-be-trusted/",
-      "publishedAt": "2026-06-25T10:00:00.000Z"
-    },
-    {
-      "id": "24gv9",
-      "title": "What Europe’s heat wave means for the power grid",
-      "summary": "It’s been hard to look away from headlines about the European heat wave this week. Temperatures are breaking records across the continent, and the weather is threatening lives, shutting down schools, and in one particularly ironic case, forcing the cancellation of a London Climate Action Week event about extreme heat. As the summer ramps up…",
-      "imageUrl": "https://images.unsplash.com/photo-1526374965328-7f61d4dc18c5?w=800&q=80",
-      "source": "MIT Tech Review",
-      "sourceUrl": "https://www.technologyreview.com/2026/06/25/1139690/europe-heat-wave-grid/",
-      "publishedAt": "2026-06-25T10:00:00.000Z"
-    },
-    {
-      "id": "1hlgbk",
-      "title": "IBM has unveiled chip technology that could help extend Moore’s Law another decade",
-      "summary": "IBM has built a new prototype chip with around 100 billion transistors on an area the size of a fingernail, which is twice the density of the company’s previous state-of-the-art technology announced in 2021. The design could pave the way for faster and more energy efficient computers for years to come. For more than half…",
-      "imageUrl": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=800&q=80",
-      "source": "MIT Tech Review",
-      "sourceUrl": "https://www.technologyreview.com/2026/06/25/1139696/ibm-unveils-sub1nm-chip/",
-      "publishedAt": "2026-06-25T10:00:00.000Z"
-    },
-    {
       "id": "ozp905",
       "title": "One-two punch delivered in global operation disrupts cybercrime \"assembly line\"",
       "summary": "\"Operation Endgame\" simultaneously disrupts two widely used crime tools.",
@@ -424,15 +433,6 @@
       "source": "Ars Technica",
       "sourceUrl": "https://arstechnica.com/security/2026/06/one-two-punch-delivered-in-global-operation-disrupts-cybercrime-assembly-line/",
       "publishedAt": "2026-06-24T21:03:34.000Z"
-    },
-    {
-      "id": "afjpsj",
-      "title": "Europe’s extreme heat is shutting down power plants",
-      "summary": "Europe is in the middle of a record-breaking heat wave, and the grid is being pushed to its limits as people turn to fans and air-conditioning to try to stay cool. Some power plants won’t be online to help handle the load. On June 23, France saw its hottest day since record-keeping began in 1947.…",
-      "imageUrl": "https://images.unsplash.com/photo-1620712943543-bcc4688e7485?w=800&q=80",
-      "source": "MIT Tech Review",
-      "sourceUrl": "https://www.technologyreview.com/2026/06/24/1139676/europe-heat-power-plants/",
-      "publishedAt": "2026-06-24T15:25:28.000Z"
     },
     {
       "id": "g3c0p4",
