@@ -1,7 +1,25 @@
 {
-  "fetchedAt": "2026-06-30T19:21:42.493Z",
+  "fetchedAt": "2026-06-30T21:16:21.245Z",
   "count": 60,
   "articles": [
+    {
+      "id": "gbrxje",
+      "title": "The DeepMind trio who built a poker AI are now making money for quant hedge funds",
+      "summary": "EquiLibre Technologies, a Prague-based AI lab founded by three ex-DeepMind researchers, is now valued at more than $500 million.",
+      "imageUrl": "https://images.unsplash.com/photo-1485827404703-89b55fcc595e?w=800&q=80",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/06/30/the-deepmind-trio-who-built-a-poker-ai-are-now-making-money-for-quant-hedge-funds/",
+      "publishedAt": "2026-06-30T20:33:48.000Z"
+    },
+    {
+      "id": "71o0ah",
+      "title": "New attack provides one more reason why AI browsers are a bad idea",
+      "summary": "Telling an LLM that 2 + 2 = 5 is enough to make it follow forbidden instructions.",
+      "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2026/06/broken-ai-robot-browser-404-1152x648.jpg",
+      "source": "Ars Technica",
+      "sourceUrl": "https://arstechnica.com/security/2026/06/ai-browsers-can-be-lulled-into-a-dream-world-where-guardrails-no-longer-apply/",
+      "publishedAt": "2026-06-30T20:03:14.000Z"
+    },
     {
       "id": "aucbye",
       "title": "Google introduces a faster, cheaper image generator with Nano Banana 2 Lite",
@@ -48,15 +66,6 @@
       "publishedAt": "2026-06-30T17:36:48.000Z"
     },
     {
-      "id": "mlmzyt",
-      "title": "Netflix is using an AI-generated Gene Wilder voice in its Willy Wonka reality show",
-      "summary": "A new teaser trailer confirmed that Wonka's The Golden Ticket will premiere on Netflix on September 23rd, following its Squid Game reality show in the trend of creating real competitions based on fictional torture scenarios. While the sets seen in the trailer are real and not some Glasgow-style AI fakes, the voiceover is AI-generated. Deadline reports that Netflix worked with AI audio company ElevenLabs with consent from Wilder's family, after working on productions re-creating the voice of…",
-      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/videoframe_9748.png?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "source": "The Verge",
-      "sourceUrl": "https://www.theverge.com/streaming/959684/netflix-wonka-golden-ticket-gene-wilder",
-      "publishedAt": "2026-06-30T17:19:15.000Z"
-    },
-    {
       "id": "y764pd",
       "title": "Anthropic’s Claude Science bets on workflow, not a new model, to win over scientists",
       "summary": "Anthropic's Claude Science is a workbench that gives scientists one environment to do computational research, saving them from the need to bounce between databases, pipelines, and tools.",
@@ -64,15 +73,6 @@
       "source": "TechCrunch",
       "sourceUrl": "https://techcrunch.com/2026/06/30/anthropics-claude-science-bets-on-workflow-not-a-new-model-to-win-over-scientists/",
       "publishedAt": "2026-06-30T17:00:00.000Z"
-    },
-    {
-      "id": "4etc11",
-      "title": "Libby will filter out AI content, kind of",
-      "summary": "This is Lowpass by Janko Roettgers, a newsletter on the ever-evolving intersection of tech and entertainment, syndicated just for The Verge subscribers once a week. \"AI is the new frontier for us,\" says Marc DeBevoise, who took over as the new CEO of OverDrive last week. OverDrive is best known for the ebook lending app Libby that is available through tens of thousands of public libraries. Like the rest of the digital publishing industry, it's poised to face massive disruption from a huge wave…",
-      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/24148705/PXL_20221028_153245856.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "source": "The Verge",
-      "sourceUrl": "https://www.theverge.com/column/959433/libby-ai-filter",
-      "publishedAt": "2026-06-30T15:30:00.000Z"
     },
     {
       "id": "5fbxrm",
@@ -237,15 +237,6 @@
       "publishedAt": "2026-06-29T18:10:26.000Z"
     },
     {
-      "id": "bfg0p9",
-      "title": "South Korean tech giants commit over $550B to ease ‘RAMageddon’",
-      "summary": "The world's two largest memory chip companies vow to build more memory lab fabs as South Korea positions itself as an AI tech powerhouse country.",
-      "imageUrl": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=800&q=80",
-      "source": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/06/29/south-korean-tech-giants-commit-over-550b-to-ease-ramageddon/",
-      "publishedAt": "2026-06-29T18:07:48.000Z"
-    },
-    {
       "id": "ji4ldh",
       "title": "AI agents are not your “coworkers”",
       "summary": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here. Imagine coming in to work to learn that a new underling will report to you. The worker is not a person but an AI tool—one that your company nonetheless calls Alex, an…",
@@ -325,6 +316,24 @@
       "source": "The Verge",
       "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/958715/margaret-atwood-ai-problem-garbage-in-garbage-out",
       "publishedAt": "2026-06-27T18:39:32.000Z"
+    },
+    {
+      "id": "zdnhl0",
+      "title": "Why is Apple asking me to pay more for Big Tech’s AI obsession?",
+      "summary": "Tim Cook recently said price increases were \"unavoidable\" and described the company's pricing as \"unsustainable.\" The 16-inch MacBook Pro saw its price go up by $300. The 11-inch iPad Air went from $599 to $749. Even the HomePod Mini got a $30 bump to $129. Cook squarely placed the blame at the feet of the AI industry, which is not surprising. RAMageddon has already come for your desktop PCs and gaming consoles. The Xbox has seen its price climb nearly 25 percent depending on the model, and…",
+      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/03/STK071_ACastro_apple_0003_a30fb2.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "source": "The Verge",
+      "sourceUrl": "https://www.theverge.com/report/958678/apple-consumer-price-increase-ai-big-tech",
+      "publishedAt": "2026-06-27T13:30:00.000Z"
+    },
+    {
+      "id": "3vpalc",
+      "title": "Anthropic’s Mythos 5 is back",
+      "summary": "After a rollercoaster negotiation process with the Trump administration that dragged on for two weeks, Anthropic's Mythos 5 is finally back in action - at least, somewhat, for a select group of organizations, according to a letter from the government to Anthropic that was viewed by The Verge. Fable 5, however - the public-facing Mythos-class model - appears to still be in limbo, with no apparent timeline for a rollout agreement. The letter, dated June 26th and sent by Commerce Secretary Howard…",
+      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/DCD_0617_Fable5.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "source": "The Verge",
+      "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/958458/anthropic-mythos-5-is-back-trump-negotiations",
+      "publishedAt": "2026-06-27T00:33:44.000Z"
     },
     {
       "id": "209itb",
@@ -532,15 +541,6 @@
       "source": "Ars Technica",
       "sourceUrl": "https://arstechnica.com/information-technology/2026/06/hpe-tempts-vmware-users-partners-with-year-of-free-virtualization-software/",
       "publishedAt": "2026-06-16T22:11:15.000Z"
-    },
-    {
-      "id": "qeb4b8",
-      "title": "Critical Copilot vulnerability allowed hackers to steal 2FA code from users",
-      "summary": "SearchLeak exploit shows why the industry's approach to LLM security fails over and over.",
-      "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2026/06/GettyImages-2242817595-1152x648.jpg",
-      "source": "Ars Technica",
-      "sourceUrl": "https://arstechnica.com/security/2026/06/critical-copilot-vulnerability-allowed-hackers-to-seal-2fa-code-from-users/",
-      "publishedAt": "2026-06-16T11:15:46.000Z"
     }
   ]
 }
