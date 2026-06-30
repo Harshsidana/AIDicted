@@ -1,7 +1,25 @@
 {
-  "fetchedAt": "2026-06-30T21:16:21.245Z",
+  "fetchedAt": "2026-06-30T22:52:17.432Z",
   "count": 60,
   "articles": [
+    {
+      "id": "3pujwm",
+      "title": "OpenClaw is finally available on Android and iOS",
+      "summary": "The free open source agentic program is finally invading your phone.",
+      "imageUrl": "https://images.unsplash.com/photo-1550751827-4bd374c3f58b?w=800&q=80",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/06/30/openclaw-is-finally-available-on-android-and-ios/",
+      "publishedAt": "2026-06-30T21:53:28.000Z"
+    },
+    {
+      "id": "6ozuft",
+      "title": "Claude Science is Anthropic’s newest flagship product",
+      "summary": "At an event for pharmaceutical executives, biotech founders, and researchers on Tuesday, Anthropic announced Claude Science, a major new product intended to support scientific research in the same way that Claude Code supports software engineering. Like Claude Code, Claude Science can autonomously carry out meaningful work when given concise, high-level instructions, and it has access…",
+      "imageUrl": "https://images.unsplash.com/photo-1655720828018-edd2daec9349?w=800&q=80",
+      "source": "MIT Tech Review",
+      "sourceUrl": "https://www.technologyreview.com/2026/06/30/1139987/claude-science-is-anthropics-newest-flagship-product/",
+      "publishedAt": "2026-06-30T21:50:04.000Z"
+    },
     {
       "id": "gbrxje",
       "title": "The DeepMind trio who built a poker AI are now making money for quant hedge funds",
@@ -19,6 +37,15 @@
       "source": "Ars Technica",
       "sourceUrl": "https://arstechnica.com/security/2026/06/ai-browsers-can-be-lulled-into-a-dream-world-where-guardrails-no-longer-apply/",
       "publishedAt": "2026-06-30T20:03:14.000Z"
+    },
+    {
+      "id": "c1hvur",
+      "title": "Google’s NotebookLM can sum up your research in a TikTok-style clip",
+      "summary": "Google's NotebookLM is adding a new way to catch up on your notes: TikTok-style AI videos. The new feature is rolling out to Google AI Ultra and Pro subscribers, allowing NotebookLM to generate 60-second vertical AI clips based on the sources you upload to the app. The example shared by Google details Australia's unsuccessful war on emus, pairing paper cutout-style AI art of emus with narration. It adds to some of the other ways NotebookLM lets you interact with your research, including by…",
+      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/notebooklm-shorts.png?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "source": "The Verge",
+      "sourceUrl": "https://www.theverge.com/tech/959778/google-notebooklm-ai-clips",
+      "publishedAt": "2026-06-30T19:24:51.000Z"
     },
     {
       "id": "aucbye",
@@ -66,6 +93,15 @@
       "publishedAt": "2026-06-30T17:36:48.000Z"
     },
     {
+      "id": "mlmzyt",
+      "title": "Netflix is using an AI-generated Gene Wilder voice in its Willy Wonka reality show",
+      "summary": "A new teaser trailer confirmed that Wonka's The Golden Ticket will premiere on Netflix on September 23rd, following its Squid Game reality show in the trend of creating real competitions based on fictional torture scenarios. While the sets seen in the trailer are real and not some Glasgow-style AI fakes, the voiceover is AI-generated. Deadline reports that Netflix worked with AI audio company ElevenLabs with consent from Wilder's family, after working on productions re-creating the voice of…",
+      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/videoframe_9748.png?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "source": "The Verge",
+      "sourceUrl": "https://www.theverge.com/streaming/959684/netflix-wonka-golden-ticket-gene-wilder",
+      "publishedAt": "2026-06-30T17:19:15.000Z"
+    },
+    {
       "id": "y764pd",
       "title": "Anthropic’s Claude Science bets on workflow, not a new model, to win over scientists",
       "summary": "Anthropic's Claude Science is a workbench that gives scientists one environment to do computational research, saving them from the need to bounce between databases, pipelines, and tools.",
@@ -73,6 +109,15 @@
       "source": "TechCrunch",
       "sourceUrl": "https://techcrunch.com/2026/06/30/anthropics-claude-science-bets-on-workflow-not-a-new-model-to-win-over-scientists/",
       "publishedAt": "2026-06-30T17:00:00.000Z"
+    },
+    {
+      "id": "4etc11",
+      "title": "Libby will filter out AI content, kind of",
+      "summary": "This is Lowpass by Janko Roettgers, a newsletter on the ever-evolving intersection of tech and entertainment, syndicated just for The Verge subscribers once a week. \"AI is the new frontier for us,\" says Marc DeBevoise, who took over as the new CEO of OverDrive last week. OverDrive is best known for the ebook lending app Libby that is available through tens of thousands of public libraries. Like the rest of the digital publishing industry, it's poised to face massive disruption from a huge wave…",
+      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/24148705/PXL_20221028_153245856.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "source": "The Verge",
+      "sourceUrl": "https://www.theverge.com/column/959433/libby-ai-filter",
+      "publishedAt": "2026-06-30T15:30:00.000Z"
     },
     {
       "id": "5fbxrm",
@@ -228,15 +273,6 @@
       "publishedAt": "2026-06-29T18:52:03.000Z"
     },
     {
-      "id": "8tb139",
-      "title": "Anthropic and Gov. Newsom forge deal allowing California government to use Claude at half price",
-      "summary": "As Anthropic forges a closer relationship with the state of California, the federal government has made an enemy out of the OpenAI rival.",
-      "imageUrl": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=800&q=80",
-      "source": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/06/29/anthropic-and-gov-newsom-forge-deal-allowing-california-government-to-use-claude-at-half-price/",
-      "publishedAt": "2026-06-29T18:10:26.000Z"
-    },
-    {
       "id": "ji4ldh",
       "title": "AI agents are not your “coworkers”",
       "summary": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here. Imagine coming in to work to learn that a new underling will report to you. The worker is not a person but an AI tool—one that your company nonetheless calls Alex, an…",
@@ -307,33 +343,6 @@
       "source": "The Verge",
       "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/958751/prosecutors-chatgpt-palisades-wildfire-arson-mistrial",
       "publishedAt": "2026-06-28T14:12:06.000Z"
-    },
-    {
-      "id": "bsx2b9",
-      "title": "Margaret Atwood says the problem with AI is ‘garbage in, garbage out’",
-      "summary": "Margaret Atwood onstage at Detroit Opera House on January 26, 2026 | Photo: Monica Morgan/Getty Images Margaret Atwood, the storied author of The Handmaid's Tale and The Blind Assassin, was interviewed as part of the Babell Literary and Cultural Festival in Porto, Portugal. As it usually does at these things, the issue of AI came up, and Atwood didn't mince words. According to Deadline's recap, Atwood said she'd used an AI chatbot exactly once, Anthropic's Claude, and came away unimpressed. She…",
-      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/gettyimages-2258417618.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "source": "The Verge",
-      "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/958715/margaret-atwood-ai-problem-garbage-in-garbage-out",
-      "publishedAt": "2026-06-27T18:39:32.000Z"
-    },
-    {
-      "id": "zdnhl0",
-      "title": "Why is Apple asking me to pay more for Big Tech’s AI obsession?",
-      "summary": "Tim Cook recently said price increases were \"unavoidable\" and described the company's pricing as \"unsustainable.\" The 16-inch MacBook Pro saw its price go up by $300. The 11-inch iPad Air went from $599 to $749. Even the HomePod Mini got a $30 bump to $129. Cook squarely placed the blame at the feet of the AI industry, which is not surprising. RAMageddon has already come for your desktop PCs and gaming consoles. The Xbox has seen its price climb nearly 25 percent depending on the model, and…",
-      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/03/STK071_ACastro_apple_0003_a30fb2.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "source": "The Verge",
-      "sourceUrl": "https://www.theverge.com/report/958678/apple-consumer-price-increase-ai-big-tech",
-      "publishedAt": "2026-06-27T13:30:00.000Z"
-    },
-    {
-      "id": "3vpalc",
-      "title": "Anthropic’s Mythos 5 is back",
-      "summary": "After a rollercoaster negotiation process with the Trump administration that dragged on for two weeks, Anthropic's Mythos 5 is finally back in action - at least, somewhat, for a select group of organizations, according to a letter from the government to Anthropic that was viewed by The Verge. Fable 5, however - the public-facing Mythos-class model - appears to still be in limbo, with no apparent timeline for a rollout agreement. The letter, dated June 26th and sent by Commerce Secretary Howard…",
-      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/DCD_0617_Fable5.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "source": "The Verge",
-      "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/958458/anthropic-mythos-5-is-back-trump-negotiations",
-      "publishedAt": "2026-06-27T00:33:44.000Z"
     },
     {
       "id": "209itb",
@@ -415,15 +424,6 @@
       "source": "Ars Technica",
       "sourceUrl": "https://arstechnica.com/gadgets/2026/06/notion-killing-skiff-influenced-email-app-since-most-users-use-ai-agents-instead/",
       "publishedAt": "2026-06-25T19:04:57.000Z"
-    },
-    {
-      "id": "yu5v55",
-      "title": "Repositioning retail for the AI era",
-      "summary": "Artificial intelligence is rapidly reshaping retail, but not in the ways consumers might immediately notice. The biggest transformation may not be flashy virtual try-ons or chatbot shopping assistants, but in how decisions are made behind the scenes: how products surface in search results, how inventory moves through supply chains, how engineers ship code faster, and…",
-      "imageUrl": "https://images.unsplash.com/photo-1655720828018-edd2daec9349?w=800&q=80",
-      "source": "MIT Tech Review",
-      "sourceUrl": "https://www.technologyreview.com/2026/06/25/1137848/repositioning-retail-for-the-ai-era/",
-      "publishedAt": "2026-06-25T14:22:59.000Z"
     },
     {
       "id": "xkd22a",
