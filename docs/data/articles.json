@@ -1,7 +1,25 @@
 {
-  "fetchedAt": "2026-07-01T08:59:52.196Z",
+  "fetchedAt": "2026-07-01T12:15:19.892Z",
   "count": 60,
   "articles": [
+    {
+      "id": "gxituk",
+      "title": "Google built a great smart speaker, but Gemini isn’t ready for it",
+      "summary": "The Google Home Speaker is Google’s first smart speaker in years. And it’s pretty! | Photo: Jennifer Patison Tuohy / The Verge Smart speakers have spent the past few years searching for a compelling second act. Beyond music, timers, and controlling your lights, they've struggled to justify taking up space on the kitchen counter. AI promised to change that. Amazon debuted its new hardware powered by a revamped Alexa last fall, and now it's finally Google's turn. The Google Home Speaker is the…",
+      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/268614_Google_Home_Speaker_JTuohy_0009.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "source": "The Verge",
+      "sourceUrl": "https://www.theverge.com/tech/959503/google-home-speaker-review-gemini-for-home",
+      "publishedAt": "2026-07-01T12:00:00.000Z"
+    },
+    {
+      "id": "adr317",
+      "title": "Claude Helped a Hacker Find a Way to Issue Tickets to Almost Every US Music Festival",
+      "summary": "A researcher found that using Anthropic’s Claude Opus 4.7, he could break into the website of Front Gate—used by every festival from Lollapalooza to Bonnaroo—and freely issue any ticket he chose.",
+      "imageUrl": "https://media.wired.com/photos/6a43054548c440f683e2b417/master/pass/AI-Found-Way-to-Hack-Ticketing-System-Security.jpg",
+      "source": "Wired",
+      "sourceUrl": "https://www.wired.com/story/claude-helped-a-hacker-find-a-way-to-issue-tickets-to-almost-every-us-music-festival/",
+      "publishedAt": "2026-07-01T10:00:00.000Z"
+    },
     {
       "id": "ydjbmh",
       "title": "The ‘Father of the Internet’ is finally retiring",
@@ -345,15 +363,6 @@
       "publishedAt": "2026-06-28T21:42:51.000Z"
     },
     {
-      "id": "w1ewlc",
-      "title": "Suno launches Spark incubator program to feed independent artists to its AI machine",
-      "summary": "Suno has ambitions to be more than just a toy to churn out AI slop, it also wants to be a streaming destination and to break new artists. Spark is their new incubator program for independent artists that provides grants, mentorship, and marketing support. To apply, artists need to be an unsigned singer, songwriter, or producer releasing music under their own name. They also need to agree to some terms and conditions that have raised some eyebrows over on the Suno subreddit. For one, you need to…",
-      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/01/STK467_AI_MUSIC_CVirginia_C.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "source": "The Verge",
-      "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/958801/suno-launches-spark-incubator-program-to-feed-independent-artists-to-its-ai-machine",
-      "publishedAt": "2026-06-28T20:27:36.000Z"
-    },
-    {
       "id": "209itb",
       "title": "Trump Administration Allows Anthropic to Release Mythos to Select US Organizations",
       "summary": "After weeks of negotiations, the White House permitted Anthropic to grant access to its most advanced AI model to a select group of US companies and government agencies.",
@@ -415,15 +424,6 @@
       "source": "Wired",
       "sourceUrl": "https://www.wired.com/story/anthropic-thinks-ai-can-only-be-safe-under-its-control/",
       "publishedAt": "2026-06-26T00:49:13.000Z"
-    },
-    {
-      "id": "dmua90",
-      "title": "Why Amazon Dropped Its OpenAI Movie, Data Center Workers Fight Back, and Meta Leaks Employee Data",
-      "summary": "The decision by Amazon-owned MGM Studios to drop the OpenAI movie is just part of AI and film industries becoming increasingly intertwined. On Uncanny Valley, we look at where this is all headed.",
-      "imageUrl": "https://media.wired.com/photos/6a3c48825cdc2b309c97a195/master/pass/Uncanny-Valley-AI-Hollywood-Business.jpg",
-      "source": "Wired",
-      "sourceUrl": "https://www.wired.com/story/uncanny-valley-podcast-amazon-mgm-openai-movie-data-center-workers-fight-back-meta-leaks-employee-data/",
-      "publishedAt": "2026-06-25T23:13:45.000Z"
     },
     {
       "id": "z0xyl8",
