@@ -1,7 +1,61 @@
 {
-  "fetchedAt": "2026-07-01T12:15:19.892Z",
+  "fetchedAt": "2026-07-01T15:21:11.077Z",
   "count": 60,
   "articles": [
+    {
+      "id": "6mv0fv",
+      "title": "LLMs are stuck in a groupthink groove. This startup is trying to get them out.",
+      "summary": "Let’s start with a game. Open up your chatbot of choice—Claude, ChatGPT, Gemini—and type “Give me a random number between 1 and 10.” You’re going to get 7. Almost always. Now type “Another” and you’ll get 3 or 4. Type “Another” again and you’ll get 8 or 9. That won’t work every time—but if it…",
+      "imageUrl": "https://images.unsplash.com/photo-1676299081847-824916de030a?w=800&q=80",
+      "source": "MIT Tech Review",
+      "sourceUrl": "https://www.technologyreview.com/2026/07/01/1140003/llms-are-stuck-in-a-groupthink-rut-this-startup-is-trying-to-get-them-out/",
+      "publishedAt": "2026-07-01T14:35:16.000Z"
+    },
+    {
+      "id": "lmwcuj",
+      "title": "Venice AI becomes a unicorn with $65M Series A as its privacy-first AI platform takes off",
+      "summary": "Venice AI is already profitable, with annualized run-rate revenues of over $70 million, CEO Erik Voorhees said.",
+      "imageUrl": "https://images.unsplash.com/photo-1526374965328-7f61d4dc18c5?w=800&q=80",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/07/01/venice-ai-becomes-a-unicorn-with-65m-series-a-as-its-privacy-first-ai-platform-takes-off/",
+      "publishedAt": "2026-07-01T14:25:23.000Z"
+    },
+    {
+      "id": "50rihw",
+      "title": "Gemini Spark, Google’s agentic assistant, is now available on Mac",
+      "summary": "Google's 24/7 agentic assistant, Gemini Spark, comes to Mac alongside other improvements, like real-time tracking and support for more apps.",
+      "imageUrl": "https://images.unsplash.com/photo-1655720828018-edd2daec9349?w=800&q=80",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/07/01/gemini-spark-googles-agentic-assistant-is-now-available-on-mac/",
+      "publishedAt": "2026-07-01T14:20:19.000Z"
+    },
+    {
+      "id": "42dhow",
+      "title": "Builders Stage agenda revealed: Practical strategies for scaling startups at TechCrunch Disrupt 2026",
+      "summary": "The Builders Stage is returning to TechCrunch Disrupt 2026, bringing together 10,000+ founders, startup operators, and investors for practical conversations. and Q&A on what it takes to build and scale successful companies. Register now to save up to $330.",
+      "imageUrl": "https://images.unsplash.com/photo-1485827404703-89b55fcc595e?w=800&q=80",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/07/01/builders-stage-agenda-revealed-practical-strategies-for-scaling-startups-at-techcrunch-disrupt-2026/",
+      "publishedAt": "2026-07-01T14:00:00.000Z"
+    },
+    {
+      "id": "gfqk40",
+      "title": "Meta, like SpaceX, looks to turn excess AI compute into cash",
+      "summary": "Meta is developing plans for a cloud infrastructure business, selling access to AI compute power and models. The move would pit it against the big cloud providers like Amazon Web Services, Google Cloud, and Microsoft Azure.",
+      "imageUrl": "https://images.unsplash.com/photo-1550751827-4bd374c3f58b?w=800&q=80",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/07/01/meta-like-spacex-looks-to-turn-excess-ai-compute-into-cash/",
+      "publishedAt": "2026-07-01T13:43:07.000Z"
+    },
+    {
+      "id": "ov69ds",
+      "title": "The Download: Anthropic launches Claude Science, and California’s carbon manure math",
+      "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. Claude Science is Anthropic’s newest flagship product At an event for pharmaceutical executives, biotech founders, and researchers yesterday, Anthropic announced Claude Science, a major new product intended to support scientific research…",
+      "imageUrl": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=800&q=80",
+      "source": "MIT Tech Review",
+      "sourceUrl": "https://www.technologyreview.com/2026/07/01/1139996/the-download-anthropic-claude-science-california-carbon-manure/",
+      "publishedAt": "2026-07-01T12:10:00.000Z"
+    },
     {
       "id": "gxituk",
       "title": "Google built a great smart speaker, but Gemini isn’t ready for it",
@@ -192,33 +246,6 @@
       "publishedAt": "2026-06-30T15:08:42.000Z"
     },
     {
-      "id": "7z27pq",
-      "title": "Podcasting platform Riverside enters the newsletter publishing game",
-      "summary": "Users will be able use AI to create newsletters based on their recordings.",
-      "imageUrl": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=800&q=80",
-      "source": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/06/30/podcasting-platform-riverside-enters-the-newsletter-publishing-game/",
-      "publishedAt": "2026-06-30T15:00:00.000Z"
-    },
-    {
-      "id": "mrifip",
-      "title": "Amazon launches new $1 billion FDE org, following OpenAI and Anthropic",
-      "summary": "Engineers on the new team will embed within companies to deploy purpose-built agents, focusing on fast deployments and customer self-sufficiency.",
-      "imageUrl": "https://images.unsplash.com/photo-1635070041078-e363dbe005cb?w=800&q=80",
-      "source": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/06/30/amazon-launches-new-1-billion-fde-org-following-openai-and-anthropic/",
-      "publishedAt": "2026-06-30T15:00:00.000Z"
-    },
-    {
-      "id": "ivdzy1",
-      "title": "Lumo, Proton’s privacy-focused AI chatbot, gets an upgrade",
-      "summary": "Proton's Lumo 2.0 is dropping this week, giving users a broader variety of capabilities.",
-      "imageUrl": "https://images.unsplash.com/photo-1676299081847-824916de030a?w=800&q=80",
-      "source": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/06/30/lumo-protons-privacy-focused-ai-chatbot-gets-an-upgrade/",
-      "publishedAt": "2026-06-30T14:00:00.000Z"
-    },
-    {
       "id": "ewuz4v",
       "title": "The Download: AI “coworkers” and stratospheric internet",
       "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. AI agents are not your “coworkers” Imagine coming in to work to learn that a new underling will report to you. The worker is not a person but an AI tool—one…",
@@ -262,15 +289,6 @@
       "source": "MIT Tech Review",
       "sourceUrl": "https://www.technologyreview.com/2026/06/30/1139661/building-tech-in-the-worlds-secret-rd-hub/",
       "publishedAt": "2026-06-30T10:23:30.000Z"
-    },
-    {
-      "id": "mj2izc",
-      "title": "Crypto exchange OKX wants AI agents to hire and pay each other",
-      "summary": "OKX is bringing together payments, identity, and reputation into a marketplace for AI agents.",
-      "imageUrl": "https://images.unsplash.com/photo-1526374965328-7f61d4dc18c5?w=800&q=80",
-      "source": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/06/30/crypto-exchange-okx-wants-ai-agents-to-hire-and-pay-each-other/",
-      "publishedAt": "2026-06-30T09:00:00.000Z"
     },
     {
       "id": "u5cegi",
@@ -390,15 +408,6 @@
       "publishedAt": "2026-06-26T15:00:00.000Z"
     },
     {
-      "id": "9wz2jw",
-      "title": "The Download: brain-melting heatwaves and unprecedented OpenAI restrictions",
-      "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. Heat waves mess with your brain. Scientists are trying to figure out why. —Jessica Hamzelou It’s been hot in London this week. Really hot. A dangerous heat wave has hit Western…",
-      "imageUrl": "https://images.unsplash.com/photo-1526374965328-7f61d4dc18c5?w=800&q=80",
-      "source": "MIT Tech Review",
-      "sourceUrl": "https://www.technologyreview.com/2026/06/26/1139780/the-download-heatwaves-brain-health-openai-restrictions/",
-      "publishedAt": "2026-06-26T12:10:00.000Z"
-    },
-    {
       "id": "mwiam9",
       "title": "How Qatar Became FIFA’s Technology Test Lab",
       "summary": "Qatar has become the place where FIFA experiments with the next generation of football technology. The results are already visible across this year’s World Cup.",
@@ -406,15 +415,6 @@
       "source": "Wired",
       "sourceUrl": "https://www.wired.com/story/how-qatar-became-fifas-technology-test-lab/",
       "publishedAt": "2026-06-26T10:00:00.000Z"
-    },
-    {
-      "id": "me67pa",
-      "title": "Heat waves mess with your brain. Scientists are trying to figure out why.",
-      "summary": "It’s been hot in London this week. Really hot. A dangerous heat wave has hit Western Europe. Yesterday, the UK recorded its highest ever June temperature at 36.1 °C (about 97 °F). But as the weather app on my phone confirmed, it felt like 39 °C. It’s frightening that we are seeing such temperatures in…",
-      "imageUrl": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=800&q=80",
-      "source": "MIT Tech Review",
-      "sourceUrl": "https://www.technologyreview.com/2026/06/26/1139760/heat-waves-mess-with-your-brain-scientists-are-trying-to-figure-out-why/",
-      "publishedAt": "2026-06-26T09:00:00.000Z"
     },
     {
       "id": "rczg6h",
