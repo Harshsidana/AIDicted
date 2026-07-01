@@ -1,7 +1,25 @@
 {
-  "fetchedAt": "2026-06-30T22:52:17.432Z",
+  "fetchedAt": "2026-07-01T00:15:21.613Z",
   "count": 60,
   "articles": [
+    {
+      "id": "z8cot5",
+      "title": "Anthropic’s long-sidelined Fable 5 is greenlit to return",
+      "summary": "After weeks of negotiating with the Trump administration, Anthropic is finally going to be able to bring Claude Fable 5 back online. In a post on X, Anthropic said it plans to begin restoring access tomorrow. Anthropic: We've received notice that the Department of Commerce has lifted export controls on Claude Fable 5 and Mythos 5. We'll begin restoring access tomorrow, and will share an update soon. We're grateful to our users for their patience, and to everyone who worked with us on redeploying…",
+      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/05/STKB364_CLAUDE_2_C_96d15c.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "source": "The Verge",
+      "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/958964/anthropic-claude-fable-5-is-back",
+      "publishedAt": "2026-07-01T00:03:55.000Z"
+    },
+    {
+      "id": "6vmwji",
+      "title": "The Trump Administration Is Lifting Its Export Controls on Anthropic’s Mythos and Fable AI Models",
+      "summary": "The White House is easing restrictions on Anthropic’s most advanced AI models weeks after ordering the company to suspend access for foreign nationals.",
+      "imageUrl": "https://media.wired.com/photos/6a444e05c62f6b38179079b8/master/pass/White-House-LiftsExport-Controls-Anthropic-Business-AP-26168447800568.jpg",
+      "source": "Wired",
+      "sourceUrl": "https://www.wired.com/story/trump-administration-lifts-export-controls-on-anthropics-mythos-and-fable-ai-models/",
+      "publishedAt": "2026-06-30T23:23:04.000Z"
+    },
     {
       "id": "3pujwm",
       "title": "OpenClaw is finally available on Android and iOS",
@@ -336,15 +354,6 @@
       "publishedAt": "2026-06-28T20:27:36.000Z"
     },
     {
-      "id": "mpcz5w",
-      "title": "Prosecutors used ChatGPT logs as evidence in the Palisades fire trial",
-      "summary": "Jonathan Rinderknecht was facing arson charges for setting a fire on New Year's Day in 2025, which became one of the deadliest wildfires in LA history. To make their case, prosecutors turned to location data from his iPhone, security camera footage, and witness testimony. But they also turned to his ChatGPT logs. Prosecutors said that Rinderknecht had ChatGPT generate images of fire, asked the chatbot, \"Why am I so angry all the time?\", and ranted to it about how the wealthy were destroying the…",
-      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/22530766/1232927726.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "source": "The Verge",
-      "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/958751/prosecutors-chatgpt-palisades-wildfire-arson-mistrial",
-      "publishedAt": "2026-06-28T14:12:06.000Z"
-    },
-    {
       "id": "209itb",
       "title": "Trump Administration Allows Anthropic to Release Mythos to Select US Organizations",
       "summary": "After weeks of negotiations, the White House permitted Anthropic to grant access to its most advanced AI model to a select group of US companies and government agencies.",
@@ -424,15 +433,6 @@
       "source": "Ars Technica",
       "sourceUrl": "https://arstechnica.com/gadgets/2026/06/notion-killing-skiff-influenced-email-app-since-most-users-use-ai-agents-instead/",
       "publishedAt": "2026-06-25T19:04:57.000Z"
-    },
-    {
-      "id": "xkd22a",
-      "title": "World Cup Teams Are in a Race for AI Dominance",
-      "summary": "This year, FIFA is providing an AI agent that any team can use. Is it enough to level the playing field or will future winners be determined by which team can afford the best tools?",
-      "imageUrl": "https://media.wired.com/photos/6a3af3254463dc1b6f7e6031/master/pass/WorldCup-Teams-in-Race-for-AI-Dominance.jpg",
-      "source": "Wired",
-      "sourceUrl": "https://www.wired.com/story/fifa-world-cup-2026-artificial-intelligence-tools/",
-      "publishedAt": "2026-06-25T11:00:00.000Z"
     },
     {
       "id": "ozp905",
