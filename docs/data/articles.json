@@ -1,11 +1,38 @@
 {
-  "fetchedAt": "2026-07-01T00:15:21.613Z",
+  "fetchedAt": "2026-07-01T08:59:52.196Z",
   "count": 60,
   "articles": [
     {
+      "id": "ydjbmh",
+      "title": "The ‘Father of the Internet’ is finally retiring",
+      "summary": "Vinton Cerf, one of the creators of the protocols underlying the internet, will step down as Google's chief internet evangelist next week.",
+      "imageUrl": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=800&q=80",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/06/30/the-father-of-the-internet-is-finally-retiring/",
+      "publishedAt": "2026-07-01T03:15:37.000Z"
+    },
+    {
+      "id": "cg4ivw",
+      "title": "Trump drops restrictions on Anthropic’s Mythos and Fable models",
+      "summary": "The Trump administration's erratic approach to AI policymaking has left companies across the industry with little clarity about what will govern future model releases.",
+      "imageUrl": "https://images.unsplash.com/photo-1550751827-4bd374c3f58b?w=800&q=80",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/06/30/trump-drops-restrictions-on-anthropics-mythos-and-fable-models/",
+      "publishedAt": "2026-07-01T02:16:06.000Z"
+    },
+    {
+      "id": "ayg3ug",
+      "title": "Wayve launches $85M employee tender offer at $8.5B valuation",
+      "summary": "Wayve’s offering is part of a growing trend of AI startups using employee tenders as a strategic tool to attract and retain talent.",
+      "imageUrl": "https://images.unsplash.com/photo-1635070041078-e363dbe005cb?w=800&q=80",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/06/30/wayve-launches-85m-employee-tender-offer-at-8-5b-valuation/",
+      "publishedAt": "2026-07-01T02:04:40.000Z"
+    },
+    {
       "id": "z8cot5",
       "title": "Anthropic’s long-sidelined Fable 5 is greenlit to return",
-      "summary": "After weeks of negotiating with the Trump administration, Anthropic is finally going to be able to bring Claude Fable 5 back online. In a post on X, Anthropic said it plans to begin restoring access tomorrow. Anthropic: We've received notice that the Department of Commerce has lifted export controls on Claude Fable 5 and Mythos 5. We'll begin restoring access tomorrow, and will share an update soon. We're grateful to our users for their patience, and to everyone who worked with us on redeploying…",
+      "summary": "After weeks of negotiating with the Trump administration, Anthropic is finally going to be able to bring Claude Fable 5 back online. In a post on X, Anthropic said it plans to begin restoring access Wednesday to users globally on Claude platforms, and that the company would re-enable access on AWS, Google Cloud, and Microsoft Foundry soon, but with no set timeline. Anthropic wrote: We've received notice that the Department of Commerce has lifted export controls on Claude Fable 5 and Mythos 5.…",
       "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/05/STKB364_CLAUDE_2_C_96d15c.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
       "source": "The Verge",
       "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/958964/anthropic-claude-fable-5-is-back",
@@ -228,24 +255,6 @@
       "publishedAt": "2026-06-30T09:00:00.000Z"
     },
     {
-      "id": "wotuqd",
-      "title": "The AI jobs debate just got messier",
-      "summary": "A new report finds \"high-intensity AI adopters” saw headcount increase 10.2%. Among those companies, entry-level headcount rose by 12%, countering the rhetoric that AI kills junior jobs.",
-      "imageUrl": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=800&q=80",
-      "source": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/06/29/the-ai-jobs-debate-just-got-messier/",
-      "publishedAt": "2026-06-30T04:01:00.000Z"
-    },
-    {
-      "id": "ct6wpx",
-      "title": "Vibe-coding platform Base44 launches own model as AI startups seek defensibility",
-      "summary": "Wix-owned vibe-coding platform Base44 has started rolling out its own AI model — with hopes that it will eventually outperform frontier models.",
-      "imageUrl": "https://images.unsplash.com/photo-1635070041078-e363dbe005cb?w=800&q=80",
-      "source": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/06/29/vibe-coding-platform-base44-launches-own-model-as-ai-startups-seek-defensibility/",
-      "publishedAt": "2026-06-30T02:28:41.000Z"
-    },
-    {
       "id": "u5cegi",
       "title": "US offers $10 million for info on group behind Signal and WhatsApp hacking spree",
       "summary": "Operation by two Russia-state groups has been ongoing since at least March.",
@@ -262,15 +271,6 @@
       "source": "Wired",
       "sourceUrl": "https://www.wired.com/story/meta-contractors-pretending-to-be-teens-chatbot-testing/",
       "publishedAt": "2026-06-29T21:49:26.000Z"
-    },
-    {
-      "id": "66gr1p",
-      "title": "Gemini’s personalized AI image generation is now free for US users",
-      "summary": "Google is expanding Gemini’s personalized AI image generation to eligible free users in the U.S., allowing the chatbot to create images based on your interests and data from connected Google apps.",
-      "imageUrl": "https://images.unsplash.com/photo-1620712943543-bcc4688e7485?w=800&q=80",
-      "source": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/06/29/geminis-personalized-ai-image-generation-is-now-free-for-u-s-users/",
-      "publishedAt": "2026-06-29T20:12:59.000Z"
     },
     {
       "id": "13ed5o",
