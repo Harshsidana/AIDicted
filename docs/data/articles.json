@@ -1,7 +1,16 @@
 {
-  "fetchedAt": "2026-07-01T15:21:11.077Z",
+  "fetchedAt": "2026-07-01T17:30:18.215Z",
   "count": 60,
   "articles": [
+    {
+      "id": "r9k6ad",
+      "title": "Anthropic Added a New Security Measure to Get Back Into the Trump Administration’s Good Graces",
+      "summary": "The government has removed restrictions on Anthropic’s Fable 5 and Mythos 5 AI models—but there were strings attached.",
+      "imageUrl": "https://media.wired.com/photos/6a443961a0cfe1ef1ae6c3aa/master/pass/politics_anthropic_trump.jpg",
+      "source": "Wired",
+      "sourceUrl": "https://www.wired.com/story/anthropic-added-a-new-security-measure-to-get-back-into-the-trump-administrations-good-graces/",
+      "publishedAt": "2026-07-01T16:00:00.000Z"
+    },
     {
       "id": "6mv0fv",
       "title": "LLMs are stuck in a groupthink groove. This startup is trying to get them out.",
@@ -415,15 +424,6 @@
       "source": "Wired",
       "sourceUrl": "https://www.wired.com/story/how-qatar-became-fifas-technology-test-lab/",
       "publishedAt": "2026-06-26T10:00:00.000Z"
-    },
-    {
-      "id": "rczg6h",
-      "title": "Anthropic Thinks Its Own Success Is Key to Making AI Safe",
-      "summary": "Anthropic's critics argue it's rapidly accumulating power. The company says that's what responsible AI development looks like.",
-      "imageUrl": "https://media.wired.com/photos/6a3c48b56c59c72c499e0fad/master/pass/Model-Behavior-AI-Safe-Only-With-Anthropic-Business.jpg",
-      "source": "Wired",
-      "sourceUrl": "https://www.wired.com/story/anthropic-thinks-ai-can-only-be-safe-under-its-control/",
-      "publishedAt": "2026-06-26T00:49:13.000Z"
     },
     {
       "id": "z0xyl8",
