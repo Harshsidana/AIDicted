@@ -1,7 +1,25 @@
 {
-  "fetchedAt": "2026-07-02T19:45:02.951Z",
+  "fetchedAt": "2026-07-02T22:39:10.577Z",
   "count": 60,
   "articles": [
+    {
+      "id": "3awl18",
+      "title": "Jersey Mike’s IPO illustrates how bad the AI hype has become",
+      "summary": "Just for kicks, I took a look at Jersey Mike's IPO documents. Surely a sandwich shop would have no need to mention AI. But lo and behold.",
+      "imageUrl": "https://images.unsplash.com/photo-1655720828018-edd2daec9349?w=800&q=80",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/07/02/jersey-mikes-ipo-illustrates-how-bad-the-ai-hype-has-become/",
+      "publishedAt": "2026-07-02T20:11:59.000Z"
+    },
+    {
+      "id": "pputl7",
+      "title": "Newly discovered PamStealer isn't your typical macOS malware",
+      "summary": "The discovery underscores the increased effort being poured into Mac infostealers.",
+      "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2022/04/GettyImages-1299483011-1152x648.jpg",
+      "source": "Ars Technica",
+      "sourceUrl": "https://arstechnica.com/security/2026/07/new-pamstealer-macos-malware-uses-clever-tradecraft-to-remain-stealthy/",
+      "publishedAt": "2026-07-02T19:38:57.000Z"
+    },
     {
       "id": "q4cx0v",
       "title": "Meta quietly launches vibe-coded gaming app Pocket",
@@ -264,15 +282,6 @@
       "publishedAt": "2026-07-01T03:15:37.000Z"
     },
     {
-      "id": "cg4ivw",
-      "title": "Trump drops restrictions on Anthropic’s Mythos and Fable models",
-      "summary": "The Trump administration's erratic approach to AI policymaking has left companies across the industry with little clarity about what will govern future model releases.",
-      "imageUrl": "https://images.unsplash.com/photo-1550751827-4bd374c3f58b?w=800&q=80",
-      "source": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/06/30/trump-drops-restrictions-on-anthropics-mythos-and-fable-models/",
-      "publishedAt": "2026-07-01T02:16:06.000Z"
-    },
-    {
       "id": "z8cot5",
       "title": "Anthropic’s long-sidelined Fable 5 is greenlit to return",
       "summary": "After weeks of negotiating with the Trump administration, Anthropic is finally going to be able to bring Claude Fable 5 back online. In a post on X, Anthropic said it plans to begin restoring access Wednesday to users globally on Claude platforms, and that the company would re-enable access on AWS, Google Cloud, and Microsoft Foundry soon, but with no set timeline. Anthropic wrote: We've received notice that the Department of Commerce has lifted export controls on Claude Fable 5 and Mythos 5.…",
@@ -532,15 +541,6 @@
       "source": "Ars Technica",
       "sourceUrl": "https://arstechnica.com/ai/2026/06/dangerous-ai-models-are-coming-no-matter-what/",
       "publishedAt": "2026-06-17T17:50:46.000Z"
-    },
-    {
-      "id": "vtf64q",
-      "title": "Windows and Linux users: The deadline to update Secure Boot keys is near",
-      "summary": "What you need to know about the expiration of keys securing your machine's boot sequence.",
-      "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2023/12/computer-power-button-1000x648.jpg",
-      "source": "Ars Technica",
-      "sourceUrl": "https://arstechnica.com/security/2026/06/windows-and-linux-users-the-deadline-to-update-secure-boot-keys-is-near/",
-      "publishedAt": "2026-06-17T11:15:17.000Z"
     }
   ]
 }
