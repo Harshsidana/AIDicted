@@ -1,7 +1,16 @@
 {
-  "fetchedAt": "2026-07-02T04:42:53.844Z",
+  "fetchedAt": "2026-07-02T08:16:47.491Z",
   "count": 60,
   "articles": [
+    {
+      "id": "1y1ib4",
+      "title": "Indian tech tycoon bets $30M of his own money to build AI alternative to Microsoft Office",
+      "summary": "Neo is Bhavin Turakhia’s fifth venture and his latest involving enterprise software. This time he's taking on Microsoft Office, Google Apps with AI.",
+      "imageUrl": "https://images.unsplash.com/photo-1485827404703-89b55fcc595e?w=800&q=80",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/07/01/indian-tech-tycoon-bets-30m-to-build-an-ai-alternative-to-microsoft-office/",
+      "publishedAt": "2026-07-02T05:30:00.000Z"
+    },
     {
       "id": "4y0r1z",
       "title": "T-Mobile moving tens of thousands of virtual machines off VMware amid lawsuit",
@@ -244,15 +253,6 @@
       "source": "TechCrunch",
       "sourceUrl": "https://techcrunch.com/2026/06/30/nvidia-competitor-etched-hits-5b-valuation-1b-in-sales-for-ai-chip/",
       "publishedAt": "2026-06-30T18:13:02.000Z"
-    },
-    {
-      "id": "lasmuw",
-      "title": "Anthropic launches Claude Sonnet 5 as a cheaper way to run agents",
-      "summary": "Anthropic’s Claude Sonnet 5 brings stronger agentic capabilities, lower pricing, and improved safety, positioning the model as a cheaper alternative to Opus, GPT-5.5, and Gemini Pro.",
-      "imageUrl": "https://images.unsplash.com/photo-1531746790095-6c10a4031c5f?w=800&q=80",
-      "source": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/06/30/anthropic-launches-claude-sonnet-5-as-a-cheaper-way-to-run-agents/",
-      "publishedAt": "2026-06-30T18:00:00.000Z"
     },
     {
       "id": "vpiarg",
