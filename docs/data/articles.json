@@ -1,7 +1,25 @@
 {
-  "fetchedAt": "2026-07-01T19:22:01.188Z",
+  "fetchedAt": "2026-07-02T00:16:15.426Z",
   "count": 60,
   "articles": [
+    {
+      "id": "4y0r1z",
+      "title": "T-Mobile moving tens of thousands of virtual machines off VMware amid lawsuit",
+      "summary": "T-Mobile wants Broadcom to keep supporting its VMware perpetual licenses.",
+      "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2023/09/getty-t-mobile-sign-1152x648.jpg",
+      "source": "Ars Technica",
+      "sourceUrl": "https://arstechnica.com/information-technology/2026/07/t-mobile-moving-tens-of-thousands-of-virtual-machines-off-vmware-amid-lawsuit/",
+      "publishedAt": "2026-07-01T21:21:21.000Z"
+    },
+    {
+      "id": "ja0t68",
+      "title": "Goose, a New Gay Dating App, Appears to Be a Psyop",
+      "summary": "Touted as a less-hookup-focused Grindr, Goose is an invite-only space for gay men. The problem is the people promoting it don’t seem real.",
+      "imageUrl": "https://media.wired.com/photos/6a457cf259073610a9b6b04c/master/pass/Goose-New-Gay-Dating-App-Appears-to-Be-Psyop-Culture-86489432.jpg",
+      "source": "Wired",
+      "sourceUrl": "https://www.wired.com/story/goose-a-new-gay-dating-app-appears-to-be-a-psyop/",
+      "publishedAt": "2026-07-01T20:28:57.000Z"
+    },
     {
       "id": "olj1ke",
       "title": "SpaceX has an AI device prototype, and it sure sounds phone-ish",
@@ -417,15 +435,6 @@
       "publishedAt": "2026-06-26T17:05:40.000Z"
     },
     {
-      "id": "og5rbs",
-      "title": "Europe Is Fed Up and Wants Its Own AI",
-      "summary": "It's a stretch to think that the continent can build a top-tier model, but it has an advantage: Donald Trump.",
-      "imageUrl": "https://media.wired.com/photos/6a3d7dcc9d8ba41349d50023/master/pass/Backchannel-Macron-G7-2282316572.jpg",
-      "source": "Wired",
-      "sourceUrl": "https://www.wired.com/story/europe-is-fed-up-and-wants-its-own-ai/",
-      "publishedAt": "2026-06-26T15:00:00.000Z"
-    },
-    {
       "id": "z0xyl8",
       "title": "Notion killing Skiff-influenced email app since most users use AI agents instead",
       "summary": "Notion is \"going all in on using agents to run your inbox.\"",
@@ -532,15 +541,6 @@
       "source": "Ars Technica",
       "sourceUrl": "https://arstechnica.com/security/2026/06/windows-and-linux-users-the-deadline-to-update-secure-boot-keys-is-near/",
       "publishedAt": "2026-06-17T11:15:17.000Z"
-    },
-    {
-      "id": "gewjf5",
-      "title": "Year of free HPE software a “step in the correct direction” in VMware rivalry",
-      "summary": "Partner tells Ars that HPE should be giving out more free VM Essentials licenses.",
-      "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2026/06/GettyImages-1166474639-1152x648.jpg",
-      "source": "Ars Technica",
-      "sourceUrl": "https://arstechnica.com/information-technology/2026/06/hpe-tempts-vmware-users-partners-with-year-of-free-virtualization-software/",
-      "publishedAt": "2026-06-16T22:11:15.000Z"
     }
   ]
 }
