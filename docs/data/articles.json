@@ -1,7 +1,16 @@
 {
-  "fetchedAt": "2026-07-03T13:01:07.233Z",
+  "fetchedAt": "2026-07-03T15:34:33.963Z",
   "count": 60,
   "articles": [
+    {
+      "id": "8g55sq",
+      "title": "Anthropic wants to develop its own drugs",
+      "summary": "At the event \"The Briefing: AI for Science\" earlier this week, Anthropic announced Claude Science, a new \"AI workbench for scientists\" that pulls fragmented tools and datasets into one environment, and generates figures and visuals. Anthropic, already dominating the industry with its popular coding tools and powerful AI models, framed the launch around what it says is AI's potential to \"dramatically accelerate the pace of scientific discovery and the development of healthcare interventions,\" and…",
+      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/STKB364_CLAUDE_2_A_3800fc-1.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "source": "The Verge",
+      "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/961311/anthropic-claude-science-ai-drug-development",
+      "publishedAt": "2026-07-03T13:56:52.000Z"
+    },
     {
       "id": "529j8s",
       "title": "The Download: a smoking “endgame” and a new Elizabeth Bear story",
@@ -424,15 +433,6 @@
       "source": "The Verge",
       "sourceUrl": "https://www.theverge.com/tech/959211/tidal-ai-music-policy-demonetizingdetect-label",
       "publishedAt": "2026-06-29T19:47:35.000Z"
-    },
-    {
-      "id": "sjveue",
-      "title": "OpenAI is teasing new hardware… for Codex",
-      "summary": "OpenAI is releasing some sort of device related to its AI-powered coding tool, Codex, on July 15th. In a video posted to X on Monday, OpenAI shows a square-shaped device with several buttons, alongside the caption, \"Your favorite Codex shortcuts are getting an upgrade.\" This isn't the mysterious AI-powered device OpenAI is working on with former Apple designer Jony Ive, however. As shown in the teaser, OpenAI is launching the device in partnership with Work Louder, a company that sells an array…",
-      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/openai-codex-hardware.png?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "source": "The Verge",
-      "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/959174/openai-codex-hardware-work-louder",
-      "publishedAt": "2026-06-29T18:52:03.000Z"
     },
     {
       "id": "226kwv",
