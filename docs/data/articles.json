@@ -1,7 +1,43 @@
 {
-  "fetchedAt": "2026-07-06T17:48:22.014Z",
+  "fetchedAt": "2026-07-06T20:07:49.875Z",
   "count": 60,
   "articles": [
+    {
+      "id": "fedf5r",
+      "title": "Vercel CEO Guillermo Rauch on the fight to split off models from agents",
+      "summary": "\"The reality is, when you're optimizing for production, you start looking at a price/performance,\" Guillermo Rauch tells TechCrunch.",
+      "imageUrl": "https://images.unsplash.com/photo-1531746790095-6c10a4031c5f?w=800&q=80",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/07/06/vercel-ceo-guillermo-rauch-on-the-fight-to-split-off-models-from-agents/",
+      "publishedAt": "2026-07-06T19:49:10.000Z"
+    },
+    {
+      "id": "82zbg5",
+      "title": "You can now customize Siri’s pace and expressivity in the latest iOS 27 beta",
+      "summary": "The update is part of Apple's broader effort to make Siri feel more natural and personal, as it rebuilds the assistant around generative AI.",
+      "imageUrl": "https://images.unsplash.com/photo-1531746790095-6c10a4031c5f?w=800&q=80",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/07/06/you-can-now-customize-siris-pace-and-expressivity-in-the-latest-ios-27-beta/",
+      "publishedAt": "2026-07-06T19:01:59.000Z"
+    },
+    {
+      "id": "9795ek",
+      "title": "Every major tech layoff in 2026 that has name-checked AI",
+      "summary": "A running look — in reverse chronological order — at the bigger tech companies that have announced significant layoffs this year with AI as a stated factor.",
+      "imageUrl": "https://images.unsplash.com/photo-1635070041078-e363dbe005cb?w=800&q=80",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/07/06/the-running-list-major-tech-layoffs-in-2026-where-employers-cited-ai/",
+      "publishedAt": "2026-07-06T18:35:00.000Z"
+    },
+    {
+      "id": "rreiy0",
+      "title": "Your family’s $300 stake in OpenAI",
+      "summary": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here. OpenAI CEO Sam Altman’s oft-discussed promise that Americans will share in the wealth AI creates was in the news again last week. On Thursday, the Financial Times reported that Altman is in…",
+      "imageUrl": "https://images.unsplash.com/photo-1655720828018-edd2daec9349?w=800&q=80",
+      "source": "MIT Tech Review",
+      "sourceUrl": "https://www.technologyreview.com/2026/07/06/1140176/your-familys-300-stake-in-openai/",
+      "publishedAt": "2026-07-06T18:00:00.000Z"
+    },
     {
       "id": "7jzv5d",
       "title": "If you use Google, you’re training its AI. Here’s how to opt out.",
@@ -28,6 +64,15 @@
       "source": "TechCrunch",
       "sourceUrl": "https://techcrunch.com/2026/07/06/microsoft-lays-off-nearly-5000-employees-across-xbox-commercial-sales/",
       "publishedAt": "2026-07-06T15:32:43.000Z"
+    },
+    {
+      "id": "ib6mlp",
+      "title": "Reddit is using LLMs to solve a problem LLMs largely created",
+      "summary": "In the AI era, platforms have no choice but to fight fire with fire to cull spam.",
+      "imageUrl": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=800&q=80",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/07/06/reddit-is-using-llms-to-solve-a-problem-llms-largely-created/",
+      "publishedAt": "2026-07-06T15:22:08.000Z"
     },
     {
       "id": "8pvycq",
@@ -219,15 +264,6 @@
       "publishedAt": "2026-07-02T23:38:10.000Z"
     },
     {
-      "id": "3awl18",
-      "title": "Jersey Mike’s IPO illustrates how bad the AI hype has become",
-      "summary": "Just for kicks, I took a look at Jersey Mike's IPO documents. Surely a sandwich shop would have no need to mention AI. But lo and behold.",
-      "imageUrl": "https://images.unsplash.com/photo-1655720828018-edd2daec9349?w=800&q=80",
-      "source": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/07/02/jersey-mikes-ipo-illustrates-how-bad-the-ai-hype-has-become/",
-      "publishedAt": "2026-07-02T20:11:59.000Z"
-    },
-    {
       "id": "pputl7",
       "title": "Newly discovered PamStealer isn't your typical macOS malware",
       "summary": "The discovery underscores the increased effort being poured into Mac infostealers.",
@@ -235,24 +271,6 @@
       "source": "Ars Technica",
       "sourceUrl": "https://arstechnica.com/security/2026/07/new-pamstealer-macos-malware-uses-clever-tradecraft-to-remain-stealthy/",
       "publishedAt": "2026-07-02T19:38:57.000Z"
-    },
-    {
-      "id": "q4cx0v",
-      "title": "Meta quietly launches vibe-coded gaming app Pocket",
-      "summary": "Meta has quietly launched Pocket, an experimental AI app that lets users generate and share interactive mini games using text prompts.",
-      "imageUrl": "https://images.unsplash.com/photo-1620712943543-bcc4688e7485?w=800&q=80",
-      "source": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/07/02/meta-quietly-launches-vibe-coded-gaming-app-pocket/",
-      "publishedAt": "2026-07-02T18:44:02.000Z"
-    },
-    {
-      "id": "q2ax6b",
-      "title": "Anthropic is discussing a new custom chip with Samsung",
-      "summary": "The news comes about a week after OpenAI announced its own custom AI chip in a partnership with Broadcom.",
-      "imageUrl": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=800&q=80",
-      "source": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/07/02/anthropic-is-discussing-a-new-custom-chip-with-samsung/",
-      "publishedAt": "2026-07-02T18:31:09.000Z"
     },
     {
       "id": "u8m7wi",
@@ -271,15 +289,6 @@
       "source": "MIT Tech Review",
       "sourceUrl": "https://www.technologyreview.com/2026/07/02/1140045/achieving-operational-excellence-with-ai/",
       "publishedAt": "2026-07-02T15:37:08.000Z"
-    },
-    {
-      "id": "acoa8y",
-      "title": "OpenAI proposed donating 5% of its equity to a US sovereign wealth fund",
-      "summary": "OpenAI CEO Sam Altman has reportedly proposed giving 5% of the company’s equity to a U.S. sovereign wealth fund, reviving discussions about letting the public share in the financial gains from the AI boom.",
-      "imageUrl": "https://images.unsplash.com/photo-1635070041078-e363dbe005cb?w=800&q=80",
-      "source": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/07/02/openai-proposed-donating-5-of-its-equity-to-a-us-sovereign-wealth-fund/",
-      "publishedAt": "2026-07-02T15:20:51.000Z"
     },
     {
       "id": "rgofhb",
@@ -361,15 +370,6 @@
       "source": "Wired",
       "sourceUrl": "https://www.wired.com/story/anthropic-added-a-new-security-measure-to-get-back-into-the-trump-administrations-good-graces/",
       "publishedAt": "2026-07-01T16:00:00.000Z"
-    },
-    {
-      "id": "6mv0fv",
-      "title": "LLMs are stuck in a groupthink groove. This startup is trying to get them out.",
-      "summary": "Let’s start with a game. Open up your chatbot of choice—Claude, ChatGPT, Gemini—and type “Give me a random number between 1 and 10.” You’re going to get 7. Almost always. Now type “Another” and you’ll get 3 or 4. Type “Another” again and you’ll get 8 or 9. That won’t work every time—but if it…",
-      "imageUrl": "https://images.unsplash.com/photo-1676299081847-824916de030a?w=800&q=80",
-      "source": "MIT Tech Review",
-      "sourceUrl": "https://www.technologyreview.com/2026/07/01/1140003/llms-are-stuck-in-a-groupthink-rut-this-startup-is-trying-to-get-them-out/",
-      "publishedAt": "2026-07-01T14:35:16.000Z"
     },
     {
       "id": "gxituk",
