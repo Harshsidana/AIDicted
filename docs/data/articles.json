@@ -1,7 +1,16 @@
 {
-  "fetchedAt": "2026-07-06T06:05:20.400Z",
+  "fetchedAt": "2026-07-06T11:13:35.717Z",
   "count": 60,
   "articles": [
+    {
+      "id": "7pezkl",
+      "title": "South Korea’s hottest new bachelors are chip workers",
+      "summary": "Baek, a 35-year-old manager at the South Korean semiconductor titan SK Hynix, was enrolled in Sunoo, a matchmaking company based in Seoul, a year ago. In a move typical of anxious South Korean parents, his mother signed him up, hoping to find a good wife for her son. Lately, says Baek (who asked to be…",
+      "imageUrl": "https://images.unsplash.com/photo-1635070041078-e363dbe005cb?w=800&q=80",
+      "source": "MIT Tech Review",
+      "sourceUrl": "https://www.technologyreview.com/2026/07/06/1140000/south-korea-bachelors-samsung-skhynix-chip-workers/",
+      "publishedAt": "2026-07-06T09:00:00.000Z"
+    },
     {
       "id": "n9f7rr",
       "title": "Some of the nation’s rich are letting AI teach their kids",
@@ -379,15 +388,6 @@
       "source": "Wired",
       "sourceUrl": "https://www.wired.com/story/trump-administration-lifts-export-controls-on-anthropics-mythos-and-fable-ai-models/",
       "publishedAt": "2026-06-30T23:23:04.000Z"
-    },
-    {
-      "id": "6ozuft",
-      "title": "Claude Science is Anthropic’s newest flagship product",
-      "summary": "At an event for pharmaceutical executives, biotech founders, and researchers on Tuesday, Anthropic announced Claude Science, a major new product intended to support scientific research in the same way that Claude Code supports software engineering. Like Claude Code, Claude Science can autonomously carry out meaningful work when given concise, high-level instructions, and it has access…",
-      "imageUrl": "https://images.unsplash.com/photo-1655720828018-edd2daec9349?w=800&q=80",
-      "source": "MIT Tech Review",
-      "sourceUrl": "https://www.technologyreview.com/2026/06/30/1139987/claude-science-is-anthropics-newest-flagship-product/",
-      "publishedAt": "2026-06-30T21:50:04.000Z"
     },
     {
       "id": "71o0ah",
