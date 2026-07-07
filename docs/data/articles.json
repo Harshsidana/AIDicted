@@ -1,7 +1,34 @@
 {
-  "fetchedAt": "2026-07-07T15:46:13.001Z",
+  "fetchedAt": "2026-07-07T18:07:01.695Z",
   "count": 60,
   "articles": [
+    {
+      "id": "uah75q",
+      "title": "Anthropic is launching Claude Cowork on mobile and web",
+      "summary": "Starting Tuesday, Anthropic's Claude Cowork AI platform will be available on mobile and web for the first time. The expanded access is rolling out first to Max subscribers and coming to Claude users on other plans \"in the coming weeks.\" Claude Cowork was previously only accessible through the Claude desktop app for macOS and Windows, but now users on iOS and Android can also use it. However, Anthropic says the \"full experience\" for Cowork will still be on the desktop app, including features like…",
+      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/Cowork-Web-Mobile-Press-No-Logo-1920x1080-1.png?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "source": "The Verge",
+      "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/961978/anthropic-claude-cowork-mobile-web",
+      "publishedAt": "2026-07-07T17:46:59.000Z"
+    },
+    {
+      "id": "is11n4",
+      "title": "Claude Cowork expands to mobile and web",
+      "summary": "With this update, users can start a task from their desk, get status updates on their phone, and pick up the finished output later — even if their laptop is closed.",
+      "imageUrl": "https://images.unsplash.com/photo-1676299081847-824916de030a?w=800&q=80",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/07/07/the-coding-agent-wars-are-spilling-into-the-rest-of-the-office-claude-cowork/",
+      "publishedAt": "2026-07-07T16:27:18.000Z"
+    },
+    {
+      "id": "2njfv2",
+      "title": "Shut Those Laptops! Anthropic Puts Its Claude Cowork Agent on Your Phone",
+      "summary": "Claude Cowork now keeps working on tasks even after you close your laptop. It’s part of a larger push toward smartphone-controlled agents.",
+      "imageUrl": "https://media.wired.com/photos/6a4c0a029897ae33b7e202dc/master/pass/Cowork-Web-Mobile-Press-No-Logo-1920x1080.png",
+      "source": "Wired",
+      "sourceUrl": "https://www.wired.com/story/shut-those-laptops-anthropic-puts-its-claude-cowork-agent-on-your-phone/",
+      "publishedAt": "2026-07-07T16:00:00.000Z"
+    },
     {
       "id": "hmixam",
       "title": "Solos debuts an even lighter version of its camera-less smart glasses",
@@ -255,15 +282,6 @@
       "publishedAt": "2026-07-04T18:00:05.000Z"
     },
     {
-      "id": "1sics",
-      "title": "Alibaba reportedly bans employees from using Claude Code",
-      "summary": "Alibaba has reportedly classified Claude Code as high-risk software.",
-      "imageUrl": "https://images.unsplash.com/photo-1676299081847-824916de030a?w=800&q=80",
-      "source": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/07/04/alibaba-reportedly-bans-employees-from-using-claude-code/",
-      "publishedAt": "2026-07-04T16:32:08.000Z"
-    },
-    {
       "id": "covpny",
       "title": "The fanfiction community is at war with AI — and itself",
       "summary": "Fanfiction communities are trying to hunt down writers who haven’t written works with their own hands. | Image: Álvaro Bernis / The Verge Over the past week, a new fanworks movement has kicked off, with the aim to root out authors using generative AI. But the detection methods being implemented are questionable, and any fanfic writer could be caught in the crossfire. Broad distaste around the use of Claude, ChatGPT, and other AI tools has long been a thing in creative communities, including the…",
@@ -406,24 +424,6 @@
       "source": "Wired",
       "sourceUrl": "https://www.wired.com/story/anthropic-added-a-new-security-measure-to-get-back-into-the-trump-administrations-good-graces/",
       "publishedAt": "2026-07-01T16:00:00.000Z"
-    },
-    {
-      "id": "gxituk",
-      "title": "Google built a great smart speaker, but Gemini isn’t ready for it",
-      "summary": "The Google Home Speaker is Google’s first smart speaker in years. And it’s pretty! | Photo: Jennifer Patison Tuohy / The Verge Smart speakers have spent the past few years searching for a compelling second act. Beyond music, timers, and controlling your lights, they've struggled to justify taking up space on the kitchen counter. AI promised to change that. Amazon debuted its new hardware powered by a revamped Alexa last fall, and now it's finally Google's turn. The Google Home Speaker is the…",
-      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/268614_Google_Home_Speaker_JTuohy_0009.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "source": "The Verge",
-      "sourceUrl": "https://www.theverge.com/tech/959503/google-home-speaker-review-gemini-for-home",
-      "publishedAt": "2026-07-01T12:00:00.000Z"
-    },
-    {
-      "id": "adr317",
-      "title": "Claude Helped a Hacker Find a Way to Issue Tickets to Almost Every US Music Festival",
-      "summary": "A researcher found that using Anthropic’s Claude Opus 4.7, he could break into the website of Front Gate—used by every festival from Lollapalooza to Bonnaroo—and freely issue any ticket he chose.",
-      "imageUrl": "https://media.wired.com/photos/6a43054548c440f683e2b417/master/pass/AI-Found-Way-to-Hack-Ticketing-System-Security.jpg",
-      "source": "Wired",
-      "sourceUrl": "https://www.wired.com/story/claude-helped-a-hacker-find-a-way-to-issue-tickets-to-almost-every-us-music-festival/",
-      "publishedAt": "2026-07-01T10:00:00.000Z"
     },
     {
       "id": "71o0ah",
