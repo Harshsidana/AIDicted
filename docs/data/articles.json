@@ -1,7 +1,70 @@
 {
-  "fetchedAt": "2026-07-07T18:07:01.695Z",
+  "fetchedAt": "2026-07-07T23:09:22.977Z",
   "count": 60,
   "articles": [
+    {
+      "id": "eau1js",
+      "title": "Meta rolls out Muse, a new AI image generator",
+      "summary": "The new image-generating model has numerous use cases, including advertising, decorating and creator-based opportunities.",
+      "imageUrl": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=800&q=80",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/07/07/meta-rolls-out-muse-a-new-ai-image-generator/",
+      "publishedAt": "2026-07-07T22:18:10.000Z"
+    },
+    {
+      "id": "3hnfo8",
+      "title": "Meta Now Lets Anyone Use Your Instagram Photos in AI Images—Unless You Opt Out",
+      "summary": "As part of Meta’s Muse Image model rollout, Instagram users with public accounts need to opt out to block AI generations of their content.",
+      "imageUrl": "https://media.wired.com/photos/6a4d6e8fe06236b4d104fe30/master/pass/Meta-Lets-Anyone-Use-Your-Instagram-Photos-in-AI-Images-Gear-2268477073.jpg",
+      "source": "Wired",
+      "sourceUrl": "https://www.wired.com/story/meta-now-lets-anyone-use-your-instagram-photos-in-ai-images-unless-you-opt-out/",
+      "publishedAt": "2026-07-07T21:59:29.000Z"
+    },
+    {
+      "id": "2zyf0h",
+      "title": "OpenAI’s Chief Futurist Is Leaving the Company",
+      "summary": "Joshua Achiam spent nearly nine years at OpenAI researching AI safety and made a memorable appearance in the Musk v. Altman trial.",
+      "imageUrl": "https://media.wired.com/photos/6a431773890f52402e5ab8b7/master/pass/Joshua-Achiam-Leaving-OpenAI-Business-2274413917.jpg",
+      "source": "Wired",
+      "sourceUrl": "https://www.wired.com/story/openai-chief-futurist-joshua-achiam-is-leaving-the-company/",
+      "publishedAt": "2026-07-07T21:30:00.000Z"
+    },
+    {
+      "id": "1z7tv1",
+      "title": "Meta’s new Muse Image model can pull other Instagram users into AI photos",
+      "summary": "Meta is launching the first AI image generation model made by its Superintelligence Labs division. The Muse Image model now powers the image-making tools across the Meta AI app, Instagram, and WhatsApp, and it's coming soon to Facebook and Messenger, according to an announcement on Tuesday. It's part of the growing Muse family of AI models that replace Meta's Llama lineup. Alexandr Wang, who Meta hired to head up its Superintelligence Labs last year, says on Threads that Muse Image is \"agentic,\"…",
+      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/meta-muse-image-instagram-tag.png?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "source": "The Verge",
+      "sourceUrl": "https://www.theverge.com/tech/962485/meta-muse-image-ai-model-instagram",
+      "publishedAt": "2026-07-07T20:31:58.000Z"
+    },
+    {
+      "id": "uyb0rf",
+      "title": "Why the rise of open source AI isn’t hurting Anthropic … yet",
+      "summary": "Open source models’ success isn’t coming at the expense of frontier labs. Instead, they each seem to capture two phases of the same life cycle.",
+      "imageUrl": "https://images.unsplash.com/photo-1635070041078-e363dbe005cb?w=800&q=80",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/07/07/why-the-rise-of-open-source-ai-isnt-hurting-anthropic-yet/",
+      "publishedAt": "2026-07-07T20:04:32.000Z"
+    },
+    {
+      "id": "xfuesb",
+      "title": "Microsoft joins AI cost-cutting trend by relying more on its own models",
+      "summary": "Microsoft is the latest Silicon Valley giant to cut back on its AI spending.",
+      "imageUrl": "https://images.unsplash.com/photo-1620712943543-bcc4688e7485?w=800&q=80",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/07/07/microsoft-joins-ai-cost-cutting-trend-by-relying-more-on-its-own-models/",
+      "publishedAt": "2026-07-07T19:58:20.000Z"
+    },
+    {
+      "id": "wldpmg",
+      "title": "Discord admits AI moderation bug wrongfully banned users over harmless images",
+      "summary": "The company confirmed that the issue had been affecting accounts since May, with an additional 200 users banned over the weekend before its team identified and fixed the problem.",
+      "imageUrl": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=800&q=80",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/07/07/discord-admits-ai-moderation-bug-wrongfully-banned-users-over-harmless-images/",
+      "publishedAt": "2026-07-07T19:28:38.000Z"
+    },
     {
       "id": "uah75q",
       "title": "Anthropic is launching Claude Cowork on mobile and web",
@@ -210,15 +273,6 @@
       "publishedAt": "2026-07-06T13:30:00.000Z"
     },
     {
-      "id": "3pnu01",
-      "title": "Station F ramps up as a launchpad for Europe’s hottest AI startups",
-      "summary": "Station F, a Paris-based startup hub founded by French billionaire Xavier Niel, is gearing up for a new edition of its F/ai accelerator program in a bid to strengthen its positioning as a stepping stone for promising AI startups.",
-      "imageUrl": "https://images.unsplash.com/photo-1485827404703-89b55fcc595e?w=800&q=80",
-      "source": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/07/06/station-f-ramps-up-as-a-launchpad-for-europes-hottest-ai-startups/",
-      "publishedAt": "2026-07-06T13:00:00.000Z"
-    },
-    {
       "id": "hln1by",
       "title": "The Download: South Korea’s hottest bachelors, and advancing eye transplants",
       "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. South Korea’s hottest new bachelors are chip workers Baek, a 35-year-old manager at the South Korean semiconductor titan SK Hynix, was enrolled in a matchmaking company a year ago. In a…",
@@ -246,15 +300,6 @@
       "publishedAt": "2026-07-05T22:30:54.000Z"
     },
     {
-      "id": "b5dv4g",
-      "title": "Amazon will stop accepting new customers for Mechanical Turk",
-      "summary": "These may be the last days of Amazon’s Mechanical Turk.",
-      "imageUrl": "https://images.unsplash.com/photo-1550751827-4bd374c3f58b?w=800&q=80",
-      "source": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/07/05/amazon-will-stop-accepting-new-customers-for-mechanical-turk/",
-      "publishedAt": "2026-07-05T17:43:36.000Z"
-    },
-    {
       "id": "jy3d5t",
       "title": "Infuriating Google commercial imagines the founding fathers embracing AI",
       "summary": "I call BS: the founding fathers definitely would have been Microsoft Teams users. | Image: Google \"Group project, but make it 1776.\" That's how a new commercial for Google Workspace opens. And things only get cringier from there. The clip imagines what it would be like if the founding fathers turned to Google's collaboration tools and Gemini to help them draft the Declaration of Independence. Ben Franklin texts Thomas Jefferson to check on the status of a draft, who takes a photo and uses AI to…",
@@ -262,24 +307,6 @@
       "source": "The Verge",
       "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/961468/google-ai-commercial-founding-fathers-declaration-of-independence",
       "publishedAt": "2026-07-05T14:23:11.000Z"
-    },
-    {
-      "id": "arlbbf",
-      "title": "New Google commercial imagines a Declaration of Independence written with help from AI",
-      "summary": "Two hundred and fifty years after the signing of the Declaration of Independence, a new commercial asks: What if the Founding Fathers had access to Google Workspace?",
-      "imageUrl": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=800&q=80",
-      "source": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/07/04/new-google-commercial-imagines-a-declaration-of-independence-written-with-help-from-ai/",
-      "publishedAt": "2026-07-04T20:55:25.000Z"
-    },
-    {
-      "id": "1w90qm",
-      "title": "Midjourney wants Hollywood studios to reveal the details of their AI usage",
-      "summary": "As part of an ongoing legal dispute with three Hollywood studios, Midjourney is seeking to compel those studios to reveal how they use AI themselves.",
-      "imageUrl": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=800&q=80",
-      "source": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/07/04/midjourney-wants-hollywood-studios-to-reveal-the-details-of-their-ai-usage/",
-      "publishedAt": "2026-07-04T18:00:05.000Z"
     },
     {
       "id": "covpny",
@@ -372,15 +399,6 @@
       "publishedAt": "2026-07-02T15:37:08.000Z"
     },
     {
-      "id": "yzhgs8",
-      "title": "OpenAI floats giving Trump administration 5 percent cut of AI boom",
-      "summary": "OpenAI has floated giving the US government a 5 percent ownership stake as a way of easing tensions with the Trump administration and blunting mounting public backlash against AI, according to the Financial Times. CEO Sam Altman argued that giving the public a financial interest in the company would be the best way to share the upside of AI, the FT reported, citing two unnamed people familiar with the talks. He's said to have first pitched the idea to Trump early last year. Altman reportedly…",
-      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/STK201_SAM_ALTMAN_CVIRGINIA2A.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "source": "The Verge",
-      "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/960588/openai-government-5-percent-stake-trump",
-      "publishedAt": "2026-07-02T10:23:27.000Z"
-    },
-    {
       "id": "hz2owz",
       "title": "Meta Is Charging a Subscription for Smart Glasses Features. Welcome to the New Era of Consumer Tech",
       "summary": "You bought the hardware. Now you’ll need to subscribe for “expanded access” to the most advanced features.",
@@ -406,24 +424,6 @@
       "source": "Wired",
       "sourceUrl": "https://www.wired.com/story/goose-a-new-gay-dating-app-appears-to-be-a-psyop/",
       "publishedAt": "2026-07-01T20:28:57.000Z"
-    },
-    {
-      "id": "8ud9rd",
-      "title": "You Can Now Sound the Alarm on AI Behaving Badly",
-      "summary": "Are you worried your AI chatbot is trying to build a bomb or leak personal information about you? There’s a website for that.",
-      "imageUrl": "https://media.wired.com/photos/6a42d38427caad328b221827/master/pass/AI-Lab-Ring-Alarm-on-AI-Business.jpg",
-      "source": "Wired",
-      "sourceUrl": "https://www.wired.com/story/flare-website-ai-flaw-reporting-safety/",
-      "publishedAt": "2026-07-01T18:10:00.000Z"
-    },
-    {
-      "id": "r9k6ad",
-      "title": "Anthropic Added a New Security Measure to Get Back Into the Trump Administration’s Good Graces",
-      "summary": "The government has removed restrictions on Anthropic’s Fable 5 and Mythos 5 AI models—but there were strings attached.",
-      "imageUrl": "https://media.wired.com/photos/6a443961a0cfe1ef1ae6c3aa/master/pass/politics_anthropic_trump.jpg",
-      "source": "Wired",
-      "sourceUrl": "https://www.wired.com/story/anthropic-added-a-new-security-measure-to-get-back-into-the-trump-administrations-good-graces/",
-      "publishedAt": "2026-07-01T16:00:00.000Z"
     },
     {
       "id": "71o0ah",
