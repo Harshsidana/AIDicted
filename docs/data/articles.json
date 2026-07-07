@@ -1,7 +1,25 @@
 {
-  "fetchedAt": "2026-07-07T12:32:13.305Z",
+  "fetchedAt": "2026-07-07T15:46:13.001Z",
   "count": 60,
   "articles": [
+    {
+      "id": "hmixam",
+      "title": "Solos debuts an even lighter version of its camera-less smart glasses",
+      "summary": "The AirGo A6 are available in multiple designs including several transparent color options. | Image: Solos Solos announced a new version of its AirGo smart glasses, one that forgoes cameras for a sleeker design and an AI assistant that relies on voice interactions. Last year's AirGo A5 weighed 36 to 40 grams depending on the frame style, but the new AirGo A6 weigh around 19 grams. Part of the weight savings comes from thinner temple arms housing speakers, batteries, and other electronics. For…",
+      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/solos1.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "source": "The Verge",
+      "sourceUrl": "https://www.theverge.com/tech/961711/solos-airgo-a6-smart-glasses-ai-assistant-privacy",
+      "publishedAt": "2026-07-07T13:00:00.000Z"
+    },
+    {
+      "id": "6w29t9",
+      "title": "These New Smart Glasses From Solos Come With a Privacy Shield for the Cameras",
+      "summary": "You can clip a cover over the cameras, which could be a double-edged sword.",
+      "imageUrl": "https://media.wired.com/photos/6a4bd7c758fe114a7a5cba2a/master/pass/Solos-Smart-Glasses-Gear-10.jpg",
+      "source": "Wired",
+      "sourceUrl": "https://www.wired.com/story/these-new-smart-glasses-from-solos-come-with-a-privacy-shield-for-the-cameras/",
+      "publishedAt": "2026-07-07T13:00:00.000Z"
+    },
     {
       "id": "ivz75c",
       "title": "The Download: your stake in OpenAI, and the Treasury’s AI warning",
@@ -59,7 +77,7 @@
     {
       "id": "kvhmpl",
       "title": "The first American autonomous ground vehicles are fighting in Ukraine",
-      "summary": "Forterra has deployed more than 100",
+      "summary": "Forterra has deployed more than 100 of its self-driving ATVs in conflict zones in Ukraine.",
       "imageUrl": "https://images.unsplash.com/photo-1655720828018-edd2daec9349?w=800&q=80",
       "source": "TechCrunch",
       "sourceUrl": "https://techcrunch.com/2026/07/07/the-first-american-autonomous-ground-vehicles-are-fighting-in-ukraine/",
@@ -406,24 +424,6 @@
       "source": "Wired",
       "sourceUrl": "https://www.wired.com/story/claude-helped-a-hacker-find-a-way-to-issue-tickets-to-almost-every-us-music-festival/",
       "publishedAt": "2026-07-01T10:00:00.000Z"
-    },
-    {
-      "id": "z8cot5",
-      "title": "Anthropic’s long-sidelined Fable 5 is greenlit to return",
-      "summary": "After weeks of negotiating with the Trump administration, Anthropic is finally going to be able to bring Claude Fable 5 back online. In a post on X, Anthropic said it plans to begin restoring access Wednesday to users globally on Claude platforms, and that the company would re-enable access on AWS, Google Cloud, and Microsoft Foundry soon, but with no set timeline. Anthropic wrote: We've received notice that the Department of Commerce has lifted export controls on Claude Fable 5 and Mythos 5.…",
-      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/05/STKB364_CLAUDE_2_C_96d15c.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "source": "The Verge",
-      "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/958964/anthropic-claude-fable-5-is-back",
-      "publishedAt": "2026-07-01T00:03:55.000Z"
-    },
-    {
-      "id": "6vmwji",
-      "title": "The Trump Administration Is Lifting Its Export Controls on Anthropic’s Mythos and Fable AI Models",
-      "summary": "The White House is easing restrictions on Anthropic’s most advanced AI models weeks after ordering the company to suspend access for foreign nationals.",
-      "imageUrl": "https://media.wired.com/photos/6a444e05c62f6b38179079b8/master/pass/White-House-LiftsExport-Controls-Anthropic-Business-AP-26168447800568.jpg",
-      "source": "Wired",
-      "sourceUrl": "https://www.wired.com/story/trump-administration-lifts-export-controls-on-anthropics-mythos-and-fable-ai-models/",
-      "publishedAt": "2026-06-30T23:23:04.000Z"
     },
     {
       "id": "71o0ah",
