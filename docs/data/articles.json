@@ -1,7 +1,61 @@
 {
-  "fetchedAt": "2026-07-07T09:55:31.738Z",
+  "fetchedAt": "2026-07-07T12:32:13.305Z",
   "count": 60,
   "articles": [
+    {
+      "id": "ivz75c",
+      "title": "The Download: your stake in OpenAI, and the Treasury’s AI warning",
+      "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. Your family’s $300 stake in OpenAI Sam Altman’s proposal that Americans should share in the wealth created by AI is back in the spotlight, with reports that he is discussing giving…",
+      "imageUrl": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=800&q=80",
+      "source": "MIT Tech Review",
+      "sourceUrl": "https://www.technologyreview.com/2026/07/07/1140197/the-download-your-openai-stake-treasury-ai-warning/",
+      "publishedAt": "2026-07-07T12:10:00.000Z"
+    },
+    {
+      "id": "nb2xcw",
+      "title": "Savi’s app aims to protect consumers from realistic AI scams like kidnappers demanding ransom",
+      "summary": "The company just raised $7 million in seed funding, and is launching its app for iPhone and Android on Tuesday.",
+      "imageUrl": "https://images.unsplash.com/photo-1620712943543-bcc4688e7485?w=800&q=80",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/07/07/savis-app-aims-to-protect-consumers-from-realistic-ai-scams-like-kidnappers-demanding-ransom/",
+      "publishedAt": "2026-07-07T12:00:00.000Z"
+    },
+    {
+      "id": "8lhzoo",
+      "title": "The foundational elements of AI architecture that IT leaders need to scale",
+      "summary": "With the rapid progress of AI capabilities and the move to agentic systems, organizations are expanding their use cases as the technology continues to grow. That constant evolution also introduces risk, leaving IT leaders to wonder which investments will prove valuable even six months into the future. Returning to the foundational elements of AI architecture—the…",
+      "imageUrl": "https://images.unsplash.com/photo-1655720828018-edd2daec9349?w=800&q=80",
+      "source": "MIT Tech Review",
+      "sourceUrl": "https://www.technologyreview.com/2026/07/07/1139413/the-foundational-elements-of-ai-architecture-that-it-leaders-need-to-scale/",
+      "publishedAt": "2026-07-07T11:10:52.000Z"
+    },
+    {
+      "id": "w2avss",
+      "title": "Erling Haaland Is Everywhere at the World Cup. Most of It Is AI",
+      "summary": "Norwegian striker Erling Haaland isn’t just a footballer anymore. He’s become an internet character perpetuated by fans and AI.",
+      "imageUrl": "https://media.wired.com/photos/6a4c65ccbde112482e13fc49/master/pass/Erling-Haaland_Culture_World-Cup.jpg",
+      "source": "Wired",
+      "sourceUrl": "https://www.wired.com/story/erling-haaland-is-everywhere-at-the-world-cup-most-of-it-is-ai/",
+      "publishedAt": "2026-07-07T10:00:00.000Z"
+    },
+    {
+      "id": "h9qt98",
+      "title": "Why worms (and microbes) are catching on as a manure pollution solution",
+      "summary": "Anthony Agueda, a third-generation California dairy farmer, pulls a rake through a bed of dark, wet wood chips on his family’s land in Hickman, a tiny town in the state’s agricultural heartland. He reaches down with both hands and pulls up a clump of muck, turning it over to reveal a half-dozen squirming red earthworms.…",
+      "imageUrl": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=800&q=80",
+      "source": "MIT Tech Review",
+      "sourceUrl": "https://www.technologyreview.com/2026/07/07/1140142/why-worms-and-microbes-are-catching-on-as-a-manure-pollution-solution/",
+      "publishedAt": "2026-07-07T10:00:00.000Z"
+    },
+    {
+      "id": "vochyx",
+      "title": "British Space Startup Launches Longevity Lab Into Orbit",
+      "summary": "The lab will beam back data to train AI models to predict how proteins behind age-related diseases like Alzheimer’s and certain cancers behave.",
+      "imageUrl": "https://media.wired.com/photos/6a4bec4884127a1d3953c8af/master/pass/Precision_assembly%20(credit_%20Tumbleweed%20Microgravity).png",
+      "source": "Wired",
+      "sourceUrl": "https://www.wired.com/story/british-space-startup-launches-longevity-lab-into-orbit/",
+      "publishedAt": "2026-07-07T09:57:12.000Z"
+    },
     {
       "id": "kvhmpl",
       "title": "The first American autonomous ground vehicles are fighting in Ukraine",
@@ -192,15 +246,6 @@
       "publishedAt": "2026-07-04T16:32:08.000Z"
     },
     {
-      "id": "g5ito4",
-      "title": "What is Mistral AI? Everything to know about the OpenAI competitor",
-      "summary": "Mistral AI, which offers some open source AI models, has raised significant funding since its creation in 2023, with the ambition to “put frontier AI in the hands of everyone.”",
-      "imageUrl": "https://images.unsplash.com/photo-1635070041078-e363dbe005cb?w=800&q=80",
-      "source": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/07/04/what-is-mistral-ai-everything-to-know-about-the-openai-competitor/",
-      "publishedAt": "2026-07-04T15:51:32.000Z"
-    },
-    {
       "id": "covpny",
       "title": "The fanfiction community is at war with AI — and itself",
       "summary": "Fanfiction communities are trying to hunt down writers who haven’t written works with their own hands. | Image: Álvaro Bernis / The Verge Over the past week, a new fanworks movement has kicked off, with the aim to root out authors using generative AI. But the detection methods being implemented are questionable, and any fanfic writer could be caught in the crossfire. Broad distaste around the use of Claude, ChatGPT, and other AI tools has long been a thing in creative communities, including the…",
@@ -291,24 +336,6 @@
       "publishedAt": "2026-07-02T15:37:08.000Z"
     },
     {
-      "id": "rgofhb",
-      "title": "Teaching AI to run with the turbines",
-      "summary": "Artificial intelligence may have captured the public imagination through chatbots and image generators, but some of its most consequential use cases are unfolding far from consumer-facing tools. In industries where physical infrastructure, operational continuity, and safety are paramount, AI is becoming a core operating layer. With its sprawling industrial systems and constant stream of operational…",
-      "imageUrl": "https://images.unsplash.com/photo-1676299081847-824916de030a?w=800&q=80",
-      "source": "MIT Tech Review",
-      "sourceUrl": "https://www.technologyreview.com/2026/07/02/1138433/teaching-ai-to-run-with-the-turbines/",
-      "publishedAt": "2026-07-02T12:51:44.000Z"
-    },
-    {
-      "id": "jwjqix",
-      "title": "The Download: a startup has a solution for AI’s groupthink problem",
-      "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. LLMs are stuck in a groupthink groove. This startup is trying to get them out. Open up your chatbot of choice—Claude, ChatGPT, Gemini—and type “Give me a random number between 1…",
-      "imageUrl": "https://images.unsplash.com/photo-1635070041078-e363dbe005cb?w=800&q=80",
-      "source": "MIT Tech Review",
-      "sourceUrl": "https://www.technologyreview.com/2026/07/02/1140027/the-download-ai-groupthink-llms/",
-      "publishedAt": "2026-07-02T12:10:00.000Z"
-    },
-    {
       "id": "yzhgs8",
       "title": "OpenAI floats giving Trump administration 5 percent cut of AI boom",
       "summary": "OpenAI has floated giving the US government a 5 percent ownership stake as a way of easing tensions with the Trump administration and blunting mounting public backlash against AI, according to the Financial Times. CEO Sam Altman argued that giving the public a financial interest in the company would be the best way to share the upside of AI, the FT reported, citing two unnamed people familiar with the talks. He's said to have first pitched the idea to Trump early last year. Altman reportedly…",
@@ -325,15 +352,6 @@
       "source": "Wired",
       "sourceUrl": "https://www.wired.com/story/why-meta-is-charging-a-subscription-for-on-device-smart-glasses-features/",
       "publishedAt": "2026-07-02T09:30:00.000Z"
-    },
-    {
-      "id": "i04w9l",
-      "title": "Why California’s carbon manure math doesn’t add up",
-      "summary": "Something stinks in California’s climate policies. Years ago, the state set up a system that pays cattle farmers across the country to turn the methane emitted from cattle manure into natural gas, encouraging the dairy sector to produce a gas we burn instead of one that just pollutes the air. It’s become wildly popular because…",
-      "imageUrl": "https://images.unsplash.com/photo-1531746790095-6c10a4031c5f?w=800&q=80",
-      "source": "MIT Tech Review",
-      "sourceUrl": "https://www.technologyreview.com/2026/07/02/1139981/why-californias-carbon-manure-math-doesnt-add-up/",
-      "publishedAt": "2026-07-02T09:00:00.000Z"
     },
     {
       "id": "4y0r1z",
@@ -417,15 +435,6 @@
       "publishedAt": "2026-06-30T20:03:14.000Z"
     },
     {
-      "id": "lpbxfk",
-      "title": "Bernie Sanders Saw This Coming",
-      "summary": "For decades, the senator has argued that concentrated wealth threatened American democracy. Now he’s betting that frustration with Big Tech, billionaires, and unchecked AI is reaching a tipping point.",
-      "imageUrl": "https://media.wired.com/photos/6a3039f6f5bcaabf4a03a98c/master/pass/Big-Interview-UV-Solo-Bernie-Sanders--2233919777.jpg",
-      "source": "Wired",
-      "sourceUrl": "https://www.wired.com/story/the-big-interview-podcast-senator-bernie-sanders/",
-      "publishedAt": "2026-06-30T10:30:00.000Z"
-    },
-    {
       "id": "u5cegi",
       "title": "US offers $10 million for info on group behind Signal and WhatsApp hacking spree",
       "summary": "Operation by two Russia-state groups has been ongoing since at least March.",
@@ -433,15 +442,6 @@
       "source": "Ars Technica",
       "sourceUrl": "https://arstechnica.com/information-technology/2026/06/us-offers-10-million-for-info-on-group-behind-signal-and-whatsapp-hacking-spree/",
       "publishedAt": "2026-06-29T22:05:33.000Z"
-    },
-    {
-      "id": "btco7z",
-      "title": "Meta Contractors Posed as Teens to Prompt Rival Chatbots About Suicide, Sex, and Drugs",
-      "summary": "Hundreds of contractors working on a project for Meta pretended to be kids in order to see how other chatbots like Gemini and ChatGPT would respond to high-risk subjects, WIRED found.",
-      "imageUrl": "https://media.wired.com/photos/6a429931b8212c2a1f822da2/master/pass/Meta-Paid-Contractors-to-Pose-as-Children-Security-2268011998.jpg",
-      "source": "Wired",
-      "sourceUrl": "https://www.wired.com/story/meta-contractors-pretending-to-be-teens-chatbot-testing/",
-      "publishedAt": "2026-06-29T21:49:26.000Z"
     },
     {
       "id": "z0xyl8",
