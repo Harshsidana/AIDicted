@@ -1,7 +1,34 @@
 {
-  "fetchedAt": "2026-07-08T20:05:29.172Z",
+  "fetchedAt": "2026-07-08T21:44:05.029Z",
   "count": 60,
   "articles": [
+    {
+      "id": "ou9h2r",
+      "title": "Messi and Ronaldo Are Building Tech Portfolios. Mo Salah Is Playing a Different Game",
+      "summary": "Lionel Messi and Cristiano Ronaldo are betting on AI, health tech, and startups. Mohamed Salah is taking a more traditional route beyond football.",
+      "imageUrl": "https://media.wired.com/photos/6a4d0ba71ec7b7e789dcf997/master/pass/InvestmentFoot_Lead.jpg",
+      "source": "Wired",
+      "sourceUrl": "https://www.wired.com/story/messi-ronaldo-tech-portfolios-salah-playing-a-different-game/",
+      "publishedAt": "2026-07-08T21:08:26.000Z"
+    },
+    {
+      "id": "gegaxh",
+      "title": "Google’s deepfake detector system used to debunk McConnell hoax pic",
+      "summary": "Earlier this week, a picture seemed to show Kentucky Senator Mitch McConnell covered in tubes in a hospital bed in a state of extreme distress. It turned out to be an AI-generated fake.",
+      "imageUrl": "https://images.unsplash.com/photo-1485827404703-89b55fcc595e?w=800&q=80",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/07/08/googles-deepfake-detector-system-used-to-debunk-mcconnell-hoax-pic/",
+      "publishedAt": "2026-07-08T20:37:03.000Z"
+    },
+    {
+      "id": "yt0tse",
+      "title": "I Built a Self-Improving AI, and So Can You",
+      "summary": "Experiments in using AI to build AI show that the future doesn’t just belong to the frontier labs.",
+      "imageUrl": "https://media.wired.com/photos/6a4d3e5ad99ed47ae9e00cc8/master/pass/AI-Lab-I-Made-A-Self-Improving-AI-Business.jpg",
+      "source": "Wired",
+      "sourceUrl": "https://www.wired.com/story/frontier-labs-arent-the-only-ones-pursuing-self-improving-ai/",
+      "publishedAt": "2026-07-08T20:09:21.000Z"
+    },
     {
       "id": "akqw1d",
       "title": "SpaceXAI releases Grok 4.5, which Elon describes as an ‘Opus-class model’",
@@ -21,6 +48,15 @@
       "publishedAt": "2026-07-08T19:19:15.000Z"
     },
     {
+      "id": "k44m3f",
+      "title": "Google pays $250K for Linux vulnerability allowing guest VM escapes",
+      "summary": "Both vulnerabilities allow untrusted users to gain root privileges.",
+      "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2023/07/exploit-vulnerability-security.jpg",
+      "source": "Ars Technica",
+      "sourceUrl": "https://arstechnica.com/security/2026/07/high-severity-guest-vm-escape-is-1-of-2-linux-vulnerabilities-to-surface-this-week/",
+      "publishedAt": "2026-07-08T19:01:19.000Z"
+    },
+    {
       "id": "pnyszc",
       "title": "Google Photos adds a new AI ‘Video Remix’ tool",
       "summary": "The feature can do things like apply cinematic relighting to brighten up a dark clip, swap out a plain background for something fun, or add artistic styles to videos.",
@@ -28,6 +64,15 @@
       "source": "TechCrunch",
       "sourceUrl": "https://techcrunch.com/2026/07/08/google-photos-adds-a-new-ai-video-remix-tool/",
       "publishedAt": "2026-07-08T18:30:08.000Z"
+    },
+    {
+      "id": "dl7h4c",
+      "title": "Aussie gov't tells volunteers to throw out thousands of functioning test routers",
+      "summary": "But the devices could \"easily be reflashed.\"",
+      "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2026/07/GettyImages-2238063763-1152x648-1783530792.jpg",
+      "source": "Ars Technica",
+      "sourceUrl": "https://arstechnica.com/gadgets/2026/07/thousands-of-routers-bricked-after-government-program-concludes-in-australia/",
+      "publishedAt": "2026-07-08T18:10:16.000Z"
     },
     {
       "id": "2l0dhl",
@@ -95,7 +140,7 @@
     {
       "id": "1d7nb1",
       "title": "US rare earths flow to Asia as domestic demand is slow to emerge",
-      "summary": "Miners backed by Trump admin. sell to Japan, South Korea despite push to develop domestic supply chain.",
+      "summary": "Miners backed by Trump admin sell to Japan, South Korea despite push to develop domestic supply chain.",
       "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2026/07/GettyImages-2270755803-1152x648.jpg",
       "source": "Ars Technica",
       "sourceUrl": "https://arstechnica.com/science/2026/07/us-rare-earths-flow-to-asia-as-domestic-demand-is-slow-to-emerge/",
@@ -217,15 +262,6 @@
       "source": "TechCrunch",
       "sourceUrl": "https://techcrunch.com/2026/07/07/why-the-rise-of-open-source-ai-isnt-hurting-anthropic-yet/",
       "publishedAt": "2026-07-07T20:04:32.000Z"
-    },
-    {
-      "id": "xfuesb",
-      "title": "Microsoft joins AI cost-cutting trend by relying more on its own models",
-      "summary": "Microsoft is the latest Silicon Valley giant to cut back on its AI spending.",
-      "imageUrl": "https://images.unsplash.com/photo-1620712943543-bcc4688e7485?w=800&q=80",
-      "source": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/07/07/microsoft-joins-ai-cost-cutting-trend-by-relying-more-on-its-own-models/",
-      "publishedAt": "2026-07-07T19:58:20.000Z"
     },
     {
       "id": "uah75q",
@@ -390,15 +426,6 @@
       "publishedAt": "2026-07-03T17:34:37.000Z"
     },
     {
-      "id": "yabbxd",
-      "title": "Google DeepMind Unionization Talks Are Off to a Rocky Start",
-      "summary": "During negotiations on Wednesday, employees voiced frustrations with what they consider an unwillingness among executives to engage meaningfully with the prospect of unionization.",
-      "imageUrl": "https://media.wired.com/photos/6a47cb0ef78eee0a42c7fd67/master/pass/GettyImages-2273112054.jpg",
-      "source": "Wired",
-      "sourceUrl": "https://www.wired.com/story/google-deepmind-unionization-talks-are-off-to-a-rocky-start/",
-      "publishedAt": "2026-07-03T16:30:00.000Z"
-    },
-    {
       "id": "8g55sq",
       "title": "Anthropic wants to develop its own drugs",
       "summary": "At the event \"The Briefing: AI for Science\" earlier this week, Anthropic announced Claude Science, a new \"AI workbench for scientists\" that pulls fragmented tools and datasets into one environment, and generates figures and visuals. Anthropic, already dominating the industry with its popular coding tools and powerful AI models, framed the launch around what it says is AI's potential to \"dramatically accelerate the pace of scientific discovery and the development of healthcare interventions,\" and…",
@@ -424,15 +451,6 @@
       "source": "Ars Technica",
       "sourceUrl": "https://arstechnica.com/security/2026/07/new-pamstealer-macos-malware-uses-clever-tradecraft-to-remain-stealthy/",
       "publishedAt": "2026-07-02T19:38:57.000Z"
-    },
-    {
-      "id": "u8m7wi",
-      "title": "Can Cursor Remain a Platform for OpenAI and Anthropic’s Models Inside SpaceX?",
-      "summary": "Cursor hopes to continue offering third-party AI models after it's acquired by SpaceX, testing the relationships between frontier AI labs.",
-      "imageUrl": "https://media.wired.com/photos/6a45a0b0f1efb2d48b192c77/master/pass/Model-Behavior-Cursor-Will-Keep-Using-Anthropic-OpenAI-Models-After-SpaceX-Deal-Business.jpg",
-      "source": "Wired",
-      "sourceUrl": "https://www.wired.com/story/can-cursor-remain-an-open-platform-inside-of-spacex/",
-      "publishedAt": "2026-07-02T18:01:20.000Z"
     },
     {
       "id": "4y0r1z",
@@ -523,24 +541,6 @@
       "source": "Ars Technica",
       "sourceUrl": "https://arstechnica.com/apple/2026/06/apple-patches-high-severity-eavesdropping-vulnerability-in-beats-studio-buds/",
       "publishedAt": "2026-06-18T19:41:35.000Z"
-    },
-    {
-      "id": "ui15zb",
-      "title": "Before SpaceX IPO, investors in China secretly acquired stakes",
-      "summary": "One previously unreported SpaceX investor has ties to Chinese military contractors.",
-      "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2026/06/GettyImages-2281248250-1024x648.jpg",
-      "source": "Ars Technica",
-      "sourceUrl": "https://arstechnica.com/information-technology/2026/06/before-spacex-ipo-investors-in-china-secretly-acquired-stakes/",
-      "publishedAt": "2026-06-18T17:42:18.000Z"
-    },
-    {
-      "id": "5g3o82",
-      "title": "Massive breach spills credentials for thousands of sensitive networks",
-      "summary": "The affected include Oracle, Lenovo, FedEx, a NATO contractor, and Fortinet.",
-      "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2023/07/exploit-vulnerability-security.jpg",
-      "source": "Ars Technica",
-      "sourceUrl": "https://arstechnica.com/security/2026/06/massive-breach-spills-credentials-for-thousands-of-sensitive-networks/",
-      "publishedAt": "2026-06-17T19:54:31.000Z"
     }
   ]
 }
