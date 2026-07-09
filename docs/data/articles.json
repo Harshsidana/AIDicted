@@ -1,7 +1,61 @@
 {
-  "fetchedAt": "2026-07-09T22:03:36.872Z",
+  "fetchedAt": "2026-07-09T23:47:26.532Z",
   "count": 60,
   "articles": [
+    {
+      "id": "kmj12p",
+      "title": "Fidji Simo steps down from OpenAI’s no. 2 role",
+      "summary": "OpenAI's No. 2 executive, Fidji Simo, is stepping down from her full-time role after her medical leave proved longer than expected — a leadership vacuum that comes at a tricky time as the company eyes a possible IPO and races to catch Anthropic in the enterprise market.",
+      "imageUrl": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=800&q=80",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/07/09/fidji-simo-steps-down-from-openais-no-2-role/",
+      "publishedAt": "2026-07-09T23:38:00.000Z"
+    },
+    {
+      "id": "k3iv7",
+      "title": "Fidji Simo steps down from leading OpenAI’s AGI work due to illness",
+      "summary": "OpenAI's Fidji Simo is departing her full-time role as the company's AGI chief and is transitioning to being a \"part-time advisor,\" she said on X. The news follows Simo's original announcement in April that she would take a few weeks of medical leave due to a neuroimmune condition, shortly after she had taken on the AGI chief title. (She had formerly been the company's CEO of applications). Around the same time, COO Brad Lightcap also stepped down from his role to focus on \"special projects,\"…",
+      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/07/gettyimages-1239232101.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "source": "The Verge",
+      "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/963738/openai-fidji-simo-steps-down-ceo-advisor",
+      "publishedAt": "2026-07-09T23:24:04.000Z"
+    },
+    {
+      "id": "rqrzs",
+      "title": "OpenAI’s CEO of AGI Deployment, Fidji Simo, Is Stepping Down",
+      "summary": "The move comes after Simo took significant medical leave. She will stay on as a part-time adviser.",
+      "imageUrl": "https://media.wired.com/photos/6a502a0f2e185717fadec4bb/master/pass/WEB_FIDJI%20SIMO-WIRED-2025-0Z2A8962_V3.jpg",
+      "source": "Wired",
+      "sourceUrl": "https://www.wired.com/story/fidji-simo-ceo-agi-deployment-openai/",
+      "publishedAt": "2026-07-09T23:13:18.000Z"
+    },
+    {
+      "id": "7gg0hj",
+      "title": "OpenAI launches its new family of models with GPT-5.6",
+      "summary": "OpenAI's latest family of models promises improvements across a range of areas, including cybersecurity.",
+      "imageUrl": "https://images.unsplash.com/photo-1620712943543-bcc4688e7485?w=800&q=80",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/07/09/openai-launches-its-new-family-of-models-with-gpt-5-6/",
+      "publishedAt": "2026-07-09T22:24:24.000Z"
+    },
+    {
+      "id": "i1mh8j",
+      "title": "An AI agent startup just let its agent run its $100M fundraise",
+      "summary": "Lyzr, a startup that builds AI agents for enterprises, used its own AI agent to raise a $100 million round — proof, evidently, that the product actually works.",
+      "imageUrl": "https://images.unsplash.com/photo-1655720828018-edd2daec9349?w=800&q=80",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/07/09/an-ai-agent-startup-just-let-its-agent-run-its-100-million-fundraise/",
+      "publishedAt": "2026-07-09T22:08:58.000Z"
+    },
+    {
+      "id": "yd3yvs",
+      "title": "OpenAI is shutting down Atlas, but its AI browser ambitions are still growing",
+      "summary": "OpenAI is sunsetting its AI-powered browser after less than a year. But it's moving some agentic browsing features to its desktop app and a Chrome extension.",
+      "imageUrl": "https://images.unsplash.com/photo-1531746790095-6c10a4031c5f?w=800&q=80",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/07/09/openai-is-shutting-down-atlas-but-its-ai-browser-ambitions-are-still-growing/",
+      "publishedAt": "2026-07-09T22:03:54.000Z"
+    },
     {
       "id": "cde6ec",
       "title": "Elon Musk praises Mythos/Fable, promises not to ‘cut off’ Anthropic",
@@ -19,6 +73,15 @@
       "source": "TechCrunch",
       "sourceUrl": "https://techcrunch.com/2026/07/09/can-ai-answer-the-3-trillion-question/",
       "publishedAt": "2026-07-09T21:47:50.000Z"
+    },
+    {
+      "id": "jl8euk",
+      "title": "Patch for Windows Defender 0-day could allow attackers to fill hard disk",
+      "summary": "The feud between NightmareEclipse and Microsoft shows no signs of resolving soon.",
+      "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2026/07/GettyImages-1237693734-1152x648-1783631068.jpg",
+      "source": "Ars Technica",
+      "sourceUrl": "https://arstechnica.com/security/2026/07/patch-for-windows-defender-0-day-could-allow-attackers-to-fill-hard-disk/",
+      "publishedAt": "2026-07-09T20:52:55.000Z"
     },
     {
       "id": "c5jtlr",
@@ -174,15 +237,6 @@
       "publishedAt": "2026-07-09T14:53:09.000Z"
     },
     {
-      "id": "vuudz1",
-      "title": "Anthropic, OpenAI, and SpaceX are bigger than the last 25 years of tech exits",
-      "summary": "Three big AI IPOs are set to generate more value than all the U.S. VC-backed exits since 2000.",
-      "imageUrl": "https://images.unsplash.com/photo-1526374965328-7f61d4dc18c5?w=800&q=80",
-      "source": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/07/09/anthropic-openai-and-spacex-are-bigger-than-the-last-25-years-of-tech-exits/",
-      "publishedAt": "2026-07-09T14:51:00.000Z"
-    },
-    {
       "id": "lw2b9f",
       "title": "Meta says its new AI model is ready to compete on coding",
       "summary": "After reentering the AI race with its first in-house Muse Spark model in April, Meta is now opening up the doors to developers with a new model that can plug into AI coding software with the new Meta Model API. Meta says that Muse Spark 1.1 is a \"step-change\" from the first generation, with improvements based on feedback from developers. The company says it's capable of more advanced coding, including detection and fixing of complex bugs; better supports end-to-end agentic workflows across a…",
@@ -210,24 +264,6 @@
       "publishedAt": "2026-07-09T13:11:53.000Z"
     },
     {
-      "id": "l04u7l",
-      "title": "Popular open source AI developer tool Ollama raises $65M, grows to nearly 9M users",
-      "summary": "Benchmark-backed Ollama has amassed 176,000 stars, and nearly 17,000 forks on GitHub by helping developers easily run AI on their PCs.",
-      "imageUrl": "https://images.unsplash.com/photo-1550751827-4bd374c3f58b?w=800&q=80",
-      "source": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/07/09/popular-open-source-ai-developer-tool-ollama-raises-65m-grows-to-nearly-9m-users/",
-      "publishedAt": "2026-07-09T13:00:00.000Z"
-    },
-    {
-      "id": "v9vgbp",
-      "title": "Character.AI enters the microdrama arena with its own productions, but there’s a twist",
-      "summary": "In an interesting twist that takes advantage of the company's core product, users can chat with these shows' characters, ask them questions, and even roleplay different storylines.",
-      "imageUrl": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=800&q=80",
-      "source": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/07/09/character-ai-enters-the-microdrama-arena-with-its-own-productions-but-with-a-twist/",
-      "publishedAt": "2026-07-09T13:00:00.000Z"
-    },
-    {
       "id": "98fnw2",
       "title": "FL Studio 2026 turns its AI chatbot into your assistant engineer",
       "summary": "Gopher can’t play the piano for you, but it can bury it in the mix. | Image: Image Line Last year, Image Line introduced Gopher for FL Studio, an AI chatbot that was basically a glorified instruction manual. You asked it how to do something, and it would serve up the relevant instructions. It's the kind of thing I actually use AI for on a semi-regular basis. But in the new release, Gopher can actually execute actions on your behalf. I was able to ask Gopher to lay down a four-on-the-floor kick,…",
@@ -244,15 +280,6 @@
       "source": "MIT Tech Review",
       "sourceUrl": "https://www.technologyreview.com/2026/07/09/1140283/the-download-nuclear-power-milestone-nvidia-china-ai-chips/",
       "publishedAt": "2026-07-09T12:10:00.000Z"
-    },
-    {
-      "id": "2c1kh",
-      "title": "Nandan Nilekani leaves GP role at Fundamentum as it launches $200M third fund",
-      "summary": "Nilekani remains Fundamentum's anchor investor as the firm expands its leadership team and targets AI and fintech startups in India.",
-      "imageUrl": "https://images.unsplash.com/photo-1676299081847-824916de030a?w=800&q=80",
-      "source": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/07/09/nandan-nilekani-leaves-gp-role-at-his-vc-firm-as-it-launches-third-200m-fund/",
-      "publishedAt": "2026-07-09T12:00:00.000Z"
     },
     {
       "id": "ylx0cw",
@@ -390,24 +417,6 @@
       "publishedAt": "2026-07-07T21:30:00.000Z"
     },
     {
-      "id": "1z7tv1",
-      "title": "Meta’s new Muse Image model can pull other Instagram users into AI photos",
-      "summary": "Meta is launching the first AI image generation model made by its Superintelligence Labs division. The Muse Image model now powers the image-making tools across the Meta AI app, Instagram, and WhatsApp, and it's coming soon to Facebook and Messenger, according to an announcement on Tuesday. It's part of the growing Muse family of AI models that replace Meta's Llama lineup. Alexandr Wang, who Meta hired to head up its Superintelligence Labs last year, says on Threads that Muse Image is \"agentic,\"…",
-      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/meta-muse-image-instagram-tag.png?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "source": "The Verge",
-      "sourceUrl": "https://www.theverge.com/tech/962485/meta-muse-image-ai-model-instagram",
-      "publishedAt": "2026-07-07T20:31:58.000Z"
-    },
-    {
-      "id": "2njfv2",
-      "title": "Shut Those Laptops! Anthropic Puts Its Claude Cowork Agent on Your Phone",
-      "summary": "Claude Cowork now keeps working on tasks even after you close your laptop. It’s part of a larger push toward smartphone-controlled agents.",
-      "imageUrl": "https://media.wired.com/photos/6a4c0a029897ae33b7e202dc/master/pass/Cowork-Web-Mobile-Press-No-Logo-1920x1080.png",
-      "source": "Wired",
-      "sourceUrl": "https://www.wired.com/story/shut-those-laptops-anthropic-puts-its-claude-cowork-agent-on-your-phone/",
-      "publishedAt": "2026-07-07T16:00:00.000Z"
-    },
-    {
       "id": "ivz75c",
       "title": "The Download: your stake in OpenAI, and the Treasury’s AI warning",
       "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. Your family’s $300 stake in OpenAI Sam Altman’s proposal that Americans should share in the wealth created by AI is back in the spotlight, with reports that he is discussing giving…",
@@ -532,15 +541,6 @@
       "source": "Ars Technica",
       "sourceUrl": "https://arstechnica.com/security/2026/06/following-user-outcry-amd-reinstates-memory-encryption-in-consumer-cpus/",
       "publishedAt": "2026-06-22T19:16:52.000Z"
-    },
-    {
-      "id": "fusrp0",
-      "title": "Microsoft discovers new lightweight backdoor that steals cryptocurrency",
-      "summary": "Crypto Clipper spreads over USB and communicates over Tor.",
-      "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2026/02/cryptocurrency-theft-heist-1152x648.jpg",
-      "source": "Ars Technica",
-      "sourceUrl": "https://arstechnica.com/security/2026/06/microsoft-spots-new-self-propagating-malware-for-stealing-cryptocurrency/",
-      "publishedAt": "2026-06-18T23:28:52.000Z"
     }
   ]
 }
