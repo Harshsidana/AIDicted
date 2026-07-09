@@ -1,12 +1,66 @@
 {
-  "fetchedAt": "2026-07-09T18:19:00.984Z",
+  "fetchedAt": "2026-07-09T20:22:57.843Z",
   "count": 60,
   "articles": [
     {
-      "id": "cnrbd2",
-      "title": "How to stop Meta’s AI image generator from using your Instagram photos",
-      "summary": "Meta's new AI image generator is using your public Instagram photos unless you opt out. Here's how to do that.",
-      "imageUrl": "https://images.unsplash.com/photo-1635070041078-e363dbe005cb?w=800&q=80",
+      "id": "7l3ail",
+      "title": "Meta enters the crowded AI coding battle with Muse Spark 1.1",
+      "summary": "Meta's pitch to users is Spark's ability to handle large agentic workloads, fix bugs, and help with large code migrations — the kind of automation that enterprises are increasingly turning to AI companies to provide.",
+      "imageUrl": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=800&q=80",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/07/09/meta-enters-the-crowded-ai-coding-battle-with-muse-spark-1-1/",
+      "publishedAt": "2026-07-09T19:40:45.000Z"
+    },
+    {
+      "id": "ghro66",
+      "title": "New York Times says OpenAI hid evidence in ChatGPT copyright trial",
+      "summary": "News publishers say OpenAI hid tools and datasets that could identify copyrighted journalism in ChatGPT outputs, escalating their lawsuit with a new motion for sanctions.",
+      "imageUrl": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=800&q=80",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/07/09/new-york-times-says-openai-hid-evidence-in-chatgpt-copyright-trial/",
+      "publishedAt": "2026-07-09T19:05:58.000Z"
+    },
+    {
+      "id": "9lbex",
+      "title": "Google will now disclose which ads are made with AI",
+      "summary": "While Google prohibits misleading and deceptive ads, an ad can still leverage AI to create some type of synthetic or digitally altered content. Until now, that's something Google only required election ads to disclose.",
+      "imageUrl": "https://images.unsplash.com/photo-1531746790095-6c10a4031c5f?w=800&q=80",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/07/09/google-will-now-disclose-which-ads-are-made-with-ai/",
+      "publishedAt": "2026-07-09T18:40:51.000Z"
+    },
+    {
+      "id": "7did9c",
+      "title": "Paris-based AI voice startup Gradium raises $100M seed, backed by Nvidia",
+      "summary": "The company is using the cash to open an office in the Bay Area and compete for talent there, \"strengthening its position at the heart of the world's leading AI ecosystem.\"",
+      "imageUrl": "https://images.unsplash.com/photo-1655720828018-edd2daec9349?w=800&q=80",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/07/09/paris-based-ai-voice-startup-gradium-raises-100m-seed-backed-by-nvidia/",
+      "publishedAt": "2026-07-09T18:34:35.000Z"
+    },
+    {
+      "id": "a7428w",
+      "title": "Anthropic Wants You to Pay Up for Claude Fable 5",
+      "summary": "Claude subscribers must soon pay usage-based fees to access Anthropic’s best consumer AI model—a sign that the golden era of AI subscriptions is ending.",
+      "imageUrl": "https://media.wired.com/photos/6a4ece7dd12b964679cc8452/master/pass/business_claude_price_increase.jpg",
+      "source": "Wired",
+      "sourceUrl": "https://www.wired.com/story/model-behavior-anthropic-will-charge-consumers-extra-to-use-claude-fable-5/",
+      "publishedAt": "2026-07-09T18:30:00.000Z"
+    },
+    {
+      "id": "7axnh7",
+      "title": "How did the government decide OpenAI’s frontier model was safe to release?",
+      "summary": "\"Exactly what that dialog looked like between the government and Anthropic and OpenAI is unclear.\"",
+      "imageUrl": "https://images.unsplash.com/photo-1526374965328-7f61d4dc18c5?w=800&q=80",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/07/09/how-did-the-government-decide-openais-frontier-model-was-safe-to-release/",
+      "publishedAt": "2026-07-09T18:22:39.000Z"
+    },
+    {
+      "id": "u8b550",
+      "title": "Instagram users: Here’s how to stop Meta’s AI from using your photos",
+      "summary": "Muse Image allows users to generate AI images using photos from public Instagram accounts. As long as a person's profile is public, another user can tag that account and use their images as part of an AI-generated creation.",
+      "imageUrl": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=800&q=80",
       "source": "TechCrunch",
       "sourceUrl": "https://techcrunch.com/2026/07/09/how-to-stop-metas-ai-image-generator-from-using-your-instagram-photos/",
       "publishedAt": "2026-07-09T17:56:47.000Z"
@@ -201,24 +255,6 @@
       "publishedAt": "2026-07-08T20:09:21.000Z"
     },
     {
-      "id": "akqw1d",
-      "title": "SpaceXAI releases Grok 4.5, which Elon describes as an ‘Opus-class model’",
-      "summary": "Elon Musk's tech company released the newest version of Grok on Wednesday, promising a cheaper, more efficient alternative to other powerful AI models.",
-      "imageUrl": "https://images.unsplash.com/photo-1635070041078-e363dbe005cb?w=800&q=80",
-      "source": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/07/08/spacexai-releases-grok-4-5-which-elon-describes-as-an-opus-class-model/",
-      "publishedAt": "2026-07-08T19:30:16.000Z"
-    },
-    {
-      "id": "3ts45d",
-      "title": "This startup thinks robotics is about to have its ChatGPT moment",
-      "summary": "General Intuition is betting millions of hours of video game data can train the foundation models for physical AI, making it easier to build smarter robots with minimal real-world data.",
-      "imageUrl": "https://images.unsplash.com/photo-1635070041078-e363dbe005cb?w=800&q=80",
-      "source": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/07/08/this-startup-thinks-robotics-is-about-to-have-its-chatgpt-moment/",
-      "publishedAt": "2026-07-08T19:19:15.000Z"
-    },
-    {
       "id": "k44m3f",
       "title": "Google pays $250K for Linux vulnerability allowing guest VM escapes",
       "summary": "Both vulnerabilities allow untrusted users to gain root privileges.",
@@ -228,15 +264,6 @@
       "publishedAt": "2026-07-08T19:01:19.000Z"
     },
     {
-      "id": "pnyszc",
-      "title": "Google Photos adds a new AI ‘Video Remix’ tool",
-      "summary": "The feature can do things like apply cinematic relighting to brighten up a dark clip, swap out a plain background for something fun, or add artistic styles to videos.",
-      "imageUrl": "https://images.unsplash.com/photo-1526374965328-7f61d4dc18c5?w=800&q=80",
-      "source": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/07/08/google-photos-adds-a-new-ai-video-remix-tool/",
-      "publishedAt": "2026-07-08T18:30:08.000Z"
-    },
-    {
       "id": "dl7h4c",
       "title": "Aussie gov't tells volunteers to throw out thousands of functioning test routers",
       "summary": "But the devices could \"easily be reflashed.\"",
@@ -244,24 +271,6 @@
       "source": "Ars Technica",
       "sourceUrl": "https://arstechnica.com/gadgets/2026/07/thousands-of-routers-bricked-after-government-program-concludes-in-australia/",
       "publishedAt": "2026-07-08T18:10:16.000Z"
-    },
-    {
-      "id": "2l0dhl",
-      "title": "Why this CEO thinks video games make better training data than the internet",
-      "summary": "When it comes to achieving artificial general intelligence (AGI), large language models just don’t have what it takes. Models like ChatGPT and Claude are great at text, but they’re less skilled at understanding how things actually move through space and time — an essential skill for producing intelligence that generalizes. That gap, it turns out, might be filled by gaming data. That’s the bet behind General Intuition, a […]",
-      "imageUrl": "https://images.unsplash.com/photo-1655720828018-edd2daec9349?w=800&q=80",
-      "source": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/video/why-this-ceo-thinks-video-games-make-better-training-data-than-the-internet/",
-      "publishedAt": "2026-07-08T17:47:55.000Z"
-    },
-    {
-      "id": "10nndu",
-      "title": "Meta wants its AI glasses to seem less creepy. Its AI strategy says otherwise.",
-      "summary": "Meta is adding a new safeguard to stop people from secretly recording others with its AI glasses. But the update comes as the company continues to expand how much personal data its AI products collect and use.",
-      "imageUrl": "https://images.unsplash.com/photo-1485827404703-89b55fcc595e?w=800&q=80",
-      "source": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/07/08/meta-wants-its-ai-glasses-to-seem-less-creepy-its-ai-strategy-says-otherwise/",
-      "publishedAt": "2026-07-08T17:11:18.000Z"
     },
     {
       "id": "kfhzcf",
@@ -378,15 +387,6 @@
       "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/solos1.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
       "source": "The Verge",
       "sourceUrl": "https://www.theverge.com/tech/961711/solos-airgo-a6-smart-glasses-ai-assistant-privacy",
-      "publishedAt": "2026-07-07T13:00:00.000Z"
-    },
-    {
-      "id": "6w29t9",
-      "title": "These New Smart Glasses From Solos Come With a Privacy Shield for the Cameras",
-      "summary": "You can clip a cover over the cameras, which could be a double-edged sword.",
-      "imageUrl": "https://media.wired.com/photos/6a4bd7c758fe114a7a5cba2a/master/pass/Solos-Smart-Glasses-Gear-10.jpg",
-      "source": "Wired",
-      "sourceUrl": "https://www.wired.com/story/these-new-smart-glasses-from-solos-come-with-a-privacy-shield-for-the-cameras/",
       "publishedAt": "2026-07-07T13:00:00.000Z"
     },
     {
