@@ -1,7 +1,34 @@
 {
-  "fetchedAt": "2026-07-09T01:11:00.093Z",
+  "fetchedAt": "2026-07-09T12:45:38.162Z",
   "count": 60,
   "articles": [
+    {
+      "id": "ac00nr",
+      "title": "The Download: a nuclear landmark, and China eyes Nvidia chips",
+      "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. Four nuclear reactors hit a big milestone in the US —Casey Crownhart I was really looking forward to July 4, and not just because I love a poolside barbecue. This year…",
+      "imageUrl": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=800&q=80",
+      "source": "MIT Tech Review",
+      "sourceUrl": "https://www.technologyreview.com/2026/07/09/1140283/the-download-nuclear-power-milestone-nvidia-china-ai-chips/",
+      "publishedAt": "2026-07-09T12:10:00.000Z"
+    },
+    {
+      "id": "2c1kh",
+      "title": "Nandan Nilekani leaves GP role at Fundamentum as it launches $200M third fund",
+      "summary": "Nilekani remains Fundamentum's anchor investor as the firm expands its leadership team and targets AI and fintech startups in India.",
+      "imageUrl": "https://images.unsplash.com/photo-1676299081847-824916de030a?w=800&q=80",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/07/09/nandan-nilekani-leaves-gp-role-at-his-vc-firm-as-it-launches-third-200m-fund/",
+      "publishedAt": "2026-07-09T12:00:00.000Z"
+    },
+    {
+      "id": "mma6pc",
+      "title": "Four nuclear reactors hit a big milestone in the US",
+      "summary": "I was really looking forward to July 4, and not just because I love a poolside barbecue. This year the American holiday also marked a big symbolic deadline for US nuclear power. Last year the Trump administration set a goal to see three new microreactors achieve criticality, a technical milestone establishing that a reactor can…",
+      "imageUrl": "https://images.unsplash.com/photo-1531746790095-6c10a4031c5f?w=800&q=80",
+      "source": "MIT Tech Review",
+      "sourceUrl": "https://www.technologyreview.com/2026/07/09/1140235/nuclear-reactor-milestone-criticality/",
+      "publishedAt": "2026-07-09T08:00:00.000Z"
+    },
     {
       "id": "m0l225",
       "title": "Lovable reportedly in talks to double its valuation to $13.2B",
@@ -228,15 +255,6 @@
       "publishedAt": "2026-07-08T07:00:51.000Z"
     },
     {
-      "id": "9sm2x5",
-      "title": "Meta just launched a new AI generator, Muse Image, and users are already pushing back over use of their photos",
-      "summary": "The new image-generating model has numerous use cases, including advertising and decorating, and creator-based opportunities.",
-      "imageUrl": "https://images.unsplash.com/photo-1485827404703-89b55fcc595e?w=800&q=80",
-      "source": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/07/07/meta-rolls-out-muse-a-new-ai-image-generator/",
-      "publishedAt": "2026-07-07T22:18:10.000Z"
-    },
-    {
       "id": "3hnfo8",
       "title": "Meta Now Lets Anyone Use Your Instagram Photos in AI Images—Unless You Opt Out",
       "summary": "As part of Meta’s Muse Image model rollout, Instagram users with public accounts need to opt out to block AI generations of their content.",
@@ -417,15 +435,6 @@
       "publishedAt": "2026-07-04T12:00:00.000Z"
     },
     {
-      "id": "wl7118",
-      "title": "A device that revives eyeballs from dead donors could make eye transplants possible",
-      "summary": "It’s not easy to transplant a whole human eye. The surgery is difficult. And the eyes themselves start to degenerate as soon as they’ve left the body. When surgeons attempted it a few years ago, the newly transplanted eye wasn’t able to see. But researchers believe they might have a solution: a device that maintains…",
-      "imageUrl": "https://images.unsplash.com/photo-1485827404703-89b55fcc595e?w=800&q=80",
-      "source": "MIT Tech Review",
-      "sourceUrl": "https://www.technologyreview.com/2026/07/03/1140148/a-device-that-revives-eyeballs-from-dead-donors-could-make-eye-transplants-possible/",
-      "publishedAt": "2026-07-03T17:34:37.000Z"
-    },
-    {
       "id": "8g55sq",
       "title": "Anthropic wants to develop its own drugs",
       "summary": "At the event \"The Briefing: AI for Science\" earlier this week, Anthropic announced Claude Science, a new \"AI workbench for scientists\" that pulls fragmented tools and datasets into one environment, and generates figures and visuals. Anthropic, already dominating the industry with its popular coding tools and powerful AI models, framed the launch around what it says is AI's potential to \"dramatically accelerate the pace of scientific discovery and the development of healthcare interventions,\" and…",
@@ -433,15 +442,6 @@
       "source": "The Verge",
       "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/961311/anthropic-claude-science-ai-drug-development",
       "publishedAt": "2026-07-03T13:56:52.000Z"
-    },
-    {
-      "id": "529j8s",
-      "title": "The Download: a smoking “endgame” and a new Elizabeth Bear story",
-      "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. The UK’s generational tobacco ban might not work. I’m supporting it anyway. —Jessica Hamzelou As the parent of two little girls, I often think about how their childhood is different from…",
-      "imageUrl": "https://images.unsplash.com/photo-1485827404703-89b55fcc595e?w=800&q=80",
-      "source": "MIT Tech Review",
-      "sourceUrl": "https://www.technologyreview.com/2026/07/03/1140134/the-download-uk-smoking-ban-elizabeth-bear-story/",
-      "publishedAt": "2026-07-03T12:10:00.000Z"
     },
     {
       "id": "pputl7",
