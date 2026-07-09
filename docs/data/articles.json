@@ -1,7 +1,79 @@
 {
-  "fetchedAt": "2026-07-09T12:45:38.162Z",
+  "fetchedAt": "2026-07-09T16:05:57.388Z",
   "count": 60,
   "articles": [
+    {
+      "id": "75gk8a",
+      "title": "Anthropic’s new Claude feature is quietly selling you on AI",
+      "summary": "Claude’s new Reflect dashboard doesn’t just visualize how you use AI. It also subtly reinforces how much of your daily work now depends on Anthropic’s chatbot.",
+      "imageUrl": "https://images.unsplash.com/photo-1531746790095-6c10a4031c5f?w=800&q=80",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/07/09/anthropics-new-claude-feature-is-quietly-selling-you-on-ai/",
+      "publishedAt": "2026-07-09T14:53:09.000Z"
+    },
+    {
+      "id": "vuudz1",
+      "title": "Anthropic, OpenAI, and SpaceX are bigger than the last 25 years of tech exits",
+      "summary": "Three big AI IPOs are set to generate more value than all the U.S. VC-backed exits since 2000.",
+      "imageUrl": "https://images.unsplash.com/photo-1526374965328-7f61d4dc18c5?w=800&q=80",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/07/09/anthropic-openai-and-spacex-are-bigger-than-the-last-25-years-of-tech-exits/",
+      "publishedAt": "2026-07-09T14:51:00.000Z"
+    },
+    {
+      "id": "lw2b9f",
+      "title": "Meta says its new AI model is ready to compete on coding",
+      "summary": "After reentering the AI race with its first in-house Muse Spark model in April, Meta is now opening up the doors to developers with a new model that can plug into AI coding software with the new Meta Model API. Meta says that Muse Spark 1.1 is a \"step-change\" from the first generation, with improvements based on feedback from developers. The company says it's capable of more advanced coding, including detection and fixing of complex bugs; better supports end-to-end agentic workflows across a…",
+      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/02/STK043_VRG_Illo_N_Barclay_2_Meta.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "source": "The Verge",
+      "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/963193/meta-muse-spark-model-api",
+      "publishedAt": "2026-07-09T14:00:00.000Z"
+    },
+    {
+      "id": "2u9gkq",
+      "title": "Say hello to Claude Wrapped",
+      "summary": "The popularity of Spotify Wrapped has kicked off a wide range of year-in-review features, on apps from YouTube to Uber - and now, the lookback trend has come to AI. Anthropic on Thursday announced a \"reflect\" feature for its Claude chatbot, allowing users to see an analysis of their usage data over the past month, three months, six months, or year. Anthropic bills the reflection dashboard as a way to \"see your patterns and shape them,\" the company wrote in a blog post. It begins with a summary…",
+      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/Claude-Reflect-graph-blog.png?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "source": "The Verge",
+      "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/963105/anthropic-claude-wrapped-reflection-ai-usage",
+      "publishedAt": "2026-07-09T13:30:00.000Z"
+    },
+    {
+      "id": "v5jm26",
+      "title": "Character.AI wants a piece of the microdrama pie",
+      "summary": "Character.AI's plan to become more than just an LLM-powered chatbot platform is going beyond interactive books, comics, and audio dramas. Today, the company announced the debut of c.ai Series - short-form, episodic videos designed to be watched and interacted with - on your phone. Unlike traditional microdrama services that feature cheaply produced, live-action shows starring human performers, c.ai Series are animated and almost entirely made with generative AI. The company's interest in getting…",
+      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/c.ai-Series-1.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "source": "The Verge",
+      "sourceUrl": "https://www.theverge.com/entertainment/962897/character-ai-series-microdrama-vertical-video",
+      "publishedAt": "2026-07-09T13:11:53.000Z"
+    },
+    {
+      "id": "l04u7l",
+      "title": "Popular open source AI developer tool Ollama raises $65M, grows to nearly 9M users",
+      "summary": "Benchmark-backed Ollama has amassed 176,000 stars, and nearly 17,000 forks on GitHub by helping developers easily run AI on their PCs.",
+      "imageUrl": "https://images.unsplash.com/photo-1550751827-4bd374c3f58b?w=800&q=80",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/07/09/popular-open-source-ai-developer-tool-ollama-raises-65m-grows-to-nearly-9m-users/",
+      "publishedAt": "2026-07-09T13:00:00.000Z"
+    },
+    {
+      "id": "v9vgbp",
+      "title": "Character.AI enters the microdrama arena with its own productions, but there’s a twist",
+      "summary": "In an interesting twist that takes advantage of the company's core product, users can chat with these shows' characters, ask them questions, and even roleplay different storylines.",
+      "imageUrl": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=800&q=80",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/07/09/character-ai-enters-the-microdrama-arena-with-its-own-productions-but-with-a-twist/",
+      "publishedAt": "2026-07-09T13:00:00.000Z"
+    },
+    {
+      "id": "98fnw2",
+      "title": "FL Studio 2026 turns its AI chatbot into your assistant engineer",
+      "summary": "Gopher can’t play the piano for you, but it can bury it in the mix. | Image: Image Line Last year, Image Line introduced Gopher for FL Studio, an AI chatbot that was basically a glorified instruction manual. You asked it how to do something, and it would serve up the relevant instructions. It's the kind of thing I actually use AI for on a semi-regular basis. But in the new release, Gopher can actually execute actions on your behalf. I was able to ask Gopher to lay down a four-on-the-floor kick,…",
+      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/Hands-on-assistance-built-in.png?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "source": "The Verge",
+      "sourceUrl": "https://www.theverge.com/tech/963052/fl-studio-2026-music-daw-ai-chatbot",
+      "publishedAt": "2026-07-09T13:00:00.000Z"
+    },
     {
       "id": "ac00nr",
       "title": "The Download: a nuclear landmark, and China eyes Nvidia chips",
@@ -183,15 +255,6 @@
       "publishedAt": "2026-07-08T13:26:10.000Z"
     },
     {
-      "id": "dnl95z",
-      "title": "Your gaming data could be the secret to AGI, according to this Bezos-backed startup",
-      "summary": "When it comes to achieving artificial general intelligence (AGI), large language models just don’t have what it takes. Models like ChatGPT and Claude are great at text, but they’re less skilled at understanding how things actually move through space and time — an essential skill for producing intelligence that generalizes. That gap, it turns out, might be filled by gaming data. That’s the bet behind General Intuition, a […]",
-      "imageUrl": "https://images.unsplash.com/photo-1655720828018-edd2daec9349?w=800&q=80",
-      "source": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/podcast/your-gaming-data-could-be-the-secret-to-agi-according-to-this-bezos-backed-startup/",
-      "publishedAt": "2026-07-08T13:00:00.000Z"
-    },
-    {
       "id": "3k2foz",
       "title": "The Download: worms fight pollution, and geoengineering faces reality",
       "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. Why worms (and microbes) are catching on as a manure pollution solution Anthony Agueda, a third-generation California dairy farmer, pulls a rake through a bed of dark, wet wood chips to…",
@@ -199,15 +262,6 @@
       "source": "MIT Tech Review",
       "sourceUrl": "https://www.technologyreview.com/2026/07/08/1140216/the-download-worms-manure-pollution-geoengineering-reality-check/",
       "publishedAt": "2026-07-08T12:10:00.000Z"
-    },
-    {
-      "id": "sbwl2h",
-      "title": "Former OpenAI exec Kevin Weil is now on the board of Stoke Space",
-      "summary": "Kevin Weil's new role at Stoke Space suggests reusable rockets are the next hot thing in Silicon Valley.",
-      "imageUrl": "https://images.unsplash.com/photo-1550751827-4bd374c3f58b?w=800&q=80",
-      "source": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/07/08/former-openai-exec-kevin-weil-is-now-on-the-board-of-stoke-space/",
-      "publishedAt": "2026-07-08T12:00:00.000Z"
     },
     {
       "id": "k1ljqa",
@@ -226,24 +280,6 @@
       "source": "Wired",
       "sourceUrl": "https://www.wired.com/story/verity-harding-ai-arms-race-dangers-anthology/",
       "publishedAt": "2026-07-08T09:30:00.000Z"
-    },
-    {
-      "id": "sxbrlb",
-      "title": "Hot French startup ZML releases free product to speed inference across lots of AI chips",
-      "summary": "ZML, a hot French AI startup endorsed by Turing Award winner Yann LeCun, has now released ZML/LLMD, software that could make running AI less costly.",
-      "imageUrl": "https://images.unsplash.com/photo-1526374965328-7f61d4dc18c5?w=800&q=80",
-      "source": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/07/08/hot-french-startup-zml-releases-free-product-to-speed-inference-across-lots-of-ai-chips/",
-      "publishedAt": "2026-07-08T08:00:00.000Z"
-    },
-    {
-      "id": "mdjb5b",
-      "title": "AI chip maker SambaNova raises $1B at $11B valuation, 5 months after last mega round",
-      "summary": "AI chip maker SambaNova has raised at an $11 billion valuation months after Intel was rumored to be trying to buy it for about $1.6 billion.",
-      "imageUrl": "https://images.unsplash.com/photo-1676299081847-824916de030a?w=800&q=80",
-      "source": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/07/08/sambanova-draws-1b-at-11b-valuation-in-series-f-first-close/",
-      "publishedAt": "2026-07-08T07:16:00.000Z"
     },
     {
       "id": "duee5q",
@@ -406,42 +442,6 @@
       "source": "MIT Tech Review",
       "sourceUrl": "https://www.technologyreview.com/2026/07/06/1140000/south-korea-bachelors-samsung-skhynix-chip-workers/",
       "publishedAt": "2026-07-06T09:00:00.000Z"
-    },
-    {
-      "id": "n9f7rr",
-      "title": "Some of the nation’s rich are letting AI teach their kids",
-      "summary": "Most Americans don't trust AI. It's proven that it doesn't know what safe toppings for pizza are. People don't even want to listen to AI music. But none of that matters for some of America's wealthy, who are turning to AI to teach their kids instead of traditional schools. Companies like Forge Prep and Alpha School are charging families tens of thousands of dollars to turn their kids into beta testers for AI tutors and \"interactive project-based workshops.\" Unsurprisingly, Silicon Valley have…",
-      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25584700/STK483_EDUCATION_C.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "source": "The Verge",
-      "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/961505/wealthy-ai-schools-alpha-forge-prep",
-      "publishedAt": "2026-07-05T22:30:54.000Z"
-    },
-    {
-      "id": "jy3d5t",
-      "title": "Infuriating Google commercial imagines the founding fathers embracing AI",
-      "summary": "I call BS: the founding fathers definitely would have been Microsoft Teams users. | Image: Google \"Group project, but make it 1776.\" That's how a new commercial for Google Workspace opens. And things only get cringier from there. The clip imagines what it would be like if the founding fathers turned to Google's collaboration tools and Gemini to help them draft the Declaration of Independence. Ben Franklin texts Thomas Jefferson to check on the status of a draft, who takes a photo and uses AI to…",
-      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/Q3RjZY-rSsc-HD.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "source": "The Verge",
-      "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/961468/google-ai-commercial-founding-fathers-declaration-of-independence",
-      "publishedAt": "2026-07-05T14:23:11.000Z"
-    },
-    {
-      "id": "covpny",
-      "title": "The fanfiction community is at war with AI — and itself",
-      "summary": "Fanfiction communities are trying to hunt down writers who haven’t written works with their own hands. | Image: Álvaro Bernis / The Verge Over the past week, a new fanworks movement has kicked off, with the aim to root out authors using generative AI. But the detection methods being implemented are questionable, and any fanfic writer could be caught in the crossfire. Broad distaste around the use of Claude, ChatGPT, and other AI tools has long been a thing in creative communities, including the…",
-      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/08/AI_Hands_A_Bernis_02.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "source": "The Verge",
-      "sourceUrl": "https://www.theverge.com/tech/960854/ai-fanfiction-ao3-claude-detector",
-      "publishedAt": "2026-07-04T12:00:00.000Z"
-    },
-    {
-      "id": "8g55sq",
-      "title": "Anthropic wants to develop its own drugs",
-      "summary": "At the event \"The Briefing: AI for Science\" earlier this week, Anthropic announced Claude Science, a new \"AI workbench for scientists\" that pulls fragmented tools and datasets into one environment, and generates figures and visuals. Anthropic, already dominating the industry with its popular coding tools and powerful AI models, framed the launch around what it says is AI's potential to \"dramatically accelerate the pace of scientific discovery and the development of healthcare interventions,\" and…",
-      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/STKB364_CLAUDE_2_A_3800fc-1.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "source": "The Verge",
-      "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/961311/anthropic-claude-science-ai-drug-development",
-      "publishedAt": "2026-07-03T13:56:52.000Z"
     },
     {
       "id": "pputl7",
