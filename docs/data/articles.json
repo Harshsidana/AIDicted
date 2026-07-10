@@ -1,7 +1,25 @@
 {
-  "fetchedAt": "2026-07-10T19:45:30.344Z",
+  "fetchedAt": "2026-07-10T21:13:14.134Z",
   "count": 60,
   "articles": [
+    {
+      "id": "wwozql",
+      "title": "Apple sues OpenAI over alleged trade secret theft",
+      "summary": "Apple alleges the misconduct was directed by OpenAi's senior leadership, including a long-time former employee.",
+      "imageUrl": "https://images.unsplash.com/photo-1655720828018-edd2daec9349?w=800&q=80",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/07/10/apple-sues-openai-over-alleged-trade-secret-theft/",
+      "publishedAt": "2026-07-10T21:00:29.000Z"
+    },
+    {
+      "id": "9o0b4t",
+      "title": "Apple Is Suing OpenAI for Allegedly Stealing Hardware Secrets",
+      "summary": "The iPhone-maker claims OpenAI encouraged poached employees to bring over confidential presentations, secret prototypes, and key supplier details.",
+      "imageUrl": "https://media.wired.com/photos/6a51395dba309b253cb3d458/master/pass/GettyImages-2233062347.jpg",
+      "source": "Wired",
+      "sourceUrl": "https://www.wired.com/story/apple-sues-openai-allegedly-stealing-ip-hardware/",
+      "publishedAt": "2026-07-10T20:44:05.000Z"
+    },
     {
       "id": "pfiqed",
       "title": "Open source AI matters more than ever, according to Hugging Face’s Clem Delangue",
@@ -264,15 +282,6 @@
       "publishedAt": "2026-07-09T18:30:00.000Z"
     },
     {
-      "id": "7axnh7",
-      "title": "How did the government decide OpenAI’s frontier model was safe to release?",
-      "summary": "\"Exactly what that dialog looked like between the government and Anthropic and OpenAI is unclear.\"",
-      "imageUrl": "https://images.unsplash.com/photo-1526374965328-7f61d4dc18c5?w=800&q=80",
-      "source": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/07/09/how-did-the-government-decide-openais-frontier-model-was-safe-to-release/",
-      "publishedAt": "2026-07-09T18:22:39.000Z"
-    },
-    {
       "id": "6f080w",
       "title": "Microsoft’s patch Tuesdays are about to get bigger",
       "summary": "Windows 11 updates could soon include fixes for more security issues at once. Microsoft said in a blog post on Thursday that it's now using AI to \"identify potential issues earlier,\" which means \"customers will see a higher volume of security updates included in each security release.\" Hackers, even amateurs, have increasingly been using AI to quickly exploit security weaknesses over the past several months. Security researchers are also using AI to find issues faster, leading to more frequent…",
@@ -415,15 +424,6 @@
       "source": "Wired",
       "sourceUrl": "https://www.wired.com/story/pickup-artist-mystery-has-an-ai-girlfriend/",
       "publishedAt": "2026-07-08T11:00:00.000Z"
-    },
-    {
-      "id": "9l3yxz",
-      "title": "This Former DeepMind Exec Thinks the AI Arms Race Could End in Disaster",
-      "summary": "Verity Harding tells WIRED that the US government’s nationalistic attitude toward AI is evidence that a worst-case scenario is taking shape.",
-      "imageUrl": "https://media.wired.com/photos/6a4be55744dc79c43267387c/master/pass/DeepMind-Alum-QandA-Verity-Harding-Business.jpg",
-      "source": "Wired",
-      "sourceUrl": "https://www.wired.com/story/verity-harding-ai-arms-race-dangers-anthology/",
-      "publishedAt": "2026-07-08T09:30:00.000Z"
     },
     {
       "id": "duee5q",
