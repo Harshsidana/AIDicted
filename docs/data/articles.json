@@ -1,7 +1,16 @@
 {
-  "fetchedAt": "2026-07-10T11:15:06.084Z",
+  "fetchedAt": "2026-07-10T13:28:44.850Z",
   "count": 60,
   "articles": [
+    {
+      "id": "l7eciv",
+      "title": "The Download: Claude’s inner workings and OpenAI’s “super app”",
+      "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. Anthropic found a hidden space where Claude puzzles over concepts The AI firm Anthropic has got the clearest glimpse yet at what’s really going on inside large language models as they…",
+      "imageUrl": "https://images.unsplash.com/photo-1531746790095-6c10a4031c5f?w=800&q=80",
+      "source": "MIT Tech Review",
+      "sourceUrl": "https://www.technologyreview.com/2026/07/10/1140316/the-download-anthropic-claude-hidden-space-openai-super-app/",
+      "publishedAt": "2026-07-10T12:10:00.000Z"
+    },
     {
       "id": "9ig8tj",
       "title": "A New Experiential Gallery Just Might Change Your Mind About AI Art",
@@ -48,10 +57,10 @@
       "publishedAt": "2026-07-10T00:04:13.000Z"
     },
     {
-      "id": "kmj12p",
-      "title": "Fidji Simo steps down from OpenAI’s no. 2 role",
+      "id": "bh6scx",
+      "title": "Fidji Simo steps down from OpenAI’s No. 2 role",
       "summary": "OpenAI's No. 2 executive, Fidji Simo, is stepping down from her full-time role after her medical leave proved longer than expected — a leadership vacuum that comes at a tricky time as the company eyes a possible IPO and races to catch Anthropic in the enterprise market.",
-      "imageUrl": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=800&q=80",
+      "imageUrl": "https://images.unsplash.com/photo-1635070041078-e363dbe005cb?w=800&q=80",
       "source": "TechCrunch",
       "sourceUrl": "https://techcrunch.com/2026/07/09/fidji-simo-steps-down-from-openais-no-2-role/",
       "publishedAt": "2026-07-09T23:38:00.000Z"
@@ -451,15 +460,6 @@
       "source": "MIT Tech Review",
       "sourceUrl": "https://www.technologyreview.com/2026/07/07/1140142/why-worms-and-microbes-are-catching-on-as-a-manure-pollution-solution/",
       "publishedAt": "2026-07-07T10:00:00.000Z"
-    },
-    {
-      "id": "rreiy0",
-      "title": "Your family’s $300 stake in OpenAI",
-      "summary": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here. OpenAI CEO Sam Altman’s oft-discussed promise that Americans will share in the wealth AI creates was in the news again last week. On Thursday, the Financial Times reported that Altman is in…",
-      "imageUrl": "https://images.unsplash.com/photo-1655720828018-edd2daec9349?w=800&q=80",
-      "source": "MIT Tech Review",
-      "sourceUrl": "https://www.technologyreview.com/2026/07/06/1140176/your-familys-300-stake-in-openai/",
-      "publishedAt": "2026-07-06T18:00:00.000Z"
     },
     {
       "id": "pputl7",
