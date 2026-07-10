@@ -1,7 +1,16 @@
 {
-  "fetchedAt": "2026-07-10T17:56:21.848Z",
+  "fetchedAt": "2026-07-10T19:45:30.344Z",
   "count": 60,
   "articles": [
+    {
+      "id": "pfiqed",
+      "title": "Open source AI matters more than ever, according to Hugging Face’s Clem Delangue",
+      "summary": "Open source AI is booming, according to Hugging Face CEO Clem Delangue. The company has grown into something like a GitHub for AI in recent years, where AI builders can share and download open models and datasets, now used by roughly half the Fortune 500. Delangue has seen the same story play out again and again: companies start […]",
+      "imageUrl": "https://images.unsplash.com/photo-1635070041078-e363dbe005cb?w=800&q=80",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/podcast/open-source-ai-matters-more-than-ever-according-to-hugging-faces-clem-delangue/",
+      "publishedAt": "2026-07-10T19:00:00.000Z"
+    },
     {
       "id": "pic34p",
       "title": "SK Hynix raises $26.5B in the biggest foreign IPO in US history, is urged to build new US fabs",
@@ -10,6 +19,15 @@
       "source": "TechCrunch",
       "sourceUrl": "https://techcrunch.com/2026/07/10/sk-hynix-raises-26-5b-in-the-biggest-foreign-ipo-in-us-history-is-urged-to-build-new-us-fabs/",
       "publishedAt": "2026-07-10T17:17:12.000Z"
+    },
+    {
+      "id": "tp370f",
+      "title": "Hugging Face’s CEO on why companies are done renting their AI",
+      "summary": "Open source AI is booming, according to Hugging Face CEO Clem Delangue. The company has grown into something like a GitHub for AI in recent years, where AI builders can share and download open models and datasets, now used by roughly half the Fortune 500. Delangue has seen the same story play out again and again: companies start […]",
+      "imageUrl": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=800&q=80",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/07/10/hugging-faces-ceo-on-why-companies-are-done-renting-their-ai/",
+      "publishedAt": "2026-07-10T14:00:00.000Z"
     },
     {
       "id": "kkonqd",
@@ -253,24 +271,6 @@
       "source": "TechCrunch",
       "sourceUrl": "https://techcrunch.com/2026/07/09/how-did-the-government-decide-openais-frontier-model-was-safe-to-release/",
       "publishedAt": "2026-07-09T18:22:39.000Z"
-    },
-    {
-      "id": "u8b550",
-      "title": "Instagram users: Here’s how to stop Meta’s AI from using your photos",
-      "summary": "Muse Image allows users to generate AI images using photos from public Instagram accounts. As long as a person's profile is public, another user can tag that account and use their images as part of an AI-generated creation.",
-      "imageUrl": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=800&q=80",
-      "source": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/07/09/how-to-stop-metas-ai-image-generator-from-using-your-instagram-photos/",
-      "publishedAt": "2026-07-09T17:56:47.000Z"
-    },
-    {
-      "id": "ucq3ut",
-      "title": "Meta’s new AI chips will begin production in September",
-      "summary": "The company is taking a modular approach to designing these chips, anticipating that their needs will change as AI evolves rapidly by the time the chips are in production.",
-      "imageUrl": "https://images.unsplash.com/photo-1526374965328-7f61d4dc18c5?w=800&q=80",
-      "source": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/07/09/metas-new-ai-chips-will-begin-production-in-september/",
-      "publishedAt": "2026-07-09T17:17:37.000Z"
     },
     {
       "id": "6f080w",
