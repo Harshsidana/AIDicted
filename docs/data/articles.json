@@ -1,7 +1,34 @@
 {
-  "fetchedAt": "2026-07-09T23:47:26.532Z",
+  "fetchedAt": "2026-07-10T07:59:29.263Z",
   "count": 60,
   "articles": [
+    {
+      "id": "s4sirv",
+      "title": "Robot Dogs, Teslas, and Rescue Helicopters: The UN AI Summit Was a Lot",
+      "summary": "Amid live coding sessions and Silicon Valley optimism, the UN’s AI for Good summit wrestled with an increasingly urgent question: Can global governance catch up before the technology races beyond its control?",
+      "imageUrl": "https://media.wired.com/photos/6a4faec15defba4430906469/master/pass/GettyImages-2284616220.jpg",
+      "source": "Wired",
+      "sourceUrl": "https://www.wired.com/story/robot-dogs-teslas-and-rescue-helicopters-the-un-ai-summit-was-alot/",
+      "publishedAt": "2026-07-10T06:00:00.000Z"
+    },
+    {
+      "id": "kc3jp5",
+      "title": "OpenAI says GPT 5.6 is the ‘preferred model’ for Microsoft Copilot 365 amid breakup chatter",
+      "summary": "OpenAI's new family of models will continue to power Microsoft's suite of workplace and productivity apps.",
+      "imageUrl": "https://images.unsplash.com/photo-1531746790095-6c10a4031c5f?w=800&q=80",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/07/09/openai-says-gpt-5-6-is-the-preferred-model-for-microsoft-copilot-amid-breakup-chatter/",
+      "publishedAt": "2026-07-10T00:16:54.000Z"
+    },
+    {
+      "id": "el9csy",
+      "title": "Microsoft’s carbon emissions went up 25 percent last year",
+      "summary": "Microsoft may once again be struggling to keep up with its own climate goals, according to its 2026 sustainability report. As reported by GeekWire, the report states that Microsoft's carbon emissions increased 25 percent in 2025, totalling 34 million metric tons \"without select interventions.\" Microsoft says this was \"driven primarily by the expansion of our datacenter infrastructure,\" as well as the company's decision last February to stop purchasing \"non-additional, unbundled renewable energy…",
+      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/04/STKS528_DATA_CENTERS_A.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "source": "The Verge",
+      "sourceUrl": "https://www.theverge.com/tech/963728/microsoft-sustainability-report-2026",
+      "publishedAt": "2026-07-10T00:04:13.000Z"
+    },
     {
       "id": "kmj12p",
       "title": "Fidji Simo steps down from OpenAI’s no. 2 role",
@@ -228,15 +255,6 @@
       "publishedAt": "2026-07-09T16:01:22.000Z"
     },
     {
-      "id": "75gk8a",
-      "title": "Anthropic’s new Claude feature is quietly selling you on AI",
-      "summary": "Claude’s new Reflect dashboard doesn’t just visualize how you use AI. It also subtly reinforces how much of your daily work now depends on Anthropic’s chatbot.",
-      "imageUrl": "https://images.unsplash.com/photo-1531746790095-6c10a4031c5f?w=800&q=80",
-      "source": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/07/09/anthropics-new-claude-feature-is-quietly-selling-you-on-ai/",
-      "publishedAt": "2026-07-09T14:53:09.000Z"
-    },
-    {
       "id": "lw2b9f",
       "title": "Meta says its new AI model is ready to compete on coding",
       "summary": "After reentering the AI race with its first in-house Muse Spark model in April, Meta is now opening up the doors to developers with a new model that can plug into AI coding software with the new Meta Model API. Meta says that Muse Spark 1.1 is a \"step-change\" from the first generation, with improvements based on feedback from developers. The company says it's capable of more advanced coding, including detection and fixing of complex bugs; better supports end-to-end agentic workflows across a…",
@@ -336,15 +354,6 @@
       "publishedAt": "2026-07-08T18:10:16.000Z"
     },
     {
-      "id": "kfhzcf",
-      "title": "ChatGPT’s upgraded voice mode is better at shutting up",
-      "summary": "OpenAI is overhauling ChatGPT's voice mode with a new model that it says is more like \"talking to another person.\" The new GPT-Live-1 is designed to interrupt you less and will also wait for you to continue speaking if you pause mid-conversation. During a press briefing, OpenAI research lead Kundan Kumar called GPT-Live-1 the company's \"smartest voice model\" yet. It will automatically pass your queries to its best text models, like GPT-5.5, when it needs to reason or search the web, allowing it…",
-      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/chatgpt-voice-upgrade.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "source": "The Verge",
-      "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/962856/chatgpt-upgraded-voice-mode-gpt-live",
-      "publishedAt": "2026-07-08T17:00:00.000Z"
-    },
-    {
       "id": "7uuzmh",
       "title": "EmTech AI 2026: The Rise of the AI Platform",
       "summary": "Read the full article from MIT Tech Review.",
@@ -406,15 +415,6 @@
       "source": "Wired",
       "sourceUrl": "https://www.wired.com/story/meta-now-lets-anyone-use-your-instagram-photos-in-ai-images-unless-you-opt-out/",
       "publishedAt": "2026-07-07T21:59:29.000Z"
-    },
-    {
-      "id": "2zyf0h",
-      "title": "OpenAI’s Chief Futurist Is Leaving the Company",
-      "summary": "Joshua Achiam spent nearly nine years at OpenAI researching AI safety and made a memorable appearance in the Musk v. Altman trial.",
-      "imageUrl": "https://media.wired.com/photos/6a431773890f52402e5ab8b7/master/pass/Joshua-Achiam-Leaving-OpenAI-Business-2274413917.jpg",
-      "source": "Wired",
-      "sourceUrl": "https://www.wired.com/story/openai-chief-futurist-joshua-achiam-is-leaving-the-company/",
-      "publishedAt": "2026-07-07T21:30:00.000Z"
     },
     {
       "id": "ivz75c",
