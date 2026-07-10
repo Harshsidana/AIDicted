@@ -1,7 +1,25 @@
 {
-  "fetchedAt": "2026-07-10T07:59:29.263Z",
+  "fetchedAt": "2026-07-10T11:15:06.084Z",
   "count": 60,
   "articles": [
+    {
+      "id": "9ig8tj",
+      "title": "A New Experiential Gallery Just Might Change Your Mind About AI Art",
+      "summary": "Billed as the “world’s first museum of AI arts,” Dataland uses wearables and troves of material from the Amazon to merge nature, biometrics, and art.",
+      "imageUrl": "https://media.wired.com/photos/6a39b798580177a5599b11aa/master/pass/culture_dataland_Coral-Dreams-Stills-03.jpg",
+      "source": "Wired",
+      "sourceUrl": "https://www.wired.com/story/a-new-experiential-gallery-just-might-change-your-mind-about-ai-art/",
+      "publishedAt": "2026-07-10T10:30:00.000Z"
+    },
+    {
+      "id": "gfuekq",
+      "title": "Sperm donors need limits, says a European fertility group",
+      "summary": "Ties van der Meer doesn’t know how many siblings he has. The 47-year-old was conceived at a private fertility clinic in the Netherlands using sperm provided by an anonymous donor. After the Netherlands banned anonymous donation in 2004, the doctor who ran the clinic destroyed records that might have identified those donors, he says. He…",
+      "imageUrl": "https://images.unsplash.com/photo-1550751827-4bd374c3f58b?w=800&q=80",
+      "source": "MIT Tech Review",
+      "sourceUrl": "https://www.technologyreview.com/2026/07/10/1140289/sperm-donors-need-limits-says-a-european-fertility-group/",
+      "publishedAt": "2026-07-10T09:00:00.000Z"
+    },
     {
       "id": "s4sirv",
       "title": "Robot Dogs, Teslas, and Rescue Helicopters: The UN AI Summit Was a Lot",
@@ -275,7 +293,7 @@
     {
       "id": "v5jm26",
       "title": "Character.AI wants a piece of the microdrama pie",
-      "summary": "Character.AI's plan to become more than just an LLM-powered chatbot platform is going beyond interactive books, comics, and audio dramas. Today, the company announced the debut of c.ai Series - short-form, episodic videos designed to be watched and interacted with - on your phone. Unlike traditional microdrama services that feature cheaply produced, live-action shows starring human performers, c.ai Series are animated and almost entirely made with generative AI. The company's interest in getting…",
+      "summary": "Character.AI's plan to become more than just an LLM-powered chatbot platform is going beyond interactive books, comics, and audio dramas. Today, the company announced the debut of c.ai Series - short-form, episodic videos designed to be watched and interacted with on your phone. Unlike traditional microdrama services that feature cheaply produced, live-action shows starring human performers, c.ai Series are animated and almost entirely made with generative AI. The company's interest in getting…",
       "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/c.ai-Series-1.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
       "source": "The Verge",
       "sourceUrl": "https://www.theverge.com/entertainment/962897/character-ai-series-microdrama-vertical-video",
@@ -408,15 +426,6 @@
       "publishedAt": "2026-07-08T07:00:51.000Z"
     },
     {
-      "id": "3hnfo8",
-      "title": "Meta Now Lets Anyone Use Your Instagram Photos in AI Images—Unless You Opt Out",
-      "summary": "As part of Meta’s Muse Image model rollout, Instagram users with public accounts need to opt out to block AI generations of their content.",
-      "imageUrl": "https://media.wired.com/photos/6a4d6e8fe06236b4d104fe30/master/pass/Meta-Lets-Anyone-Use-Your-Instagram-Photos-in-AI-Images-Gear-2268477073.jpg",
-      "source": "Wired",
-      "sourceUrl": "https://www.wired.com/story/meta-now-lets-anyone-use-your-instagram-photos-in-ai-images-unless-you-opt-out/",
-      "publishedAt": "2026-07-07T21:59:29.000Z"
-    },
-    {
       "id": "ivz75c",
       "title": "The Download: your stake in OpenAI, and the Treasury’s AI warning",
       "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. Your family’s $300 stake in OpenAI Sam Altman’s proposal that Americans should share in the wealth created by AI is back in the spotlight, with reports that he is discussing giving…",
@@ -451,15 +460,6 @@
       "source": "MIT Tech Review",
       "sourceUrl": "https://www.technologyreview.com/2026/07/06/1140176/your-familys-300-stake-in-openai/",
       "publishedAt": "2026-07-06T18:00:00.000Z"
-    },
-    {
-      "id": "hln1by",
-      "title": "The Download: South Korea’s hottest bachelors, and advancing eye transplants",
-      "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. South Korea’s hottest new bachelors are chip workers Baek, a 35-year-old manager at the South Korean semiconductor titan SK Hynix, was enrolled in a matchmaking company a year ago. In a…",
-      "imageUrl": "https://images.unsplash.com/photo-1485827404703-89b55fcc595e?w=800&q=80",
-      "source": "MIT Tech Review",
-      "sourceUrl": "https://www.technologyreview.com/2026/07/06/1140172/the-download-south-korea-ai-chipworkers-eye-transplants/",
-      "publishedAt": "2026-07-06T13:00:00.000Z"
     },
     {
       "id": "pputl7",
