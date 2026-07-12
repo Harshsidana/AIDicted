@@ -1,7 +1,16 @@
 {
-  "fetchedAt": "2026-07-12T09:57:57.128Z",
+  "fetchedAt": "2026-07-12T11:19:34.593Z",
   "count": 60,
   "articles": [
+    {
+      "id": "8win43",
+      "title": "Scientists’ Side Hustle? Using AI and Quantum Computing to Generate New Peptides",
+      "summary": "Researchers cobbled together funding and time to show how quantum computing could aid in the development of drugs to help underserved populations and combat rare diseases.",
+      "imageUrl": "https://media.wired.com/photos/6a50c6b5d12b964679cc91a9/master/pass/Quantum%20Computing.jpg",
+      "source": "Wired",
+      "sourceUrl": "https://www.wired.com/story/scientists-using-ai-and-quantum-computing-to-generate-new-peptides/",
+      "publishedAt": "2026-07-12T10:00:00.000Z"
+    },
     {
       "id": "lw9h6o",
       "title": "OpenAI bets on families as ChatGPT goes deeper into households",
@@ -370,15 +379,6 @@
       "source": "Wired",
       "sourceUrl": "https://www.wired.com/story/messi-ronaldo-tech-portfolios-salah-playing-a-different-game/",
       "publishedAt": "2026-07-08T21:08:26.000Z"
-    },
-    {
-      "id": "yt0tse",
-      "title": "I Built a Self-Improving AI, and So Can You",
-      "summary": "Experiments in using AI to build AI show that the future doesn’t just belong to the frontier labs.",
-      "imageUrl": "https://media.wired.com/photos/6a4d3e5ad99ed47ae9e00cc8/master/pass/AI-Lab-I-Made-A-Self-Improving-AI-Business.jpg",
-      "source": "Wired",
-      "sourceUrl": "https://www.wired.com/story/frontier-labs-arent-the-only-ones-pursuing-self-improving-ai/",
-      "publishedAt": "2026-07-08T20:09:21.000Z"
     },
     {
       "id": "k44m3f",
