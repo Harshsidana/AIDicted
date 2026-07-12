@@ -1,7 +1,16 @@
 {
-  "fetchedAt": "2026-07-12T14:09:12.072Z",
+  "fetchedAt": "2026-07-12T17:08:32.105Z",
   "count": 60,
   "articles": [
+    {
+      "id": "ksdnnh",
+      "title": "Apple’s failed self-driving car program left a legacy of powerful AI chips",
+      "summary": "Apple's self-driving car program never really got off the ground, but it may have been what made the company's chips the powerful AI performers they are. Early in the development of the self-driving platform, Apple realized that it would need powerful on-device AI processing. While the car processor was never finished, as Mark Gurman details in his latest Power On newsletter, it did lead to the development of the Neural Engine, the backbone of Apple's on-device AI processing. The Neural Engine…",
+      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/03/apple_chips.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "source": "The Verge",
+      "sourceUrl": "https://www.theverge.com/tech/964519/apple-silicon-self-driving-car-ai-m7-ultra",
+      "publishedAt": "2026-07-12T16:27:06.000Z"
+    },
     {
       "id": "1ft4t5",
       "title": "The fight against AI data centers is just beginning",
@@ -325,15 +334,6 @@
       "source": "Wired",
       "sourceUrl": "https://www.wired.com/story/model-behavior-anthropic-will-charge-consumers-extra-to-use-claude-fable-5/",
       "publishedAt": "2026-07-09T18:30:00.000Z"
-    },
-    {
-      "id": "6f080w",
-      "title": "Microsoft’s patch Tuesdays are about to get bigger",
-      "summary": "Windows 11 updates could soon include fixes for more security issues at once. Microsoft said in a blog post on Thursday that it's now using AI to \"identify potential issues earlier,\" which means \"customers will see a higher volume of security updates included in each security release.\" Hackers, even amateurs, have increasingly been using AI to quickly exploit security weaknesses over the past several months. Security researchers are also using AI to find issues faster, leading to more frequent…",
-      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/24038601/acastro_STK109_microsoft_02.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "source": "The Verge",
-      "sourceUrl": "https://www.theverge.com/tech/963307/microsoft-patch-tuesday-ai-security-updates",
-      "publishedAt": "2026-07-09T17:00:00.000Z"
     },
     {
       "id": "76ii9h",
