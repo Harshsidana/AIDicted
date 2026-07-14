@@ -1,11 +1,47 @@
 {
-  "fetchedAt": "2026-07-14T14:59:32.544Z",
+  "fetchedAt": "2026-07-14T16:23:41.734Z",
   "count": 60,
   "articles": [
     {
+      "id": "3crf5f",
+      "title": "Meta’s Adam Mosseri says AI token budgets could soon be capped per engineer",
+      "summary": "Instagram head Adam Mosseri believes companies will eventually need to manage AI token spending the same way they manage payroll or other operating expenses, predicting that engineers could soon face limits on how much they spend using AI tools.",
+      "imageUrl": "https://images.unsplash.com/photo-1531746790095-6c10a4031c5f?w=800&q=80",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/07/14/metas-adam-mosseri-says-ai-token-budgets-could-soon-be-capped-per-engineer/",
+      "publishedAt": "2026-07-14T16:22:15.000Z"
+    },
+    {
+      "id": "iq9pkz",
+      "title": "YouTube and X Have Become ‘Gateways’ to Nudify Apps",
+      "summary": "A new study found that social media platforms are referring people to sites where they can create nonconsensual, sexually explicit deepfakes for as little as $1 an image.",
+      "imageUrl": "https://media.wired.com/photos/6a553fec9abf9605b011c81e/master/pass/Culture_TumblrNudityProblem_v4.gif",
+      "source": "Wired",
+      "sourceUrl": "https://www.wired.com/story/youtube-and-x-have-become-gateways-to-nudify-apps/",
+      "publishedAt": "2026-07-14T16:05:18.000Z"
+    },
+    {
+      "id": "hsmi4c",
+      "title": "Google Images gets a Pinterest-like redesign focused on discovery",
+      "summary": "Now, when users navigate to Google Images, they'll see a \"For You\" gallery of images tailored to their interests and browsing history.",
+      "imageUrl": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=800&q=80",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/07/14/google-images-gets-a-pinterest-like-redesign-focused-on-discovery/",
+      "publishedAt": "2026-07-14T16:00:00.000Z"
+    },
+    {
+      "id": "yzbmmp",
+      "title": "New York State halts construction of all new data centers",
+      "summary": "New York has become the first state to temporarily halt approval of large data centers, as Gov. Kathy Hochul argues the AI-driven building boom shouldn’t come at the expense of higher electricity costs, water supplies, or local control.",
+      "imageUrl": "https://images.unsplash.com/photo-1620712943543-bcc4688e7485?w=800&q=80",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/07/14/new-york-state-halts-construction-of-all-new-data-centers/",
+      "publishedAt": "2026-07-14T15:17:59.000Z"
+    },
+    {
       "id": "i725w",
       "title": "Reflection inks $1B compute deal with Nebius",
-      "summary": "Reflection AI has signed a $1 billion deal to access Nebius's compute. Reflection was founded in 2024 and is developing open source AI technology.",
+      "summary": "Reflection AI has signed a $1 billion deal to access Nebius' compute. Reflection was founded in 2024 and is developing open source AI technology.",
       "imageUrl": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=800&q=80",
       "source": "TechCrunch",
       "sourceUrl": "https://techcrunch.com/2026/07/14/reflection-inks-1b-compute-deal-with-nebius/",
@@ -228,15 +264,6 @@
       "publishedAt": "2026-07-13T16:31:23.000Z"
     },
     {
-      "id": "m9hq6b",
-      "title": "Anthropic starts localizing Claude pricing for India, its biggest market after the US",
-      "summary": "Claude users in India are starting to see Indian rupee-denominated subscription plans.",
-      "imageUrl": "https://images.unsplash.com/photo-1485827404703-89b55fcc595e?w=800&q=80",
-      "source": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/07/13/anthropic-starts-localizing-claude-pricing-for-india-its-biggest-market-after-the-us/",
-      "publishedAt": "2026-07-13T15:34:59.000Z"
-    },
-    {
       "id": "1g2y8k",
       "title": "Now, defenders are embracing the prompt injection, too",
       "summary": "\"Context bombing\" tricks hacking agents into shutting down before they can do harm.",
@@ -244,15 +271,6 @@
       "source": "Ars Technica",
       "sourceUrl": "https://arstechnica.com/security/2026/07/now-defenders-are-embracing-the-prompt-injection-too/",
       "publishedAt": "2026-07-13T15:06:34.000Z"
-    },
-    {
-      "id": "l0yt9e",
-      "title": "Waze adds new AI-powered features and customization updates",
-      "summary": "Some of the new features are powered by Google's Gemini AI assistant, which reflects the tech giant's broader push to integrate Gemini across its products while also better positioning Waze to compete with rival services such as Apple Maps.",
-      "imageUrl": "https://images.unsplash.com/photo-1485827404703-89b55fcc595e?w=800&q=80",
-      "source": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/07/13/waze-adds-new-ai-powered-features-and-customization-updates/",
-      "publishedAt": "2026-07-13T14:18:16.000Z"
     },
     {
       "id": "wb9l1k",
@@ -307,15 +325,6 @@
       "source": "Wired",
       "sourceUrl": "https://www.wired.com/story/scientists-using-ai-and-quantum-computing-to-generate-new-peptides/",
       "publishedAt": "2026-07-12T10:00:00.000Z"
-    },
-    {
-      "id": "lw9h6o",
-      "title": "OpenAI bets on families as ChatGPT goes deeper into households",
-      "summary": "ChatGPT is hiring a dedicated product manager to build experiences for families, caregivers, and older adults, according to a job posting.",
-      "imageUrl": "https://images.unsplash.com/photo-1550751827-4bd374c3f58b?w=800&q=80",
-      "source": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/07/11/openai-bets-on-families-as-chatgpt-goes-deeper-into-households/",
-      "publishedAt": "2026-07-11T14:13:00.000Z"
     },
     {
       "id": "kjrg4",
@@ -379,15 +388,6 @@
       "source": "Wired",
       "sourceUrl": "https://www.wired.com/story/robot-dogs-teslas-and-rescue-helicopters-the-un-ai-summit-was-alot/",
       "publishedAt": "2026-07-10T06:00:00.000Z"
-    },
-    {
-      "id": "rqrzs",
-      "title": "OpenAI’s CEO of AGI Deployment, Fidji Simo, Is Stepping Down",
-      "summary": "The move comes after Simo took significant medical leave. She will stay on as a part-time adviser.",
-      "imageUrl": "https://media.wired.com/photos/6a502a0f2e185717fadec4bb/master/pass/WEB_FIDJI%20SIMO-WIRED-2025-0Z2A8962_V3.jpg",
-      "source": "Wired",
-      "sourceUrl": "https://www.wired.com/story/fidji-simo-ceo-agi-deployment-openai/",
-      "publishedAt": "2026-07-09T23:13:18.000Z"
     },
     {
       "id": "jl8euk",
