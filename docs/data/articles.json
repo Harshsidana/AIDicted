@@ -1,7 +1,43 @@
 {
-  "fetchedAt": "2026-07-14T16:23:41.734Z",
+  "fetchedAt": "2026-07-14T19:37:04.897Z",
   "count": 60,
   "articles": [
+    {
+      "id": "a6kgg8",
+      "title": "SpaceXAI’s Grok programming tool was uploading its users’ entire codebase to cloud storage",
+      "summary": "SpaceXAI's Grok Build AI coding tool was spotted uploading users' entire codebases to Google Cloud before it was reported, and the company turned it off. The Register reports that Cereblab published findings on Monday showing how the Grok Build CLI was packaging and uploading entire code repositories, \"including files it was told not to open and secrets deleted from history,\" significantly more data retention than similar tools like Claude Code. The researchers say that as of Monday, their tests…",
+      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/05/STK262_GROK_B_B.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "source": "The Verge",
+      "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/965600/spacexai-grok-build-repository-upload",
+      "publishedAt": "2026-07-14T19:25:00.000Z"
+    },
+    {
+      "id": "1mlp10",
+      "title": "Google faces another AI training lawsuit from major publishers",
+      "summary": "Hachette, Cengage, Elsevier, and other publishers allege that Google trained its AI on copyrighted works without the necessary permissions.",
+      "imageUrl": "https://images.unsplash.com/photo-1550751827-4bd374c3f58b?w=800&q=80",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/07/14/google-faces-another-ai-training-lawsuit-from-major-publishers/",
+      "publishedAt": "2026-07-14T18:33:31.000Z"
+    },
+    {
+      "id": "5hwn0r",
+      "title": "DeepMind CEO calls for an independent standards body to regulate frontier AI",
+      "summary": "DeepMind CEO Demis Hassabis is proposing an AI \"standards body\" modeled after FINRA, to test frontier models and develop best practices for their release.",
+      "imageUrl": "https://images.unsplash.com/photo-1655720828018-edd2daec9349?w=800&q=80",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/07/14/deepmind-ceo-calls-for-an-independent-standards-body-to-regulate-frontier-ai/",
+      "publishedAt": "2026-07-14T17:45:55.000Z"
+    },
+    {
+      "id": "fg9ind",
+      "title": "Meta accused of using biased AI targeting for mass layoffs",
+      "summary": "A group of 26 former Meta employees is suing the company over claims that it used AI tools to unfairly target workers on leave with layoffs, as reported earlier by Reuters. In the lawsuit, the employees allege Meta determined which workers to dismiss based on performance data collected by a \"constellation\" of internal AI tools, but failed to exclude those on parental or medical leave from its ranking system: The result was that employees who took protected leaves were disproportionately selected…",
+      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/23951354/STK043_VRG_Illo_N_Barclay_2_Meta.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "source": "The Verge",
+      "sourceUrl": "https://www.theverge.com/tech/965486/meta-lawsuit-former-employees-ai-layoffs",
+      "publishedAt": "2026-07-14T17:18:11.000Z"
+    },
     {
       "id": "3crf5f",
       "title": "Meta’s Adam Mosseri says AI token budgets could soon be capped per engineer",
@@ -28,6 +64,24 @@
       "source": "TechCrunch",
       "sourceUrl": "https://techcrunch.com/2026/07/14/google-images-gets-a-pinterest-like-redesign-focused-on-discovery/",
       "publishedAt": "2026-07-14T16:00:00.000Z"
+    },
+    {
+      "id": "j3fw1q",
+      "title": "The Google Images homepage will recommend photos even before you search",
+      "summary": "Google is announcing a big change to the Google Images homepage in honor of the platform's 25th anniversary this week. Instead of a mostly blank page with a search bar, the homepage will soon show you a bunch of images that it thinks you might like before you even start searching. The company says the new \"browseable\" homepage features a \"dynamic, immersive gallery of images from across the web - updated in real time and intelligently tailored to your unique interests.\" Based on images Google…",
+      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/New-Google-Images-1.png?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "source": "The Verge",
+      "sourceUrl": "https://www.theverge.com/tech/965138/google-images-homepage-ai-overviews-search-nano-banana",
+      "publishedAt": "2026-07-14T16:00:00.000Z"
+    },
+    {
+      "id": "s7bw9c",
+      "title": "Spotify is now an AI chatbot, too",
+      "summary": "This is what the “Talk to Spotify” chatbox (left) looks like on the homepage. | Image: Spotify Spotify is experimenting with a new AI feature that allows Premium subscribers to play and explore music, audiobooks, and podcasts by having conversations with a chatbot. The \"Talk to Spotify\" feature appears across the Home and Now Playing view on Spotify's mobile app. You can interact with the chatbot by typing your request in the familiar AI text box, or by selecting the mic symbol and speaking.…",
+      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/Talk-to-Spotify.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "source": "The Verge",
+      "sourceUrl": "https://www.theverge.com/entertainment/965358/spotify-ai-chatbot-interface-music-audiobooks-podcasts",
+      "publishedAt": "2026-07-14T15:47:36.000Z"
     },
     {
       "id": "yzbmmp",
@@ -237,15 +291,6 @@
       "publishedAt": "2026-07-13T18:00:00.000Z"
     },
     {
-      "id": "52ki5s",
-      "title": "Sam Altman’s space data center trash talk is what most experts already believe",
-      "summary": "Responding to Musk accusing him of being a scammer, Altman said, \"homeboy you're the one sellling [sic] public market investors on short-term space datacenters.\"",
-      "imageUrl": "https://images.unsplash.com/photo-1550751827-4bd374c3f58b?w=800&q=80",
-      "source": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/07/13/sam-altmans-space-data-center-trash-talk-is-what-most-experts-already-believe/",
-      "publishedAt": "2026-07-13T17:28:37.000Z"
-    },
-    {
       "id": "vcecj3",
       "title": "The 6 wildest claims in Apple’s lawsuit against OpenAI",
       "summary": "When Apple employees interviewed for jobs at OpenAI, the AI startup's hardware head allegedly asked them to show up with something unusual: components they were working on and unreleased product samples. That's according to a blockbuster lawsuit filed by Apple, which accuses OpenAI of stealing confidential documents, spying on hardware prototypes, and tricking one of its trusted partners into performing a proprietary product design technique. The lawsuit primarily revolves around the alleged…",
@@ -253,15 +298,6 @@
       "source": "The Verge",
       "sourceUrl": "https://www.theverge.com/tech/964843/apple-openai-lawsuit-wildest-claims",
       "publishedAt": "2026-07-13T17:00:00.000Z"
-    },
-    {
-      "id": "9pp7ld",
-      "title": "Should AI help you get away with killing your spouse?",
-      "summary": "What does a world of total user-aligned AI actually look like?",
-      "imageUrl": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=800&q=80",
-      "source": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/07/13/should-ai-help-you-get-away-with-killing-your-spouse/",
-      "publishedAt": "2026-07-13T16:31:23.000Z"
     },
     {
       "id": "1g2y8k",
@@ -291,33 +327,6 @@
       "publishedAt": "2026-07-13T09:00:00.000Z"
     },
     {
-      "id": "v0aw4c",
-      "title": "Lorde says Ray-Ban Meta AI glasses are ‘not sexy’",
-      "summary": "Lorde performing at the 2026 Governors Ball. | Photo: Siegfried Anthony/Billboard via Getty Images Lorde was performing at the Mad Cool Festival in Madrid on Thursday and took some time during her set to speak out against AI glasses. While she didn't specify any brands in particular, it's likely she was taking a shot at festival sponsor Ray-Ban, which has collaborated with Meta on a pair of AI smart glasses. The comments were captured in videos shared to social media. After thanking the crowd…",
-      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/gettyimages-2279420244.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "source": "The Verge",
-      "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/964539/lorde-says-ray-ban-meta-ai-glasses-are-not-sexy",
-      "publishedAt": "2026-07-12T20:10:19.000Z"
-    },
-    {
-      "id": "ksdnnh",
-      "title": "Apple’s failed self-driving car program left a legacy of powerful AI chips",
-      "summary": "Apple's self-driving car program never really got off the ground, but it may have been what made the company's chips the powerful AI performers they are. Early in the development of the self-driving platform, Apple realized that it would need powerful on-device AI processing. While the car processor was never finished, as Mark Gurman details in his latest Power On newsletter, it did lead to the development of the Neural Engine, the backbone of Apple's on-device AI processing. The Neural Engine…",
-      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/03/apple_chips.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "source": "The Verge",
-      "sourceUrl": "https://www.theverge.com/tech/964519/apple-silicon-self-driving-car-ai-m7-ultra",
-      "publishedAt": "2026-07-12T16:27:06.000Z"
-    },
-    {
-      "id": "1ft4t5",
-      "title": "The fight against AI data centers is just beginning",
-      "summary": "A yard sign opposing a planned data center is displayed along Route 54 in Mount Carmel Township Northumberland County. | Image: Getty Images This is The Stepback, a weekly newsletter breaking down one essential story from the tech world. For more on the data center buildout, follow Emma Roth. The Stepback arrives in our subscribers' inboxes on Sunday at 8AM ET. Opt in for The Stepback here. How it started Years before the AI boom threatened local power grids, a small group of protesters set the…",
-      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/gettyimages-2282688394.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "source": "The Verge",
-      "sourceUrl": "https://www.theverge.com/column/963346/ai-data-centers-fight",
-      "publishedAt": "2026-07-12T12:00:00.000Z"
-    },
-    {
       "id": "8win43",
       "title": "Scientists’ Side Hustle? Using AI and Quantum Computing to Generate New Peptides",
       "summary": "Researchers cobbled together funding and time to show how quantum computing could aid in the development of drugs to help underserved populations and combat rare diseases.",
@@ -334,15 +343,6 @@
       "source": "Wired",
       "sourceUrl": "https://www.wired.com/story/openai-head-of-safety-leaving/",
       "publishedAt": "2026-07-11T01:07:26.000Z"
-    },
-    {
-      "id": "f7383c",
-      "title": "Meta turns off the Instagram feature that let users make AI deepfakes of public accounts",
-      "summary": "Following significant backlash, Meta is turning off the feature it announced this week that let users generate AI images based on content from public Instagram accounts just by tagging them. The feature, as originally set up, meant that content from any public Instagram account could be used in AI creations without the account owner's permission. \"Earlier this week, we announced that one way for people to generate images in Meta AI is by @-mentioning public Instagram accounts that they want to…",
-      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/meta-muse-image-instagram-tag.png?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "source": "The Verge",
-      "sourceUrl": "https://www.theverge.com/tech/964416/meta-instagram-ai-muse-image-deepfakes",
-      "publishedAt": "2026-07-10T23:49:50.000Z"
     },
     {
       "id": "9o0b4t",
