@@ -1,7 +1,34 @@
 {
-  "fetchedAt": "2026-07-14T06:35:56.300Z",
+  "fetchedAt": "2026-07-14T09:10:10.565Z",
   "count": 60,
   "articles": [
+    {
+      "id": "m5imuk",
+      "title": "New York becomes the first state to enact a data center moratorium",
+      "summary": "New hyperscale data centers can't set up shop in New York for up to a year now that Governor Kathy Hochul (D) has signed the nation's first statewide moratorium. But a bill passed by the state legislature that could restrict even more developments still awaits her signature. The order blocks new environmental permits for data centers over 50 megawatts, which the governor's office says will give the state time to come up with the regulations needed to protect residents from rising energy prices…",
+      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/STKS528_DATA_CENTERS2_D.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "source": "The Verge",
+      "sourceUrl": "https://www.theverge.com/policy/965110/new-york-ai-data-center-moratorium",
+      "publishedAt": "2026-07-14T09:00:00.000Z"
+    },
+    {
+      "id": "c6o3ia",
+      "title": "DOGE Used AI for Housing Policy. The Government Won’t Say How",
+      "summary": "In response to a public records request, HUD has withheld documents about DOGE’s use of AI—in part by citing a privilege that doesn’t exist.",
+      "imageUrl": "https://media.wired.com/photos/6a54c2f2fb247c83ade3f957/master/pass/GettyImages-2269243394.jpg",
+      "source": "Wired",
+      "sourceUrl": "https://www.wired.com/story/doge-deployed-ai-housing-policy/",
+      "publishedAt": "2026-07-14T09:00:00.000Z"
+    },
+    {
+      "id": "li4mtx",
+      "title": "PsiQuantum has a plan to make a massive quantum computer out of light",
+      "summary": "The machine that could change the world will be housed in a room that looks like a data center crossed with an ice cream factory. Inside will be some 100 stainless-steel cabinets, each about six feet tall and connected to a supply of liquid helium that keeps them only a few degrees above absolute zero.…",
+      "imageUrl": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=800&q=80",
+      "source": "MIT Tech Review",
+      "sourceUrl": "https://www.technologyreview.com/2026/07/14/1140356/psiquantum-plan-massive-quantum-computer-out-of-light/",
+      "publishedAt": "2026-07-14T08:00:00.000Z"
+    },
     {
       "id": "9cg2i6",
       "title": "Already rich, already successful, why the last wave of tech winners is grinding again",
@@ -291,15 +318,6 @@
       "publishedAt": "2026-07-10T13:45:02.000Z"
     },
     {
-      "id": "k1po10",
-      "title": "Would you host part of an AI data center in your home?",
-      "summary": "A solar and home energy storage company is expanding into AI data centers, but not by building one - instead, it's offering to pay its customers to put its compute units in their homes. Sunrun is launching a pilot program for a new \"distributed AI compute\" program that will \"place numerous compute nodes in homes equipped with Sunrun solar and battery storage systems.\" Customers will be \"compensated\" for participating in the pilot program. Sunrun plans to sell the distributed compute power from…",
-      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/sunrun-distributed-compute1.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "source": "The Verge",
-      "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/963930/sunrun-distributed-ai-data-center",
-      "publishedAt": "2026-07-10T13:20:25.000Z"
-    },
-    {
       "id": "l7eciv",
       "title": "The Download: Claude’s inner workings and OpenAI’s “super app”",
       "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. Anthropic found a hidden space where Claude puzzles over concepts The AI firm Anthropic has got the clearest glimpse yet at what’s really going on inside large language models as they…",
@@ -399,15 +417,6 @@
       "publishedAt": "2026-07-09T12:10:00.000Z"
     },
     {
-      "id": "ylx0cw",
-      "title": "The $28 Million Mistake That Inspired Estonia’s AI ‘Fuckup Finder’",
-      "summary": "A single wording mistake cost the government millions. Now Estonia is using AI to spot legal errors before they become law—and to automate more of the state.",
-      "imageUrl": "https://media.wired.com/photos/6a4f8d1c0761087b7658a06d/master/pass/070926_Estonia-AI.jpg",
-      "source": "Wired",
-      "sourceUrl": "https://www.wired.com/story/the-28-million-dollar-mistake-that-inspired-estonias-ai-fuckup-finder/",
-      "publishedAt": "2026-07-09T10:01:30.000Z"
-    },
-    {
       "id": "mma6pc",
       "title": "Four nuclear reactors hit a big milestone in the US",
       "summary": "I was really looking forward to July 4, and not just because I love a poolside barbecue. This year the American holiday also marked a big symbolic deadline for US nuclear power. Last year the Trump administration set a goal to see three new microreactors achieve criticality, a technical milestone establishing that a reactor can…",
@@ -469,15 +478,6 @@
       "source": "Ars Technica",
       "sourceUrl": "https://arstechnica.com/security/2026/07/hackers-can-use-9-of-the-most-popular-ai-tools-to-assemble-massive-botnets/",
       "publishedAt": "2026-07-08T07:00:51.000Z"
-    },
-    {
-      "id": "ivz75c",
-      "title": "The Download: your stake in OpenAI, and the Treasury’s AI warning",
-      "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. Your family’s $300 stake in OpenAI Sam Altman’s proposal that Americans should share in the wealth created by AI is back in the spotlight, with reports that he is discussing giving…",
-      "imageUrl": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=800&q=80",
-      "source": "MIT Tech Review",
-      "sourceUrl": "https://www.technologyreview.com/2026/07/07/1140197/the-download-your-openai-stake-treasury-ai-warning/",
-      "publishedAt": "2026-07-07T12:10:00.000Z"
     },
     {
       "id": "pputl7",
