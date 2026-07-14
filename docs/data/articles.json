@@ -1,7 +1,43 @@
 {
-  "fetchedAt": "2026-07-14T09:10:10.565Z",
+  "fetchedAt": "2026-07-14T12:49:19.896Z",
   "count": 60,
   "articles": [
+    {
+      "id": "tc146c",
+      "title": "The Download: Claude’s inner workings, and the future of world models",
+      "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. What Anthropic’s latest AI discovery does—and doesn’t—show —James O’Donnell When Anthropic announced last week that it had found a new window into its models’ “internal thoughts” as they reason through answers,…",
+      "imageUrl": "https://images.unsplash.com/photo-1620712943543-bcc4688e7485?w=800&q=80",
+      "source": "MIT Tech Review",
+      "sourceUrl": "https://www.technologyreview.com/2026/07/14/1140391/the-download-anthropic-claude-internal-thoughts-world-models/",
+      "publishedAt": "2026-07-14T12:10:00.000Z"
+    },
+    {
+      "id": "11pq5w",
+      "title": "Google’s Demis Hassabis says it’s time for a global AI watchdog — led by the US",
+      "summary": "Demis Hassabis, during a panel session at the World Economic Forum in Davos, Switzerland. | Image: Bloomberg via Getty Images Demis Hassabis thinks the world needs an AI watchdog with the power to hit the brakes if frontier models become too dangerous. Writing in a blog post, the Google DeepMind CEO and cofounder said the US should lead the initiative, arguing that the country is the best place to set global standards \"given its economic and technical standing.\" The organization, which could…",
+      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/01/gettyimages-2194484502.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "source": "The Verge",
+      "sourceUrl": "https://www.theverge.com/tech/965270/google-deepmind-demis-hassabis-global-ai-watchdog",
+      "publishedAt": "2026-07-14T11:43:29.000Z"
+    },
+    {
+      "id": "o8kmn1",
+      "title": "This Luddite Puppet Hopes You’re Not Reading This on Your Smartphone",
+      "summary": "On this week’s episode of The Big Interview podcast, WIRED’s senior culture editor Manisha Krishnan talks to Gowanus about eschewing Big Tech, going outside, and rejection in the age of dating apps.",
+      "imageUrl": "https://media.wired.com/photos/6a51166bd12b964679cc95c9/master/pass/Big-Interview-UV-Gowanus-Culture.jpg",
+      "source": "Wired",
+      "sourceUrl": "https://www.wired.com/story/the-big-interview-podcast-summer-of-ludd-gowanus/",
+      "publishedAt": "2026-07-14T10:30:00.000Z"
+    },
+    {
+      "id": "ntqwe",
+      "title": "The Chatbot That Foretold Why People Share Secrets With ChatGPT",
+      "summary": "In the 1960s an MIT professor named Joseph Weizenbaum created a chatbot called ELIZA. The conversations people had with it set precedents for the chatbots to come.",
+      "imageUrl": "https://media.wired.com/photos/6a50305c2d9a50a68798f001/master/pass/inventing_eliza_chatbot_book.jpg",
+      "source": "Wired",
+      "sourceUrl": "https://www.wired.com/story/inventing-eliza-book-excerpt-chatbot/",
+      "publishedAt": "2026-07-14T10:00:00.000Z"
+    },
     {
       "id": "m5imuk",
       "title": "New York becomes the first state to enact a data center moratorium",
@@ -39,10 +75,10 @@
       "publishedAt": "2026-07-14T02:46:42.000Z"
     },
     {
-      "id": "w50x0g",
-      "title": "Uber’s product chief on hotels, robotaxis, and why the company doesn’t want to be “everything for everyone”",
+      "id": "glk92g",
+      "title": "Uber’s product chief on hotels, robotaxis, and why the company doesn’t want to be ‘everything for everyone’",
       "summary": "Uber Chief Product Officer Sachin Kansal walks TechCrunch through the company's financial-services ambitions, its increasingly complicated relationship with Waymo, its new AV Labs data operation, and how AI is starting to show up in ways riders and drivers will actually notice.",
-      "imageUrl": "https://images.unsplash.com/photo-1526374965328-7f61d4dc18c5?w=800&q=80",
+      "imageUrl": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=800&q=80",
       "source": "TechCrunch",
       "sourceUrl": "https://techcrunch.com/2026/07/13/ubers-product-chief-on-hotels-robotaxis-and-why-the-company-doesnt-want-to-be-everything-for-everyone/",
       "publishedAt": "2026-07-14T00:45:00.000Z"
@@ -309,15 +345,6 @@
       "publishedAt": "2026-07-10T17:17:12.000Z"
     },
     {
-      "id": "kkonqd",
-      "title": "Instagram’s Adam Mosseri: If you don’t like AI, ‘then you shouldn’t have it in your feed’",
-      "summary": "Though Instagram head Adam Mosseri doesn't want to filter out AI content on the platform, he argues that you \"shouldn't have it in your feed\" if you don't like it. \"I don't think we should filter out AI content,\" Mosseri said during an interview on Lenny Rachitsky's podcast. \"I think we should let you know if content is AI content or not.\" At the same time, Mosseri seems to be drawing a distinction between content-based sorting and banning AI from the platform entirely. In fact, he believes…",
-      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/gettyimages-2239561028.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "source": "The Verge",
-      "sourceUrl": "https://www.theverge.com/tech/963961/instagram-adam-mosseri-ai-feed-filters",
-      "publishedAt": "2026-07-10T13:45:02.000Z"
-    },
-    {
       "id": "l7eciv",
       "title": "The Download: Claude’s inner workings and OpenAI’s “super app”",
       "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. Anthropic found a hidden space where Claude puzzles over concepts The AI firm Anthropic has got the clearest glimpse yet at what’s really going on inside large language models as they…",
@@ -390,24 +417,6 @@
       "publishedAt": "2026-07-09T20:22:28.000Z"
     },
     {
-      "id": "a7428w",
-      "title": "Anthropic Wants You to Pay Up for Claude Fable 5",
-      "summary": "Claude subscribers must soon pay usage-based fees to access Anthropic’s best consumer AI model—a sign that the golden era of AI subscriptions is ending.",
-      "imageUrl": "https://media.wired.com/photos/6a4ece7dd12b964679cc8452/master/pass/business_claude_price_increase.jpg",
-      "source": "Wired",
-      "sourceUrl": "https://www.wired.com/story/model-behavior-anthropic-will-charge-consumers-extra-to-use-claude-fable-5/",
-      "publishedAt": "2026-07-09T18:30:00.000Z"
-    },
-    {
-      "id": "76ii9h",
-      "title": "The 1X Neo Robot Has Freaky Fast Fingers",
-      "summary": "The soft, oddly intimate home-chore robot has been given some very tactile hands.",
-      "imageUrl": "https://media.wired.com/photos/6a4ea0a34c236782d7135868/master/pass/GLASS.png",
-      "source": "Wired",
-      "sourceUrl": "https://www.wired.com/story/the-1x-neo-robot-has-freaky-fast-fingers/",
-      "publishedAt": "2026-07-09T16:01:22.000Z"
-    },
-    {
       "id": "ac00nr",
       "title": "The Download: a nuclear landmark, and China eyes Nvidia chips",
       "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. Four nuclear reactors hit a big milestone in the US —Casey Crownhart I was really looking forward to July 4, and not just because I love a poolside barbecue. This year…",
@@ -460,15 +469,6 @@
       "source": "Ars Technica",
       "sourceUrl": "https://arstechnica.com/science/2026/07/us-rare-earths-flow-to-asia-as-domestic-demand-is-slow-to-emerge/",
       "publishedAt": "2026-07-08T13:26:10.000Z"
-    },
-    {
-      "id": "3k2foz",
-      "title": "The Download: worms fight pollution, and geoengineering faces reality",
-      "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. Why worms (and microbes) are catching on as a manure pollution solution Anthony Agueda, a third-generation California dairy farmer, pulls a rake through a bed of dark, wet wood chips to…",
-      "imageUrl": "https://images.unsplash.com/photo-1676299081847-824916de030a?w=800&q=80",
-      "source": "MIT Tech Review",
-      "sourceUrl": "https://www.technologyreview.com/2026/07/08/1140216/the-download-worms-manure-pollution-geoengineering-reality-check/",
-      "publishedAt": "2026-07-08T12:10:00.000Z"
     },
     {
       "id": "duee5q",
