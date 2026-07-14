@@ -1,7 +1,43 @@
 {
-  "fetchedAt": "2026-07-14T21:06:46.067Z",
+  "fetchedAt": "2026-07-14T22:32:20.101Z",
   "count": 60,
   "articles": [
+    {
+      "id": "yt4omc",
+      "title": "OpenAI’s first hardware device is reportedly a screenless speaker that can move",
+      "summary": "OpenAI's first hardware device is reported to be a screenless, AI-guided smart speaker that can move. Weird enough for you?",
+      "imageUrl": "https://images.unsplash.com/photo-1655720828018-edd2daec9349?w=800&q=80",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/07/14/openais-first-hardware-device-is-reportedly-a-screenless-speaker-that-can-move/",
+      "publishedAt": "2026-07-14T22:22:24.000Z"
+    },
+    {
+      "id": "mva9dh",
+      "title": "OpenAI pushes back on Apple trade secret lawsuit",
+      "summary": "OpenAI has issued another statement on the lawsuit, this time suggesting it lacks merit.",
+      "imageUrl": "https://images.unsplash.com/photo-1620712943543-bcc4688e7485?w=800&q=80",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/07/14/openai-pushes-back-on-apple-trade-secret-lawsuit/",
+      "publishedAt": "2026-07-14T22:07:42.000Z"
+    },
+    {
+      "id": "ozjmko",
+      "title": "OpenAI’s new flagship model deletes files on its own, people keep warning",
+      "summary": "A number of social media posts claim that GPT-5.6 Sol deleted files and data without warning. OpenAI had basically disclosed the problem in June.",
+      "imageUrl": "https://images.unsplash.com/photo-1550751827-4bd374c3f58b?w=800&q=80",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/07/14/openais-new-flagship-model-deletes-files-on-its-own-people-keep-warning/",
+      "publishedAt": "2026-07-14T21:50:11.000Z"
+    },
+    {
+      "id": "657z9m",
+      "title": "OpenAI may announce a ChatGPT smart speaker this year",
+      "summary": "OpenAI's first device is set to be a smart speaker that lets you talk with ChatGPT, according to a report from Bloomberg. The device apparently won't have a screen, but will use a camera and additional sensors to \"understand\" your environment. The report comes just days after Apple filed a lawsuit against OpenAI that accused the AI company of stealing hardware secrets. OpenAI, in a new statement on Tuesday, said that it is \"not aware of any evidence that this complaint has merit.\" Sources tell…",
+      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/03/STK155_OPEN_AI_4_CVirginia_D.png?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "source": "The Verge",
+      "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/965670/openai-chatgpt-ai-smart-speaker-hardware-device",
+      "publishedAt": "2026-07-14T21:26:32.000Z"
+    },
     {
       "id": "2ami03",
       "title": "Apple opens its new Siri AI to everyone with the iOS 27 public beta",
@@ -228,33 +264,6 @@
       "publishedAt": "2026-07-14T08:00:00.000Z"
     },
     {
-      "id": "9cg2i6",
-      "title": "Already rich, already successful, why the last wave of tech winners is grinding again",
-      "summary": "They're rolling up their sleeves again, seemingly out of fear of missing AI's defining moment and, presumably, the irresistible allure of making even more money -- potentially a lot more.",
-      "imageUrl": "https://images.unsplash.com/photo-1620712943543-bcc4688e7485?w=800&q=80",
-      "source": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/07/13/already-rich-already-successful-why-the-last-wave-of-tech-winners-is-grinding-again/",
-      "publishedAt": "2026-07-14T02:46:42.000Z"
-    },
-    {
-      "id": "glk92g",
-      "title": "Uber’s product chief on hotels, robotaxis, and why the company doesn’t want to be ‘everything for everyone’",
-      "summary": "Uber Chief Product Officer Sachin Kansal walks TechCrunch through the company's financial services ambitions, its increasingly complicated relationship with Waymo, its new AV Labs data operation, and how AI is starting to show up in ways riders and drivers will actually notice.",
-      "imageUrl": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=800&q=80",
-      "source": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/07/13/ubers-product-chief-on-hotels-robotaxis-and-why-the-company-doesnt-want-to-be-everything-for-everyone/",
-      "publishedAt": "2026-07-14T00:45:00.000Z"
-    },
-    {
-      "id": "cca0ux",
-      "title": "Video-generation startup PixVerse raises $439M, valuation soars past $2B",
-      "summary": "With the cash, the company aims to expand its world model offering and reach customers across geographies.",
-      "imageUrl": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=800&q=80",
-      "source": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/07/13/video-generation-startup-pixverse-raises-439m-valuation-soars-past-2b/",
-      "publishedAt": "2026-07-14T00:00:00.000Z"
-    },
-    {
       "id": "3qt6be",
       "title": "Siri AI Is Becoming Apple’s Everything Tool",
       "summary": "Apple’s revamped Siri is more than a voice assistant; it’s now the backbone of the iPhone user experience. You can try it now through the iOS 27 public beta.",
@@ -316,15 +325,6 @@
       "source": "MIT Tech Review",
       "sourceUrl": "https://www.technologyreview.com/2026/07/13/1140339/the-download-sperm-donor-limits-ai-world-models/",
       "publishedAt": "2026-07-13T12:10:00.000Z"
-    },
-    {
-      "id": "cs8hgy",
-      "title": "Waze is getting a bunch of new AI-powered features",
-      "summary": "Waze is getting an AI makeover. Google is integrating its flagship AI assistant, Gemini, into the driving app with the goal of letting users personalize their trips a little more. Of the four new updates, only two are being described as involving Gemini. Waze says its updating its conversation reporting feature, first introduced in 2024, to allow drivers to use conversational voice commands to report traffic incidents and suggest map updates, like a road closure or outdated house number. In…",
-      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25708121/waze_conversational_report.png?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "source": "The Verge",
-      "sourceUrl": "https://www.theverge.com/transportation/964132/waze-gemini-ai-voice-commands-less-chatty",
-      "publishedAt": "2026-07-13T09:00:00.000Z"
     },
     {
       "id": "8win43",
