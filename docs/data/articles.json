@@ -1,7 +1,25 @@
 {
-  "fetchedAt": "2026-07-15T10:23:31.588Z",
+  "fetchedAt": "2026-07-15T12:02:09.206Z",
   "count": 60,
   "articles": [
+    {
+      "id": "jzsj61",
+      "title": "Vint Cerf is working on a plan to unleash AI agents on the open internet",
+      "summary": "The guy behind TCP/IP is working on a standard for identifying AI agents in the wild.",
+      "imageUrl": "https://images.unsplash.com/photo-1531746790095-6c10a4031c5f?w=800&q=80",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/07/15/vint-cerf-is-working-on-a-plan-to-unleash-ai-agents-on-the-open-internet/",
+      "publishedAt": "2026-07-15T12:00:00.000Z"
+    },
+    {
+      "id": "d0n2pc",
+      "title": "Indian AI coding startup Emergent becomes a unicorn with $130M Series C",
+      "summary": "The startup has reached a $120 million annualized revenue run rate and more than 200,000 paying customers.",
+      "imageUrl": "https://images.unsplash.com/photo-1655720828018-edd2daec9349?w=800&q=80",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/07/15/indian-ai-coding-startup-emergent-becomes-a-unicorn-just-over-a-year-after-launch/",
+      "publishedAt": "2026-07-15T12:00:00.000Z"
+    },
     {
       "id": "mvfe6i",
       "title": "My Ebike Delivery Went Missing. When I Tried to Recover It, I Ended Up in Chatbot Hell",
@@ -199,24 +217,6 @@
       "source": "TechCrunch",
       "sourceUrl": "https://techcrunch.com/2026/07/14/new-york-state-halts-construction-of-all-new-data-centers/",
       "publishedAt": "2026-07-14T15:17:59.000Z"
-    },
-    {
-      "id": "i725w",
-      "title": "Reflection inks $1B compute deal with Nebius",
-      "summary": "Reflection AI has signed a $1 billion deal to access Nebius' compute. Reflection was founded in 2024 and is developing open source AI technology.",
-      "imageUrl": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=800&q=80",
-      "source": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/07/14/reflection-inks-1b-compute-deal-with-nebius/",
-      "publishedAt": "2026-07-14T14:37:48.000Z"
-    },
-    {
-      "id": "2tpji8",
-      "title": "The real AI race may no longer be at the frontier",
-      "summary": "Hugging Face CEO Clem Delangue says enterprises increasingly want open models, due to cost, accessibility, and ownership. Do frontier models still matter if most production AI ends up running on open models?",
-      "imageUrl": "https://images.unsplash.com/photo-1531746790095-6c10a4031c5f?w=800&q=80",
-      "source": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/07/14/the-real-ai-race-may-no-longer-be-at-the-frontier-open-models-hugging-face/",
-      "publishedAt": "2026-07-14T14:24:53.000Z"
     },
     {
       "id": "eucuyd",
