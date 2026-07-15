@@ -1,12 +1,30 @@
 {
-  "fetchedAt": "2026-07-15T14:21:56.605Z",
+  "fetchedAt": "2026-07-15T16:04:43.102Z",
   "count": 60,
   "articles": [
     {
-      "id": "6yvmna",
-      "title": "Anthropic, Blackstone bet the next trillion-dollar AI business is implementation, not models",
+      "id": "dmiv7p",
+      "title": "OpenAI finally launches hardware… for Codex",
+      "summary": "OpenAI is finally releasing some hardware. No, it isn't the mysterious AI-powered device the company is developing with former Apple designer Jony Ive, a project already tangled up in a messy lawsuit. Instead, it's a product designed to be used with its coding platform, Codex. The device, a square-shaped block of buttons called Codex Micro, is a collaboration between the AI company and keyboard maker Work Louder. OpenAI said it is a limited-run collaboration that will give users more ways to…",
+      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/Supply-Co-Page_Brand.png?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "source": "The Verge",
+      "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/965901/openai-hardware-codex-micro-launch",
+      "publishedAt": "2026-07-15T16:00:00.000Z"
+    },
+    {
+      "id": "3yeb9q",
+      "title": "Apple Intelligence approved for launch in China with Alibaba’s Qwen AI",
+      "summary": "Apple Intelligence is headed to China after regulators approved Apple’s AI services through a partnership with Alibaba. The long-rumored deal will bring Alibaba’s Qwen AI models to Apple’s operating systems, marking a major expansion of the company’s generative AI platform into one of its most important markets.",
+      "imageUrl": "https://images.unsplash.com/photo-1620712943543-bcc4688e7485?w=800&q=80",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/07/15/apple-intelligence-approved-for-launch-in-china-with-alibabas-qwen-ai/",
+      "publishedAt": "2026-07-15T15:29:33.000Z"
+    },
+    {
+      "id": "7qpfz2",
+      "title": "Anthropic, Blackstone bet the next trillion-dollar AI business is implementation, not just models",
       "summary": "Anthropic-backed Ode launches as AI labs bet that embedding forward-deployed engineers inside enterprises is the key to accelerating enterprise AI adoption.",
-      "imageUrl": "https://images.unsplash.com/photo-1676299081847-824916de030a?w=800&q=80",
+      "imageUrl": "https://images.unsplash.com/photo-1526374965328-7f61d4dc18c5?w=800&q=80",
       "source": "TechCrunch",
       "sourceUrl": "https://techcrunch.com/2026/07/15/anthropic-blackstone-bet-the-next-trillion-dollar-ai-business-is-implementation-not-models/",
       "publishedAt": "2026-07-15T13:10:47.000Z"
@@ -57,9 +75,9 @@
       "publishedAt": "2026-07-15T12:00:00.000Z"
     },
     {
-      "id": "y2b3rm",
-      "title": "An Inventor of Apple's FaceID Wants to Analyze Your Brain's Health With AI",
-      "summary": "Gidi Littwin's new AI startup, Hemispheric, makes diagnostic brain scans for conditions like depression, PTSD, and Parkinson’s. He wants the technology to be as cheap and easy as a blood test.",
+      "id": "kswhym",
+      "title": "An Inventor of Apple’s FaceID Wants to Analyze Your Brain’s Health With AI",
+      "summary": "Gidi Littwin’s new AI startup, Hemispheric, makes diagnostic brain scans for conditions like depression, PTSD, and Parkinson’s. He wants the technology to be as cheap and easy as for a blood test.",
       "imageUrl": "https://media.wired.com/photos/6a5639acbebf57977f2b4f6b/master/pass/AppleIDBrainScan.jpg",
       "source": "Wired",
       "sourceUrl": "https://www.wired.com/story/the-apple-faceid-veteran-building-a-frontier-ai-model-for-the-human-brain/",
@@ -190,15 +208,6 @@
       "source": "TechCrunch",
       "sourceUrl": "https://techcrunch.com/2026/07/14/google-faces-another-ai-training-lawsuit-from-major-publishers/",
       "publishedAt": "2026-07-14T18:33:31.000Z"
-    },
-    {
-      "id": "5hwn0r",
-      "title": "DeepMind CEO calls for an independent standards body to regulate frontier AI",
-      "summary": "DeepMind CEO Demis Hassabis is proposing an AI \"standards body\" modeled after FINRA, to test frontier models and develop best practices for their release.",
-      "imageUrl": "https://images.unsplash.com/photo-1655720828018-edd2daec9349?w=800&q=80",
-      "source": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/07/14/deepmind-ceo-calls-for-an-independent-standards-body-to-regulate-frontier-ai/",
-      "publishedAt": "2026-07-14T17:45:55.000Z"
     },
     {
       "id": "fg9ind",
@@ -343,15 +352,6 @@
       "source": "MIT Tech Review",
       "sourceUrl": "https://www.technologyreview.com/2026/07/13/1140343/what-anthropics-latest-ai-discovery-does-and-doesnt-show/",
       "publishedAt": "2026-07-13T18:00:00.000Z"
-    },
-    {
-      "id": "vcecj3",
-      "title": "The 6 wildest claims in Apple’s lawsuit against OpenAI",
-      "summary": "When Apple employees interviewed for jobs at OpenAI, the AI startup's hardware head allegedly asked them to show up with something unusual: components they were working on and unreleased product samples. That's according to a blockbuster lawsuit filed by Apple, which accuses OpenAI of stealing confidential documents, spying on hardware prototypes, and tricking one of its trusted partners into performing a proprietary product design technique. The lawsuit primarily revolves around the alleged…",
-      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/gettyimages-2236544097.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "source": "The Verge",
-      "sourceUrl": "https://www.theverge.com/tech/964843/apple-openai-lawsuit-wildest-claims",
-      "publishedAt": "2026-07-13T17:00:00.000Z"
     },
     {
       "id": "1g2y8k",
