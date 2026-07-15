@@ -1,7 +1,16 @@
 {
-  "fetchedAt": "2026-07-15T20:35:49.816Z",
+  "fetchedAt": "2026-07-15T22:07:54.363Z",
   "count": 60,
   "articles": [
+    {
+      "id": "x0ivb0",
+      "title": "Sheetz moves 838 stores off VMware: Broadcom created “too much uncertainty\"",
+      "summary": "The conveneince store chain will use StorMagic instead.",
+      "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2026/07/images-1152x648-1784145789.jpg",
+      "source": "Ars Technica",
+      "sourceUrl": "https://arstechnica.com/information-technology/2026/07/sheetz-moves-838-stores-off-vmware-broadcom-created-too-much-uncertainty/",
+      "publishedAt": "2026-07-15T21:41:56.000Z"
+    },
     {
       "id": "wwu6i8",
       "title": "AI slop movies are the new direct-to-video cash grabs",
@@ -532,15 +541,6 @@
       "source": "Ars Technica",
       "sourceUrl": "https://arstechnica.com/information-technology/2026/06/us-offers-10-million-for-info-on-group-behind-signal-and-whatsapp-hacking-spree/",
       "publishedAt": "2026-06-29T22:05:33.000Z"
-    },
-    {
-      "id": "z0xyl8",
-      "title": "Notion killing Skiff-influenced email app since most users use AI agents instead",
-      "summary": "Notion is \"going all in on using agents to run your inbox.\"",
-      "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2026/06/GettyImages-2230437159-1024x648.jpg",
-      "source": "Ars Technica",
-      "sourceUrl": "https://arstechnica.com/gadgets/2026/06/notion-killing-skiff-influenced-email-app-since-most-users-use-ai-agents-instead/",
-      "publishedAt": "2026-06-25T19:04:57.000Z"
     }
   ]
 }
