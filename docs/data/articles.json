@@ -1,7 +1,52 @@
 {
-  "fetchedAt": "2026-07-15T17:49:17.787Z",
+  "fetchedAt": "2026-07-15T19:23:11.490Z",
   "count": 60,
   "articles": [
+    {
+      "id": "6kuxd5",
+      "title": "AI Isn’t Smarter Than a Baby—Yet",
+      "summary": "Babies are tremendous learning machines, and key advances for AI may soon be found in the architecture of their little brains.",
+      "imageUrl": "https://media.wired.com/photos/6a56a73aa8c3319e5ecf8c80/master/pass/AI-Lab-AI-Still-Isnt-Smarter-Than-a-Baby-Business.jpg",
+      "source": "Wired",
+      "sourceUrl": "https://www.wired.com/story/ai-isnt-smarter-than-a-baby-yet/",
+      "publishedAt": "2026-07-15T18:30:00.000Z"
+    },
+    {
+      "id": "bt9tjn",
+      "title": "SpaceX slips below its $135 IPO price ahead of Starship launch",
+      "summary": "The stock has steadily fallen from the euphoric post-IPO high, showing that markets may be sobering up to the promises CEO Elon Musk made before and after SpaceX went public.",
+      "imageUrl": "https://images.unsplash.com/photo-1620712943543-bcc4688e7485?w=800&q=80",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/07/15/spacex-slips-below-its-135-ipo-price-ahead-of-starship-launch/",
+      "publishedAt": "2026-07-15T18:06:05.000Z"
+    },
+    {
+      "id": "z2y1zf",
+      "title": "Thinking Machines Lab Drops Its First Model",
+      "summary": "Inkling, a 975-billion-parameter open source model, was trained to understand video and audio. It could help Thinking Machines establish itself among competitors like Anthropic and OpenAI.",
+      "imageUrl": "https://media.wired.com/photos/6a57d5395bdb9adeb6a7d1c2/master/pass/Thinking-Labs-Releasing-Its-First-Open-Weight-Model-Business-2279106900.jpg",
+      "source": "Wired",
+      "sourceUrl": "https://www.wired.com/story/thinking-machines-lab-releases-its-first-model-inkling/",
+      "publishedAt": "2026-07-15T18:05:00.000Z"
+    },
+    {
+      "id": "gbafhr",
+      "title": "Thinking Machines amps up its bet against one-size-fits-all AI with its first open model, Inkling",
+      "summary": "It's the company's first public proof point after a year and a half spent building AI infrastructure largely out of public view.",
+      "imageUrl": "https://images.unsplash.com/photo-1676299081847-824916de030a?w=800&q=80",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/07/15/thinking-machines-amps-up-its-bet-against-one-size-fits-all-ai-with-its-first-open-model-inkling/",
+      "publishedAt": "2026-07-15T18:04:06.000Z"
+    },
+    {
+      "id": "9geoo3",
+      "title": "Suno snatched millions of songs from YouTube, Genius, and Deezer",
+      "summary": "So when is fair use actually just stealing? | Cath Virginia / The Verge | Photo from Getty Images Suno data obtained in a hacking incident has exposed that the AI music generator was trained by scraping millions of songs and lyrics from online audio platforms, including YouTube Music, Deezer, and Genius, 404 Media reports. Given that Suno has avoided revealing what's in its training datasets and how they were acquired, this a rare glimpse into what Suno has actually been taking from online…",
+      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25383554/STK467_AI_MUSIC_CVirginia_B.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "source": "The Verge",
+      "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/966072/suno-ai-music-training-scraping-youtube-hack",
+      "publishedAt": "2026-07-15T17:48:01.000Z"
+    },
     {
       "id": "w37tdp",
       "title": "Meet GPT-Red: an LLM super-hacker OpenAI built to make its models safer",
@@ -50,11 +95,20 @@
     {
       "id": "3yeb9q",
       "title": "Apple Intelligence approved for launch in China with Alibaba’s Qwen AI",
-      "summary": "Apple Intelligence is headed to China after regulators approved Apple’s AI services through a partnership with Alibaba. The long-rumored deal will bring Alibaba’s Qwen AI models to Apple’s operating systems, marking a major expansion of the company’s generative AI platform into one of its most important markets.",
+      "summary": "The deal, which was rumored to be in the works last year, marks an important step for Apple's AI ambitions in a key market.",
       "imageUrl": "https://images.unsplash.com/photo-1620712943543-bcc4688e7485?w=800&q=80",
       "source": "TechCrunch",
       "sourceUrl": "https://techcrunch.com/2026/07/15/apple-intelligence-approved-for-launch-in-china-with-alibabas-qwen-ai/",
       "publishedAt": "2026-07-15T15:29:33.000Z"
+    },
+    {
+      "id": "2d4r9s",
+      "title": "Inside Ode with Anthropic, the startup betting AI services are the future of enterprise",
+      "summary": "Can a handful of engineers really do the work of an army of consultants? That’s the bet behind Ode with Anthropic — the joint venture dedicated to embedding forward-deployed engineers in enterprise firms, backed by Anthropic, Blackstone, Hellman & Friedman, Goldman Sachs and others. On this episode of TechCrunch’s Equity podcast, Rebecca Bellan sits down with Ode’s leaders Chris Taylor and Eddie Siegel, who founded Fractional AI, […]",
+      "imageUrl": "https://images.unsplash.com/photo-1550751827-4bd374c3f58b?w=800&q=80",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/video/inside-ode-with-anthropic-the-startup-betting-ai-services-are-the-future-of-enterprise/",
+      "publishedAt": "2026-07-15T15:00:00.000Z"
     },
     {
       "id": "7qpfz2",
@@ -174,24 +228,6 @@
       "publishedAt": "2026-07-14T22:20:48.000Z"
     },
     {
-      "id": "mva9dh",
-      "title": "OpenAI pushes back on Apple trade secret lawsuit",
-      "summary": "OpenAI has issued another statement on the lawsuit, this time suggesting it lacks merit.",
-      "imageUrl": "https://images.unsplash.com/photo-1620712943543-bcc4688e7485?w=800&q=80",
-      "source": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/07/14/openai-pushes-back-on-apple-trade-secret-lawsuit/",
-      "publishedAt": "2026-07-14T22:07:42.000Z"
-    },
-    {
-      "id": "ozjmko",
-      "title": "OpenAI’s new flagship model deletes files on its own, people keep warning",
-      "summary": "A number of social media posts claim that GPT-5.6 Sol deleted files and data without warning. OpenAI had basically disclosed the problem in June.",
-      "imageUrl": "https://images.unsplash.com/photo-1550751827-4bd374c3f58b?w=800&q=80",
-      "source": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/07/14/openais-new-flagship-model-deletes-files-on-its-own-people-keep-warning/",
-      "publishedAt": "2026-07-14T21:50:11.000Z"
-    },
-    {
       "id": "657z9m",
       "title": "OpenAI may announce a ChatGPT smart speaker this year",
       "summary": "OpenAI's first device is set to be a smart speaker that lets you talk with ChatGPT, according to a report from Bloomberg. The device apparently won't have a screen, but will use a camera and additional sensors to \"understand\" your environment. The report comes just days after Apple filed a lawsuit against OpenAI that accused the AI company of stealing hardware secrets. OpenAI, in a new statement on Tuesday, said that it is \"not aware of any evidence that this complaint has merit.\" Sources tell…",
@@ -199,15 +235,6 @@
       "source": "The Verge",
       "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/965670/openai-chatgpt-ai-smart-speaker-hardware-device",
       "publishedAt": "2026-07-14T21:26:32.000Z"
-    },
-    {
-      "id": "2ami03",
-      "title": "Apple opens its new Siri AI to everyone with the iOS 27 public beta",
-      "summary": "If you’ve been waiting to try Apple’s revamped Siri without installing a developer beta, you now can. The company on Tuesday released the iOS 27 public beta, giving iPhone owners early access to its AI-powered assistant and other new features before the software’s official launch this fall.",
-      "imageUrl": "https://images.unsplash.com/photo-1635070041078-e363dbe005cb?w=800&q=80",
-      "source": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/07/14/apple-opens-its-new-siri-ai-to-everyone-with-the-ios-27-public-beta/",
-      "publishedAt": "2026-07-14T19:42:27.000Z"
     },
     {
       "id": "a6kgg8",
@@ -345,15 +372,6 @@
       "publishedAt": "2026-07-13T21:03:07.000Z"
     },
     {
-      "id": "8phq19",
-      "title": "Siri AI is already changing how I use my iPhone",
-      "summary": "Siri AI in iOS 27. iOS 27 escaped the developer world today with the launch of the first public beta. I've been testing the new operating system since early June, looking for quirks and seeing if it can live up to the hype Apple promised in the keynote. This year's iOS upgrades are what one might call a Snow Leopard update. That means it's light on new features and instead focused on fixing things that were broken and speeding up processes across the OS. App launches, Photos search results, and…",
-      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/Siri-AI-Being-invoked-3.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "source": "The Verge",
-      "sourceUrl": "https://www.theverge.com/tech/964714/siri-ai-public-beta-preview-ios-27-hands-on",
-      "publishedAt": "2026-07-13T20:43:20.000Z"
-    },
-    {
       "id": "ulyncs",
       "title": "What Anthropic’s latest AI discovery does—and doesn’t—show",
       "summary": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here. Anthropic—currently the world’s most valuable AI company, with a nearly $1 trillion valuation—has a reputation for publishing strange and heady research. It’s looking into whether AI models can feel pain, for example,…",
@@ -379,24 +397,6 @@
       "source": "MIT Tech Review",
       "sourceUrl": "https://www.technologyreview.com/2026/07/13/1140339/the-download-sperm-donor-limits-ai-world-models/",
       "publishedAt": "2026-07-13T12:10:00.000Z"
-    },
-    {
-      "id": "8win43",
-      "title": "Scientists’ Side Hustle? Using AI and Quantum Computing to Generate New Peptides",
-      "summary": "Researchers cobbled together funding and time to show how quantum computing could aid in the development of drugs to help underserved populations and combat rare diseases.",
-      "imageUrl": "https://media.wired.com/photos/6a50c6b5d12b964679cc91a9/master/pass/Quantum%20Computing.jpg",
-      "source": "Wired",
-      "sourceUrl": "https://www.wired.com/story/scientists-using-ai-and-quantum-computing-to-generate-new-peptides/",
-      "publishedAt": "2026-07-12T10:00:00.000Z"
-    },
-    {
-      "id": "kjrg4",
-      "title": "OpenAI’s Head of Safety Is Leaving the Company",
-      "summary": "Johannes Heidecke’s departure comes as OpenAI tries to further integrate its research and safety teams.",
-      "imageUrl": "https://media.wired.com/photos/6a518d0cb6767a97076bfe9e/master/pass/GettyImages-2283356667.jpg",
-      "source": "Wired",
-      "sourceUrl": "https://www.wired.com/story/openai-head-of-safety-leaving/",
-      "publishedAt": "2026-07-11T01:07:26.000Z"
     },
     {
       "id": "l7eciv",
