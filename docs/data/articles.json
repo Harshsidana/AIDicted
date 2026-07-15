@@ -1,7 +1,52 @@
 {
-  "fetchedAt": "2026-07-15T12:02:09.206Z",
+  "fetchedAt": "2026-07-15T14:21:56.605Z",
   "count": 60,
   "articles": [
+    {
+      "id": "6yvmna",
+      "title": "Anthropic, Blackstone bet the next trillion-dollar AI business is implementation, not models",
+      "summary": "Anthropic-backed Ode launches as AI labs bet that embedding forward-deployed engineers inside enterprises is the key to accelerating enterprise AI adoption.",
+      "imageUrl": "https://images.unsplash.com/photo-1676299081847-824916de030a?w=800&q=80",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/07/15/anthropic-blackstone-bet-the-next-trillion-dollar-ai-business-is-implementation-not-models/",
+      "publishedAt": "2026-07-15T13:10:47.000Z"
+    },
+    {
+      "id": "6809xx",
+      "title": "Reelful’s AI turns your camera roll into short-form videos for social media",
+      "summary": "The app is designed for people who want to create social content, but find traditional video editing tools too complex or time-consuming.",
+      "imageUrl": "https://images.unsplash.com/photo-1620712943543-bcc4688e7485?w=800&q=80",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/07/15/reelfuls-ai-turns-your-camera-roll-into-short-form-videos-for-social-media/",
+      "publishedAt": "2026-07-15T13:00:00.000Z"
+    },
+    {
+      "id": "1utc5y",
+      "title": "Rime picks up $24M Series A to help enterprises field customer calls",
+      "summary": "Rime is handling over 100 million calls each month across multiple companies.",
+      "imageUrl": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=800&q=80",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/07/15/rime-picks-up-24m-series-a-to-help-enterprises-field-customer-calls/",
+      "publishedAt": "2026-07-15T13:00:00.000Z"
+    },
+    {
+      "id": "5hfo8v",
+      "title": "The Download: a useful quantum machine and a record-breaking subsea tunnel",
+      "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. PsiQuantum has a plan to make a massive quantum computer out of light The machine that could change the world will be housed in a room that looks like a data…",
+      "imageUrl": "https://images.unsplash.com/photo-1635070041078-e363dbe005cb?w=800&q=80",
+      "source": "MIT Tech Review",
+      "sourceUrl": "https://www.technologyreview.com/2026/07/15/1140498/the-download-useful-quantum-computer-subsea-tunnel/",
+      "publishedAt": "2026-07-15T12:10:00.000Z"
+    },
+    {
+      "id": "d0n2pc",
+      "title": "Indian AI coding startup Emergent becomes a unicorn with $130M Series C",
+      "summary": "The startup has reached a $120 million annualized revenue run rate and more than 200,000 paying customers.",
+      "imageUrl": "https://images.unsplash.com/photo-1655720828018-edd2daec9349?w=800&q=80",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/07/15/indian-ai-coding-startup-emergent-becomes-a-unicorn-just-over-a-year-after-launch/",
+      "publishedAt": "2026-07-15T12:00:00.000Z"
+    },
     {
       "id": "jzsj61",
       "title": "Vint Cerf is working on a plan to unleash AI agents on the open internet",
@@ -12,12 +57,12 @@
       "publishedAt": "2026-07-15T12:00:00.000Z"
     },
     {
-      "id": "d0n2pc",
-      "title": "Indian AI coding startup Emergent becomes a unicorn with $130M Series C",
-      "summary": "The startup has reached a $120 million annualized revenue run rate and more than 200,000 paying customers.",
-      "imageUrl": "https://images.unsplash.com/photo-1655720828018-edd2daec9349?w=800&q=80",
-      "source": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/07/15/indian-ai-coding-startup-emergent-becomes-a-unicorn-just-over-a-year-after-launch/",
+      "id": "y2b3rm",
+      "title": "An Inventor of Apple's FaceID Wants to Analyze Your Brain's Health With AI",
+      "summary": "Gidi Littwin's new AI startup, Hemispheric, makes diagnostic brain scans for conditions like depression, PTSD, and Parkinson’s. He wants the technology to be as cheap and easy as a blood test.",
+      "imageUrl": "https://media.wired.com/photos/6a5639acbebf57977f2b4f6b/master/pass/AppleIDBrainScan.jpg",
+      "source": "Wired",
+      "sourceUrl": "https://www.wired.com/story/the-apple-faceid-veteran-building-a-frontier-ai-model-for-the-human-brain/",
       "publishedAt": "2026-07-15T12:00:00.000Z"
     },
     {
@@ -165,15 +210,6 @@
       "publishedAt": "2026-07-14T17:18:11.000Z"
     },
     {
-      "id": "3crf5f",
-      "title": "Meta’s Adam Mosseri says AI token budgets could soon be capped per engineer",
-      "summary": "Instagram head Adam Mosseri believes companies will eventually need to manage AI token spending the same way they manage payroll or other operating expenses, predicting that engineers could soon face limits on how much they spend using AI tools.",
-      "imageUrl": "https://images.unsplash.com/photo-1531746790095-6c10a4031c5f?w=800&q=80",
-      "source": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/07/14/metas-adam-mosseri-says-ai-token-budgets-could-soon-be-capped-per-engineer/",
-      "publishedAt": "2026-07-14T16:22:15.000Z"
-    },
-    {
       "id": "iq9pkz",
       "title": "YouTube and X Have Become ‘Gateways’ to Nudify Apps",
       "summary": "A new study found that social media platforms are referring people to sites where they can create nonconsensual, sexually explicit deepfakes for as little as $1 an image.",
@@ -181,15 +217,6 @@
       "source": "Wired",
       "sourceUrl": "https://www.wired.com/story/youtube-and-x-have-become-gateways-to-nudify-apps/",
       "publishedAt": "2026-07-14T16:05:18.000Z"
-    },
-    {
-      "id": "hsmi4c",
-      "title": "Google Images gets a Pinterest-like redesign focused on discovery",
-      "summary": "Now, when users navigate to Google Images, they'll see a \"For You\" gallery of images tailored to their interests and browsing history.",
-      "imageUrl": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=800&q=80",
-      "source": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/07/14/google-images-gets-a-pinterest-like-redesign-focused-on-discovery/",
-      "publishedAt": "2026-07-14T16:00:00.000Z"
     },
     {
       "id": "j3fw1q",
@@ -208,15 +235,6 @@
       "source": "The Verge",
       "sourceUrl": "https://www.theverge.com/entertainment/965358/spotify-ai-chatbot-interface-music-audiobooks-podcasts",
       "publishedAt": "2026-07-14T15:47:36.000Z"
-    },
-    {
-      "id": "yzbmmp",
-      "title": "New York State halts construction of all new data centers",
-      "summary": "New York has become the first state to temporarily halt approval of large data centers, as Gov. Kathy Hochul argues the AI-driven building boom shouldn’t come at the expense of higher electricity costs, water supplies, or local control.",
-      "imageUrl": "https://images.unsplash.com/photo-1620712943543-bcc4688e7485?w=800&q=80",
-      "source": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/07/14/new-york-state-halts-construction-of-all-new-data-centers/",
-      "publishedAt": "2026-07-14T15:17:59.000Z"
     },
     {
       "id": "eucuyd",
@@ -372,15 +390,6 @@
       "publishedAt": "2026-07-11T01:07:26.000Z"
     },
     {
-      "id": "9o0b4t",
-      "title": "Apple Is Suing OpenAI for Allegedly Stealing Hardware Secrets",
-      "summary": "The iPhone maker claims OpenAI encouraged poached employees to bring over confidential presentations, secret prototypes, and key supplier details.",
-      "imageUrl": "https://media.wired.com/photos/6a51395dba309b253cb3d458/master/pass/GettyImages-2233062347.jpg",
-      "source": "Wired",
-      "sourceUrl": "https://www.wired.com/story/apple-sues-openai-allegedly-stealing-ip-hardware/",
-      "publishedAt": "2026-07-10T20:44:05.000Z"
-    },
-    {
       "id": "l7eciv",
       "title": "The Download: Claude’s inner workings and OpenAI’s “super app”",
       "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. Anthropic found a hidden space where Claude puzzles over concepts The AI firm Anthropic has got the clearest glimpse yet at what’s really going on inside large language models as they…",
@@ -460,15 +469,6 @@
       "source": "Ars Technica",
       "sourceUrl": "https://arstechnica.com/gadgets/2026/07/thousands-of-routers-bricked-after-government-program-concludes-in-australia/",
       "publishedAt": "2026-07-08T18:10:16.000Z"
-    },
-    {
-      "id": "7uuzmh",
-      "title": "EmTech AI 2026: The Rise of the AI Platform",
-      "summary": "Read the full article from MIT Tech Review.",
-      "imageUrl": "https://images.unsplash.com/photo-1550751827-4bd374c3f58b?w=800&q=80",
-      "source": "MIT Tech Review",
-      "sourceUrl": "https://www.technologyreview.com/2026/07/08/1140223/emtech-ai-2026-the-rise-of-the-ai-platform/",
-      "publishedAt": "2026-07-08T16:26:10.000Z"
     },
     {
       "id": "1d7nb1",
