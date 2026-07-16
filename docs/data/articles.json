@@ -1,7 +1,25 @@
 {
-  "fetchedAt": "2026-07-16T20:28:30.285Z",
+  "fetchedAt": "2026-07-16T23:03:46.745Z",
   "count": 60,
   "articles": [
+    {
+      "id": "ohplie",
+      "title": "Why Apple Sued OpenAI, New York Takes on Data Centers, and What to Know about Cyclosporiasis",
+      "summary": "On today’s Uncanny Valley, we unpack OpenAI’s ongoing drama, both legal and reputational, and whether these developments could further hurt the company—particularly in its fight against Anthropic.",
+      "imageUrl": "https://media.wired.com/photos/6a581351c2deddeba2cfe152/master/pass/Uncanny-Valley-OpenAI-Hectic-Week-2282053697.jpg",
+      "source": "Wired",
+      "sourceUrl": "https://www.wired.com/story/uncanny-valley-podcase-apple-sued-openai-new-york-data-center-moratorium-cyclosporiasis-outbreak/",
+      "publishedAt": "2026-07-16T22:17:27.000Z"
+    },
+    {
+      "id": "iu76ip",
+      "title": "HP fined 1.4 billion rupees for “cartelization” of ink cartridges, toner, PCs",
+      "summary": "Resellers threatened to ditch HP printing supplies for counterfeits.",
+      "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2026/03/GettyImages-458639693-1152x648.jpg",
+      "source": "Ars Technica",
+      "sourceUrl": "https://arstechnica.com/gadgets/2026/07/hp-fined-1-4-billion-rupees-for-cartelization-of-ink-cartridges-toner-pcs/",
+      "publishedAt": "2026-07-16T22:02:31.000Z"
+    },
     {
       "id": "pcjnkv",
       "title": "Now, even Russia's most elite hackers are using Clickfix to infect devices",
@@ -444,15 +462,6 @@
       "publishedAt": "2026-07-14T10:30:00.000Z"
     },
     {
-      "id": "ntqwe",
-      "title": "The Chatbot That Foretold Why People Share Secrets With ChatGPT",
-      "summary": "In the 1960s an MIT professor named Joseph Weizenbaum created a chatbot called ELIZA. The conversations people had with it set precedents for the chatbots to come.",
-      "imageUrl": "https://media.wired.com/photos/6a50305c2d9a50a68798f001/master/pass/inventing_eliza_chatbot_book.jpg",
-      "source": "Wired",
-      "sourceUrl": "https://www.wired.com/story/inventing-eliza-book-excerpt-chatbot/",
-      "publishedAt": "2026-07-14T10:00:00.000Z"
-    },
-    {
       "id": "li4mtx",
       "title": "PsiQuantum has a plan to make a massive quantum computer out of light",
       "summary": "The machine that could change the world will be housed in a room that looks like a data center crossed with an ice cream factory. Inside will be some 100 stainless-steel cabinets, each about six feet tall and connected to a supply of liquid helium that keeps them only a few degrees above absolute zero.…",
@@ -532,15 +541,6 @@
       "source": "Ars Technica",
       "sourceUrl": "https://arstechnica.com/information-technology/2026/07/allstate-accuses-broadcom-of-auditing-it-because-it-quit-vmware-ca/",
       "publishedAt": "2026-07-09T20:28:55.000Z"
-    },
-    {
-      "id": "k44m3f",
-      "title": "Google pays $250K for Linux vulnerability allowing guest VM escapes",
-      "summary": "Both vulnerabilities allow untrusted users to gain root privileges.",
-      "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2023/07/exploit-vulnerability-security.jpg",
-      "source": "Ars Technica",
-      "sourceUrl": "https://arstechnica.com/security/2026/07/high-severity-guest-vm-escape-is-1-of-2-linux-vulnerabilities-to-surface-this-week/",
-      "publishedAt": "2026-07-08T19:01:19.000Z"
     }
   ]
 }
