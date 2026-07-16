@@ -1,7 +1,25 @@
 {
-  "fetchedAt": "2026-07-16T08:29:01.395Z",
+  "fetchedAt": "2026-07-16T10:30:20.499Z",
   "count": 60,
   "articles": [
+    {
+      "id": "3qqvif",
+      "title": "Please Stop Making Me Opt Out of AI",
+      "summary": "I’m sick of “opt-out” toggles for automatically enabled generative AI features. It’s past time to make “opt in” the default setting for sensitive features.",
+      "imageUrl": "https://media.wired.com/photos/6a581a11a304459a2f2ac833/master/pass/Stop-Making-Me-Opt-Out-Gear.gif",
+      "source": "Wired",
+      "sourceUrl": "https://www.wired.com/story/please-stop-making-me-opt-out-of-ai/",
+      "publishedAt": "2026-07-16T10:00:00.000Z"
+    },
+    {
+      "id": "kdpoqw",
+      "title": "Why heat pumps are still so hot in the US",
+      "summary": "It feels as if it should be illegal to even think about heating appliances during the height of summer—seriously, these heat waves in New York have been brutal—but we need to talk about heat pumps. The appliances use electricity for heating, they’re incredibly efficient, and they’re on the rise. (For what it’s worth, many heat…",
+      "imageUrl": "https://images.unsplash.com/photo-1676299081847-824916de030a?w=800&q=80",
+      "source": "MIT Tech Review",
+      "sourceUrl": "https://www.technologyreview.com/2026/07/16/1140505/heat-pump-sales-us/",
+      "publishedAt": "2026-07-16T10:00:00.000Z"
+    },
     {
       "id": "fm8d5e",
       "title": "Applied Computing wants to give oil and gas operators an AI model for the entire plant",
@@ -381,15 +399,6 @@
       "publishedAt": "2026-07-14T08:00:00.000Z"
     },
     {
-      "id": "3qt6be",
-      "title": "Siri AI Is Becoming Apple’s Everything Tool",
-      "summary": "Apple’s revamped Siri is more than a voice assistant; it’s now the backbone of the iPhone user experience. You can try it now through the iOS 27 public beta.",
-      "imageUrl": "https://media.wired.com/photos/6a55464e20012bbe11800495/master/pass/Siri-Apple-Everything-Tool-Gear-2260718787.jpg",
-      "source": "Wired",
-      "sourceUrl": "https://www.wired.com/story/siri-ai-is-now-apple-everything-tool/",
-      "publishedAt": "2026-07-13T21:39:09.000Z"
-    },
-    {
       "id": "mwhac5",
       "title": "The US government warns that Russia state hackers are coming after your router",
       "summary": "With residential proxies all the rage, CISA urges router users to be vigilant.",
@@ -469,15 +478,6 @@
       "source": "MIT Tech Review",
       "sourceUrl": "https://www.technologyreview.com/2026/07/09/1140293/anthropic-found-a-hidden-space-where-claude-puzzles-over-concepts/",
       "publishedAt": "2026-07-09T20:22:28.000Z"
-    },
-    {
-      "id": "ac00nr",
-      "title": "The Download: a nuclear landmark, and China eyes Nvidia chips",
-      "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. Four nuclear reactors hit a big milestone in the US —Casey Crownhart I was really looking forward to July 4, and not just because I love a poolside barbecue. This year…",
-      "imageUrl": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=800&q=80",
-      "source": "MIT Tech Review",
-      "sourceUrl": "https://www.technologyreview.com/2026/07/09/1140283/the-download-nuclear-power-milestone-nvidia-china-ai-chips/",
-      "publishedAt": "2026-07-09T12:10:00.000Z"
     },
     {
       "id": "k44m3f",
