@@ -1,7 +1,61 @@
 {
-  "fetchedAt": "2026-07-16T10:30:20.499Z",
+  "fetchedAt": "2026-07-16T14:34:39.010Z",
   "count": 60,
   "articles": [
+    {
+      "id": "rs97to",
+      "title": "Moonshot’s upcoming Kimi 3 is expected to close the gap with Anthropic’s Opus 4.8",
+      "summary": "The FT reports Kimi K3 will be the largest open AI model from China, with a parameter count between 2 trillion and 3 trillion.",
+      "imageUrl": "https://images.unsplash.com/photo-1531746790095-6c10a4031c5f?w=800&q=80",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/07/16/moonshots-upcoming-kimi-3-is-expected-to-close-the-gap-with-anthropics-opus-4-8/",
+      "publishedAt": "2026-07-16T14:26:29.000Z"
+    },
+    {
+      "id": "qqcrhs",
+      "title": "Apple Intelligence approved for launch in China with Alibaba and Baidu",
+      "summary": "The deal, which was rumored to be in the works last year, marks an important step for Apple's AI ambitions in a key market.",
+      "imageUrl": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=800&q=80",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/07/16/apple-intelligence-approved-for-launch-in-china-with-alibabas-qwen-ai/",
+      "publishedAt": "2026-07-16T13:17:59.000Z"
+    },
+    {
+      "id": "soigx9",
+      "title": "Claude can now use your 1Password credentials for you",
+      "summary": "1Password has launched a new browser integration for Claude that allows the Anthropic chatbot to access stored security credentials like usernames and passwords. The 1Password for Claude feature means that users can authorize Claude to complete multi-step tasks like booking travel and managing online accounts on their behalf without having to manually input their login credentials, but without actually exposing security information to Anthropic's AI models, according to 1Password. That's made…",
+      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/05/STKB364_CLAUDE_2_C_96d15c.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "source": "The Verge",
+      "sourceUrl": "https://www.theverge.com/tech/966442/1password-anthropic-claude-browser-integration",
+      "publishedAt": "2026-07-16T13:00:00.000Z"
+    },
+    {
+      "id": "x9suia",
+      "title": "The Download: OpenAI unveils GPT-Red and heat pumps rise in the US",
+      "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. Meet GPT-Red: an LLM super-hacker OpenAI built to make its models safer OpenAI has built an LLM super-hacker called GPT-Red that it uses as a sparring partner to help its other…",
+      "imageUrl": "https://images.unsplash.com/photo-1550751827-4bd374c3f58b?w=800&q=80",
+      "source": "MIT Tech Review",
+      "sourceUrl": "https://www.technologyreview.com/2026/07/16/1140600/the-download-openai-unveils-gpt-red-heat-pumps-rise-us/",
+      "publishedAt": "2026-07-16T12:10:00.000Z"
+    },
+    {
+      "id": "kszkdf",
+      "title": "Google ordered to open Android and Search to rivals in Europe",
+      "summary": "Google must give rival AI assistants and search engines greater access to key parts of Android and Google Search after the European Union ordered the company to comply with the bloc's digital antitrust rules. The two decisions, handed down Thursday, could weaken Google's control over two of the tech industry's most important platforms and have far-reaching consequences for the company, shape the future of its AI tool Gemini, and open up new opportunities for rivals to gain ground. Google has…",
+      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/STK450_EU_E-2-1.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "source": "The Verge",
+      "sourceUrl": "https://www.theverge.com/policy/966438/eu-google-android-ai-interoperability-search-data-dma",
+      "publishedAt": "2026-07-16T12:06:51.000Z"
+    },
+    {
+      "id": "m8xh40",
+      "title": "Computer cops",
+      "summary": "I stood before a hulking glass and brick structure in the heart of Fort Worth, Texas. Thousands gathered inside to see what had been billed as \"the future of policing in the digital age.\" As press, I was prohibited from entering, but from a number of nearby locations, I met with attendees who told me what was being sold within. And I learned that AI is threatening to seize the very heart of policing in America. The promise of AI at this year's International Association of Chiefs of Police (IACP)…",
+      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/268595_AI_policing_STILL_CVirginia0.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "source": "The Verge",
+      "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/965066/ai-police-cops",
+      "publishedAt": "2026-07-16T11:00:00.000Z"
+    },
     {
       "id": "3qqvif",
       "title": "Please Stop Making Me Opt Out of AI",
@@ -183,15 +237,6 @@
       "publishedAt": "2026-07-15T16:00:00.000Z"
     },
     {
-      "id": "3yeb9q",
-      "title": "Apple Intelligence approved for launch in China with Alibaba’s Qwen AI",
-      "summary": "The deal, which was rumored to be in the works last year, marks an important step for Apple's AI ambitions in a key market.",
-      "imageUrl": "https://images.unsplash.com/photo-1620712943543-bcc4688e7485?w=800&q=80",
-      "source": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/07/15/apple-intelligence-approved-for-launch-in-china-with-alibabas-qwen-ai/",
-      "publishedAt": "2026-07-15T15:29:33.000Z"
-    },
-    {
       "id": "2d4r9s",
       "title": "Inside Ode with Anthropic, the startup betting AI services are the future of enterprise",
       "summary": "Can a handful of engineers really do the work of an army of consultants? That’s the bet behind Ode with Anthropic — the joint venture dedicated to embedding forward-deployed engineers in enterprise firms, backed by Anthropic, Blackstone, Hellman & Friedman, Goldman Sachs and others. On this episode of TechCrunch’s Equity podcast, Rebecca Bellan sits down with Ode’s leaders Chris Taylor and Eddie Siegel, who founded Fractional AI, […]",
@@ -243,15 +288,6 @@
       "imageUrl": "https://images.unsplash.com/photo-1655720828018-edd2daec9349?w=800&q=80",
       "source": "TechCrunch",
       "sourceUrl": "https://techcrunch.com/2026/07/15/indian-ai-coding-startup-emergent-becomes-a-unicorn-just-over-a-year-after-launch/",
-      "publishedAt": "2026-07-15T12:00:00.000Z"
-    },
-    {
-      "id": "jzsj61",
-      "title": "Vint Cerf is working on a plan to unleash AI agents on the open internet",
-      "summary": "The guy behind TCP/IP is working on a standard for identifying AI agents in the wild.",
-      "imageUrl": "https://images.unsplash.com/photo-1531746790095-6c10a4031c5f?w=800&q=80",
-      "source": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/07/15/vint-cerf-is-working-on-a-plan-to-unleash-ai-agents-on-the-open-internet/",
       "publishedAt": "2026-07-15T12:00:00.000Z"
     },
     {
@@ -325,33 +361,6 @@
       "source": "Wired",
       "sourceUrl": "https://www.wired.com/story/youtube-and-x-have-become-gateways-to-nudify-apps/",
       "publishedAt": "2026-07-14T16:05:18.000Z"
-    },
-    {
-      "id": "j3fw1q",
-      "title": "The Google Images homepage will recommend photos even before you search",
-      "summary": "Google is announcing a big change to the Google Images homepage in honor of the platform's 25th anniversary this week. Instead of a mostly blank page with a search bar, the homepage will soon show you a bunch of images that it thinks you might like before you even start searching. The company says the new \"browseable\" homepage features a \"dynamic, immersive gallery of images from across the web - updated in real time and intelligently tailored to your unique interests.\" Based on images Google…",
-      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/New-Google-Images-1.png?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "source": "The Verge",
-      "sourceUrl": "https://www.theverge.com/tech/965138/google-images-homepage-ai-overviews-search-nano-banana",
-      "publishedAt": "2026-07-14T16:00:00.000Z"
-    },
-    {
-      "id": "s7bw9c",
-      "title": "Spotify is now an AI chatbot, too",
-      "summary": "This is what the “Talk to Spotify” chatbox (left) looks like on the homepage. | Image: Spotify Spotify is experimenting with a new AI feature that allows Premium subscribers to play and explore music, audiobooks, and podcasts by having conversations with a chatbot. The \"Talk to Spotify\" feature appears across the Home and Now Playing view on Spotify's mobile app. You can interact with the chatbot by typing your request in the familiar AI text box, or by selecting the mic symbol and speaking.…",
-      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/Talk-to-Spotify.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "source": "The Verge",
-      "sourceUrl": "https://www.theverge.com/entertainment/965358/spotify-ai-chatbot-interface-music-audiobooks-podcasts",
-      "publishedAt": "2026-07-14T15:47:36.000Z"
-    },
-    {
-      "id": "eucuyd",
-      "title": "Sam Altman didn’t need another lawsuit",
-      "summary": "OpenAI has spent the better part of the year involved in lawsuit after lawsuit, including one from the world's richest man. But last Friday, the company was hit with one of the highest-profile legal actions yet - from Apple. OpenAI's expensive hardware bet is what's on the line. Apple's lawsuit against OpenAI, filed in Northern California federal court, accused former Apple employees of \"stealing Apple's trade secrets for the benefit of OpenAI.\" The 41-page complaint states that Apple keeps its…",
-      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/04/STK201_SAM_ALTMAN_CVIRGINIA2D.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "source": "The Verge",
-      "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/965294/openai-apple-trade-secrets-lawsuit-sam-altman-ipo",
-      "publishedAt": "2026-07-14T14:01:07.000Z"
     },
     {
       "id": "tc146c",
@@ -469,15 +478,6 @@
       "source": "Ars Technica",
       "sourceUrl": "https://arstechnica.com/information-technology/2026/07/allstate-accuses-broadcom-of-auditing-it-because-it-quit-vmware-ca/",
       "publishedAt": "2026-07-09T20:28:55.000Z"
-    },
-    {
-      "id": "k42efo",
-      "title": "Anthropic found a hidden space where Claude puzzles over concepts",
-      "summary": "The AI firm Anthropic has developed a technique that has given it the clearest glimpse yet at what’s really going on inside large language models as they answer questions or carry out tasks. What they found ranges from the mundane to the unnerving. Researchers at the company built a tool called the Jacobian lens (or…",
-      "imageUrl": "https://images.unsplash.com/photo-1676299081847-824916de030a?w=800&q=80",
-      "source": "MIT Tech Review",
-      "sourceUrl": "https://www.technologyreview.com/2026/07/09/1140293/anthropic-found-a-hidden-space-where-claude-puzzles-over-concepts/",
-      "publishedAt": "2026-07-09T20:22:28.000Z"
     },
     {
       "id": "k44m3f",
