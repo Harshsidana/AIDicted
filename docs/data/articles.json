@@ -1,7 +1,34 @@
 {
-  "fetchedAt": "2026-07-16T16:23:20.843Z",
+  "fetchedAt": "2026-07-16T17:47:22.393Z",
   "count": 60,
   "articles": [
+    {
+      "id": "je17e2",
+      "title": "The AI compute gap: Enterprises are buying infrastructure faster than they can measure what it costs",
+      "summary": "Across 107 enterprises, AI infrastructure spending is accelerating well ahead of the ability to see or steer its economics. Most organizations run their AI on a familiar base of hyperscalers and model-provider APIs, yet the next dollar is aimed at specialized compute almost none of them use today; a majority intend to switch or add providers within the year, many within a quarter. Buying decisions turn on integration and total cost of ownership rather than headline token price — which is…",
+      "imageUrl": "https://images.ctfassets.net/jdtwqhzvc2n1/65A33lcUi9p0nBSloUI1Wo/5e5d26295bc879f0ea8845cecac65504/VentureBeat-Research.png?w=300&q=30",
+      "source": "VentureBeat",
+      "sourceUrl": "https://venturebeat.com/ai/the-ai-compute-gap-enterprises-are-buying-infrastructure-faster-than-they-can-measure-what-it-costs",
+      "publishedAt": "2026-07-16T17:35:19.000Z"
+    },
+    {
+      "id": "89vzci",
+      "title": "The AI context gap: Enterprise AI organizations have a trust problem, not a retrieval problem — and most are still building the fix",
+      "summary": "Across 101 enterprises, the infrastructure that feeds AI agents their business context is being built faster than it can be trusted. Retrieval-augmented generation is already the default context source, and provider-native retrieval has quietly overtaken the dedicated vector databases that define the category — yet a majority of enterprises have already watched their agents produce confident, wrong answers traced to missing or inconsistent context. A governed semantic layer is emerging as the…",
+      "imageUrl": "https://images.ctfassets.net/jdtwqhzvc2n1/65A33lcUi9p0nBSloUI1Wo/5e5d26295bc879f0ea8845cecac65504/VentureBeat-Research.png?w=300&q=30",
+      "source": "VentureBeat",
+      "sourceUrl": "https://venturebeat.com/ai/the-ai-context-gap-enterprise-ai-organizations-have-a-trust-problem-not-a-retrieval-problem-and-most-are-still-building-the-fix",
+      "publishedAt": "2026-07-16T17:06:08.000Z"
+    },
+    {
+      "id": "h3ef1y",
+      "title": "The agent evaluation gap: Enterprise AI organizations have a reality-alignment problem, not a coverage problem — and most are shipping to production anyway",
+      "summary": "Across 157 enterprises, organizations are granting AI agents more autonomy while trusting the evaluations meant to gate that autonomy less. Half have already shipped an agent that passed their internal evaluations and then failed a customer in production; only one in twenty fully trusts automated evaluation today; and the most-cited weakness is that evaluations do not align with real-world outcomes. Yet two-thirds already allow, or are actively engineering toward, deploying agent changes to…",
+      "imageUrl": "https://images.ctfassets.net/jdtwqhzvc2n1/3YcL8Sbx04RQsgnRvbYfs5/0567154029abc3d37ccfad9b6cc5f370/VentureBeat-Research-1.png?w=300&q=30",
+      "source": "VentureBeat",
+      "sourceUrl": "https://venturebeat.com/ai/the-agent-evaluation-gap-enterprise-ai-organizations-have-a-reality-alignment-problem-not-a-coverage-problem-and-most-are-shipping-to-production-anyway",
+      "publishedAt": "2026-07-16T16:40:48.000Z"
+    },
     {
       "id": "3m89xi",
       "title": "Google’s AI Mode now lets you link and interact with select apps",
@@ -19,6 +46,15 @@
       "source": "The Verge",
       "sourceUrl": "https://www.theverge.com/tech/966112/google-gemini-notebook-notebooklm",
       "publishedAt": "2026-07-16T16:00:00.000Z"
+    },
+    {
+      "id": "pxcb6p",
+      "title": "Energy IPOs surge as investors hunt for ways to play AI boom",
+      "summary": "Companies coming to market are raising money at fastest pace this century.",
+      "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2026/07/ftcms_2c2b4618-eb73-4160-997a-8f8bb5485e20-1152x648.jpeg",
+      "source": "Ars Technica",
+      "sourceUrl": "https://arstechnica.com/information-technology/2026/07/energy-ipos-surge-as-investors-hunt-for-ways-to-play-ai-boom/",
+      "publishedAt": "2026-07-16T15:48:21.000Z"
     },
     {
       "id": "dtpxx7",
@@ -150,7 +186,7 @@
       "id": "g82naz",
       "title": "Agentic orchestration: Enterprise AI organizations have a deployment problem, not a platform problem — and most are calling chatbots agents",
       "summary": "Across 101 enterprises, agent orchestration is consolidating onto model-provider platforms — Anthropic’s Claude leads by a wide margin — chosen for the gravity of the underlying model and judged on reliable multi-step execution. But the ambition runs well ahead of the reality: most deployed “agents” are still chatbot wrappers, the control plane enterprises expect is deliberately hybrid to avoid lock-in, and real-time fiscal control over token burn remains the exception.This wave of VentureBeat…",
-      "imageUrl": "https://images.ctfassets.net/jdtwqhzvc2n1/3YcL8Sbx04RQsgnRvbYfs5/6620b35dd75cc138cb57cf72a9773f07/VentureBeat-Research-1.png?w=300&q=30",
+      "imageUrl": "https://images.ctfassets.net/jdtwqhzvc2n1/3YcL8Sbx04RQsgnRvbYfs5/0567154029abc3d37ccfad9b6cc5f370/VentureBeat-Research-1.png?w=300&q=30",
       "source": "VentureBeat",
       "sourceUrl": "https://venturebeat.com/ai/agentic-orchestration-enterprise-ai-organizations-have-a-deployment-problem-not-a-platform-problem-and-most-are-calling-chatbots-agents",
       "publishedAt": "2026-07-15T22:24:17.000Z"
@@ -505,42 +541,6 @@
       "source": "Ars Technica",
       "sourceUrl": "https://arstechnica.com/science/2026/07/us-rare-earths-flow-to-asia-as-domestic-demand-is-slow-to-emerge/",
       "publishedAt": "2026-07-08T13:26:10.000Z"
-    },
-    {
-      "id": "duee5q",
-      "title": "Hackers can use 9 of the most popular AI tools to assemble massive botnets",
-      "summary": "\"HalluSquatting\" weaponizes LLMs' inability to say \"I don't know.\"",
-      "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2026/07/rogue-ai-agent-1152x648.jpg",
-      "source": "Ars Technica",
-      "sourceUrl": "https://arstechnica.com/security/2026/07/hackers-can-use-9-of-the-most-popular-ai-tools-to-assemble-massive-botnets/",
-      "publishedAt": "2026-07-08T07:00:51.000Z"
-    },
-    {
-      "id": "pputl7",
-      "title": "Newly discovered PamStealer isn't your typical macOS malware",
-      "summary": "The discovery underscores the increased effort being poured into Mac infostealers.",
-      "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2022/04/GettyImages-1299483011-1152x648.jpg",
-      "source": "Ars Technica",
-      "sourceUrl": "https://arstechnica.com/security/2026/07/new-pamstealer-macos-malware-uses-clever-tradecraft-to-remain-stealthy/",
-      "publishedAt": "2026-07-02T19:38:57.000Z"
-    },
-    {
-      "id": "4y0r1z",
-      "title": "T-Mobile moving tens of thousands of virtual machines off VMware amid lawsuit",
-      "summary": "T-Mobile wants Broadcom to keep supporting its VMware perpetual licenses.",
-      "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2023/09/getty-t-mobile-sign-1152x648.jpg",
-      "source": "Ars Technica",
-      "sourceUrl": "https://arstechnica.com/information-technology/2026/07/t-mobile-moving-tens-of-thousands-of-virtual-machines-off-vmware-amid-lawsuit/",
-      "publishedAt": "2026-07-01T21:21:21.000Z"
-    },
-    {
-      "id": "71o0ah",
-      "title": "New attack provides one more reason why AI browsers are a bad idea",
-      "summary": "Telling an LLM that 2 + 2 = 5 is enough to make it follow forbidden instructions.",
-      "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2026/06/broken-ai-robot-browser-404-1152x648.jpg",
-      "source": "Ars Technica",
-      "sourceUrl": "https://arstechnica.com/security/2026/06/ai-browsers-can-be-lulled-into-a-dream-world-where-guardrails-no-longer-apply/",
-      "publishedAt": "2026-06-30T20:03:14.000Z"
     }
   ]
 }
