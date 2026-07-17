@@ -1,7 +1,16 @@
 {
-  "fetchedAt": "2026-07-17T20:28:24.533Z",
+  "fetchedAt": "2026-07-17T21:25:20.283Z",
   "count": 60,
   "articles": [
+    {
+      "id": "gvjfxq",
+      "title": "The Zoom hack that says, ‘Don’t record me’",
+      "summary": "If every meeting, watercooler conversation, and date gets transcribed and summarized, who's actually reading any of it?",
+      "imageUrl": "https://images.unsplash.com/photo-1526374965328-7f61d4dc18c5?w=800&q=80",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/07/17/the-zoom-hack-that-says-dont-record-me/",
+      "publishedAt": "2026-07-17T21:20:47.000Z"
+    },
     {
       "id": "agx02b",
       "title": "Agility Robotics plants its flag in Tesla’s backyard",
@@ -19,6 +28,15 @@
       "source": "TechCrunch",
       "sourceUrl": "https://techcrunch.com/2026/07/17/ai-driven-memory-crunch-jolts-indias-smartphone-market/",
       "publishedAt": "2026-07-17T20:09:27.000Z"
+    },
+    {
+      "id": "l423vt",
+      "title": "TikTok is testing an AI likeness detection tool",
+      "summary": "TikTok is starting to test an opt-in tool that scans for AI likenesses and lets creators report them to the company, as spotted by social media consultant Matt Navarra. The tool is initially being tested with \"some\" US creators, TikTok US spokesperson Zachary Kizer tells The Verge. YouTube has been working on a similar tool and recently made it available to all adult users. Creators who are part of TikTok's test and want to use the tool will first have to verify their identity with a company…",
+      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/23951408/STK051_VRG_Illo_N_Barclay_4_tiktok.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "source": "The Verge",
+      "sourceUrl": "https://www.theverge.com/tech/967486/tiktok-ai-likeness-detection-tool",
+      "publishedAt": "2026-07-17T19:34:30.000Z"
     },
     {
       "id": "hktjvx",
@@ -282,15 +300,6 @@
       "publishedAt": "2026-07-16T14:26:29.000Z"
     },
     {
-      "id": "qqcrhs",
-      "title": "Apple Intelligence approved for launch in China with Alibaba and Baidu",
-      "summary": "The deal, which was rumored to be in the works last year, marks an important step for Apple's AI ambitions in a key market.",
-      "imageUrl": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=800&q=80",
-      "source": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/07/16/apple-intelligence-approved-for-launch-in-china-with-alibabas-qwen-ai/",
-      "publishedAt": "2026-07-16T13:17:59.000Z"
-    },
-    {
       "id": "soigx9",
       "title": "Claude can now use your 1Password credentials for you",
       "summary": "1Password has launched a new browser integration for Claude that allows the Anthropic chatbot to access stored security credentials like usernames and passwords. The 1Password for Claude feature means that users can authorize Claude to complete multi-step tasks like booking travel and managing online accounts on their behalf without having to manually input their login credentials, but without actually exposing security information to Anthropic's AI models, according to 1Password. That's made…",
@@ -424,15 +433,6 @@
       "source": "MIT Tech Review",
       "sourceUrl": "https://www.technologyreview.com/2026/07/15/1140514/meet-gpt-red-an-llm-super-hacker-openai-built-to-make-its-models-safer/",
       "publishedAt": "2026-07-15T17:09:37.000Z"
-    },
-    {
-      "id": "dmiv7p",
-      "title": "OpenAI finally launches hardware… for Codex",
-      "summary": "OpenAI is finally releasing some hardware. No, it isn't the mysterious AI-powered device the company is developing with former Apple designer Jony Ive, a project already tangled up in a messy lawsuit. Instead, it's a product designed to be used with its coding platform, Codex. The device, a square-shaped block of buttons called Codex Micro, is a collaboration between the AI company and keyboard maker Work Louder. OpenAI said it is a limited-run collaboration that will give users more ways to…",
-      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/Supply-Co-Page_Brand.png?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "source": "The Verge",
-      "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/965901/openai-hardware-codex-micro-launch",
-      "publishedAt": "2026-07-15T16:00:00.000Z"
     },
     {
       "id": "5hfo8v",
