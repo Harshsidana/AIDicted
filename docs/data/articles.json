@@ -1,7 +1,16 @@
 {
-  "fetchedAt": "2026-07-17T21:25:20.283Z",
+  "fetchedAt": "2026-07-17T22:24:37.475Z",
   "count": 60,
   "articles": [
+    {
+      "id": "qkqvp1",
+      "title": "Databricks hits $188B valuation, extending its run as AI’s favorite second act",
+      "summary": "Databricks has remade its image into an AI company and has published research on the cost savings of open weight AI models for coding.",
+      "imageUrl": "https://images.unsplash.com/photo-1485827404703-89b55fcc595e?w=800&q=80",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/07/17/databricks-hits-188b-valuation-extending-its-run-as-ais-favorite-second-act/",
+      "publishedAt": "2026-07-17T22:12:56.000Z"
+    },
     {
       "id": "gvjfxq",
       "title": "The Zoom hack that says, ‘Don’t record me’",
@@ -289,15 +298,6 @@
       "source": "TechCrunch",
       "sourceUrl": "https://techcrunch.com/2026/07/16/why-ami-labs-alexandre-lebrun-wont-call-his-ai-agi-or-superintelligence/",
       "publishedAt": "2026-07-16T14:40:00.000Z"
-    },
-    {
-      "id": "rs97to",
-      "title": "Moonshot’s upcoming Kimi 3 is expected to close the gap with Anthropic’s Opus 4.8",
-      "summary": "The FT reports Kimi K3 will be the largest open AI model from China, with a parameter count between 2 trillion and 3 trillion.",
-      "imageUrl": "https://images.unsplash.com/photo-1531746790095-6c10a4031c5f?w=800&q=80",
-      "source": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/07/16/moonshots-upcoming-kimi-3-is-expected-to-close-the-gap-with-anthropics-opus-4-8/",
-      "publishedAt": "2026-07-16T14:26:29.000Z"
     },
     {
       "id": "soigx9",
