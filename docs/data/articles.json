@@ -1,7 +1,16 @@
 {
-  "fetchedAt": "2026-07-17T14:48:49.184Z",
+  "fetchedAt": "2026-07-17T16:20:52.922Z",
   "count": 60,
   "articles": [
+    {
+      "id": "2ul8ry",
+      "title": "Patreon stops asking AI bots not to scrape — and starts blocking them",
+      "summary": "Patreon is strengthening its defenses against AI scraping by working with Cloudflare to block bots that train AI models on creators’ content without permission. The move marks a shift away from relying on websites using robots.txt alone to actively block unauthorized AI training.",
+      "imageUrl": "https://images.unsplash.com/photo-1635070041078-e363dbe005cb?w=800&q=80",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/07/17/patreon-stops-asking-ai-bots-not-to-scrape-and-starts-blocking-them/",
+      "publishedAt": "2026-07-17T15:21:17.000Z"
+    },
     {
       "id": "tmf8mp",
       "title": "The Download: perimenopause misinformation and China’s latest AI leap",
@@ -388,15 +397,6 @@
       "source": "Wired",
       "sourceUrl": "https://www.wired.com/story/thinking-machines-lab-releases-its-first-model-inkling/",
       "publishedAt": "2026-07-15T18:05:00.000Z"
-    },
-    {
-      "id": "gbafhr",
-      "title": "Thinking Machines amps up its bet against one-size-fits-all AI with its first open model, Inkling",
-      "summary": "It's the company's first public proof point after a year and a half spent building AI infrastructure largely out of public view.",
-      "imageUrl": "https://images.unsplash.com/photo-1676299081847-824916de030a?w=800&q=80",
-      "source": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/07/15/thinking-machines-amps-up-its-bet-against-one-size-fits-all-ai-with-its-first-open-model-inkling/",
-      "publishedAt": "2026-07-15T18:04:06.000Z"
     },
     {
       "id": "9geoo3",
