@@ -1,7 +1,34 @@
 {
-  "fetchedAt": "2026-07-17T07:23:12.934Z",
+  "fetchedAt": "2026-07-17T09:28:11.344Z",
   "count": 60,
   "articles": [
+    {
+      "id": "5uy8ls",
+      "title": "A Humanoid Company Backed by Eric Trump Is Preparing Its Robots for War",
+      "summary": "The CEO of Foundation Future Industries, which counts the president’s son as its chief strategy adviser, tells WIRED it’s exploring some “kinetic things.”",
+      "imageUrl": "https://media.wired.com/photos/6a42d5f50a2d48b162fabdd7/master/pass/Eric-Trump-Wants-to-Create-Terminator-Business.jpg",
+      "source": "Wired",
+      "sourceUrl": "https://www.wired.com/story/humanoid-robot-soldier-eric-trump-foundation-future-industries/",
+      "publishedAt": "2026-07-17T09:00:00.000Z"
+    },
+    {
+      "id": "gjc4lh",
+      "title": "There’s a lot of hype around perimenopause. Don’t buy it.",
+      "summary": "Perimenopause has entered the chat. Perimenopause—and its better-known relative, menopause—used to be considered taboo. Not anymore, thanks at least in part to TV doctors and social media influencers. Perhaps it’s my age, but these days, both my algorithm and my conversations with friends increasingly swing toward perimenopause. Menopause is defined as the life stage that…",
+      "imageUrl": "https://images.unsplash.com/photo-1526374965328-7f61d4dc18c5?w=800&q=80",
+      "source": "MIT Tech Review",
+      "sourceUrl": "https://www.technologyreview.com/2026/07/17/1140608/theres-a-lot-of-hype-around-perimenopause-dont-buy-it/",
+      "publishedAt": "2026-07-17T09:00:00.000Z"
+    },
+    {
+      "id": "mved85",
+      "title": "The risk of weather data sabotage is rising",
+      "summary": "Every morning, airline dispatchers, grid operators, and farmers around the world make decisions based on the same thing: a weather forecast. While these forecasts are something that most people glance at for two seconds, weather predictions influence major strategic decisions in many industries, with real money, livelihoods, and even actual lives at stake. Farmers use…",
+      "imageUrl": "https://images.unsplash.com/photo-1485827404703-89b55fcc595e?w=800&q=80",
+      "source": "MIT Tech Review",
+      "sourceUrl": "https://www.technologyreview.com/2026/07/17/1140622/weather-data-sabotage/",
+      "publishedAt": "2026-07-17T08:57:32.000Z"
+    },
     {
       "id": "ohplie",
       "title": "Why Apple Sued OpenAI, New York Takes on Data Centers, and What to Know about Cyclosporiasis",
@@ -453,15 +480,6 @@
       "publishedAt": "2026-07-14T12:10:00.000Z"
     },
     {
-      "id": "o8kmn1",
-      "title": "This Luddite Puppet Hopes You’re Not Reading This on Your Smartphone",
-      "summary": "On this week’s episode of The Big Interview podcast, WIRED’s senior culture editor Manisha Krishnan talks to Gowanus about eschewing Big Tech, going outside, and rejection in the age of dating apps.",
-      "imageUrl": "https://media.wired.com/photos/6a51166bd12b964679cc95c9/master/pass/Big-Interview-UV-Gowanus-Culture.jpg",
-      "source": "Wired",
-      "sourceUrl": "https://www.wired.com/story/the-big-interview-podcast-summer-of-ludd-gowanus/",
-      "publishedAt": "2026-07-14T10:30:00.000Z"
-    },
-    {
       "id": "li4mtx",
       "title": "PsiQuantum has a plan to make a massive quantum computer out of light",
       "summary": "The machine that could change the world will be housed in a room that looks like a data center crossed with an ice cream factory. Inside will be some 100 stainless-steel cabinets, each about six feet tall and connected to a supply of liquid helium that keeps them only a few degrees above absolute zero.…",
@@ -505,24 +523,6 @@
       "source": "MIT Tech Review",
       "sourceUrl": "https://www.technologyreview.com/2026/07/13/1140339/the-download-sperm-donor-limits-ai-world-models/",
       "publishedAt": "2026-07-13T12:10:00.000Z"
-    },
-    {
-      "id": "l7eciv",
-      "title": "The Download: Claude’s inner workings and OpenAI’s “super app”",
-      "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. Anthropic found a hidden space where Claude puzzles over concepts The AI firm Anthropic has got the clearest glimpse yet at what’s really going on inside large language models as they…",
-      "imageUrl": "https://images.unsplash.com/photo-1531746790095-6c10a4031c5f?w=800&q=80",
-      "source": "MIT Tech Review",
-      "sourceUrl": "https://www.technologyreview.com/2026/07/10/1140316/the-download-anthropic-claude-hidden-space-openai-super-app/",
-      "publishedAt": "2026-07-10T12:10:00.000Z"
-    },
-    {
-      "id": "gfuekq",
-      "title": "Sperm donors need limits, says a European fertility group",
-      "summary": "Ties van der Meer doesn’t know how many siblings he has. The 47-year-old was conceived at a private fertility clinic in the Netherlands using sperm provided by an anonymous donor. After the Netherlands banned anonymous donation in 2004, the doctor who ran the clinic destroyed records that might have identified those donors, he says. He…",
-      "imageUrl": "https://images.unsplash.com/photo-1550751827-4bd374c3f58b?w=800&q=80",
-      "source": "MIT Tech Review",
-      "sourceUrl": "https://www.technologyreview.com/2026/07/10/1140289/sperm-donors-need-limits-says-a-european-fertility-group/",
-      "publishedAt": "2026-07-10T09:00:00.000Z"
     },
     {
       "id": "jl8euk",
