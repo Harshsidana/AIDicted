@@ -1,7 +1,16 @@
 {
-  "fetchedAt": "2026-07-18T08:25:04.141Z",
+  "fetchedAt": "2026-07-18T10:02:08.820Z",
   "count": 60,
   "articles": [
+    {
+      "id": "ms115j",
+      "title": "Prompt Injection Attacks Are Thwarting AI Hacking Agents",
+      "summary": "“Context bombing” tricks malicious AI agents into shutting down before they can do harm.",
+      "imageUrl": "https://media.wired.com/photos/6a5a67417083bdea755dfcd2/master/pass/Security_AIInjection-v1.gif",
+      "source": "Wired",
+      "sourceUrl": "https://www.wired.com/story/prompt-injection-attacks-are-thwarting-ai-hacking-agents/",
+      "publishedAt": "2026-07-18T09:00:00.000Z"
+    },
     {
       "id": "xe5ml6",
       "title": "Neil Rimer thinks the AI money is coming back out",
@@ -460,15 +469,6 @@
       "source": "Wired",
       "sourceUrl": "https://www.wired.com/story/ebike-delivery-missing-when-i-tried-to-recover-it-i-ended-up-in-chatbot-hell/",
       "publishedAt": "2026-07-15T10:00:00.000Z"
-    },
-    {
-      "id": "m44833",
-      "title": "OpenAI Staffers Are Funding a Rival Super PAC to Take on Their Boss",
-      "summary": "OpenAI employees have donated more than $215,000 to a political effort opposing Leading the Future, a group backed by the company’s president, Greg Brockman.",
-      "imageUrl": "https://media.wired.com/photos/6a554454e782ee66fec754f3/master/pass/OpenAI-Employees-Launch-Super-PAC-to-Push-for-AI-Guardrails-Business-2274040983.jpg",
-      "source": "Wired",
-      "sourceUrl": "https://www.wired.com/story/openai-employees-donations-guardrails-alliance-leading-the-future/",
-      "publishedAt": "2026-07-15T09:00:00.000Z"
     },
     {
       "id": "3spktc",
