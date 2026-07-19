@@ -1,7 +1,16 @@
 {
-  "fetchedAt": "2026-07-19T12:28:54.665Z",
+  "fetchedAt": "2026-07-19T14:07:09.557Z",
   "count": 60,
   "articles": [
+    {
+      "id": "c3i76q",
+      "title": "Nonprofit Current AI is racing to build the World Wide Web of AI, free for all",
+      "summary": "Current AI, a non-profit building AI that leaves no one culture behind, has made remarkable progress across devices, AI chat and more.",
+      "imageUrl": "https://images.unsplash.com/photo-1526374965328-7f61d4dc18c5?w=800&q=80",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/07/19/nonprofit-current-ai-is-racing-to-build-the-world-wide-web-of-ai-free-for-all/",
+      "publishedAt": "2026-07-19T14:00:00.000Z"
+    },
     {
       "id": "wzypf5",
       "title": "Dave Eggers told OpenAI staff that ChatGPT was ‘silencing an entire generation’",
@@ -334,15 +343,6 @@
       "source": "Ars Technica",
       "sourceUrl": "https://arstechnica.com/information-technology/2026/07/energy-ipos-surge-as-investors-hunt-for-ways-to-play-ai-boom/",
       "publishedAt": "2026-07-16T15:48:21.000Z"
-    },
-    {
-      "id": "dtpxx7",
-      "title": "Yes, you can now order DoorDash from the command line",
-      "summary": "DoorDash is opening a limited beta of dd-cli, a command-line tool that lets developers and AI agents search stores, build carts, and place orders from the terminal, marking another step toward software designed for AI agents instead of just humans.",
-      "imageUrl": "https://images.unsplash.com/photo-1676299081847-824916de030a?w=800&q=80",
-      "source": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/07/16/yes-you-can-now-order-doordash-from-the-command-line/",
-      "publishedAt": "2026-07-16T15:38:55.000Z"
     },
     {
       "id": "soigx9",
