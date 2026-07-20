@@ -1,7 +1,25 @@
 {
-  "fetchedAt": "2026-07-20T06:55:07.713Z",
+  "fetchedAt": "2026-07-20T10:17:47.583Z",
   "count": 60,
   "articles": [
+    {
+      "id": "2ds1ls",
+      "title": "China delivers a one-two punch to America’s AI dominance",
+      "summary": "China's leading AI companies are ramping up the pressure on Silicon Valley, as Moonshot and Alibaba unveiled models they claim can go toe-to-toe with the best from OpenAI and Anthropic at a fraction of the cost. The rapid-fire releases suggest America's lead at the AI frontier is increasingly tight, just as the technology is becoming central to national security, economic power, and geopolitical influence. The opening salvo came from Beijing-based Moonshot AI, one of China's leading AI model…",
+      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/gettyimages-2286623351.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "source": "The Verge",
+      "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/967781/chinese-ai-models-open-source-moonshot-kimi-k3-alibaba-qwen",
+      "publishedAt": "2026-07-20T10:16:33.000Z"
+    },
+    {
+      "id": "28ja1m",
+      "title": "AI is more likely than humans to form biases when hiring",
+      "summary": "The next time you apply for a job, AI may screen your résumé before any human sees it. But there’s good reason to question whether AI will judge you fairly. Researchers already know that LLMs pick up human biases from their training data. New research suggests that LLMs can also develop their own biases from…",
+      "imageUrl": "https://images.unsplash.com/photo-1531746790095-6c10a4031c5f?w=800&q=80",
+      "source": "MIT Tech Review",
+      "sourceUrl": "https://www.technologyreview.com/2026/07/20/1140655/ai-biases-hiring-humans/",
+      "publishedAt": "2026-07-20T08:39:01.000Z"
+    },
     {
       "id": "gdk0qq",
       "title": "What to watch for after Jensen Huang’s Japan visit",
@@ -381,15 +399,6 @@
       "publishedAt": "2026-07-16T12:06:51.000Z"
     },
     {
-      "id": "m8xh40",
-      "title": "Computer cops",
-      "summary": "I stood before a hulking glass and brick structure in the heart of Fort Worth, Texas. Thousands gathered inside to see what had been billed as \"the future of policing in the digital age.\" As press, I was prohibited from entering, but from a number of nearby locations, I met with attendees who told me what was being sold within. And I learned that AI is threatening to seize the very heart of policing in America. The promise of AI at this year's International Association of Chiefs of Police (IACP)…",
-      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/268595_AI_policing_STILL_CVirginia0.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "source": "The Verge",
-      "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/965066/ai-police-cops",
-      "publishedAt": "2026-07-16T11:00:00.000Z"
-    },
-    {
       "id": "3qqvif",
       "title": "Please Stop Making Me Opt Out of AI",
       "summary": "I’m sick of “opt-out” toggles for automatically enabled generative AI features. It’s past time to make “opt in” the default setting for sensitive features.",
@@ -505,15 +514,6 @@
       "source": "Ars Technica",
       "sourceUrl": "https://arstechnica.com/security/2026/07/the-us-government-warns-that-russia-state-hackers-are-coming-after-your-router/",
       "publishedAt": "2026-07-13T21:03:07.000Z"
-    },
-    {
-      "id": "ulyncs",
-      "title": "What Anthropic’s latest AI discovery does—and doesn’t—show",
-      "summary": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here. Anthropic—currently the world’s most valuable AI company, with a nearly $1 trillion valuation—has a reputation for publishing strange and heady research. It’s looking into whether AI models can feel pain, for example,…",
-      "imageUrl": "https://images.unsplash.com/photo-1526374965328-7f61d4dc18c5?w=800&q=80",
-      "source": "MIT Tech Review",
-      "sourceUrl": "https://www.technologyreview.com/2026/07/13/1140343/what-anthropics-latest-ai-discovery-does-and-doesnt-show/",
-      "publishedAt": "2026-07-13T18:00:00.000Z"
     },
     {
       "id": "1g2y8k",
