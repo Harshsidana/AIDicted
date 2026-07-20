@@ -1,7 +1,25 @@
 {
-  "fetchedAt": "2026-07-20T19:14:11.584Z",
+  "fetchedAt": "2026-07-20T20:49:34.187Z",
   "count": 60,
   "articles": [
+    {
+      "id": "usv1v1",
+      "title": "X relaunches a rebuilt Android app after year-long effort",
+      "summary": "X says the rebuilt version of its Android app is now available globally.",
+      "imageUrl": "https://images.unsplash.com/photo-1526374965328-7f61d4dc18c5?w=800&q=80",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/07/20/x-relaunches-a-rebuilt-android-app-after-year-long-effort/",
+      "publishedAt": "2026-07-20T19:37:39.000Z"
+    },
+    {
+      "id": "4sxmgz",
+      "title": "OpenAI is scared of open-weight models. Should the US be?",
+      "summary": "Talk of banning Chinese-made open-weight LLMs reveals the challenge of turning AI into a business.",
+      "imageUrl": "https://images.unsplash.com/photo-1526374965328-7f61d4dc18c5?w=800&q=80",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/07/20/openai-is-scared-of-open-weight-models-should-the-us-be/",
+      "publishedAt": "2026-07-20T19:33:25.000Z"
+    },
     {
       "id": "898qp4",
       "title": "China’s AI models have Trump’s AI world at war with itself",
@@ -19,6 +37,15 @@
       "source": "The Verge",
       "sourceUrl": "https://www.theverge.com/tech/967791/adobe-indigo-camera-app-ai-playground-update",
       "publishedAt": "2026-07-20T16:00:00.000Z"
+    },
+    {
+      "id": "9juzhg",
+      "title": "Adobe camera app’s new feature will critique your photos using AI",
+      "summary": "Adobe's Project Indigo can now remove all kinds of backgrounds from photos you snap using the app.",
+      "imageUrl": "https://images.unsplash.com/photo-1531746790095-6c10a4031c5f?w=800&q=80",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/07/20/adobe-camera-apps-new-feature-will-critique-your-photos-using-ai/",
+      "publishedAt": "2026-07-20T15:45:00.000Z"
     },
     {
       "id": "9s01b9",
@@ -219,15 +246,6 @@
       "publishedAt": "2026-07-17T19:34:30.000Z"
     },
     {
-      "id": "hktjvx",
-      "title": "How Apple’s big lawsuit could disrupt OpenAI’s IPO plans",
-      "summary": "Apple filed a trade secrets lawsuit against OpenAI last Friday, and it’s not messing around. The complaint alleges a pattern of misconduct reaching all the way up to OpenAI’s chief hardware officer and claims more than 400 former Apple employees now work at the company. OpenAI’s response so far has been carefully hedged, and the timing couldn’t be worse with the company reportedly eyeing an IPO […]",
-      "imageUrl": "https://images.unsplash.com/photo-1620712943543-bcc4688e7485?w=800&q=80",
-      "source": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/video/how-apples-big-lawsuit-could-disrupt-openais-ipo-plans/",
-      "publishedAt": "2026-07-17T17:45:46.000Z"
-    },
-    {
       "id": "l9alxl",
       "title": "Apple’s plot to crush OpenAI",
       "summary": "Apple is suing OpenAI. The complaint is readable and intense, as these things often are, though many experts seem to think many of the allegations are just the ways things are done. So what does Apple really want here, and why is it picking such a public fight with OpenAI? On this episode of The Vergecast, Nilay and David go through the lawsuit, and look at Apple's history of splashy litigation to determine whether Apple is worried about a possible competitor or simply looking to capitalize on a…",
@@ -235,24 +253,6 @@
       "source": "The Verge",
       "sourceUrl": "https://www.theverge.com/podcast/967244/apple-openai-lawsuit-vergecast",
       "publishedAt": "2026-07-17T17:41:32.000Z"
-    },
-    {
-      "id": "2ul8ry",
-      "title": "Patreon stops asking AI bots not to scrape — and starts blocking them",
-      "summary": "Patreon is strengthening its defenses against AI scraping by working with Cloudflare to block bots that train AI models on creators’ content without permission. The move marks a shift away from relying on websites using robots.txt alone to actively block unauthorized AI training.",
-      "imageUrl": "https://images.unsplash.com/photo-1635070041078-e363dbe005cb?w=800&q=80",
-      "source": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/07/17/patreon-stops-asking-ai-bots-not-to-scrape-and-starts-blocking-them/",
-      "publishedAt": "2026-07-17T15:21:17.000Z"
-    },
-    {
-      "id": "2h0ft5",
-      "title": "Apple’s lawsuit couldn’t come at a worse time for OpenAI",
-      "summary": "Apple filed a trade secrets lawsuit against OpenAI last Friday, and it’s not messing around. The complaint alleges a pattern of misconduct reaching all the way up to OpenAI’s chief hardware officer and claims more than 400 former Apple employees now work at the company. OpenAI’s response so far has been carefully hedged, and the timing couldn’t be worse with the company reportedly eyeing an IPO […]",
-      "imageUrl": "https://images.unsplash.com/photo-1550751827-4bd374c3f58b?w=800&q=80",
-      "source": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/podcast/apples-lawsuit-couldnt-come-at-a-worse-time-for-openai/",
-      "publishedAt": "2026-07-17T14:00:00.000Z"
     },
     {
       "id": "tmf8mp",
