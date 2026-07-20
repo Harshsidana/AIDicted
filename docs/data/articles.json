@@ -1,7 +1,34 @@
 {
-  "fetchedAt": "2026-07-20T15:16:33.612Z",
+  "fetchedAt": "2026-07-20T19:14:11.584Z",
   "count": 60,
   "articles": [
+    {
+      "id": "898qp4",
+      "title": "China’s AI models have Trump’s AI world at war with itself",
+      "summary": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here. Over the weekend, several current and former advisors to President Donald Trump on AI publicly lobbed insults at the country’s leading AI companies. David Sacks, the president’s AI and crypto “czar” until…",
+      "imageUrl": "https://images.unsplash.com/photo-1655720828018-edd2daec9349?w=800&q=80",
+      "source": "MIT Tech Review",
+      "sourceUrl": "https://www.technologyreview.com/2026/07/20/1140675/chinas-ai-models-have-trumps-ai-world-at-war-with-itself/",
+      "publishedAt": "2026-07-20T18:00:00.000Z"
+    },
+    {
+      "id": "mftjk",
+      "title": "Adobe’s ‘natural look’ camera app embraces generative AI",
+      "summary": "Welcome to the “what is a photo” debate, Adobe. | Image: Adobe Adobe's experimental camera app has taken an unexpected turn. After Project Indigo was launched last year to provide a \"more natural (SLR-like) look\" for iPhone photography, the Indigo camera app is now being updated with a suite of generative AI tools. And the change doesn't rely upon Adobe's own Firefly AI models. Adobe describes the new \"AI Playground\" tooling suite as an experiment and says there's a button that allows users to…",
+      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/Adobe-Indigo-AI-Playground-hero.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "source": "The Verge",
+      "sourceUrl": "https://www.theverge.com/tech/967791/adobe-indigo-camera-app-ai-playground-update",
+      "publishedAt": "2026-07-20T16:00:00.000Z"
+    },
+    {
+      "id": "9s01b9",
+      "title": "YouTube clarifies policies around AI slop and upsetting videos",
+      "summary": "YouTube has updated its monetization policies to more clearly define the kinds of AI-generated and low-quality videos that can’t earn ad revenue.",
+      "imageUrl": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=800&q=80",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/07/20/youtube-clarifies-policies-around-ai-slop-and-upsetting-videos/",
+      "publishedAt": "2026-07-20T15:23:06.000Z"
+    },
     {
       "id": "jtcsug",
       "title": "The Download: AI hiring biases, and weather data sabotage",
@@ -149,7 +176,7 @@
     {
       "id": "qkqvp1",
       "title": "Databricks hits $188B valuation, extending its run as AI’s favorite second act",
-      "summary": "Databricks has remade its image into an AI company and has published research on the cost savings of open weight AI models for coding.",
+      "summary": "Databricks has remade its image into an AI company and has published research on the cost savings of open-weight AI models for coding.",
       "imageUrl": "https://images.unsplash.com/photo-1485827404703-89b55fcc595e?w=800&q=80",
       "source": "TechCrunch",
       "sourceUrl": "https://techcrunch.com/2026/07/17/databricks-hits-188b-valuation-extending-its-run-as-ais-favorite-second-act/",
@@ -235,15 +262,6 @@
       "source": "MIT Tech Review",
       "sourceUrl": "https://www.technologyreview.com/2026/07/17/1140640/the-download-perimenopause-misinformation-china-moonshot-ai/",
       "publishedAt": "2026-07-17T12:10:00.000Z"
-    },
-    {
-      "id": "wujaor",
-      "title": "Why the first GPU financiers are turning to inference chips in a $400 million deal",
-      "summary": "A $400 million chip-backed loan points to the next wave of AI infrastructure deals.",
-      "imageUrl": "https://images.unsplash.com/photo-1620712943543-bcc4688e7485?w=800&q=80",
-      "source": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/07/17/why-the-first-gpu-financiers-are-turning-to-inference-chips-in-a-400-million-deal/",
-      "publishedAt": "2026-07-17T12:00:00.000Z"
     },
     {
       "id": "tblwg7",
@@ -399,15 +417,6 @@
       "publishedAt": "2026-07-16T12:10:00.000Z"
     },
     {
-      "id": "kszkdf",
-      "title": "Google ordered to open Android and Search to rivals in Europe",
-      "summary": "Google must give rival AI assistants and search engines greater access to key parts of Android and Google Search after the European Union ordered the company to comply with the bloc's digital antitrust rules. The two decisions, handed down Thursday, could weaken Google's control over two of the tech industry's most important platforms and have far-reaching consequences for the company, shape the future of its AI tool Gemini, and open up new opportunities for rivals to gain ground. Google has…",
-      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/STK450_EU_E-2-1.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "source": "The Verge",
-      "sourceUrl": "https://www.theverge.com/policy/966438/eu-google-android-ai-interoperability-search-data-dma",
-      "publishedAt": "2026-07-16T12:06:51.000Z"
-    },
-    {
       "id": "3qqvif",
       "title": "Please Stop Making Me Opt Out of AI",
       "summary": "I’m sick of “opt-out” toggles for automatically enabled generative AI features. It’s past time to make “opt in” the default setting for sensitive features.",
@@ -496,15 +505,6 @@
       "source": "Ars Technica",
       "sourceUrl": "https://arstechnica.com/security/2026/07/microsoft-secure-boot-has-been-broken-for-most-of-its-existence/",
       "publishedAt": "2026-07-14T22:20:48.000Z"
-    },
-    {
-      "id": "tc146c",
-      "title": "The Download: Claude’s inner workings, and the future of world models",
-      "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. What Anthropic’s latest AI discovery does—and doesn’t—show —James O’Donnell When Anthropic announced last week that it had found a new window into its models’ “internal thoughts” as they reason through answers,…",
-      "imageUrl": "https://images.unsplash.com/photo-1620712943543-bcc4688e7485?w=800&q=80",
-      "source": "MIT Tech Review",
-      "sourceUrl": "https://www.technologyreview.com/2026/07/14/1140391/the-download-anthropic-claude-internal-thoughts-world-models/",
-      "publishedAt": "2026-07-14T12:10:00.000Z"
     },
     {
       "id": "mwhac5",
