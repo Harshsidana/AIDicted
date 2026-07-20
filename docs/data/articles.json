@@ -1,7 +1,16 @@
 {
-  "fetchedAt": "2026-07-20T10:17:47.583Z",
+  "fetchedAt": "2026-07-20T12:33:40.130Z",
   "count": 60,
   "articles": [
+    {
+      "id": "jtcsug",
+      "title": "The Download: AI hiring biases, and weather data sabotage",
+      "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. AI is more likely than humans to form biases when hiring The next time you apply for a job, AI may screen your résumé before any human sees it. But there’s…",
+      "imageUrl": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=800&q=80",
+      "source": "MIT Tech Review",
+      "sourceUrl": "https://www.technologyreview.com/2026/07/20/1140664/the-download-ai-hiring-biases-weather-data-sabotage/",
+      "publishedAt": "2026-07-20T12:10:00.000Z"
+    },
     {
       "id": "2ds1ls",
       "title": "China delivers a one-two punch to America’s AI dominance",
@@ -496,15 +505,6 @@
       "source": "MIT Tech Review",
       "sourceUrl": "https://www.technologyreview.com/2026/07/14/1140391/the-download-anthropic-claude-internal-thoughts-world-models/",
       "publishedAt": "2026-07-14T12:10:00.000Z"
-    },
-    {
-      "id": "li4mtx",
-      "title": "PsiQuantum has a plan to make a massive quantum computer out of light",
-      "summary": "The machine that could change the world will be housed in a room that looks like a data center crossed with an ice cream factory. Inside will be some 100 stainless-steel cabinets, each about six feet tall and connected to a supply of liquid helium that keeps them only a few degrees above absolute zero.…",
-      "imageUrl": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=800&q=80",
-      "source": "MIT Tech Review",
-      "sourceUrl": "https://www.technologyreview.com/2026/07/14/1140356/psiquantum-plan-massive-quantum-computer-out-of-light/",
-      "publishedAt": "2026-07-14T08:00:00.000Z"
     },
     {
       "id": "mwhac5",
