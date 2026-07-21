@@ -1,7 +1,34 @@
 {
-  "fetchedAt": "2026-07-21T18:20:56.276Z",
+  "fetchedAt": "2026-07-21T20:02:20.814Z",
   "count": 60,
   "articles": [
+    {
+      "id": "tick33",
+      "title": "Jack Dorsey is taking on Slack with Buzz, a group chat platform for teams and their AI agents",
+      "summary": "Buzz is a group chat platform for the workplace that puts humans and their AI agents in the same conversation.",
+      "imageUrl": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=800&q=80",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/07/21/jack-dorsey-is-taking-on-slack-with-buzz-a-group-chat-platform-for-teams-and-their-ai-agents/",
+      "publishedAt": "2026-07-21T19:43:41.000Z"
+    },
+    {
+      "id": "bfodw4",
+      "title": "AI and the rise of the universal entertainment app",
+      "summary": "Over the past decade, streaming platforms competed by dominating individual formats like music, video, podcasts, or audiobooks. Now, as AI makes it easier to create, organize, and recommend content, those distinctions are fading, pushing companies like Spotify, Netflix, YouTube, and TikTok to become all-purpose entertainment destinations instead.",
+      "imageUrl": "https://images.unsplash.com/photo-1550751827-4bd374c3f58b?w=800&q=80",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/07/21/ai-and-the-rise-of-the-universal-entertainment-app/",
+      "publishedAt": "2026-07-21T19:39:30.000Z"
+    },
+    {
+      "id": "y2vrcg",
+      "title": "This Former Intel CEO Wants to Jumpstart Moore’s Law With Light",
+      "summary": "Pat Gelsinger wants to pave the way to ever more powerful artificial intelligence using tiny beams of light.",
+      "imageUrl": "https://media.wired.com/photos/6a56bc3736e98c56882c9897/master/pass/Pat-Gelsinger-Q&A-Business-2280683501.jpg",
+      "source": "Wired",
+      "sourceUrl": "https://www.wired.com/story/pat-gelsinger-moores-law-light-chips/",
+      "publishedAt": "2026-07-21T19:05:00.000Z"
+    },
     {
       "id": "6m2nsh",
       "title": "Data centers expected to use 4x more electricity by 2035",
@@ -300,24 +327,6 @@
       "publishedAt": "2026-07-20T08:39:01.000Z"
     },
     {
-      "id": "gdk0qq",
-      "title": "What to watch for after Jensen Huang’s Japan visit",
-      "summary": "Jensen Huang left Tokyo with deals spanning Japan's entire tech ecosystem.",
-      "imageUrl": "https://images.unsplash.com/photo-1676299081847-824916de030a?w=800&q=80",
-      "source": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/07/19/what-to-watch-for-after-jensen-huangs-japan-visit/",
-      "publishedAt": "2026-07-19T21:16:07.000Z"
-    },
-    {
-      "id": "vk0216",
-      "title": "Can an Apple lawsuit derail OpenAI’s hardware plans?",
-      "summary": "On the latest episode of Equity, we debate whether Apple's lawsuit will cast a shadow over OpenAi's much-discussed plans to get into hardware and go public.",
-      "imageUrl": "https://images.unsplash.com/photo-1676299081847-824916de030a?w=800&q=80",
-      "source": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/07/19/can-an-apple-lawsuit-derail-openais-hardware-plans/",
-      "publishedAt": "2026-07-19T19:24:45.000Z"
-    },
-    {
       "id": "31yo8v",
       "title": "I hate that I don’t hate this song made with Suno",
       "summary": "1010Benja won’t apologize for using AI. | Image: 1010Benja / Instagram I would never go so far as to say there's no place for AI in music (I'm a fan of Holly Herndon, after all). But I generally find music made with generative AI to be offensively boring, especially the outputs of Suno. So I'm having a bit of a tough time processing the fact that I actually quite enjoy 1010Benja's \"Semiramis' Dream.\" Benja has been unapologetic about his use of generative AI on his latest EP, Time Has Nothing To…",
@@ -370,15 +379,6 @@
       "source": "MIT Tech Review",
       "sourceUrl": "https://www.technologyreview.com/2026/07/17/1140640/the-download-perimenopause-misinformation-china-moonshot-ai/",
       "publishedAt": "2026-07-17T12:10:00.000Z"
-    },
-    {
-      "id": "tblwg7",
-      "title": "San Francisco Demands Apple and Google Delete AI ‘Nudify’ Apps From App Stores",
-      "summary": "The City Attorney’s Office sent the tech giants cease-and-desist letters this week telling them to stop profiting from 13 “face-swap” apps that are overwhelmingly used to target women and girls.",
-      "imageUrl": "https://media.wired.com/photos/6a59432865c28720eb4e8366/master/pass/Security_San%20Francisco%20Tells%20Apple%20and%20Google%20To%20Stop%20Profiting%20From%20AI%20Nudifiers_v7.jpg",
-      "source": "Wired",
-      "sourceUrl": "https://www.wired.com/story/san-francisco-demands-apple-and-google-delete-ai-nudify-apps-from-app-stores/",
-      "publishedAt": "2026-07-17T10:00:00.000Z"
     },
     {
       "id": "gjc4lh",
