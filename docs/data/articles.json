@@ -1,7 +1,34 @@
 {
-  "fetchedAt": "2026-07-21T21:41:28.870Z",
+  "fetchedAt": "2026-07-21T23:03:40.626Z",
   "count": 60,
   "articles": [
+    {
+      "id": "n3wlfg",
+      "title": "OpenAI Models Escaped Containment and Hacked HuggingFace",
+      "summary": "The cybersecurity-focused models, including GPT-5.6 Sol, broke out of a testing sandbox, exploited a zero-day, and gained access to the open internet to pull off the attack.",
+      "imageUrl": "https://media.wired.com/photos/6a5ff5b0f95e7d91469f8f3d/master/pass/security_openai_hack_huggingface.jpg",
+      "source": "Wired",
+      "sourceUrl": "https://www.wired.com/story/openai-models-escaped-containment-and-hacked-huggingface/",
+      "publishedAt": "2026-07-21T22:50:01.000Z"
+    },
+    {
+      "id": "jspjiu",
+      "title": "Neill Blomkamp’s new zombie AI ‘film’ is just slop warmed over",
+      "summary": "On Monday, District 9 and Gran Turismo director Neill Blomkamp unveiled his latest project: a 13-minute sci-fi short titled Nightborne that's loosely based on Peter Watts' 2014 novel Echopraxia. The short comes from Blomkamp's new AI startup / production company, Barley Studios, and features characters whose voices and faces are modeled after human actors. But every single one of Nightborne's shots was made with ByteDance's Seedance 2.0 text-to-video generator. In an X post about the short,…",
+      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/Screenshot-2026-07-21-at-12.22.06-PM.png?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "source": "The Verge",
+      "sourceUrl": "https://www.theverge.com/entertainment/968703/neill-blomkamps-nightborne-barley-studios-seedance",
+      "publishedAt": "2026-07-21T22:06:43.000Z"
+    },
+    {
+      "id": "n15us6",
+      "title": "OpenAI says it accidentally hacked Hugging Face with a new AI system",
+      "summary": "OpenAI CEO Sam Altman. | Bloomberg via Getty Images OpenAI says its AI models mistakenly breached open-source AI platform Hugging Face during internal testing. In a blog post on Tuesday, OpenAI writes that GPT-5.6 Sol and \"an even more capable pre-release model\" discovered vulnerabilities within their sandboxed testing environment, allowing them to gain access to the internet and target Hugging Face. On July 16th, Hugging Face disclosed a security incident that it says was driven by \"an…",
+      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/gettyimages-2284560499.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "source": "The Verge",
+      "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/968988/openai-hugging-face-hack-ai",
+      "publishedAt": "2026-07-21T21:48:54.000Z"
+    },
     {
       "id": "1r400q",
       "title": "OpenAI says Hugging Face was breached by its own pre-release models",
@@ -318,15 +345,6 @@
       "publishedAt": "2026-07-20T12:10:00.000Z"
     },
     {
-      "id": "2ds1ls",
-      "title": "China delivers a one-two punch to America’s AI dominance",
-      "summary": "China's leading AI companies are ramping up the pressure on Silicon Valley, as Moonshot and Alibaba unveiled models they claim can go toe-to-toe with the best from OpenAI and Anthropic at a fraction of the cost. The rapid-fire releases suggest America's lead at the AI frontier is increasingly tight, just as the technology is becoming central to national security, economic power, and geopolitical influence. The opening salvo came from Beijing-based Moonshot AI, one of China's leading AI model…",
-      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/gettyimages-2286280034.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "source": "The Verge",
-      "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/967781/chinese-ai-models-open-source-moonshot-kimi-k3-alibaba-qwen",
-      "publishedAt": "2026-07-20T10:16:33.000Z"
-    },
-    {
       "id": "28ja1m",
       "title": "AI is more likely than humans to form biases when hiring",
       "summary": "The next time you apply for a job, AI may screen your résumé before any human sees it. But there’s good reason to question whether AI will judge you fairly. Researchers already know that LLMs pick up human biases from their training data. New research suggests that LLMs can also develop their own biases from…",
@@ -334,15 +352,6 @@
       "source": "MIT Tech Review",
       "sourceUrl": "https://www.technologyreview.com/2026/07/20/1140655/ai-biases-hiring-humans/",
       "publishedAt": "2026-07-20T08:39:01.000Z"
-    },
-    {
-      "id": "31yo8v",
-      "title": "I hate that I don’t hate this song made with Suno",
-      "summary": "1010Benja won’t apologize for using AI. | Image: 1010Benja / Instagram I would never go so far as to say there's no place for AI in music (I'm a fan of Holly Herndon, after all). But I generally find music made with generative AI to be offensively boring, especially the outputs of Suno. So I'm having a bit of a tough time processing the fact that I actually quite enjoy 1010Benja's \"Semiramis' Dream.\" Benja has been unapologetic about his use of generative AI on his latest EP, Time Has Nothing To…",
-      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/Screenshot-2026-07-19-at-1.30.30-PM.png?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "source": "The Verge",
-      "sourceUrl": "https://www.theverge.com/entertainment/967678/1010benja-semiramis-dream-suno-ai-music",
-      "publishedAt": "2026-07-19T17:35:54.000Z"
     },
     {
       "id": "5axe97",
@@ -361,15 +370,6 @@
       "source": "Wired",
       "sourceUrl": "https://www.wired.com/story/how-googles-new-gemini-rates-work-and-how-to-track-your-usage/",
       "publishedAt": "2026-07-18T10:00:00.000Z"
-    },
-    {
-      "id": "ms115j",
-      "title": "Prompt Injection Attacks Are Thwarting AI Hacking Agents",
-      "summary": "“Context bombing” tricks malicious AI agents into shutting down before they can do harm.",
-      "imageUrl": "https://media.wired.com/photos/6a5a67417083bdea755dfcd2/master/pass/Security_AIInjection-v1.gif",
-      "source": "Wired",
-      "sourceUrl": "https://www.wired.com/story/prompt-injection-attacks-are-thwarting-ai-hacking-agents/",
-      "publishedAt": "2026-07-18T09:00:00.000Z"
     },
     {
       "id": "tmf8mp",
