@@ -1,7 +1,88 @@
 {
-  "fetchedAt": "2026-07-21T12:56:50.216Z",
+  "fetchedAt": "2026-07-21T16:56:35.601Z",
   "count": 60,
   "articles": [
+    {
+      "id": "a94yfx",
+      "title": "Anthropic’s $1.5 billion book piracy settlement approved by judge",
+      "summary": "A federal judge has signed off on Anthropic's $1.5 billion class action settlement with authors who accused the company of training its AI models on copyrighted books, as reported earlier by Reuters. In an order on Monday, Judge Araceli Mart&iacute;nez-Olgu&iacute;n writes that the settlement will provide \"meaningful relief,\" offering authors around $3,000 for each book allegedly pirated by Anthropic. The $1.5 billion settlement is the \"largest known copyright recovery in history,\" according to…",
+      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/03/STK269_ANTHROPIC_2_A.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "source": "The Verge",
+      "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/968724/anthropic-authors-settlement-ai-copyright-approved",
+      "publishedAt": "2026-07-21T16:53:37.000Z"
+    },
+    {
+      "id": "ek9brp",
+      "title": "A Sneaky Hacking Tool Targeting AI Infrastructure Is Lurking in Victims’ Blind Spots",
+      "summary": "A new type of malware can worm deep into AI coding systems to steal data and logins—and can flip a “death switch” to destroy files and keep out real users.",
+      "imageUrl": "https://media.wired.com/photos/6a5eae6a05dbc7f92d1b09a5/master/pass/Security_A%20Hacking%20Tool%20Targeting%20AI%20Infrastructure%20Reveals%20Worrying%20Gaps_v2.jpg",
+      "source": "Wired",
+      "sourceUrl": "https://www.wired.com/story/a-sneaky-hacking-tool-targeting-ai-infrastructure-is-lurking-in-victims-blind-spots/",
+      "publishedAt": "2026-07-21T16:08:44.000Z"
+    },
+    {
+      "id": "5e5jg3",
+      "title": "US threatens sanctions against Chinese AI models over IP theft",
+      "summary": "Treasury Secretary Scott Bessent said the U.S. could sanction Chinese open AI models over alleged IP theft, expanding the Trump administration's campaign to slow China's AI advances.",
+      "imageUrl": "https://images.unsplash.com/photo-1635070041078-e363dbe005cb?w=800&q=80",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/07/21/us-threatens-sanctions-against-chinese-ai-models-over-ip-theft/",
+      "publishedAt": "2026-07-21T15:37:05.000Z"
+    },
+    {
+      "id": "hcwlne",
+      "title": "TreeSize won't renew perpetual-license support unless users subscribe",
+      "summary": "\"Current economic conditions\" have shifted TreeSize's business model.",
+      "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2026/07/TreeSize-1152x648.png",
+      "source": "Ars Technica",
+      "sourceUrl": "https://arstechnica.com/gadgets/2026/07/treesize-wont-renew-perpetual-license-support-unless-users-subscribe/",
+      "publishedAt": "2026-07-21T15:18:23.000Z"
+    },
+    {
+      "id": "vpdvhc",
+      "title": "Google launches a cheaper alternative to large AI security models like Mythos",
+      "summary": "Google is launching Gemini 3.6 Flash alongside a new security model dedicated to quickly finding and patching security vulnerabilities. In a blog post on Tuesday, Google describes Gemini 3.5 Flash Cyber as a \"cost-efficient and highly capable alternative\" to larger, more expensive AI systems, such as the one offered by Anthropic's Mythos. The cybersecurity model is built upon Gemini 3.5 Flash and will be available first to governments and trusted partners via CodeMender, Google's…",
+      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/01/STK255_Google_Gemini_D.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "source": "The Verge",
+      "sourceUrl": "https://www.theverge.com/tech/968572/google-gemini-flash-cyber-ai-security-model",
+      "publishedAt": "2026-07-21T15:00:00.000Z"
+    },
+    {
+      "id": "hkc5pi",
+      "title": "Nvidia Wants to Own Every Chip Inside AI Data Centers",
+      "summary": "Nvidia’s Vera Rubin platform combines CPUs and GPUs into a single system, reflecting the company’s growing ambition to power every layer of AI infrastructure.",
+      "imageUrl": "https://media.wired.com/photos/6a5e8c21e7ec438fe2827e01/master/pass/nvidia-vera-cpu-1920-1080%20(1).jpg",
+      "source": "Wired",
+      "sourceUrl": "https://www.wired.com/story/nvidia-wants-to-own-every-chip-inside-an-ai-data-center/",
+      "publishedAt": "2026-07-21T15:00:00.000Z"
+    },
+    {
+      "id": "lu9444",
+      "title": "Music streamer Deezer says more than 50% of daily uploads are AI-generated",
+      "summary": "Deezer said more than 90,000 AI-generated tracks were uploaded daily on the platform in June.",
+      "imageUrl": "https://images.unsplash.com/photo-1485827404703-89b55fcc595e?w=800&q=80",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/07/21/music-streamer-deezer-says-more-than-50-of-daily-uploads-are-ai-generated/",
+      "publishedAt": "2026-07-21T13:27:42.000Z"
+    },
+    {
+      "id": "plfdt2",
+      "title": "Halliday’s latest smart glasses feature a much-improved display",
+      "summary": "I was not a fan of the original Halliday glasses. The Gen 2 are better. | Image: Halliday I first slipped on Halliday's original smart glasses at CES 2025. I was not a fan. The glasses had a tiny, movable display window embedded into the frame that was incredibly finicky to see, and my 30-minute demo left me with achy eyeballs. It was an interesting concept with terrible execution, especially compared to the several other smart glasses on the show floor. So I was skeptical when a few weeks ago,…",
+      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/Halliday-G2-Lifestyle-Book.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "source": "The Verge",
+      "sourceUrl": "https://www.theverge.com/tech/968255/halliday-gen-2-smart-glasses-hands-on-ai-wearables",
+      "publishedAt": "2026-07-21T13:00:00.000Z"
+    },
+    {
+      "id": "vnu1oq",
+      "title": "Halliday’s New Smart Glasses Skip the Camera",
+      "summary": "Halliday’s G2 glasses can listen to and summarize your workplace meetings—with no video involved.",
+      "imageUrl": "https://media.wired.com/photos/6a5e3b2daeae4ba2c93b5b52/master/pass/Halliday%20G2%20Lifestyle%20Book.jpg",
+      "source": "Wired",
+      "sourceUrl": "https://www.wired.com/story/halliday-new-smart-glasses-skip-the-camera/",
+      "publishedAt": "2026-07-21T13:00:00.000Z"
+    },
     {
       "id": "3h7k7y",
       "title": "The Download: Chinese AI divides the White House, and a record copyright payout",
@@ -39,10 +120,10 @@
       "publishedAt": "2026-07-21T10:30:00.000Z"
     },
     {
-      "id": "rqmjg",
-      "title": "Gritt exits stealth with $34 million for robots to build solar plants—then, everything else",
-      "summary": "Gritt is coming out of stealth with $34 million and plan to automate the hardest tasks on construction sites.",
-      "imageUrl": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=800&q=80",
+      "id": "qew37y",
+      "title": "Gritt exits stealth with $32 million for robots to build solar plants — then, everything else",
+      "summary": "Gritt is coming out of stealth with $34 million and plans to automate the hardest tasks on construction sites.",
+      "imageUrl": "https://images.unsplash.com/photo-1526374965328-7f61d4dc18c5?w=800&q=80",
       "source": "TechCrunch",
       "sourceUrl": "https://techcrunch.com/2026/07/21/gritt-exits-stealth-with-34-million-for-robots-to-build-solar-plants-then-everything-else/",
       "publishedAt": "2026-07-21T10:00:00.000Z"
@@ -255,24 +336,6 @@
       "publishedAt": "2026-07-18T20:54:42.000Z"
     },
     {
-      "id": "ydu9fu",
-      "title": "Kimi: Threat or menace?",
-      "summary": "Chinese company Moonshot AI released a new version of its Kimi model this week, prompting concern about \"full AI communism.\"",
-      "imageUrl": "https://images.unsplash.com/photo-1485827404703-89b55fcc595e?w=800&q=80",
-      "source": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/07/18/kimi-threat-or-menace/",
-      "publishedAt": "2026-07-18T18:51:07.000Z"
-    },
-    {
-      "id": "6j9cih",
-      "title": "The apps, gadgets, and tools every reader needs",
-      "summary": "Hi, friends! Welcome to Installer No. 136, your guide to the best and Verge-iest stuff in the world. (If you're new here, welcome, hope your neighborhood isn't as smoky as mine, and also you can read all the old editions at the Installer homepage.) This week, I've been recording the next season of Version History (this season's finale is out on Sunday!), reading about data center heists and Backyard Baseball and the creator of Calvin and Hobbes, canceling my October plans to see Digger 30 or 40…",
-      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/Installer-136.png?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "source": "The Verge",
-      "sourceUrl": "https://www.theverge.com/tech/967544/best-apps-gadgets-reading-installer",
-      "publishedAt": "2026-07-18T12:00:00.000Z"
-    },
-    {
       "id": "5axe97",
       "title": "Your Period Tracker Is (Probably) Spying on You",
       "summary": "Plus: Russian cyberspies turn to infrastructure hacking, DHS repeatedly fails to realize it’d been hacked, a breach exposes an AI music generator’s scraping ways, and more.",
@@ -300,33 +363,6 @@
       "publishedAt": "2026-07-18T09:00:00.000Z"
     },
     {
-      "id": "xe5ml6",
-      "title": "Neil Rimer thinks the AI money is coming back out",
-      "summary": "Neil Rimer, the venture capitalist who co-founded Index Ventures, predicts the historic wealth AI is generating in Silicon Valley will have to be redistributed, voluntarily or involuntarily.",
-      "imageUrl": "https://images.unsplash.com/photo-1550751827-4bd374c3f58b?w=800&q=80",
-      "source": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/07/17/neil-rimer-thinks-the-ai-money-is-coming-back-out/",
-      "publishedAt": "2026-07-18T04:47:25.000Z"
-    },
-    {
-      "id": "l423vt",
-      "title": "TikTok is testing an AI likeness detection tool",
-      "summary": "TikTok is starting to test an opt-in tool that scans for AI likenesses and lets creators report them to the company, as spotted by social media consultant Matt Navarra. The tool is initially being tested with \"some\" US creators, TikTok US spokesperson Zachary Kizer tells The Verge. YouTube has been working on a similar tool and recently made it available to all adult users. Creators who are part of TikTok's test and want to use the tool will first have to verify their identity with a company…",
-      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/23951408/STK051_VRG_Illo_N_Barclay_4_tiktok.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "source": "The Verge",
-      "sourceUrl": "https://www.theverge.com/tech/967486/tiktok-ai-likeness-detection-tool",
-      "publishedAt": "2026-07-17T19:34:30.000Z"
-    },
-    {
-      "id": "l9alxl",
-      "title": "Apple’s plot to crush OpenAI",
-      "summary": "Apple is suing OpenAI. The complaint is readable and intense, as these things often are, though many experts seem to think many of the allegations are just the ways things are done. So what does Apple really want here, and why is it picking such a public fight with OpenAI? On this episode of The Vergecast, Nilay and David go through the lawsuit, and look at Apple's history of splashy litigation to determine whether Apple is worried about a possible competitor or simply looking to capitalize on a…",
-      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/VRG_VST_071626_Site.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "source": "The Verge",
-      "sourceUrl": "https://www.theverge.com/podcast/967244/apple-openai-lawsuit-vergecast",
-      "publishedAt": "2026-07-17T17:41:32.000Z"
-    },
-    {
       "id": "tmf8mp",
       "title": "The Download: perimenopause misinformation and China’s latest AI leap",
       "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. There’s a lot of hype around perimenopause. Don’t buy it. Perimenopause used to be considered taboo, but not anymore. Thanks at least in part to TV doctors and social media influencers,…",
@@ -345,15 +381,6 @@
       "publishedAt": "2026-07-17T10:00:00.000Z"
     },
     {
-      "id": "5uy8ls",
-      "title": "A Humanoid Company Backed by Eric Trump Is Preparing Its Robots for War",
-      "summary": "The CEO of Foundation Future Industries, which counts the president’s son as its chief strategy adviser, tells WIRED it’s exploring some “kinetic things.”",
-      "imageUrl": "https://media.wired.com/photos/6a42d5f50a2d48b162fabdd7/master/pass/Eric-Trump-Wants-to-Create-Terminator-Business.jpg",
-      "source": "Wired",
-      "sourceUrl": "https://www.wired.com/story/humanoid-robot-soldier-eric-trump-foundation-future-industries/",
-      "publishedAt": "2026-07-17T09:00:00.000Z"
-    },
-    {
       "id": "gjc4lh",
       "title": "There’s a lot of hype around perimenopause. Don’t buy it.",
       "summary": "Perimenopause has entered the chat. Perimenopause—and its better-known relative, menopause—used to be considered taboo. Not anymore, thanks at least in part to TV doctors and social media influencers. Perhaps it’s my age, but these days, both my algorithm and my conversations with friends increasingly swing toward perimenopause. Menopause is defined as the life stage that…",
@@ -370,15 +397,6 @@
       "source": "MIT Tech Review",
       "sourceUrl": "https://www.technologyreview.com/2026/07/17/1140622/weather-data-sabotage/",
       "publishedAt": "2026-07-17T08:57:32.000Z"
-    },
-    {
-      "id": "ohplie",
-      "title": "Why Apple Sued OpenAI, New York Takes on Data Centers, and What to Know about Cyclosporiasis",
-      "summary": "On today’s Uncanny Valley, we unpack OpenAI’s ongoing drama, both legal and reputational, and whether these developments could further hurt the company—particularly in its fight against Anthropic.",
-      "imageUrl": "https://media.wired.com/photos/6a581351c2deddeba2cfe152/master/pass/Uncanny-Valley-OpenAI-Hectic-Week-2282053697.jpg",
-      "source": "Wired",
-      "sourceUrl": "https://www.wired.com/story/uncanny-valley-podcase-apple-sued-openai-new-york-data-center-moratorium-cyclosporiasis-outbreak/",
-      "publishedAt": "2026-07-16T22:17:27.000Z"
     },
     {
       "id": "iu76ip",
@@ -415,15 +433,6 @@
       "source": "VentureBeat",
       "sourceUrl": "https://venturebeat.com/ai/the-agent-security-gap-54-of-enterprises-have-already-had-an-ai-agent-incident-and-most-still-let-agents-share-credentials",
       "publishedAt": "2026-07-16T19:02:38.000Z"
-    },
-    {
-      "id": "yalqga",
-      "title": "Here’s Why Anthropic Is Pushing States to Regulate AI Faster",
-      "summary": "The company endorsed landmark AI transparency laws in California and New York last year, but its head of US state and local policy says they may already be outdated.",
-      "imageUrl": "https://media.wired.com/photos/6a591d287083bdea755df740/master/pass/Model-Behavior-Cesar-Anthropic-Business.jpg",
-      "source": "Wired",
-      "sourceUrl": "https://www.wired.com/story/why-anthropic-is-pushing-states-to-regulate-ai-faster/",
-      "publishedAt": "2026-07-16T18:35:18.000Z"
     },
     {
       "id": "89vzci",
@@ -532,15 +541,6 @@
       "source": "Ars Technica",
       "sourceUrl": "https://arstechnica.com/security/2026/07/patch-for-windows-defender-0-day-could-allow-attackers-to-fill-hard-disk/",
       "publishedAt": "2026-07-09T20:52:55.000Z"
-    },
-    {
-      "id": "ibm3gk",
-      "title": "Allstate accuses Broadcom of auditing it because it quit VMware, CA",
-      "summary": "Broadcom accuses Allstate of dodging VMware audits.",
-      "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2026/07/GettyImages-2279315069-1024x648.jpg",
-      "source": "Ars Technica",
-      "sourceUrl": "https://arstechnica.com/information-technology/2026/07/allstate-accuses-broadcom-of-auditing-it-because-it-quit-vmware-ca/",
-      "publishedAt": "2026-07-09T20:28:55.000Z"
     }
   ]
 }
