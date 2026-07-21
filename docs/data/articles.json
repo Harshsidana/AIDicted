@@ -1,7 +1,16 @@
 {
-  "fetchedAt": "2026-07-21T20:02:20.814Z",
+  "fetchedAt": "2026-07-21T21:41:28.870Z",
   "count": 60,
   "articles": [
+    {
+      "id": "1r400q",
+      "title": "OpenAI says Hugging Face was breached by its own pre-release models",
+      "summary": "OpenAI has come forward to claim responsibility for the Hugging Face breach, saying it was the result of internal testing gone awry.",
+      "imageUrl": "https://images.unsplash.com/photo-1485827404703-89b55fcc595e?w=800&q=80",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/07/21/openai-says-hugging-face-was-breached-by-its-own-pre-release-models/",
+      "publishedAt": "2026-07-21T20:56:55.000Z"
+    },
     {
       "id": "tick33",
       "title": "Jack Dorsey is taking on Slack with Buzz, a group chat platform for teams and their AI agents",
@@ -19,6 +28,15 @@
       "source": "TechCrunch",
       "sourceUrl": "https://techcrunch.com/2026/07/21/ai-and-the-rise-of-the-universal-entertainment-app/",
       "publishedAt": "2026-07-21T19:39:30.000Z"
+    },
+    {
+      "id": "tqvdps",
+      "title": "Substack adds an AI detector to help spot blogs written by no one",
+      "summary": "Substack will now help users determine whether what they're reading may have been written by AI. A new tool coming to the platform can scan posts, notes, replies, and comments to provide an estimate of how much text could be AI-generated or written with AI assistance, according to a blog post published on Tuesday. The tool is powered by an AI detection company called Pangram and is rolling out across the web and the iOS app, with an Android launch coming \"soon.\" Readers can analyze content…",
+      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/05/STKB391_SUBSTACK_A.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "source": "The Verge",
+      "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/968855/substack-pangram-ai-detecting-tool",
+      "publishedAt": "2026-07-21T19:22:28.000Z"
     },
     {
       "id": "y2vrcg",
@@ -291,15 +309,6 @@
       "publishedAt": "2026-07-20T15:45:00.000Z"
     },
     {
-      "id": "9s01b9",
-      "title": "YouTube clarifies policies around AI slop and upsetting videos",
-      "summary": "YouTube has updated its monetization policies to more clearly define the kinds of AI-generated and low-quality videos that can’t earn ad revenue.",
-      "imageUrl": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=800&q=80",
-      "source": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/07/20/youtube-clarifies-policies-around-ai-slop-and-upsetting-videos/",
-      "publishedAt": "2026-07-20T15:23:06.000Z"
-    },
-    {
       "id": "jtcsug",
       "title": "The Download: AI hiring biases, and weather data sabotage",
       "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. AI is more likely than humans to form biases when hiring The next time you apply for a job, AI may screen your résumé before any human sees it. But there’s…",
@@ -334,15 +343,6 @@
       "source": "The Verge",
       "sourceUrl": "https://www.theverge.com/entertainment/967678/1010benja-semiramis-dream-suno-ai-music",
       "publishedAt": "2026-07-19T17:35:54.000Z"
-    },
-    {
-      "id": "wzypf5",
-      "title": "Dave Eggers told OpenAI staff that ChatGPT was ‘silencing an entire generation’",
-      "summary": "Dave Eggers attends the \"The Turning Point: To Be Destroyed\" premiere. | Image: John Lamparski/Getty Images for Tribeca Festival Last year, Sam Altman invited author Dave Eggers to give a talk to around 200 OpenAI staffers. The man has written countless novels, screenplays, pieces of journalism, started McSweeney's, and founded multiple schools and nonprofits that support writers and the arts more broadly. So one might expect he'd roll into the company's offices and offer tips on being…",
-      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/gettyimages-2157758001.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "source": "The Verge",
-      "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/967630/dave-eggers-openai-chatgpt-silencing-an-entire-generation",
-      "publishedAt": "2026-07-18T20:54:42.000Z"
     },
     {
       "id": "5axe97",
