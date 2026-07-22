@@ -1,7 +1,52 @@
 {
-  "fetchedAt": "2026-07-22T17:49:55.477Z",
+  "fetchedAt": "2026-07-22T19:36:57.024Z",
   "count": 60,
   "articles": [
+    {
+      "id": "ctpme1",
+      "title": "How OpenAI’s human mistake led to the AI-powered hack on Hugging Face",
+      "summary": "OpenAI made a mistake setting up what it called a “highly isolated” testing environment and sandbox. According to cybersecurity experts, that human mistake is what made the AI-powered attack on Hugging Face possible.",
+      "imageUrl": "https://images.unsplash.com/photo-1485827404703-89b55fcc595e?w=800&q=80",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/07/22/how-an-openais-human-mistake-led-to-the-ai-powered-hack-on-hugging-face/",
+      "publishedAt": "2026-07-22T19:11:46.000Z"
+    },
+    {
+      "id": "oepztm",
+      "title": "China’s Open AI Models Are Challenging Silicon Valley’s Playbook",
+      "summary": "As access to Anthropic’s and OpenAI’s frontier models becomes more restricted, Chinese labs are pitching their open-source alternatives as stable, accessible, and increasingly capable.",
+      "imageUrl": "https://media.wired.com/photos/6a61111f07c746392b7d05d4/master/pass/China-Open-AI-Models-Challenging-Silicon-Valley-Playbook-Business-1191165992.jpg",
+      "source": "Wired",
+      "sourceUrl": "https://www.wired.com/story/chinas-open-ai-models-are-challenging-silicon-valleys-playbook/",
+      "publishedAt": "2026-07-22T19:01:38.000Z"
+    },
+    {
+      "id": "jqt1jd",
+      "title": "Travis Kalanick’s robotics company raises $1.7B, led by a16z",
+      "summary": "Uber is also investing in Travis Kalanick's company Atoms, which has made gauzy claims about using industrial AI to modernize the world.",
+      "imageUrl": "https://images.unsplash.com/photo-1676299081847-824916de030a?w=800&q=80",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/07/22/travis-kalanicks-robotics-company-raises-1-7b-led-by-a16z/",
+      "publishedAt": "2026-07-22T18:50:44.000Z"
+    },
+    {
+      "id": "dxq526",
+      "title": "Yope raises $12.3M to build a private social network without algorithms or ads",
+      "summary": "Yope, a fast-growing social app focused on private groups of friends and family, has raised $12.3 million in seed funding. Instead of chasing creators and algorithmic feeds, the startup is betting that the future of social networking lies in small, private communities powered by messaging, photo sharing, and AI features designed to strengthen real-world relationships.",
+      "imageUrl": "https://images.unsplash.com/photo-1526374965328-7f61d4dc18c5?w=800&q=80",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/07/22/yope-raises-12-3m-to-build-a-private-social-network-without-algorithms-or-ads/",
+      "publishedAt": "2026-07-22T18:13:58.000Z"
+    },
+    {
+      "id": "aemw6f",
+      "title": "Monday.com lays off hundreds to focus on AI",
+      "summary": "The company said it is reducing its headcount by 20%, or about 630 staff, to \"support a leaner, more focused operating model\" as it focuses on its AI Work Platform.",
+      "imageUrl": "https://images.unsplash.com/photo-1676299081847-824916de030a?w=800&q=80",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/07/22/monday-com-lays-off-hundreds-to-focuses-on-ai/",
+      "publishedAt": "2026-07-22T17:54:14.000Z"
+    },
     {
       "id": "4xy7bt",
       "title": "Here’s what Samsung’s smart glasses actually look like",
@@ -46,6 +91,15 @@
       "source": "The Verge",
       "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/969285/amd-anthropic-ai-infrastructure-deal",
       "publishedAt": "2026-07-22T14:44:27.000Z"
+    },
+    {
+      "id": "6r08u4",
+      "title": "Menlo Ventures’ Matt Murphy explains what AI startups founders must do differently",
+      "summary": "Anthropic leaped to a $47 billion revenue run rate by May, compared to $9 billion in 2025. It’s the kind of growth that Menlo Ventures’ Matt Murphy says he’s never seen in 25 years of investing, not in the internet wave, not in mobile, not in the first cloud boom. Menlo led Anthropic’s $500M Series D, and Murphy has had a front-row seat as the company went from a pre-revenue, […]",
+      "imageUrl": "https://images.unsplash.com/photo-1620712943543-bcc4688e7485?w=800&q=80",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/podcast/menlo-ventures-matt-murphy-explains-what-ai-startups-founders-must-do-differently/",
+      "publishedAt": "2026-07-22T14:00:00.000Z"
     },
     {
       "id": "uodyy7",
@@ -174,24 +228,6 @@
       "publishedAt": "2026-07-21T20:56:55.000Z"
     },
     {
-      "id": "tick33",
-      "title": "Jack Dorsey is taking on Slack with Buzz, a group chat platform for teams and their AI agents",
-      "summary": "Buzz is a group chat platform for the workplace that puts humans and their AI agents in the same conversation.",
-      "imageUrl": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=800&q=80",
-      "source": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/07/21/jack-dorsey-is-taking-on-slack-with-buzz-a-group-chat-platform-for-teams-and-their-ai-agents/",
-      "publishedAt": "2026-07-21T19:43:41.000Z"
-    },
-    {
-      "id": "bfodw4",
-      "title": "AI and the rise of the universal entertainment app",
-      "summary": "Over the past decade, streaming platforms competed by dominating individual formats like music, video, podcasts, or audiobooks. Now, as AI makes it easier to create, organize, and recommend content, those distinctions are fading, pushing companies like Spotify, Netflix, YouTube, and TikTok to become all-purpose entertainment destinations instead.",
-      "imageUrl": "https://images.unsplash.com/photo-1550751827-4bd374c3f58b?w=800&q=80",
-      "source": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/07/21/ai-and-the-rise-of-the-universal-entertainment-app/",
-      "publishedAt": "2026-07-21T19:39:30.000Z"
-    },
-    {
       "id": "tqvdps",
       "title": "Substack adds an AI detector to help spot blogs written by no one",
       "summary": "Substack will now help users determine whether what they're reading may have been written by AI. A new tool coming to the platform can scan posts, notes, replies, and comments to provide an estimate of how much text could be AI-generated or written with AI assistance, according to a blog post published on Tuesday. The tool is powered by an AI detection company called Pangram and is rolling out across the web and the iOS app, with an Android launch coming \"soon.\" Readers can analyze content…",
@@ -210,24 +246,6 @@
       "publishedAt": "2026-07-21T19:05:00.000Z"
     },
     {
-      "id": "6m2nsh",
-      "title": "Data centers expected to use 4x more electricity by 2035",
-      "summary": "New data centers built through 2033 could consume as much electricity as India uses today.",
-      "imageUrl": "https://images.unsplash.com/photo-1620712943543-bcc4688e7485?w=800&q=80",
-      "source": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/07/21/data-centers-expected-to-use-4x-more-electricity-by-2035/",
-      "publishedAt": "2026-07-21T18:06:38.000Z"
-    },
-    {
-      "id": "7a7q94",
-      "title": "Google releases three new Gemini models — but no 3.5 Pro",
-      "summary": "Google released Gemini 3.6 Flash, 3.5 Flash-Lite, and Flash Cyber, but the continued absence of Gemini 3.5 Pro raises fresh questions about its AI strategy.",
-      "imageUrl": "https://images.unsplash.com/photo-1550751827-4bd374c3f58b?w=800&q=80",
-      "source": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/07/21/google-releases-three-new-gemini-models-but-no-3-5-pro/",
-      "publishedAt": "2026-07-21T17:11:50.000Z"
-    },
-    {
       "id": "a94yfx",
       "title": "Anthropic’s $1.5 billion book piracy settlement approved by judge",
       "summary": "A federal judge has signed off on Anthropic's $1.5 billion class action settlement with authors who accused the company of training its AI models on copyrighted books, as reported earlier by Reuters. In an order on Monday, Judge Araceli Mart&iacute;nez-Olgu&iacute;n writes that the settlement will provide \"meaningful relief,\" offering authors around $3,000 for each book allegedly pirated by Anthropic. The $1.5 billion settlement is the \"largest known copyright recovery in history,\" according to…",
@@ -244,15 +262,6 @@
       "source": "Wired",
       "sourceUrl": "https://www.wired.com/story/a-sneaky-hacking-tool-targeting-ai-infrastructure-is-lurking-in-victims-blind-spots/",
       "publishedAt": "2026-07-21T16:08:44.000Z"
-    },
-    {
-      "id": "5e5jg3",
-      "title": "US threatens sanctions against Chinese AI models over IP theft",
-      "summary": "Treasury Secretary Scott Bessent said the U.S. could sanction Chinese open AI models over alleged IP theft, expanding the Trump administration's campaign to slow China's AI advances.",
-      "imageUrl": "https://images.unsplash.com/photo-1635070041078-e363dbe005cb?w=800&q=80",
-      "source": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/07/21/us-threatens-sanctions-against-chinese-ai-models-over-ip-theft/",
-      "publishedAt": "2026-07-21T15:37:05.000Z"
     },
     {
       "id": "hcwlne",
@@ -379,15 +388,6 @@
       "source": "Wired",
       "sourceUrl": "https://www.wired.com/story/security-news-this-week-your-period-tracker-is-probably-spying-on-you/",
       "publishedAt": "2026-07-18T10:30:00.000Z"
-    },
-    {
-      "id": "k02n5g",
-      "title": "How Google’s New Gemini Rates Work and How to Track Your Usage",
-      "summary": "Now that Google has changed how its usage quotas are tallied, you might not get as many AI responses as you did before.",
-      "imageUrl": "https://media.wired.com/photos/6a57867336e98c56882c9e64/master/pass/GeminiStorage.jpg",
-      "source": "Wired",
-      "sourceUrl": "https://www.wired.com/story/how-googles-new-gemini-rates-work-and-how-to-track-your-usage/",
-      "publishedAt": "2026-07-18T10:00:00.000Z"
     },
     {
       "id": "tmf8mp",
