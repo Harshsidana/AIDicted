@@ -1,7 +1,43 @@
 {
-  "fetchedAt": "2026-07-22T14:35:59.919Z",
+  "fetchedAt": "2026-07-22T16:25:45.773Z",
   "count": 60,
   "articles": [
+    {
+      "id": "uk203u",
+      "title": "Arcee, a US open source AI lab, says Chinese models are not inherently dangerous",
+      "summary": "As Chinese AI models grow in capability and popularity among US companies, the arguing over what should be done about them has reached a fever pitch.",
+      "imageUrl": "https://images.unsplash.com/photo-1531746790095-6c10a4031c5f?w=800&q=80",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/07/22/arcee-a-us-open-source-ai-lab-says-chinese-models-are-not-inherently-dangerous/",
+      "publishedAt": "2026-07-22T16:24:08.000Z"
+    },
+    {
+      "id": "o2ulbu",
+      "title": "Substack’s new tool tells you who’s been writing their newsletters with AI",
+      "summary": "Substack is giving readers a way to estimate how much of a newsletter was written by AI, signaling a broader shift toward transparency around AI-assisted content.",
+      "imageUrl": "https://images.unsplash.com/photo-1485827404703-89b55fcc595e?w=800&q=80",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/07/22/substacks-new-tool-tells-you-whos-been-writing-their-newsletters-with-ai/",
+      "publishedAt": "2026-07-22T16:23:09.000Z"
+    },
+    {
+      "id": "1vhdnp",
+      "title": "OpenAI’s AI spending spree has ballooned to $750B",
+      "summary": "OpenAI will spend the equivalent of Sweden's GDP on infrastructure through 2030.",
+      "imageUrl": "https://images.unsplash.com/photo-1526374965328-7f61d4dc18c5?w=800&q=80",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/07/22/openais-ai-spending-spree-has-ballooned-to-750b/",
+      "publishedAt": "2026-07-22T16:13:30.000Z"
+    },
+    {
+      "id": "mdy56m",
+      "title": "AMD commits up to $5 billion to Anthropic",
+      "summary": "AMD says it's going to invest up to $5 billion in Anthropic, while helping to expand the AI company's computing power, according to an announcement on Wednesday. As part of the new partnership, Anthropic will deploy up to 2 gigawatts of AMD's Instinct MI450 AI GPUs using the chipmaker's new Helios rack-scale system, as reported earlier by The Wall Street Journal. The companies plan to deploy the first gigawatt in the first half of 2027, building upon recent data center deals Anthropic has…",
+      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/03/acastro_STK081_amd_02.jpg.webp?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "source": "The Verge",
+      "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/969285/amd-anthropic-ai-infrastructure-deal",
+      "publishedAt": "2026-07-22T14:44:27.000Z"
+    },
     {
       "id": "uodyy7",
       "title": "The browser wars aren’t about search anymore — here are the best alternatives to Chrome and Safari",
@@ -237,15 +273,6 @@
       "publishedAt": "2026-07-21T15:00:00.000Z"
     },
     {
-      "id": "lu9444",
-      "title": "Music streamer Deezer says more than 50% of daily uploads are AI-generated",
-      "summary": "Deezer said more than 90,000 AI-generated tracks were uploaded daily on the platform in June.",
-      "imageUrl": "https://images.unsplash.com/photo-1485827404703-89b55fcc595e?w=800&q=80",
-      "source": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/07/21/music-streamer-deezer-says-more-than-50-of-daily-uploads-are-ai-generated/",
-      "publishedAt": "2026-07-21T13:27:42.000Z"
-    },
-    {
       "id": "plfdt2",
       "title": "Halliday’s latest smart glasses feature a much-improved display",
       "summary": "I was not a fan of the original Halliday glasses. The Gen 2 are better. | Image: Halliday I first slipped on Halliday's original smart glasses at CES 2025. I was not a fan. The glasses had a tiny, movable display window embedded into the frame that was incredibly finicky to see, and my 30-minute demo left me with achy eyeballs. It was an interesting concept with terrible execution, especially compared to the several other smart glasses on the show floor. So I was skeptical when a few weeks ago,…",
@@ -300,15 +327,6 @@
       "publishedAt": "2026-07-21T10:30:00.000Z"
     },
     {
-      "id": "qew37y",
-      "title": "Gritt exits stealth with $32 million for robots to build solar plants — then, everything else",
-      "summary": "Gritt is coming out of stealth with $34 million and plans to automate the hardest tasks on construction sites.",
-      "imageUrl": "https://images.unsplash.com/photo-1526374965328-7f61d4dc18c5?w=800&q=80",
-      "source": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/07/21/gritt-exits-stealth-with-34-million-for-robots-to-build-solar-plants-then-everything-else/",
-      "publishedAt": "2026-07-21T10:00:00.000Z"
-    },
-    {
       "id": "s9b7bh",
       "title": "The Army Is Burning Through Its AI Tokens",
       "summary": "Members of the Army received an email informing them that they were rapidly depleting their AI tokens, and needed to limit use.",
@@ -325,24 +343,6 @@
       "source": "Wired",
       "sourceUrl": "https://www.wired.com/story/etsy-is-in-its-flop-era-and-sellers-are-fleeing/",
       "publishedAt": "2026-07-21T09:00:00.000Z"
-    },
-    {
-      "id": "blwsjr",
-      "title": "Anthropic’s landmark $1.5B copyright settlement is approved",
-      "summary": "The final approval settles one case, but it doesn't resolve the broader issue of using copyrighted works to train AI models.",
-      "imageUrl": "https://images.unsplash.com/photo-1531746790095-6c10a4031c5f?w=800&q=80",
-      "source": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/07/20/anthropics-landmark-1-5b-copyright-settlement-is-approved/",
-      "publishedAt": "2026-07-21T00:12:24.000Z"
-    },
-    {
-      "id": "lu0vpr",
-      "title": "Here are the 30,000 songs Sony is suing Udio’s AI music generator over",
-      "summary": "Sony Music Entertainment has filed another lawsuit against Udio, accusing the AI music generator of infringing the copyright of more than 30,000 of its songs, ranging from Elvis Presley's Hound Dog to Beyonc&eacute;'s Say My Name, and Harry Styles' As It Was. The lawsuit, filed in a New York court on Monday, claims that this list represents \"only a small portion of Plaintiffs' works that Udio infringed,\" as reported earlier by Music Business Worldwide. In 2024, Sony, along with Universal Music…",
-      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/02/STK467_AI_MUSIC_CVirginia_A.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "source": "The Verge",
-      "sourceUrl": "https://www.theverge.com/tech/968375/sony-udio-lawsuit-songs-ai-copyright",
-      "publishedAt": "2026-07-20T22:19:12.000Z"
     },
     {
       "id": "898qp4",
