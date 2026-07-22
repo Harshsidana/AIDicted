@@ -1,7 +1,34 @@
 {
-  "fetchedAt": "2026-07-22T19:36:57.024Z",
+  "fetchedAt": "2026-07-22T22:35:18.429Z",
   "count": 60,
   "articles": [
+    {
+      "id": "4qaucz",
+      "title": "Google justifies its massive AI spending with a booming cloud business",
+      "summary": "Google's cloud business is thriving, as companies adopting its AI and AI infrastructure services help the tech giant to report record profits.",
+      "imageUrl": "https://images.unsplash.com/photo-1635070041078-e363dbe005cb?w=800&q=80",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/07/22/google-justifies-its-massive-ai-spending-with-a-booming-cloud-business/",
+      "publishedAt": "2026-07-22T22:01:52.000Z"
+    },
+    {
+      "id": "3jtvl3",
+      "title": "The White House Is Trying to Figure Out What to Do About Chinese AI",
+      "summary": "There’s a debate going on in the Trump administration over how to handle increasingly powerful Chinese AI models.",
+      "imageUrl": "https://media.wired.com/photos/6a5fecfac92cec058a76a8e2/master/pass/politics_chinese_ai_white_house.jpg",
+      "source": "Wired",
+      "sourceUrl": "https://www.wired.com/story/the-white-house-is-trying-to-figure-out-what-to-do-about-chinese-ai/",
+      "publishedAt": "2026-07-22T21:00:00.000Z"
+    },
+    {
+      "id": "3bxo5e",
+      "title": "Treasury threatens sanctions after White House claims Moonshot distilled Anthropic’s Fable",
+      "summary": "The episode has also intensified a broader debate in Washington over the influx of Chinese open models.",
+      "imageUrl": "https://images.unsplash.com/photo-1635070041078-e363dbe005cb?w=800&q=80",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/07/22/treasury-threatens-sanctions-after-white-house-claims-moonshot-distilled-anthropics-fable/",
+      "publishedAt": "2026-07-22T20:49:03.000Z"
+    },
     {
       "id": "ctpme1",
       "title": "How OpenAI’s human mistake led to the AI-powered hack on Hugging Face",
@@ -183,15 +210,6 @@
       "publishedAt": "2026-07-22T03:20:57.000Z"
     },
     {
-      "id": "qcd39m",
-      "title": "Meta is testing an AI bedtime story app for people with no imagination",
-      "summary": "At last, a tech company has found a way to outsource humanity's oldest pastime: using our imaginations.",
-      "imageUrl": "https://images.unsplash.com/photo-1655720828018-edd2daec9349?w=800&q=80",
-      "source": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/07/21/meta-is-testing-an-ai-bedtime-story-app-for-people-with-no-imagination/",
-      "publishedAt": "2026-07-21T23:55:10.000Z"
-    },
-    {
       "id": "9ngyvy",
       "title": "OpenAI Models Escaped Containment and Hacked Hugging Face",
       "summary": "The cybersecurity-focused models, including GPT-5.6 Sol, broke out of a testing sandbox, exploited a zero-day, and gained access to the open internet to pull off the attack.",
@@ -217,15 +235,6 @@
       "source": "The Verge",
       "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/968988/openai-hugging-face-hack-ai",
       "publishedAt": "2026-07-21T21:48:54.000Z"
-    },
-    {
-      "id": "nnmxqr",
-      "title": "OpenAI says Hugging Face was breached by its pre-release models",
-      "summary": "OpenAI has come forward to claim responsibility for the Hugging Face breach, saying it was the result of internal testing gone awry.",
-      "imageUrl": "https://images.unsplash.com/photo-1550751827-4bd374c3f58b?w=800&q=80",
-      "source": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/07/21/openai-says-hugging-face-was-breached-by-its-pre-release-models/",
-      "publishedAt": "2026-07-21T20:56:55.000Z"
     },
     {
       "id": "tqvdps",
@@ -379,15 +388,6 @@
       "source": "MIT Tech Review",
       "sourceUrl": "https://www.technologyreview.com/2026/07/20/1140655/ai-biases-hiring-humans/",
       "publishedAt": "2026-07-20T08:39:01.000Z"
-    },
-    {
-      "id": "5axe97",
-      "title": "Your Period Tracker Is (Probably) Spying on You",
-      "summary": "Plus: Russian cyberspies turn to infrastructure hacking, DHS repeatedly fails to realize it’d been hacked, a breach exposes an AI music generator’s scraping ways, and more.",
-      "imageUrl": "https://media.wired.com/photos/6a5ac7c5087b4a8eadcc0752/master/pass/Security-News-Period-Tracker-Spying-on-You-Security.jpg",
-      "source": "Wired",
-      "sourceUrl": "https://www.wired.com/story/security-news-this-week-your-period-tracker-is-probably-spying-on-you/",
-      "publishedAt": "2026-07-18T10:30:00.000Z"
     },
     {
       "id": "tmf8mp",
