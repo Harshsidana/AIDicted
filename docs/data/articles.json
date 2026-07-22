@@ -1,10 +1,28 @@
 {
-  "fetchedAt": "2026-07-21T23:03:40.626Z",
+  "fetchedAt": "2026-07-22T04:25:32.418Z",
   "count": 60,
   "articles": [
     {
-      "id": "n3wlfg",
-      "title": "OpenAI Models Escaped Containment and Hacked HuggingFace",
+      "id": "cq06aq",
+      "title": "The Anthropic-Physical Intelligence rumor roiling AI Twitter",
+      "summary": "Anthropic and OpenAI's aggressive 2026 acquisition sprees set the stage for a weekend rumor.",
+      "imageUrl": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=800&q=80",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/07/21/the-anthropic-physical-intelligence-rumor-roiling-ai-twitter/",
+      "publishedAt": "2026-07-22T03:20:57.000Z"
+    },
+    {
+      "id": "qcd39m",
+      "title": "Meta is testing an AI bedtime story app for people with no imagination",
+      "summary": "At last, a tech company has found a way to outsource humanity's oldest pastime: using our imaginations.",
+      "imageUrl": "https://images.unsplash.com/photo-1655720828018-edd2daec9349?w=800&q=80",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/07/21/meta-is-testing-an-ai-bedtime-story-app-for-people-with-no-imagination/",
+      "publishedAt": "2026-07-21T23:55:10.000Z"
+    },
+    {
+      "id": "9ngyvy",
+      "title": "OpenAI Models Escaped Containment and Hacked Hugging Face",
       "summary": "The cybersecurity-focused models, including GPT-5.6 Sol, broke out of a testing sandbox, exploited a zero-day, and gained access to the open internet to pull off the attack.",
       "imageUrl": "https://media.wired.com/photos/6a5ff5b0f95e7d91469f8f3d/master/pass/security_openai_hack_huggingface.jpg",
       "source": "Wired",
@@ -30,12 +48,12 @@
       "publishedAt": "2026-07-21T21:48:54.000Z"
     },
     {
-      "id": "1r400q",
-      "title": "OpenAI says Hugging Face was breached by its own pre-release models",
+      "id": "nnmxqr",
+      "title": "OpenAI says Hugging Face was breached by its pre-release models",
       "summary": "OpenAI has come forward to claim responsibility for the Hugging Face breach, saying it was the result of internal testing gone awry.",
-      "imageUrl": "https://images.unsplash.com/photo-1485827404703-89b55fcc595e?w=800&q=80",
+      "imageUrl": "https://images.unsplash.com/photo-1550751827-4bd374c3f58b?w=800&q=80",
       "source": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/07/21/openai-says-hugging-face-was-breached-by-its-own-pre-release-models/",
+      "sourceUrl": "https://techcrunch.com/2026/07/21/openai-says-hugging-face-was-breached-by-its-pre-release-models/",
       "publishedAt": "2026-07-21T20:56:55.000Z"
     },
     {
@@ -300,15 +318,6 @@
       "publishedAt": "2026-07-20T19:37:39.000Z"
     },
     {
-      "id": "4sxmgz",
-      "title": "OpenAI is scared of open-weight models. Should the US be?",
-      "summary": "Talk of banning Chinese-made open-weight LLMs reveals the challenge of turning AI into a business.",
-      "imageUrl": "https://images.unsplash.com/photo-1526374965328-7f61d4dc18c5?w=800&q=80",
-      "source": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/07/20/openai-is-scared-of-open-weight-models-should-the-us-be/",
-      "publishedAt": "2026-07-20T19:33:25.000Z"
-    },
-    {
       "id": "898qp4",
       "title": "China’s AI models have Trump’s AI world at war with itself",
       "summary": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here. Over the weekend, several current and former advisors to President Donald Trump on AI publicly lobbed insults at the country’s leading AI companies. David Sacks, the president’s AI and crypto “czar” until…",
@@ -325,15 +334,6 @@
       "source": "The Verge",
       "sourceUrl": "https://www.theverge.com/tech/967791/adobe-indigo-camera-app-ai-playground-update",
       "publishedAt": "2026-07-20T16:00:00.000Z"
-    },
-    {
-      "id": "9juzhg",
-      "title": "Adobe camera app’s new feature will critique your photos using AI",
-      "summary": "Adobe's Project Indigo can now remove all kinds of backgrounds from photos you snap using the app.",
-      "imageUrl": "https://images.unsplash.com/photo-1531746790095-6c10a4031c5f?w=800&q=80",
-      "source": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/07/20/adobe-camera-apps-new-feature-will-critique-your-photos-using-ai/",
-      "publishedAt": "2026-07-20T15:45:00.000Z"
     },
     {
       "id": "jtcsug",
