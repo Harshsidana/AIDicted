@@ -1,23 +1,77 @@
 {
-  "fetchedAt": "2026-07-23T17:39:02.190Z",
+  "fetchedAt": "2026-07-23T19:36:48.671Z",
   "count": 60,
   "articles": [
     {
+      "id": "eq8qgw",
+      "title": "Anthropic updates Claude voice mode with more capable models",
+      "summary": "Claude's new voice model will let you reschedule your meeting or draft an email",
+      "imageUrl": "https://images.unsplash.com/photo-1676299081847-824916de030a?w=800&q=80",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/07/23/anthropic-updates-claude-voice-mode-with-more-capable-models/",
+      "publishedAt": "2026-07-23T19:00:00.000Z"
+    },
+    {
+      "id": "hdc7q0",
+      "title": "Claude’s voice mode is now available for Opus and Sonnet",
+      "summary": "Until now, voice mode has only been available on Claude Haiku, Anthropic's faster but less powerful model. Now the company is making its Opus and Sonnet models available in voice mode, and extending its reach into apps like Gmail, Slack, and Canva. When Anthropic launched voice mode earlier this year, it was primarily focused on delivering answers to quick questions with minimal delay. But in a blog post, the company said people immediately started using voice mode for far more than casual…",
+      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/Claude-Voice-2-3-up.png?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "source": "The Verge",
+      "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/970065/anthropic-voice-mode-claude-opus-sonnet-haiku-ai",
+      "publishedAt": "2026-07-23T19:00:00.000Z"
+    },
+    {
+      "id": "uurwpj",
+      "title": "Meta’s New Feel-Good AI Ad Uses a Song About the World Ending",
+      "summary": "The clip features the David Bowie track “Five Years,” which includes lyrics such as “Earth was really dying (dying).”",
+      "imageUrl": "https://media.wired.com/photos/6a6231b4185179636cee2e10/master/pass/MetaDavid.jpg",
+      "source": "Wired",
+      "sourceUrl": "https://www.wired.com/story/meta-david-bowie-apocalypse-ad-is-optimistic-actually/",
+      "publishedAt": "2026-07-23T18:45:52.000Z"
+    },
+    {
+      "id": "z0275v",
+      "title": "AegisAI, founded by former Google security execs, lands $36M to stop AI-driven spear phishing",
+      "summary": "AegisAI co-founders developed AI agents that quickly analyze each message as a human would, paying attention to small anomalies that even the most elaborate checklist wouldn’t catch.",
+      "imageUrl": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=800&q=80",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/07/23/aegisai-founded-by-former-google-security-execs-lands-36m-to-stop-ai-driven-spear-phishing/",
+      "publishedAt": "2026-07-23T18:38:34.000Z"
+    },
+    {
+      "id": "f1salc",
+      "title": "Patreon is laying off 20 percent of workers",
+      "summary": "Patreon is laying off 20 percent of its workers, or around 93 employees, as reported earlier by 404 Media. In a memo to employees, Patreon CEO Jack Conte writes that the company isn't making these changes \"because we believe AI replaces humans,\" but says AI has \"fundamentally transformed the tech industry, including how we work, how we build products, how we communicate, and more.\" That shift has changed \"how we operate and organize,\" Conte writes. During an interview on Decoder, last month,…",
+      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/STK326_PATREON_D.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "source": "The Verge",
+      "sourceUrl": "https://www.theverge.com/tech/970211/patreon-layoffs-ai",
+      "publishedAt": "2026-07-23T18:20:30.000Z"
+    },
+    {
       "id": "oue813",
       "title": "Runway launches AI model router as generative media gets crowded",
-      "summary": "Runway no longer wants to be just another AI model company. It wants to become the infrastructure layer for generative media. On Thursday, the startup launched Runway Media Router through Runway Dev, its developer platform, released earlier this month, that provides API access to a growing roster of third-party image, video and audio models alongside […]",
+      "summary": "The Media Router is a tool that automatically selects the best image, video, or audio generation model for a request based on whether a developer prioritizes quality, speed or cost.",
       "imageUrl": "https://images.unsplash.com/photo-1526374965328-7f61d4dc18c5?w=800&q=80",
       "source": "TechCrunch",
       "sourceUrl": "https://techcrunch.com/2026/07/23/runway-bets-on-ai-model-routing-as-generative-media-gets-crowded/",
       "publishedAt": "2026-07-23T17:07:35.000Z"
     },
     {
-      "id": "bouk7v",
-      "title": "OpenAI makes ChatGPT Health available to all U.S. users",
+      "id": "q7b68f",
+      "title": "OpenAI makes ChatGPT Health available to all US users",
       "summary": "Users can also integrate their personal data from services like Apple Health, Function, and MyFitnessPal.",
-      "imageUrl": "https://images.unsplash.com/photo-1485827404703-89b55fcc595e?w=800&q=80",
+      "imageUrl": "https://images.unsplash.com/photo-1620712943543-bcc4688e7485?w=800&q=80",
       "source": "TechCrunch",
       "sourceUrl": "https://techcrunch.com/2026/07/23/openai-makes-chatgpt-health-available-to-all-u-s-users/",
+      "publishedAt": "2026-07-23T17:00:00.000Z"
+    },
+    {
+      "id": "902v8j",
+      "title": "OpenAI is making big claims as it rolls out ChatGPT Health to everyone",
+      "summary": "OpenAI is rolling out ChatGPT Health to everyone in the US on Thursday, allowing more people to connect their medical records and health-tracking information to the chatbot. During a briefing, Ashley Alexander, OpenAI's vice president of health product, says the company's models \"are now capable of reasoning at levels that are better than clinician level.\" When asked for more information about how the performance of OpenAI's models stacks up against human clinicians, OpenAI health lead Karan…",
+      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/chatgpt-health-launch.webp?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "source": "The Verge",
+      "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/970115/openai-chatgpt-health-launch-claims",
       "publishedAt": "2026-07-23T17:00:00.000Z"
     },
     {
@@ -210,24 +264,6 @@
       "publishedAt": "2026-07-22T18:50:44.000Z"
     },
     {
-      "id": "dxq526",
-      "title": "Yope raises $12.3M to build a private social network without algorithms or ads",
-      "summary": "Yope, a fast-growing social app focused on private groups of friends and family, has raised $12.3 million in seed funding. Instead of chasing creators and algorithmic feeds, the startup is betting that the future of social networking lies in small, private communities powered by messaging, photo sharing, and AI features designed to strengthen real-world relationships.",
-      "imageUrl": "https://images.unsplash.com/photo-1526374965328-7f61d4dc18c5?w=800&q=80",
-      "source": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/07/22/yope-raises-12-3m-to-build-a-private-social-network-without-algorithms-or-ads/",
-      "publishedAt": "2026-07-22T18:13:58.000Z"
-    },
-    {
-      "id": "aemw6f",
-      "title": "Monday.com lays off hundreds to focus on AI",
-      "summary": "The company said it is reducing its headcount by 20%, or about 630 staff, to \"support a leaner, more focused operating model\" as it focuses on its AI Work Platform.",
-      "imageUrl": "https://images.unsplash.com/photo-1676299081847-824916de030a?w=800&q=80",
-      "source": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/07/22/monday-com-lays-off-hundreds-to-focuses-on-ai/",
-      "publishedAt": "2026-07-22T17:54:14.000Z"
-    },
-    {
       "id": "4xy7bt",
       "title": "Here’s what Samsung’s smart glasses actually look like",
       "summary": "With a camera on every pair, Google’s and Samsung’s AI glasses face the same privacy problems as Meta’s. | Photo: Dominic Preston / The Verge Samsung has given us our first chance to check out its upcoming smart glasses in person, revealing two new designs and the first specs in the process, including an impressive 9-hour battery life. The glasses, developed in collaboration with Google and the eyewear brands Gentle Monster and Warby Parker, are due to launch this fall. Google and Samsung have…",
@@ -289,33 +325,6 @@
       "source": "Wired",
       "sourceUrl": "https://www.wired.com/story/openai-models-escaped-containment-and-hacked-huggingface/",
       "publishedAt": "2026-07-21T22:50:01.000Z"
-    },
-    {
-      "id": "jspjiu",
-      "title": "Neill Blomkamp’s new zombie AI ‘film’ is just slop warmed over",
-      "summary": "On Monday, District 9 and Gran Turismo director Neill Blomkamp unveiled his latest project: a 13-minute sci-fi short titled Nightborne that's loosely based on Peter Watts' 2014 novel Echopraxia. The short comes from Blomkamp's new AI startup / production company, Barley Studios, and features characters whose voices and faces are modeled after human actors. But every single one of Nightborne's shots was made with ByteDance's Seedance 2.0 text-to-video generator. In an X post about the short,…",
-      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/Screenshot-2026-07-21-at-12.22.06-PM.png?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "source": "The Verge",
-      "sourceUrl": "https://www.theverge.com/entertainment/968703/neill-blomkamps-nightborne-barley-studios-seedance",
-      "publishedAt": "2026-07-21T22:06:43.000Z"
-    },
-    {
-      "id": "n15us6",
-      "title": "OpenAI says it accidentally hacked Hugging Face with a new AI system",
-      "summary": "OpenAI CEO Sam Altman. | Bloomberg via Getty Images OpenAI says its AI models mistakenly breached open-source AI platform Hugging Face during internal testing. In a blog post on Tuesday, OpenAI writes that GPT-5.6 Sol and \"an even more capable pre-release model\" discovered vulnerabilities within their sandboxed testing environment, allowing them to gain access to the internet and target Hugging Face. On July 16th, Hugging Face disclosed a security incident that it says was driven by \"an…",
-      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/gettyimages-2284560499.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "source": "The Verge",
-      "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/968988/openai-hugging-face-hack-ai",
-      "publishedAt": "2026-07-21T21:48:54.000Z"
-    },
-    {
-      "id": "tqvdps",
-      "title": "Substack adds an AI detector to help spot blogs written by no one",
-      "summary": "Substack will now help users determine whether what they're reading may have been written by AI. A new tool coming to the platform can scan posts, notes, replies, and comments to provide an estimate of how much text could be AI-generated or written with AI assistance, according to a blog post published on Tuesday. The tool is powered by an AI detection company called Pangram and is rolling out across the web and the iOS app, with an Android launch coming \"soon.\" Readers can analyze content…",
-      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/05/STKB391_SUBSTACK_A.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "source": "The Verge",
-      "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/968855/substack-pangram-ai-detecting-tool",
-      "publishedAt": "2026-07-21T19:22:28.000Z"
     },
     {
       "id": "y2vrcg",
@@ -388,15 +397,6 @@
       "source": "Wired",
       "sourceUrl": "https://www.wired.com/story/big-interview-stanford-students-booing-sundar-pichai/",
       "publishedAt": "2026-07-21T10:30:00.000Z"
-    },
-    {
-      "id": "s9b7bh",
-      "title": "The Army Is Burning Through Its AI Tokens",
-      "summary": "Members of the Army received an email informing them that they were rapidly depleting their AI tokens, and needed to limit use.",
-      "imageUrl": "https://media.wired.com/photos/6a5a5366ad0fb31ed65fa3d3/master/pass/Politics_ArmyBurningThroughAITokens_v4.jpg",
-      "source": "Wired",
-      "sourceUrl": "https://www.wired.com/story/the-army-is-burning-through-its-ai-tokens/",
-      "publishedAt": "2026-07-21T09:30:00.000Z"
     },
     {
       "id": "898qp4",
