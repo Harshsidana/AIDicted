@@ -1,7 +1,43 @@
 {
-  "fetchedAt": "2026-07-23T11:27:16.374Z",
+  "fetchedAt": "2026-07-23T13:06:38.103Z",
   "count": 60,
   "articles": [
+    {
+      "id": "c9zay1",
+      "title": "The Download: energy transmission and US threats against Chinese AI",
+      "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. The power line that could reshape New York’s grid is hitting snags During a heat wave on July 3, New York State’s grid imported enough electricity from Canada to meet about…",
+      "imageUrl": "https://images.unsplash.com/photo-1485827404703-89b55fcc595e?w=800&q=80",
+      "source": "MIT Tech Review",
+      "sourceUrl": "https://www.technologyreview.com/2026/07/23/1140753/the-download-energy-transmission-and-us-threats-chinese-ai/",
+      "publishedAt": "2026-07-23T12:10:00.000Z"
+    },
+    {
+      "id": "i9ltcs",
+      "title": "The right-wing boomers protesting data centers have a lot in common with the left",
+      "summary": "A person holds signs during a nationwide protest against AI data center expansion outside Peace Hall in New Port Richey, Florida. | AFP via Getty Images On a gray, humid Saturday morning in central Florida, a little under a dozen people gathered outside the Spring Hill Branch Library to protest the construction of a hyperscale data center in their community. There was no immediate threat - the Hernando County commission had unanimously approved a one-year moratorium on such developments in June…",
+      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/gettyimages-2286058283.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "source": "The Verge",
+      "sourceUrl": "https://www.theverge.com/policy/969667/humans-first-data-center-protest-hernando-county-florida-republicans",
+      "publishedAt": "2026-07-23T12:00:00.000Z"
+    },
+    {
+      "id": "qbgynb",
+      "title": "How AI helps scientists design the next generation of medicines",
+      "summary": "Designing and developing a new medicine is an expensive, failure-prone scientific challenge. A new drug can take many years to develop, at the cost of a significant investment. And even then, most possible candidates never reach the patient. For biologic medicines, therapies made from engineered proteins rather than synthetic chemistry (which are often used to…",
+      "imageUrl": "https://images.unsplash.com/photo-1485827404703-89b55fcc595e?w=800&q=80",
+      "source": "MIT Tech Review",
+      "sourceUrl": "https://www.technologyreview.com/2026/07/23/1140346/how-ai-helps-scientists-design-the-next-generation-of-medicines/",
+      "publishedAt": "2026-07-23T12:00:00.000Z"
+    },
+    {
+      "id": "mososv",
+      "title": "Experts say exploiting Anthropic’s Fable isn’t how Kimi K3 got so good",
+      "summary": "\"I don't think you get a model this strong and this quickly on the heels of Fable doing strictly distillation,\" one expert told TechCrunch.",
+      "imageUrl": "https://images.unsplash.com/photo-1620712943543-bcc4688e7485?w=800&q=80",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/07/23/experts-say-exploiting-anthropics-fable-isnt-how-kimi-k3-got-so-good/",
+      "publishedAt": "2026-07-23T11:00:00.000Z"
+    },
     {
       "id": "edc7cf",
       "title": "Remember Jibo? Its Successor Is a Wearable That Turns Your Life Into AI Slop",
@@ -210,15 +246,6 @@
       "publishedAt": "2026-07-22T10:12:13.000Z"
     },
     {
-      "id": "83cr8m",
-      "title": "Glow emerges from stealth at $1.2B valuation to challenge endpoint security in the AI era",
-      "summary": "Glow is targeting a new class of endpoint risks created by the rapid adoption of AI agents and developer tools inside enterprises.",
-      "imageUrl": "https://images.unsplash.com/photo-1676299081847-824916de030a?w=800&q=80",
-      "source": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/07/22/glow-emerges-from-stealth-at-1-2b-valuation-to-challenge-endpoint-security-in-the-ai-era/",
-      "publishedAt": "2026-07-22T10:00:00.000Z"
-    },
-    {
       "id": "7kgx68",
       "title": "Shape-shifting mirrors on NASA’s new space telescope could unveil Jupiters like our own",
       "summary": "When NASA’s Nancy Grace Roman Space Telescope launches, as early as the end of next month, it will attempt one of astronomy’s most precise disappearing acts to date. The telescope will carry the first space-bound “active” coronagraph, an instrument that effectively erases most of the light from a star during photography. It will allow astronomers…",
@@ -318,15 +345,6 @@
       "publishedAt": "2026-07-21T15:00:00.000Z"
     },
     {
-      "id": "plfdt2",
-      "title": "Halliday’s latest smart glasses feature a much-improved display",
-      "summary": "I was not a fan of the original Halliday glasses. The Gen 2 are better. | Image: Halliday I first slipped on Halliday's original smart glasses at CES 2025. I was not a fan. The glasses had a tiny, movable display window embedded into the frame that was incredibly finicky to see, and my 30-minute demo left me with achy eyeballs. It was an interesting concept with terrible execution, especially compared to the several other smart glasses on the show floor. So I was skeptical when a few weeks ago,…",
-      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/Halliday-G2-Lifestyle-Book.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "source": "The Verge",
-      "sourceUrl": "https://www.theverge.com/tech/968255/halliday-gen-2-smart-glasses-hands-on-ai-wearables",
-      "publishedAt": "2026-07-21T13:00:00.000Z"
-    },
-    {
       "id": "vnu1oq",
       "title": "Halliday’s New Smart Glasses Skip the Camera",
       "summary": "Halliday’s G2 glasses can listen to and summarize your workplace meetings—with no video involved.",
@@ -397,24 +415,6 @@
       "source": "MIT Tech Review",
       "sourceUrl": "https://www.technologyreview.com/2026/07/20/1140655/ai-biases-hiring-humans/",
       "publishedAt": "2026-07-20T08:39:01.000Z"
-    },
-    {
-      "id": "tmf8mp",
-      "title": "The Download: perimenopause misinformation and China’s latest AI leap",
-      "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. There’s a lot of hype around perimenopause. Don’t buy it. Perimenopause used to be considered taboo, but not anymore. Thanks at least in part to TV doctors and social media influencers,…",
-      "imageUrl": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=800&q=80",
-      "source": "MIT Tech Review",
-      "sourceUrl": "https://www.technologyreview.com/2026/07/17/1140640/the-download-perimenopause-misinformation-china-moonshot-ai/",
-      "publishedAt": "2026-07-17T12:10:00.000Z"
-    },
-    {
-      "id": "gjc4lh",
-      "title": "There’s a lot of hype around perimenopause. Don’t buy it.",
-      "summary": "Perimenopause has entered the chat. Perimenopause—and its better-known relative, menopause—used to be considered taboo. Not anymore, thanks at least in part to TV doctors and social media influencers. Perhaps it’s my age, but these days, both my algorithm and my conversations with friends increasingly swing toward perimenopause. Menopause is defined as the life stage that…",
-      "imageUrl": "https://images.unsplash.com/photo-1526374965328-7f61d4dc18c5?w=800&q=80",
-      "source": "MIT Tech Review",
-      "sourceUrl": "https://www.technologyreview.com/2026/07/17/1140608/theres-a-lot-of-hype-around-perimenopause-dont-buy-it/",
-      "publishedAt": "2026-07-17T09:00:00.000Z"
     },
     {
       "id": "iu76ip",
