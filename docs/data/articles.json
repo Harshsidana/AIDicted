@@ -1,7 +1,16 @@
 {
-  "fetchedAt": "2026-07-23T21:13:35.982Z",
+  "fetchedAt": "2026-07-23T22:32:04.157Z",
   "count": 60,
   "articles": [
+    {
+      "id": "z66wf6",
+      "title": "Alexa Plus is getting an AI update to handle more complicated instructions",
+      "summary": "Amazon is launching an update to its Alexa Plus assistant that will allow it to connect to smart home devices in new ways. With the update, which is currently in preview, Alexa Plus can link up with tech from Bosch, Delta, Ecovacs, iRobot, Yale Home, Whirlpool, Tapo, Eufy, and others, while automatically routing requests to the correct device. In an example shared by Amazon, a person with a supported washing machine can say, \"Alexa, my kid's soccer jersey could use a deep clean, but the tag says…",
+      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/07/8A0A3921.jpeg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "source": "The Verge",
+      "sourceUrl": "https://www.theverge.com/tech/970399/amazon-alexa-plus-ai-update-smart-home-devices",
+      "publishedAt": "2026-07-23T21:15:06.000Z"
+    },
     {
       "id": "617byr",
       "title": "AMD takes on Nvidia with its Helios AI rack-scale system",
@@ -298,15 +307,6 @@
       "source": "The Verge",
       "sourceUrl": "https://www.theverge.com/tech/968680/meta-ai-detection-labeling-content-seal-watermarks-synthid",
       "publishedAt": "2026-07-22T11:00:00.000Z"
-    },
-    {
-      "id": "on9gdf",
-      "title": "Utility companies promise to spare us from AI’s energy bill",
-      "summary": "The pledge was introduced in March, and has done little to quell concerns so far. | Image: Cath Virginia / The Verge, Getty Images In the face of backlash to concerns the AI boom will increase consumer electricity bills, the largest utility companies and data center developers in the US are now promising to do something about it. The Wall Street Journal reports that nearly 200 organizations have signed President Donald Trump's \"rate payer protection pledge\" that's meant to safeguard average…",
-      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/04/STKS528_DATA_CENTERS_B.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "source": "The Verge",
-      "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/969137/us-utility-ai-electricty-data-center-rate-pledge-trump",
-      "publishedAt": "2026-07-22T10:12:13.000Z"
     },
     {
       "id": "7kgx68",
