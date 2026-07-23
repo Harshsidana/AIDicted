@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-07-23T09:29:21.554Z",
+  "fetchedAt": "2026-07-23T11:27:16.374Z",
   "count": 60,
   "articles": [
     {
@@ -10,6 +10,15 @@
       "source": "Wired",
       "sourceUrl": "https://www.wired.com/story/the-beloved-jibo-robot-is-being-resurrected-as-an-ai-wearable/",
       "publishedAt": "2026-07-23T09:15:00.000Z"
+    },
+    {
+      "id": "4kt2o8",
+      "title": "The power line that could reshape New York’s grid is hitting snags",
+      "summary": "On July 3, as a heat wave swept the region, New York State’s grid imported 52 gigawatt-hours of electricity from Canada—enough to meet about 9% of its total electricity demand that day. Some of that power shuttled in on a 339-mile power line stretching from Quebec to Queens called the Champlain Hudson Power Express (CHPE).…",
+      "imageUrl": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=800&q=80",
+      "source": "MIT Tech Review",
+      "sourceUrl": "https://www.technologyreview.com/2026/07/23/1140739/power-line-grid-chpe/",
+      "publishedAt": "2026-07-23T09:00:00.000Z"
     },
     {
       "id": "1p8n9d",
@@ -406,15 +415,6 @@
       "source": "MIT Tech Review",
       "sourceUrl": "https://www.technologyreview.com/2026/07/17/1140608/theres-a-lot-of-hype-around-perimenopause-dont-buy-it/",
       "publishedAt": "2026-07-17T09:00:00.000Z"
-    },
-    {
-      "id": "mved85",
-      "title": "The risk of weather data sabotage is rising",
-      "summary": "Every morning, airline dispatchers, grid operators, and farmers around the world make decisions based on the same thing: a weather forecast. While these forecasts are something that most people glance at for two seconds, weather predictions influence major strategic decisions in many industries, with real money, livelihoods, and even actual lives at stake. Farmers use…",
-      "imageUrl": "https://images.unsplash.com/photo-1485827404703-89b55fcc595e?w=800&q=80",
-      "source": "MIT Tech Review",
-      "sourceUrl": "https://www.technologyreview.com/2026/07/17/1140622/weather-data-sabotage/",
-      "publishedAt": "2026-07-17T08:57:32.000Z"
     },
     {
       "id": "iu76ip",
