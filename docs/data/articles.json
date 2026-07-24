@@ -1,7 +1,16 @@
 {
-  "fetchedAt": "2026-07-24T11:19:04.123Z",
+  "fetchedAt": "2026-07-24T13:02:42.456Z",
   "count": 60,
   "articles": [
+    {
+      "id": "o65ayo",
+      "title": "The Download: an organ transplant breakthrough, and homegrown Chinese chips",
+      "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. Supercooled kidneys have been transplanted into pigs in a “landmark achievement” When it comes to organ donation, time is everything. As soon as an organ has been removed from a donor’s…",
+      "imageUrl": "https://images.unsplash.com/photo-1655720828018-edd2daec9349?w=800&q=80",
+      "source": "MIT Tech Review",
+      "sourceUrl": "https://www.technologyreview.com/2026/07/24/1140776/the-download-organ-transplant-breakthrough-chinese-chips/",
+      "publishedAt": "2026-07-24T12:10:00.000Z"
+    },
     {
       "id": "58x8l7",
       "title": "Some Kids Will Never Think AI Is Cool",
@@ -406,15 +415,6 @@
       "source": "MIT Tech Review",
       "sourceUrl": "https://www.technologyreview.com/2026/07/20/1140675/chinas-ai-models-have-trumps-ai-world-at-war-with-itself/",
       "publishedAt": "2026-07-20T18:00:00.000Z"
-    },
-    {
-      "id": "jtcsug",
-      "title": "The Download: AI hiring biases, and weather data sabotage",
-      "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. AI is more likely than humans to form biases when hiring The next time you apply for a job, AI may screen your résumé before any human sees it. But there’s…",
-      "imageUrl": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=800&q=80",
-      "source": "MIT Tech Review",
-      "sourceUrl": "https://www.technologyreview.com/2026/07/20/1140664/the-download-ai-hiring-biases-weather-data-sabotage/",
-      "publishedAt": "2026-07-20T12:10:00.000Z"
     },
     {
       "id": "iu76ip",
