@@ -1,11 +1,47 @@
 {
-  "fetchedAt": "2026-07-24T17:07:11.135Z",
+  "fetchedAt": "2026-07-24T19:00:42.742Z",
   "count": 60,
   "articles": [
     {
+      "id": "40pjyz",
+      "title": "Why Cognition bought Poke: AI personality is becoming a competitive advantage",
+      "summary": "AI coding startup Cognition has acquired Poke, the AI assistant you text like a friend, in a deal valuing the startup in the low nine figures. The acquisition brings Poke’s conversational style and interaction model to Cognition’s coding agent Devin, reflecting a growing belief that how AI assistants interact with users is as important as the models powering them.",
+      "imageUrl": "https://images.unsplash.com/photo-1620712943543-bcc4688e7485?w=800&q=80",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/07/24/why-cognition-bought-poke-ai-personality-is-becoming-a-competitive-advantage/",
+      "publishedAt": "2026-07-24T18:07:32.000Z"
+    },
+    {
+      "id": "orce1h",
+      "title": "Did Chinese AI Steal From Anthropic, and OpenAI Loses Control of Two Models",
+      "summary": "On this episode of Uncanny Valley, we dive into accusations that China’s Moonshot AI stole from Anthropic, and how the US Army needs to cut back on AI use.",
+      "imageUrl": "https://media.wired.com/photos/6a615a679a93c24d43a612f6/master/pass/Uncanny-Valley-Moonshot-AI-Stealing-Anthropic-Models-Business.jpg",
+      "source": "Wired",
+      "sourceUrl": "https://www.wired.com/story/uncanny-valley-podcast/",
+      "publishedAt": "2026-07-24T17:53:01.000Z"
+    },
+    {
+      "id": "7whee8",
+      "title": "You can’t ignore Google Zero anymore",
+      "summary": "The web and Google once had a deal: Google collects data and indexes webpages and in exchange sends oceans of traffic to websites. The deal wasn't perfect and certainly made Google more money than it made the websites, but it worked for a long time. Now, however, the deal seems to be dead. And the web is being forced to reckon with what happens when the Google traffic dries up. On this episode of The Vergecast, David and Nilay talk about the week's Google Zero news, including Reddit's interest…",
+      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/VRG_VST_20260724_Site.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "source": "The Verge",
+      "sourceUrl": "https://www.theverge.com/podcast/970735/google-zero-reddit-ai-publishers-vergecast",
+      "publishedAt": "2026-07-24T17:29:48.000Z"
+    },
+    {
+      "id": "xtpcgi",
+      "title": "The quest to keep organs alive outside the body",
+      "summary": "This week, I covered a fascinating effort to preserve organs outside the body. There’s a huge shortage of donor organs, and one of the main reasons is time—they survive only a matter of hours outside the body, even when they’re kept on ice. Doctors dream of organ banks—stores of human organs that can be preserved…",
+      "imageUrl": "https://images.unsplash.com/photo-1676299081847-824916de030a?w=800&q=80",
+      "source": "MIT Tech Review",
+      "sourceUrl": "https://www.technologyreview.com/2026/07/24/1140790/the-quest-to-keep-organs-alive-outside-the-body/",
+      "publishedAt": "2026-07-24T17:03:55.000Z"
+    },
+    {
       "id": "d6n7xg",
       "title": "Anthropic launches Opus 5",
-      "summary": "Opus 5 will be both cheaper and less restrictive than Fable, likely making it preferable in most use cases",
+      "summary": "Opus 5 will be both cheaper and less restrictive than Fable, likely making it preferable in most use cases.",
       "imageUrl": "https://images.unsplash.com/photo-1531746790095-6c10a4031c5f?w=800&q=80",
       "source": "TechCrunch",
       "sourceUrl": "https://techcrunch.com/2026/07/24/anthropic-launches-opus-5/",
@@ -237,15 +273,6 @@
       "publishedAt": "2026-07-23T15:00:00.000Z"
     },
     {
-      "id": "c47afc",
-      "title": "AI chip startup Etched defies skeptics, hits $10.3B valuation from big-name investors",
-      "summary": "Etched, founded by three Harvard dropouts, has created new chips and memory components that speed up inference on any AI model -- no GPUs required, it says.",
-      "imageUrl": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=800&q=80",
-      "source": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/07/23/ai-chip-startup-etched-defies-skeptics-hits-10-3b-valuation-from-big-name-investors/",
-      "publishedAt": "2026-07-23T15:00:00.000Z"
-    },
-    {
       "id": "9guzwn",
       "title": "Lawmakers prepare bill requiring AI ‘kill switch’",
       "summary": "Lawmakers are preparing to introduce an \"AI Kill Switch Act\" that would require AI companies to shut down or throttle their systems on orders from the Department of Homeland Security, according to a report from Politico. Reps. Ted Lieu (D-CA) and Nathaniel Moran (R-TX) are expected to introduce the legislation on Thursday. The news of the proposed bill follows OpenAI's admission that its AI systems mistakenly hacked Hugging Face during an internal evaluation. The bill says that, after…",
@@ -271,15 +298,6 @@
       "source": "MIT Tech Review",
       "sourceUrl": "https://www.technologyreview.com/2026/07/23/1140753/the-download-energy-transmission-and-us-threats-chinese-ai/",
       "publishedAt": "2026-07-23T12:10:00.000Z"
-    },
-    {
-      "id": "i9ltcs",
-      "title": "The right-wing boomers protesting data centers have a lot in common with the left",
-      "summary": "A person holds signs during a nationwide protest against AI data center expansion outside Peace Hall in New Port Richey, Florida. | AFP via Getty Images On a gray, humid Saturday morning in central Florida, a little under a dozen people gathered outside the Spring Hill Branch Library to protest the construction of a hyperscale data center in their community. There was no immediate threat - the Hernando County commission had unanimously approved a one-year moratorium on such developments in June…",
-      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/gettyimages-2286058283.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "source": "The Verge",
-      "sourceUrl": "https://www.theverge.com/policy/969667/humans-first-data-center-protest-hernando-county-florida-republicans",
-      "publishedAt": "2026-07-23T12:00:00.000Z"
     },
     {
       "id": "qbgynb",
@@ -381,15 +399,6 @@
       "publishedAt": "2026-07-21T15:18:23.000Z"
     },
     {
-      "id": "hkc5pi",
-      "title": "Nvidia Wants to Own Every Chip Inside AI Data Centers",
-      "summary": "Nvidia’s Vera Rubin platform combines CPUs and GPUs into a single system, reflecting the company’s growing ambition to power every layer of AI infrastructure.",
-      "imageUrl": "https://media.wired.com/photos/6a5e8c21e7ec438fe2827e01/master/pass/nvidia-vera-cpu-1920-1080%20(1).jpg",
-      "source": "Wired",
-      "sourceUrl": "https://www.wired.com/story/nvidia-wants-to-own-every-chip-inside-an-ai-data-center/",
-      "publishedAt": "2026-07-21T15:00:00.000Z"
-    },
-    {
       "id": "3h7k7y",
       "title": "The Download: Chinese AI divides the White House, and a record copyright payout",
       "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. China’s AI models have Trump’s AI world at war with itself Last weekend, several current and former advisers to President Donald Trump on AI publicly lobbed insults at the country’s leading…",
@@ -406,15 +415,6 @@
       "source": "MIT Tech Review",
       "sourceUrl": "https://www.technologyreview.com/2026/07/21/1140602/advancing-next-gen-ai-with-materials-science-innovation/",
       "publishedAt": "2026-07-21T10:37:34.000Z"
-    },
-    {
-      "id": "898qp4",
-      "title": "China’s AI models have Trump’s AI world at war with itself",
-      "summary": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here. Over the weekend, several current and former advisors to President Donald Trump on AI publicly lobbed insults at the country’s leading AI companies. David Sacks, the president’s AI and crypto “czar” until…",
-      "imageUrl": "https://images.unsplash.com/photo-1655720828018-edd2daec9349?w=800&q=80",
-      "source": "MIT Tech Review",
-      "sourceUrl": "https://www.technologyreview.com/2026/07/20/1140675/chinas-ai-models-have-trumps-ai-world-at-war-with-itself/",
-      "publishedAt": "2026-07-20T18:00:00.000Z"
     },
     {
       "id": "iu76ip",
