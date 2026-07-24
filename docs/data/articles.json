@@ -1,7 +1,43 @@
 {
-  "fetchedAt": "2026-07-24T13:02:42.456Z",
+  "fetchedAt": "2026-07-24T15:14:01.804Z",
   "count": 60,
   "articles": [
+    {
+      "id": "piu5ia",
+      "title": "Midjourney acquired the astrology app Co-Star",
+      "summary": "The AI lab Midjourney continues to expand its purview beyond image and video generation.",
+      "imageUrl": "https://images.unsplash.com/photo-1550751827-4bd374c3f58b?w=800&q=80",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/07/24/midjourney-acquired-the-astrology-app-co-star/",
+      "publishedAt": "2026-07-24T15:09:55.000Z"
+    },
+    {
+      "id": "bu7wq1",
+      "title": "Silicon Valley Is Completely Divided Over Chinese AI",
+      "summary": "The AI “startups” worth billions of dollars are raising alarm bells about Chinese AI. The smaller players have a totally different take.",
+      "imageUrl": "https://media.wired.com/photos/6a62963a17ddff986dd664a4/master/pass/Backchannel-Silicon-Valley-Divide-Over-Chinese-AI-Business.jpg",
+      "source": "Wired",
+      "sourceUrl": "https://www.wired.com/story/silicon-valley-is-completely-divided-over-chinese-ai/",
+      "publishedAt": "2026-07-24T15:00:00.000Z"
+    },
+    {
+      "id": "8xn0td",
+      "title": "The tech-broification of American science has officially begun",
+      "summary": "Trump’s science adviser Michael Kratsios has no science background. | Image: Getty / The Verge The Trump administration unveiled the first \"Genesis Mission\" grants on Thursday, directing $5 billion toward hundreds of AI-driven science projects in an effort the White House has described as \"comparable in urgency and ambition to the Manhattan Project.\" At roughly the same time, Trump's science adviser Michael Kratsios was on Capitol Hill selling lawmakers on an equally grandiose promise: \"A New…",
+      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/Petridish_illo.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "source": "The Verge",
+      "sourceUrl": "https://www.theverge.com/science/970534/genesis-mission-ai-science-funding-trump-grants",
+      "publishedAt": "2026-07-24T14:43:55.000Z"
+    },
+    {
+      "id": "38aen4",
+      "title": "OpenAI’s new voice mode makes it to the ChatGPT desktop app",
+      "summary": "ChatGPT Voice on desktop can work with both ChatGPT Work and Codex to complete tasks and control agents.",
+      "imageUrl": "https://images.unsplash.com/photo-1620712943543-bcc4688e7485?w=800&q=80",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/07/24/openais-new-voice-mode-makes-it-to-the-chatgpt-desktop-app/",
+      "publishedAt": "2026-07-24T13:36:42.000Z"
+    },
     {
       "id": "o65ayo",
       "title": "The Download: an organ transplant breakthrough, and homegrown Chinese chips",
@@ -255,15 +291,6 @@
       "publishedAt": "2026-07-22T23:47:54.000Z"
     },
     {
-      "id": "4qaucz",
-      "title": "Google justifies its massive AI spending with a booming cloud business",
-      "summary": "Google's cloud business is thriving, as companies adopting its AI and AI infrastructure services help the tech giant to report record profits.",
-      "imageUrl": "https://images.unsplash.com/photo-1635070041078-e363dbe005cb?w=800&q=80",
-      "source": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/07/22/google-justifies-its-massive-ai-spending-with-a-booming-cloud-business/",
-      "publishedAt": "2026-07-22T22:01:52.000Z"
-    },
-    {
       "id": "3jtvl3",
       "title": "The White House Is Trying to Figure Out What to Do About Chinese AI",
       "summary": "There’s a debate going on in the Trump administration over how to handle increasingly powerful Chinese AI models.",
@@ -271,15 +298,6 @@
       "source": "Wired",
       "sourceUrl": "https://www.wired.com/story/the-white-house-is-trying-to-figure-out-what-to-do-about-chinese-ai/",
       "publishedAt": "2026-07-22T21:00:00.000Z"
-    },
-    {
-      "id": "3bxo5e",
-      "title": "Treasury threatens sanctions after White House claims Moonshot distilled Anthropic’s Fable",
-      "summary": "The episode has also intensified a broader debate in Washington over the influx of Chinese open models.",
-      "imageUrl": "https://images.unsplash.com/photo-1635070041078-e363dbe005cb?w=800&q=80",
-      "source": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/07/22/treasury-threatens-sanctions-after-white-house-claims-moonshot-distilled-anthropics-fable/",
-      "publishedAt": "2026-07-22T20:49:03.000Z"
     },
     {
       "id": "oepztm",
@@ -316,15 +334,6 @@
       "source": "MIT Tech Review",
       "sourceUrl": "https://www.technologyreview.com/2026/07/22/1140717/the-download-nasa-space-telescope-openai-hugging-face-hack/",
       "publishedAt": "2026-07-22T12:10:00.000Z"
-    },
-    {
-      "id": "syg11o",
-      "title": "Meta made its own AI detection system. It should have just used Google’s",
-      "summary": "Content Seal sounds a lot like a less accessible and reliable version of SynthID. | Image: Meta / The Verge IIn March, Meta's Oversight Board called on the company to \"meet its public commitments and employ its own tools\" to help quell the spread of deceptive generative AI content across platforms. Meta responded in July by introducing Content Seal - an invisible watermarking technology that flags images generated by the company's new AI model. But it was basically a footnote buried in the…",
-      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/Meta-Content-Seal-AI-detector.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "source": "The Verge",
-      "sourceUrl": "https://www.theverge.com/tech/968680/meta-ai-detection-labeling-content-seal-watermarks-synthid",
-      "publishedAt": "2026-07-22T11:00:00.000Z"
     },
     {
       "id": "7kgx68",
@@ -379,15 +388,6 @@
       "source": "Wired",
       "sourceUrl": "https://www.wired.com/story/nvidia-wants-to-own-every-chip-inside-an-ai-data-center/",
       "publishedAt": "2026-07-21T15:00:00.000Z"
-    },
-    {
-      "id": "vnu1oq",
-      "title": "Halliday’s New Smart Glasses Skip the Camera",
-      "summary": "Halliday’s G2 glasses can listen to and summarize your workplace meetings—with no video involved.",
-      "imageUrl": "https://media.wired.com/photos/6a5e3b2daeae4ba2c93b5b52/master/pass/Halliday%20G2%20Lifestyle%20Book.jpg",
-      "source": "Wired",
-      "sourceUrl": "https://www.wired.com/story/halliday-new-smart-glasses-skip-the-camera/",
-      "publishedAt": "2026-07-21T13:00:00.000Z"
     },
     {
       "id": "3h7k7y",
