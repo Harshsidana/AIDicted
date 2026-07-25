@@ -1,14 +1,23 @@
 {
-  "fetchedAt": "2026-07-24T23:35:00.599Z",
+  "fetchedAt": "2026-07-25T03:27:37.378Z",
   "count": 60,
   "articles": [
     {
-      "id": "jkom8r",
-      "title": "Prentis, new AI lab co-founded by Reid Hoffman, Marc Pincus in talks to raise $100M",
+      "id": "4osp10",
+      "title": "I tried out OpenAI’s new AI keypad — which will be fun for some coders and slightly mystifying to everyone else",
+      "summary": "OpenAI's fancy new AI keypad will be a lot of fun for some, while many others are probably not going to touch it.",
+      "imageUrl": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=800&q=80",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/07/24/i-tried-out-openais-new-ai-keypad-which-will-be-fun-for-coders-and-slightly-mystifying-to-everyone-else/",
+      "publishedAt": "2026-07-25T00:23:11.000Z"
+    },
+    {
+      "id": "nfrm3f",
+      "title": "Prentis, new AI lab co-founded by Reid Hoffman, Mark Pincus in talks to raise $100M",
       "summary": "The neolab is betting that automating routine computer tasks will soon outpace coding as AI's biggest use case.",
       "imageUrl": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=800&q=80",
       "source": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/07/24/prentis-new-ai-lab-co-founded-by-reid-hoffman-marc-pincus-in-talks-to-raise-100m/",
+      "sourceUrl": "https://techcrunch.com/2026/07/24/prentis-new-ai-lab-co-founded-by-reid-hoffman-mark-pincus-in-talks-to-raise-100m/",
       "publishedAt": "2026-07-24T22:25:58.000Z"
     },
     {
@@ -30,8 +39,8 @@
       "publishedAt": "2026-07-24T18:07:32.000Z"
     },
     {
-      "id": "orce1h",
-      "title": "Did Chinese AI Steal From Anthropic, and OpenAI Loses Control of Two Models",
+      "id": "ybb2z5",
+      "title": "China-US AI Race Escalates, OpenAI Models Break Free, and Why You Should Check Your Car Alarm",
       "summary": "On this episode of Uncanny Valley, we dive into accusations that China’s Moonshot AI stole from Anthropic, and how the US Army needs to cut back on AI use.",
       "imageUrl": "https://media.wired.com/photos/6a615a679a93c24d43a612f6/master/pass/Uncanny-Valley-Moonshot-AI-Stealing-Anthropic-Models-Business.jpg",
       "source": "Wired",
@@ -271,15 +280,6 @@
       "source": "MIT Tech Review",
       "sourceUrl": "https://www.technologyreview.com/2026/07/23/1140765/supercooled-kidneys-have-been-transplanted-into-pigs-in-a-landmark-achievement/",
       "publishedAt": "2026-07-23T16:58:28.000Z"
-    },
-    {
-      "id": "hubad1",
-      "title": "Meta launched a new AI optimism ad set to a song about human extinction",
-      "summary": "David Bowie's song \"Five Years,\" which Meta used in a supposedly inspiring advertisement, is about humans learning that they have five years left to live before the apocalypse.",
-      "imageUrl": "https://images.unsplash.com/photo-1531746790095-6c10a4031c5f?w=800&q=80",
-      "source": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/07/23/meta-launched-a-new-ai-optimism-ad-set-to-a-song-about-human-extinction/",
-      "publishedAt": "2026-07-23T16:28:50.000Z"
     },
     {
       "id": "9guzwn",
