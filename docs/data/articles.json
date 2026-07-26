@@ -1,7 +1,16 @@
 {
-  "fetchedAt": "2026-07-25T23:35:29.107Z",
+  "fetchedAt": "2026-07-26T03:40:42.668Z",
   "count": 60,
   "articles": [
+    {
+      "id": "qnuajn",
+      "title": "Monday.com is the latest tech company to blame AI for layoffs — here are 20 others",
+      "summary": "A running look — in reverse chronological order — at the bigger tech companies that have announced significant layoffs this year with AI as a stated factor.",
+      "imageUrl": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=800&q=80",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/07/25/the-running-list-major-tech-layoffs-in-2026-where-employers-cited-ai/",
+      "publishedAt": "2026-07-26T01:30:00.000Z"
+    },
     {
       "id": "8oz8ra",
       "title": "Librarians are hosting viral ‘Avoiding AI’ workshops for people who are fed up with Big Tech",
@@ -253,15 +262,6 @@
       "source": "Wired",
       "sourceUrl": "https://www.wired.com/story/meta-david-bowie-apocalypse-ad-is-optimistic-actually/",
       "publishedAt": "2026-07-23T18:45:52.000Z"
-    },
-    {
-      "id": "z0275v",
-      "title": "AegisAI, founded by former Google security execs, lands $36M to stop AI-driven spear phishing",
-      "summary": "AegisAI co-founders developed AI agents that quickly analyze each message as a human would, paying attention to small anomalies that even the most elaborate checklist wouldn’t catch.",
-      "imageUrl": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=800&q=80",
-      "source": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/07/23/aegisai-founded-by-former-google-security-execs-lands-36m-to-stop-ai-driven-spear-phishing/",
-      "publishedAt": "2026-07-23T18:38:34.000Z"
     },
     {
       "id": "f1salc",
