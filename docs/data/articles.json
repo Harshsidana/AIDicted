@@ -1,7 +1,16 @@
 {
-  "fetchedAt": "2026-07-26T16:08:20.885Z",
+  "fetchedAt": "2026-07-26T17:35:07.359Z",
   "count": 60,
   "articles": [
+    {
+      "id": "k78dpv",
+      "title": "Hugging Face CEO calls for ‘radical transparency’ after ‘unprecedented’ OpenAI hack",
+      "summary": "\"The first autonomous agent cyberattack is an unprecedented event. It deserves an unprecedented response!\"",
+      "imageUrl": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=800&q=80",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/07/26/hugging-face-ceo-calls-for-radical-transparency-after-unprecedented-openai-hack/",
+      "publishedAt": "2026-07-26T16:33:13.000Z"
+    },
     {
       "id": "qnuajn",
       "title": "Monday.com is the latest tech company to blame AI for layoffs — here are 20 others",
@@ -235,15 +244,6 @@
       "source": "TechCrunch",
       "sourceUrl": "https://techcrunch.com/2026/07/23/amd-takes-on-nvidia-with-its-helios-ai-rack-scale-system/",
       "publishedAt": "2026-07-23T20:33:02.000Z"
-    },
-    {
-      "id": "eq8qgw",
-      "title": "Anthropic updates Claude voice mode with more capable models",
-      "summary": "Claude's new voice model will let you reschedule your meeting or draft an email.",
-      "imageUrl": "https://images.unsplash.com/photo-1676299081847-824916de030a?w=800&q=80",
-      "source": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/07/23/anthropic-updates-claude-voice-mode-with-more-capable-models/",
-      "publishedAt": "2026-07-23T19:00:00.000Z"
     },
     {
       "id": "hdc7q0",
