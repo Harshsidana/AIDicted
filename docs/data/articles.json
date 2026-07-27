@@ -1,7 +1,25 @@
 {
-  "fetchedAt": "2026-07-27T18:57:27.590Z",
+  "fetchedAt": "2026-07-27T20:38:59.005Z",
   "count": 60,
   "articles": [
+    {
+      "id": "1pjlf0",
+      "title": "PSA: Your Claude shared chats and Artifacts may have ended up on Google",
+      "summary": "The issue appears to have originated from Claude’s “share chat” feature, which allows users to create links that enable anyone with the assigned URL view a conversation or project.",
+      "imageUrl": "https://images.unsplash.com/photo-1531746790095-6c10a4031c5f?w=800&q=80",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/07/27/psa-your-claude-shared-chats-and-artifacts-may-have-ended-up-on-google/",
+      "publishedAt": "2026-07-27T20:19:42.000Z"
+    },
+    {
+      "id": "ul6hd1",
+      "title": "Private Claude Chats Exposed in Google and Bing Search Results",
+      "summary": "The screwup shows how tricky it can be to stop web crawlers from making ostensibly private conversations with AI chatbots entirely too public.",
+      "imageUrl": "https://media.wired.com/photos/6a678683a61c4389773966d4/master/pass/Security_GoogleSearchScrew-UpExposedPrivateClaudeChat-.gif",
+      "source": "Wired",
+      "sourceUrl": "https://www.wired.com/story/private-claude-chats-exposed-in-google-and-bing-search-results/",
+      "publishedAt": "2026-07-27T20:08:00.000Z"
+    },
     {
       "id": "sf148",
       "title": "Microsoft launches its first cybersecurity model, plus a new agentic cybersecurity system",
@@ -219,15 +237,6 @@
       "publishedAt": "2026-07-25T10:30:00.000Z"
     },
     {
-      "id": "4osp10",
-      "title": "I tried out OpenAI’s new AI keypad — which will be fun for some coders and slightly mystifying to everyone else",
-      "summary": "OpenAI's fancy new AI keypad will be a lot of fun for some, while many others are probably not going to touch it.",
-      "imageUrl": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=800&q=80",
-      "source": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/07/24/i-tried-out-openais-new-ai-keypad-which-will-be-fun-for-coders-and-slightly-mystifying-to-everyone-else/",
-      "publishedAt": "2026-07-25T00:23:11.000Z"
-    },
-    {
       "id": "moujb0",
       "title": "Midjourney bought the astrology app Co-Star",
       "summary": "Midjourney, which has gone from generating AI cat images to full-body ultrasound scans, is getting into a new field: astrology. The AI startup announced on Thursday that it has acquired the personalized astrology app Co-Star, as reported earlier by Bloomberg. Co-Star is a free app that offers daily horoscopes and allows you to check your compatibility with friends. As noted on the app's FAQ page, it combines human insight, data from NASA, and AI to deliver personalized advice for users each day.…",
@@ -397,15 +406,6 @@
       "source": "Wired",
       "sourceUrl": "https://www.wired.com/story/chinas-open-ai-models-are-challenging-silicon-valleys-playbook/",
       "publishedAt": "2026-07-22T19:01:38.000Z"
-    },
-    {
-      "id": "9ngyvy",
-      "title": "OpenAI Models Escaped Containment and Hacked Hugging Face",
-      "summary": "The cybersecurity-focused models, including GPT-5.6 Sol, broke out of a testing sandbox, exploited a zero-day, and gained access to the open internet to pull off the attack.",
-      "imageUrl": "https://media.wired.com/photos/6a5ff5b0f95e7d91469f8f3d/master/pass/security_openai_hack_huggingface.jpg",
-      "source": "Wired",
-      "sourceUrl": "https://www.wired.com/story/openai-models-escaped-containment-and-hacked-huggingface/",
-      "publishedAt": "2026-07-21T22:50:01.000Z"
     },
     {
       "id": "hcwlne",
