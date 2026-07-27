@@ -1,7 +1,25 @@
 {
-  "fetchedAt": "2026-07-27T20:38:59.005Z",
+  "fetchedAt": "2026-07-27T22:12:34.698Z",
   "count": 60,
   "articles": [
+    {
+      "id": "1f59iq",
+      "title": "Microsoft unveils AI security tools it says outperform competing platforms",
+      "summary": "Microsoft says tools cost less than competing ones and outperform them, too.",
+      "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2025/09/microsoft-logo-1024x648.jpg",
+      "source": "Ars Technica",
+      "sourceUrl": "https://arstechnica.com/security/2026/07/microsoft-unveils-ai-security-tools-it-says-outperform-competing-platforms/",
+      "publishedAt": "2026-07-27T21:56:14.000Z"
+    },
+    {
+      "id": "ilyse0",
+      "title": "Satya Nadella says companies that trust one AI for everything may not survive",
+      "summary": "Companies without their own models — or without a layer of AI infrastructure known as AI gateways to separate their prompts from the model itself — will be in trouble, Nadella says.",
+      "imageUrl": "https://images.unsplash.com/photo-1531746790095-6c10a4031c5f?w=800&q=80",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/07/27/satya-nadella-says-companies-that-trust-one-ai-for-everything-may-not-survive/",
+      "publishedAt": "2026-07-27T21:17:11.000Z"
+    },
     {
       "id": "1pjlf0",
       "title": "PSA: Your Claude shared chats and Artifacts may have ended up on Google",
@@ -217,15 +235,6 @@
       "source": "TechCrunch",
       "sourceUrl": "https://techcrunch.com/2026/07/25/librarians-are-hosting-viral-avoiding-ai-workshops-for-people-who-are-fed-up-with-big-tech/",
       "publishedAt": "2026-07-25T16:00:00.000Z"
-    },
-    {
-      "id": "hpdhys",
-      "title": "One fallen power line exposed a growing AI data center problem — here’s how to fix it",
-      "summary": "A close call in Northern Virginia revealed just how poorly data centers respond to grid disruptions. Here's how to fix the problem.",
-      "imageUrl": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=800&q=80",
-      "source": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/07/25/one-fallen-power-line-exposed-a-growing-ai-data-center-problem-heres-how-to-fix-it/",
-      "publishedAt": "2026-07-25T13:05:00.000Z"
     },
     {
       "id": "qddsxp",
@@ -532,15 +541,6 @@
       "source": "Ars Technica",
       "sourceUrl": "https://arstechnica.com/science/2026/07/us-rare-earths-flow-to-asia-as-domestic-demand-is-slow-to-emerge/",
       "publishedAt": "2026-07-08T13:26:10.000Z"
-    },
-    {
-      "id": "duee5q",
-      "title": "Hackers can use 9 of the most popular AI tools to assemble massive botnets",
-      "summary": "\"HalluSquatting\" weaponizes LLMs' inability to say \"I don't know.\"",
-      "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2026/07/rogue-ai-agent-1152x648.jpg",
-      "source": "Ars Technica",
-      "sourceUrl": "https://arstechnica.com/security/2026/07/hackers-can-use-9-of-the-most-popular-ai-tools-to-assemble-massive-botnets/",
-      "publishedAt": "2026-07-08T07:00:51.000Z"
     }
   ]
 }
