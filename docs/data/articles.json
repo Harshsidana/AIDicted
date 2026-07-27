@@ -1,7 +1,16 @@
 {
-  "fetchedAt": "2026-07-27T07:40:10.931Z",
+  "fetchedAt": "2026-07-27T11:32:44.198Z",
   "count": 60,
   "articles": [
+    {
+      "id": "h9w6nh",
+      "title": "This Is Donald Trump’s AI Brain Trust",
+      "summary": "“It’s not an argument with two sides, it’s an argument with 10 sides,” one senior administration official tells WIRED about how US AI policy is being shaped.",
+      "imageUrl": "https://media.wired.com/photos/6a63ddfc7b2f84e64f1f3fcf/master/pass/Donald-Trump-AI-Brain-Trust-Politics.jpg",
+      "source": "Wired",
+      "sourceUrl": "https://www.wired.com/story/this-is-donald-trumps-ai-brain-trust/",
+      "publishedAt": "2026-07-27T10:00:00.000Z"
+    },
     {
       "id": "nf5yzs",
       "title": "Are brain waves the next unlock for physical AI?",
@@ -379,15 +388,6 @@
       "source": "Wired",
       "sourceUrl": "https://www.wired.com/story/openai-models-escaped-containment-and-hacked-huggingface/",
       "publishedAt": "2026-07-21T22:50:01.000Z"
-    },
-    {
-      "id": "y2vrcg",
-      "title": "This Former Intel CEO Wants to Jumpstart Moore’s Law With Light",
-      "summary": "Pat Gelsinger wants to pave the way to ever more powerful artificial intelligence using tiny beams of light.",
-      "imageUrl": "https://media.wired.com/photos/6a56bc3736e98c56882c9897/master/pass/Pat-Gelsinger-Q&A-Business-2280683501.jpg",
-      "source": "Wired",
-      "sourceUrl": "https://www.wired.com/story/pat-gelsinger-moores-law-light-chips/",
-      "publishedAt": "2026-07-21T19:05:00.000Z"
     },
     {
       "id": "hcwlne",
