@@ -1,11 +1,56 @@
 {
-  "fetchedAt": "2026-07-28T19:45:54.197Z",
+  "fetchedAt": "2026-07-28T22:35:09.558Z",
   "count": 60,
   "articles": [
     {
+      "id": "kxu0jq",
+      "title": "We now have a better understanding how OpenAI hacked into Hugging Face",
+      "summary": "10 days passed from OpenAI models exploiting JFrog Artifactory 0-day to release of a patch.",
+      "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2026/02/gatekeeping-ai-agents-1152x648.jpg",
+      "source": "Ars Technica",
+      "sourceUrl": "https://arstechnica.com/security/2026/07/jfrog-tries-to-spin-openai-0-day-exploit-of-its-app-into-a-success-story/",
+      "publishedAt": "2026-07-28T21:36:39.000Z"
+    },
+    {
+      "id": "j7m6xp",
+      "title": "Bot-detection startup Spur nabs $200M from Insight",
+      "summary": "Spur Intelligence has raised a $200 million round from Insight Partners for its tech that can identify legit human traffic from bots.",
+      "imageUrl": "https://images.unsplash.com/photo-1550751827-4bd374c3f58b?w=800&q=80",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/07/28/bot-detection-startup-spur-nabs-200m-from-insight/",
+      "publishedAt": "2026-07-28T21:29:34.000Z"
+    },
+    {
+      "id": "axqvry",
+      "title": "MCP startup Runlayer accuses Rippling of stealing its product idea",
+      "summary": "Runlayer is suing Rippling after Rippling evaluated the startup's MCP gateway product and then opted to build one itself.",
+      "imageUrl": "https://images.unsplash.com/photo-1485827404703-89b55fcc595e?w=800&q=80",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/07/28/mcp-startup-runlayer-accuses-rippling-of-stealing-its-product-idea/",
+      "publishedAt": "2026-07-28T20:45:12.000Z"
+    },
+    {
+      "id": "sy6qhs",
+      "title": "Sam Altman is ready to decelerate",
+      "summary": "His change of position comes after \"the first security incident that I have felt very viscerally.\"",
+      "imageUrl": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=800&q=80",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/07/28/sam-altman-is-ready-to-decelerate/",
+      "publishedAt": "2026-07-28T20:17:08.000Z"
+    },
+    {
+      "id": "pe786x",
+      "title": "AI leaders sign statement asking the government to do something about automated AI",
+      "summary": "Employees of OpenAI and Anthropic, as well as Google, Meta, Thinking Machines, Microsoft, Mistral, and other leading AI labs, have written a statement to the US government supporting a potential slowdown of sorts for frontier AI development - or at least a speed-up of global coordinated governance efforts. \"Al could help create a dramatically better future, but that outcome is not guaranteed,\" the employees wrote in a statement. \"The world's leading Al companies believe they could be close to…",
+      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25362061/STK_414_AI_CHATBOT_R2_CVirginia_D.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "source": "The Verge",
+      "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/972161/ai-leaders-us-government-openai-anthropic-google-meta",
+      "publishedAt": "2026-07-28T19:46:43.000Z"
+    },
+    {
       "id": "q7uybt",
       "title": "AI’s finally expensive enough to make Wall Street nervous",
-      "summary": "Working hard, or bear-ly working? | Cath Virginia It's earnings season, and investors got an unpleasant surprise from Google: an increase on its spending estimate, to as much as $205 billion - from the last quarter's projection of up to $190 billion. Even the lower end of Google's new projected range - $195 billion - is much more than the company had previously forecast as its top end spending. Now, look, I recognize that there's an impulse to say things like \"What's $15 billion between…",
+      "summary": "Working hard, or bear-ly working? | Image: Cath Virginia / The Verge, Getty Images It's earnings season, and investors got an unpleasant surprise from Google: an increase on its spending estimate, to as much as $205 billion - from the last quarter's projection of up to $190 billion. Even the lower end of Google's new projected range - $195 billion - is much more than the company had previously forecast as its top end spending. Now, look, I recognize that there's an impulse to say things like…",
       "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/STKS501_STOCKS_CVIRGINIA_A.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
       "source": "The Verge",
       "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/972119/ai-stock-fall-google-capex",
@@ -228,24 +273,6 @@
       "publishedAt": "2026-07-27T15:30:00.000Z"
     },
     {
-      "id": "795keo",
-      "title": "This $9 key physically locks your most addictive apps",
-      "summary": "This $9 NFC key requires you to physically scan it to unlock distracting apps on your phone.",
-      "imageUrl": "https://images.unsplash.com/photo-1485827404703-89b55fcc595e?w=800&q=80",
-      "source": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/07/27/this-9-key-physically-locks-your-most-addictive-apps/",
-      "publishedAt": "2026-07-27T15:25:37.000Z"
-    },
-    {
-      "id": "ugley8",
-      "title": "Ilya Sutskever’s Safe Superintelligence partners with Nvidia to scale its AI research",
-      "summary": "After two years in stealth, Safe Superintelligence has announced a long-term partnership with Nvidia as it prepares to scale to its next phase.",
-      "imageUrl": "https://images.unsplash.com/photo-1635070041078-e363dbe005cb?w=800&q=80",
-      "source": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/07/27/ilya-sutskevers-safe-superintelligence-partners-with-nvidia-to-scale-its-ai-research/",
-      "publishedAt": "2026-07-27T15:01:50.000Z"
-    },
-    {
       "id": "3sdk0s",
       "title": "How lasers could help provide fuel for nuclear reactors",
       "summary": "Outside the small town of Paducah, Kentucky, a wealth of uranium is locked away in thousands of storage cylinders filled with waste material from a now-closed nuclear enrichment facility. Lasers could help get it out. A company called Global Laser Enrichment (GLE) is looking to reprocess this old material with a new technology called laser…",
@@ -253,15 +280,6 @@
       "source": "MIT Tech Review",
       "sourceUrl": "https://www.technologyreview.com/2026/07/27/1140798/laser-nuclear-enrichment/",
       "publishedAt": "2026-07-27T14:24:42.000Z"
-    },
-    {
-      "id": "7tfa9o",
-      "title": "Enigma raises $71M to make controlling a robot as easy as adjusting the volume",
-      "summary": "The massive seed round was led by Index Ventures and Ribbit Capital, with participation from Sarah Guo's Conviction Partners.",
-      "imageUrl": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=800&q=80",
-      "source": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/07/27/enigma-raises-70m-to-make-controlling-a-robot-as-easy-as-adjusting-the-volume/",
-      "publishedAt": "2026-07-27T13:00:00.000Z"
     },
     {
       "id": "9y5ncz",
@@ -369,15 +387,6 @@
       "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/STKB364_CLAUDE_D.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
       "source": "The Verge",
       "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/970105/claude-opus-5-announced-anthropic-ai-model-release",
-      "publishedAt": "2026-07-24T17:00:00.000Z"
-    },
-    {
-      "id": "jgmqx5",
-      "title": "Meta is making its AI chatbot more like an assistant",
-      "summary": "Meta says its AI chatbot is going beyond just answering questions and generating images. | Image: Meta Meta is upgrading its AI chatbot with new productivity features in a bid to compete with rivals like Gemini, ChatGPT, and Claude. The update will allow Meta AI to tap into your calendar to help you plan events and generate daily briefings, as well as perform in-depth research that you can steer as it progresses. In a blog post, Meta says this update marks its \"next step toward personal…",
-      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/04_Trending.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,70.070631469476",
-      "source": "The Verge",
-      "sourceUrl": "https://www.theverge.com/tech/970570/meta-ai-chatbot-productivity-update",
       "publishedAt": "2026-07-24T17:00:00.000Z"
     },
     {
@@ -532,15 +541,6 @@
       "source": "Ars Technica",
       "sourceUrl": "https://arstechnica.com/gadgets/2026/07/thousands-of-routers-bricked-after-government-program-concludes-in-australia/",
       "publishedAt": "2026-07-08T18:10:16.000Z"
-    },
-    {
-      "id": "1d7nb1",
-      "title": "US rare earths flow to Asia as domestic demand is slow to emerge",
-      "summary": "Miners backed by Trump admin sell to Japan, South Korea despite push to develop domestic supply chain.",
-      "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2026/07/GettyImages-2270755803-1152x648.jpg",
-      "source": "Ars Technica",
-      "sourceUrl": "https://arstechnica.com/science/2026/07/us-rare-earths-flow-to-asia-as-domestic-demand-is-slow-to-emerge/",
-      "publishedAt": "2026-07-08T13:26:10.000Z"
     }
   ]
 }
