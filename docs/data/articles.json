@@ -1,7 +1,52 @@
 {
-  "fetchedAt": "2026-07-28T11:36:10.782Z",
+  "fetchedAt": "2026-07-28T14:26:37.065Z",
   "count": 60,
   "articles": [
+    {
+      "id": "q5j9p6",
+      "title": "Fish Audio raises $50M seed to build AI voice models for creators and enterprises",
+      "summary": "Since launching last year, the startup today has more than 8 million people using the open-source or hosted version of its models, and now generates annual recurring revenue of $21 million.",
+      "imageUrl": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=800&q=80",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/07/28/fish-audio-raises-50m-seed-to-build-ai-voice-models-for-creators-and-enterprises/",
+      "publishedAt": "2026-07-28T14:00:00.000Z"
+    },
+    {
+      "id": "16xopl",
+      "title": "Recursive Superintelligence signs $410 compute deal with Amazon",
+      "summary": "Recursive’s $400 million outlay represents the bulk of the company’s fundraising to date.",
+      "imageUrl": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=800&q=80",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/07/28/recursive-superintelligence-signs-400-compute-deal-with-amazon/",
+      "publishedAt": "2026-07-28T13:19:17.000Z"
+    },
+    {
+      "id": "xagpop",
+      "title": "Perplexity’s Personal Computer turns Windows PCs into AI agents",
+      "summary": "Perplexity has expanded its agentic Personal Computer tool to Windows, allowing computers running the world's most popular OS to be used as a locally run AI system. Like the Mac version that Perplexity launched in April, Personal Computer for Windows operates like a \"general-purpose digital worker\" that can access local files and apps to perform actions on your behalf, such as creating documents and updating spreadsheets. This launch builds on Personal Computer integrations that Perplexity…",
+      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25472503/STK271_PERPLEXITY_C.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "source": "The Verge",
+      "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/971750/perplexity-personal-computer-windows-ai-agents",
+      "publishedAt": "2026-07-28T12:30:00.000Z"
+    },
+    {
+      "id": "rc85k7",
+      "title": "The Download: OpenAI’s predictable hack, and an AI stock sell-off",
+      "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. OpenAI called the Hugging Face attack unprecedented. But we’ve been here before. —Will Douglas Heaven, senior AI editor Reading OpenAI’s account last week of how some of its models broke their…",
+      "imageUrl": "https://images.unsplash.com/photo-1655720828018-edd2daec9349?w=800&q=80",
+      "source": "MIT Tech Review",
+      "sourceUrl": "https://www.technologyreview.com/2026/07/28/1140868/the-download-openai-hack-ai-stock-sell-off/",
+      "publishedAt": "2026-07-28T12:10:00.000Z"
+    },
+    {
+      "id": "o4rj4u",
+      "title": "Smart rings are looking like my kind of AI gadget",
+      "summary": "Over the last few months, I've spent a lot of time talking to my computer. One underrated feature of the LLM revolution has been a remarkable leap in all kinds of dictation technology - even the fastest, cheapest models are getting very good at understanding and processing speech. I've tested lots of these apps, from WisprFlow to Monologue to Spokenly to Handy to so many others, and have found them all to be useful ways to quickly write emails, Slack messages, and more. They sometimes default to…",
+      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/11/RING.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "source": "The Verge",
+      "sourceUrl": "https://www.theverge.com/gadgets/971744/smart-ring-ai-gadget-stream-index",
+      "publishedAt": "2026-07-28T12:00:00.000Z"
+    },
     {
       "id": "h494z3",
       "title": "Can the New York Times Save Journalism From Our AI Overlords?",
@@ -264,24 +309,6 @@
       "publishedAt": "2026-07-27T00:19:14.000Z"
     },
     {
-      "id": "kd5l9k",
-      "title": "Making sense of the panic over Chinese AI",
-      "summary": "On the latest episode of Equity, we discussed why Moonshot AI's Kimi seemed to panic Silicon Valley and Wall Street.",
-      "imageUrl": "https://images.unsplash.com/photo-1531746790095-6c10a4031c5f?w=800&q=80",
-      "source": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/07/26/making-sense-of-the-panic-over-chinese-ai/",
-      "publishedAt": "2026-07-26T19:40:57.000Z"
-    },
-    {
-      "id": "k78dpv",
-      "title": "Hugging Face CEO calls for ‘radical transparency’ after ‘unprecedented’ OpenAI hack",
-      "summary": "\"The first autonomous agent cyberattack is an unprecedented event. It deserves an unprecedented response!\"",
-      "imageUrl": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=800&q=80",
-      "source": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/07/26/hugging-face-ceo-calls-for-radical-transparency-after-unprecedented-openai-hack/",
-      "publishedAt": "2026-07-26T16:33:13.000Z"
-    },
-    {
       "id": "qddsxp",
       "title": "The OpenAI Models That Hacked Hugging Face Were ‘Active on the Internet’ for Days",
       "summary": "Plus: Russian hackers are trying to steal US nuclear scientists’ emails, the State Department bans known scammers from entering the United States, and more.",
@@ -381,24 +408,6 @@
       "publishedAt": "2026-07-24T10:00:00.000Z"
     },
     {
-      "id": "z66wf6",
-      "title": "Alexa Plus is getting an AI update to handle more complicated instructions",
-      "summary": "Amazon is launching an update to its Alexa Plus assistant that will allow it to connect to smart home devices in new ways. With the update, which is currently in preview, Alexa Plus can link up with tech from Bosch, Delta, Ecovacs, iRobot, Yale Home, Whirlpool, Tapo, Eufy, and others, while automatically routing requests to the correct device. In an example shared by Amazon, a person with a supported washing machine can say, \"Alexa, my kid's soccer jersey could use a deep clean, but the tag says…",
-      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/07/8A0A3921.jpeg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "source": "The Verge",
-      "sourceUrl": "https://www.theverge.com/tech/970399/amazon-alexa-plus-ai-update-smart-home-devices",
-      "publishedAt": "2026-07-23T21:15:06.000Z"
-    },
-    {
-      "id": "hdc7q0",
-      "title": "Claude’s voice mode is now available for Opus and Sonnet",
-      "summary": "Until now, voice mode has only been available on Claude Haiku, Anthropic's faster but less powerful model. Now the company is making its Opus and Sonnet models available in voice mode, and extending its reach into apps like Gmail, Slack, and Canva. When Anthropic launched voice mode last year, it was primarily focused on delivering answers to quick questions with minimal delay. But in a blog post, the company said people immediately started using voice mode for far more than casual queries. They…",
-      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/Claude-Voice-2-3-up.png?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "source": "The Verge",
-      "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/970065/anthropic-voice-mode-claude-opus-sonnet-haiku-ai",
-      "publishedAt": "2026-07-23T19:00:00.000Z"
-    },
-    {
       "id": "uurwpj",
       "title": "Meta’s New Feel-Good AI Ad Uses a Song About the World Ending",
       "summary": "The clip features the David Bowie track “Five Years,” which includes lyrics such as “Earth was really dying (dying).”",
@@ -406,15 +415,6 @@
       "source": "Wired",
       "sourceUrl": "https://www.wired.com/story/meta-david-bowie-apocalypse-ad-is-optimistic-actually/",
       "publishedAt": "2026-07-23T18:45:52.000Z"
-    },
-    {
-      "id": "5fj1oo",
-      "title": "Supercooled kidneys have been transplanted into pigs in a “landmark achievement”",
-      "summary": "When it comes to organ donation, time is everything. As soon as an organ has been carefully removed from a donor’s body, it starts to deteriorate. Surgeons have a matter of hours to get it into a recipient. Leave it too long and the organ will become unusable. In most cases, organs will be kept…",
-      "imageUrl": "https://images.unsplash.com/photo-1550751827-4bd374c3f58b?w=800&q=80",
-      "source": "MIT Tech Review",
-      "sourceUrl": "https://www.technologyreview.com/2026/07/23/1140765/supercooled-kidneys-have-been-transplanted-into-pigs-in-a-landmark-achievement/",
-      "publishedAt": "2026-07-23T16:58:28.000Z"
     },
     {
       "id": "hcwlne",
