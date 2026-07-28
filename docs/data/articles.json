@@ -1,7 +1,34 @@
 {
-  "fetchedAt": "2026-07-28T03:21:15.400Z",
+  "fetchedAt": "2026-07-28T09:18:41.854Z",
   "count": 60,
   "articles": [
+    {
+      "id": "zh2le7",
+      "title": "Hugging Face is being used to easily undress women and children",
+      "summary": "Hugging Face isn’t doing much to prevent the AI models it hosts from spitting out sexualized deepfakes. | Image: Cath Virginia / The Verge | Photos from Getty Images Hugging Face is being used to make nonconsensual deepfakes, and the popular open-source AI model repository is doing very little to prevent it. That's according to a new report published by the European nonprofit AI Forensics, which found that seven out of the top nine image editing models hosted by Hugging Face readily complied…",
+      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/06/STK419_DEEPFAKE_CVIRGINIA_F.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "source": "The Verge",
+      "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/971723/hugging-face-nudify-deepfake-undress-women-children",
+      "publishedAt": "2026-07-28T09:07:14.000Z"
+    },
+    {
+      "id": "elwnx2",
+      "title": "Hugging Face Has a Deepfake Nudes Problem",
+      "summary": "Researchers tested top image editing models on Hugging Face and found they could easily create explicit deepfakes—and 1,000 image editing prompts show how people use the software.",
+      "imageUrl": "https://media.wired.com/photos/6a67cfabae27b42b1eabd681/master/pass/Security_HuggingFaceHasaDeepfakeNudesProblem_v1.gif",
+      "source": "Wired",
+      "sourceUrl": "https://www.wired.com/story/hugging-face-has-a-nonconsensual-deepfakes-problem/",
+      "publishedAt": "2026-07-28T05:30:00.000Z"
+    },
+    {
+      "id": "wrr255",
+      "title": "Cursor makes its biggest India push yet ahead of SpaceX acquisition with localized pricing",
+      "summary": "Cursor says India is now its third-largest market globally and plans to expand local hiring and enterprise sales.",
+      "imageUrl": "https://images.unsplash.com/photo-1485827404703-89b55fcc595e?w=800&q=80",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/07/27/cursor-makes-its-biggest-india-push-yet-ahead-of-spacex-acquisition-with-localized-pricing/",
+      "publishedAt": "2026-07-28T04:30:00.000Z"
+    },
     {
       "id": "ski0gf",
       "title": "Anthropic’s Dario Amodei responds: doesn’t oppose open-weight models, but fears Chinese AI",
@@ -228,15 +255,6 @@
       "publishedAt": "2026-07-26T16:33:13.000Z"
     },
     {
-      "id": "qnuajn",
-      "title": "Monday.com is the latest tech company to blame AI for layoffs — here are 20 others",
-      "summary": "A running look — in reverse chronological order — at the bigger tech companies that have announced significant layoffs this year with AI as a stated factor.",
-      "imageUrl": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=800&q=80",
-      "source": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/07/25/the-running-list-major-tech-layoffs-in-2026-where-employers-cited-ai/",
-      "publishedAt": "2026-07-26T01:30:00.000Z"
-    },
-    {
       "id": "qddsxp",
       "title": "The OpenAI Models That Hacked Hugging Face Were ‘Active on the Internet’ for Days",
       "summary": "Plus: Russian hackers are trying to steal US nuclear scientists’ emails, the State Department bans known scammers from entering the United States, and more.",
@@ -363,15 +381,6 @@
       "publishedAt": "2026-07-23T18:45:52.000Z"
     },
     {
-      "id": "f1salc",
-      "title": "Patreon is laying off 20 percent of workers",
-      "summary": "Patreon is laying off 20 percent of its workers, or around 93 employees, as reported earlier by 404 Media. In a memo to employees, Patreon CEO Jack Conte writes that the company isn't making these changes \"because we believe AI replaces humans,\" but says AI has \"fundamentally transformed the tech industry, including how we work, how we build products, how we communicate, and more.\" That shift has changed \"how we operate and organize,\" Conte writes. During an interview on Decoder, last month,…",
-      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/STK326_PATREON_D.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "source": "The Verge",
-      "sourceUrl": "https://www.theverge.com/tech/970211/patreon-layoffs-ai",
-      "publishedAt": "2026-07-23T18:20:30.000Z"
-    },
-    {
       "id": "5fj1oo",
       "title": "Supercooled kidneys have been transplanted into pigs in a “landmark achievement”",
       "summary": "When it comes to organ donation, time is everything. As soon as an organ has been carefully removed from a donor’s body, it starts to deteriorate. Surgeons have a matter of hours to get it into a recipient. Leave it too long and the organ will become unusable. In most cases, organs will be kept…",
@@ -406,15 +415,6 @@
       "source": "Wired",
       "sourceUrl": "https://www.wired.com/story/the-white-house-is-trying-to-figure-out-what-to-do-about-chinese-ai/",
       "publishedAt": "2026-07-22T21:00:00.000Z"
-    },
-    {
-      "id": "oepztm",
-      "title": "China’s Open AI Models Are Challenging Silicon Valley’s Playbook",
-      "summary": "As access to Anthropic’s and OpenAI’s frontier models becomes more restricted, Chinese labs are pitching their open-source alternatives as stable, accessible, and increasingly capable.",
-      "imageUrl": "https://media.wired.com/photos/6a61111f07c746392b7d05d4/master/pass/China-Open-AI-Models-Challenging-Silicon-Valley-Playbook-Business-1191165992.jpg",
-      "source": "Wired",
-      "sourceUrl": "https://www.wired.com/story/chinas-open-ai-models-are-challenging-silicon-valleys-playbook/",
-      "publishedAt": "2026-07-22T19:01:38.000Z"
     },
     {
       "id": "hcwlne",
