@@ -1,7 +1,34 @@
 {
-  "fetchedAt": "2026-07-28T09:18:41.854Z",
+  "fetchedAt": "2026-07-28T11:36:10.782Z",
   "count": 60,
   "articles": [
+    {
+      "id": "h494z3",
+      "title": "Can the New York Times Save Journalism From Our AI Overlords?",
+      "summary": "In 2023, the Times sued OpenAI and Microsoft for copyright infringement. They’ve since spent more than $20 million on the case, and publisher A.G. Sulzberger has no plans to stop fighting it.",
+      "imageUrl": "https://media.wired.com/photos/6a629130d1a4f0b18c5d7b7e/master/pass/Big-Interview-UV-Solo-AG-Sulzberger-Business-1189291051.jpg",
+      "source": "Wired",
+      "sourceUrl": "https://www.wired.com/story/the-big-interview-podcast-a-g-sulzberger-new-york-times/",
+      "publishedAt": "2026-07-28T10:30:00.000Z"
+    },
+    {
+      "id": "um8d9u",
+      "title": "Silicon Valley’s Next IPO Billionaires Are Coming. Nonprofits Are Ready for Them",
+      "summary": "Anthropic and OpenAI employees are expected to give generously after their companies go public. “It’s going to be a wild ride,” says one nonprofit leader.",
+      "imageUrl": "https://media.wired.com/photos/6a63fc68cbf9442761b08e12/master/pass/How-Nonprofits-Preparing-for-Flood-of-Philanthropy-After-Anthropic-OpenAI-Go-Public-Business.jpg",
+      "source": "Wired",
+      "sourceUrl": "https://www.wired.com/story/nonprofits-are-getting-ready-for-the-funding-anthropalypse/",
+      "publishedAt": "2026-07-28T10:00:00.000Z"
+    },
+    {
+      "id": "lt26yo",
+      "title": "Samsung’s chip workers are jumping ship to rival SK Hynix",
+      "summary": "Lee, an engineer at Samsung’s semiconductor division, clocks out when his shift ends. He used to work longer hours, going the extra mile to excel at his projects. But lately, he’s been coming straight home to work on his job application for the chipmaker’s South Korean rival SK Hynix, sharing tips with his coworkers on…",
+      "imageUrl": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=800&q=80",
+      "source": "MIT Tech Review",
+      "sourceUrl": "https://www.technologyreview.com/2026/07/28/1140853/samsung-chip-workers-exodus-sk-hynix/",
+      "publishedAt": "2026-07-28T09:18:57.000Z"
+    },
     {
       "id": "zh2le7",
       "title": "Hugging Face is being used to easily undress women and children",
@@ -388,33 +415,6 @@
       "source": "MIT Tech Review",
       "sourceUrl": "https://www.technologyreview.com/2026/07/23/1140765/supercooled-kidneys-have-been-transplanted-into-pigs-in-a-landmark-achievement/",
       "publishedAt": "2026-07-23T16:58:28.000Z"
-    },
-    {
-      "id": "c9zay1",
-      "title": "The Download: energy transmission and US threats against Chinese AI",
-      "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. The power line that could reshape New York’s grid is hitting snags During a heat wave on July 3, New York State’s grid imported enough electricity from Canada to meet about…",
-      "imageUrl": "https://images.unsplash.com/photo-1485827404703-89b55fcc595e?w=800&q=80",
-      "source": "MIT Tech Review",
-      "sourceUrl": "https://www.technologyreview.com/2026/07/23/1140753/the-download-energy-transmission-and-us-threats-chinese-ai/",
-      "publishedAt": "2026-07-23T12:10:00.000Z"
-    },
-    {
-      "id": "edc7cf",
-      "title": "Remember Jibo? Its Successor Is a Wearable That Turns Your Life Into AI Slop",
-      "summary": "With “blessings” from the original Jibo founders, iKairos is a wearable or desk-mounted “AI journal” that turns your family moments into AI images and video.",
-      "imageUrl": "https://media.wired.com/photos/6a5fc280e4c9fb685d5ecb3c/master/pass/Gear_The%20Beloved%20Jibo%20Robot%20Is%20Being%20Resurrected%20as%20an%20AI%20Wearable_v1.jpg",
-      "source": "Wired",
-      "sourceUrl": "https://www.wired.com/story/the-beloved-jibo-robot-is-being-resurrected-as-an-ai-wearable/",
-      "publishedAt": "2026-07-23T09:15:00.000Z"
-    },
-    {
-      "id": "3jtvl3",
-      "title": "The White House Is Trying to Figure Out What to Do About Chinese AI",
-      "summary": "There’s a debate going on in the Trump administration over how to handle increasingly powerful Chinese AI models.",
-      "imageUrl": "https://media.wired.com/photos/6a5fecfac92cec058a76a8e2/master/pass/politics_chinese_ai_white_house.jpg",
-      "source": "Wired",
-      "sourceUrl": "https://www.wired.com/story/the-white-house-is-trying-to-figure-out-what-to-do-about-chinese-ai/",
-      "publishedAt": "2026-07-22T21:00:00.000Z"
     },
     {
       "id": "hcwlne",
