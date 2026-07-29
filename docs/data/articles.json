@@ -1,7 +1,52 @@
 {
-  "fetchedAt": "2026-07-29T09:43:27.971Z",
+  "fetchedAt": "2026-07-29T12:07:22.641Z",
   "count": 60,
   "articles": [
+    {
+      "id": "1h4sq7",
+      "title": "Artists are lawyering up against AI slop, and some are even winning",
+      "summary": "Artists whose work has been co-opted by AI are taking to court. | Image: Alex Parkin / The Verge When The Atlantic published a searchable dataset of works used to train AI, Kirk Wallace Johnson, like a lot of artists, looked for his name out of curiosity. And, like a lot of artists, he found it. Essentially, his books, like The Feather Thief and The Fishermen and the Dragon - nonfiction tomes that he spent \"five to six years researching, writing, and investigating\" - had been pirated and fed to…",
+      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/268669_The_artists_suing_AI_companies_AParkin.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "source": "The Verge",
+      "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/971059/ai-artists-lawsuit-google-meta-anthropic",
+      "publishedAt": "2026-07-29T12:00:00.000Z"
+    },
+    {
+      "id": "3q4zak",
+      "title": "OpenAI’s rogue AI agent didn’t stop at hacking Hugging Face",
+      "summary": "The AI agent that escaped from OpenAI and hacked developer platform Hugging Face attacked other companies as well, OpenAI revealed on Tuesday. The update substantially widens the scope of an already concerning incident, which has alarmed industry insiders and fueled growing calls for stronger oversight on frontier AI systems. In an update to a blog post detailing its ongoing investigation into the incident, OpenAI said the wayward AI agent attacked several \"publicly-available services\" in its…",
+      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/akrales_220309_4977_0232.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "source": "The Verge",
+      "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/972441/openai-rogue-ai-agent-hacked-more-than-hugging-face",
+      "publishedAt": "2026-07-29T11:54:29.000Z"
+    },
+    {
+      "id": "k1q64z",
+      "title": "As AI content floods the internet, Pangram raises $9M to detect it",
+      "summary": "Pangram has raised $9 million to scale its AI detection software. The startup has also released a new AI text detection model, Pangram 4, and an AI image detection model in research preview.",
+      "imageUrl": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=800&q=80",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/07/29/as-ai-content-floods-the-internet-pangram-raises-9m-to-detect-it/",
+      "publishedAt": "2026-07-29T11:00:00.000Z"
+    },
+    {
+      "id": "3oixqo",
+      "title": "We’re running out of reasons to ignore AI safety",
+      "summary": "Earlier this month, OpenAI gave several of its AI models a task: complete a test designed to measure their cybersecurity capabilities. It put the systems in a sandboxed environment without an internet connection and set them off to work. What happened next is almost laughably silly - but also, as Adam Gleave, cofounder and CEO of AI safety organization FAR.AI, put it, \"a visceral example of how misaligned AI could cause harm.\" According to OpenAI, the models escaped the sandbox meant to contain…",
+      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/STK485_STK414_AI_SAFETY_B.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "source": "The Verge",
+      "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/972380/open-ai-hugging-face-hack-ai-safety-warning",
+      "publishedAt": "2026-07-29T11:00:00.000Z"
+    },
+    {
+      "id": "4718bu",
+      "title": "More Typos, Fewer Em Dashes: Writers Are Creating an Anti-AI ‘Literary Counterculture’",
+      "summary": "Novelists, journalists, and power LinkedIn posters are embracing first-person narratives and idiosyncrasies to avoid being mistaken for chat bots.",
+      "imageUrl": "https://media.wired.com/photos/6a694377c427a26bd27e4d1f/master/pass/Anti-AI-Writing-Culture.jpg",
+      "source": "Wired",
+      "sourceUrl": "https://www.wired.com/story/more-typos-fewer-em-dashes-writers-are-creating-an-anti-ai-literary-counterculture/",
+      "publishedAt": "2026-07-29T10:30:00.000Z"
+    },
     {
       "id": "s56eal",
       "title": "Boomers Can’t Stop Gifting Their Grandkids AI-Generated Slop Books",
@@ -291,15 +336,6 @@
       "publishedAt": "2026-07-27T16:45:24.000Z"
     },
     {
-      "id": "flq9lv",
-      "title": "Google’s AI search is rapidly becoming the default, new data shows",
-      "summary": "Google’s AI Overviews now appear in 43% of searches, underscoring how quickly AI-generated answers are becoming the default way people discover information online.",
-      "imageUrl": "https://images.unsplash.com/photo-1635070041078-e363dbe005cb?w=800&q=80",
-      "source": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/07/27/googles-ai-search-is-rapidly-becoming-the-default-new-data-shows/",
-      "publishedAt": "2026-07-27T15:57:12.000Z"
-    },
-    {
       "id": "3sdk0s",
       "title": "How lasers could help provide fuel for nuclear reactors",
       "summary": "Outside the small town of Paducah, Kentucky, a wealth of uranium is locked away in thousands of storage cylinders filled with waste material from a now-closed nuclear enrichment facility. Lasers could help get it out. A company called Global Laser Enrichment (GLE) is looking to reprocess this old material with a new technology called laser…",
@@ -372,15 +408,6 @@
       "publishedAt": "2026-07-25T10:30:00.000Z"
     },
     {
-      "id": "moujb0",
-      "title": "Midjourney bought the astrology app Co-Star",
-      "summary": "Midjourney, which has gone from generating AI cat images to full-body ultrasound scans, is getting into a new field: astrology. The AI startup announced on Thursday that it has acquired the personalized astrology app Co-Star, as reported earlier by Bloomberg. Co-Star is a free app that offers daily horoscopes and allows you to check your compatibility with friends. As noted on the app's FAQ page, it combines human insight, data from NASA, and AI to deliver personalized advice for users each day.…",
-      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/STK414_AI_CHATBOT_E-1.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "source": "The Verge",
-      "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/970894/midjourney-co-star-acquisition",
-      "publishedAt": "2026-07-24T19:06:58.000Z"
-    },
-    {
       "id": "ybb2z5",
       "title": "China-US AI Race Escalates, OpenAI Models Break Free, and Why You Should Check Your Car Alarm",
       "summary": "On this episode of Uncanny Valley, we dive into accusations that China’s Moonshot AI stole from Anthropic, and how the US Army needs to cut back on AI use.",
@@ -390,15 +417,6 @@
       "publishedAt": "2026-07-24T17:53:01.000Z"
     },
     {
-      "id": "7whee8",
-      "title": "You can’t ignore Google Zero anymore",
-      "summary": "The web and Google once had a deal: Google collects data and indexes webpages and in exchange sends oceans of traffic to websites. The deal wasn't perfect and certainly made Google more money than it made the websites, but it worked for a long time. Now, however, the deal seems to be dead. And the web is being forced to reckon with what happens when the Google traffic dries up. On this episode of The Vergecast, David and Nilay talk about the week's Google Zero news, including Reddit's interest…",
-      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/VRG_VST_20260724_Site.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "source": "The Verge",
-      "sourceUrl": "https://www.theverge.com/podcast/970735/google-zero-reddit-ai-publishers-vergecast",
-      "publishedAt": "2026-07-24T17:29:48.000Z"
-    },
-    {
       "id": "xtpcgi",
       "title": "The quest to keep organs alive outside the body",
       "summary": "This week, I covered a fascinating effort to preserve organs outside the body. There’s a huge shortage of donor organs, and one of the main reasons is time—they survive only a matter of hours outside the body, even when they’re kept on ice. Doctors dream of organ banks—stores of human organs that can be preserved…",
@@ -406,24 +424,6 @@
       "source": "MIT Tech Review",
       "sourceUrl": "https://www.technologyreview.com/2026/07/24/1140790/the-quest-to-keep-organs-alive-outside-the-body/",
       "publishedAt": "2026-07-24T17:03:55.000Z"
-    },
-    {
-      "id": "nxu1k0",
-      "title": "Anthropic releases Opus 5 with ‘close’ to Fable 5’s capabilities",
-      "summary": "Weeks after Anthropic's latest toe-to-toe with the US government, and days after an OpenAI security incident that dominated tech industry discussions, Anthropic on Thursday released its newest model, Claude Opus 5. The company said in a release that Opus 5 \"comes close to the capabilities of Claude Fable 5 in many domains\" and is much better at complex coding tasks. (Fable 5 is the public-facing Mythos-class model that drew the government's ire, was taken offline for a few weeks along with…",
-      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/STKB364_CLAUDE_D.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "source": "The Verge",
-      "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/970105/claude-opus-5-announced-anthropic-ai-model-release",
-      "publishedAt": "2026-07-24T17:00:00.000Z"
-    },
-    {
-      "id": "bu7wq1",
-      "title": "Silicon Valley Is Completely Divided Over Chinese AI",
-      "summary": "The AI “startups” worth billions of dollars are raising alarm bells about Chinese AI. The smaller players have a totally different take.",
-      "imageUrl": "https://media.wired.com/photos/6a62963a17ddff986dd664a4/master/pass/Backchannel-Silicon-Valley-Divide-Over-Chinese-AI-Business.jpg",
-      "source": "Wired",
-      "sourceUrl": "https://www.wired.com/story/silicon-valley-is-completely-divided-over-chinese-ai/",
-      "publishedAt": "2026-07-24T15:00:00.000Z"
     },
     {
       "id": "hcwlne",
