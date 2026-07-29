@@ -1,7 +1,43 @@
 {
-  "fetchedAt": "2026-07-29T00:03:40.324Z",
+  "fetchedAt": "2026-07-29T09:43:27.971Z",
   "count": 60,
   "articles": [
+    {
+      "id": "s56eal",
+      "title": "Boomers Can’t Stop Gifting Their Grandkids AI-Generated Slop Books",
+      "summary": "Parents are getting fed up with garbled bedtime stories that feature characters based on actual photos of their children.",
+      "imageUrl": "https://media.wired.com/photos/6a67a6ff5eab3f8d3cb1cd9d/master/pass/Boomers-Keep-Giving-Kids-AI-Slop-Books-Business-563558499.jpg",
+      "source": "Wired",
+      "sourceUrl": "https://www.wired.com/story/boomers-cant-stop-gifting-their-grandkids-ai-generated-slop-books/",
+      "publishedAt": "2026-07-29T09:30:00.000Z"
+    },
+    {
+      "id": "b64ylj",
+      "title": "The AI Hype Index: Unsexy AI",
+      "summary": "It feels bad enough when an open letter signed by leading economists warns that AI might steal your job. The fact it may soon be better than you at making dinner? Insult to injury. But that’s exactly what the company 1X promised when it showed off a pair of new, impressively dexterous (and, to some,…",
+      "imageUrl": "https://images.unsplash.com/photo-1485827404703-89b55fcc595e?w=800&q=80",
+      "source": "MIT Tech Review",
+      "sourceUrl": "https://www.technologyreview.com/2026/07/29/1140795/the-ai-hype-index-unsexy-ai/",
+      "publishedAt": "2026-07-29T08:42:57.000Z"
+    },
+    {
+      "id": "sdwbnu",
+      "title": "OpenAI’s Rogue AI Agent Hacked More Than Just Hugging Face",
+      "summary": "In a new disclosure, OpenAI says its agent used exposed logins to gain access to at least four “publicly available services” in its unhinged quest to solve a test.",
+      "imageUrl": "https://media.wired.com/photos/6a6929c87648cc825532f98e/master/pass/Runaway-OpenAI-Model-Even-Worse-Than-It-Seemed-Business-1393231668.jpg",
+      "source": "Wired",
+      "sourceUrl": "https://www.wired.com/story/openais-rogue-ai-agent-hacked-more-than-just-hugging-face/",
+      "publishedAt": "2026-07-29T00:15:30.000Z"
+    },
+    {
+      "id": "n1hfzh",
+      "title": "Cyera agrees to acquire Oasis Security for $1B to safeguard proliferating AI agents",
+      "summary": "The deal is Cyera's third acquisition this year.",
+      "imageUrl": "https://images.unsplash.com/photo-1526374965328-7f61d4dc18c5?w=800&q=80",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/07/28/cyera-agrees-to-acquire-oasis-security-for-1b-to-safeguard-proliferating-ai-agents/",
+      "publishedAt": "2026-07-29T00:09:05.000Z"
+    },
     {
       "id": "kxu0jq",
       "title": "We now have a better understanding how OpenAI hacked into Hugging Face",
@@ -264,15 +300,6 @@
       "publishedAt": "2026-07-27T15:57:12.000Z"
     },
     {
-      "id": "yv4fdm",
-      "title": "Power up your AI infrastructure! A first look at the Smart Systems Stage agenda at TechCrunch Disrupt 2026",
-      "summary": "At TechCrunch Disrupt 2026, the Smart Systems Stage will be where energy, infrastructure, and technology collide, covering everything from fusion breakthroughs to the grid strain AI is putting on the entire economy.",
-      "imageUrl": "https://images.unsplash.com/photo-1550751827-4bd374c3f58b?w=800&q=80",
-      "source": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/07/27/power-up-your-ai-infrastructure-a-first-look-at-the-smart-systems-stage-agenda-at-techcrunch-disrupt-2026/",
-      "publishedAt": "2026-07-27T15:30:00.000Z"
-    },
-    {
       "id": "3sdk0s",
       "title": "How lasers could help provide fuel for nuclear reactors",
       "summary": "Outside the small town of Paducah, Kentucky, a wealth of uranium is locked away in thousands of storage cylinders filled with waste material from a now-closed nuclear enrichment facility. Lasers could help get it out. A company called Global Laser Enrichment (GLE) is looking to reprocess this old material with a new technology called laser…",
@@ -397,33 +424,6 @@
       "source": "Wired",
       "sourceUrl": "https://www.wired.com/story/silicon-valley-is-completely-divided-over-chinese-ai/",
       "publishedAt": "2026-07-24T15:00:00.000Z"
-    },
-    {
-      "id": "o65ayo",
-      "title": "The Download: an organ transplant breakthrough, and homegrown Chinese chips",
-      "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. Supercooled kidneys have been transplanted into pigs in a “landmark achievement” When it comes to organ donation, time is everything. As soon as an organ has been removed from a donor’s…",
-      "imageUrl": "https://images.unsplash.com/photo-1655720828018-edd2daec9349?w=800&q=80",
-      "source": "MIT Tech Review",
-      "sourceUrl": "https://www.technologyreview.com/2026/07/24/1140776/the-download-organ-transplant-breakthrough-chinese-chips/",
-      "publishedAt": "2026-07-24T12:10:00.000Z"
-    },
-    {
-      "id": "58x8l7",
-      "title": "Some Kids Will Never Think AI Is Cool",
-      "summary": "“I think it should stand for artificial idiot,” one 9-year-old says. Here’s why kids of all ages are calling AI “disgusting” and “creepy.”",
-      "imageUrl": "https://media.wired.com/photos/6a551e560b1a1213ca008787/master/pass/071326_9-Reasons-Kids-Hate-AI-GIF-Yellow.gif",
-      "source": "Wired",
-      "sourceUrl": "https://www.wired.com/story/some-kids-will-never-think-ai-is-cool/",
-      "publishedAt": "2026-07-24T10:00:00.000Z"
-    },
-    {
-      "id": "uurwpj",
-      "title": "Meta’s New Feel-Good AI Ad Uses a Song About the World Ending",
-      "summary": "The clip features the David Bowie track “Five Years,” which includes lyrics such as “Earth was really dying (dying).”",
-      "imageUrl": "https://media.wired.com/photos/6a6231b4185179636cee2e10/master/pass/MetaDavid.jpg",
-      "source": "Wired",
-      "sourceUrl": "https://www.wired.com/story/meta-david-bowie-apocalypse-ad-is-optimistic-actually/",
-      "publishedAt": "2026-07-23T18:45:52.000Z"
     },
     {
       "id": "hcwlne",
