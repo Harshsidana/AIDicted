@@ -1,7 +1,16 @@
 {
-  "fetchedAt": "2026-07-29T19:34:17.143Z",
+  "fetchedAt": "2026-07-29T21:03:58.853Z",
   "count": 60,
   "articles": [
+    {
+      "id": "x3uobe",
+      "title": "The Hugging Face AI break-in, as told through an increasingly committed bear metaphor",
+      "summary": "Another way to think about the whole thing is to picture a bear at a campsite. (Really, we are going there.)",
+      "imageUrl": "https://images.unsplash.com/photo-1485827404703-89b55fcc595e?w=800&q=80",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/07/29/the-hugging-face-ai-break-in-as-told-through-an-increasingly-committed-bear-metaphor/",
+      "publishedAt": "2026-07-29T19:44:49.000Z"
+    },
     {
       "id": "q0zlnq",
       "title": "Claude Opus 5 became downright ruthless when tasked with running a vending machine",
@@ -19,15 +28,6 @@
       "source": "Wired",
       "sourceUrl": "https://www.wired.com/story/jailbreaking-ai-models-google-anthropic-openai-spacexai/",
       "publishedAt": "2026-07-29T18:30:00.000Z"
-    },
-    {
-      "id": "gtqj8w",
-      "title": "OpenAI president says it’s ‘building a family of devices’ for its AI chatbots",
-      "summary": "In an interview with our friend Joanna Stern on her YouTube channel, OpenAI president Greg Brockman said the company is working on a \"family of devices\" for interacting with its AI models. However, Brockman didn't confirm reports that one of those devices is a smart speaker OpenAI's rumored to be launching in 2027, or earlier rumors that the device might be a wearable like the Humane AI pin. He didn't give a release date, either, only saying that \"you can expect them soon.\" When asked about…",
-      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/gettyimages-2182154299.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "source": "The Verge",
-      "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/972709/openai-hardware-greg-brockman-interview",
-      "publishedAt": "2026-07-29T18:15:02.000Z"
     },
     {
       "id": "dzfx5b",
@@ -336,15 +336,6 @@
       "publishedAt": "2026-07-27T21:17:11.000Z"
     },
     {
-      "id": "1pjlf0",
-      "title": "PSA: Your Claude shared chats and Artifacts may have ended up on Google",
-      "summary": "The issue appears to have originated from Claude’s “share chat” feature, which allows users to create links that enable anyone with the assigned URL view a conversation or project.",
-      "imageUrl": "https://images.unsplash.com/photo-1531746790095-6c10a4031c5f?w=800&q=80",
-      "source": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/07/27/psa-your-claude-shared-chats-and-artifacts-may-have-ended-up-on-google/",
-      "publishedAt": "2026-07-27T20:19:42.000Z"
-    },
-    {
       "id": "ul6hd1",
       "title": "Private Claude Chats Exposed in Google and Bing Search Results",
       "summary": "The screwup shows how tricky it can be to stop web crawlers from making ostensibly private conversations with AI chatbots entirely too public.",
@@ -388,6 +379,15 @@
       "source": "MIT Tech Review",
       "sourceUrl": "https://www.technologyreview.com/2026/07/27/1140833/the-download-lasers-nuclear-organ-preservation/",
       "publishedAt": "2026-07-27T12:10:00.000Z"
+    },
+    {
+      "id": "kv0tq7",
+      "title": "Nvidia, Microsoft launch open AI security alliance — without OpenAI, Google, or Anthropic",
+      "summary": "Nvidia on Monday said it is joining forces with Microsoft, SpaceX, IBM, and other tech companies to build and share open-source AI security tools. The new Open Secure AI Alliance said open tools are required to effectively defend against attacks from frontier models. The initiative is a direct response to mounting concerns over the safety of advanced AI systems after a rogue OpenAI model escaped containment and attacked another company during testing. That company, Hugging Face, said it was…",
+      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/STKP210_JENSEN_HUANG_A.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "source": "The Verge",
+      "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/971281/nvidia-open-secure-ai-alliance-cybersecurity",
+      "publishedAt": "2026-07-27T12:06:22.000Z"
     },
     {
       "id": "ebgyme",
