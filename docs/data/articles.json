@@ -1,7 +1,61 @@
 {
-  "fetchedAt": "2026-07-29T21:03:58.853Z",
+  "fetchedAt": "2026-07-29T22:30:32.938Z",
   "count": 60,
   "articles": [
+    {
+      "id": "yk1mxp",
+      "title": "Zuckerberg says Meta’s enterprise AI opportunity extends beyond agents",
+      "summary": "On the company’s second-quarter earnings call Wednesday, CEO Mark Zuckerberg said Meta sees a “large enterprise opportunity” spanning AI agents, APIs, compute, and internal software.",
+      "imageUrl": "https://images.unsplash.com/photo-1485827404703-89b55fcc595e?w=800&q=80",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/07/29/zuckerberg-says-metas-enterprise-ai-opportunity-extends-beyond-agents/",
+      "publishedAt": "2026-07-29T22:23:12.000Z"
+    },
+    {
+      "id": "4c40zt",
+      "title": "Microsoft confirms Copilot ‘super app’ coming this year",
+      "summary": "Microsoft is working on an AI \"super app\" that combines Copilot's chat, coding, and agentic capabilities. During an earnings call on Wednesday, Microsoft CEO Satya Nadella said the app will span \"both consumer and commercial experiences\" when it launches this year. \"Copilot is evolving rapidly from chat to Cowork to Autopilots,\" Nadella said. \"This quarter, we are bringing these Copilot experiences together, including code, in one super app… This is a major step forward, and I look forward to…",
+      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/02/STK259_MICROSOFT_COPILOT_3__D.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "source": "The Verge",
+      "sourceUrl": "https://www.theverge.com/tech/972927/microsoft-copilot-super-app-confirmed",
+      "publishedAt": "2026-07-29T22:17:38.000Z"
+    },
+    {
+      "id": "tr5bmu",
+      "title": "Mark Zuckerberg is planning a big push into personal AI agents",
+      "summary": "Meta is all-in on AI, and sometime soon, the company is going to make a big push into personal AI agents that can do things on your behalf. On Wednesday's Q2 2026 earnings call, CEO Mark Zuckerberg previewed a high-level vision of how the company is thinking about personal agents and what it will do to make them viable for users - and how it will convince less technical people to give them a shot: Soon we will have agents that can work 24/7 on your behalf to help you achieve your goals and…",
+      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25546252/STK169_Mark_Zuckerburg_CVIRGINIA_D.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "source": "The Verge",
+      "sourceUrl": "https://www.theverge.com/tech/972294/meta-q2-2026-earnings-mark-zuckerberg-personal-ai-agents",
+      "publishedAt": "2026-07-29T21:48:07.000Z"
+    },
+    {
+      "id": "x9g3n8",
+      "title": "Discover what’s next for AI, from the SaaS reckoning to the agent security gap, at TechCrunch Disrupt 2026",
+      "summary": "At TechCrunch Disrupt 2026, the AI Stage is back to dig into the single hottest topic in the community for the past few years, presented by Google for Startups.",
+      "imageUrl": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=800&q=80",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/07/29/discover-whats-next-for-ai-from-the-saas-reckoning-to-the-agent-security-gap-at-techcrunch-disrupt-2026/",
+      "publishedAt": "2026-07-29T21:16:39.000Z"
+    },
+    {
+      "id": "hxr4ij",
+      "title": "Thinking Machines co-founder Lilian Weng left the company citing health reasons, then joined OpenAI",
+      "summary": "Weng previously served as the VP of AI Safety Research at OpenAI.",
+      "imageUrl": "https://images.unsplash.com/photo-1526374965328-7f61d4dc18c5?w=800&q=80",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/07/29/thinking-machines-co-founder-lilian-weng-left-the-company-citing-health-reasons-then-joined-openai/",
+      "publishedAt": "2026-07-29T21:07:48.000Z"
+    },
+    {
+      "id": "5a12t4",
+      "title": "xAI’s last-minute scramble to stop Minnesota’s anti-nudification app law",
+      "summary": "xAI is suing Minnesota Attorney General Keith Ellison over a law passed back in May that broadly targets \"nudification\" apps, claiming that the statute's punitive provisions leave the company with \"no practical choice but to restrict Grok Imagine's image-editing features in various ways.\" The law, the company argues, violates the First Amendment. Back in January, Grok flooded the internet with millions of sexually explicit deepfakes, including images of minors. In another era, a content…",
+      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/04/STK022_ELON_MUSK_CVIRGINIA4_I.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "source": "The Verge",
+      "sourceUrl": "https://www.theverge.com/policy/972850/xai-grok-minnesota-nudification-lawsuit",
+      "publishedAt": "2026-07-29T21:06:52.000Z"
+    },
     {
       "id": "x3uobe",
       "title": "The Hugging Face AI break-in, as told through an increasingly committed bear metaphor",
@@ -28,6 +82,15 @@
       "source": "Wired",
       "sourceUrl": "https://www.wired.com/story/jailbreaking-ai-models-google-anthropic-openai-spacexai/",
       "publishedAt": "2026-07-29T18:30:00.000Z"
+    },
+    {
+      "id": "gtqj8w",
+      "title": "OpenAI president says it’s ‘building a family of devices’ for its AI chatbots",
+      "summary": "In an interview with our friend Joanna Stern on her YouTube channel, OpenAI president Greg Brockman said the company is working on a \"family of devices\" for interacting with its AI models. However, Brockman didn't confirm reports that one of those devices is a smart speaker OpenAI's rumored to be launching in 2027, or earlier rumors that the device might be a wearable like the Humane AI pin. He didn't give a release date, either, only saying that \"you can expect them soon.\" When asked about…",
+      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/gettyimages-2182154299.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "source": "The Verge",
+      "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/972709/openai-hardware-greg-brockman-interview",
+      "publishedAt": "2026-07-29T18:15:02.000Z"
     },
     {
       "id": "dzfx5b",
@@ -246,15 +309,6 @@
       "publishedAt": "2026-07-28T12:10:00.000Z"
     },
     {
-      "id": "o4rj4u",
-      "title": "Smart rings are looking like my kind of AI gadget",
-      "summary": "Over the last few months, I've spent a lot of time talking to my computer. One underrated feature of the LLM revolution has been a remarkable leap in all kinds of dictation technology - even the fastest, cheapest models are getting very good at understanding and processing speech. I've tested lots of these apps, from WisprFlow to Monologue to Spokenly to Handy to so many others, and have found them all to be useful ways to quickly write emails, Slack messages, and more. They sometimes default to…",
-      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/11/RING.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "source": "The Verge",
-      "sourceUrl": "https://www.theverge.com/gadgets/971744/smart-ring-ai-gadget-stream-index",
-      "publishedAt": "2026-07-28T12:00:00.000Z"
-    },
-    {
       "id": "h494z3",
       "title": "Can the New York Times Save Journalism From Our AI Overlords?",
       "summary": "In 2023, the Times sued OpenAI and Microsoft for copyright infringement. They’ve since spent more than $20 million on the case, and publisher A.G. Sulzberger has no plans to stop fighting it.",
@@ -282,15 +336,6 @@
       "publishedAt": "2026-07-28T09:18:57.000Z"
     },
     {
-      "id": "zh2le7",
-      "title": "Hugging Face is being used to easily undress women and children",
-      "summary": "Hugging Face isn’t doing much to prevent the AI models it hosts from spitting out sexualized deepfakes. | Image: Cath Virginia / The Verge | Photos from Getty Images Hugging Face is being used to make nonconsensual deepfakes, and the popular open-source AI model repository is doing very little to prevent it. That's according to a new report published by the European nonprofit AI Forensics, which found that seven out of the top nine image editing models hosted by Hugging Face readily complied…",
-      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/06/STK419_DEEPFAKE_CVIRGINIA_F.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "source": "The Verge",
-      "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/971723/hugging-face-nudify-deepfake-undress-women-children",
-      "publishedAt": "2026-07-28T09:07:14.000Z"
-    },
-    {
       "id": "elwnx2",
       "title": "Hugging Face Has a Deepfake Nudes Problem",
       "summary": "Researchers tested top image editing models on Hugging Face and found they could easily create explicit deepfakes—and 1,000 image editing prompts show how people use the software.",
@@ -300,24 +345,6 @@
       "publishedAt": "2026-07-28T05:30:00.000Z"
     },
     {
-      "id": "wrr255",
-      "title": "Cursor makes its biggest India push yet ahead of SpaceX acquisition with localized pricing",
-      "summary": "Cursor says India is now its third-largest market globally and plans to expand local hiring and enterprise sales.",
-      "imageUrl": "https://images.unsplash.com/photo-1485827404703-89b55fcc595e?w=800&q=80",
-      "source": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/07/27/cursor-makes-its-biggest-india-push-yet-ahead-of-spacex-acquisition-with-localized-pricing/",
-      "publishedAt": "2026-07-28T04:30:00.000Z"
-    },
-    {
-      "id": "ski0gf",
-      "title": "Anthropic’s Dario Amodei responds: doesn’t oppose open-weight models, but fears Chinese AI",
-      "summary": "Anthropic founder and CEO Dario Amodei made his views clear about open-weight models and China's growing AI capabilities.",
-      "imageUrl": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=800&q=80",
-      "source": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/07/27/anthropics-dario-amodei-responds-doesnt-oppose-open-weight-models-but-fears-chinese-ai/",
-      "publishedAt": "2026-07-28T00:13:33.000Z"
-    },
-    {
       "id": "1f59iq",
       "title": "Microsoft unveils AI security tools it says outperform competing platforms",
       "summary": "Microsoft says tools cost less than competing ones and outperform them, too.",
@@ -325,15 +352,6 @@
       "source": "Ars Technica",
       "sourceUrl": "https://arstechnica.com/security/2026/07/microsoft-unveils-ai-security-tools-it-says-outperform-competing-platforms/",
       "publishedAt": "2026-07-27T21:56:14.000Z"
-    },
-    {
-      "id": "ilyse0",
-      "title": "Satya Nadella says companies that trust one AI for everything may not survive",
-      "summary": "Companies without their own models — or without a layer of AI infrastructure known as AI gateways to separate their prompts from the model itself — will be in trouble, Nadella says.",
-      "imageUrl": "https://images.unsplash.com/photo-1531746790095-6c10a4031c5f?w=800&q=80",
-      "source": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/07/27/satya-nadella-says-companies-that-trust-one-ai-for-everything-may-not-survive/",
-      "publishedAt": "2026-07-27T21:17:11.000Z"
     },
     {
       "id": "ul6hd1",
@@ -354,15 +372,6 @@
       "publishedAt": "2026-07-27T18:00:00.000Z"
     },
     {
-      "id": "g0l0bd",
-      "title": "Why China is giving away its best AI models",
-      "summary": "People visit the booth of Kimi, an LLM developed by the Chinese startup Moonshot, during the World AI Conference in Shanghai, China, July 20th. | Image: LONG WEI/ Feature China/Future Publishing via Getty Images Silicon Valley has spent much of the past week on red alert, digesting the arrival of Moonshot AI's Kimi K3, a Chinese AI model that can allegedly beat some of the best systems built by US companies at a fraction of the cost. Its performance alone would have been enough to intensify the…",
-      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/gettyimages-2286280160.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "source": "The Verge",
-      "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/971444/how-chinese-open-weight-ai-models-impact-us-companies",
-      "publishedAt": "2026-07-27T16:51:50.000Z"
-    },
-    {
       "id": "3sdk0s",
       "title": "How lasers could help provide fuel for nuclear reactors",
       "summary": "Outside the small town of Paducah, Kentucky, a wealth of uranium is locked away in thousands of storage cylinders filled with waste material from a now-closed nuclear enrichment facility. Lasers could help get it out. A company called Global Laser Enrichment (GLE) is looking to reprocess this old material with a new technology called laser…",
@@ -379,15 +388,6 @@
       "source": "MIT Tech Review",
       "sourceUrl": "https://www.technologyreview.com/2026/07/27/1140833/the-download-lasers-nuclear-organ-preservation/",
       "publishedAt": "2026-07-27T12:10:00.000Z"
-    },
-    {
-      "id": "kv0tq7",
-      "title": "Nvidia, Microsoft launch open AI security alliance — without OpenAI, Google, or Anthropic",
-      "summary": "Nvidia on Monday said it is joining forces with Microsoft, SpaceX, IBM, and other tech companies to build and share open-source AI security tools. The new Open Secure AI Alliance said open tools are required to effectively defend against attacks from frontier models. The initiative is a direct response to mounting concerns over the safety of advanced AI systems after a rogue OpenAI model escaped containment and attacked another company during testing. That company, Hugging Face, said it was…",
-      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/STKP210_JENSEN_HUANG_A.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "source": "The Verge",
-      "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/971281/nvidia-open-secure-ai-alliance-cybersecurity",
-      "publishedAt": "2026-07-27T12:06:22.000Z"
     },
     {
       "id": "ebgyme",
