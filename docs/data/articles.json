@@ -1,7 +1,61 @@
 {
-  "fetchedAt": "2026-07-30T16:07:45.789Z",
+  "fetchedAt": "2026-07-30T17:57:31.819Z",
   "count": 60,
   "articles": [
+    {
+      "id": "1a1356",
+      "title": "Nvidia’s Open Source Alliance Snubs OpenAI and Anthropic",
+      "summary": "This week on Uncanny Valley, we discuss the open vs. closed source debate in AI, key players in White House AI policy, and how to stop your chatbot logs from showing up in search engine results.",
+      "imageUrl": "https://media.wired.com/photos/6a6a5e39bca885f62cd93ebb/master/pass/Uncanny-Valley-Nvidia-Open-Source-AI-Alliance-2285784039.jpg",
+      "source": "Wired",
+      "sourceUrl": "https://www.wired.com/story/nvidias-open-source-alliance-snubs-openai-and-anthropic/",
+      "publishedAt": "2026-07-30T17:51:10.000Z"
+    },
+    {
+      "id": "hhgye9",
+      "title": "Google DeepMind’s new AI model can control a robot’s entire body",
+      "summary": "Apptronik’s Apollo 2 robot takes a baseball glove off of a shelf. | Image: Google Google DeepMind says the latest version of its Gemini Robotics AI model can \"control entire humanoid robots.\" While the previous model focused on controlling a humanoid robot's upper body, Gemini Robotics 2 now supports \"whole-body motions\" ranging from its feet to fingertips, according to an announcement on Thursday. The new model will allow humanoid robots to perform a wider range of actions, as it allows them to…",
+      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/gemini-robotics-2-shelf.png?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "source": "The Verge",
+      "sourceUrl": "https://www.theverge.com/tech/973276/google-deepmind-gemini-robotics-2-whole-body",
+      "publishedAt": "2026-07-30T17:18:45.000Z"
+    },
+    {
+      "id": "codtje",
+      "title": "Montana’s plan to become an experimental medical hub just pushed forward",
+      "summary": "As of this week in Montana, any biotech company with an experimental drug has a clear path to selling it to consumers. Companies whose drugs have been through preliminary testing—sometimes in as few as 10 healthy people—can pay $12,500 to apply to a newly established review board for approval. Once its treatment is rubber-stamped, the…",
+      "imageUrl": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=800&q=80",
+      "source": "MIT Tech Review",
+      "sourceUrl": "https://www.technologyreview.com/2026/07/30/1140942/montana-experimental-medical-hub-pushed-forward-right-to-try/",
+      "publishedAt": "2026-07-30T17:10:00.000Z"
+    },
+    {
+      "id": "y6vuw7",
+      "title": "Chrome Needs Twice-a-Week Patching Thanks to AI Bug Hunting",
+      "summary": "The two Chrome updates in June patched more bugs than the 23 updates before them. Now, Google is ramping up its patching schedule thanks to AI-assisted vulnerability discovery.",
+      "imageUrl": "https://media.wired.com/photos/6a6a4f534df40be776de37d7/master/pass/Security_Chrome%20Needs%20Twice-a-Week%20Patching%20Thanks%20to%20AI%20Bug%20Hunting_v1.jpg",
+      "source": "Wired",
+      "sourceUrl": "https://www.wired.com/story/chrome-needs-twice-a-week-patching-thanks-to-ai-bug-hunting-for-now/",
+      "publishedAt": "2026-07-30T17:00:00.000Z"
+    },
+    {
+      "id": "3k465r",
+      "title": "Friend re-launches its AI pendant with a speaker that talks to you, for twice the price",
+      "summary": "Do you remember Friend? The Friend that launched an AI pendant, spent $1.8 million of its $2.5 million to acquire friend.com, and plastered the NYC subway with ads promoting artificial companionship? Yeah well, if you didn't remember, Friend is back. And now, it's twice the price. Introducing friend. pic.twitter.com/T5vUCj7iqv- friend (@friend) July 30, 2026 This morning, Friend launched a new ad showing two people talking to their Friend pendants about very personal life problems. It didn't say…",
+      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25777487/millennial_explorer_a_comp_v004.png?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "source": "The Verge",
+      "sourceUrl": "https://www.theverge.com/gadgets/973163/friend-re-launches-its-ai-pendant-with-a-speaker-that-talks-to-you-for-twice-the-price",
+      "publishedAt": "2026-07-30T16:33:32.000Z"
+    },
+    {
+      "id": "odtnd7",
+      "title": "Okta buys AI security startup Permiso; source says for about $200M",
+      "summary": "The deal gives Okta identity threat detection capabilities as enterprises seek to secure AI agents and other non-human identities across cloud environments.",
+      "imageUrl": "https://images.unsplash.com/photo-1531746790095-6c10a4031c5f?w=800&q=80",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/07/30/okta-buys-ai-security-startup-permiso-source-says-for-about-200m/",
+      "publishedAt": "2026-07-30T16:09:42.000Z"
+    },
     {
       "id": "hn27xt",
       "title": "The New Friend AI Pendant Can Now Talk Back to You",
@@ -264,15 +318,6 @@
       "publishedAt": "2026-07-29T17:58:44.000Z"
     },
     {
-      "id": "19o48i",
-      "title": "Hint, a new AI startup co-founded by Martha Stewart, offers an AI assistant for homeowners",
-      "summary": "AI home management startup Hint, co-founded by Martha Stewart, wants to become an “AI for your home,” combining property records, maintenance schedules, home documents, and an AI assistant into a single app.",
-      "imageUrl": "https://images.unsplash.com/photo-1655720828018-edd2daec9349?w=800&q=80",
-      "source": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/07/29/hint-a-new-ai-startup-co-founded-by-martha-stewart-offers-an-ai-assistant-for-homeowners/",
-      "publishedAt": "2026-07-29T15:35:09.000Z"
-    },
-    {
       "id": "422r1g",
       "title": "The Download: a chip talent battle, and deflating AI hype",
       "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. Samsung’s chip workers are jumping ship to rival SK Hynix Lee, an engineer at Samsung’s semiconductor division, used to work late. But lately, he’s been clocking out on time and heading…",
@@ -318,15 +363,6 @@
       "publishedAt": "2026-07-29T10:30:00.000Z"
     },
     {
-      "id": "s56eal",
-      "title": "Boomers Can’t Stop Gifting Their Grandkids AI-Generated Slop Books",
-      "summary": "Parents are getting fed up with garbled bedtime stories that feature characters based on actual photos of their children.",
-      "imageUrl": "https://media.wired.com/photos/6a67a6ff5eab3f8d3cb1cd9d/master/pass/Boomers-Keep-Giving-Kids-AI-Slop-Books-Business-563558499.jpg",
-      "source": "Wired",
-      "sourceUrl": "https://www.wired.com/story/boomers-cant-stop-gifting-their-grandkids-ai-generated-slop-books/",
-      "publishedAt": "2026-07-29T09:30:00.000Z"
-    },
-    {
       "id": "b64ylj",
       "title": "The AI Hype Index: Unsexy AI",
       "summary": "It feels bad enough when an open letter signed by leading economists warns that AI might steal your job. The fact it may soon be better than you at making dinner? Insult to injury. But that’s exactly what the company 1X promised when it showed off a pair of new, impressively dexterous (and, to some,…",
@@ -334,15 +370,6 @@
       "source": "MIT Tech Review",
       "sourceUrl": "https://www.technologyreview.com/2026/07/29/1140795/the-ai-hype-index-unsexy-ai/",
       "publishedAt": "2026-07-29T08:42:57.000Z"
-    },
-    {
-      "id": "sdwbnu",
-      "title": "OpenAI’s Rogue AI Agent Hacked More Than Just Hugging Face",
-      "summary": "In a new disclosure, OpenAI says its agent used exposed logins to gain access to at least four “publicly available services” in its unhinged quest to solve a test.",
-      "imageUrl": "https://media.wired.com/photos/6a6929c87648cc825532f98e/master/pass/Runaway-OpenAI-Model-Even-Worse-Than-It-Seemed-Business-1393231668.jpg",
-      "source": "Wired",
-      "sourceUrl": "https://www.wired.com/story/openais-rogue-ai-agent-hacked-more-than-just-hugging-face/",
-      "publishedAt": "2026-07-29T00:15:30.000Z"
     },
     {
       "id": "kxu0jq",
@@ -361,24 +388,6 @@
       "source": "The Verge",
       "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/972161/ai-leaders-us-government-openai-anthropic-google-meta",
       "publishedAt": "2026-07-28T19:46:43.000Z"
-    },
-    {
-      "id": "q7uybt",
-      "title": "AI’s finally expensive enough to make Wall Street nervous",
-      "summary": "Working hard, or bear-ly working? | Image: Cath Virginia / The Verge, Getty Images It's earnings season, and investors got an unpleasant surprise from Google: an increase on its spending estimate, to as much as $205 billion - from the last quarter's projection of up to $190 billion. Even the lower end of Google's new projected range - $195 billion - is much more than the company had previously forecast as its top end spending. Now, look, I recognize that there's an impulse to say things like…",
-      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/STKS501_STOCKS_CVIRGINIA_A.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "source": "The Verge",
-      "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/972119/ai-stock-fall-google-capex",
-      "publishedAt": "2026-07-28T19:33:03.000Z"
-    },
-    {
-      "id": "xagpop",
-      "title": "Perplexity’s Personal Computer turns Windows PCs into AI agents",
-      "summary": "Perplexity has expanded its agentic Personal Computer tool to Windows, allowing computers running the world's most popular OS to be used as a locally run AI system. Like the Mac version that Perplexity launched in April, Personal Computer for Windows operates like a \"general-purpose digital worker\" that can access local files and apps to perform actions on your behalf, such as creating documents and updating spreadsheets. This launch builds on Personal Computer integrations that Perplexity…",
-      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25472503/STK271_PERPLEXITY_C.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "source": "The Verge",
-      "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/971750/perplexity-personal-computer-windows-ai-agents",
-      "publishedAt": "2026-07-28T12:30:00.000Z"
     },
     {
       "id": "rc85k7",
@@ -424,15 +433,6 @@
       "source": "MIT Tech Review",
       "sourceUrl": "https://www.technologyreview.com/2026/07/27/1140798/laser-nuclear-enrichment/",
       "publishedAt": "2026-07-27T14:24:42.000Z"
-    },
-    {
-      "id": "9y5ncz",
-      "title": "The Download: lasers for nuclear fuel, and organ preservation advances",
-      "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. How lasers could help provide fuel for nuclear reactors Nuclear power provides about 9% of global electricity today, and that fraction could tick up as countries look to build new reactors.…",
-      "imageUrl": "https://images.unsplash.com/photo-1485827404703-89b55fcc595e?w=800&q=80",
-      "source": "MIT Tech Review",
-      "sourceUrl": "https://www.technologyreview.com/2026/07/27/1140833/the-download-lasers-nuclear-organ-preservation/",
-      "publishedAt": "2026-07-27T12:10:00.000Z"
     },
     {
       "id": "hcwlne",
