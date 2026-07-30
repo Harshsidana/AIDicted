@@ -1,10 +1,37 @@
 {
-  "fetchedAt": "2026-07-30T11:56:28.821Z",
+  "fetchedAt": "2026-07-30T14:24:24.599Z",
   "count": 60,
   "articles": [
     {
-      "id": "uk8xs5",
-      "title": "OpenAI’s Hacking Debacle Was a Human Mistake",
+      "id": "58057q",
+      "title": "TechCrunch Disrupt 2026’s biggest stage features leaders from Amazon, Replit, Tether, with much more to come",
+      "summary": "The Disrupt Stage is where many of the biggest conversations in technology happen, with a legacy that stretches back for more than a decade.",
+      "imageUrl": "https://images.unsplash.com/photo-1655720828018-edd2daec9349?w=800&q=80",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/07/30/techcrunch-disrupt-2026s-biggest-stage-features-leaders-from-amazon-replit-tether-with-much-more-to-come/",
+      "publishedAt": "2026-07-30T14:00:00.000Z"
+    },
+    {
+      "id": "vauw0w",
+      "title": "Dili raises $21.7M to bring AI compliance to the infrastructure boom",
+      "summary": "The Series A was led by Khosla Ventures, with participation from Allianz, Rebel Fund, Brick and Mortar Ventures’ Darren Bechtel, and Y Combinator’s Garry Tan.",
+      "imageUrl": "https://images.unsplash.com/photo-1635070041078-e363dbe005cb?w=800&q=80",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/07/30/dili-raises-15-million-to-bring-ai-compliance-to-the-infrastructure-boom/",
+      "publishedAt": "2026-07-30T13:00:00.000Z"
+    },
+    {
+      "id": "x1bb5",
+      "title": "The Download: tricking LLMs, and reviving geothermal plants",
+      "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. A fundamental flaw leaves LLMs strikingly vulnerable to attack It is impossible to make large language models fully secure against hacks because of a fundamental flaw in how they work, a…",
+      "imageUrl": "https://images.unsplash.com/photo-1655720828018-edd2daec9349?w=800&q=80",
+      "source": "MIT Tech Review",
+      "sourceUrl": "https://www.technologyreview.com/2026/07/30/1140936/the-download-tricking-llms-reviving-geothermal/",
+      "publishedAt": "2026-07-30T12:10:00.000Z"
+    },
+    {
+      "id": "knu9f1",
+      "title": "OpenAI’s Hacking Debacle Comes Down to Human Error",
       "summary": "If the generative AI giant had followed well-known security best practices, it’s likely that its AI agent would never have escaped to the open internet and hacked multiple companies.",
       "imageUrl": "https://media.wired.com/photos/6a6a94581485bb334813c567/master/pass/Security_OpenAIsHackingDebacleWasaHumanMistake_v1-ezgif.com-video-to-gif-converter.gif",
       "source": "Wired",
@@ -309,24 +336,6 @@
       "publishedAt": "2026-07-28T21:29:34.000Z"
     },
     {
-      "id": "axqvry",
-      "title": "MCP startup Runlayer accuses Rippling of stealing its product idea",
-      "summary": "Runlayer is suing Rippling after Rippling evaluated the startup's MCP gateway product and then opted to build one itself.",
-      "imageUrl": "https://images.unsplash.com/photo-1485827404703-89b55fcc595e?w=800&q=80",
-      "source": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/07/28/mcp-startup-runlayer-accuses-rippling-of-stealing-its-product-idea/",
-      "publishedAt": "2026-07-28T20:45:12.000Z"
-    },
-    {
-      "id": "sy6qhs",
-      "title": "Sam Altman is ready to decelerate",
-      "summary": "His change of position comes after \"the first security incident that I have felt very viscerally.\"",
-      "imageUrl": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=800&q=80",
-      "source": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/07/28/sam-altman-is-ready-to-decelerate/",
-      "publishedAt": "2026-07-28T20:17:08.000Z"
-    },
-    {
       "id": "wsv5ne",
       "title": "AI leaders sign a statement asking the government to do something about automated AI",
       "summary": "Employees of OpenAI and Anthropic, as well as Google, Meta, Thinking Machines, Microsoft, Mistral, and other leading AI labs, have written a statement to the US government supporting a potential slowdown of sorts for frontier AI development - or at least a speed-up of global coordinated governance efforts. \"Al could help create a dramatically better future, but that outcome is not guaranteed,\" the employees wrote in the statement. \"The world's leading Al companies believe they could be close to…",
@@ -424,15 +433,6 @@
       "source": "MIT Tech Review",
       "sourceUrl": "https://www.technologyreview.com/2026/07/27/1140833/the-download-lasers-nuclear-organ-preservation/",
       "publishedAt": "2026-07-27T12:10:00.000Z"
-    },
-    {
-      "id": "ebgyme",
-      "title": "The path to artificial superintelligence",
-      "summary": "Imagine a healthcare system made up of multiple AI agents: one that manages symptom assessment, another scheduling, a third insurance, and a fourth pharmacy. Each is an expert in its domain. But they all have their own distinct knowledge and objectives. Today they can exchange data, but they are not yet able to actually coordinate…",
-      "imageUrl": "https://images.unsplash.com/photo-1531746790095-6c10a4031c5f?w=800&q=80",
-      "source": "MIT Tech Review",
-      "sourceUrl": "https://www.technologyreview.com/2026/07/27/1140724/the-path-to-artificial-superintelligence/",
-      "publishedAt": "2026-07-27T12:00:00.000Z"
     },
     {
       "id": "hcwlne",
