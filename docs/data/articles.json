@@ -1,7 +1,25 @@
 {
-  "fetchedAt": "2026-07-29T22:30:32.938Z",
+  "fetchedAt": "2026-07-30T00:04:17.313Z",
   "count": 60,
   "articles": [
+    {
+      "id": "7jhs6q",
+      "title": "Mark Zuckerberg predicts that billions of people will have personal AI agents in five years",
+      "summary": "As Meta pours billions into AI infrastructure and agents, Zuckerberg is working to convince investors that the payoff will be worth the price.",
+      "imageUrl": "https://images.unsplash.com/photo-1550751827-4bd374c3f58b?w=800&q=80",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/07/29/mark-zuckerberg-predicts-that-billions-of-people-will-have-personal-ai-agents-in-five-years/",
+      "publishedAt": "2026-07-29T23:00:11.000Z"
+    },
+    {
+      "id": "1ie7no",
+      "title": "Microsoft logs $3.2B from Anthropic investment, but OpenAI was a mixed bag",
+      "summary": "When Microsoft reported killer fourth-quarter earnings for its fiscal 2026 year (which ended June 30), it tucked in an interesting little tidbit about how its investments in the two biggest, and competing, AI labs are doing.",
+      "imageUrl": "https://images.unsplash.com/photo-1655720828018-edd2daec9349?w=800&q=80",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/07/29/microsoft-logs-3-2b-from-anthropic-investment-but-openai-was-a-mixed-bag/",
+      "publishedAt": "2026-07-29T22:46:03.000Z"
+    },
     {
       "id": "yk1mxp",
       "title": "Zuckerberg says Meta’s enterprise AI opportunity extends beyond agents",
@@ -19,6 +37,15 @@
       "source": "The Verge",
       "sourceUrl": "https://www.theverge.com/tech/972927/microsoft-copilot-super-app-confirmed",
       "publishedAt": "2026-07-29T22:17:38.000Z"
+    },
+    {
+      "id": "xpjdzn",
+      "title": "Mythos uncovers crypto weaknesses that went unknown for years",
+      "summary": "Separating the chaff from the wheat in Anthropic results is hard. We take a stab anyway.",
+      "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2026/07/broken-encryption-lock-1152x648.jpg",
+      "source": "Ars Technica",
+      "sourceUrl": "https://arstechnica.com/security/2026/07/mythos-uncovers-crypto-weaknesses-that-went-unknown-for-years/",
+      "publishedAt": "2026-07-29T22:07:06.000Z"
     },
     {
       "id": "tr5bmu",
@@ -273,24 +300,6 @@
       "publishedAt": "2026-07-28T15:42:26.000Z"
     },
     {
-      "id": "yuwxgo",
-      "title": "Fish Audio raises $52M seed to build AI voice models for creators and enterprises",
-      "summary": "Since launching last year, the startup today has more than 8 million people using the open source or hosted version of its models, and now generates annual recurring revenue of $21 million.",
-      "imageUrl": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=800&q=80",
-      "source": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/07/28/fish-audio-raises-50m-seed-to-build-ai-voice-models-for-creators-and-enterprises/",
-      "publishedAt": "2026-07-28T14:00:00.000Z"
-    },
-    {
-      "id": "k27irq",
-      "title": "Recursive Superintelligence signs $410M compute deal with Amazon",
-      "summary": "Recursive’s emphasis on self-improving AI systems means much of the budget that would traditionally go toward headcount and operations is put straight into compute, as the company seeks to automate its own product development process.",
-      "imageUrl": "https://images.unsplash.com/photo-1550751827-4bd374c3f58b?w=800&q=80",
-      "source": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/07/28/recursive-superintelligence-signs-400-compute-deal-with-amazon/",
-      "publishedAt": "2026-07-28T13:19:17.000Z"
-    },
-    {
       "id": "xagpop",
       "title": "Perplexity’s Personal Computer turns Windows PCs into AI agents",
       "summary": "Perplexity has expanded its agentic Personal Computer tool to Windows, allowing computers running the world's most popular OS to be used as a locally run AI system. Like the Mac version that Perplexity launched in April, Personal Computer for Windows operates like a \"general-purpose digital worker\" that can access local files and apps to perform actions on your behalf, such as creating documents and updating spreadsheets. This launch builds on Personal Computer integrations that Perplexity…",
@@ -532,15 +541,6 @@
       "source": "Ars Technica",
       "sourceUrl": "https://arstechnica.com/security/2026/07/high-severity-guest-vm-escape-is-1-of-2-linux-vulnerabilities-to-surface-this-week/",
       "publishedAt": "2026-07-08T19:01:19.000Z"
-    },
-    {
-      "id": "dl7h4c",
-      "title": "Aussie gov't tells volunteers to throw out thousands of functioning test routers",
-      "summary": "But the devices could \"easily be reflashed.\"",
-      "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2026/07/GettyImages-2238063763-1152x648-1783530792.jpg",
-      "source": "Ars Technica",
-      "sourceUrl": "https://arstechnica.com/gadgets/2026/07/thousands-of-routers-bricked-after-government-program-concludes-in-australia/",
-      "publishedAt": "2026-07-08T18:10:16.000Z"
     }
   ]
 }
