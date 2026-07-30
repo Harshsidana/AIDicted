@@ -1,7 +1,25 @@
 {
-  "fetchedAt": "2026-07-30T06:33:46.968Z",
+  "fetchedAt": "2026-07-30T09:34:35.810Z",
   "count": 60,
   "articles": [
+    {
+      "id": "gvj814",
+      "title": "AI Scammers Are Better at Building Trust Than Humans",
+      "summary": "Researchers pitted a person against a Claude agent and found that, after a week of texting, the AI chatbot was more effective at creating “exploitable trust” with others.",
+      "imageUrl": "https://media.wired.com/photos/6a6a9f93602a98f3436cc89d/master/pass/Security_AI%20Scammers%20Can%20Build%20Trust%20Better%20Than%20Humans_v2.jpg",
+      "source": "Wired",
+      "sourceUrl": "https://www.wired.com/story/ai-scammers-are-better-at-building-trust-than-humans/",
+      "publishedAt": "2026-07-30T09:30:00.000Z"
+    },
+    {
+      "id": "m9wvly",
+      "title": "I Got a Free Meal From a Private Chef—Who Filmed It All to Train Robots",
+      "summary": "A German startup sent a camera-wearing chef to my apartment. In exchange for a free lunch, I let them record every chop and stir to train future humanoids.",
+      "imageUrl": "https://media.wired.com/photos/6a69d538bda4e52fe44bd005/master/pass/IMG_2283.jpg",
+      "source": "Wired",
+      "sourceUrl": "https://www.wired.com/story/i-let-a-private-chef-film-my-kitchen-for-robot-training-data/",
+      "publishedAt": "2026-07-30T09:00:00.000Z"
+    },
     {
       "id": "oyrvgb",
       "title": "Microsoft is openly competing with OpenAI, Anthropic more than ever",
@@ -415,24 +433,6 @@
       "source": "MIT Tech Review",
       "sourceUrl": "https://www.technologyreview.com/2026/07/27/1139667/closing-the-data-loop-in-ai-driven-drug-discovery/",
       "publishedAt": "2026-07-27T11:40:16.000Z"
-    },
-    {
-      "id": "h9w6nh",
-      "title": "This Is Donald Trump’s AI Brain Trust",
-      "summary": "“It’s not an argument with two sides, it’s an argument with 10 sides,” one senior administration official tells WIRED about how US AI policy is being shaped.",
-      "imageUrl": "https://media.wired.com/photos/6a63ddfc7b2f84e64f1f3fcf/master/pass/Donald-Trump-AI-Brain-Trust-Politics.jpg",
-      "source": "Wired",
-      "sourceUrl": "https://www.wired.com/story/this-is-donald-trumps-ai-brain-trust/",
-      "publishedAt": "2026-07-27T10:00:00.000Z"
-    },
-    {
-      "id": "qddsxp",
-      "title": "The OpenAI Models That Hacked Hugging Face Were ‘Active on the Internet’ for Days",
-      "summary": "Plus: Russian hackers are trying to steal US nuclear scientists’ emails, the State Department bans known scammers from entering the United States, and more.",
-      "imageUrl": "https://media.wired.com/photos/6a639d3adc5893971a3d0afd/master/pass/GettyImages-2278950606.jpg",
-      "source": "Wired",
-      "sourceUrl": "https://www.wired.com/story/security-news-this-week-the-openai-models-that-hacked-hugging-face-were-active-on-the-internet-for-days/",
-      "publishedAt": "2026-07-25T10:30:00.000Z"
     },
     {
       "id": "hcwlne",
