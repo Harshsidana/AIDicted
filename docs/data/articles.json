@@ -1,7 +1,61 @@
 {
-  "fetchedAt": "2026-07-30T14:24:24.599Z",
+  "fetchedAt": "2026-07-30T16:07:45.789Z",
   "count": 60,
   "articles": [
+    {
+      "id": "hn27xt",
+      "title": "The New Friend AI Pendant Can Now Talk Back to You",
+      "summary": "Avi Schiffmann has a new version of his controversial AI companion. It’s more expensive, and you can’t change its personality.",
+      "imageUrl": "https://media.wired.com/photos/6a6a649d6a06c49f95fa2cca/master/pass/CAR.jpg",
+      "source": "Wired",
+      "sourceUrl": "https://www.wired.com/story/the-friend-2-necklace-can-talk-back-to-you-now/",
+      "publishedAt": "2026-07-30T16:00:00.000Z"
+    },
+    {
+      "id": "3eg2cw",
+      "title": "Meta says AI is making it easier to build new apps — and more are coming",
+      "summary": "Meta says AI is making it dramatically easier to build and launch new consumer apps, with CEO Mark Zuckerberg telling investors the company has more new consumer products on the way following a recent wave of releases for Facebook Groups, Marketplace sellers, Instagram, and gaming.",
+      "imageUrl": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=800&q=80",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/07/30/meta-says-ai-is-making-it-easier-to-build-new-apps-and-more-are-coming/",
+      "publishedAt": "2026-07-30T15:41:16.000Z"
+    },
+    {
+      "id": "kbfozd",
+      "title": "Nscale buys Anyscale as it seeks to own more of the AI compute stack",
+      "summary": "British AI neocloud Nscale is buying software startup Anyscale, which helps companies scale their AI workloads across data centers and servers.",
+      "imageUrl": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=800&q=80",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/07/30/nscale-buys-anyscale-as-it-seeks-to-own-more-of-the-ai-compute-stack/",
+      "publishedAt": "2026-07-30T15:19:15.000Z"
+    },
+    {
+      "id": "n2mzp0",
+      "title": "Gemini Robotics 2 Brings Google's AI Into the Physical World",
+      "summary": "The latest version of Google DeepMind's AI model includes a significant jump into “physical AGI.” But plopping AI into the real world comes with risks.",
+      "imageUrl": "https://media.wired.com/photos/6a6a8a2bd6b54781fab7d961/master/pass/Google-Trying-to-Bring-AI-Into-Physical-World-Business.jpg",
+      "source": "Wired",
+      "sourceUrl": "https://www.wired.com/story/google-gemini-can-control-humanoid-robots/",
+      "publishedAt": "2026-07-30T15:04:22.000Z"
+    },
+    {
+      "id": "esj4fx",
+      "title": "Forward-deployed engineers are the AI industry’s latest talent obsession",
+      "summary": "A new study estimates only 2,000 U.S. engineers have the expertise to deliver meaningful AI ROI, as enterprises race to hire forward-deployed engineers to implement AI at scale.",
+      "imageUrl": "https://images.unsplash.com/photo-1550751827-4bd374c3f58b?w=800&q=80",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/07/30/forward-deployed-engineers-are-the-ai-industrys-latest-talent-obsession/",
+      "publishedAt": "2026-07-30T15:00:00.000Z"
+    },
+    {
+      "id": "w8b9rk",
+      "title": "In the Hugging Face breach, OpenAI’s hacker was noisy and fast — but not unstoppable",
+      "summary": "Cybersecurity experts told TechCrunch that one of the biggest lessons to be taken from the OpenAI hack against Hugging Face has nothing to do with AI, but traditional cybersecurity defense.",
+      "imageUrl": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=800&q=80",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/07/30/in-the-hugging-face-breach-openais-hacker-was-noisy-and-fast-but-not-unstoppable/",
+      "publishedAt": "2026-07-30T14:48:32.000Z"
+    },
     {
       "id": "58057q",
       "title": "TechCrunch Disrupt 2026’s biggest stage features leaders from Amazon, Replit, Tether, with much more to come",
@@ -69,7 +123,7 @@
       "id": "m9wvly",
       "title": "I Got a Free Meal From a Private Chef—Who Filmed It All to Train Robots",
       "summary": "A German startup sent a camera-wearing chef to my apartment. In exchange for a free lunch, I let them record every chop and stir to train future humanoids.",
-      "imageUrl": "https://media.wired.com/photos/6a69d538bda4e52fe44bd005/master/pass/IMG_2283.jpg",
+      "imageUrl": "https://media.wired.com/photos/6a6b6983ca4c508c17fdaef7/master/pass/IMG_2229.JPG",
       "source": "Wired",
       "sourceUrl": "https://www.wired.com/story/i-let-a-private-chef-film-my-kitchen-for-robot-training-data/",
       "publishedAt": "2026-07-30T09:00:00.000Z"
@@ -219,15 +273,6 @@
       "publishedAt": "2026-07-29T15:35:09.000Z"
     },
     {
-      "id": "tm5kbk",
-      "title": "Encore AI raises $30M to build AI agents that learn from customer calls",
-      "summary": "The startup analyzes calls, messages, and CRM data to identify effective sales techniques and turn them into playbooks for AI agents.",
-      "imageUrl": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=800&q=80",
-      "source": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/07/29/encore-ai-raises-30m-to-build-ai-agents-that-learn-from-customer-calls/",
-      "publishedAt": "2026-07-29T14:41:06.000Z"
-    },
-    {
       "id": "422r1g",
       "title": "The Download: a chip talent battle, and deflating AI hype",
       "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. Samsung’s chip workers are jumping ship to rival SK Hynix Lee, an engineer at Samsung’s semiconductor division, used to work late. But lately, he’s been clocking out on time and heading…",
@@ -253,15 +298,6 @@
       "source": "The Verge",
       "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/972441/openai-rogue-ai-agent-hacked-more-than-hugging-face",
       "publishedAt": "2026-07-29T11:54:29.000Z"
-    },
-    {
-      "id": "k1q64z",
-      "title": "As AI content floods the internet, Pangram raises $9M to detect it",
-      "summary": "Pangram has raised $9 million to scale its AI detection software. The startup has also released a new AI text detection model, Pangram 4, and an AI image detection model in research preview.",
-      "imageUrl": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=800&q=80",
-      "source": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/07/29/as-ai-content-floods-the-internet-pangram-raises-9m-to-detect-it/",
-      "publishedAt": "2026-07-29T11:00:00.000Z"
     },
     {
       "id": "3oixqo",
@@ -309,15 +345,6 @@
       "publishedAt": "2026-07-29T00:15:30.000Z"
     },
     {
-      "id": "n1hfzh",
-      "title": "Cyera agrees to acquire Oasis Security for $1B to safeguard proliferating AI agents",
-      "summary": "The deal is Cyera's third acquisition this year.",
-      "imageUrl": "https://images.unsplash.com/photo-1526374965328-7f61d4dc18c5?w=800&q=80",
-      "source": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/07/28/cyera-agrees-to-acquire-oasis-security-for-1b-to-safeguard-proliferating-ai-agents/",
-      "publishedAt": "2026-07-29T00:09:05.000Z"
-    },
-    {
       "id": "kxu0jq",
       "title": "We now have a better understanding how OpenAI hacked into Hugging Face",
       "summary": "10 days passed from OpenAI models exploiting JFrog Artifactory 0-day to release of a patch.",
@@ -325,15 +352,6 @@
       "source": "Ars Technica",
       "sourceUrl": "https://arstechnica.com/security/2026/07/jfrog-tries-to-spin-openai-0-day-exploit-of-its-app-into-a-success-story/",
       "publishedAt": "2026-07-28T21:36:39.000Z"
-    },
-    {
-      "id": "j7m6xp",
-      "title": "Bot-detection startup Spur nabs $200M from Insight",
-      "summary": "Spur Intelligence has raised a $200 million round from Insight Partners for its tech that can identify legit human traffic from bots.",
-      "imageUrl": "https://images.unsplash.com/photo-1550751827-4bd374c3f58b?w=800&q=80",
-      "source": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/07/28/bot-detection-startup-spur-nabs-200m-from-insight/",
-      "publishedAt": "2026-07-28T21:29:34.000Z"
     },
     {
       "id": "wsv5ne",
@@ -370,24 +388,6 @@
       "source": "MIT Tech Review",
       "sourceUrl": "https://www.technologyreview.com/2026/07/28/1140868/the-download-openai-hack-ai-stock-sell-off/",
       "publishedAt": "2026-07-28T12:10:00.000Z"
-    },
-    {
-      "id": "h494z3",
-      "title": "Can the New York Times Save Journalism From Our AI Overlords?",
-      "summary": "In 2023, the Times sued OpenAI and Microsoft for copyright infringement. They’ve since spent more than $20 million on the case, and publisher A.G. Sulzberger has no plans to stop fighting it.",
-      "imageUrl": "https://media.wired.com/photos/6a629130d1a4f0b18c5d7b7e/master/pass/Big-Interview-UV-Solo-AG-Sulzberger-Business-1189291051.jpg",
-      "source": "Wired",
-      "sourceUrl": "https://www.wired.com/story/the-big-interview-podcast-a-g-sulzberger-new-york-times/",
-      "publishedAt": "2026-07-28T10:30:00.000Z"
-    },
-    {
-      "id": "um8d9u",
-      "title": "Silicon Valley’s Next IPO Billionaires Are Coming. Nonprofits Are Ready for Them",
-      "summary": "Anthropic and OpenAI employees are expected to give generously after their companies go public. “It’s going to be a wild ride,” says one nonprofit leader.",
-      "imageUrl": "https://media.wired.com/photos/6a63fc68cbf9442761b08e12/master/pass/How-Nonprofits-Preparing-for-Flood-of-Philanthropy-After-Anthropic-OpenAI-Go-Public-Business.jpg",
-      "source": "Wired",
-      "sourceUrl": "https://www.wired.com/story/nonprofits-are-getting-ready-for-the-funding-anthropalypse/",
-      "publishedAt": "2026-07-28T10:00:00.000Z"
     },
     {
       "id": "lt26yo",
