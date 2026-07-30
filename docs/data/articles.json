@@ -1,7 +1,16 @@
 {
-  "fetchedAt": "2026-07-30T00:04:17.313Z",
+  "fetchedAt": "2026-07-30T03:42:09.179Z",
   "count": 60,
   "articles": [
+    {
+      "id": "oyrvgb",
+      "title": "Microsoft is openly competing with OpenAI, Anthropic more than ever",
+      "summary": "Microsoft pitched its own homegrown AI models, harnesses, and even a Mythos competitor on Wednesday, telling Wall Street it plans for continued growth.",
+      "imageUrl": "https://images.unsplash.com/photo-1550751827-4bd374c3f58b?w=800&q=80",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/07/29/microsoft-is-openly-competing-with-openai-anthropic-more-than-ever/",
+      "publishedAt": "2026-07-30T00:21:06.000Z"
+    },
     {
       "id": "7jhs6q",
       "title": "Mark Zuckerberg predicts that billions of people will have personal AI agents in five years",
@@ -39,9 +48,9 @@
       "publishedAt": "2026-07-29T22:17:38.000Z"
     },
     {
-      "id": "xpjdzn",
-      "title": "Mythos uncovers crypto weaknesses that went unknown for years",
-      "summary": "Separating the chaff from the wheat in Anthropic results is hard. We take a stab anyway.",
+      "id": "irpfmg",
+      "title": "Mythos attack on 3rd-round PQC algorithm candidate puts it out of commission",
+      "summary": "HAWK withstood years of testing that had yet to uncover a fatal weakness found through Mythos.",
       "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2026/07/broken-encryption-lock-1152x648.jpg",
       "source": "Ars Technica",
       "sourceUrl": "https://arstechnica.com/security/2026/07/mythos-uncovers-crypto-weaknesses-that-went-unknown-for-years/",
@@ -289,15 +298,6 @@
       "source": "The Verge",
       "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/972119/ai-stock-fall-google-capex",
       "publishedAt": "2026-07-28T19:33:03.000Z"
-    },
-    {
-      "id": "gh0a34",
-      "title": "Data centers may face temporary power cuts to prevent blackouts on largest US grid",
-      "summary": "The decision arrives as the breakneck pace of data center construction has grid operators scrambling to generate power.",
-      "imageUrl": "https://images.unsplash.com/photo-1531746790095-6c10a4031c5f?w=800&q=80",
-      "source": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/07/28/data-centers-may-face-temporary-power-cuts-to-prevent-blackouts-on-largest-us-grid/",
-      "publishedAt": "2026-07-28T15:42:26.000Z"
     },
     {
       "id": "xagpop",
