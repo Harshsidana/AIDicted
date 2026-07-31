@@ -1,7 +1,25 @@
 {
-  "fetchedAt": "2026-07-31T17:06:57.441Z",
+  "fetchedAt": "2026-07-31T18:55:06.518Z",
   "count": 60,
   "articles": [
+    {
+      "id": "urxzqg",
+      "title": "Chinese AI Researchers Are Finding Their Voice on X",
+      "summary": "As OpenAI and Anthropic employees grow quieter online, researchers at Chinese AI labs are flocking to X to explain their work, recruit talent, and shape the global conversation on AI.",
+      "imageUrl": "https://media.wired.com/photos/6a6bc43ecd95420c8647a339/master/pass/Made-in-China--China-AI-Researchers-Are-Finding-Their-Voice-on-X-Business.jpg",
+      "source": "Wired",
+      "sourceUrl": "https://www.wired.com/story/chinese-ai-researchers-are-finding-their-voice-on-x/",
+      "publishedAt": "2026-07-31T18:14:43.000Z"
+    },
+    {
+      "id": "kxnuuj",
+      "title": "Sam Altman isn’t the only one who wants to pump the brakes on AI",
+      "summary": "After years of pushing full speed ahead on AI, OpenAI CEO Sam Altman says maybe it’s time for the AI industry to “pace” itself. The comments came just days after one of OpenAI’s own models broke out of its test environment and got tangled up in a breach at Hugging Face — though as Equity’s hosts point out, sloppy security seems to have […]",
+      "imageUrl": "https://images.unsplash.com/photo-1526374965328-7f61d4dc18c5?w=800&q=80",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/video/sam-altman-isnt-the-only-one-who-wants-to-pump-the-brakes-on-ai/",
+      "publishedAt": "2026-07-31T17:26:32.000Z"
+    },
     {
       "id": "s0gqhx",
       "title": "Here’s the problem with putting an AI image generator in Google Earth",
@@ -14,7 +32,7 @@
     {
       "id": "5oaia",
       "title": "Snapchat no longer rewards fully AI-generated Spotlight content",
-      "summary": "Snapchat has adjusted it recommendation systems to ensure that only videos created by real people are eligible for Spotlight recommendations, taking a stance against AI slop.",
+      "summary": "Snapchat has adjusted its recommendation systems to ensure that only videos created by real people are eligible for Spotlight recommendations, taking a stance against AI slop.",
       "imageUrl": "https://images.unsplash.com/photo-1620712943543-bcc4688e7485?w=800&q=80",
       "source": "TechCrunch",
       "sourceUrl": "https://techcrunch.com/2026/07/31/snapchat-no-longer-rewards-fully-ai-generated-spotlight-content/",
@@ -82,6 +100,15 @@
       "source": "The Verge",
       "sourceUrl": "https://www.theverge.com/podcast/973668/ai-safety-openai-hugging-face-vergecast",
       "publishedAt": "2026-07-31T14:03:04.000Z"
+    },
+    {
+      "id": "2svgde",
+      "title": "AI labs want to pump the brakes, but Amazon and SpaceX are still blasting off",
+      "summary": "After years of pushing full speed ahead on AI, OpenAI CEO Sam Altman says maybe it’s time for the AI industry to “pace” itself. The comments came just days after one of OpenAI’s own models broke out of its test environment and got tangled up in a breach at Hugging Face — though as Equity’s hosts point out, sloppy security seems to have […]",
+      "imageUrl": "https://images.unsplash.com/photo-1620712943543-bcc4688e7485?w=800&q=80",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/podcast/ai-labs-want-to-pump-the-brakes-but-amazon-and-spacex-are-still-blasting-off/",
+      "publishedAt": "2026-07-31T14:00:00.000Z"
     },
     {
       "id": "ljyurw",
@@ -300,24 +327,6 @@
       "publishedAt": "2026-07-30T16:00:00.000Z"
     },
     {
-      "id": "3eg2cw",
-      "title": "Meta says AI is making it easier to build new apps — and more are coming",
-      "summary": "Meta says AI is making it dramatically easier to build and launch new consumer apps, with CEO Mark Zuckerberg telling investors the company has more new consumer products on the way.",
-      "imageUrl": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=800&q=80",
-      "source": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/07/30/meta-says-ai-is-making-it-easier-to-build-new-apps-and-more-are-coming/",
-      "publishedAt": "2026-07-30T15:41:16.000Z"
-    },
-    {
-      "id": "kbfozd",
-      "title": "Nscale buys Anyscale as it seeks to own more of the AI compute stack",
-      "summary": "British AI neocloud Nscale is buying software startup Anyscale, which helps companies scale their AI workloads across data centers and servers.",
-      "imageUrl": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=800&q=80",
-      "source": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/07/30/nscale-buys-anyscale-as-it-seeks-to-own-more-of-the-ai-compute-stack/",
-      "publishedAt": "2026-07-30T15:19:15.000Z"
-    },
-    {
       "id": "n2mzp0",
       "title": "Gemini Robotics 2 Brings Google's AI Into the Physical World",
       "summary": "The latest version of Google DeepMind's AI model includes a significant jump into “physical AGI.” But plopping AI into the real world comes with risks.",
@@ -352,15 +361,6 @@
       "source": "MIT Tech Review",
       "sourceUrl": "https://www.technologyreview.com/2026/07/30/1140927/a-fundamental-flaw-leaves-llms-vulnerable-to-attack/",
       "publishedAt": "2026-07-30T10:15:19.000Z"
-    },
-    {
-      "id": "7de0ns",
-      "title": "LinkedIn Won’t Be Expanding Its Data Centers in the Next Year",
-      "summary": "Despite the ongoing AI boom, LinkedIn is holding the line on compute spending. Instead, it’s challenging engineers to make every GPU count.",
-      "imageUrl": "https://media.wired.com/photos/6a55499d3c32337c08be385d/master/pass/How-LinkedIn-Is-Keeping-Compute-Capacity-Flat-Business-83077321.jpg",
-      "source": "Wired",
-      "sourceUrl": "https://www.wired.com/story/how-linkedin-is-keeping-its-compute-capacity-flat/",
-      "publishedAt": "2026-07-30T10:15:00.000Z"
     },
     {
       "id": "4c40zt",
