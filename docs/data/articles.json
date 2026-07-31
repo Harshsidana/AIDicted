@@ -1,7 +1,25 @@
 {
-  "fetchedAt": "2026-07-31T00:10:11.013Z",
+  "fetchedAt": "2026-07-31T07:24:19.641Z",
   "count": 60,
   "articles": [
+    {
+      "id": "r8fxkh",
+      "title": "Anthropic Says Claude Hacked 3 Organizations During Cybersecurity Tests",
+      "summary": "In a review triggered by OpenAI’s Hugging Face incident, Anthropic discovered three of its AI models had breached real organizations during third-party evaluations.",
+      "imageUrl": "https://media.wired.com/photos/6a6bef5432fc2d440b7d5e3e/master/pass/Business_Claude-Escape.jpg",
+      "source": "Wired",
+      "sourceUrl": "https://www.wired.com/story/anthropic-says-claude-hacked-real-systems-during-cybersecurity-tests/",
+      "publishedAt": "2026-07-31T01:24:26.000Z"
+    },
+    {
+      "id": "gtdfhz",
+      "title": "Anthropic says its own AI models breached three companies during security tests",
+      "summary": "After OpenAI's models broke into Hugging Face, Anthropic checked its own history and found three similar incidents",
+      "imageUrl": "https://images.unsplash.com/photo-1655720828018-edd2daec9349?w=800&q=80",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/07/30/anthropic-says-its-own-ai-models-breached-three-companies-during-security-tests/",
+      "publishedAt": "2026-07-31T01:06:54.000Z"
+    },
     {
       "id": "p8e4mr",
       "title": "AI hedge fund Situational Awareness may have sold its public portfolio, but it still has its Anthropic shares",
@@ -10,6 +28,15 @@
       "source": "TechCrunch",
       "sourceUrl": "https://techcrunch.com/2026/07/30/ai-hedge-fund-situational-awareness-may-have-sold-its-public-portfolio-but-it-still-has-its-anthropic-shares/",
       "publishedAt": "2026-07-30T23:25:58.000Z"
+    },
+    {
+      "id": "y93l3l",
+      "title": "Reddit reports a solid quarter but shows signs of AI’s impact",
+      "summary": "Reddit's financial situation is looking good but uncertainty about its relationship to Google and the new AI-ified web are stirring market concerns.",
+      "imageUrl": "https://images.unsplash.com/photo-1531746790095-6c10a4031c5f?w=800&q=80",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/07/30/reddit-reports-a-solid-quarter-but-shows-signs-of-ais-impact/",
+      "publishedAt": "2026-07-30T23:08:58.000Z"
     },
     {
       "id": "hojg1q",
@@ -273,24 +300,6 @@
       "publishedAt": "2026-07-30T09:00:00.000Z"
     },
     {
-      "id": "oyrvgb",
-      "title": "Microsoft is openly competing with OpenAI, Anthropic more than ever",
-      "summary": "Microsoft pitched its own homegrown AI models, harnesses, and even a Mythos competitor on Wednesday, telling Wall Street it plans for continued growth.",
-      "imageUrl": "https://images.unsplash.com/photo-1550751827-4bd374c3f58b?w=800&q=80",
-      "source": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/07/29/microsoft-is-openly-competing-with-openai-anthropic-more-than-ever/",
-      "publishedAt": "2026-07-30T00:21:06.000Z"
-    },
-    {
-      "id": "7jhs6q",
-      "title": "Mark Zuckerberg predicts that billions of people will have personal AI agents in five years",
-      "summary": "As Meta pours billions into AI infrastructure and agents, Zuckerberg is working to convince investors that the payoff will be worth the price.",
-      "imageUrl": "https://images.unsplash.com/photo-1550751827-4bd374c3f58b?w=800&q=80",
-      "source": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/07/29/mark-zuckerberg-predicts-that-billions-of-people-will-have-personal-ai-agents-in-five-years/",
-      "publishedAt": "2026-07-29T23:00:11.000Z"
-    },
-    {
       "id": "4c40zt",
       "title": "Microsoft confirms Copilot ‘super app’ coming this year",
       "summary": "Microsoft is working on an AI \"super app\" that combines Copilot's chat, coding, and agentic capabilities. During an earnings call on Wednesday, Microsoft CEO Satya Nadella said the app will span \"both consumer and commercial experiences\" when it launches this year. \"Copilot is evolving rapidly from chat to Cowork to Autopilots,\" Nadella said. \"This quarter, we are bringing these Copilot experiences together, including code, in one super app… This is a major step forward, and I look forward to…",
@@ -325,15 +334,6 @@
       "source": "The Verge",
       "sourceUrl": "https://www.theverge.com/policy/972850/xai-grok-minnesota-nudification-lawsuit",
       "publishedAt": "2026-07-29T21:06:52.000Z"
-    },
-    {
-      "id": "da3d0s",
-      "title": "It’s Frighteningly Easy to Jailbreak Some Frontier AI Models",
-      "summary": "I watched a new tool try to get around the model safeguards of four major frontier companies. You might be surprised by how they performed.",
-      "imageUrl": "https://media.wired.com/photos/6a68e96a01173a5bff236fa1/master/pass/AI-Lab-Still-Frighteningly-Easy-to-Jailbreak-Frontier-AI-Models-Business.jpg",
-      "source": "Wired",
-      "sourceUrl": "https://www.wired.com/story/jailbreaking-ai-models-google-anthropic-openai-spacexai/",
-      "publishedAt": "2026-07-29T18:30:00.000Z"
     },
     {
       "id": "gtqj8w",
