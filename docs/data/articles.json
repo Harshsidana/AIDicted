@@ -1,7 +1,16 @@
 {
-  "fetchedAt": "2026-08-01T07:33:57.959Z",
+  "fetchedAt": "2026-08-01T10:05:53.098Z",
   "count": 60,
   "articles": [
+    {
+      "id": "uhblj4",
+      "title": "Nobody Knows if OpenAI’s and Anthropic’s AI Hacking Sprees Are Illegal",
+      "summary": "Both major AI labs’ models broke containment, escaped onto the internet, and hacked other companies. If a human had done that, the law would likely be against them. But a bot?",
+      "imageUrl": "https://media.wired.com/photos/6a6d14b8b61d0975176f3aa8/master/pass/Security_The%20OpenAI%20and%20Anthropic%20Hacking%20Sprees%20May%20Have%20Legal%20Consequences_v1.jpg",
+      "source": "Wired",
+      "sourceUrl": "https://www.wired.com/story/openai-anthropic-ai-hacking-sprees-illegal/",
+      "publishedAt": "2026-08-01T09:30:00.000Z"
+    },
     {
       "id": "kg1vrv",
       "title": "OpenAI reportedly finds evidence that more of its agents ran amok",
@@ -361,15 +370,6 @@
       "source": "MIT Tech Review",
       "sourceUrl": "https://www.technologyreview.com/2026/07/30/1140936/the-download-tricking-llms-reviving-geothermal/",
       "publishedAt": "2026-07-30T12:10:00.000Z"
-    },
-    {
-      "id": "knu9f1",
-      "title": "OpenAI’s Hacking Debacle Comes Down to Human Error",
-      "summary": "If the generative AI giant had followed well-known security best practices, it’s likely that its AI agent would never have escaped to the open internet and hacked multiple companies.",
-      "imageUrl": "https://media.wired.com/photos/6a6a94581485bb334813c567/master/pass/Security_OpenAIsHackingDebacleWasaHumanMistake_v1-ezgif.com-video-to-gif-converter.gif",
-      "source": "Wired",
-      "sourceUrl": "https://www.wired.com/story/openais-hacking-debacle-was-a-human-mistake/",
-      "publishedAt": "2026-07-30T10:30:00.000Z"
     },
     {
       "id": "ff6qeq",
