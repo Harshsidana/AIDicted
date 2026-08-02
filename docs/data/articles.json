@@ -1,7 +1,16 @@
 {
-  "fetchedAt": "2026-08-02T20:29:35.386Z",
+  "fetchedAt": "2026-08-02T21:29:26.840Z",
   "count": 60,
   "articles": [
+    {
+      "id": "nvwep8",
+      "title": "Sam Altman and AI’s decel debate",
+      "summary": "On the latest episode of Equity, we discuss why Sam Altman has calling on the industry to \"pace the rate of AI development.\"",
+      "imageUrl": "https://images.unsplash.com/photo-1620712943543-bcc4688e7485?w=800&q=80",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/08/02/sam-altman-and-ais-decel-debate/",
+      "publishedAt": "2026-08-02T20:54:22.000Z"
+    },
     {
       "id": "z0rbe",
       "title": "Fender’s CEO seems to think your bandmates are just analog AI",
@@ -289,15 +298,6 @@
       "source": "TechCrunch",
       "sourceUrl": "https://techcrunch.com/2026/07/30/anthropic-says-its-own-ai-models-breached-three-companies-during-security-tests/",
       "publishedAt": "2026-07-31T01:06:54.000Z"
-    },
-    {
-      "id": "p8e4mr",
-      "title": "AI hedge fund Situational Awareness may have sold its public portfolio, but it still has its Anthropic shares",
-      "summary": "The former OpenAI researcher’s fund was forced to unwind public equities after leveraged public bets plummeted. But he still has cards to play.",
-      "imageUrl": "https://images.unsplash.com/photo-1526374965328-7f61d4dc18c5?w=800&q=80",
-      "source": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/07/30/ai-hedge-fund-situational-awareness-may-have-sold-its-public-portfolio-but-it-still-has-its-anthropic-shares/",
-      "publishedAt": "2026-07-30T23:25:58.000Z"
     },
     {
       "id": "5hy261",
