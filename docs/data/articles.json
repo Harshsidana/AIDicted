@@ -1,7 +1,16 @@
 {
-  "fetchedAt": "2026-08-02T12:36:27.022Z",
+  "fetchedAt": "2026-08-02T16:06:57.244Z",
   "count": 60,
   "articles": [
+    {
+      "id": "7dibip",
+      "title": "Is paying artists enough to convince them to embrace AI?",
+      "summary": "Illustrators have spent years sounding the alarm about generative artificial intelligence startups training their models on artists' work without permission. They've pointed out how the practice is tantamount to theft, and in response, many gen AI boosters have argued that it's necessary for the technology's evolution. This has led to contentious legal battles, but it's also given rise to a new wave of AI startups like Pippa that market their services as being more ethical than the competition.…",
+      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/Screenshot-2026-07-31-at-4.11.25-PM.png?quality=90&#038;strip=all&#038;crop=2.6881256103516,0,97.311874389648,100",
+      "source": "The Verge",
+      "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/974018/pippa-seedance-artist-royalties",
+      "publishedAt": "2026-08-02T13:00:00.000Z"
+    },
     {
       "id": "eezr47",
       "title": "Europeans Are About to Find Out How Entrenched AI Is in Their Daily Lives",
@@ -334,15 +343,6 @@
       "source": "Wired",
       "sourceUrl": "https://www.wired.com/story/nvidias-open-source-alliance-snubs-openai-and-anthropic/",
       "publishedAt": "2026-07-30T17:51:10.000Z"
-    },
-    {
-      "id": "hhgye9",
-      "title": "Google DeepMind’s new AI model can control a robot’s entire body",
-      "summary": "Apptronik’s Apollo 2 robot takes a baseball glove off of a shelf. | Image: Google Google DeepMind says the latest version of its Gemini Robotics AI model can \"control entire humanoid robots.\" While the previous model focused on controlling a humanoid robot's upper body, Gemini Robotics 2 now supports \"whole-body motions\" ranging from its feet to fingertips, according to an announcement on Thursday. The new model will allow humanoid robots to perform a wider range of actions, as it allows them to…",
-      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/gemini-robotics-2-shelf.png?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "source": "The Verge",
-      "sourceUrl": "https://www.theverge.com/tech/973276/google-deepmind-gemini-robotics-2-whole-body",
-      "publishedAt": "2026-07-30T17:18:45.000Z"
     },
     {
       "id": "codtje",
