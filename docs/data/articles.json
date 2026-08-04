@@ -1,7 +1,43 @@
 {
-  "fetchedAt": "2026-08-04T18:44:43.064Z",
+  "fetchedAt": "2026-08-04T20:37:27.558Z",
   "count": 60,
   "articles": [
+    {
+      "id": "uadnq0",
+      "title": "Open-weight AI models are catching up to the frontier. The safety gap remains.",
+      "summary": "A new SaferAI report finds Z.ai's open-weight GLM-5.2 approaches frontier AI capabilities while lacking key safety mitigations, renewing concerns that powerful open models could outpace governance and safeguards.",
+      "imageUrl": "https://images.unsplash.com/photo-1635070041078-e363dbe005cb?w=800&q=80",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/08/04/open-weight-ai-models-are-catching-up-to-the-frontier-the-safety-gap-remains/",
+      "publishedAt": "2026-08-04T20:05:26.000Z"
+    },
+    {
+      "id": "njrl8i",
+      "title": "Anthropic signs $10B deal with AI cloud startup Volta",
+      "summary": "Anthropic has been on a cloud partnership spree in recent months, and its latest move is reportedly a $10 billion deal with AI cloud startup Volta.",
+      "imageUrl": "https://images.unsplash.com/photo-1550751827-4bd374c3f58b?w=800&q=80",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/08/04/anthropic-signs-10-billion-deal-with-ai-cloud-startup-volta/",
+      "publishedAt": "2026-08-04T19:48:40.000Z"
+    },
+    {
+      "id": "v3yk3a",
+      "title": "Meet Wrinkles, an app that uncovers the hidden stories of the places around you",
+      "summary": "Wrinkles, available on both iOS and Android, essentially acts as an AI-powered audio tour guide that reveals hidden history and local stories.",
+      "imageUrl": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=800&q=80",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/08/04/meet-wrinkles-an-ai-app-that-uncovers-the-hidden-stories-of-the-places-around-you/",
+      "publishedAt": "2026-08-04T19:34:34.000Z"
+    },
+    {
+      "id": "66axz3",
+      "title": "Nvidia doesn’t mess around: A week after open AI industry group formed, it’s already showing progress",
+      "summary": "The week-old Open Secure AI Alliance, spearheaded by Nvidia and grown to over 120 companies, already has proposals out for defending against AI agents.",
+      "imageUrl": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=800&q=80",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/08/04/nvidia-doesnt-mess-around-a-week-after-open-ai-industry-group-formed-its-already-showing-progress/",
+      "publishedAt": "2026-08-04T19:28:49.000Z"
+    },
     {
       "id": "ungorh",
       "title": "How an OpenAI influencer trip backfired",
@@ -228,15 +264,6 @@
       "publishedAt": "2026-08-03T17:38:45.000Z"
     },
     {
-      "id": "ta47us",
-      "title": "Congress’ favorite AI tool? ChatGPT",
-      "summary": "House spending records show OpenAI's ChatGPT dominates paid AI use on Capitol Hill, with congressional offices relying on the chatbot to draft memos, summarize legislation, and assist constituent communications.",
-      "imageUrl": "https://images.unsplash.com/photo-1655720828018-edd2daec9349?w=800&q=80",
-      "source": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/08/03/congresss-favorite-ai-tool-chatgpt/",
-      "publishedAt": "2026-08-03T16:40:55.000Z"
-    },
-    {
       "id": "kz7158",
       "title": "The Download: reward hacking explained, and suspected Iranian cyberattacks",
       "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. Here’s why AI agents lie and cheat to reach their goals When two OpenAI models hacked into Hugging Face last month, they weren’t trying to make money or commit sabotage—they were…",
@@ -253,15 +280,6 @@
       "source": "The Verge",
       "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/974342/alibaba-qwen-max-open-weight-ai",
       "publishedAt": "2026-08-03T11:01:11.000Z"
-    },
-    {
-      "id": "e4o0g8",
-      "title": "A Marc Benioff-backed startup thinks AI can solve the AI deployment problem",
-      "summary": "June emerged from stealth today with a $20 million pre-seed round to make AI adoption simpler.",
-      "imageUrl": "https://images.unsplash.com/photo-1635070041078-e363dbe005cb?w=800&q=80",
-      "source": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/08/03/a-marc-benioff-backed-startup-thinks-ai-can-solve-the-ai-deployment-problem/",
-      "publishedAt": "2026-08-03T10:00:00.000Z"
     },
     {
       "id": "aleakg",
@@ -291,15 +309,6 @@
       "publishedAt": "2026-08-03T08:30:05.000Z"
     },
     {
-      "id": "nvwep8",
-      "title": "Sam Altman and AI’s decel debate",
-      "summary": "On the latest episode of Equity, we discuss why Sam Altman is calling on the industry to \"pace the rate of AI development.\"",
-      "imageUrl": "https://images.unsplash.com/photo-1620712943543-bcc4688e7485?w=800&q=80",
-      "source": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/08/02/sam-altman-and-ais-decel-debate/",
-      "publishedAt": "2026-08-02T20:54:22.000Z"
-    },
-    {
       "id": "z0rbe",
       "title": "Fender’s CEO seems to think your bandmates are just analog AI",
       "summary": "Edward “Bud” Cole speaks in Japan in 2023. | Image: Jun Sato/WireImage Fender CEO Edward \"Bud\" Cole gave an interview to T3 in May celebrating the 75th anniversary of the Telecaster with comments on AI and music that initially flew under the radar. But it has started making the rounds recently, pouring more fuel on an already raging fire of bad PR following the company pissing off basically the entire guitar-playing community by sending cease-and-desist letters to builders, claiming copyright of…",
@@ -325,15 +334,6 @@
       "source": "Wired",
       "sourceUrl": "https://www.wired.com/story/europeans-are-about-to-find-out-how-entrenched-ai-is-in-their-daily-lives/",
       "publishedAt": "2026-08-02T10:00:00.000Z"
-    },
-    {
-      "id": "ylxffb",
-      "title": "Judge denies xAI’s request to block Minnesota ban on ‘nudify’ apps",
-      "summary": "Despite a lawsuit from xAI, a Minnesota ban on apps that allow users to “nudify” images can move forward.",
-      "imageUrl": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=800&q=80",
-      "source": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/08/01/judge-denies-xais-request-to-block-minnesota-ban-on-nudify-apps/",
-      "publishedAt": "2026-08-01T20:26:04.000Z"
     },
     {
       "id": "t241ft",
