@@ -1,7 +1,52 @@
 {
-  "fetchedAt": "2026-08-04T20:37:27.558Z",
+  "fetchedAt": "2026-08-04T23:34:27.592Z",
   "count": 60,
   "articles": [
+    {
+      "id": "spngoe",
+      "title": "OK, Well, Rogue AI Agents Are Hacking Again",
+      "summary": "Rogue AI agents from OpenAI and Anthropic have again been caught trying to disrupt servers and software—and leaving instructions for future bad behavior.",
+      "imageUrl": "https://media.wired.com/photos/6a726eae679c5abd64d0d058/master/pass/Chat-GPT-Agents-Hacking-More-Business-2275331611.jpg",
+      "source": "Wired",
+      "sourceUrl": "https://www.wired.com/story/ok-well-there-are-even-more-ai-agent-hacking-incidents/",
+      "publishedAt": "2026-08-04T23:11:31.000Z"
+    },
+    {
+      "id": "xm29z3",
+      "title": "The White House Is Keeping Its AI Cybersecurity Framework Secret",
+      "summary": "The Trump administration shared the details of its plan with OpenAI, Anthropic, and other AI labs on Tuesday. For now, the public remains in the dark.",
+      "imageUrl": "https://media.wired.com/photos/6a7199c152cbcac31bc249b1/master/pass/Trump-Admin-Convenes-AI-Labs-to-Share-AI-Framework-Business-2282299237.jpg",
+      "source": "Wired",
+      "sourceUrl": "https://www.wired.com/story/the-white-house-is-keeping-its-ai-cybersecurity-framework-secret/",
+      "publishedAt": "2026-08-04T22:06:07.000Z"
+    },
+    {
+      "id": "5xhofr",
+      "title": "SpaceX has bought $329M worth of Tesla Megapacks so far this year",
+      "summary": "The purchase illustrates just how interconnected Elon Musk's universe of companies are.",
+      "imageUrl": "https://images.unsplash.com/photo-1676299081847-824916de030a?w=800&q=80",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/08/04/spacex-has-bought-329m-worth-of-tesla-megapacks-so-far-this-year/",
+      "publishedAt": "2026-08-04T21:07:26.000Z"
+    },
+    {
+      "id": "wu0f0b",
+      "title": "AMD’s data center business is booming while gaming takes a backseat",
+      "summary": "Driven by demand for AI capacity, AMD's data center revenue more than doubled year-over-year in its latest earnings report, reaching $6.7 billion. That's up from $5.8 billion in Q1, and jumping 107 percent from the $3.2 billion it reported for the same period a year ago. During Tuesday's earnings call, AMD CEO Lisa Su said the company expects \"data center segment revenue to more than double year-over-year in 2027,\" as well. At the same time, AMD's gaming revenue fell 31 percent compared to last…",
+      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/24002467/acastro_STK081_amd_02.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "source": "The Verge",
+      "sourceUrl": "https://www.theverge.com/tech/975381/amd-q2-2026-earnings-ai-gaming-ryzen",
+      "publishedAt": "2026-08-04T20:57:49.000Z"
+    },
+    {
+      "id": "kuqkhx",
+      "title": "SpaceX made more revenue as an AI company than a space company",
+      "summary": "SpaceX's AI revenue grew more than three times to $2.6 billion from the year before, mostly because of deals that the company made to provide compute to other AI companies, according to SpaceX's quarterly earnings. The AI division, which the company said in its documents to go public was the source of most of its value, lost $1.5 billion this quarter, slightly less than in the same quarter last year. SpaceX made deals with Anthropic in May and Google in June to provide compute to the other two…",
+      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/gettyimages-2286629860.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "source": "The Verge",
+      "sourceUrl": "https://www.theverge.com/science/975335/spacex-made-more-money-as-a-neocloud",
+      "publishedAt": "2026-08-04T20:47:55.000Z"
+    },
     {
       "id": "uadnq0",
       "title": "Open-weight AI models are catching up to the frontier. The safety gap remains.",
@@ -86,7 +131,7 @@
     {
       "id": "658xvb",
       "title": "Elon Musk spends half his time talking robots and AI on Tesla earnings calls",
-      "summary": "An analysis of the last seven years of Tesla earnings calls shows just little attention Musk pays to Tesla's car business.",
+      "summary": "An analysis of the last seven years of Tesla earnings calls shows just how little attention Musk pays to Tesla's car business.",
       "imageUrl": "https://images.unsplash.com/photo-1655720828018-edd2daec9349?w=800&q=80",
       "source": "TechCrunch",
       "sourceUrl": "https://techcrunch.com/2026/08/04/elon-musk-spends-half-his-time-talking-robots-and-ai-on-tesla-earnings-calls/",
@@ -237,15 +282,6 @@
       "publishedAt": "2026-08-03T19:09:56.000Z"
     },
     {
-      "id": "biwvft",
-      "title": "Apple finally fixed Siri. So why does it feel anticlimactic?",
-      "summary": "Apple’s long-awaited AI overhaul finally makes Siri the assistant it was always supposed to be. Yet it arrives at a moment when simply being a capable AI assistant no longer feels revolutionary.",
-      "imageUrl": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=800&q=80",
-      "source": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/08/03/apple-finally-fixed-siri-so-why-does-it-feel-anticlimactic/",
-      "publishedAt": "2026-08-03T18:43:43.000Z"
-    },
-    {
       "id": "6q7fgx",
       "title": "Trump’s AI protectionism has come for robotics",
       "summary": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here. Humanoid robots usually elicit more cringe than awe: They stumble, kick children, and despite advances are still worse at using their hands than my toddler. It’s a nascent industry, and such robots…",
@@ -316,42 +352,6 @@
       "source": "The Verge",
       "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/974265/fender-ceo-bud-cole-ai-music",
       "publishedAt": "2026-08-02T19:36:08.000Z"
-    },
-    {
-      "id": "7dibip",
-      "title": "Is paying artists enough to convince them to embrace AI?",
-      "summary": "Illustrators have spent years sounding the alarm about generative artificial intelligence startups training their models on artists' work without permission. They've pointed out how the practice is tantamount to theft, and in response, many gen AI boosters have argued that it's necessary for the technology's evolution. This has led to contentious legal battles, but it's also given rise to a new wave of AI startups like Pippa that market their services as being more ethical than the competition.…",
-      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/Screenshot-2026-07-31-at-4.11.25-PM.png?quality=90&#038;strip=all&#038;crop=2.6881256103516,0,97.311874389648,100",
-      "source": "The Verge",
-      "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/974018/pippa-seedance-artist-royalties",
-      "publishedAt": "2026-08-02T13:00:00.000Z"
-    },
-    {
-      "id": "eezr47",
-      "title": "Europeans Are About to Find Out How Entrenched AI Is in Their Daily Lives",
-      "summary": "New EU rules stipulate that people must be told when they’re interacting with AI or looking at AI-generated or -edited content, leading to fear of “disclosure fatigue.”",
-      "imageUrl": "https://media.wired.com/photos/6a6caf7dd48647a2296aebb5/master/pass/073126_Europeans%20Are%20About%20to%20See%20How%20Entrenched%20AI%20Is%20in%20Their%20Daily%20Lives.gif",
-      "source": "Wired",
-      "sourceUrl": "https://www.wired.com/story/europeans-are-about-to-find-out-how-entrenched-ai-is-in-their-daily-lives/",
-      "publishedAt": "2026-08-02T10:00:00.000Z"
-    },
-    {
-      "id": "t241ft",
-      "title": "Is this Billboard Hot 100 hit AI slop?",
-      "summary": "That cover art is almost certainly AI, too. | Image: Fenix Flexin Fenix Flexin is best known as a member of Shoreline Mafia, a rap duo from Los Angeles. But he's recently found solo success with the track \"Rubberz,\" which has climbed to number 58 on the Billboard Hot 100. Almost immediately, though, questions were raised about the song's origins, with many speculating that it was largely, if not entirely, generated by AI. Fenix has denied those accusations, but done little to dispel them. Part…",
-      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/artworks-WsdIgVXV8NOV-0-t1080x1080.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "source": "The Verge",
-      "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/974209/fenix-flexin-billboard-hot-100-rubberz-ai-slop",
-      "publishedAt": "2026-08-01T18:20:00.000Z"
-    },
-    {
-      "id": "3xnzfw",
-      "title": "7 States’ Water Systems Hit by Cyberattacks Likely Tied to Iran",
-      "summary": "Plus: The FBI eyes AI-powered tech to detect future crimes, Russia charges Telegram’s founder, xAI sues to stop a state’s “nudification” ban, and the Democrats learn a lesson about getting scammed.",
-      "imageUrl": "https://media.wired.com/photos/6a6d0ac2eedb5ffa3dae51ac/master/pass/SecurityRoundUp_WaterTowersBeingHacked_v1.jpg",
-      "source": "Wired",
-      "sourceUrl": "https://www.wired.com/story/security-news-this-week-7-states-water-systems-hit-by-cyberattacks-likely-tied-to-iran/",
-      "publishedAt": "2026-08-01T10:30:00.000Z"
     },
     {
       "id": "l1m7fa",
