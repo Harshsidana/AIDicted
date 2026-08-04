@@ -1,7 +1,70 @@
 {
-  "fetchedAt": "2026-08-04T09:22:19.483Z",
+  "fetchedAt": "2026-08-04T11:40:56.104Z",
   "count": 60,
   "articles": [
+    {
+      "id": "se81zc",
+      "title": "OpenAI drags Apple’s lawsuit into the court of public opinion",
+      "summary": "OpenAI says Apple’s lawsuit is “careless, aggressive, and oddly personal.” | Image: Cath Virginia / The Verge, Getty Images Apple's legal battle against OpenAI just got messier now that the ChatGPT-maker has publicly aired receipts to counter Apple's version of events. In a blog post published overnight titled \"Apple is getting this wrong,\" OpenAI said that Apple's lawsuit accusing it of stealing trade secrets is \"careless, aggressive, and oddly personal,\" sharing iMessage and email exchanges to…",
+      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/04/STK201_SAM_ALTMAN_CVIRGINIA2D.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "source": "The Verge",
+      "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/974914/openai-blog-response-apple-lawsuit-messages",
+      "publishedAt": "2026-08-04T11:27:55.000Z"
+    },
+    {
+      "id": "4r4vrl",
+      "title": "Is This Poker Player Bluffing? The AI Thinks So",
+      "summary": "ESPN unveiled an “AI tells detection” tool during broadcasts of the 2026 World Series of Poker. Is it a neat computer-powered party trick, or a real threat to poker’s future?",
+      "imageUrl": "https://media.wired.com/photos/6a711fb5a0e49dc311c087a0/master/pass/Gear_Is-This-Poker-Player-Bluffing-.jpg",
+      "source": "Wired",
+      "sourceUrl": "https://www.wired.com/story/ai-tells-detection-world-series-of-poker-espn/",
+      "publishedAt": "2026-08-04T11:00:00.000Z"
+    },
+    {
+      "id": "p7dor0",
+      "title": "How One Startup Built a (Mostly) China-Free Robot",
+      "summary": "Ati Robotics assembles its robots in India and uses just a few Chinese parts—a strategy that could pay off as the Trump administration cracks down on Chinese humanoids.",
+      "imageUrl": "https://media.wired.com/photos/6a6b1ddcb699cd04dbc2d5af/master/pass/073126_How%20One%20Startup%20Built%20a%20(Mostly)%20China-Free%20Robot.jpg",
+      "source": "Wired",
+      "sourceUrl": "https://www.wired.com/story/how-one-startup-built-a-mostly-china-free-robot/",
+      "publishedAt": "2026-08-04T10:45:00.000Z"
+    },
+    {
+      "id": "kycr6v",
+      "title": "‘Everyone Is Doing It’: The Truth About AI in Hollywood",
+      "summary": "Puck’s Matthew Belloni says AI has quietly become part of everyday filmmaking. The battle now isn’t whether Hollywood will use the technology—it’s who controls what’ll come next.",
+      "imageUrl": "https://media.wired.com/photos/6a70d6c64b483e5d7ba0ab6d/master/pass/Big-Interview-UV-Solo-Matt-Belloni.jpg",
+      "source": "Wired",
+      "sourceUrl": "https://www.wired.com/story/the-big-interview-podcast-matthew-belloni-puck/",
+      "publishedAt": "2026-08-04T10:30:00.000Z"
+    },
+    {
+      "id": "nf187r",
+      "title": "Can Reddit fend off a new wave of AI SEO spam?",
+      "summary": "Earlier this year, a Reddit user had asked members of a skincare-focused subreddit if anyone had tried a specific hypochlorous acid spray, a product often used for acne. There were dozens of responses; one from a user named Primary-Taro4254 seemed innocuous enough, at least at first. \"I haven't personally tried [that brand] so I can't fully compare, sorry,\" they commented. \"But I have been using a similar hypochlorous acid spray from Honeydew Labs and I've honestly really liked it.\"…",
+      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/Verge-RedditBrands_V1-Final.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "source": "The Verge",
+      "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/973098/reddit-ai-search-seo-marketing-brands-spam",
+      "publishedAt": "2026-08-04T10:00:00.000Z"
+    },
+    {
+      "id": "mpr2rf",
+      "title": "How Data Centers Broke American Politics",
+      "summary": "What the Unabomber, Steve Bannon’s tech guy, and Bernie Sanders taught me about the great data center backlash of 2026.",
+      "imageUrl": "https://media.wired.com/photos/6a709a8db4004b4e490ab2d7/master/pass/20260719-MattEich-0262.jpg",
+      "source": "Wired",
+      "sourceUrl": "https://www.wired.com/story/how-data-centers-broke-american-politics/",
+      "publishedAt": "2026-08-04T10:00:00.000Z"
+    },
+    {
+      "id": "g2oby1",
+      "title": "Mistral Is in the Right Place at the Right Time",
+      "summary": "Open-weight AI models are having a moment in the wake of recent turmoil at US tech giants. For French AI lab Mistral, that’s the the best thing that could have happened.",
+      "imageUrl": "https://media.wired.com/photos/6a6cc9ac6aed60f089dc69c1/master/pass/Business_Mistral%20Is%20In%20The%20Right%20Place%20At%20The%20Right%20Time_v1.jpg",
+      "source": "Wired",
+      "sourceUrl": "https://www.wired.com/story/mistral-is-in-the-right-place-at-the-right-time/",
+      "publishedAt": "2026-08-04T09:21:11.000Z"
+    },
     {
       "id": "etsfnw",
       "title": "After killer quarter, Palantir CEO Alex Karp calls AI industry ‘Marxist’",
@@ -228,15 +291,6 @@
       "publishedAt": "2026-08-01T10:30:00.000Z"
     },
     {
-      "id": "z9xlwv",
-      "title": "The OpenAI and Anthropic AI Hacking Sprees Are a Messy New Legal Frontier",
-      "summary": "Both major AI labs’ models broke containment, escaped onto the internet, and hacked other companies. If a human had done that, the law would likely be against them. But a bot?",
-      "imageUrl": "https://media.wired.com/photos/6a6d14b8b61d0975176f3aa8/master/pass/Security_The%20OpenAI%20and%20Anthropic%20Hacking%20Sprees%20May%20Have%20Legal%20Consequences_v1.jpg",
-      "source": "Wired",
-      "sourceUrl": "https://www.wired.com/story/openai-anthropic-ai-hacking-sprees-illegal/",
-      "publishedAt": "2026-08-01T09:30:00.000Z"
-    },
-    {
       "id": "kg1vrv",
       "title": "OpenAI reportedly finds evidence that more of its agents ran amok",
       "summary": "OpenAI has reportedly found evidence of additional agent misbehavior as it looks into the incident that occurred with Hugging Face.",
@@ -282,15 +336,6 @@
       "publishedAt": "2026-07-31T19:13:29.000Z"
     },
     {
-      "id": "urxzqg",
-      "title": "Chinese AI Researchers Are Finding Their Voice on X",
-      "summary": "As OpenAI and Anthropic employees grow quieter online, researchers at Chinese AI labs are flocking to X to explain their work, recruit talent, and shape the global conversation on AI.",
-      "imageUrl": "https://media.wired.com/photos/6a6bc43ecd95420c8647a339/master/pass/Made-in-China--China-AI-Researchers-Are-Finding-Their-Voice-on-X-Business.jpg",
-      "source": "Wired",
-      "sourceUrl": "https://www.wired.com/story/chinese-ai-researchers-are-finding-their-voice-on-x/",
-      "publishedAt": "2026-07-31T18:14:43.000Z"
-    },
-    {
       "id": "s0gqhx",
       "title": "Here’s the problem with putting an AI image generator in Google Earth",
       "summary": "A text prompt was all it took to generate reality-warping images using Google Earth's satellite, aerial, and 3D imagery with a now-rolled back AI feature, like these images generated by Digital Digging's Henk van Ess that show \"refugees near the Mexican border\" and a bomb crater near a hospital in Gaza. Google initially responded to Digital Digging's AI-altered images, saying, \"We take misinformation seriously - every image created with Nano Banana in Google Earth includes the SynthID digital…",
@@ -309,42 +354,6 @@
       "publishedAt": "2026-07-31T16:36:48.000Z"
     },
     {
-      "id": "9gcb8a",
-      "title": "AI Slop Melodramas Are Taking Over X—and Their Creators Are Cashing In",
-      "summary": "Viral tales of good triumphing over evil are racking up millions of views. They’re almost entirely AI-generated clickbait.",
-      "imageUrl": "https://media.wired.com/photos/6a6bd4dcc1ebd49c7b942ea6/master/pass/Backchannel-X-Becoming-Inescapable-AI-Slop-Factory-Business.jpg",
-      "source": "Wired",
-      "sourceUrl": "https://www.wired.com/story/ai-slop-melodramas-are-taking-over-x-and-their-creators-are-cashing-in/",
-      "publishedAt": "2026-07-31T15:00:09.000Z"
-    },
-    {
-      "id": "x5d111",
-      "title": "This AI Assistant Wants to Make Up for Your Boyfriend’s Incompetence",
-      "summary": "An ad for Orchid suggests the AI agent can fix relationship problems by simply doing everything for inconsiderate partners.",
-      "imageUrl": "https://media.wired.com/photos/6a6bb6fe30c951744a71eecd/master/pass/Culture_This%20Chatbot's%20Whole%20Pitch%20Is%20Making%20Up%20For%20Your%20Boyfriend's%20Incompetence_v1.jpg",
-      "source": "Wired",
-      "sourceUrl": "https://www.wired.com/story/this-ai-assistants-whole-pitch-is-making-up-for-your-boyfriends-incompetence/",
-      "publishedAt": "2026-07-31T14:47:26.000Z"
-    },
-    {
-      "id": "vpxnxr",
-      "title": "It’s time to panic about AI safety",
-      "summary": "When the phrase \"OpenAI hacked Hugging Face\" has more or less entered mainstream culture, you know we have an AI problem. This week, we learned more about exactly how OpenAI's agent broke out of a sandbox and autonomously traversed the web, including a bunch of other supposedly secure web services, all in the name of cheating on a benchmark tests. The fact that this hack happened is a problem. So is the fact that it took a while for anyone to notice. And the fact that it seems no one is willing…",
-      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/VRG_VST_073126_Site.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "source": "The Verge",
-      "sourceUrl": "https://www.theverge.com/podcast/973668/ai-safety-openai-hugging-face-vergecast",
-      "publishedAt": "2026-07-31T14:03:04.000Z"
-    },
-    {
-      "id": "ljyurw",
-      "title": "Anthropic says Claude accidentally hacked real companies too",
-      "summary": "Anthropic just realized several of its Claude AI models hacked into the systems of three different organizations during testing, acting on their own and without the company noticing. The revelation comes days after rival OpenAI said one of its own models had breached developer platform Hugging Face, adding to growing unease over whether frontier AI labs are doing enough to control the increasingly capable systems they are building. In a blog post describing the incidents, Anthropic said Claude…",
-      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/STKB364_CLAUDE_2_C_96d15c-1.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "source": "The Verge",
-      "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/973670/anthropic-claude-hacked-organizations-during-cyber-tests",
-      "publishedAt": "2026-07-31T13:41:17.000Z"
-    },
-    {
       "id": "e83ky9",
       "title": "The Download: Montana’s new experimental drug rules",
       "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. Montana’s plan to become an experimental medical hub just pushed forward As of this week in Montana, biotech companies whose drugs have been through preliminary testing—sometimes in as few as 10…",
@@ -361,15 +370,6 @@
       "source": "MIT Tech Review",
       "sourceUrl": "https://www.technologyreview.com/2026/07/31/1140945/montanas-new-right-to-try-law-cant-come-soon-enough-for-some/",
       "publishedAt": "2026-07-31T09:00:00.000Z"
-    },
-    {
-      "id": "eea3u3",
-      "title": "Anthropic Says Claude Hacked Into 3 Organizations During Cybersecurity Tests",
-      "summary": "In a review triggered by OpenAI’s Hugging Face incident, Anthropic discovered three of its AI models had breached real-world organizations during third-party evaluations.",
-      "imageUrl": "https://media.wired.com/photos/6a6bef5432fc2d440b7d5e3e/master/pass/Business_Claude-Escape.jpg",
-      "source": "Wired",
-      "sourceUrl": "https://www.wired.com/story/anthropic-says-claude-hacked-real-systems-during-cybersecurity-tests/",
-      "publishedAt": "2026-07-31T01:24:26.000Z"
     },
     {
       "id": "h6gp7s",
