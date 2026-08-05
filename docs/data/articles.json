@@ -1,7 +1,43 @@
 {
-  "fetchedAt": "2026-08-05T16:16:21.203Z",
+  "fetchedAt": "2026-08-05T18:06:41.749Z",
   "count": 60,
   "articles": [
+    {
+      "id": "oe63ow",
+      "title": "Sure seems like Fenix Flexin used AI music generator Treblo",
+      "summary": "And you thought we were done with this one… | Image: Fenix Flexin We were pretty sure that Fenix Flexin's \"Rubberz\" was made using AI, but musician Medasin was confident that it was made using Treblo specifically. Now the company and a new detection tool seem to confirm it. On Monday, the company announced the open-source Treblo AI Music Classifier, which detects when a song was generated using Treblo, though not other AI tools. According to a blog post, it has a false positive rate of less than…",
+      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/artworks-WsdIgVXV8NOV-0-t1080x1080.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "source": "The Verge",
+      "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/975528/fenix-flexin-ai-music-generator-treblo",
+      "publishedAt": "2026-08-05T16:57:25.000Z"
+    },
+    {
+      "id": "si16ck",
+      "title": "Google just announced a major shakeup of its top AI leadership",
+      "summary": "Google is making some significant AI leadership changes, including a major shift for Google DeepMind leader Demis Hassabis. Hassabis will become the chair of Google DeepMind and the chief scientist at Alphabet, CEO Sundar Pichai announced on Wednesday. Hassabis will continue to lead Alphabet's Isomorphic Labs, which aims to use AI to develop drugs. Koray Kavukcuoglu, formerly DeepMind's CTO, is stepping up to become Google's SVP of DeepMind and will report to Pichai. Kavukcuoglu will remain…",
+      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/gettyimages-2273112113.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "source": "The Verge",
+      "sourceUrl": "https://www.theverge.com/tech/975677/google-deepmind-ai-demis-hassabis-shakeup",
+      "publishedAt": "2026-08-05T16:47:23.000Z"
+    },
+    {
+      "id": "5jwa38",
+      "title": "SpaceX is barely Space and mostly X",
+      "summary": "Privatize the profit, socialize the losses? | Image: Cath Virginia / The Verge, Getty Images Once, I had some questions about why SpaceX, Elon Musk's healthiest company, acquired xAI, his sickliest one. Now I have some questions about why we're calling the whole thing SpaceX. Look, what we have here, by revenue, is primarily a telecom company and a company that rents compute, according to SpaceX's first quarterly earnings statement as a public company. The space sector of the business didn't…",
+      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/STKE012_SPACEX_IPO_2026_B.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "source": "The Verge",
+      "sourceUrl": "https://www.theverge.com/science/975545/spacex-x-earnings-ai-data-centers-compute-space",
+      "publishedAt": "2026-08-05T16:35:56.000Z"
+    },
+    {
+      "id": "2lqbnl",
+      "title": "Meta Ran Ads That Contained AI-Generated Child Sexual Abuse Imagery",
+      "summary": "More than 50 offending image and video ads were published across Facebook, Instagram, Messenger, or Threads, according to Meta’s ad library data. Some ran as recently as this week.",
+      "imageUrl": "https://media.wired.com/photos/6a6d058753afe1590265744d/master/pass/073126-meta-nudify-ads-children.jpg",
+      "source": "Wired",
+      "sourceUrl": "https://www.wired.com/story/meta-ran-ads-that-contained-ai-generated-child-sexual-abuse-imagery/",
+      "publishedAt": "2026-08-05T16:26:36.000Z"
+    },
     {
       "id": "h646nm",
       "title": "Reddit is introducing a new moderator: AI",
@@ -113,7 +149,7 @@
     {
       "id": "ms9rv9",
       "title": "AI makes weather prediction better. Can WindBorne make it lucrative?",
-      "summary": "WindBorne Systems has raised $37 million Series B round to scale its weather balloons and AI forecasts.",
+      "summary": "WindBorne Systems has raised a $37 million Series B round to scale its weather balloons and AI forecasts.",
       "imageUrl": "https://images.unsplash.com/photo-1655720828018-edd2daec9349?w=800&q=80",
       "source": "TechCrunch",
       "sourceUrl": "https://techcrunch.com/2026/08/05/ai-makes-weather-prediction-better-can-windborne-make-it-lucrative/",
@@ -246,15 +282,6 @@
       "publishedAt": "2026-08-04T17:46:41.000Z"
     },
     {
-      "id": "butkcs",
-      "title": "‘Not healthy’ LLM use is more common than you think",
-      "summary": "Hank Green, a popular YouTuber and science communicator, said he is stepping back from production amid intense criticism over his use of AI. Green described his AI usage as \"not healthy,\" but stressed that he used it for finding research sources and not to write scripts. Much of the ensuing firestorm in this corner of the internet has centered on how a creator can square a brand built on authenticity and credibility with a technology trained on the (often uncompensated) works of others, and…",
-      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/gettyimages-2253306515.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "source": "The Verge",
-      "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/975180/llm-ai-chatbot-use-not-healthy",
-      "publishedAt": "2026-08-04T17:33:46.000Z"
-    },
-    {
       "id": "dm2mfo",
       "title": "Spotify expands AI remix and covers project with Merlin partnership",
       "summary": "Spotify says Merlin, which represents more than 30,000 independent labels and distributors, has joined Universal Music Group in backing its upcoming AI-powered remix and covers product. The paid tool will let fans create AI-generated covers and remixes of participating artists’ music while ensuring artists opt in, receive credit, and are compensated.",
@@ -271,15 +298,6 @@
       "source": "TechCrunch",
       "sourceUrl": "https://techcrunch.com/2026/08/04/texas-halts-new-data-centers-as-governor-calls-for-audits/",
       "publishedAt": "2026-08-04T15:42:35.000Z"
-    },
-    {
-      "id": "eumh9j",
-      "title": "Texas says data centers must pass an audit before connecting to the grid",
-      "summary": "Texas announced new a audit on data centers that could slow approval for new facilities seeking to connect to the state energy grid. Governor Greg Abbott (R) on Monday directed the Public Utility Commission of Texas (PUCT) and the Electric Reliability Council of Texas (ERCOT) to verify and audit new data center proposals, writing that the review is needed to \"keep the grid stable and reliable.\" Data centers will need to provide information on state and local incentives they've received, how much…",
-      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/STKS528_DATA_CENTERS2_C.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "source": "The Verge",
-      "sourceUrl": "https://www.theverge.com/policy/975071/texas-data-center-audit",
-      "publishedAt": "2026-08-04T15:33:21.000Z"
     },
     {
       "id": "658xvb",
@@ -309,15 +327,6 @@
       "publishedAt": "2026-08-04T12:14:00.000Z"
     },
     {
-      "id": "se81zc",
-      "title": "OpenAI drags Apple’s lawsuit into the court of public opinion",
-      "summary": "OpenAI says Apple’s lawsuit is “careless, aggressive, and oddly personal.” | Image: Cath Virginia / The Verge, Getty Images Apple's legal battle against OpenAI just got messier now that the ChatGPT-maker has publicly aired receipts to counter Apple's version of events. In a blog post published overnight titled \"Apple is getting this wrong,\" OpenAI said that Apple's lawsuit accusing it of stealing trade secrets is \"careless, aggressive, and oddly personal,\" sharing iMessage and email exchanges to…",
-      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/04/STK201_SAM_ALTMAN_CVIRGINIA2D.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "source": "The Verge",
-      "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/974914/openai-blog-response-apple-lawsuit-messages",
-      "publishedAt": "2026-08-04T11:27:55.000Z"
-    },
-    {
       "id": "4r4vrl",
       "title": "Is This Poker Player Bluffing? The AI Thinks So",
       "summary": "ESPN unveiled an “AI tells detection” tool during broadcasts of the 2026 World Series of Poker. Is it a neat computer-powered party trick, or a real threat to poker’s future?",
@@ -343,15 +352,6 @@
       "source": "Wired",
       "sourceUrl": "https://www.wired.com/story/the-big-interview-podcast-matthew-belloni-puck/",
       "publishedAt": "2026-08-04T10:30:00.000Z"
-    },
-    {
-      "id": "mpr2rf",
-      "title": "How Data Centers Broke American Politics",
-      "summary": "What the Unabomber, Steve Bannon’s tech guy, and Bernie Sanders taught me about the great data center backlash of 2026.",
-      "imageUrl": "https://media.wired.com/photos/6a709a8db4004b4e490ab2d7/master/pass/20260719-MattEich-0262.jpg",
-      "source": "Wired",
-      "sourceUrl": "https://www.wired.com/story/how-data-centers-broke-american-politics/",
-      "publishedAt": "2026-08-04T10:00:00.000Z"
     },
     {
       "id": "6q7fgx",
