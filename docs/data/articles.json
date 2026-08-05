@@ -1,7 +1,16 @@
 {
-  "fetchedAt": "2026-08-05T09:19:41.764Z",
+  "fetchedAt": "2026-08-05T11:37:48.231Z",
   "count": 60,
   "articles": [
+    {
+      "id": "ms9rv9",
+      "title": "AI makes weather prediction better. Can WindBorne make it lucrative?",
+      "summary": "WindBorne Systems has raised $37 million Series B round to scale its weather balloons and AI forecasts.",
+      "imageUrl": "https://images.unsplash.com/photo-1655720828018-edd2daec9349?w=800&q=80",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/08/05/ai-makes-weather-prediction-better-can-windborne-make-it-lucrative/",
+      "publishedAt": "2026-08-05T11:00:00.000Z"
+    },
     {
       "id": "tumwfa",
       "title": "A New Device Eases One of the Most Annoying Parts of Routine Physicals",
@@ -183,10 +192,10 @@
       "publishedAt": "2026-08-04T13:00:00.000Z"
     },
     {
-      "id": "u4moe7",
-      "title": "The Download: US robot restrictions, and ICE’s DNA grab",
+      "id": "5z3aef",
+      "title": "The Download: US robot restrictions and ICE’s DNA grab",
       "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. Trump’s AI protectionism has come for robotics —James O’Donnell Humanoid robots usually elicit more cringe than awe: They stumble, kick children, and despite advances are still worse at using their hands than my toddler. It’s…",
-      "imageUrl": "https://images.unsplash.com/photo-1620712943543-bcc4688e7485?w=800&q=80",
+      "imageUrl": "https://images.unsplash.com/photo-1550751827-4bd374c3f58b?w=800&q=80",
       "source": "MIT Tech Review",
       "sourceUrl": "https://www.technologyreview.com/2026/08/04/1141098/the-download-robot-restrictions-ice-dna/",
       "publishedAt": "2026-08-04T12:14:00.000Z"
@@ -300,15 +309,6 @@
       "publishedAt": "2026-08-03T19:28:57.000Z"
     },
     {
-      "id": "2v2t1q",
-      "title": "Influencers draw backlash for attending OpenAI’s first luxury trip",
-      "summary": "OpenAI’s first-ever influencer brand trip is sparking online backlash as tensions over the use of AI continue.",
-      "imageUrl": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=800&q=80",
-      "source": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/08/03/influencers-draw-backlash-for-attending-openais-first-luxury-trip/",
-      "publishedAt": "2026-08-03T19:09:56.000Z"
-    },
-    {
       "id": "6q7fgx",
       "title": "Trump’s AI protectionism has come for robotics",
       "summary": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here. Humanoid robots usually elicit more cringe than awe: They stumble, kick children, and despite advances are still worse at using their hands than my toddler. It’s a nascent industry, and such robots…",
@@ -327,8 +327,8 @@
       "publishedAt": "2026-08-03T17:38:45.000Z"
     },
     {
-      "id": "kz7158",
-      "title": "The Download: reward hacking explained, and suspected Iranian cyberattacks",
+      "id": "w2qhua",
+      "title": "The Download: reward hacking explained and suspected Iranian cyberattacks",
       "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. Here’s why AI agents lie and cheat to reach their goals When two OpenAI models hacked into Hugging Face last month, they weren’t trying to make money or commit sabotage—they were…",
       "imageUrl": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=800&q=80",
       "source": "MIT Tech Review",
