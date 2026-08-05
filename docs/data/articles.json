@@ -1,7 +1,43 @@
 {
-  "fetchedAt": "2026-08-05T18:06:41.749Z",
+  "fetchedAt": "2026-08-05T20:10:44.796Z",
   "count": 60,
   "articles": [
+    {
+      "id": "dn44u2",
+      "title": "Klaviyo acquires Elias Torres’ Agency in full-circle reunion for tech founders",
+      "summary": "The serial entrepreneur joins the e-commerce company as CPO to lead its AI agents.",
+      "imageUrl": "https://images.unsplash.com/photo-1485827404703-89b55fcc595e?w=800&q=80",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/08/05/klaviyo-acquires-elias-torres-agency-in-full-circle-reunion-for-tech-founders/",
+      "publishedAt": "2026-08-05T20:05:00.000Z"
+    },
+    {
+      "id": "3banmq",
+      "title": "The Most Dangerous AI Hacking Techniques Still Have Humans in the Loop",
+      "summary": "Security researcher James Kettle tried to push the limit of AI’s hacking abilities—and discovered how effective it can be when combined with human expertise.",
+      "imageUrl": "https://media.wired.com/photos/6a7210e3bbedba30ca118c54/master/pass/RoboHack.gif",
+      "source": "Wired",
+      "sourceUrl": "https://www.wired.com/story/the-most-dangerous-ai-hacking-techniques-still-have-human-input/",
+      "publishedAt": "2026-08-05T19:42:12.000Z"
+    },
+    {
+      "id": "2w94of",
+      "title": "Jeff Dean and other top AI researchers are leaving Google to launch their own startup",
+      "summary": "The legendary Google executive is joined by other outgoing Google execs in a joint mission to use AI to push forward the process of scientific discovery.",
+      "imageUrl": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=800&q=80",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/08/05/jeff-dean-and-other-top-ai-researchers-are-leaving-google-to-launch-their-own-startup/",
+      "publishedAt": "2026-08-05T19:30:19.000Z"
+    },
+    {
+      "id": "xjgcc",
+      "title": "AI Worms and Viruses Are Coming",
+      "summary": "Chinese researchers have shown that AI models have the capacity to act like aggressive and adaptive computer viruses.",
+      "imageUrl": "https://media.wired.com/photos/6a72158094df13865615789b/master/pass/AI-Lab-How-Future-AI-Agents-Might-Actually-Escape-Our-Control-Business.jpg",
+      "source": "Wired",
+      "sourceUrl": "https://www.wired.com/story/ai-agents-could-act-like-computer-viruses-and-worms/",
+      "publishedAt": "2026-08-05T18:30:00.000Z"
+    },
     {
       "id": "oe63ow",
       "title": "Sure seems like Fenix Flexin used AI music generator Treblo",
@@ -300,24 +336,6 @@
       "publishedAt": "2026-08-04T15:42:35.000Z"
     },
     {
-      "id": "658xvb",
-      "title": "Elon Musk spends half his time talking robots and AI on Tesla earnings calls",
-      "summary": "An analysis of the last seven years of Tesla earnings calls shows just how little attention Musk pays to Tesla's car business.",
-      "imageUrl": "https://images.unsplash.com/photo-1655720828018-edd2daec9349?w=800&q=80",
-      "source": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/08/04/elon-musk-spends-half-his-time-talking-robots-and-ai-on-tesla-earnings-calls/",
-      "publishedAt": "2026-08-04T15:20:06.000Z"
-    },
-    {
-      "id": "vei8gm",
-      "title": "Apple says more ex-employees may have taken confidential data to OpenAI",
-      "summary": "Apple says its trade secrets investigation into OpenAI has widened. In a new court filing, Apple claims additional former staff may have retained or accessed confidential information.",
-      "imageUrl": "https://images.unsplash.com/photo-1531746790095-6c10a4031c5f?w=800&q=80",
-      "source": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/08/04/apple-says-more-ex-employees-may-have-taken-confidential-data-to-openai/",
-      "publishedAt": "2026-08-04T14:03:01.000Z"
-    },
-    {
       "id": "5z3aef",
       "title": "The Download: US robot restrictions and ICE’s DNA grab",
       "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. Trump’s AI protectionism has come for robotics —James O’Donnell Humanoid robots usually elicit more cringe than awe: They stumble, kick children, and despite advances are still worse at using their hands than my toddler. It’s…",
@@ -334,24 +352,6 @@
       "source": "Wired",
       "sourceUrl": "https://www.wired.com/story/ai-tells-detection-world-series-of-poker-espn/",
       "publishedAt": "2026-08-04T11:00:00.000Z"
-    },
-    {
-      "id": "p7dor0",
-      "title": "How One Startup Built a (Mostly) China-Free Robot",
-      "summary": "Ati Robotics assembles its robots in India and uses just a few Chinese parts—a strategy that could pay off as the Trump administration cracks down on Chinese humanoids.",
-      "imageUrl": "https://media.wired.com/photos/6a6b1ddcb699cd04dbc2d5af/master/pass/073126_How%20One%20Startup%20Built%20a%20(Mostly)%20China-Free%20Robot.jpg",
-      "source": "Wired",
-      "sourceUrl": "https://www.wired.com/story/how-one-startup-built-a-mostly-china-free-robot/",
-      "publishedAt": "2026-08-04T10:45:00.000Z"
-    },
-    {
-      "id": "kycr6v",
-      "title": "‘Everyone Is Doing It’: The Truth About AI in Hollywood",
-      "summary": "Puck’s Matthew Belloni says AI has quietly become part of everyday filmmaking. The battle now isn’t whether Hollywood will use the technology—it’s who controls what’ll come next.",
-      "imageUrl": "https://media.wired.com/photos/6a70d6c64b483e5d7ba0ab6d/master/pass/Big-Interview-UV-Solo-Matt-Belloni.jpg",
-      "source": "Wired",
-      "sourceUrl": "https://www.wired.com/story/the-big-interview-podcast-matthew-belloni-puck/",
-      "publishedAt": "2026-08-04T10:30:00.000Z"
     },
     {
       "id": "6q7fgx",
