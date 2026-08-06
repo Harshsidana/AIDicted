@@ -1,7 +1,16 @@
 {
-  "fetchedAt": "2026-08-06T07:18:40.104Z",
+  "fetchedAt": "2026-08-06T10:11:26.411Z",
   "count": 60,
   "articles": [
+    {
+      "id": "4r50yx",
+      "title": "OpenAI says Apple’s trade secrets lawsuit is ‘rotten to its core’",
+      "summary": "OpenAI has asked a federal judge to toss out Apple's landmark lawsuit accusing the ChatGPT maker of stealing trade secrets, describing the allegations as \"meritless.\" In a motion filed yesterday to dismiss the complaint, OpenAI says that Apple is mischaracterizing both the actions of the AI startup's employees as theft, and \"generic\" product development information as \"trade secrets,\" adding that Apple made no reasonable efforts to maintain such secrecy. The dismissal request is in response to a…",
+      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25431704/STK201_SAM_ALTMAN_CVIRGINIA_C.jpg?quality=90&#038;strip=all&#038;crop=4.7487503051758,18.543864880511,95.251249694824,81.456135119489",
+      "source": "The Verge",
+      "sourceUrl": "https://www.theverge.com/tech/976042/openai-apple-trade-secrets-lawsuit-dismissal-request",
+      "publishedAt": "2026-08-06T09:33:11.000Z"
+    },
     {
       "id": "w8u0ph",
       "title": "Elon Musk’s attempt at an AI Wikipedia hasn’t been updated in months",
@@ -298,15 +307,6 @@
       "source": "The Verge",
       "sourceUrl": "https://www.theverge.com/tech/975381/amd-q2-2026-earnings-ai-gaming-ryzen",
       "publishedAt": "2026-08-04T20:57:49.000Z"
-    },
-    {
-      "id": "kuqkhx",
-      "title": "SpaceX made more revenue as an AI company than a space company",
-      "summary": "SpaceX's AI revenue grew more than three times to $2.6 billion from the year before, mostly because of deals that the company made to provide compute to other AI companies, according to SpaceX's quarterly earnings. The AI division, which the company said in its documents to go public was the source of most of its value, lost $1.5 billion this quarter, slightly less than in the same quarter last year. SpaceX made deals with Anthropic in May and Google in June to provide compute to the other two…",
-      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/gettyimages-2286629860.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "source": "The Verge",
-      "sourceUrl": "https://www.theverge.com/science/975335/spacex-made-more-money-as-a-neocloud",
-      "publishedAt": "2026-08-04T20:47:55.000Z"
     },
     {
       "id": "uadnq0",
