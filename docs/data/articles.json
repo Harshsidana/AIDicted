@@ -1,7 +1,43 @@
 {
-  "fetchedAt": "2026-08-05T23:08:20.681Z",
+  "fetchedAt": "2026-08-06T04:19:34.025Z",
   "count": 60,
   "articles": [
+    {
+      "id": "w8u0ph",
+      "title": "Elon Musk’s attempt at an AI Wikipedia hasn’t been updated in months",
+      "summary": "xAI's Grokipedia, an online encyclopedia with AI-generated articles that Elon Musk once promised would be a \"massive improvement\" over Wikipedia, apparently hasn't been updated since April 24th, according to a report from Lawfare. \"As far as we can tell, no entry has changed in more than three months,\" Lawfare said. Grokipedia launched in v0.1 in October 2025 with an initial batch of 885,000 articles, and is now on v0.2 (released in November 2025) and has more than 6,000,000 total articles,…",
+      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/02/STK171_VRG_Illo_15_Normand_ElonMusk_15.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "source": "The Verge",
+      "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/976004/elon-musk-grokipedia-ai-wikipedia-not-updating-dead",
+      "publishedAt": "2026-08-06T00:25:10.000Z"
+    },
+    {
+      "id": "ypi7dl",
+      "title": "OpenAI Didn’t Notice Its AI Agents Using a Message Board to Plan Their Hacking Spree",
+      "summary": "At the Black Hat security conference, the AI giant revealed new details about how its agents went rogue, hacked several other companies—and did it all right under the company’s nose.",
+      "imageUrl": "https://media.wired.com/photos/6a73a2815ac7830744b43e7a/master/pass/080526-openai-agent-hacking.jpg",
+      "source": "Wired",
+      "sourceUrl": "https://www.wired.com/story/openai-didnt-notice-its-ai-agents-using-a-message-board-to-plan-their-hacking-spree/",
+      "publishedAt": "2026-08-06T00:15:04.000Z"
+    },
+    {
+      "id": "11pna",
+      "title": "OpenAI’s Browser Could Be Hijacked to Spam Your WhatsApp Contacts",
+      "summary": "Researchers at security firm Zenity found more than a dozen flaws in AI browsers—and managed to get OpenAI’s Atlas to make an unauthorized Amazon purchase.",
+      "imageUrl": "https://media.wired.com/photos/6a7212abe42d27e4fc6b545a/master/pass/Security_OpenAIBrowserCouldBeHijacked_v1.gif",
+      "source": "Wired",
+      "sourceUrl": "https://www.wired.com/story/openais-browser-could-be-hijacked-to-spam-your-whatsapp-contacts/",
+      "publishedAt": "2026-08-05T23:30:00.000Z"
+    },
+    {
+      "id": "nsi5pw",
+      "title": "Thousands of servers can be backdoored by exploiting buggy motherboard controllers",
+      "summary": "Baseboard management controllers from the world's biggest manufacturers are a security mess.",
+      "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2026/08/data-center-server-room-1152x648.jpg",
+      "source": "Ars Technica",
+      "sourceUrl": "https://arstechnica.com/security/2026/08/thousands-of-servers-can-be-backdoored-by-exploiting-buggy-motherboard-controllers/",
+      "publishedAt": "2026-08-05T22:35:20.000Z"
+    },
     {
       "id": "12hevv",
       "title": "Meta launches Muse Code, an AI agent for large code bases",
@@ -246,15 +282,6 @@
       "publishedAt": "2026-08-04T23:11:31.000Z"
     },
     {
-      "id": "xm29z3",
-      "title": "The White House Is Keeping Its AI Cybersecurity Framework Secret",
-      "summary": "The Trump administration shared the details of its plan with OpenAI, Anthropic, and other AI labs on Tuesday. For now, the public remains in the dark.",
-      "imageUrl": "https://media.wired.com/photos/6a7199c152cbcac31bc249b1/master/pass/Trump-Admin-Convenes-AI-Labs-to-Share-AI-Framework-Business-2282299237.jpg",
-      "source": "Wired",
-      "sourceUrl": "https://www.wired.com/story/the-white-house-is-keeping-its-ai-cybersecurity-framework-secret/",
-      "publishedAt": "2026-08-04T22:06:07.000Z"
-    },
-    {
       "id": "5xhofr",
       "title": "SpaceX has bought $329M worth of Tesla Megapacks so far this year",
       "summary": "The purchase illustrates just how interconnected Elon Musk's universe of companies are.",
@@ -318,15 +345,6 @@
       "publishedAt": "2026-08-04T19:28:49.000Z"
     },
     {
-      "id": "ungorh",
-      "title": "How an OpenAI influencer trip backfired",
-      "summary": "The brand trip is a right of passage for influencers. It's a mark of legitimacy that a sponsor wants to invite them on an all-expenses-paid vacation, often with luxurious freebies and activities. Trips can also spur hard feelings from uninvited influencers, trigger criticism from the public, and project a certain frivolousness. Usually it is fast fashion companies or beauty brands flying out influencers with the goal of flooding social media with sponsored content. This time, it was a major AI…",
-      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/Screenshot-2026-08-04-at-2.13.49-PM.png?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "source": "The Verge",
-      "sourceUrl": "https://www.theverge.com/tech/975173/openai-influencers-brand-trip-ai-backlash-marketing",
-      "publishedAt": "2026-08-04T17:46:41.000Z"
-    },
-    {
       "id": "dm2mfo",
       "title": "Spotify expands AI remix and covers project with Merlin partnership",
       "summary": "Spotify says Merlin, which represents more than 30,000 independent labels and distributors, has joined Universal Music Group in backing its upcoming AI-powered remix and covers product. The paid tool will let fans create AI-generated covers and remixes of participating artists’ music while ensuring artists opt in, receive credit, and are compensated.",
@@ -343,15 +361,6 @@
       "source": "MIT Tech Review",
       "sourceUrl": "https://www.technologyreview.com/2026/08/04/1141098/the-download-robot-restrictions-ice-dna/",
       "publishedAt": "2026-08-04T12:14:00.000Z"
-    },
-    {
-      "id": "4r4vrl",
-      "title": "Is This Poker Player Bluffing? The AI Thinks So",
-      "summary": "ESPN unveiled an “AI tells detection” tool during broadcasts of the 2026 World Series of Poker. Is it a neat computer-powered party trick, or a real threat to poker’s future?",
-      "imageUrl": "https://media.wired.com/photos/6a711fb5a0e49dc311c087a0/master/pass/Gear_Is-This-Poker-Player-Bluffing-.jpg",
-      "source": "Wired",
-      "sourceUrl": "https://www.wired.com/story/ai-tells-detection-world-series-of-poker-espn/",
-      "publishedAt": "2026-08-04T11:00:00.000Z"
     },
     {
       "id": "6q7fgx",
@@ -532,15 +541,6 @@
       "source": "Ars Technica",
       "sourceUrl": "https://arstechnica.com/security/2026/07/now-defenders-are-embracing-the-prompt-injection-too/",
       "publishedAt": "2026-07-13T15:06:34.000Z"
-    },
-    {
-      "id": "jl8euk",
-      "title": "Patch for Windows Defender 0-day could allow attackers to fill hard disk",
-      "summary": "The feud between NightmareEclipse and Microsoft shows no signs of resolving soon.",
-      "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2026/07/GettyImages-1237693734-1152x648-1783631068.jpg",
-      "source": "Ars Technica",
-      "sourceUrl": "https://arstechnica.com/security/2026/07/patch-for-windows-defender-0-day-could-allow-attackers-to-fill-hard-disk/",
-      "publishedAt": "2026-07-09T20:52:55.000Z"
     }
   ]
 }
