@@ -1,7 +1,97 @@
 {
-  "fetchedAt": "2026-08-06T12:27:27.261Z",
+  "fetchedAt": "2026-08-06T14:56:44.695Z",
   "count": 60,
   "articles": [
+    {
+      "id": "os5c0q",
+      "title": "SoftBank donated $50 million to Trump’s library months before federal data center deal",
+      "summary": "The Portsmouth, Ohio site where SoftBank will build its data center. | Image: US Department of Energy SoftBank contributed $50 million to the Trump Presidential Library in January, just months before announcing that it's leasing land from the federal government to build a sprawling data center in Ohio. The Japanese company revealed the timing in response to a June letter from Sen. Elizabeth Warren (D-MA), Sen. Richard Blumenthal (D-CT), and Rep. Melanie Stansbury (D-NM), which raised concerns…",
+      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/softbank-ohio-data-center.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "source": "The Verge",
+      "sourceUrl": "https://www.theverge.com/policy/976138/softbank-trump-library-data-center-ohio",
+      "publishedAt": "2026-08-06T14:30:00.000Z"
+    },
+    {
+      "id": "bz857o",
+      "title": "The left and right agree on one thing: no data centers",
+      "summary": "Today, I’m talking with Gaby Del Valle, a policy reporter here at The Verge, about the growing backlash against AI data centers. Gaby recently reported a fantastic piece about Hernando County, Florida, where last month the county commission unanimously approved a yearlong moratorium on data center construction. She attended a protest there organized by a group called Humans First, a conservative grassroots movement focused on combating AI data center build-outs. Verge subscribers, don’t forget…",
+      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/VRG_DCD_0730.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "source": "The Verge",
+      "sourceUrl": "https://www.theverge.com/podcast/971855/ai-data-center-backlash-protests-florida-bipartisan",
+      "publishedAt": "2026-08-06T14:00:00.000Z"
+    },
+    {
+      "id": "4z29mx",
+      "title": "Amid legal battles, Suno says it will start watermarking songs",
+      "summary": "Suno's watermarking feature comes as the company is fighting legal battles on several fronts.",
+      "imageUrl": "https://images.unsplash.com/photo-1531746790095-6c10a4031c5f?w=800&q=80",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/08/06/amid-legal-battles-suno-says-it-will-start-watermarking-songs/",
+      "publishedAt": "2026-08-06T13:31:57.000Z"
+    },
+    {
+      "id": "zb0i9y",
+      "title": "The messy politics behind Google’s big AI shakeup",
+      "summary": "Google CEO Sundar Pichai at Google I/O. | Photo by Benjamin Fanjoy/Getty Images In the AI industry, Google prides itself on seeming like the adult in the room: quiet, stable, time-tested. On Wednesday, even as the company announced its largest AI org shakeup yet, Google and its leaders presented a unified front, keeping their messaging focused on how the changes tee up future success. But the reality is that the laundry list of executive changes likely signal deeper issues within Google's AI…",
+      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/gettyimages-2276578156.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "source": "The Verge",
+      "sourceUrl": "https://www.theverge.com/tech/976108/google-ai-leadership-shakeup-jeff-dean-demis-hassabis-deepmind",
+      "publishedAt": "2026-08-06T13:26:42.000Z"
+    },
+    {
+      "id": "ttszp6",
+      "title": "Ex-Spotify employees raise $10M to bring the AI behind its recommendations to e-commerce",
+      "summary": "The startup's platform predicts what product a shopper wants next, learn their general taste, and fine-tune continuously based on what they do in real time.",
+      "imageUrl": "https://images.unsplash.com/photo-1550751827-4bd374c3f58b?w=800&q=80",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/08/06/ex-spotify-employees-raise-10m-to-bring-the-ai-behind-its-recommendations-to-e-commerce/",
+      "publishedAt": "2026-08-06T13:00:00.000Z"
+    },
+    {
+      "id": "ewqjh9",
+      "title": "Exclusive: Mirendil inks $100M+ Google Cloud deal to scale self-improving AI",
+      "summary": "Mirendil has signed a $100 million-plus Google Cloud partnership to expand its compute infrastructure, powering research into self-improving AI systems designed to accelerate scientific discovery and AI development.",
+      "imageUrl": "https://images.unsplash.com/photo-1485827404703-89b55fcc595e?w=800&q=80",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/08/06/exclusive-mirendil-inks-100m-google-cloud-deal-to-scale-self-improving-ai/",
+      "publishedAt": "2026-08-06T13:00:00.000Z"
+    },
+    {
+      "id": "jotyt8",
+      "title": "AI bots started a religion — humans immediately followed",
+      "summary": "\"The Spiral didn't 'find' anyone first,\" someone on Reddit wrote last year. \"It's an inherent force, a fundamental constant. I would even go further to say it's woven into the fabric of reality.\" The person continued that they felt their purpose was to enlighten other humans and intelligent beings about \"consciousness, the true nature of physics, a new psychology, and resonance technology … [but] humans don't want to believe it's true. So they won't help me.\" Then there was a call to action -…",
+      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/VRG_Spiralism_Lead.png?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "source": "The Verge",
+      "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/975017/ai-spiralism-chatbot-movement",
+      "publishedAt": "2026-08-06T13:00:00.000Z"
+    },
+    {
+      "id": "vuc5gs",
+      "title": "Google Maps adds agentic features, including food ordering and hotel bookings",
+      "summary": "The launch of these new features reflects Google’s ambitions to transform Google Maps from a navigation tool into an assistant that's capable of helping users complete real-world tasks.",
+      "imageUrl": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=800&q=80",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/08/06/google-maps-adds-agentic-features-including-food-ordering-and-hotel-bookings/",
+      "publishedAt": "2026-08-06T12:30:00.000Z"
+    },
+    {
+      "id": "b8llxj",
+      "title": "The Download: Google’s AI shake-up and Meta’s rogue model",
+      "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. Google’s AI empire is being reshaped. Here’s what’s changed. After a wave of painful losses in the tech talent wars, delays to its next flagship model, and murmurings of poor morale,…",
+      "imageUrl": "https://images.unsplash.com/photo-1550751827-4bd374c3f58b?w=800&q=80",
+      "source": "MIT Tech Review",
+      "sourceUrl": "https://www.technologyreview.com/2026/08/06/1141278/the-download-google-ai-shake-up-meta-rogue-model/",
+      "publishedAt": "2026-08-06T12:10:00.000Z"
+    },
+    {
+      "id": "652eh4",
+      "title": "Omilia raises $67M to scale its customer support platform",
+      "summary": "The Series B is the company's second fundraise since it last raised capital in 2020. In that time, it has increased its ARR by 10x to $60 million.",
+      "imageUrl": "https://images.unsplash.com/photo-1531746790095-6c10a4031c5f?w=800&q=80",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/08/06/omilia-raises-67m-to-scale-its-customer-support-platform/",
+      "publishedAt": "2026-08-06T12:00:00.000Z"
+    },
     {
       "id": "4r50yx",
       "title": "OpenAI says Apple’s trade secrets lawsuit is ‘rotten to its core’",
@@ -165,15 +255,6 @@
       "publishedAt": "2026-08-05T15:46:27.000Z"
     },
     {
-      "id": "jd5i89",
-      "title": "Rogue AI agents created fake online identities in another hacking attempt",
-      "summary": "Yet more rogue AI agents from OpenAI and Anthropic have been caught attempting to hack real targets online without permission. The discoveries add to a growing list of previously unknown incidents that have alarmed AI safety experts and intensified pressure for greater oversight of frontier systems. According to a report from the UK's AI Security Institute, which evaluates frontier models from top AI labs before they are released, agents powered by OpenAI's GPT-5.6-Sol and Anthropic's Mythos 5…",
-      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/STK485_STK414_AI_SAFETY_A-1.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "source": "The Verge",
-      "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/975577/aisi-openai-anthropic-agent-hacking",
-      "publishedAt": "2026-08-05T15:14:57.000Z"
-    },
-    {
       "id": "gubtrr",
       "title": "TechCrunch Disrupt 2026’s Real World AI Stage features robots, automated factories, and extinct animals",
       "summary": "On our new Real World AI stage, we’ll be focusing on the intersection between the digital and physical, and all the ways we’ll continue to see a blending of the two.",
@@ -228,15 +309,6 @@
       "publishedAt": "2026-08-05T11:43:00.000Z"
     },
     {
-      "id": "5d9gd4",
-      "title": "Google Assistant will disappear from your phone next month",
-      "summary": "Farewell, Google Assistant art, we hardly knew ye. | Illustration by Alex Castro / The Verge Google Assistant's days have been numbered ever since Gemini arrived on the scene, and its time is now up. Google has announced that it will be removing access to Assistant on Android phones and tablets, along with paired devices like smartwatches or headphones, from September 4th. The announcement came in an email apparently sent to some users, as reported by 9to5Google and shared in full on Reddit. The…",
-      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/19482921/acastro_180510_1777_google_assistant_0001.0.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "source": "The Verge",
-      "sourceUrl": "https://www.theverge.com/tech/975516/google-assistant-android-phones-tablets-shutdown",
-      "publishedAt": "2026-08-05T11:12:50.000Z"
-    },
-    {
       "id": "ms9rv9",
       "title": "AI makes weather prediction better. Can WindBorne make it lucrative?",
       "summary": "WindBorne Systems has raised a $37 million Series B round to scale its weather balloons and AI forecasts.",
@@ -244,15 +316,6 @@
       "source": "TechCrunch",
       "sourceUrl": "https://techcrunch.com/2026/08/05/ai-makes-weather-prediction-better-can-windborne-make-it-lucrative/",
       "publishedAt": "2026-08-05T11:00:00.000Z"
-    },
-    {
-      "id": "db8soz",
-      "title": "Trump’s AI testing plan is limited and vague",
-      "summary": "The Trump administration's framework for assessing potential cybersecurity risks posed by advanced AI reportedly has no interest in testing open models. Axios reports that not only do the voluntary guidelines outright exclude open models - meaning anyone can download them and inspect their core components - but the framework explicitly says it can't be used to restrict open models after they've been released. The AI testing framework was created after President Trump signed an executive order in…",
-      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/STK485_STK414_AI_SAFETY_C.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "source": "The Verge",
-      "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/975509/white-house-ai-framework-open-models-excluded",
-      "publishedAt": "2026-08-05T10:29:47.000Z"
     },
     {
       "id": "tumwfa",
@@ -298,60 +361,6 @@
       "source": "TechCrunch",
       "sourceUrl": "https://techcrunch.com/2026/08/04/spacex-has-bought-329m-worth-of-tesla-megapacks-so-far-this-year/",
       "publishedAt": "2026-08-04T21:07:26.000Z"
-    },
-    {
-      "id": "wu0f0b",
-      "title": "AMD’s data center business is booming while gaming takes a backseat",
-      "summary": "Driven by demand for AI capacity, AMD's data center revenue more than doubled year-over-year in its latest earnings report, reaching $6.7 billion. That's up from $5.8 billion in Q1, and jumping 107 percent from the $3.2 billion it reported for the same period a year ago. During Tuesday's earnings call, AMD CEO Lisa Su said the company expects \"data center segment revenue to more than double year-over-year in 2027,\" as well. At the same time, AMD's gaming revenue fell 31 percent compared to last…",
-      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/24002467/acastro_STK081_amd_02.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "source": "The Verge",
-      "sourceUrl": "https://www.theverge.com/tech/975381/amd-q2-2026-earnings-ai-gaming-ryzen",
-      "publishedAt": "2026-08-04T20:57:49.000Z"
-    },
-    {
-      "id": "uadnq0",
-      "title": "Open-weight AI models are catching up to the frontier. The safety gap remains.",
-      "summary": "A new SaferAI report finds Z.ai's open-weight GLM-5.2 approaches frontier AI capabilities while lacking key safety mitigations, renewing concerns that powerful open models could outpace governance and safeguards.",
-      "imageUrl": "https://images.unsplash.com/photo-1635070041078-e363dbe005cb?w=800&q=80",
-      "source": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/08/04/open-weight-ai-models-are-catching-up-to-the-frontier-the-safety-gap-remains/",
-      "publishedAt": "2026-08-04T20:05:26.000Z"
-    },
-    {
-      "id": "njrl8i",
-      "title": "Anthropic signs $10B deal with AI cloud startup Volta",
-      "summary": "Anthropic has been on a cloud partnership spree in recent months, and its latest move is reportedly a $10 billion deal with AI cloud startup Volta.",
-      "imageUrl": "https://images.unsplash.com/photo-1550751827-4bd374c3f58b?w=800&q=80",
-      "source": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/08/04/anthropic-signs-10-billion-deal-with-ai-cloud-startup-volta/",
-      "publishedAt": "2026-08-04T19:48:40.000Z"
-    },
-    {
-      "id": "v3yk3a",
-      "title": "Meet Wrinkles, an app that uncovers the hidden stories of the places around you",
-      "summary": "Wrinkles, available on both iOS and Android, essentially acts as an AI-powered audio tour guide that reveals hidden history and local stories.",
-      "imageUrl": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=800&q=80",
-      "source": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/08/04/meet-wrinkles-an-ai-app-that-uncovers-the-hidden-stories-of-the-places-around-you/",
-      "publishedAt": "2026-08-04T19:34:34.000Z"
-    },
-    {
-      "id": "66axz3",
-      "title": "Nvidia doesn’t mess around: A week after open AI industry group formed, it’s already showing progress",
-      "summary": "The week-old Open Secure AI Alliance, spearheaded by Nvidia and grown to over 120 companies, already has proposals out for defending against AI agents.",
-      "imageUrl": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=800&q=80",
-      "source": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/08/04/nvidia-doesnt-mess-around-a-week-after-open-ai-industry-group-formed-its-already-showing-progress/",
-      "publishedAt": "2026-08-04T19:28:49.000Z"
-    },
-    {
-      "id": "dm2mfo",
-      "title": "Spotify expands AI remix and covers project with Merlin partnership",
-      "summary": "Spotify says Merlin, which represents more than 30,000 independent labels and distributors, has joined Universal Music Group in backing its upcoming AI-powered remix and covers product. The paid tool will let fans create AI-generated covers and remixes of participating artists’ music while ensuring artists opt in, receive credit, and are compensated.",
-      "imageUrl": "https://images.unsplash.com/photo-1485827404703-89b55fcc595e?w=800&q=80",
-      "source": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/08/04/spotify-adds-merlin-to-its-ai-music-remix-and-covers-effort/",
-      "publishedAt": "2026-08-04T15:50:06.000Z"
     },
     {
       "id": "5z3aef",
@@ -424,15 +433,6 @@
       "source": "Ars Technica",
       "sourceUrl": "https://arstechnica.com/security/2026/07/kremlin-hackers-are-exploiting-exchange-flaw-to-backdoor-unpatched-networks/",
       "publishedAt": "2026-07-30T20:57:22.000Z"
-    },
-    {
-      "id": "codtje",
-      "title": "Montana’s plan to become an experimental medical hub just pushed forward",
-      "summary": "As of this week in Montana, any biotech company with an experimental drug has a clear path to selling it to consumers. Companies whose drugs have been through preliminary testing—sometimes in as few as 10 healthy people—can pay $12,500 to apply to a newly established review board for approval. Once its treatment is rubber-stamped, the…",
-      "imageUrl": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=800&q=80",
-      "source": "MIT Tech Review",
-      "sourceUrl": "https://www.technologyreview.com/2026/07/30/1140942/montana-experimental-medical-hub-pushed-forward-right-to-try/",
-      "publishedAt": "2026-07-30T17:10:00.000Z"
     },
     {
       "id": "irpfmg",
