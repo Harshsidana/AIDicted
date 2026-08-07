@@ -1,7 +1,43 @@
 {
-  "fetchedAt": "2026-08-07T13:51:27.305Z",
+  "fetchedAt": "2026-08-07T15:00:26.441Z",
   "count": 60,
   "articles": [
+    {
+      "id": "9rd522",
+      "title": "Airbnb says AI is helping it ship features faster as it tests a new search function",
+      "summary": "Airbnb will debut a new AI-powered search experience with a toggle.",
+      "imageUrl": "https://images.unsplash.com/photo-1620712943543-bcc4688e7485?w=800&q=80",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/08/07/airbnb-says-ai-is-helping-it-ship-features-faster-as-it-tests-a-new-search-function/",
+      "publishedAt": "2026-08-07T14:22:49.000Z"
+    },
+    {
+      "id": "m62q6w",
+      "title": "The Download: a censorship conspiracy theory and the first virus created by AI",
+      "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. How ideas of a vast censorship network moved from the online fringe to Trump policy For years, narratives about a “censorship-industrial complex” spread in right-wing circles. The theory claimed that, under…",
+      "imageUrl": "https://images.unsplash.com/photo-1676299081847-824916de030a?w=800&q=80",
+      "source": "MIT Tech Review",
+      "sourceUrl": "https://www.technologyreview.com/2026/08/07/1141389/the-download-censorship-conspiracy-theory-first-ai-virus/",
+      "publishedAt": "2026-08-07T14:20:00.000Z"
+    },
+    {
+      "id": "jncmav",
+      "title": "Scientists Used AI to Create 16 New Viruses",
+      "summary": "The use of AI systems to create viruses opens up new possibilities for combating bacterial resistance. It also raises concerns about the pace at which technology is outstripping regulation.",
+      "imageUrl": "https://media.wired.com/photos/6a75dcaa629c4defb09289b6/master/pass/virusIA.jpg",
+      "source": "Wired",
+      "sourceUrl": "https://www.wired.com/story/scientists-used-ai-to-create-16-new-viruses/",
+      "publishedAt": "2026-08-07T14:13:57.000Z"
+    },
+    {
+      "id": "2hdtuv",
+      "title": "How ideas of a vast censorship network moved from the online fringe to Trump policy",
+      "summary": "This article was produced in partnership with Type Investigations, with support from the Wayne Barrett Project. One morning in April 2025, employees of a small office in the US State Department got the email many of them had been dreading. For months, Elon Musk’s Department of Government Efficiency had been cutting a wide swath through…",
+      "imageUrl": "https://images.unsplash.com/photo-1485827404703-89b55fcc595e?w=800&q=80",
+      "source": "MIT Tech Review",
+      "sourceUrl": "https://www.technologyreview.com/2026/08/07/1141105/how-ideas-of-a-vast-censorship-network-moved-from-the-online-fringe-to-trump-policy/",
+      "publishedAt": "2026-08-07T14:00:00.000Z"
+    },
     {
       "id": "hk1b3z",
       "title": "New Mexico court orders Meta to pay additional $567M in child safety case",
@@ -318,24 +354,6 @@
       "publishedAt": "2026-08-05T16:57:25.000Z"
     },
     {
-      "id": "2lqbnl",
-      "title": "Meta Ran Ads That Contained AI-Generated Child Sexual Abuse Imagery",
-      "summary": "More than 50 offending image and video ads were published across Facebook, Instagram, Messenger, or Threads, according to Meta’s ad library data. Some ran as recently as this week.",
-      "imageUrl": "https://media.wired.com/photos/6a6d058753afe1590265744d/master/pass/073126-meta-nudify-ads-children.jpg",
-      "source": "Wired",
-      "sourceUrl": "https://www.wired.com/story/meta-ran-ads-that-contained-ai-generated-child-sexual-abuse-imagery/",
-      "publishedAt": "2026-08-05T16:26:36.000Z"
-    },
-    {
-      "id": "l9yphd",
-      "title": "Shopify says AI search is driving more traffic and sales, not replacing Google",
-      "summary": "Shopify says AI isn’t cannibalizing search traffic the way it has for publishers. Instead, AI-driven traffic and orders to Shopify stores tripled year over year in Q2.",
-      "imageUrl": "https://images.unsplash.com/photo-1550751827-4bd374c3f58b?w=800&q=80",
-      "source": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/08/05/shopify-says-ai-search-is-driving-more-traffic-and-sales-not-replacing-google/",
-      "publishedAt": "2026-08-05T15:56:14.000Z"
-    },
-    {
       "id": "7o9k8o",
       "title": "Puzzle Corner",
       "summary": "Ready for a fresh set of puzzles? Click here for the September/October 2026 Puzzle Corner, brought to you by Michael S. Branicky, ScD ’95, of the Puzzle Corner Puzzle Crew (aka PC2), which also includes Edward Faulkner ’03, MEng ’04, and Abe Kunin ’03. This column includes solutions to the May/June issue. Send problems, solutions (by October…",
@@ -406,24 +424,6 @@
       "source": "Ars Technica",
       "sourceUrl": "https://arstechnica.com/security/2026/07/likely-illegally-claude-gained-access-to-3-networks-will-anthropic-be-held-to-account/",
       "publishedAt": "2026-07-31T20:39:14.000Z"
-    },
-    {
-      "id": "e83ky9",
-      "title": "The Download: Montana’s new experimental drug rules",
-      "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. Montana’s plan to become an experimental medical hub just pushed forward As of this week in Montana, biotech companies whose drugs have been through preliminary testing—sometimes in as few as 10…",
-      "imageUrl": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=800&q=80",
-      "source": "MIT Tech Review",
-      "sourceUrl": "https://www.technologyreview.com/2026/07/31/1140999/the-download-montanas-right-to-try-law-anthropic-hacks/",
-      "publishedAt": "2026-07-31T12:16:00.000Z"
-    },
-    {
-      "id": "nzhwz8",
-      "title": "Montana’s new “right to try” law can’t come soon enough for some",
-      "summary": "Kris DeVault is desperate. His son, Brody, was born in March 2023. It wasn’t long before he started to show signs of developmental delay, says DeVault. As time went on, Brody started missing key milestones in speech, movement, and coordination, he says. When Brody was around two and a half years old, a genetic test…",
-      "imageUrl": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=800&q=80",
-      "source": "MIT Tech Review",
-      "sourceUrl": "https://www.technologyreview.com/2026/07/31/1140945/montanas-new-right-to-try-law-cant-come-soon-enough-for-some/",
-      "publishedAt": "2026-07-31T09:00:00.000Z"
     },
     {
       "id": "h6gp7s",
