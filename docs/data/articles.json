@@ -1,7 +1,16 @@
 {
-  "fetchedAt": "2026-08-07T16:25:36.390Z",
+  "fetchedAt": "2026-08-07T17:25:32.474Z",
   "count": 60,
   "articles": [
+    {
+      "id": "y8dj51",
+      "title": "What’s behind the Google AI shake-up",
+      "summary": "Some of the biggest names on Google's AI team got new jobs this week. In some cases, including for legendary Googler Jeff Dean, those jobs are no longer at Google. Given that Google's models seem to be behind the best of what's coming out of anthropic and OpenAI, is this a sign of Google in turmoil? Is it about Demis Hassabis wanting something more interesting to work on than virtual assistants? Or is there something else entirely happening here? On this episode of The Vergecast, Nilay and David…",
+      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/VRG_VST080726_Site.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "source": "The Verge",
+      "sourceUrl": "https://www.theverge.com/podcast/976784/google-deepmind-ai-race-vergecast",
+      "publishedAt": "2026-08-07T16:45:14.000Z"
+    },
     {
       "id": "dkfv6h",
       "title": "Cloudflare launches Kitesurf, a browser built for AI agents",
@@ -343,15 +352,6 @@
       "source": "Wired",
       "sourceUrl": "https://www.wired.com/story/ai-agents-could-act-like-computer-viruses-and-worms/",
       "publishedAt": "2026-08-05T18:30:00.000Z"
-    },
-    {
-      "id": "oe63ow",
-      "title": "Sure seems like Fenix Flexin used AI music generator Treblo",
-      "summary": "And you thought we were done with this one… | Image: Fenix Flexin We were pretty sure that Fenix Flexin's \"Rubberz\" was made using AI, but musician Medasin was confident that it was made using Treblo specifically. Now the company and a new detection tool seem to confirm it. On Monday, the company announced the open-source Treblo AI Music Classifier, which detects when a song was generated using Treblo, though not other AI tools. According to a blog post, it has a false positive rate of less than…",
-      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/artworks-WsdIgVXV8NOV-0-t1080x1080.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "source": "The Verge",
-      "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/975528/fenix-flexin-ai-music-generator-treblo",
-      "publishedAt": "2026-08-05T16:57:25.000Z"
     },
     {
       "id": "7o9k8o",
