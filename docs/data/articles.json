@@ -1,7 +1,16 @@
 {
-  "fetchedAt": "2026-08-07T15:00:26.441Z",
+  "fetchedAt": "2026-08-07T16:25:36.390Z",
   "count": 60,
   "articles": [
+    {
+      "id": "dkfv6h",
+      "title": "Cloudflare launches Kitesurf, a browser built for AI agents",
+      "summary": "Cloudflare has introduced Kitesurf, a cloud-hosted browser designed for AI agents instead of people. The company says the browser uses less computing power than Chromium for common automation tasks, helping developers build browser-based AI agents more efficiently.",
+      "imageUrl": "https://images.unsplash.com/photo-1531746790095-6c10a4031c5f?w=800&q=80",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/08/07/cloudflare-launches-kitesurf-a-browser-built-for-ai-agents/",
+      "publishedAt": "2026-08-07T16:16:09.000Z"
+    },
     {
       "id": "9rd522",
       "title": "Airbnb says AI is helping it ship features faster as it tests a new search function",
@@ -41,7 +50,7 @@
     {
       "id": "hk1b3z",
       "title": "New Mexico court orders Meta to pay additional $567M in child safety case",
-      "summary": "Meta's total fine has raked up to $942 million in this case",
+      "summary": "Meta's total fine has raked up to $942 million in this case.",
       "imageUrl": "https://images.unsplash.com/photo-1676299081847-824916de030a?w=800&q=80",
       "source": "TechCrunch",
       "sourceUrl": "https://techcrunch.com/2026/08/07/new-mexico-court-orders-meta-to-pay-additional-567m-in-child-safety-case/",
@@ -325,15 +334,6 @@
       "source": "Wired",
       "sourceUrl": "https://www.wired.com/story/the-most-dangerous-ai-hacking-techniques-still-have-human-input/",
       "publishedAt": "2026-08-05T19:42:12.000Z"
-    },
-    {
-      "id": "2w94of",
-      "title": "Jeff Dean and other top AI researchers are leaving Google to launch their own startup",
-      "summary": "The legendary Google executive is joined by other outgoing Google execs in a joint mission to use AI to push forward the process of scientific discovery.",
-      "imageUrl": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=800&q=80",
-      "source": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/08/05/jeff-dean-and-other-top-ai-researchers-are-leaving-google-to-launch-their-own-startup/",
-      "publishedAt": "2026-08-05T19:30:19.000Z"
     },
     {
       "id": "8ws31p",
