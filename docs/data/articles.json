@@ -1,7 +1,16 @@
 {
-  "fetchedAt": "2026-08-07T22:45:22.580Z",
+  "fetchedAt": "2026-08-07T23:39:22.610Z",
   "count": 60,
   "articles": [
+    {
+      "id": "4lhzue",
+      "title": "OpenAI says it slowed Astra model development over security concerns",
+      "summary": "OpenAI said it has suspended work on some aspects of its upcoming model Astra over concerns about its cybersecurity prowess.",
+      "imageUrl": "https://images.unsplash.com/photo-1550751827-4bd374c3f58b?w=800&q=80",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/08/07/openai-says-it-slowed-astra-model-development-over-security-concerns/",
+      "publishedAt": "2026-08-07T22:48:24.000Z"
+    },
     {
       "id": "94rzvw",
       "title": "After Rippling blew millions on AI in months, it built an employee ROI tool",
@@ -298,15 +307,6 @@
       "source": "MIT Tech Review",
       "sourceUrl": "https://www.technologyreview.com/2026/08/06/1141278/the-download-google-ai-shake-up-meta-rogue-model/",
       "publishedAt": "2026-08-06T12:10:00.000Z"
-    },
-    {
-      "id": "652eh4",
-      "title": "Omilia raises $67M to scale its customer support platform",
-      "summary": "The Series B is the company's second fundraise since it last raised capital in 2020. In that time, it has increased its ARR by 10x to $60 million.",
-      "imageUrl": "https://images.unsplash.com/photo-1531746790095-6c10a4031c5f?w=800&q=80",
-      "source": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/08/06/omilia-raises-67m-to-scale-its-customer-support-platform/",
-      "publishedAt": "2026-08-06T12:00:00.000Z"
     },
     {
       "id": "ypi7dl",
