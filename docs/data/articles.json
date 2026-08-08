@@ -1,7 +1,25 @@
 {
-  "fetchedAt": "2026-08-08T19:35:56.981Z",
+  "fetchedAt": "2026-08-08T20:37:56.483Z",
   "count": 60,
   "articles": [
+    {
+      "id": "431ape",
+      "title": "OpenAI acquires presentation startup NextSlide",
+      "summary": "NextSlide says its team members are now working on ChatGPT.",
+      "imageUrl": "https://images.unsplash.com/photo-1676299081847-824916de030a?w=800&q=80",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/08/08/openai-acquires-presentation-startup-nextslide/",
+      "publishedAt": "2026-08-08T19:41:13.000Z"
+    },
+    {
+      "id": "9t4mro",
+      "title": "An Amazon data center could have the worst polluting power plant in the country",
+      "summary": "To power its new West Texas data center, Amazon is investing in the construction of a new power plant that could be one of the largest single producers of greenhouse gases in the US, according to the New York Times. The new gas-burning plant in Pecos County, Texas has received significant investment from Amazon and, at least initially, would not be connected to the state's power grid. Instead, its 35 natural-gas turbines would primarily deliver its 7.65 gigawatts of electricity to the new data…",
+      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/STKS528_DATA_CENTERS2_A.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "source": "The Verge",
+      "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/977124/amazon-data-center-worst-polluting-power-plant",
+      "publishedAt": "2026-08-08T17:53:34.000Z"
+    },
     {
       "id": "d2ix1z",
       "title": "How to Disable Gemini in Gmail and Google Docs",
@@ -273,15 +291,6 @@
       "publishedAt": "2026-08-06T13:31:57.000Z"
     },
     {
-      "id": "zb0i9y",
-      "title": "The messy politics behind Google’s big AI shakeup",
-      "summary": "Google CEO Sundar Pichai at Google I/O. | Photo by Benjamin Fanjoy/Getty Images In the AI industry, Google prides itself on seeming like the adult in the room: quiet, stable, time-tested. On Wednesday, even as the company announced its largest AI org shakeup yet, Google and its leaders presented a unified front, keeping their messaging focused on how the changes tee up future success. But the reality is that the laundry list of executive changes likely signal deeper issues within Google's AI…",
-      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/gettyimages-2276578156.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "source": "The Verge",
-      "sourceUrl": "https://www.theverge.com/tech/976108/google-ai-leadership-shakeup-jeff-dean-demis-hassabis-deepmind",
-      "publishedAt": "2026-08-06T13:26:42.000Z"
-    },
-    {
       "id": "ttszp6",
       "title": "Ex-Spotify employees raise $10M to bring the AI behind its recommendations to e-commerce",
       "summary": "The startup's platform predicts which product a shopper wants next, learns their general taste, and fine-tunes continuously based on what they do in real time.",
@@ -298,15 +307,6 @@
       "source": "TechCrunch",
       "sourceUrl": "https://techcrunch.com/2026/08/06/exclusive-mirendil-inks-100m-google-cloud-deal-to-scale-self-improving-ai/",
       "publishedAt": "2026-08-06T13:00:00.000Z"
-    },
-    {
-      "id": "vuc5gs",
-      "title": "Google Maps adds agentic features, including food ordering and hotel bookings",
-      "summary": "The launch of these new features reflects Google’s ambitions to transform Google Maps from a navigation tool into an assistant that's capable of helping users complete real-world tasks.",
-      "imageUrl": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=800&q=80",
-      "source": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/08/06/google-maps-adds-agentic-features-including-food-ordering-and-hotel-bookings/",
-      "publishedAt": "2026-08-06T12:30:00.000Z"
     },
     {
       "id": "b8llxj",
