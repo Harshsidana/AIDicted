@@ -1,7 +1,16 @@
 {
-  "fetchedAt": "2026-08-09T17:37:25.880Z",
+  "fetchedAt": "2026-08-09T19:39:09.992Z",
   "count": 60,
   "articles": [
+    {
+      "id": "dtigxj",
+      "title": "Anthropic is turning Claude Code’s auto mode on by default",
+      "summary": "Programming with Claude Code will soon require even less human oversight.",
+      "imageUrl": "https://images.unsplash.com/photo-1620712943543-bcc4688e7485?w=800&q=80",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/08/09/anthropic-is-turning-claude-codes-auto-mode-on-by-default/",
+      "publishedAt": "2026-08-09T19:20:32.000Z"
+    },
     {
       "id": "yxjv8p",
       "title": "Historian Jill Lepore says Silicon Valley misreads science fiction and undermines democracy",
@@ -307,15 +316,6 @@
       "source": "TechCrunch",
       "sourceUrl": "https://techcrunch.com/2026/08/06/gen-z-dating-apps-like-ditto-ditch-swiping-in-favor-of-ai-matchmaking/",
       "publishedAt": "2026-08-06T15:53:03.000Z"
-    },
-    {
-      "id": "14nldr",
-      "title": "OpenAI says Apple’s own security practices undermine its trade secrets case",
-      "summary": "Newly filed court exhibits show OpenAI’s legal strategy in Apple’s trade secrets lawsuit: argue that Apple’s own security and offboarding practices — including allowing an Apple manager to access a former engineer’s iCloud account after he left the company —undermine its claims that the allegedly stolen information was properly protected.",
-      "imageUrl": "https://images.unsplash.com/photo-1676299081847-824916de030a?w=800&q=80",
-      "source": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/08/06/openai-says-apples-own-security-practices-undermine-its-trade-secrets-case/",
-      "publishedAt": "2026-08-06T15:10:32.000Z"
     },
     {
       "id": "os5c0q",
