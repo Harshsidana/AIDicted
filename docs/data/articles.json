@@ -1,7 +1,16 @@
 {
-  "fetchedAt": "2026-08-09T07:35:15.255Z",
+  "fetchedAt": "2026-08-09T09:48:24.098Z",
   "count": 60,
   "articles": [
+    {
+      "id": "n0hkzw",
+      "title": "These AI Barons Are Ready to Give Away Their Fortunes",
+      "summary": "A new generation of philanthropists made rich by artificial intelligence are preparing to give away their vast wealth. What should we make of a multi-billion-dollar pinky promise?",
+      "imageUrl": "https://media.wired.com/photos/6a724999f2d8472b4d0de644/master/pass/AI-Barons-Business.gif",
+      "source": "Wired",
+      "sourceUrl": "https://www.wired.com/story/ai-billionaires-are-pledging-their-wealth-good-or-bad/",
+      "publishedAt": "2026-08-09T09:30:00.000Z"
+    },
     {
       "id": "otx1e1",
       "title": "Planned Amazon data center could become the biggest climate polluter in the U.S.",
@@ -343,15 +352,6 @@
       "source": "Ars Technica",
       "sourceUrl": "https://arstechnica.com/security/2026/08/thousands-of-servers-can-be-backdoored-by-exploiting-buggy-motherboard-controllers/",
       "publishedAt": "2026-08-05T22:35:20.000Z"
-    },
-    {
-      "id": "3banmq",
-      "title": "The Most Dangerous AI Hacking Techniques Still Have Humans in the Loop",
-      "summary": "Security researcher James Kettle tried to push the limit of AI’s hacking abilities—and discovered how effective it can be when combined with human expertise.",
-      "imageUrl": "https://media.wired.com/photos/6a7210e3bbedba30ca118c54/master/pass/RoboHack.gif",
-      "source": "Wired",
-      "sourceUrl": "https://www.wired.com/story/the-most-dangerous-ai-hacking-techniques-still-have-human-input/",
-      "publishedAt": "2026-08-05T19:42:12.000Z"
     },
     {
       "id": "7o9k8o",
