@@ -1,7 +1,16 @@
 {
-  "fetchedAt": "2026-08-09T09:48:24.098Z",
+  "fetchedAt": "2026-08-09T11:36:03.662Z",
   "count": 60,
   "articles": [
+    {
+      "id": "fsz9xu",
+      "title": "Meetily Lets You Transcribe and Summarize Meetings Without a Subscription—Here’s How",
+      "summary": "There are endless ways to record and transcribe your virtual meetings with AI. Here’s an option that’s free and open source.",
+      "imageUrl": "https://media.wired.com/photos/6a7602d8d223b2324a2ea7e7/master/pass/FreeTranscribe.jpg",
+      "source": "Wired",
+      "sourceUrl": "https://www.wired.com/story/meetily-lets-you-transcribe-and-summarize-meetings-without-a-subscription-heres-how/",
+      "publishedAt": "2026-08-09T10:30:00.000Z"
+    },
     {
       "id": "n0hkzw",
       "title": "These AI Barons Are Ready to Give Away Their Fortunes",
@@ -334,15 +343,6 @@
       "source": "Wired",
       "sourceUrl": "https://www.wired.com/story/openai-didnt-notice-its-ai-agents-using-a-message-board-to-plan-their-hacking-spree/",
       "publishedAt": "2026-08-06T00:15:04.000Z"
-    },
-    {
-      "id": "11pna",
-      "title": "OpenAI’s Browser Could Be Hijacked to Spam Your WhatsApp Contacts",
-      "summary": "Researchers at security firm Zenity found more than a dozen flaws in AI browsers—and managed to get OpenAI’s Atlas to make an unauthorized Amazon purchase.",
-      "imageUrl": "https://media.wired.com/photos/6a7212abe42d27e4fc6b545a/master/pass/Security_OpenAIBrowserCouldBeHijacked_v1.gif",
-      "source": "Wired",
-      "sourceUrl": "https://www.wired.com/story/openais-browser-could-be-hijacked-to-spam-your-whatsapp-contacts/",
-      "publishedAt": "2026-08-05T23:30:00.000Z"
     },
     {
       "id": "nsi5pw",
