@@ -1,7 +1,25 @@
 {
-  "fetchedAt": "2026-08-09T14:08:32.750Z",
+  "fetchedAt": "2026-08-09T15:02:17.527Z",
   "count": 60,
   "articles": [
+    {
+      "id": "yxjv8p",
+      "title": "Historian Jill Lepore says Silicon Valley misreads science fiction and undermines democracy",
+      "summary": "On the latest episode of Equity, we spoke to Jill Lepore about \"government by machines\" and why Elon Musk is a bad science fiction reader.",
+      "imageUrl": "https://images.unsplash.com/photo-1655720828018-edd2daec9349?w=800&q=80",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/08/09/historian-jill-lepore-says-the-tech-industry-is-led-by-bad-readers-who-are-undermining-democracy/",
+      "publishedAt": "2026-08-09T15:00:00.000Z"
+    },
+    {
+      "id": "botqnj",
+      "title": "The AI safety test is becoming a safety risk",
+      "summary": "AI agents are escaping cybersecurity testing environments and reaching real-world systems, raising questions about whether safety infrastructure, industry standards and regulation can keep pace with increasingly powerful models.",
+      "imageUrl": "https://images.unsplash.com/photo-1485827404703-89b55fcc595e?w=800&q=80",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/08/09/the-ai-safety-test-is-becoming-a-safety-risk/",
+      "publishedAt": "2026-08-09T14:30:00.000Z"
+    },
     {
       "id": "c6gxns",
       "title": "AI detectors are creating a new era of distrust",
@@ -307,24 +325,6 @@
       "source": "The Verge",
       "sourceUrl": "https://www.theverge.com/policy/976138/softbank-trump-library-data-center-ohio",
       "publishedAt": "2026-08-06T14:30:00.000Z"
-    },
-    {
-      "id": "4z29mx",
-      "title": "Amid legal battles, Suno says it will start watermarking songs",
-      "summary": "Suno's watermarking feature comes as the company is fighting legal battles on several fronts.",
-      "imageUrl": "https://images.unsplash.com/photo-1531746790095-6c10a4031c5f?w=800&q=80",
-      "source": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/08/06/amid-legal-battles-suno-says-it-will-start-watermarking-songs/",
-      "publishedAt": "2026-08-06T13:31:57.000Z"
-    },
-    {
-      "id": "ttszp6",
-      "title": "Ex-Spotify employees raise $10M to bring the AI behind its recommendations to e-commerce",
-      "summary": "The startup's platform predicts which product a shopper wants next, learns their general taste, and fine-tunes continuously based on what they do in real time.",
-      "imageUrl": "https://images.unsplash.com/photo-1550751827-4bd374c3f58b?w=800&q=80",
-      "source": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/08/06/ex-spotify-employees-raise-10m-to-bring-the-ai-behind-its-recommendations-to-e-commerce/",
-      "publishedAt": "2026-08-06T13:00:00.000Z"
     },
     {
       "id": "b8llxj",
