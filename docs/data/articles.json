@@ -1,7 +1,16 @@
 {
-  "fetchedAt": "2026-08-10T13:57:29.355Z",
+  "fetchedAt": "2026-08-10T15:09:12.820Z",
   "count": 60,
   "articles": [
+    {
+      "id": "x7bjpx",
+      "title": "Bose CEO Lila Snyder on the fight for high-quality audio",
+      "summary": "Today, I’m talking with Lila Snyder, who is the CEO of Bose. You certainly know Bose — it’s one of the most famous brands in all of consumer tech. The company started 60 years ago selling speakers to consumers, and its focus on research and development has led it to be a leader in both car audio and noise-canceling headphones. Lila was last on the show about four years ago, and since then she’s dramatically rearchitected the company. The focus on research is still there, but she’s sold off Bose…",
+      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/DCD-Lila-Snyder.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "source": "The Verge",
+      "sourceUrl": "https://www.theverge.com/podcast/975732/bose-ceo-lila-snyder-ai-wearables-licensing-headphones-audio",
+      "publishedAt": "2026-08-10T14:00:00.000Z"
+    },
     {
       "id": "2b9ga",
       "title": "The Download: AI agents for science, and the “censorship-industrial complex”",
@@ -352,15 +361,6 @@
       "source": "TechCrunch",
       "sourceUrl": "https://techcrunch.com/2026/08/06/openai-brings-unlimited-chatgpt-text-chats-to-free-users/",
       "publishedAt": "2026-08-06T17:34:42.000Z"
-    },
-    {
-      "id": "9etd99",
-      "title": "OpenAI is giving ChatGPT free users unlimited text chats",
-      "summary": "OpenAI is making a big change for ChatGPT users on its free and Go tiers: Starting next week, users on those tiers will be able to have unlimited text chats with the chatbot, according to OpenAI. Right now, you may run into rate limits if you do too many text chats on those tiers, but those limits, just for text, will be going away soon. Messages that include things like file uploads and images will continue to have limits. Next week, OpenAI is also adding a \"Think\" button for free and Go users…",
-      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/02/STK155_OPEN_AI_4_CVirginia_A.png?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "source": "The Verge",
-      "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/976239/openai-chatgpt-free-go-text-chats",
-      "publishedAt": "2026-08-06T17:00:00.000Z"
     },
     {
       "id": "b8llxj",
