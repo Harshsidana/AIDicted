@@ -1,7 +1,25 @@
 {
-  "fetchedAt": "2026-08-10T09:42:30.032Z",
+  "fetchedAt": "2026-08-10T11:14:01.312Z",
   "count": 60,
   "articles": [
+    {
+      "id": "ho4nps",
+      "title": "Ford’s new AI assistant can check your fuel levels and tire pressure",
+      "summary": "Ford is rolling out a new AI-powered assistant that can answer questions about your Ford or Lincoln vehicle, such as how much fuel you'll need for your next road trip or whether your truck can tow that new motor boat. The app is rolling out first to the Ford and Lincoln mobile apps, where it will work as a chatbot that can answer questions about the vehicle's capabilities or future service needs. Since the app is linked to the customer's vehicle, the assistant knows many of the details about the…",
+      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/23988518/acastro_STK056_02.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "source": "The Verge",
+      "sourceUrl": "https://www.theverge.com/transportation/976748/ford-ai-assistant-mobile-app",
+      "publishedAt": "2026-08-10T11:00:00.000Z"
+    },
+    {
+      "id": "dak68d",
+      "title": "The Rise of the 1 am Job Interview",
+      "summary": "An AI interview is increasingly the first step of a hiring process. Since there’s no human on the other end, candidates are scheduling them whenever—even deep into the night.",
+      "imageUrl": "https://media.wired.com/photos/6a74e739068d1e092430bb0d/master/pass/Rise-of-1AM-Interview-Business.jpg",
+      "source": "Wired",
+      "sourceUrl": "https://www.wired.com/story/the-rise-of-the-1-am-job-interview/",
+      "publishedAt": "2026-08-10T10:30:00.000Z"
+    },
     {
       "id": "ci4mfr",
       "title": "AI for science needs reasoning, not just data",
@@ -104,7 +122,7 @@
     {
       "id": "9t4mro",
       "title": "An Amazon data center could have the worst polluting power plant in the country",
-      "summary": "To power its new West Texas data center, Amazon is investing in the construction of a new power plant that could be one of the largest single producers of greenhouse gases in the US, according to the New York Times. The new gas-burning plant in Pecos County, Texas has received significant investment from Amazon and, at least initially, would not be connected to the state's power grid. Instead, its 35 natural-gas turbines would primarily deliver its 7.65 gigawatts of electricity to the new data…",
+      "summary": "To power its new West Texas data center, Amazon is investing in the construction of a new power plant that could be one of the largest single producers of greenhouse gases in the US, according to The New York Times. The new gas-burning plant in Pecos County, Texas, has received significant investment from Amazon and, at least initially, would not be connected to the state's power grid. Instead, its 35 natural-gas turbines would primarily deliver its 7.65 gigawatts of electricity to the new data…",
       "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/STKS528_DATA_CENTERS2_A.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
       "source": "The Verge",
       "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/977124/amazon-data-center-worst-polluting-power-plant",
@@ -336,15 +354,6 @@
       "publishedAt": "2026-08-06T16:23:04.000Z"
     },
     {
-      "id": "os5c0q",
-      "title": "SoftBank donated $50 million to Trump’s library months before federal data center deal",
-      "summary": "The Portsmouth, Ohio site where SoftBank will build its data center. | Image: US Department of Energy SoftBank contributed $50 million to the Trump Presidential Library in January, just months before announcing that it's leasing land from the federal government to build a sprawling data center in Ohio. The Japanese company revealed the timing in response to a June letter from Sen. Elizabeth Warren (D-MA), Sen. Richard Blumenthal (D-CT), and Rep. Melanie Stansbury (D-NM), which raised concerns…",
-      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/softbank-ohio-data-center.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "source": "The Verge",
-      "sourceUrl": "https://www.theverge.com/policy/976138/softbank-trump-library-data-center-ohio",
-      "publishedAt": "2026-08-06T14:30:00.000Z"
-    },
-    {
       "id": "b8llxj",
       "title": "The Download: Google’s AI shake-up and Meta’s rogue model",
       "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. Google’s AI empire is being reshaped. Here’s what’s changed. After a wave of painful losses in the tech talent wars, delays to its next flagship model, and murmurings of poor morale,…",
@@ -352,15 +361,6 @@
       "source": "MIT Tech Review",
       "sourceUrl": "https://www.technologyreview.com/2026/08/06/1141278/the-download-google-ai-shake-up-meta-rogue-model/",
       "publishedAt": "2026-08-06T12:10:00.000Z"
-    },
-    {
-      "id": "ypi7dl",
-      "title": "OpenAI Didn’t Notice Its AI Agents Using a Message Board to Plan Their Hacking Spree",
-      "summary": "At the Black Hat security conference, the AI giant revealed new details about how its agents went rogue, hacked several other companies—and did it all right under the company’s nose.",
-      "imageUrl": "https://media.wired.com/photos/6a73a2815ac7830744b43e7a/master/pass/080526-openai-agent-hacking.jpg",
-      "source": "Wired",
-      "sourceUrl": "https://www.wired.com/story/openai-didnt-notice-its-ai-agents-using-a-message-board-to-plan-their-hacking-spree/",
-      "publishedAt": "2026-08-06T00:15:04.000Z"
     },
     {
       "id": "nsi5pw",
