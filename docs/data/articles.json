@@ -1,7 +1,25 @@
 {
-  "fetchedAt": "2026-08-10T11:14:01.312Z",
+  "fetchedAt": "2026-08-10T12:10:02.358Z",
   "count": 60,
   "articles": [
+    {
+      "id": "h7thm",
+      "title": "Discovered Materials is playing AI whack-a-mole to hunt cooler chips",
+      "summary": "Discovered Materials raised $9 million to fund the hunt for more novel materials to build more efficient chips.",
+      "imageUrl": "https://images.unsplash.com/photo-1485827404703-89b55fcc595e?w=800&q=80",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/08/10/discovered-materials-is-playing-ai-whack-a-mole-to-hunt-cooler-chips/",
+      "publishedAt": "2026-08-10T12:00:00.000Z"
+    },
+    {
+      "id": "8pxht8",
+      "title": "The AI Slop Backlash Is Actually Having an Impact",
+      "summary": "Platforms are finally recognizing that people don’t want to consume AI slop. A growing number of sites and apps now have tools and policies to flag, label, and ban AI-generated content.",
+      "imageUrl": "https://media.wired.com/photos/6a75d22732e80faf510b2a15/master/pass/AI%20Slop.jpg",
+      "source": "Wired",
+      "sourceUrl": "https://www.wired.com/story/the-ai-slop-backlash-is-actually-having-an-impact/",
+      "publishedAt": "2026-08-10T11:30:00.000Z"
+    },
     {
       "id": "ho4nps",
       "title": "Ford’s new AI assistant can check your fuel levels and tire pressure",
@@ -327,15 +345,6 @@
       "publishedAt": "2026-08-06T17:34:42.000Z"
     },
     {
-      "id": "isdwdx",
-      "title": "Naïve raises $28.5M to automate the grunt work of setting up and running a company",
-      "summary": "Taking vibe-coding a step further, Naïve claims its infra can automate most of the work in setting up and running a business.",
-      "imageUrl": "https://images.unsplash.com/photo-1485827404703-89b55fcc595e?w=800&q=80",
-      "source": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/08/06/naive-raises-28-5m-to-automate-the-grunt-work-of-setting-up-and-running-a-company/",
-      "publishedAt": "2026-08-06T17:00:37.000Z"
-    },
-    {
       "id": "9etd99",
       "title": "OpenAI is giving ChatGPT free users unlimited text chats",
       "summary": "OpenAI is making a big change for ChatGPT users on its free and Go tiers: Starting next week, users on those tiers will be able to have unlimited text chats with the chatbot, according to OpenAI. Right now, you may run into rate limits if you do too many text chats on those tiers, but those limits, just for text, will be going away soon. Messages that include things like file uploads and images will continue to have limits. Next week, OpenAI is also adding a \"Think\" button for free and Go users…",
@@ -343,15 +352,6 @@
       "source": "The Verge",
       "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/976239/openai-chatgpt-free-go-text-chats",
       "publishedAt": "2026-08-06T17:00:00.000Z"
-    },
-    {
-      "id": "thfrp6",
-      "title": "DeepMind Says Its AI Can Predict Hurricanes Earlier Than Everyone Else",
-      "summary": "Its WeatherNext model, which will be open-sourced, can accurately predict a storm’s track and intensity using lower-resolution weather data. Researchers don’t yet fully understand how it does this.",
-      "imageUrl": "https://media.wired.com/photos/6a748489077eac6832213fd9/master/pass/AICyclone.jpg",
-      "source": "Wired",
-      "sourceUrl": "https://www.wired.com/story/deepmind-ai-model-can-predict-hurricanes-earlier/",
-      "publishedAt": "2026-08-06T16:23:04.000Z"
     },
     {
       "id": "b8llxj",
