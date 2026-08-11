@@ -1,7 +1,16 @@
 {
-  "fetchedAt": "2026-08-11T13:57:21.539Z",
+  "fetchedAt": "2026-08-11T15:08:30.723Z",
   "count": 60,
   "articles": [
+    {
+      "id": "frdxf0",
+      "title": "‘Zoomsday’ hack uncovered using fewer than 20 AI prompts",
+      "summary": "Zoom has patched a major security vulnerability that could allow an attacker to hijack anyone's device during a meeting. In a blog post on Tuesday, researchers at A Security say they uncovered the flaw using \"fewer than 20 prompts on publicly available AI models,\" as reported earlier by Wired. The exploit involved Zoom's annotation feature, which allows users to draw on their screen while sharing it with other meeting participants. With the exploit, an attacker could join or host a meeting and…",
+      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/03/acastro_STK059_zoom_03.webp?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "source": "The Verge",
+      "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/977909/zoom-vulnerability-ai-attack",
+      "publishedAt": "2026-08-11T14:45:44.000Z"
+    },
     {
       "id": "38bn1h",
       "title": "Why your Amazon order confirmation emails have become so unhelpful",
@@ -334,15 +343,6 @@
       "source": "TechCrunch",
       "sourceUrl": "https://techcrunch.com/2026/08/08/openai-acquires-presentation-startup-nextslide/",
       "publishedAt": "2026-08-08T19:41:13.000Z"
-    },
-    {
-      "id": "9t4mro",
-      "title": "An Amazon data center could have the worst polluting power plant in the country",
-      "summary": "To power its new West Texas data center, Amazon is investing in the construction of a new power plant that could be one of the largest single producers of greenhouse gases in the US, according to The New York Times. The new gas-burning plant in Pecos County, Texas, has received significant investment from Amazon and, at least initially, would not be connected to the state's power grid. Instead, its 35 natural-gas turbines would primarily deliver its 7.65 gigawatts of electricity to the new data…",
-      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/STKS528_DATA_CENTERS2_A.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "source": "The Verge",
-      "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/977124/amazon-data-center-worst-polluting-power-plant",
-      "publishedAt": "2026-08-08T17:53:34.000Z"
     },
     {
       "id": "d2ix1z",
