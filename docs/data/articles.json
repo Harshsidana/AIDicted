@@ -1,7 +1,25 @@
 {
-  "fetchedAt": "2026-08-11T15:08:30.723Z",
+  "fetchedAt": "2026-08-11T16:25:46.662Z",
   "count": 60,
   "articles": [
+    {
+      "id": "nl83jv",
+      "title": "An unreleased Anthropic model made progress on one of math’s biggest unsolved problems",
+      "summary": "For more than 150 years, the Riemann hypothesis has stood as one of the major unsolved problems in mathematics. Anthropic hasn't solved it — but the company's models made more progress than you might expect.",
+      "imageUrl": "https://images.unsplash.com/photo-1655720828018-edd2daec9349?w=800&q=80",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/08/11/an-unreleased-anthropic-model-made-progress-on-one-of-maths-biggest-unsolved-problems/",
+      "publishedAt": "2026-08-11T16:25:20.000Z"
+    },
+    {
+      "id": "dk43bo",
+      "title": "Apple could help you prove your iPhone photos aren’t deepfakes",
+      "summary": "Apple is seemingly developing an iOS feature that can verify when a photograph was taken using an iPhone camera. 9to5Mac reports that the iOS 27 beta 5 includes code references for an \"Apple Reference Image\" system that can embed provenance metadata into iPhone photographs at the point of capture - enabling users to prove where the photo originated, and that it isn't AI fakery. Apple Reference Image isn't currently live, but a privacy disclosure in the iOS beta notes that the feature will be off…",
+      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25626274/247263_iphone_16_pro_AKrales_0368.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "source": "The Verge",
+      "sourceUrl": "https://www.theverge.com/tech/977921/apple-reference-image-iphone-metadata",
+      "publishedAt": "2026-08-11T16:19:15.000Z"
+    },
     {
       "id": "frdxf0",
       "title": "‘Zoomsday’ hack uncovered using fewer than 20 AI prompts",
@@ -300,15 +318,6 @@
       "publishedAt": "2026-08-09T14:30:00.000Z"
     },
     {
-      "id": "c6gxns",
-      "title": "AI detectors are creating a new era of distrust",
-      "summary": "This is The Stepback, a weekly newsletter breaking down one essential story from the tech world. For more news about how AI is changing our daily lives, follow Emma Roth. The Stepback arrives in our subscribers' inboxes at 8AM ET. Opt in for The Stepback here. How it started Long before ChatGPT became a thing, educators and editors frequently used anti-plagiarism tools to see if writers were being honest about their work. These tools work by comparing a written work against a database filled…",
-      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/268680_AI_detection_CVirginia-.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "source": "The Verge",
-      "sourceUrl": "https://www.theverge.com/column/976690/ai-writing-detectors-suspicion",
-      "publishedAt": "2026-08-09T12:00:00.000Z"
-    },
-    {
       "id": "fsz9xu",
       "title": "Meetily Lets You Transcribe and Summarize Meetings Without a Subscription—Here’s How",
       "summary": "There are endless ways to record and transcribe your virtual meetings with AI. Here’s an option that’s free and open source.",
@@ -352,15 +361,6 @@
       "source": "Wired",
       "sourceUrl": "https://www.wired.com/story/how-to-disable-the-gemini-ai-features-in-gmail-and-google-docs/",
       "publishedAt": "2026-08-08T10:00:00.000Z"
-    },
-    {
-      "id": "4lhzue",
-      "title": "OpenAI says it slowed Astra model development over security concerns",
-      "summary": "OpenAI said this model, which is still in development, reached its \"critical cybersecurity threshold,\" meaning it could independently identify and carry out cyberattacks against traditionally well-protected real-world systems.",
-      "imageUrl": "https://images.unsplash.com/photo-1550751827-4bd374c3f58b?w=800&q=80",
-      "source": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/08/07/openai-says-it-slowed-astra-model-development-over-security-concerns/",
-      "publishedAt": "2026-08-07T22:48:24.000Z"
     },
     {
       "id": "m62q6w",
