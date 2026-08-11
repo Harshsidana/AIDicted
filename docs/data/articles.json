@@ -1,7 +1,16 @@
 {
-  "fetchedAt": "2026-08-11T20:10:44.320Z",
+  "fetchedAt": "2026-08-11T21:23:55.596Z",
   "count": 60,
   "articles": [
+    {
+      "id": "1ydqmh",
+      "title": "Chrome adopts what may be the best protection yet against account takeovers",
+      "summary": "Device-bound session credentials thwart an increasingly common form of account takeover.",
+      "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2026/08/phishing-account-takeover-1152x648.jpg",
+      "source": "Ars Technica",
+      "sourceUrl": "https://arstechnica.com/security/2026/08/chrome-adopts-what-may-be-the-best-protection-yet-against-account-takeovers/",
+      "publishedAt": "2026-08-11T20:59:52.000Z"
+    },
     {
       "id": "5snl9k",
       "title": "ChatGPT and Gemini both just passed 1 billion users",
@@ -532,15 +541,6 @@
       "source": "Ars Technica",
       "sourceUrl": "https://arstechnica.com/security/2026/07/microsoft-secure-boot-has-been-broken-for-most-of-its-existence/",
       "publishedAt": "2026-07-14T22:20:48.000Z"
-    },
-    {
-      "id": "mwhac5",
-      "title": "The US government warns that Russia state hackers are coming after your router",
-      "summary": "With residential proxies all the rage, CISA urges router users to be vigilant.",
-      "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2024/04/wireless-router-cables-1152x648.jpg",
-      "source": "Ars Technica",
-      "sourceUrl": "https://arstechnica.com/security/2026/07/the-us-government-warns-that-russia-state-hackers-are-coming-after-your-router/",
-      "publishedAt": "2026-07-13T21:03:07.000Z"
     }
   ]
 }
