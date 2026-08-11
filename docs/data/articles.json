@@ -1,7 +1,43 @@
 {
-  "fetchedAt": "2026-08-11T12:23:46.402Z",
+  "fetchedAt": "2026-08-11T13:57:21.539Z",
   "count": 60,
   "articles": [
+    {
+      "id": "38bn1h",
+      "title": "Why your Amazon order confirmation emails have become so unhelpful",
+      "summary": "Earlier this summer, Amazon customers began noticing that emails related to their online orders looked sparse: Order confirmation emails didn't name specific items anymore, and instead listed only item categories. \"Your Beauty item is confirmed!\" an email about my retainer cleaning tablets read. Shoppers have posted other iterations of the redacted emails as well: \"Ordered: 1 Hardware item,\" \"Your Drugstore, Shoes, and other items are here!\" and \"1 Nutrition & Wellness, 1 Wireless Accessories,\"…",
+      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/Screenshot-2026-08-10-at-10.31.39-AM.png?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "source": "The Verge",
+      "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/977733/amazon-order-emails-google-gmail-ai-agents-data",
+      "publishedAt": "2026-08-11T13:27:20.000Z"
+    },
+    {
+      "id": "rq6c6s",
+      "title": "Spotify will label ‘AI Persona’ profiles and exclude their music from recommendations",
+      "summary": "Spotify is introducing “AI Persona” labels for artist profiles that represent AI-generated identities and will exclude their music from editorial, algorithmic, and personalized recommendations by default.",
+      "imageUrl": "https://images.unsplash.com/photo-1485827404703-89b55fcc595e?w=800&q=80",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/08/11/spotify-will-label-ai-persona-profiles-and-exclude-their-music-from-recommendations/",
+      "publishedAt": "2026-08-11T13:00:00.000Z"
+    },
+    {
+      "id": "x1yztm",
+      "title": "Spotify says it won’t recommend music from ‘AI Personas’",
+      "summary": "Spotify will soon label AI artists and remove their music from your recommendations. The change, which will start rolling out in mid-September, means you'll see an \"AI Persona\" badge on an artist's profile across the app if they do \"not represent a real person.\" The music streaming platform will allow artists to disclose that they're an AI persona starting today, but it won't rely solely on self-identification. Spotify says it will use human review and AI tools to determine whether someone's…",
+      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/AI-Personas-Display-2.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "source": "The Verge",
+      "sourceUrl": "https://www.theverge.com/entertainment/977815/spotify-ai-persona-label-recommendations",
+      "publishedAt": "2026-08-11T13:00:00.000Z"
+    },
+    {
+      "id": "scousc",
+      "title": "A Zoom Screen-Sharing Bug Let Anyone Take Over Other Devices on a Call",
+      "summary": "Researchers say it took fewer than 20 prompts for a public AI tool to find a flaw (now fixed) allowing anyone on a Zoom call to hijack another participants’ device.",
+      "imageUrl": "https://media.wired.com/photos/6a7a4573b0493fdce2877e71/master/pass/Security_ZoomScreensharingBug.gif",
+      "source": "Wired",
+      "sourceUrl": "https://www.wired.com/story/a-zoom-screen-sharing-bug-let-anyone-take-over-other-devices-on-a-call/",
+      "publishedAt": "2026-08-11T12:37:12.000Z"
+    },
     {
       "id": "5a5hz4",
       "title": "Claude will apply invisible watermarks to AI text and images",
@@ -28,6 +64,15 @@
       "source": "MIT Tech Review",
       "sourceUrl": "https://www.technologyreview.com/2026/08/11/1141610/the-download-next-big-thing-llms-ai-academic-research-shifting/",
       "publishedAt": "2026-08-11T12:10:00.000Z"
+    },
+    {
+      "id": "3npfnq",
+      "title": "New Pass-ta-key attack reveals all the things we didn't know about passkeys",
+      "summary": "Why passkey apps treat Windows differently than other operating systems.",
+      "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2023/05/passkey-target-illustration-1152x648.jpg",
+      "source": "Ars Technica",
+      "sourceUrl": "https://arstechnica.com/security/2026/08/heres-why-the-new-pass-ta-key-attack-is-mostly-a-nothingburger/",
+      "publishedAt": "2026-08-11T11:30:08.000Z"
     },
     {
       "id": "6uqwg4",
@@ -318,33 +363,6 @@
       "publishedAt": "2026-08-07T22:48:24.000Z"
     },
     {
-      "id": "94rzvw",
-      "title": "After Rippling blew millions on AI in months, it built an employee ROI tool",
-      "summary": "After its own AI usage wake-up call, Rippling this week unveiled AI Spend Console, a product that tracks individual and team employee AI spending.",
-      "imageUrl": "https://images.unsplash.com/photo-1485827404703-89b55fcc595e?w=800&q=80",
-      "source": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/08/07/after-rippling-blew-millions-on-ai-in-months-it-built-an-employee-roi-tool/",
-      "publishedAt": "2026-08-07T21:30:11.000Z"
-    },
-    {
-      "id": "4ppm0g",
-      "title": "Fenix Flexin isn’t even denying using AI to make ‘Rubberz’ anymore",
-      "summary": "That cover art is almost certainly AI too. | Image: Fenix Flexin It took long enough, but now LA rapper Fenix Flexin appears to have admitted using AI for the 80s synth pop-themed song \"Rubberz.\" His comments follow the producer Medasin's videos claiming that an AI tool called Treblo (formerly Sonauto) was used to make the song, and the company releasing an AI detector that identifies it as Treblo AI-created. In a reply to a comment pointing out that Tyga admitted to relying on AI for his own…",
-      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/artworks-WsdIgVXV8NOV-0-t1080x1080.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "source": "The Verge",
-      "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/976801/fenix-flexin-rubberz-ai-song-treblo",
-      "publishedAt": "2026-08-07T20:01:51.000Z"
-    },
-    {
-      "id": "vnx3uu",
-      "title": "Watching Roku’s AI channel is like eating from a trough",
-      "summary": "The appeal of free ad-supported streaming television (FAST) channels has always been the way they make it easier to (re)discover classic films and series. But Roku's latest experiment in the FAST space has less to do with traditionally produced entertainment and is entirely focused on giving viewers access to a constant source of AI-generated content. This week, Roku added four new channels to its library of streamable programming. Along with dedicated feeds for old episodes of Mad TV, Whose…",
-      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/Screenshot-2026-08-07-at-2.40.34-PM.png?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "source": "The Verge",
-      "sourceUrl": "https://www.theverge.com/entertainment/976939/roku-fairground-ai-fast-channel",
-      "publishedAt": "2026-08-07T18:59:46.000Z"
-    },
-    {
       "id": "m62q6w",
       "title": "The Download: a censorship conspiracy theory and the first virus created by AI",
       "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. How ideas of a vast censorship network moved from the online fringe to Trump policy For years, narratives about a “censorship-industrial complex” spread in right-wing circles. The theory claimed that, under…",
@@ -370,15 +388,6 @@
       "source": "MIT Tech Review",
       "sourceUrl": "https://www.technologyreview.com/2026/08/07/1141105/how-ideas-of-a-vast-censorship-network-moved-from-the-online-fringe-to-trump-policy/",
       "publishedAt": "2026-08-07T14:00:00.000Z"
-    },
-    {
-      "id": "wdkvsv",
-      "title": "The Hottest New AI Chatbot Is Just a Guy Answering Your Questions",
-      "summary": "WIRED spoke with Tucker Bryant, an artist and former Google employee who created ChatTJB to get people to reflect on the “strange moment” we’re in.",
-      "imageUrl": "https://media.wired.com/photos/6a74accfee5313e488f8fb05/master/pass/080726-Guy-Running-Chatbot-By-Hand-Business.jpg",
-      "source": "Wired",
-      "sourceUrl": "https://www.wired.com/story/this-chatbot-is-just-a-random-guy-lol/",
-      "publishedAt": "2026-08-07T10:00:00.000Z"
     },
     {
       "id": "b8llxj",
@@ -532,15 +541,6 @@
       "source": "Ars Technica",
       "sourceUrl": "https://arstechnica.com/security/2026/07/the-us-government-warns-that-russia-state-hackers-are-coming-after-your-router/",
       "publishedAt": "2026-07-13T21:03:07.000Z"
-    },
-    {
-      "id": "1g2y8k",
-      "title": "Now, defenders are embracing the prompt injection, too",
-      "summary": "\"Context bombing\" tricks hacking agents into shutting down before they can do harm.",
-      "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2026/07/ai-agent-robot-guardrail-1152x648.jpg",
-      "source": "Ars Technica",
-      "sourceUrl": "https://arstechnica.com/security/2026/07/now-defenders-are-embracing-the-prompt-injection-too/",
-      "publishedAt": "2026-07-13T15:06:34.000Z"
     }
   ]
 }
