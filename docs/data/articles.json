@@ -1,7 +1,16 @@
 {
-  "fetchedAt": "2026-08-11T16:25:46.662Z",
+  "fetchedAt": "2026-08-11T17:30:28.057Z",
   "count": 60,
   "articles": [
+    {
+      "id": "pjimlu",
+      "title": "Made by Google 2026: all the Pixel news and announcements",
+      "summary": "Google is gearing up to reveal a bunch of new Pixel devices on August 12th. A series of leaks leading up to the event suggest that the Pixel 11 lineup will come in an array of colors, with signs pointing to a built-in light coming to Pro models. Teasers from Google also indicate that it will show off a next-gen Pixel Fold alongside a Pixel Watch 5 in four different finishes. There might be a new Pixel Tag tracker as well. Google may take the wraps off the new devices well ahead of its Made by…",
+      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/made-by-google-.png?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "source": "The Verge",
+      "sourceUrl": "https://www.theverge.com/tech/977561/made-by-google-2026-pixel-11-news",
+      "publishedAt": "2026-08-11T17:00:00.000Z"
+    },
     {
       "id": "nl83jv",
       "title": "An unreleased Anthropic model made progress on one of math’s biggest unsolved problems",
@@ -244,15 +253,6 @@
       "source": "Wired",
       "sourceUrl": "https://www.wired.com/story/the-ai-slop-backlash-is-actually-having-an-impact/",
       "publishedAt": "2026-08-10T11:30:00.000Z"
-    },
-    {
-      "id": "ho4nps",
-      "title": "Ford’s new AI assistant can check your fuel levels and tire pressure",
-      "summary": "Ford is rolling out a new AI-powered assistant that can answer questions about your Ford or Lincoln vehicle, such as how much fuel you'll need for your next road trip or whether your truck can tow that new motor boat. The app is rolling out first to the Ford and Lincoln mobile apps, where it will work as a chatbot that can answer questions about the vehicle's capabilities or future service needs. Since the app is linked to the customer's vehicle, the assistant knows many of the details about the…",
-      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/23988518/acastro_STK056_02.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "source": "The Verge",
-      "sourceUrl": "https://www.theverge.com/transportation/976748/ford-ai-assistant-mobile-app",
-      "publishedAt": "2026-08-10T11:00:00.000Z"
     },
     {
       "id": "dak68d",
