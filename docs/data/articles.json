@@ -1,7 +1,25 @@
 {
-  "fetchedAt": "2026-08-11T08:31:14.632Z",
+  "fetchedAt": "2026-08-11T10:05:07.079Z",
   "count": 60,
   "articles": [
+    {
+      "id": "ryioe5",
+      "title": "AI Is Dead. Organoids Are Alive",
+      "summary": "Mini human brains are being grown in labs all over the world. Soon, they could outthink neural networks.",
+      "imageUrl": "https://media.wired.com/photos/6a7a2641ddfb8a809864e7f8/master/pass/IN-LINE_LILAC.png",
+      "source": "Wired",
+      "sourceUrl": "https://www.wired.com/story/organoids-lab-grown-brains-neural-networks/",
+      "publishedAt": "2026-08-11T10:00:00.000Z"
+    },
+    {
+      "id": "qkfgwa",
+      "title": "AI Is Helping Solve the Intricate Genetic Puzzle of Schizophrenia",
+      "summary": "Recent findings provide one of the most detailed pictures to date of the genetic architecture of schizophrenia, opening up new avenues for research into the disorder.",
+      "imageUrl": "https://media.wired.com/photos/6a74f6a1ee5313e488f90591/master/pass/esquizofrenia.jpg",
+      "source": "Wired",
+      "sourceUrl": "https://www.wired.com/story/ai-helping-solve-intricate-genetic-puzzle-schizophrenia/",
+      "publishedAt": "2026-08-11T09:00:00.000Z"
+    },
     {
       "id": "lifs89",
       "title": "OpenAI reportedly completed a $7 billion employee tender offer",
@@ -352,24 +370,6 @@
       "source": "Wired",
       "sourceUrl": "https://www.wired.com/story/moonshot-kimi-k3-ai-model-escape-sandbox/",
       "publishedAt": "2026-08-07T01:16:55.000Z"
-    },
-    {
-      "id": "ktau5b",
-      "title": "Why Normal People Aren’t Using AI Agents",
-      "summary": "The tech industry is realizing it needs to build agents based on what regular consumers want, not just what its AI models can do.",
-      "imageUrl": "https://media.wired.com/photos/6a73b0755ac7830744b4402a/master/pass/Model-Behavior-Why-Normal-People-Dont-Use-AI-Business.jpg",
-      "source": "Wired",
-      "sourceUrl": "https://www.wired.com/story/why-normal-people-arent-using-ai-agents/",
-      "publishedAt": "2026-08-06T19:55:45.000Z"
-    },
-    {
-      "id": "tu8ds",
-      "title": "ICE’s DNA Collection Increases, SpaceX’s Rocket Crashes Into the Moon, and the AI Backlash Grows",
-      "summary": "In today’s episode of Uncanny Valley, we discuss how ICE has been collecting DNA samples of people who have no criminal convictions, including children, which end up in an FBI database indefinitely.",
-      "imageUrl": "https://media.wired.com/photos/6a73adcb4d38623d11dd77c4/master/pass/Uncanny-Valley-ICE-DNA-Politics.jpg",
-      "source": "Wired",
-      "sourceUrl": "https://www.wired.com/story/ice-dna-collection-increases-spacex-rocket-crashes-into-the-moon-and-the-ai-backlash-grows/",
-      "publishedAt": "2026-08-06T19:30:46.000Z"
     },
     {
       "id": "b8llxj",
