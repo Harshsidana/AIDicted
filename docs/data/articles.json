@@ -1,7 +1,16 @@
 {
-  "fetchedAt": "2026-08-11T21:23:55.596Z",
+  "fetchedAt": "2026-08-11T22:19:40.002Z",
   "count": 60,
   "articles": [
+    {
+      "id": "g99uog",
+      "title": "Accel closes oversubscribed $550M India fund within weeks, 19 months after its last",
+      "summary": "The U.S. VC firm still has more than 55% of its previous $650 million India fund available for deployment.",
+      "imageUrl": "https://images.unsplash.com/photo-1655720828018-edd2daec9349?w=800&q=80",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/08/11/accel-closes-oversubscribed-550m-india-fund-within-weeks-19-months-after-its-last/",
+      "publishedAt": "2026-08-11T21:39:11.000Z"
+    },
     {
       "id": "1ydqmh",
       "title": "Chrome adopts what may be the best protection yet against account takeovers",
@@ -30,10 +39,10 @@
       "publishedAt": "2026-08-11T19:15:35.000Z"
     },
     {
-      "id": "52jita",
-      "title": "Google’s Gemini app surges to one billion users",
-      "summary": "Gemini is keeping pace with OpenAI’s ChatGPT, which hit 1 billion monthly active users back in June.",
-      "imageUrl": "https://images.unsplash.com/photo-1526374965328-7f61d4dc18c5?w=800&q=80",
+      "id": "caj6g9",
+      "title": "Google’s Gemini app surges to 1 billion users",
+      "summary": "Google also shared numbers of how people are actually using the chatbot, with 63% of Gemini users talking directly to the assistant using the voice feature. Plus, Gemini now generates more than 150 million images every day, according to Google.",
+      "imageUrl": "https://images.unsplash.com/photo-1531746790095-6c10a4031c5f?w=800&q=80",
       "source": "TechCrunch",
       "sourceUrl": "https://techcrunch.com/2026/08/11/googles-gemini-app-surges-to-one-billion-users/",
       "publishedAt": "2026-08-11T18:49:12.000Z"
@@ -343,15 +352,6 @@
       "source": "TechCrunch",
       "sourceUrl": "https://techcrunch.com/2026/08/09/embattled-hedge-fund-situational-awareness-invests-400m-in-chip-startup-source-foundry/",
       "publishedAt": "2026-08-09T20:35:17.000Z"
-    },
-    {
-      "id": "dtigxj",
-      "title": "Anthropic is turning Claude Code’s auto mode on by default",
-      "summary": "Programming with Claude Code will soon require even less human oversight.",
-      "imageUrl": "https://images.unsplash.com/photo-1620712943543-bcc4688e7485?w=800&q=80",
-      "source": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/08/09/anthropic-is-turning-claude-codes-auto-mode-on-by-default/",
-      "publishedAt": "2026-08-09T19:20:32.000Z"
     },
     {
       "id": "fsz9xu",
