@@ -1,7 +1,43 @@
 {
-  "fetchedAt": "2026-08-12T08:23:55.234Z",
+  "fetchedAt": "2026-08-12T11:04:02.216Z",
   "count": 60,
   "articles": [
+    {
+      "id": "6bik27",
+      "title": "The Job Interview Tattoo Guy Everyone Got Mad at Finally Explains Himself",
+      "summary": "LemonLime cofounder Jordan Zietz hears your criticism loud and clear. That’s why he got his startup’s logo tattooed on his shoulder.",
+      "imageUrl": "https://media.wired.com/photos/6a6be4d1e28e6ee5fb2f6879/master/pass/Interview-With-Startup-Founder-Who-Offered-Interviews-for-Tattoos-Business.gif",
+      "source": "Wired",
+      "sourceUrl": "https://www.wired.com/story/linkedin-grindset-tattoo-guy-explains-himself/",
+      "publishedAt": "2026-08-12T10:45:00.000Z"
+    },
+    {
+      "id": "uvf4ph",
+      "title": "Oh Lord, AI Reporters Are Actually Breaking Big News",
+      "summary": "Last week, an AI newsroom beat mainstream journalists—including WIRED—to a story about OpenAI and hacking. It’s just the beginning.",
+      "imageUrl": "https://media.wired.com/photos/6a7ba72882c71ca2ec1d3267/master/pass/AI-Breaking-News-Business.jpg",
+      "source": "Wired",
+      "sourceUrl": "https://www.wired.com/story/ai-newsrooms-are-breaking-news-now-haha-im-in-danger/",
+      "publishedAt": "2026-08-12T10:30:00.000Z"
+    },
+    {
+      "id": "ahz581",
+      "title": "You’re Thinking About Online Trends All Wrong",
+      "summary": "From pessimism around dating to AI reshaping culture, cyber-ethnographer Ruby J. Thelot tells WIRED why people are putting too much stock into things that go viral.",
+      "imageUrl": "https://media.wired.com/photos/6a7214474c4d0e2f2b5457a0/master/pass/Internet-Trends-We-Keep-Getting-Wrong-Culture.gif",
+      "source": "Wired",
+      "sourceUrl": "https://www.wired.com/story/youre-thinking-about-online-trends-all-wrong/",
+      "publishedAt": "2026-08-12T09:30:00.000Z"
+    },
+    {
+      "id": "3g5qmh",
+      "title": "How we picked 35 of the world’s top young scientists and engineers",
+      "summary": "Next month, on September 8, MIT Technology Review will reveal its 2026 list of Innovators Under 35, recognizing 35 young people from around the world who are doing groundbreaking scientific work and building clever technical fixes for sticky problems. By finding the top young innovators globally and learning what they’re focused on in their work,…",
+      "imageUrl": "https://images.unsplash.com/photo-1655720828018-edd2daec9349?w=800&q=80",
+      "source": "MIT Tech Review",
+      "sourceUrl": "https://www.technologyreview.com/2026/08/12/1141605/2026-innovators-under-35-top-young-scientists-engineers/",
+      "publishedAt": "2026-08-12T09:08:40.000Z"
+    },
     {
       "id": "3mj4td",
       "title": "Saber denies replacing Rideshare Stimulator’s writers with ChatGPT",
@@ -66,10 +102,10 @@
       "publishedAt": "2026-08-11T18:49:12.000Z"
     },
     {
-      "id": "knexw1",
-      "title": "How the “censorship-industrial complex” is changing the Internet and US policy",
+      "id": "6z4r9r",
+      "title": "How the “censorship-industrial complex” is changing the internet and US policy",
       "summary": "I first heard the term “censorship-industrial complex” on April 15, 2025. That’s when I got the tip that a small office in the U.S. State Department, which focused on monitoring and countering foreign disinformation from the likes of Russia, Iran, and China, was facing imminent shutdown—the next day. And the reason? R/FIMI, as the office…",
-      "imageUrl": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=800&q=80",
+      "imageUrl": "https://images.unsplash.com/photo-1635070041078-e363dbe005cb?w=800&q=80",
       "source": "MIT Tech Review",
       "sourceUrl": "https://www.technologyreview.com/2026/08/11/1141635/how-the-censorship-industrial-complex-is-changing-the-internet-and-us-policy/",
       "publishedAt": "2026-08-11T17:58:57.000Z"
@@ -372,24 +408,6 @@
       "publishedAt": "2026-08-09T10:30:00.000Z"
     },
     {
-      "id": "n0hkzw",
-      "title": "These AI Barons Are Ready to Give Away Their Fortunes",
-      "summary": "A new generation of philanthropists made rich by artificial intelligence are preparing to give away their vast wealth. What should we make of a multi-billion-dollar pinky promise?",
-      "imageUrl": "https://media.wired.com/photos/6a724999f2d8472b4d0de644/master/pass/AI-Barons-Business.gif",
-      "source": "Wired",
-      "sourceUrl": "https://www.wired.com/story/ai-billionaires-are-pledging-their-wealth-good-or-bad/",
-      "publishedAt": "2026-08-09T09:30:00.000Z"
-    },
-    {
-      "id": "d2ix1z",
-      "title": "How to Disable Gemini in Gmail and Google Docs",
-      "summary": "New AI toolbars and prompts are showing up in Google Docs and Gmail. If you don’t want Gemini’s help in writing documents and emails, here’s how to turn that stuff off.",
-      "imageUrl": "https://media.wired.com/photos/6a75b644a7eaec3ecd711279/master/pass/GoolgeNoAI.jpg",
-      "source": "Wired",
-      "sourceUrl": "https://www.wired.com/story/how-to-disable-the-gemini-ai-features-in-gmail-and-google-docs/",
-      "publishedAt": "2026-08-08T10:00:00.000Z"
-    },
-    {
       "id": "m62q6w",
       "title": "The Download: a censorship conspiracy theory and the first virus created by AI",
       "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. How ideas of a vast censorship network moved from the online fringe to Trump policy For years, narratives about a “censorship-industrial complex” spread in right-wing circles. The theory claimed that, under…",
@@ -397,15 +415,6 @@
       "source": "MIT Tech Review",
       "sourceUrl": "https://www.technologyreview.com/2026/08/07/1141389/the-download-censorship-conspiracy-theory-first-ai-virus/",
       "publishedAt": "2026-08-07T14:20:00.000Z"
-    },
-    {
-      "id": "jncmav",
-      "title": "Scientists Used AI to Create 16 New Viruses",
-      "summary": "The use of AI systems to create viruses opens up new possibilities for combating bacterial resistance. It also raises concerns about the pace at which technology is outstripping regulation.",
-      "imageUrl": "https://media.wired.com/photos/6a75dcaa629c4defb09289b6/master/pass/virusIA.jpg",
-      "source": "Wired",
-      "sourceUrl": "https://www.wired.com/story/scientists-used-ai-to-create-16-new-viruses/",
-      "publishedAt": "2026-08-07T14:13:57.000Z"
     },
     {
       "id": "2hdtuv",
@@ -433,15 +442,6 @@
       "source": "Ars Technica",
       "sourceUrl": "https://arstechnica.com/security/2026/08/thousands-of-servers-can-be-backdoored-by-exploiting-buggy-motherboard-controllers/",
       "publishedAt": "2026-08-05T22:35:20.000Z"
-    },
-    {
-      "id": "7o9k8o",
-      "title": "Puzzle Corner",
-      "summary": "Ready for a fresh set of puzzles? Click here for the September/October 2026 Puzzle Corner, brought to you by Michael S. Branicky, ScD ’95, of the Puzzle Corner Puzzle Crew (aka PC2), which also includes Edward Faulkner ’03, MEng ’04, and Abe Kunin ’03. This column includes solutions to the May/June issue. Send problems, solutions (by October…",
-      "imageUrl": "https://images.unsplash.com/photo-1620712943543-bcc4688e7485?w=800&q=80",
-      "source": "MIT Tech Review",
-      "sourceUrl": "https://www.technologyreview.com/2026/08/05/1141230/puzzle-corner-84/",
-      "publishedAt": "2026-08-05T14:56:29.000Z"
     },
     {
       "id": "l1m7fa",
