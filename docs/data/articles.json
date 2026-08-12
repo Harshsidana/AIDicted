@@ -1,7 +1,25 @@
 {
-  "fetchedAt": "2026-08-12T20:10:13.891Z",
+  "fetchedAt": "2026-08-12T21:22:34.636Z",
   "count": 60,
   "articles": [
+    {
+      "id": "sfeq0f",
+      "title": "The White House Is Going to Expand Its AI Policy",
+      "summary": "Open models may soon be added to an updated AI framework, sources tell WIRED, as the White House continues to grapple with how to regulate a technology it has tried not to regulate.",
+      "imageUrl": "https://media.wired.com/photos/6a7bbf68f5d2df0bb3e19f91/master/pass/politics_white_house_ai_policy.jpg",
+      "source": "Wired",
+      "sourceUrl": "https://www.wired.com/story/the-white-house-is-going-to-expand-its-ai-policy/",
+      "publishedAt": "2026-08-12T21:00:00.000Z"
+    },
+    {
+      "id": "xjxgr2",
+      "title": "Amazon will train on Twitch streamers’ content by default, unless they opt out",
+      "summary": "\"If this was opt-in, nobody would opt in,\" Twitch CPO Mike Minton said on a livestream responding to user feedback. \"That's honestly the answer.\"",
+      "imageUrl": "https://images.unsplash.com/photo-1655720828018-edd2daec9349?w=800&q=80",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/08/12/amazon-will-train-on-twitch-streamers-content-by-default-unless-they-opt-out/",
+      "publishedAt": "2026-08-12T20:10:40.000Z"
+    },
     {
       "id": "zh3x5v",
       "title": "Scientists just created female clones of male mice",
@@ -32,7 +50,7 @@
     {
       "id": "5u8o05",
       "title": "As AI safety concerns mount, three pioneers make the case for staying open",
-      "summary": "At Ai4, three of the world's most respected AI experts—Geoffrey Hinton, Fei-Fei Li, and Andrew Ng—debated regulation, open-source access, and how America can compete as China advances in Asia.",
+      "summary": "At Ai4, three of the world's most respected AI experts — Geoffrey Hinton, Fei-Fei Li, and Andrew Ng — debated regulation, open source access, and how America can compete as China advances in Asia.",
       "imageUrl": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=800&q=80",
       "source": "TechCrunch",
       "sourceUrl": "https://techcrunch.com/2026/08/12/as-ai-safety-concerns-mount-three-pioneers-make-the-case-for-staying-open/",
@@ -309,15 +327,6 @@
       "publishedAt": "2026-08-11T17:41:34.000Z"
     },
     {
-      "id": "c7onat",
-      "title": "General Catalyst leads $1.1B round into 2-month-old River AI",
-      "summary": "River AI, a startup founded by xAI co-founder Igor Babuschkin, has a fascinating vision for personal agents and secured $1.1 billion out of the gate.",
-      "imageUrl": "https://images.unsplash.com/photo-1655720828018-edd2daec9349?w=800&q=80",
-      "source": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/08/11/general-catalyst-leads-1-1b-round-into-2-month-old-river-ai/",
-      "publishedAt": "2026-08-11T17:41:22.000Z"
-    },
-    {
       "id": "pjimlu",
       "title": "Made by Google 2026: all the Pixel news and announcements",
       "summary": "Google has revealed a bunch of new Pixel devices ahead of its Made by Google event. The colorful Pixel 11 lineup comes with upgraded cameras and performance, with the Pro models offering a built-in LED ring that lights up for Google’s Gemini AI and other features. Google also showed off its next-gen Pixel Fold featuring thinner bezels, alongside a new Pixel Watch 5 with improved GPS tracking. There’s a new Pixel Tag as well. The Made by Google livestream kicks off on August 12th at 6PM ET.…",
@@ -406,15 +415,6 @@
       "source": "MIT Tech Review",
       "sourceUrl": "https://www.technologyreview.com/2026/08/10/1141526/the-download-ai-agents-science-censorship-industrial-complex/",
       "publishedAt": "2026-08-10T12:10:00.000Z"
-    },
-    {
-      "id": "8pxht8",
-      "title": "The AI Slop Backlash Is Actually Having an Impact",
-      "summary": "Platforms are finally recognizing that people don’t want to consume AI slop. A growing number of sites and apps now have tools and policies to flag, label, and ban AI-generated content.",
-      "imageUrl": "https://media.wired.com/photos/6a75d22732e80faf510b2a15/master/pass/AI%20Slop.jpg",
-      "source": "Wired",
-      "sourceUrl": "https://www.wired.com/story/the-ai-slop-backlash-is-actually-having-an-impact/",
-      "publishedAt": "2026-08-10T11:30:00.000Z"
     },
     {
       "id": "ci4mfr",
