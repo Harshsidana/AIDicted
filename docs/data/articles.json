@@ -1,7 +1,43 @@
 {
-  "fetchedAt": "2026-08-12T16:27:44.709Z",
+  "fetchedAt": "2026-08-12T17:33:10.621Z",
   "count": 60,
   "articles": [
+    {
+      "id": "2usiw7",
+      "title": "Twitch streamers can now opt out from training Amazon’s AI",
+      "summary": "Twitch users can now opt out of allowing their content to be used to train Amazon's generative AI models. Opting out means that \"your streams, VODs, clips, stream chats, and pictures and text on your channel\" won't be used in \"future training\" of an Amazon AI model \"whose purpose is to generate or synthesize text, audio, images, or video,\" according to a Twitch support page. Other \"AI-supported\" features like captions and safety tools will still function if you opt-out of generative AI training.…",
+      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/02/STK044_VRG_Illo_N_Barclay_1_twitch.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "source": "The Verge",
+      "sourceUrl": "https://www.theverge.com/tech/979112/twitch-streamers-can-now-opt-out-from-training-amazons-ai",
+      "publishedAt": "2026-08-12T17:29:10.000Z"
+    },
+    {
+      "id": "739ncn",
+      "title": "Mesh, Automattic’s CRM for everyone, comes to Android",
+      "summary": "Mesh, an AI-powered contacts app and relationship manager from Automattic is now an Android app.",
+      "imageUrl": "https://images.unsplash.com/photo-1485827404703-89b55fcc595e?w=800&q=80",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/08/12/mesh-automattics-crm-for-everyone-comes-to-android/",
+      "publishedAt": "2026-08-12T16:57:58.000Z"
+    },
+    {
+      "id": "y8w2v5",
+      "title": "Scaling AI agents with trustworthy data",
+      "summary": "Business and technology leaders need no convincing that the time of agentic AI is here. Organizations are rapidly adopting agents, and few executives doubt the technology’s potential to transform work. But many organizations find that realizing the desired return on investment (ROI) from AI hinges on having the right foundation, with inadequate infrastructure and data…",
+      "imageUrl": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=800&q=80",
+      "source": "MIT Tech Review",
+      "sourceUrl": "https://www.technologyreview.com/2026/08/12/1141032/scaling-ai-agents-with-trustworthy-data/",
+      "publishedAt": "2026-08-12T16:51:57.000Z"
+    },
+    {
+      "id": "1oxot8",
+      "title": "Why Stream ring-maker Sandbar says the future of AI wearables is voice",
+      "summary": "AI notetaking hardware has taken off over the past couple of years, with credit-card-sized devices, pendants, pins, and even transcribing earbuds all promising to capture your meetings and turn them into summaries and action items. Now, a whole wave of wearables — rings especially — are betting people want to capture stray thoughts and ideas the same way. One of […]",
+      "imageUrl": "https://images.unsplash.com/photo-1550751827-4bd374c3f58b?w=800&q=80",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/video/why-stream-ring-maker-sandbar-says-the-future-of-ai-wearables-is-voice/",
+      "publishedAt": "2026-08-12T16:46:02.000Z"
+    },
     {
       "id": "6yyarv",
       "title": "Lovable confirms new $13.3B valuation, raises another $400M",
@@ -14,7 +50,7 @@
     {
       "id": "4mktxd",
       "title": "Guitar company D’Addario admits that AI music was used in a promotional video",
-      "summary": "Maybe don’t let the AI shred next time. | Image: D’Addario After weeks of controversy and speculation, music company D'Addario has admitted that AI, specifically Suno, was used as part of a recent promotional video. For nearly two weeks, the company has denied the allegations, even as evidence piled up against it. It offered various explanations, from low-quality exports, to combinations of plugins like Autotune introducing digital noise, and the use of AI-assisted mastering tools from LANDR and…",
+      "summary": "Maybe don’t let the AI shred next time. | Image: D’Addario After weeks of controversy and speculation, music company D'Addario has admitted that AI, specifically Suno, was used as part of a recent promotional video. For nearly two weeks, the company has denied the allegations, even as evidence piled up against it. It offered various explanations, from low-quality exports, to combinations of plug-ins like Autotune introducing digital noise, and the use of AI-assisted mastering tools from LANDR…",
       "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/1583922033086.jpeg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
       "source": "The Verge",
       "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/978982/daddario-guitar-ai-music-suno",
@@ -28,6 +64,15 @@
       "source": "TechCrunch",
       "sourceUrl": "https://techcrunch.com/2026/08/12/how-a-250-million-acquisition-collapsed-into-allegations-of-fraud-and-forged-signatures/",
       "publishedAt": "2026-08-12T15:44:56.000Z"
+    },
+    {
+      "id": "orl79i",
+      "title": "Why Sandbar thinks it’s voice-enabled ring can avoid the AI hardware graveyard",
+      "summary": "AI notetaking hardware has taken off over the past couple of years, with credit-card-sized devices, pendants, pins, and even transcribing earbuds all promising to capture your meetings and turn them into summaries and action items. Now, a whole wave of wearables — rings especially — are betting people want to capture stray thoughts and ideas the same way. One of […]",
+      "imageUrl": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=800&q=80",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/podcast/why-sandbar-thinks-its-voice-enabled-ring-can-avoid-the-ai-hardware-graveyard/",
+      "publishedAt": "2026-08-12T14:22:00.000Z"
     },
     {
       "id": "ars35m",
@@ -255,15 +300,6 @@
       "publishedAt": "2026-08-11T16:19:15.000Z"
     },
     {
-      "id": "frdxf0",
-      "title": "‘Zoomsday’ hack uncovered using fewer than 20 AI prompts",
-      "summary": "Zoom has patched a major security vulnerability that could allow an attacker to hijack anyone's device during a meeting. In a blog post on Tuesday, researchers at A Security say they uncovered the flaw using \"fewer than 20 prompts on publicly available AI models,\" as reported earlier by Wired. The exploit involved Zoom's annotation feature, which allows users to draw on their screen while sharing it with other meeting participants. With the exploit, an attacker could join or host a meeting and…",
-      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/03/acastro_STK059_zoom_03.webp?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "source": "The Verge",
-      "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/977909/zoom-vulnerability-ai-attack",
-      "publishedAt": "2026-08-11T14:45:44.000Z"
-    },
-    {
       "id": "rq6c6s",
       "title": "Spotify will label ‘AI Persona’ profiles and exclude their music from recommendations",
       "summary": "Spotify is introducing “AI Persona” labels for artist profiles that represent AI-generated identities and will exclude their music from editorial, algorithmic, and personalized recommendations by default.",
@@ -336,33 +372,6 @@
       "publishedAt": "2026-08-11T09:00:00.000Z"
     },
     {
-      "id": "lifs89",
-      "title": "OpenAI reportedly completed a $7 billion employee tender offer",
-      "summary": "San Francisco's housing market is in trouble again.",
-      "imageUrl": "https://images.unsplash.com/photo-1635070041078-e363dbe005cb?w=800&q=80",
-      "source": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/08/10/openai-reportedly-completed-a-7-billion-employee-tender-offer/",
-      "publishedAt": "2026-08-11T00:03:18.000Z"
-    },
-    {
-      "id": "201up2",
-      "title": "As AI-led attacks multiply, OpenAI launches a new cyber model",
-      "summary": "OpenAI is expanding its AI cybersecurity defense program Daybreak, and rolling out a new cyber-trained AI model with it.",
-      "imageUrl": "https://images.unsplash.com/photo-1485827404703-89b55fcc595e?w=800&q=80",
-      "source": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/08/10/as-ai-led-attacks-multiply-openai-launches-a-new-cyber-model/",
-      "publishedAt": "2026-08-10T23:56:15.000Z"
-    },
-    {
-      "id": "o032h",
-      "title": "Mark Zuckerberg’s AI manifesto is exactly why people don’t like AI",
-      "summary": "On Monday, Mark Zuckerberg published a 6,500-word manifesto about personal AI, largely about the possibilities for the \"personal superintelligence\" systems Meta AI is building.",
-      "imageUrl": "https://images.unsplash.com/photo-1485827404703-89b55fcc595e?w=800&q=80",
-      "source": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/08/10/mark-zuckerbergs-ai-manifesto-is-exactly-why-people-dont-like-ai/",
-      "publishedAt": "2026-08-10T20:53:02.000Z"
-    },
-    {
       "id": "ru6kv",
       "title": "AI professors are negotiating the new realities of academic research",
       "summary": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here. Last week, I headed 30 miles south of San Francisco to a hotel in Mountain View, California, to join some of the most accomplished, and some of the most promising, AI…",
@@ -424,15 +433,6 @@
       "source": "MIT Tech Review",
       "sourceUrl": "https://www.technologyreview.com/2026/08/07/1141389/the-download-censorship-conspiracy-theory-first-ai-virus/",
       "publishedAt": "2026-08-07T14:20:00.000Z"
-    },
-    {
-      "id": "2hdtuv",
-      "title": "How ideas of a vast censorship network moved from the online fringe to Trump policy",
-      "summary": "This article was produced in partnership with Type Investigations, with support from the Wayne Barrett Project. One morning in April 2025, employees of a small office in the US State Department got the email many of them had been dreading. For months, Elon Musk’s Department of Government Efficiency had been cutting a wide swath through…",
-      "imageUrl": "https://images.unsplash.com/photo-1485827404703-89b55fcc595e?w=800&q=80",
-      "source": "MIT Tech Review",
-      "sourceUrl": "https://www.technologyreview.com/2026/08/07/1141105/how-ideas-of-a-vast-censorship-network-moved-from-the-online-fringe-to-trump-policy/",
-      "publishedAt": "2026-08-07T14:00:00.000Z"
     },
     {
       "id": "nsi5pw",
