@@ -1,7 +1,25 @@
 {
-  "fetchedAt": "2026-08-12T00:08:13.828Z",
+  "fetchedAt": "2026-08-12T03:05:38.385Z",
   "count": 60,
   "articles": [
+    {
+      "id": "3mj4td",
+      "title": "Saber denies replacing Rideshare Stimulator’s writers with ChatGPT",
+      "summary": "After a former lead writer claimed Saber \"replaced me with ChatGPT,\" CEO Matthew Karch now claims, \"Neither Saber nor Unigine have replaced any writers with AI,\" for the Rideshare \"Stimulator\" game announced last month, developed by Unigine. The writer, Stella Sacco, says differently, however, posting on Bluesky that \"I was lead writer on this one! And Saber replaced me with ChatGPT midway through development. All the passenger voices were AI too. Either they changed direction at some point or…",
+      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/RS_storefronts_3840x2160_8.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "source": "The Verge",
+      "sourceUrl": "https://www.theverge.com/games/978558/rideshare-stimulator-writer-ai-saber-interactive",
+      "publishedAt": "2026-08-12T00:39:26.000Z"
+    },
+    {
+      "id": "xllfpo",
+      "title": "DEF CON crowd suspected in fake-hotspot attack on Delta flight",
+      "summary": "FBI Atlanta confirms it's looking into the incident, no arrests made.",
+      "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2021/07/GettyImages-1233218421-scaled-1152x648-1786493250.jpg",
+      "source": "Ars Technica",
+      "sourceUrl": "https://arstechnica.com/information-technology/2026/08/def-con-crowd-suspected-in-fake-hotspot-attack-on-delta-flight/",
+      "publishedAt": "2026-08-12T00:08:40.000Z"
+    },
     {
       "id": "g99uog",
       "title": "Accel closes oversubscribed $550M India fund within weeks, 19 months after its last",
@@ -244,15 +262,6 @@
       "source": "TechCrunch",
       "sourceUrl": "https://techcrunch.com/2026/08/10/as-ai-led-attacks-multiply-openai-launches-a-new-cyber-model/",
       "publishedAt": "2026-08-10T23:56:15.000Z"
-    },
-    {
-      "id": "l2h2xz",
-      "title": "Mark Zuckerberg doesn’t understand how to live",
-      "summary": "Recently, a man I was rock climbing with told me about how he'd used AI to make a motivational poster for himself, which he'd hung on his bedroom wall: a bear, walking a slackline over a canyon, holding a sign that said, \"Do cool shit.\" I made what I hoped was a polite noise. What reaction was this man looking for? He probably hoped someone, maybe me, would say it was cool or inspiring. It seemed I was not the first person he'd told about this poster. \"You know, it's funny,\" he said to me. \"No…",
-      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/zuckerberg_stock_Parkin.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "source": "The Verge",
-      "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/977623/mark-zuckerberg-ai-manifesto-dim-vision",
-      "publishedAt": "2026-08-10T22:00:00.000Z"
     },
     {
       "id": "o032h",
@@ -532,15 +541,6 @@
       "source": "Ars Technica",
       "sourceUrl": "https://arstechnica.com/security/2026/07/windows-0-day-drops-the-same-day-microsoft-releases-record-number-of-patches/",
       "publishedAt": "2026-07-15T19:59:48.000Z"
-    },
-    {
-      "id": "3spktc",
-      "title": "Microsoft’s Secure Boot has been broken for a decade and no one noticed until now",
-      "summary": "Old and forgotten \"shims\" Microsoft failed to revoke have made Secure Boot bypasses simple.",
-      "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2026/07/computer-start-button-1152x648.jpg",
-      "source": "Ars Technica",
-      "sourceUrl": "https://arstechnica.com/security/2026/07/microsoft-secure-boot-has-been-broken-for-most-of-its-existence/",
-      "publishedAt": "2026-07-14T22:20:48.000Z"
     }
   ]
 }
