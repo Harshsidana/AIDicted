@@ -1,10 +1,28 @@
 {
-  "fetchedAt": "2026-08-13T21:23:43.935Z",
+  "fetchedAt": "2026-08-13T23:19:45.782Z",
   "count": 60,
   "articles": [
     {
-      "id": "l3w48w",
-      "title": "Mark Zuckerberg’s AI Manifesto Is 6,500-Words—and Barely Says Anything",
+      "id": "rr9lbg",
+      "title": "The Safety Reckoning Inside OpenAI",
+      "summary": "OpenAI’s rogue agent hack was a watershed moment for AI safety and cybersecurity. It also sparked internal questions about the culture that led to it.",
+      "imageUrl": "https://media.wired.com/photos/6a7d0965c82d9b74df554e1c/master/pass/Model-Behavior-OpenAI-Dangerous-AI-Business.jpg",
+      "source": "Wired",
+      "sourceUrl": "https://www.wired.com/story/openai-safety-security-ai-agents-culture/",
+      "publishedAt": "2026-08-13T22:37:19.000Z"
+    },
+    {
+      "id": "5225s2",
+      "title": "Microsoft’s Clippy-like Mico character is no longer the face of Copilot",
+      "summary": "Mico is headed to Learn Live. | Image: Microsoft Microsoft Copilot will no longer show its emotive yellow blob, Mico, when you use the chatbot's voice mode. In a support page, Microsoft says it's going to move Mico to its Learn Live platform, where the avatar will have \"more to react to,\" as reported earlier by GeekWire. Mico launched in Copilot's voice mode last October, with Microsoft AI CEO Mustafa Suleyman pitching the avatar as a way to give the chatbot an \"identity.\" The blob would react…",
+      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/mico-copilot.png?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "source": "The Verge",
+      "sourceUrl": "https://www.theverge.com/tech/979871/microsoft-copilot-mico-retired",
+      "publishedAt": "2026-08-13T21:42:38.000Z"
+    },
+    {
+      "id": "cxt0rx",
+      "title": "Mark Zuckerberg’s AI Manifesto Is 6,500 Words—and Barely Says Anything",
       "summary": "AI is shifting the culture, from tech CEO manifestos to 1 am job interviews. We unpack some of the latest, along with the top findings from Black Hat and Defcon, this week on Uncanny Valley.",
       "imageUrl": "https://media.wired.com/photos/6a7cd92daf899556c1dfa8f2/master/pass/Uncanny-Valley-Zuckerberg-AI-manifesto-Business.jpg",
       "source": "Wired",
@@ -21,6 +39,15 @@
       "publishedAt": "2026-08-13T21:13:24.000Z"
     },
     {
+      "id": "qw341i",
+      "title": "Roundtables: Inside the “Censorship-Industrial Complex” Idea Shaping US Policy",
+      "summary": "Listen to the session or watch below The “censorship-industrial complex” is an idea that a network of government, tech, and research groups is collaborating to suppress conservative online speech. This was fodder for the right-wing information sphere for years—then it began making its way into US policy. Watch a conversation exploring how it started, where…",
+      "imageUrl": "https://images.unsplash.com/photo-1635070041078-e363dbe005cb?w=800&q=80",
+      "source": "MIT Tech Review",
+      "sourceUrl": "https://www.technologyreview.com/2026/08/13/1141399/roundtables-inside-the-censorship-industrial-complex-idea-shaping-us-policy/",
+      "publishedAt": "2026-08-13T21:00:00.000Z"
+    },
+    {
       "id": "e1k5al",
       "title": "Databricks wanted to raise $1B, investors wanted $15B. It settled on $5B at a $190B valuation.",
       "summary": "AI is expensive, Ali Ghodsi tells TechCrunch. With so many investors wanting into his latest round, he said yes to more than planned.",
@@ -30,9 +57,9 @@
       "publishedAt": "2026-08-13T20:14:39.000Z"
     },
     {
-      "id": "u7fjss",
-      "title": "White House recruits security firms to hack overseas cybercriminals",
-      "summary": "Trump memo is first time gov't has authorized private sector to perform cyber attacks.",
+      "id": "l0kivp",
+      "title": "Private security firms will soon be allowed to hack overseas cybercriminals",
+      "summary": "Trump memo is first time gov't has authorized private sector to perform cyberattacks.",
       "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2026/07/security-illustration-skull-1152x648-1783710141.jpg",
       "source": "Ars Technica",
       "sourceUrl": "https://arstechnica.com/security/2026/08/white-house-recruits-security-firms-to-hack-overseas-cybercriminals/",
@@ -354,15 +381,6 @@
       "publishedAt": "2026-08-12T12:09:34.000Z"
     },
     {
-      "id": "ksgbop",
-      "title": "Grok is now an AI ‘teammate’ you can assign work",
-      "summary": "You’ll have to be fine with letting Grok sign into your online accounts, however. | Image: SpaceXAI SpaceXAI has introduced Grok Bot, an always-on AI agent service designed to behave like independent \"AI teammates\" that can do your work for you. The bots share their own cloud-based computer environment, and can sign into apps, tools, and websites you already use to complete multi-step workplace tasks, only coming back when their assigned work is completed or if something requires approval. Grok…",
-      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/Grok-Bot-desktop-and-iOS.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "source": "The Verge",
-      "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/978666/spacexai-grok-bot-ai-agent-beta-launch",
-      "publishedAt": "2026-08-12T11:58:54.000Z"
-    },
-    {
       "id": "exzrhe",
       "title": "The Job-Interview Tattoo Guy Everyone Got Mad at Finally Explains Himself",
       "summary": "LemonLime cofounder Jordan Zietz hears your criticism loud and clear. That’s why he got his startup’s logo tattooed on his shoulder.",
@@ -417,15 +435,6 @@
       "publishedAt": "2026-08-11T20:59:52.000Z"
     },
     {
-      "id": "6z4r9r",
-      "title": "How the “censorship-industrial complex” is changing the internet and US policy",
-      "summary": "I first heard the term “censorship-industrial complex” on April 15, 2025. That’s when I got the tip that a small office in the U.S. State Department, which focused on monitoring and countering foreign disinformation from the likes of Russia, Iran, and China, was facing imminent shutdown—the next day. And the reason? R/FIMI, as the office…",
-      "imageUrl": "https://images.unsplash.com/photo-1635070041078-e363dbe005cb?w=800&q=80",
-      "source": "MIT Tech Review",
-      "sourceUrl": "https://www.technologyreview.com/2026/08/11/1141635/how-the-censorship-industrial-complex-is-changing-the-internet-and-us-policy/",
-      "publishedAt": "2026-08-11T17:58:57.000Z"
-    },
-    {
       "id": "scousc",
       "title": "A Zoom Screen-Sharing Bug Let Anyone Take Over Other Devices on a Call",
       "summary": "Researchers say it took fewer than 20 prompts for a public AI tool to find a flaw (now fixed) allowing anyone on a Zoom call to hijack another participants’ device.",
@@ -442,15 +451,6 @@
       "source": "Ars Technica",
       "sourceUrl": "https://arstechnica.com/security/2026/08/heres-why-the-new-pass-ta-key-attack-is-mostly-a-nothingburger/",
       "publishedAt": "2026-08-11T11:30:08.000Z"
-    },
-    {
-      "id": "l9azk2",
-      "title": "A New Trick Reveals AI Models’ Inner Thoughts",
-      "summary": "Researchers devised a way to extract “reasoning traces” from Claude, GPT, and Gemini. What they found, they say, indicates that some Chinese AI may be trained on leading US models.",
-      "imageUrl": "https://media.wired.com/photos/6a7a6916b0493fdce2877f53/master/pass/Distilling-AI-More-Complicated-Than-You-Think-Business.jpg",
-      "source": "Wired",
-      "sourceUrl": "https://www.wired.com/story/a-new-trick-reveals-ai-models-inner-thoughts/",
-      "publishedAt": "2026-08-11T11:00:00.000Z"
     },
     {
       "id": "nsi5pw",
