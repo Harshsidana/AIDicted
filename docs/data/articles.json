@@ -1,7 +1,16 @@
 {
-  "fetchedAt": "2026-08-13T10:15:34.472Z",
+  "fetchedAt": "2026-08-13T11:22:16.212Z",
   "count": 60,
   "articles": [
+    {
+      "id": "tk3jv5",
+      "title": "What’s behind this summer’s heat, and why 2027 could be worse",
+      "summary": "This summer has been a scorcher for much of the Northern Hemisphere. June and July marked the hottest two-month stretch in Europe since record-keeping began. The contiguous US endured its hottest month on record in July. South Korea saw its highest-ever recorded temperature. The heat isn’t over yet, but some scientists are already looking ahead…",
+      "imageUrl": "https://images.unsplash.com/photo-1531746790095-6c10a4031c5f?w=800&q=80",
+      "source": "MIT Tech Review",
+      "sourceUrl": "https://www.technologyreview.com/2026/08/13/1141788/summer-heat-el-nino/",
+      "publishedAt": "2026-08-13T10:00:00.000Z"
+    },
     {
       "id": "6ljh1q",
       "title": "There’s a Fatty Liver Epidemic. AI Could Help Get Ahead of It",
@@ -433,15 +442,6 @@
       "source": "MIT Tech Review",
       "sourceUrl": "https://www.technologyreview.com/2026/08/10/1141526/the-download-ai-agents-science-censorship-industrial-complex/",
       "publishedAt": "2026-08-10T12:10:00.000Z"
-    },
-    {
-      "id": "ci4mfr",
-      "title": "AI for science needs reasoning, not just data",
-      "summary": "Every few decades, someone announces that science has reached its end. In 1903, the revered physicist Albert Michelson wrote that the “facts of physical science have all been discovered.” In the 1980s, Stephen Hawking predicted that theoretical physics might be finished by the end of the century. With the explosive arrival of artificial intelligence, the…",
-      "imageUrl": "https://images.unsplash.com/photo-1531746790095-6c10a4031c5f?w=800&q=80",
-      "source": "MIT Tech Review",
-      "sourceUrl": "https://www.technologyreview.com/2026/08/10/1141384/ai-agents-for-science/",
-      "publishedAt": "2026-08-10T09:00:00.000Z"
     },
     {
       "id": "nsi5pw",
