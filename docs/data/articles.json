@@ -1,11 +1,38 @@
 {
-  "fetchedAt": "2026-08-13T19:11:35.359Z",
+  "fetchedAt": "2026-08-13T20:05:30.005Z",
   "count": 60,
   "articles": [
     {
+      "id": "u7fjss",
+      "title": "White House recruits security firms to hack overseas cybercriminals",
+      "summary": "Trump memo is first time gov't has authorized private sector to perform cyber attacks.",
+      "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2026/07/security-illustration-skull-1152x648-1783710141.jpg",
+      "source": "Ars Technica",
+      "sourceUrl": "https://arstechnica.com/security/2026/08/white-house-recruits-security-firms-to-hack-overseas-cybercriminals/",
+      "publishedAt": "2026-08-13T19:38:58.000Z"
+    },
+    {
+      "id": "c2cvk",
+      "title": "OpenAI introduces ‘Ultrafast,’ a new mode that makes GPT-5.6 Sol work at 14x the speed",
+      "summary": "OpenAI is launching a preview of a sped up version of its latest, most powerful model, in an effort to court enterprise users.",
+      "imageUrl": "https://images.unsplash.com/photo-1531746790095-6c10a4031c5f?w=800&q=80",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/08/13/openai-introduces-ultrafast-a-new-mode-that-makes-gpt-5-6-sol-work-at-14x-the-speed/",
+      "publishedAt": "2026-08-13T19:22:40.000Z"
+    },
+    {
+      "id": "ndt0fk",
+      "title": "IBM partners with OpenAI to bolster enterprise AI push",
+      "summary": "IBM plans to train and certify tens of thousands of consultants on OpenAI's technologies as part of this deal.",
+      "imageUrl": "https://images.unsplash.com/photo-1676299081847-824916de030a?w=800&q=80",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/08/13/ibm-partners-with-openai-to-bolster-enterprise-ai-push/",
+      "publishedAt": "2026-08-13T19:19:49.000Z"
+    },
+    {
       "id": "ccqjr9",
       "title": "Anthropic set AI agents loose on the same task. They started a turf war.",
-      "summary": "Anthropic researchers found AI agents can clash, collude and coordinate in unexpected ways, raising new questions about whether today’s safety tests capture the risks of multi-agent systems.",
+      "summary": "Anthropic researchers found AI agents can clash, collude, and coordinate in unexpected ways, raising new questions about whether today’s safety tests capture the risks of multi-agent systems.",
       "imageUrl": "https://images.unsplash.com/photo-1635070041078-e363dbe005cb?w=800&q=80",
       "source": "TechCrunch",
       "sourceUrl": "https://techcrunch.com/2026/08/13/anthropic-set-ai-agents-loose-on-the-same-task-they-started-a-turf-war/",
@@ -30,15 +57,6 @@
       "publishedAt": "2026-08-13T17:07:13.000Z"
     },
     {
-      "id": "uyc6lo",
-      "title": "Suno is trying to look more like a real music production tool",
-      "summary": "Suno is releasing Studio 2.0 with significant upgrades that push it closer to an actual digital audio workstation (DAW), rather than a bare-bones audio editor with generative AI features. The biggest addition is undoubtedly MIDI support. Suno says that MIDI was its most requested feature, and it's basically a prerequisite for any modern DAW. Unfortunately, Suno Studio doesn't appear to support third-party plugins or VSTs yet, so you're stuck using its proprietary built-in synth. That synth…",
-      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/Suno_Studio2.0_Press_Hero.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "source": "The Verge",
-      "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/979345/suno-studio-2-0-midi-chatbot-custom-effects",
-      "publishedAt": "2026-08-13T16:00:00.000Z"
-    },
-    {
       "id": "2t2zx1",
       "title": "Microsoft kills off unsuccessful AI features while merging its separate Copilot apps",
       "summary": "Microsoft is simplifying Copilot by combining its consumer and business apps, and dropping AI-generated podcasts, Group Chats, Deep Research, and its Mico character.",
@@ -46,15 +64,6 @@
       "source": "TechCrunch",
       "sourceUrl": "https://techcrunch.com/2026/08/13/microsoft-kills-off-unsuccessful-ai-features-while-merging-its-separate-copilot-apps/",
       "publishedAt": "2026-08-13T15:30:52.000Z"
-    },
-    {
-      "id": "3x6l01",
-      "title": "I looked inside an AI generated movie, and the best parts were all human",
-      "summary": "Imagine a trio of bumbling, English lads who fantasize about becoming megastars while knocking back a few pints in a grimy pub somewhere in London. Picture the guys chortling and trying to one-up each other's idealized visions of the future with a series of increasingly glitzy fantasies in which their fame leads to access to groupies and lavish parties on luxurious boats. Imagine these men are actually characters in a film - one filled with hyperkinetic smash cuts to action sequences in which…",
-      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/CullyHillBadge.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "source": "The Verge",
-      "sourceUrl": "https://www.theverge.com/entertainment/977994/higgsfield-ai-cully-hill-boys-black-list",
-      "publishedAt": "2026-08-13T15:30:00.000Z"
     },
     {
       "id": "6ats4k",
@@ -273,24 +282,6 @@
       "publishedAt": "2026-08-12T15:52:07.000Z"
     },
     {
-      "id": "aosc4h",
-      "title": "How a $250 million acquisition collapsed into allegations of fraud and forged signatures",
-      "summary": "Investors are still waiting for their share of the $250 million windfall, and VideoVerse co-founder Vinayak Shrivastav is now at the center of multiple legal cases.",
-      "imageUrl": "https://images.unsplash.com/photo-1531746790095-6c10a4031c5f?w=800&q=80",
-      "source": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/08/12/how-a-250-million-acquisition-collapsed-into-allegations-of-fraud-and-forged-signatures/",
-      "publishedAt": "2026-08-12T15:44:56.000Z"
-    },
-    {
-      "id": "orl79i",
-      "title": "Why Sandbar thinks it’s voice-enabled ring can avoid the AI hardware graveyard",
-      "summary": "AI notetaking hardware has taken off over the past couple of years, with credit-card-sized devices, pendants, pins, and even transcribing earbuds all promising to capture your meetings and turn them into summaries and action items. Now, a whole wave of wearables — rings especially — are betting people want to capture stray thoughts and ideas the same way. One of […]",
-      "imageUrl": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=800&q=80",
-      "source": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/podcast/why-sandbar-thinks-its-voice-enabled-ring-can-avoid-the-ai-hardware-graveyard/",
-      "publishedAt": "2026-08-12T14:22:00.000Z"
-    },
-    {
       "id": "lfzexk",
       "title": "Google’s Pixel Watch 5 dives deeper into AI and health",
       "summary": "At least there’s no new proprietary charger this year. Huzzah!! | Photo: David Imel / The Verge The $399 Google Pixel Watch 5 isn't about the hardware. Sure, there's a new satin pyrite case finish, a few new strap colors, and a Steph Curry Special Edition. Under the hood, there's a slightly faster Qualcomm processor and an itty-bitty battery bump. There's a $50 price hike from last year, too, because the Pixel Watch 5 isn't immune to RAMageddon - none of us are. Otherwise, no one would blame you…",
@@ -399,6 +390,15 @@
       "publishedAt": "2026-08-11T20:59:52.000Z"
     },
     {
+      "id": "5snl9k",
+      "title": "ChatGPT and Gemini both just passed 1 billion users",
+      "summary": "That’s a lot of people chatting with their AI friends all day. | Image: Google For the 14th time, a Google product has hit 1 billion users. Google CEO Sundar Pichai posted on X that a billion people are using Gemini every month, and that Gemini is Google's fastest-growing product ever. A billion users is a huge milestone, but Google isn't the first AI app to hit it. OpenAI's ChatGPT hit the mark a few weeks ago, though the company buried the announcement that \"more than 1 billion people are…",
+      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/02/gemini-live-ai-ad.png?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "source": "The Verge",
+      "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/978113/chatgpt-gemini-1-billion-users",
+      "publishedAt": "2026-08-11T19:41:42.000Z"
+    },
+    {
       "id": "6z4r9r",
       "title": "How the “censorship-industrial complex” is changing the internet and US policy",
       "summary": "I first heard the term “censorship-industrial complex” on April 15, 2025. That’s when I got the tip that a small office in the U.S. State Department, which focused on monitoring and countering foreign disinformation from the likes of Russia, Iran, and China, was facing imminent shutdown—the next day. And the reason? R/FIMI, as the office…",
@@ -406,6 +406,15 @@
       "source": "MIT Tech Review",
       "sourceUrl": "https://www.technologyreview.com/2026/08/11/1141635/how-the-censorship-industrial-complex-is-changing-the-internet-and-us-policy/",
       "publishedAt": "2026-08-11T17:58:57.000Z"
+    },
+    {
+      "id": "r6orpq",
+      "title": "Another OpenAI executive takes off",
+      "summary": "Brad Lightcap, OpenAI's special projects lead and the company's former COO, announced his departure after an eight-year stint at the AI lab. In an internal memo he later posted to X, Lightcap told colleagues he'd be starting \"something new.\" \"Over the last few months, I've been focused on the next horizon and what would stand in the way of mission success,\" Lightcap wrote. \"I believe there are a few important new things the world will need to get right as we enter this next period. I … am…",
+      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/gettyimages-2151647832.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "source": "The Verge",
+      "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/978048/brad-lightcap-openai-executive-departure",
+      "publishedAt": "2026-08-11T17:50:01.000Z"
     },
     {
       "id": "scousc",
@@ -532,15 +541,6 @@
       "source": "Ars Technica",
       "sourceUrl": "https://arstechnica.com/information-technology/2026/07/energy-ipos-surge-as-investors-hunt-for-ways-to-play-ai-boom/",
       "publishedAt": "2026-07-16T15:48:21.000Z"
-    },
-    {
-      "id": "h13wd2",
-      "title": "Sheetz is quitting VMware, migrating 11,000 virtual machines",
-      "summary": "The convenience store chain will use StorMagic instead.",
-      "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2026/07/images-1152x648-1784145789.jpg",
-      "source": "Ars Technica",
-      "sourceUrl": "https://arstechnica.com/information-technology/2026/07/sheetz-moves-838-stores-off-vmware-broadcom-created-too-much-uncertainty/",
-      "publishedAt": "2026-07-15T21:41:56.000Z"
     }
   ]
 }
