@@ -1,7 +1,16 @@
 {
-  "fetchedAt": "2026-08-13T15:08:55.524Z",
+  "fetchedAt": "2026-08-13T16:27:06.855Z",
   "count": 60,
   "articles": [
+    {
+      "id": "2t2zx1",
+      "title": "Microsoft kills off unsuccessful AI features while merging its separate Copilot apps",
+      "summary": "Microsoft is simplifying Copilot by combining its consumer and business apps, and dropping AI-generated podcasts, Group Chats, Deep Research, and its Mico character.",
+      "imageUrl": "https://images.unsplash.com/photo-1531746790095-6c10a4031c5f?w=800&q=80",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/08/13/microsoft-kills-off-unsuccessful-ai-features-while-merging-its-separate-copilot-apps/",
+      "publishedAt": "2026-08-13T15:30:52.000Z"
+    },
     {
       "id": "6ats4k",
       "title": "Nvidia’s new $500B plan is risky but brilliant, especially for aging GPUs",
@@ -19,15 +28,6 @@
       "source": "TechCrunch",
       "sourceUrl": "https://techcrunch.com/2026/08/13/apple-in-talks-to-pay-publishers-to-provide-siri-with-current-news-report/",
       "publishedAt": "2026-08-13T14:34:43.000Z"
-    },
-    {
-      "id": "v7o2vs",
-      "title": "Does Google even want to win at AI?",
-      "summary": "Today on Decoder, I’m talking with Hayden Field, The Verge’s senior AI reporter, about a question that’s been rocketing around the tech industry for the past week: Is Google losing the AI race? That’s because last week Google announced a bombshell reorganization of its AI division, Google DeepMind. Jeff Dean, the company’s chief scientist, is leaving to form his own startup and DeepMind cofounder and CEO Demis Hassabis is stepping aside to focus on longer-term research. You can read these moves,…",
-      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/VRG_DCD_081226.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "source": "The Verge",
-      "sourceUrl": "https://www.theverge.com/podcast/979370/google-deepmind-ai-race-lose-jeff-dean-demis-hassabis",
-      "publishedAt": "2026-08-13T14:10:31.000Z"
     },
     {
       "id": "pnyg6e",
@@ -212,8 +212,8 @@
     {
       "id": "4mktxd",
       "title": "Guitar company D’Addario admits that AI music was used in a promotional video",
-      "summary": "After weeks of controversy and speculation, music company D'Addario has admitted that AI, specifically Suno, was used as part of a recent promotional video. For nearly two weeks, the company has denied the allegations, even as evidence piled up against it. It offered various explanations, from low-quality exports, to combinations of plug-ins like Autotune introducing digital noise, and the use of AI-assisted mastering tools from LANDR and Logic. But now the company has edited its original…",
-      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/STK467_AI_MUSIC_CVirginia_D.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "summary": "Maybe don’t let the AI shred next time. | Image: D’Addario After weeks of controversy and speculation, music company D'Addario has admitted that AI, specifically Suno, was used as part of a recent promotional video. For nearly two weeks, the company has denied the allegations, even as evidence piled up against it. It offered various explanations, from low-quality exports, to combinations of plug-ins like Autotune introducing digital noise, and the use of AI-assisted mastering tools from LANDR…",
+      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/1583922033086.jpeg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
       "source": "The Verge",
       "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/978982/daddario-guitar-ai-music-suno",
       "publishedAt": "2026-08-12T15:52:07.000Z"
@@ -354,15 +354,6 @@
       "publishedAt": "2026-08-12T00:08:40.000Z"
     },
     {
-      "id": "g99uog",
-      "title": "Accel closes oversubscribed $550M India fund within weeks, 19 months after its last",
-      "summary": "The U.S. VC firm still has more than 55% of its previous $650 million India fund available for deployment.",
-      "imageUrl": "https://images.unsplash.com/photo-1655720828018-edd2daec9349?w=800&q=80",
-      "source": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/08/11/accel-closes-oversubscribed-550m-india-fund-within-weeks-19-months-after-its-last/",
-      "publishedAt": "2026-08-11T21:39:11.000Z"
-    },
-    {
       "id": "1ydqmh",
       "title": "Chrome adopts what may be the best protection yet against account takeovers",
       "summary": "Device-bound session credentials thwart an increasingly common form of account takeover.",
@@ -397,6 +388,15 @@
       "source": "The Verge",
       "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/978048/brad-lightcap-openai-executive-departure",
       "publishedAt": "2026-08-11T17:50:01.000Z"
+    },
+    {
+      "id": "pjimlu",
+      "title": "Made by Google 2026: all the Pixel news and announcements",
+      "summary": "On August 12, 2026, Google revealed a bunch of new Pixel devices. The colorful Pixel 11 lineup comes with upgraded cameras and performance, with the Pro models offering a built-in LED ring that lights up for Google’s Gemini AI and other features. Google also showed off its next-gen Pixel Fold featuring thinner bezels, alongside a new Pixel Watch 5 with improved GPS tracking. There’s a new Pixel Tag as well. The Made by Google livestream kicked off on August 12th at 6PM ET. Comedian Trevor Noah…",
+      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/made-by-google-.png?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "source": "The Verge",
+      "sourceUrl": "https://www.theverge.com/tech/977561/made-by-google-2026-pixel-11-news",
+      "publishedAt": "2026-08-11T17:00:00.000Z"
     },
     {
       "id": "scousc",
