@@ -1,7 +1,25 @@
 {
-  "fetchedAt": "2026-08-14T13:55:37.283Z",
+  "fetchedAt": "2026-08-14T14:59:31.967Z",
   "count": 60,
   "articles": [
+    {
+      "id": "lkalpl",
+      "title": "Kog is going deeper to squeeze more inference out of GPUs",
+      "summary": "The idea that GPUs are poorly suited for agentic workflows may be a misconception, according to French startup Kog.",
+      "imageUrl": "https://images.unsplash.com/photo-1485827404703-89b55fcc595e?w=800&q=80",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/08/14/kog-is-going-deeper-to-squeeze-more-inference-out-of-gpus/",
+      "publishedAt": "2026-08-14T14:50:11.000Z"
+    },
+    {
+      "id": "s8tfsz",
+      "title": "Hyperscalers might regret embracing natural gas if new forecast proves correct",
+      "summary": "Natural gas prices could triple in some parts of the U.S., which could saddle hyperscalers with massive bills to power their AI data centers.",
+      "imageUrl": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=800&q=80",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/08/14/hyperscalers-might-regret-embracing-natural-gas-if-new-forecast-proves-correct/",
+      "publishedAt": "2026-08-14T14:05:00.000Z"
+    },
     {
       "id": "uzbcf7",
       "title": "The Download: Flock’s new rules, cloning’s future, and children’s cells",
@@ -354,15 +372,6 @@
       "publishedAt": "2026-08-12T17:51:00.000Z"
     },
     {
-      "id": "ua5q2l",
-      "title": "OpenAI-backed Thrive Holdings raises $2B to bring AI to the enterprise",
-      "summary": "Thrive Holdings has raised $2 billion in new funding at a $12 billion valuation from investors like SoftBank, D1 Capital Partners, and Altimeter Capital.",
-      "imageUrl": "https://images.unsplash.com/photo-1676299081847-824916de030a?w=800&q=80",
-      "source": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/08/12/openai-backed-thrive-holdings-raises-2b-to-bring-ai-to-the-enterprise/",
-      "publishedAt": "2026-08-12T17:41:29.000Z"
-    },
-    {
       "id": "2usiw7",
       "title": "Twitch streamers can now opt out from training Amazon’s AI",
       "summary": "Twitch users can now opt out of allowing their content to be used to train Amazon's generative AI models. Opting out means that \"your streams, VODs, clips, stream chats, and pictures and text on your channel\" won't be used in \"future training\" of an Amazon AI model \"whose purpose is to generate or synthesize text, audio, images, or video,\" according to a Twitch support page. Other \"AI-supported\" features like captions and safety tools will still function if you opt out of generative AI training.…",
@@ -370,15 +379,6 @@
       "source": "The Verge",
       "sourceUrl": "https://www.theverge.com/tech/979112/twitch-streamers-can-now-opt-out-from-training-amazons-ai",
       "publishedAt": "2026-08-12T17:29:10.000Z"
-    },
-    {
-      "id": "739ncn",
-      "title": "Mesh, Automattic’s CRM for everyone, comes to Android",
-      "summary": "Mesh, an AI-powered contacts app and relationship manager from Automattic, is now an Android app.",
-      "imageUrl": "https://images.unsplash.com/photo-1485827404703-89b55fcc595e?w=800&q=80",
-      "source": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/08/12/mesh-automattics-crm-for-everyone-comes-to-android/",
-      "publishedAt": "2026-08-12T16:57:58.000Z"
     },
     {
       "id": "4mktxd",
