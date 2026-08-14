@@ -1,7 +1,61 @@
 {
-  "fetchedAt": "2026-08-14T08:21:48.688Z",
+  "fetchedAt": "2026-08-14T11:02:09.961Z",
   "count": 60,
   "articles": [
+    {
+      "id": "ah3p26",
+      "title": "These ‘Masturbation Consultants’ Were Hired to Pleasure Themselves With AI",
+      "summary": "Joi AI hired 10 people to masturbate using AI companions as part of a monthlong “wellness” study. The company claims the practice could help “solve male loneliness.”",
+      "imageUrl": "https://media.wired.com/photos/6a550ca43f29786234525e20/master/pass/Culture_AI%20Masturbation%20Consultants_v1.jpg",
+      "source": "Wired",
+      "sourceUrl": "https://www.wired.com/story/these-masturbation-consultants-were-hired-to-pleasure-themselves-using-ai/",
+      "publishedAt": "2026-08-14T10:45:00.000Z"
+    },
+    {
+      "id": "tj91m6",
+      "title": "People Are ‘Marrying’ Chatbots. These Lawmakers Want to Stop Them",
+      "summary": "Human-AI marriages are not currently recognized by US law. Some Republican state policymakers are drafting legislation to keep it that way.",
+      "imageUrl": "https://media.wired.com/photos/6a7a320341c2687d2f60b612/master/pass/Humans-Are-Marrying-Chatbots-Culture-AB12034.jpg",
+      "source": "Wired",
+      "sourceUrl": "https://www.wired.com/story/people-are-marrying-chatbots-these-lawmakers-want-to-stop-them/",
+      "publishedAt": "2026-08-14T10:15:00.000Z"
+    },
+    {
+      "id": "gfqngy",
+      "title": "Apple trained its own AI model for China with help from Alibaba",
+      "summary": "Apple has reportedly trained a custom AI model for the China market alongside domestic tech giant Alibaba, a rare cross-border partnership that cuts across growing tensions between Beijing and Washington. The China-focused large language model was developed in partnership with Alibaba and trained with the company's support, Reuters reports, citing three unnamed people familiar with the matter. Developing a custom model of its own marks a departure from Apple's previous strategy in the country…",
+      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/STK071_APPLE_A-1.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "source": "The Verge",
+      "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/980160/apple-intelligence-china-custom-ai-model-alibaba",
+      "publishedAt": "2026-08-14T09:21:17.000Z"
+    },
+    {
+      "id": "ek5bse",
+      "title": "This scientist is helping build a missing map of childhood",
+      "summary": "In 2017, Deanne Taylor attended a presentation at the University of Pennsylvania, just a short walk from her office. A researcher was there to unveil the Human Cell Atlas, an ambitious project that aimed to map every cell in the human body. Taylor was floored, and then concerned. As details emerged, she discovered that the…",
+      "imageUrl": "https://images.unsplash.com/photo-1655720828018-edd2daec9349?w=800&q=80",
+      "source": "MIT Tech Review",
+      "sourceUrl": "https://www.technologyreview.com/2026/08/14/1141354/deanne-taylor-gene-expression-children/",
+      "publishedAt": "2026-08-14T09:00:00.000Z"
+    },
+    {
+      "id": "gpneil",
+      "title": "Job titles of the future: Space travel agent",
+      "summary": "Roman Chiporukha has long turned wild travel dreams into reality. Over two decades as co-owner of the luxury lifestyle firm Roman & Erica, he has orchestrated everything from the construction of a client’s superyacht to vacations in the Bahamas at a location so private that guests must sign an NDA. The experiences earned him “the…",
+      "imageUrl": "https://images.unsplash.com/photo-1635070041078-e363dbe005cb?w=800&q=80",
+      "source": "MIT Tech Review",
+      "sourceUrl": "https://www.technologyreview.com/2026/08/14/1141431/job-titles-space-travel-agent-roman-chiporukha/",
+      "publishedAt": "2026-08-14T09:00:00.000Z"
+    },
+    {
+      "id": "45xfpg",
+      "title": "Cloning could be used to save species—or make human “organ sacks”",
+      "summary": "This week I spoke to scientists who have found a way to turn male mouse embryos female. They’ve developed a CRISPR-based approach to essentially cut out the Y chromosome. It allowed them to create female clones of male mice. That’s right: female animals that are genetically identical to males, except for the missing Y chromosome.…",
+      "imageUrl": "https://images.unsplash.com/photo-1676299081847-824916de030a?w=800&q=80",
+      "source": "MIT Tech Review",
+      "sourceUrl": "https://www.technologyreview.com/2026/08/14/1141919/cloning-save-species-or-make-human-organ-sacks/",
+      "publishedAt": "2026-08-14T09:00:00.000Z"
+    },
     {
       "id": "rr9lbg",
       "title": "The Safety Reckoning Inside OpenAI",
@@ -327,15 +381,6 @@
       "publishedAt": "2026-08-12T16:57:58.000Z"
     },
     {
-      "id": "y8w2v5",
-      "title": "Scaling AI agents with trustworthy data",
-      "summary": "Business and technology leaders need no convincing that the time of agentic AI is here. Organizations are rapidly adopting agents, and few executives doubt the technology’s potential to transform work. But many organizations find that realizing the desired return on investment (ROI) from AI hinges on having the right foundation, with inadequate infrastructure and data…",
-      "imageUrl": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=800&q=80",
-      "source": "MIT Tech Review",
-      "sourceUrl": "https://www.technologyreview.com/2026/08/12/1141032/scaling-ai-agents-with-trustworthy-data/",
-      "publishedAt": "2026-08-12T16:51:57.000Z"
-    },
-    {
       "id": "4mktxd",
       "title": "Guitar company D’Addario admits that AI music was used in a promotional video",
       "summary": "After weeks of controversy and speculation, music company D'Addario has admitted that AI, specifically Suno, was used as part of a recent promotional video. For nearly two weeks, the company has denied the allegations, even as evidence piled up against it. It offered various explanations, from low-quality exports, to combinations of plug-ins like Autotune introducing digital noise, and the use of AI-assisted mastering tools from LANDR and Logic. But now the company has edited its original…",
@@ -363,24 +408,6 @@
       "publishedAt": "2026-08-12T14:00:00.000Z"
     },
     {
-      "id": "jb5jb8",
-      "title": "The Download: our 35 young innovators and the “censorship-industrial complex”",
-      "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. How we picked 35 of the world’s top young scientists and engineers On September 8, MIT Technology Review will reveal its 2026 list of Innovators Under 35, recognizing 35 young people…",
-      "imageUrl": "https://images.unsplash.com/photo-1620712943543-bcc4688e7485?w=800&q=80",
-      "source": "MIT Tech Review",
-      "sourceUrl": "https://www.technologyreview.com/2026/08/12/1141714/the-download-innovators-under-35-censorship-industrial-complex/",
-      "publishedAt": "2026-08-12T12:10:00.000Z"
-    },
-    {
-      "id": "kym2zw",
-      "title": "Of course the ChatGPT dog cancer vaccine spawned a startup",
-      "summary": "Remember that much-hyped story about an Australian tech entrepreneur using ChatGPT, Grok, and other AI tools to craft a personalized cancer vaccine for his dog? Well, surprise: He's launched a startup. That entrepreneur is Paul Conyngham, who says he is launching Gamgee to offer \"personalised mRNA cancer vaccines for dogs.\" But his ambitions go well beyond dogs - and pets - with Gamgee's website promising the company will harness AI and genetics to develop personalized treatments for a range of…",
-      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/acastro_201217_1777_vaccine_0001.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "source": "The Verge",
-      "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/978671/ai-cured-dog-cancer-mrna-vaccine-startup-gamgee",
-      "publishedAt": "2026-08-12T12:09:34.000Z"
-    },
-    {
       "id": "exzrhe",
       "title": "The Job-Interview Tattoo Guy Everyone Got Mad at Finally Explains Himself",
       "summary": "LemonLime cofounder Jordan Zietz hears your criticism loud and clear. That’s why he got his startup’s logo tattooed on his shoulder.",
@@ -399,24 +426,6 @@
       "publishedAt": "2026-08-12T10:30:00.000Z"
     },
     {
-      "id": "ahz581",
-      "title": "You’re Thinking About Online Trends All Wrong",
-      "summary": "From pessimism around dating to AI reshaping culture, cyber-ethnographer Ruby J. Thelot tells WIRED why people are putting too much stock into things that go viral.",
-      "imageUrl": "https://media.wired.com/photos/6a7214474c4d0e2f2b5457a0/master/pass/Internet-Trends-We-Keep-Getting-Wrong-Culture.gif",
-      "source": "Wired",
-      "sourceUrl": "https://www.wired.com/story/youre-thinking-about-online-trends-all-wrong/",
-      "publishedAt": "2026-08-12T09:30:00.000Z"
-    },
-    {
-      "id": "3g5qmh",
-      "title": "How we picked 35 of the world’s top young scientists and engineers",
-      "summary": "Next month, on September 8, MIT Technology Review will reveal its 2026 list of Innovators Under 35, recognizing 35 young people from around the world who are doing groundbreaking scientific work and building clever technical fixes for sticky problems. By finding the top young innovators globally and learning what they’re focused on in their work,…",
-      "imageUrl": "https://images.unsplash.com/photo-1655720828018-edd2daec9349?w=800&q=80",
-      "source": "MIT Tech Review",
-      "sourceUrl": "https://www.technologyreview.com/2026/08/12/1141605/2026-innovators-under-35-top-young-scientists-engineers/",
-      "publishedAt": "2026-08-12T09:08:40.000Z"
-    },
-    {
       "id": "xllfpo",
       "title": "DEF CON crowd suspected in fake-hotspot attack on Delta flight",
       "summary": "FBI Atlanta confirms it's looking into the incident, no arrests made.",
@@ -433,15 +442,6 @@
       "source": "Ars Technica",
       "sourceUrl": "https://arstechnica.com/security/2026/08/chrome-adopts-what-may-be-the-best-protection-yet-against-account-takeovers/",
       "publishedAt": "2026-08-11T20:59:52.000Z"
-    },
-    {
-      "id": "scousc",
-      "title": "A Zoom Screen-Sharing Bug Let Anyone Take Over Other Devices on a Call",
-      "summary": "Researchers say it took fewer than 20 prompts for a public AI tool to find a flaw (now fixed) allowing anyone on a Zoom call to hijack another participants’ device.",
-      "imageUrl": "https://media.wired.com/photos/6a7a4573b0493fdce2877e71/master/pass/Security_ZoomScreensharingBug.gif",
-      "source": "Wired",
-      "sourceUrl": "https://www.wired.com/story/a-zoom-screen-sharing-bug-let-anyone-take-over-other-devices-on-a-call/",
-      "publishedAt": "2026-08-11T12:37:12.000Z"
     },
     {
       "id": "3npfnq",
