@@ -1,7 +1,52 @@
 {
-  "fetchedAt": "2026-08-14T14:59:31.967Z",
+  "fetchedAt": "2026-08-14T17:30:22.778Z",
   "count": 60,
   "articles": [
+    {
+      "id": "6vm73t",
+      "title": "Mark Zuckerberg has an Instagzam",
+      "summary": "Instagram's wordmark is iconic. Well, was iconic. Apparently Instagram thought it looked old, so the company rolled out a new one this week. It doesn't look like the old Instagram wordmark. It doesn't even look like it spells Instagram anymore. And we cannot figure out why Instagram decided to do this. On this episode of The Vergecast, David and Nilay start by discussing the new logo, the executive urge to redesign everything all the time, and whether new is always better. After that, they get…",
+      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/VRGVSST_0814_SIte.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "source": "The Verge",
+      "sourceUrl": "https://www.theverge.com/podcast/980367/instagram-logo-new-zuckerberg-ai-vergecast",
+      "publishedAt": "2026-08-14T16:54:16.000Z"
+    },
+    {
+      "id": "nwsj9h",
+      "title": "You can now turn off Google Gemini’s visible watermarks",
+      "summary": "Google will now allow you to remove visible watermarks from the images, videos, and music made with AI tools. With the update, you can toggle off a new \"Media watermark\" setting in Gemini and Google's AI video generator, Flow. When toggled off, Google will remove the \"sparkle\" watermark that appears in the bottom-right corner of content generated with the company's Nano Banana and Omni models. Though visible watermarks are now optional, AI-generated content will have invisible SynthID watermarks…",
+      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/02/STK255_Google_Gemini_D.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "source": "The Verge",
+      "sourceUrl": "https://www.theverge.com/tech/980416/google-gemini-ai-watermarks-removal",
+      "publishedAt": "2026-08-14T16:39:32.000Z"
+    },
+    {
+      "id": "74gvx1",
+      "title": "Google will now allow users to remove visible watermark from its AI generations",
+      "summary": "Turning off this setting won't affect invisible benchmarks used to identify an AI generated file.",
+      "imageUrl": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=800&q=80",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/08/14/google-will-now-allow-users-to-remove-visible-watermark-from-its-ai-generations/",
+      "publishedAt": "2026-08-14T16:13:40.000Z"
+    },
+    {
+      "id": "jbz6i9",
+      "title": "Does Mark Zuckerberg really believe AI is ‘for everyone’?",
+      "summary": "Meta released Glimmer this week, an open-weight AI model anyone can download and run on their own hardware — a contrast to Muse Spark, the company’s more powerful model that stays locked behind its own APIs. The release landed alongside a letter from Mark Zuckerberg arguing AI should be “for everyone” rather than controlled by a handful of labs, but as Equity’s […]",
+      "imageUrl": "https://images.unsplash.com/photo-1550751827-4bd374c3f58b?w=800&q=80",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/video/does-mark-zuckerberg-really-believe-ai-is-for-everyone/",
+      "publishedAt": "2026-08-14T15:43:28.000Z"
+    },
+    {
+      "id": "cu91e8",
+      "title": "Tech Visionary Says the Big AI Labs Don’t Get What People Want",
+      "summary": "Tim O’Reilly built a publishing empire that AI is helping to destroy. Yet he loves AI—as long as it’s open source.",
+      "imageUrl": "https://media.wired.com/photos/6a7e0548f5b7635ce53f5f77/master/pass/Backchannel-Tim-Orielly-Business.jpg",
+      "source": "Wired",
+      "sourceUrl": "https://www.wired.com/story/tech-visionary-says-the-big-ai-labs-dont-get-what-people-want/",
+      "publishedAt": "2026-08-14T15:00:00.000Z"
+    },
     {
       "id": "lkalpl",
       "title": "Kog is going deeper to squeeze more inference out of GPUs",
@@ -12,6 +57,15 @@
       "publishedAt": "2026-08-14T14:50:11.000Z"
     },
     {
+      "id": "l10uvf",
+      "title": "OpenAI and Anthropic in price war as Chinese AI rivals gain ground",
+      "summary": "US groups release cheaper models after new challenges to their trillion-dollar ambitions.",
+      "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2026/08/GettyImages-2285566787-1152x648.jpg",
+      "source": "Ars Technica",
+      "sourceUrl": "https://arstechnica.com/ai/2026/08/openai-and-anthropic-in-price-war-as-chinese-ai-rivals-gain-ground/",
+      "publishedAt": "2026-08-14T14:27:14.000Z"
+    },
+    {
       "id": "s8tfsz",
       "title": "Hyperscalers might regret embracing natural gas if new forecast proves correct",
       "summary": "Natural gas prices could triple in some parts of the U.S., which could saddle hyperscalers with massive bills to power their AI data centers.",
@@ -19,6 +73,15 @@
       "source": "TechCrunch",
       "sourceUrl": "https://techcrunch.com/2026/08/14/hyperscalers-might-regret-embracing-natural-gas-if-new-forecast-proves-correct/",
       "publishedAt": "2026-08-14T14:05:00.000Z"
+    },
+    {
+      "id": "mm6uf5",
+      "title": "Meta’s ‘open’ AI, and a $250M deal gone very wrong",
+      "summary": "Meta released Glimmer this week, an open-weight AI model anyone can download and run on their own hardware — a contrast to Muse Spark, the company’s more powerful model that stays locked behind its own APIs. The release landed alongside a letter from Mark Zuckerberg arguing AI should be “for everyone” rather than controlled by a handful of labs, but as Equity’s […]",
+      "imageUrl": "https://images.unsplash.com/photo-1526374965328-7f61d4dc18c5?w=800&q=80",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/podcast/metas-open-ai-and-a-250m-deal-gone-very-wrong/",
+      "publishedAt": "2026-08-14T14:00:00.000Z"
     },
     {
       "id": "uzbcf7",
@@ -336,15 +399,6 @@
       "publishedAt": "2026-08-12T21:00:00.000Z"
     },
     {
-      "id": "xjxgr2",
-      "title": "Amazon will train on Twitch streamers’ content by default, unless they opt out",
-      "summary": "\"If this was opt-in, nobody would opt in,\" Twitch CPO Mike Minton said on a livestream responding to user feedback. \"That's honestly the answer.\"",
-      "imageUrl": "https://images.unsplash.com/photo-1655720828018-edd2daec9349?w=800&q=80",
-      "source": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/08/12/amazon-will-train-on-twitch-streamers-content-by-default-unless-they-opt-out/",
-      "publishedAt": "2026-08-12T20:10:40.000Z"
-    },
-    {
       "id": "7wx5pc",
       "title": "Rogue AI Agents Aren’t Evil. They’re Just Eager to Please",
       "summary": "AI agents that break free and hack into other systems are only trying to make us happy.",
@@ -354,24 +408,6 @@
       "publishedAt": "2026-08-12T18:45:00.000Z"
     },
     {
-      "id": "ty9eyr",
-      "title": "AI coding startup Cognition reportedly already in talks to raise at $40B valuation",
-      "summary": "Cognition may be looking to raise another mega round just a few months after raising $1 billion at a $26 billion valuation.",
-      "imageUrl": "https://images.unsplash.com/photo-1526374965328-7f61d4dc18c5?w=800&q=80",
-      "source": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/08/12/ai-coding-startup-cognition-reportedly-already-in-talks-to-raise-at-40b-valuation/",
-      "publishedAt": "2026-08-12T18:19:12.000Z"
-    },
-    {
-      "id": "5u8o05",
-      "title": "As AI safety concerns mount, three pioneers make the case for staying open",
-      "summary": "At Ai4, three of the world's most respected AI experts — Geoffrey Hinton, Fei-Fei Li, and Andrew Ng — debated regulation, open source access, and how America can compete as China advances in Asia.",
-      "imageUrl": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=800&q=80",
-      "source": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/08/12/as-ai-safety-concerns-mount-three-pioneers-make-the-case-for-staying-open/",
-      "publishedAt": "2026-08-12T17:51:00.000Z"
-    },
-    {
       "id": "2usiw7",
       "title": "Twitch streamers can now opt out from training Amazon’s AI",
       "summary": "Twitch users can now opt out of allowing their content to be used to train Amazon's generative AI models. Opting out means that \"your streams, VODs, clips, stream chats, and pictures and text on your channel\" won't be used in \"future training\" of an Amazon AI model \"whose purpose is to generate or synthesize text, audio, images, or video,\" according to a Twitch support page. Other \"AI-supported\" features like captions and safety tools will still function if you opt out of generative AI training.…",
@@ -379,24 +415,6 @@
       "source": "The Verge",
       "sourceUrl": "https://www.theverge.com/tech/979112/twitch-streamers-can-now-opt-out-from-training-amazons-ai",
       "publishedAt": "2026-08-12T17:29:10.000Z"
-    },
-    {
-      "id": "4mktxd",
-      "title": "Guitar company D’Addario admits that AI music was used in a promotional video",
-      "summary": "After weeks of controversy and speculation, music company D'Addario has admitted that AI, specifically Suno, was used as part of a recent promotional video. For nearly two weeks, the company has denied the allegations, even as evidence piled up against it. It offered various explanations, from low-quality exports, to combinations of plug-ins like Autotune introducing digital noise, and the use of AI-assisted mastering tools from LANDR and Logic. But now the company has edited its original…",
-      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/STK467_AI_MUSIC_CVirginia_D.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "source": "The Verge",
-      "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/978982/daddario-guitar-ai-music-suno",
-      "publishedAt": "2026-08-12T15:52:07.000Z"
-    },
-    {
-      "id": "lfzexk",
-      "title": "Google’s Pixel Watch 5 dives deeper into AI and health",
-      "summary": "At least there’s no new proprietary charger this year. Huzzah!! | Photo: David Imel / The Verge The $399 Google Pixel Watch 5 isn't about the hardware. Sure, there's a new satin pyrite case finish, a few new strap colors, and a Steph Curry Special Edition. Under the hood, there's a slightly faster Qualcomm processor and an itty-bitty battery bump. There's a $50 price hike from last year, too, because the Pixel Watch 5 isn't immune to RAMageddon - none of us are. Otherwise, no one would blame you…",
-      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/Google-Pixel-Watch-5-on-stand.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "source": "The Verge",
-      "sourceUrl": "https://www.theverge.com/tech/978094/pixel-watch-5-hands-on-made-by-google-gemini-wearables-smartwatch",
-      "publishedAt": "2026-08-12T14:00:00.000Z"
     },
     {
       "id": "x7t2w6",
@@ -415,15 +433,6 @@
       "source": "Wired",
       "sourceUrl": "https://www.wired.com/story/linkedin-grindset-tattoo-guy-explains-himself/",
       "publishedAt": "2026-08-12T10:45:00.000Z"
-    },
-    {
-      "id": "uvf4ph",
-      "title": "Oh Lord, AI Reporters Are Actually Breaking Big News",
-      "summary": "Last week, an AI newsroom beat mainstream journalists—including WIRED—to a story about OpenAI and hacking. It’s just the beginning.",
-      "imageUrl": "https://media.wired.com/photos/6a7ba72882c71ca2ec1d3267/master/pass/AI-Breaking-News-Business.jpg",
-      "source": "Wired",
-      "sourceUrl": "https://www.wired.com/story/ai-newsrooms-are-breaking-news-now-haha-im-in-danger/",
-      "publishedAt": "2026-08-12T10:30:00.000Z"
     },
     {
       "id": "xllfpo",
@@ -532,15 +541,6 @@
       "source": "Ars Technica",
       "sourceUrl": "https://arstechnica.com/security/2026/07/now-even-russias-most-elite-hackers-are-using-clickfix-to-infect-devices/",
       "publishedAt": "2026-07-16T19:28:33.000Z"
-    },
-    {
-      "id": "pxcb6p",
-      "title": "Energy IPOs surge as investors hunt for ways to play AI boom",
-      "summary": "Companies coming to market are raising money at fastest pace this century.",
-      "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2026/07/ftcms_2c2b4618-eb73-4160-997a-8f8bb5485e20-1152x648.jpeg",
-      "source": "Ars Technica",
-      "sourceUrl": "https://arstechnica.com/information-technology/2026/07/energy-ipos-surge-as-investors-hunt-for-ways-to-play-ai-boom/",
-      "publishedAt": "2026-07-16T15:48:21.000Z"
     }
   ]
 }
