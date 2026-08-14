@@ -1,7 +1,25 @@
 {
-  "fetchedAt": "2026-08-14T19:03:26.158Z",
+  "fetchedAt": "2026-08-14T20:04:10.895Z",
   "count": 60,
   "articles": [
+    {
+      "id": "9zimhs",
+      "title": "Vulnerability giving attackers full control of Macs is under active exploitation",
+      "summary": "Screen-sharing bug lets remote hackers log in without a password.",
+      "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2026/08/macbook-pro-1152x648.jpg",
+      "source": "Ars Technica",
+      "sourceUrl": "https://arstechnica.com/security/2026/08/vulnerability-giving-attackers-full-control-of-macs-is-under-active-exploitation/",
+      "publishedAt": "2026-08-14T18:32:14.000Z"
+    },
+    {
+      "id": "xrd5e",
+      "title": "PBS station fears losing 50TB of data after being ghosted by cloud storage provider",
+      "summary": "\"We don't have access to the data on the hardware/servers,\" Iron Mountain told Ars.",
+      "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2026/08/GettyImages-2269291893-1024x648.jpg",
+      "source": "Ars Technica",
+      "sourceUrl": "https://arstechnica.com/information-technology/2026/08/pbs-station-fears-losing-50tb-of-data-after-being-ghosted-by-cloud-storage-provider/",
+      "publishedAt": "2026-08-14T17:03:54.000Z"
+    },
     {
       "id": "6vm73t",
       "title": "Mark Zuckerberg has an Instagzam",
@@ -523,24 +541,6 @@
       "source": "Ars Technica",
       "sourceUrl": "https://arstechnica.com/gadgets/2026/07/treesize-wont-renew-perpetual-license-support-unless-users-subscribe/",
       "publishedAt": "2026-07-21T15:18:23.000Z"
-    },
-    {
-      "id": "iu76ip",
-      "title": "HP fined 1.4 billion rupees for “cartelization” of ink cartridges, toner, PCs",
-      "summary": "Resellers threatened to ditch HP printing supplies for counterfeits.",
-      "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2026/03/GettyImages-458639693-1152x648.jpg",
-      "source": "Ars Technica",
-      "sourceUrl": "https://arstechnica.com/gadgets/2026/07/hp-fined-1-4-billion-rupees-for-cartelization-of-ink-cartridges-toner-pcs/",
-      "publishedAt": "2026-07-16T22:02:31.000Z"
-    },
-    {
-      "id": "pcjnkv",
-      "title": "Now, even Russia's most elite hackers are using Clickfix to infect devices",
-      "summary": "The social-engineering technique has primarily been a tool of financially motivated criminals.",
-      "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2022/04/russia-cyber-hack-1000x648.jpeg",
-      "source": "Ars Technica",
-      "sourceUrl": "https://arstechnica.com/security/2026/07/now-even-russias-most-elite-hackers-are-using-clickfix-to-infect-devices/",
-      "publishedAt": "2026-07-16T19:28:33.000Z"
     }
   ]
 }
