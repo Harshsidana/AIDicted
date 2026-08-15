@@ -1,7 +1,16 @@
 {
-  "fetchedAt": "2026-08-15T08:37:12.682Z",
+  "fetchedAt": "2026-08-15T10:29:11.148Z",
   "count": 60,
   "articles": [
+    {
+      "id": "npq8zb",
+      "title": "Amazon Can Use Your Twitch Content to Train Its AI—Unless You Opt Out",
+      "summary": "When Twitch announced that streamers could opt out, thousands of users questioned why their content was being used to train AI models in the first place.",
+      "imageUrl": "https://media.wired.com/photos/6a7f62de9dba743672684be2/master/pass/GettyImages-1305224058-edited.jpg",
+      "source": "Wired",
+      "sourceUrl": "https://www.wired.com/story/amazon-uses-your-twitch-content-to-train-its-ai-how-to-opt-out/",
+      "publishedAt": "2026-08-15T09:00:00.000Z"
+    },
     {
       "id": "tak8xb",
       "title": "The Next Big Influencer Is This 4-Foot-Tall Robot From China",
@@ -442,15 +451,6 @@
       "source": "The Verge",
       "sourceUrl": "https://www.theverge.com/tech/979112/twitch-streamers-can-now-opt-out-from-training-amazons-ai",
       "publishedAt": "2026-08-12T17:29:10.000Z"
-    },
-    {
-      "id": "x7t2w6",
-      "title": "4 New Camera Tricks on Google’s Latest Pixel 11 Smartphones",
-      "summary": "From Magic Capture and Instant Night Sight to a built-in teleprompter, here’s a look at a few camera features on Google’s new Pixel 11 series.",
-      "imageUrl": "https://media.wired.com/photos/6a7b42c0e3ffed826d9fc63e/master/pass/Google%20Pixel%2011%20in%20Hibiscus%20SOURCE%20Julian%20Chokkattu.jpg",
-      "source": "Wired",
-      "sourceUrl": "https://www.wired.com/story/new-camera-tricks-on-google-latest-pixel-11-smartphones/",
-      "publishedAt": "2026-08-12T14:00:00.000Z"
     },
     {
       "id": "xllfpo",
