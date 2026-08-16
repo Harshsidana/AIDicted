@@ -1,7 +1,16 @@
 {
-  "fetchedAt": "2026-08-16T14:53:58.093Z",
+  "fetchedAt": "2026-08-16T15:28:02.990Z",
   "count": 60,
   "articles": [
+    {
+      "id": "gtu7uh",
+      "title": "ChatGPT’s Computer History tracks your clicks and keystrokes",
+      "summary": "ChatGPT's desktop app on macOS has a new feature called Computer History that turns your actions into training data, learning how you work, suggesting automations, and even picking up tasks you left half done. It uses your activity to build a timeline that ChatGPT and Codex can reference when you make a request. The feature is opt-in, rather than opt-out, and you can exclude certain apps and websites from Computer History, and you can delete entries if you want finer-grained control. Ari…",
+      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/08/STK155_OPEN_AI_4_CVirginia_C.png?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "source": "The Verge",
+      "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/980742/chatgpts-computer-history-tracks-your-clicks-and-keystrokes",
+      "publishedAt": "2026-08-16T14:56:40.000Z"
+    },
     {
       "id": "hb97ao",
       "title": "Rogue AI aren’t science fiction anymore",
@@ -370,15 +379,6 @@
       "source": "The Verge",
       "sourceUrl": "https://www.theverge.com/entertainment/977994/higgsfield-ai-cully-hill-boys-black-list",
       "publishedAt": "2026-08-13T15:30:00.000Z"
-    },
-    {
-      "id": "v7o2vs",
-      "title": "Does Google even want to win at AI?",
-      "summary": "Today on Decoder, I’m talking with Hayden Field, The Verge’s senior AI reporter, about a question that’s been rocketing around the tech industry for the past week: Is Google losing the AI race? That’s because last week Google announced a bombshell reorganization of its AI division, Google DeepMind. Jeff Dean, the company’s chief scientist, is leaving to form his own startup and DeepMind cofounder and CEO Demis Hassabis is stepping aside to focus on longer-term research. You can read these moves,…",
-      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/VRG_DCD_081226.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "source": "The Verge",
-      "sourceUrl": "https://www.theverge.com/podcast/979370/google-deepmind-ai-race-lose-jeff-dean-demis-hassabis",
-      "publishedAt": "2026-08-13T14:10:31.000Z"
     },
     {
       "id": "pnyg6e",
