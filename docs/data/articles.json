@@ -1,7 +1,25 @@
 {
-  "fetchedAt": "2026-08-16T20:30:20.110Z",
+  "fetchedAt": "2026-08-16T21:26:43.139Z",
   "count": 60,
   "articles": [
+    {
+      "id": "60pqjd",
+      "title": "Stripe will reportedly acquire AI gateway startup OpenRouter for $7B+",
+      "summary": "OpenRouter's CEO recently described the startup as Stripe for AI.",
+      "imageUrl": "https://images.unsplash.com/photo-1526374965328-7f61d4dc18c5?w=800&q=80",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/08/16/stripe-will-reportedly-acquire-ai-gateway-startup-openrouter-for-7b/",
+      "publishedAt": "2026-08-16T20:57:04.000Z"
+    },
+    {
+      "id": "mxvpnk",
+      "title": "Why people aren’t buying Mark Zuckerberg’s AI future",
+      "summary": "On the latest episode of Equity podcast, we discuss why not everyone is buying Zuckerberg’s vision.",
+      "imageUrl": "https://images.unsplash.com/photo-1635070041078-e363dbe005cb?w=800&q=80",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/08/16/why-people-arent-buying-mark-zuckerbergs-ai-future/",
+      "publishedAt": "2026-08-16T20:32:01.000Z"
+    },
     {
       "id": "50m9es",
       "title": "Anthropic CEO says AI backlash is ‘fundamentally a crisis of trust’",
@@ -336,15 +354,6 @@
       "publishedAt": "2026-08-13T19:19:49.000Z"
     },
     {
-      "id": "ccqjr9",
-      "title": "Anthropic set AI agents loose on the same task. They started a turf war.",
-      "summary": "Anthropic researchers found AI agents can clash, collude, and coordinate in unexpected ways, raising new questions about whether today’s safety tests capture the risks of multi-agent systems.",
-      "imageUrl": "https://images.unsplash.com/photo-1635070041078-e363dbe005cb?w=800&q=80",
-      "source": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/08/13/anthropic-set-ai-agents-loose-on-the-same-task-they-started-a-turf-war/",
-      "publishedAt": "2026-08-13T18:28:14.000Z"
-    },
-    {
       "id": "bm60i5",
       "title": "Building a practical path to post-quantum cryptography",
       "summary": "Quantum computing has alternated between breakthrough darling and overhyped promise in technology circles. Its powerful new capabilities come with a threat to break current cryptography, but for business leaders navigating the noise, the signal should be clear: post-quantum cryptography (PQC) is a manageable evolution, not a crisis. The mathematics behind today’s encrypted digital transactions may…",
@@ -352,15 +361,6 @@
       "source": "MIT Tech Review",
       "sourceUrl": "https://www.technologyreview.com/2026/08/13/1141041/building-a-practical-path-to-post-quantum-cryptography/",
       "publishedAt": "2026-08-13T18:11:42.000Z"
-    },
-    {
-      "id": "xznw4j",
-      "title": "OpenAI hires new CRO as executive shake-up continues",
-      "summary": "OpenAI has replaced chief revenue officer Denise Dresser after just nine months on the job, tapping Wiz president and chief operating officer Dali Rajic to take on frontier lab's top sales job.",
-      "imageUrl": "https://images.unsplash.com/photo-1485827404703-89b55fcc595e?w=800&q=80",
-      "source": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/08/13/openai-hires-new-cro-as-executive-shake-up-continues/",
-      "publishedAt": "2026-08-13T17:07:13.000Z"
     },
     {
       "id": "uyc6lo",
