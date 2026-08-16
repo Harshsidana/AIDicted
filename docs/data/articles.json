@@ -1,7 +1,16 @@
 {
-  "fetchedAt": "2026-08-16T16:33:04.355Z",
+  "fetchedAt": "2026-08-16T17:25:27.108Z",
   "count": 60,
   "articles": [
+    {
+      "id": "50m9es",
+      "title": "Anthropic CEO says AI backlash is ‘fundamentally a crisis of trust’",
+      "summary": "Dario Amodei is pushing back against the idea that he's been painting an overly pessimistic picture of AI.",
+      "imageUrl": "https://images.unsplash.com/photo-1635070041078-e363dbe005cb?w=800&q=80",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/08/16/anthropic-ceo-says-ai-backlash-is-fundamentally-a-crisis-of-trust/",
+      "publishedAt": "2026-08-16T16:53:51.000Z"
+    },
     {
       "id": "gtu7uh",
       "title": "ChatGPT’s Computer History tracks your clicks and keystrokes",
@@ -361,15 +370,6 @@
       "source": "The Verge",
       "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/979345/suno-studio-2-0-midi-chatbot-custom-effects",
       "publishedAt": "2026-08-13T16:00:00.000Z"
-    },
-    {
-      "id": "2t2zx1",
-      "title": "Microsoft kills off unsuccessful AI features while merging its separate Copilot apps",
-      "summary": "Microsoft is simplifying Copilot by combining its consumer and business apps, and dropping AI-generated podcasts, Group Chats, Deep Research, and its Mico character.",
-      "imageUrl": "https://images.unsplash.com/photo-1531746790095-6c10a4031c5f?w=800&q=80",
-      "source": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/08/13/microsoft-kills-off-unsuccessful-ai-features-while-merging-its-separate-copilot-apps/",
-      "publishedAt": "2026-08-13T15:30:52.000Z"
     },
     {
       "id": "3x6l01",
