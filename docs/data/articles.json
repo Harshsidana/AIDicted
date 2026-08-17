@@ -1,7 +1,16 @@
 {
-  "fetchedAt": "2026-08-17T16:35:52.893Z",
+  "fetchedAt": "2026-08-17T17:33:27.802Z",
   "count": 60,
   "articles": [
+    {
+      "id": "wz12jg",
+      "title": "Amazon, which started off selling books, is destroying rare texts to train AI",
+      "summary": "Rare books are incredibly valuable for training LLMs, since these models have already trained on whatever's available online.",
+      "imageUrl": "https://images.unsplash.com/photo-1526374965328-7f61d4dc18c5?w=800&q=80",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/08/17/amazon-once-an-online-bookseller-is-destroying-rare-books-to-train-ai-models/",
+      "publishedAt": "2026-08-17T16:38:44.000Z"
+    },
     {
       "id": "faz4mv",
       "title": "Groq raises $350M to fuel its pivot from AI chips to neocloud",
@@ -165,6 +174,15 @@
       "publishedAt": "2026-08-15T16:30:00.000Z"
     },
     {
+      "id": "e4ynj1",
+      "title": "How to tell if your AI platforms’ accounts have been hacked",
+      "summary": "A guide on how to check if hackers have broken into your accounts on the most popular AI platforms.",
+      "imageUrl": "https://images.unsplash.com/photo-1550751827-4bd374c3f58b?w=800&q=80",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/08/15/how-to-tell-if-your-ai-platforms-accounts-have-been-hacked/",
+      "publishedAt": "2026-08-15T16:10:00.000Z"
+    },
+    {
       "id": "npq8zb",
       "title": "Amazon Can Use Your Twitch Content to Train Its AI—Unless You Opt Out",
       "summary": "When Twitch announced that streamers could opt out, thousands of users questioned why their content was being used to train AI models in the first place.",
@@ -273,15 +291,6 @@
       "publishedAt": "2026-08-14T14:05:00.000Z"
     },
     {
-      "id": "mm6uf5",
-      "title": "Meta’s ‘open’ AI, and a $250M deal gone very wrong",
-      "summary": "Meta released Glimmer this week, an open-weight AI model anyone can download and run on their own hardware — a contrast to Muse Spark, the company’s more powerful model that stays locked behind its own APIs. The release landed alongside a letter from Mark Zuckerberg arguing AI should be “for everyone” rather than controlled by a handful of labs, but as Equity’s […]",
-      "imageUrl": "https://images.unsplash.com/photo-1526374965328-7f61d4dc18c5?w=800&q=80",
-      "source": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/podcast/metas-open-ai-and-a-250m-deal-gone-very-wrong/",
-      "publishedAt": "2026-08-14T14:00:00.000Z"
-    },
-    {
       "id": "uzbcf7",
       "title": "The Download: Flock’s new rules, cloning’s future, and children’s cells",
       "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. Flock is tightening its rules in response to a growing surveillance backlash The police-tech giant Flock is changing officers’ access to its nationwide network of license plate readers. The move comes…",
@@ -370,15 +379,6 @@
       "source": "Wired",
       "sourceUrl": "https://www.wired.com/story/mark-zuckerbergs-ai-manifesto-is-6500-words-and-barely-says-anything/",
       "publishedAt": "2026-08-13T21:14:43.000Z"
-    },
-    {
-      "id": "twgm3x",
-      "title": "Writer introduces new AI model and upgraded harness to contain token costs",
-      "summary": "Built as a post-training variation on Z.ai's open source model GLM-5.2, Writer says the new system should provide deployment-ready capabilities at a much lower price.",
-      "imageUrl": "https://images.unsplash.com/photo-1620712943543-bcc4688e7485?w=800&q=80",
-      "source": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/08/13/writer-introduces-new-ai-model-and-upgraded-harness-to-contain-token-costs/",
-      "publishedAt": "2026-08-13T21:13:24.000Z"
     },
     {
       "id": "qw341i",
