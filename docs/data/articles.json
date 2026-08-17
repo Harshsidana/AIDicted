@@ -1,7 +1,25 @@
 {
-  "fetchedAt": "2026-08-17T11:32:16.578Z",
+  "fetchedAt": "2026-08-17T12:57:22.432Z",
   "count": 60,
   "articles": [
+    {
+      "id": "plcikt",
+      "title": "The Download: dead robot friends and the “censorship-industrial complex”",
+      "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. What happens when a kid’s robot best friend dies? When Xander first met Moxie, she taught him how to calm down when he was anxious or mad. Six years later, she…",
+      "imageUrl": "https://images.unsplash.com/photo-1655720828018-edd2daec9349?w=800&q=80",
+      "source": "MIT Tech Review",
+      "sourceUrl": "https://www.technologyreview.com/2026/08/17/1142175/the-download-dead-robot-friends-censorship-industrial-complex/",
+      "publishedAt": "2026-08-17T12:10:00.000Z"
+    },
+    {
+      "id": "6x3rxi",
+      "title": "Anthropic explains how Claude’s invisible text watermarks will work",
+      "summary": "Anthropic has clarified how it's planning to apply invisible watermarks to Claude-generated text in order to comply with Europe's AI transparency rules. On Friday, Anthropic announced that Claude's text marking system is \"a version of the SynthID-Text approach\" - an open-source watermarking technology developed by Google DeepMind that creates detectable patterns using wording probabilities. This watermarking feature, alongside C2PA support for Claude-processed images, is being introduced to meet…",
+      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/01/STKB364_CLAUDE_2_C_96d15c.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "source": "The Verge",
+      "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/980869/anthropic-claude-watermarks-synthid-text-system",
+      "publishedAt": "2026-08-17T10:57:13.000Z"
+    },
     {
       "id": "i88ygw",
       "title": "How much hydrogen awaits us underground?",
@@ -59,7 +77,7 @@
     {
       "id": "gtu7uh",
       "title": "ChatGPT’s Computer History tracks your clicks and keystrokes",
-      "summary": "ChatGPT's desktop app on macOS has a new feature called Computer History that turns your actions into training data, learning how you work, suggesting automations, and even picking up tasks you left half done. It uses your activity to build a timeline that ChatGPT and Codex can reference when you make a request. The feature is opt-in, rather than opt-out, and you can exclude certain apps and websites from Computer History, and you can delete entries if you want finer-grained control. Ari…",
+      "summary": "ChatGPT's desktop app on macOS has a new feature called Computer History that turns your actions into training data, learning how you work, suggesting automations, and even picking up tasks you left half done. It uses your activity to build a timeline that ChatGPT and Codex can reference when you make a request. The feature is opt in, rather than opt out, and you can exclude certain apps and websites from Computer History, and you can delete entries if you want finer-grained control. Ari…",
       "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/08/STK155_OPEN_AI_4_CVirginia_C.png?quality=90&#038;strip=all&#038;crop=0,0,100,100",
       "source": "The Verge",
       "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/980742/chatgpts-computer-history-tracks-your-clicks-and-keystrokes",
@@ -86,7 +104,7 @@
     {
       "id": "6zi8um",
       "title": "Have a laugh at AI’s expense by roleplaying as a chatbot",
-      "summary": "If you squint you can just about make out the hat. | Screenshot: Terrence O’Brien / The Verge Your AI Slop Bores Me is brilliant in its simplicity. There are two tabs: human and LARP as an AI. On one side you enter a request. On the other, you submit an answer. But the important thing is that there's a human on both sides of the equation. Prompts can request a response as text or image, and then whoever is roleplaying as the AI gets 150 seconds to respond. Just like a real LLM, Your AI Slop…",
+      "summary": "If you squint, you can just about make out the hat. | Screenshot: Terrence O’Brien / The Verge Your AI Slop Bores Me is brilliant in its simplicity. There are two tabs: human and LARP as an AI. On one side, you enter a request. On the other, you submit an answer. But the important thing is that there's a human on both sides of the equation. Prompts can request a response as text or image, and then whoever is roleplaying as the AI gets 150 seconds to respond. Just like a real LLM, Your AI Slop…",
       "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/Screenshot-2026-08-15-at-4.40.53-PM.png?quality=90&#038;strip=all&#038;crop=0,0,100,100",
       "source": "The Verge",
       "sourceUrl": "https://www.theverge.com/entertainment/980502/roleplay-as-an-ai-chatbot",
@@ -390,15 +408,6 @@
       "publishedAt": "2026-08-13T18:11:42.000Z"
     },
     {
-      "id": "uyc6lo",
-      "title": "Suno is trying to look more like a real music production tool",
-      "summary": "Suno is releasing Studio 2.0 with significant upgrades that push it closer to an actual digital audio workstation (DAW), rather than a bare-bones audio editor with generative AI features. The biggest addition is undoubtedly MIDI support. Suno says that MIDI was its most requested feature, and it's basically a prerequisite for any modern DAW. Unfortunately, Suno Studio doesn't appear to support third-party plugins or VSTs yet, so you're stuck using its proprietary built-in synth. That synth…",
-      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/Suno_Studio2.0_Press_Hero.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "source": "The Verge",
-      "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/979345/suno-studio-2-0-midi-chatbot-custom-effects",
-      "publishedAt": "2026-08-13T16:00:00.000Z"
-    },
-    {
       "id": "pnyg6e",
       "title": "Flock is tightening its rules in response to a growing surveillance backlash",
       "summary": "The police-tech giant Flock is announcing today that it will change officers’ access to its nationwide network of license plate readers, in an apparent effort to quell a growing backlash and win back contracts lost amid concerns about mass surveillance and police abuse. Several changes aim directly at a problem that has made recent headlines:…",
@@ -406,15 +415,6 @@
       "source": "MIT Tech Review",
       "sourceUrl": "https://www.technologyreview.com/2026/08/13/1141904/flock-is-tightening-its-rules-in-response-to-a-growing-surveillance-backlash/",
       "publishedAt": "2026-08-13T13:41:10.000Z"
-    },
-    {
-      "id": "21pal",
-      "title": "The Download: kids’ thoughts on AI, and female clones of male mice",
-      "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. How kids feel about AI, in their own words —Jen Swetzoff and Keeley McNamara, the founding editors of Anyway, an independent print magazine for tweens and teens When we set out…",
-      "imageUrl": "https://images.unsplash.com/photo-1550751827-4bd374c3f58b?w=800&q=80",
-      "source": "MIT Tech Review",
-      "sourceUrl": "https://www.technologyreview.com/2026/08/13/1141896/the-download-kids-thoughts-on-ai-female-clones-male-mice/",
-      "publishedAt": "2026-08-13T12:10:00.000Z"
     },
     {
       "id": "6ljh1q",
