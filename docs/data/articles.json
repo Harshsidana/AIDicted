@@ -1,7 +1,25 @@
 {
-  "fetchedAt": "2026-08-17T14:34:54.455Z",
+  "fetchedAt": "2026-08-17T15:31:43.197Z",
   "count": 60,
   "articles": [
+    {
+      "id": "bl1knr",
+      "title": "Nvidia investing $1.5B in SoftBank data center developer behind OpenAI project",
+      "summary": "Nvidia's investment in SoftBank's data center developer will guarantee its chips power an OpenAI data center.",
+      "imageUrl": "https://images.unsplash.com/photo-1531746790095-6c10a4031c5f?w=800&q=80",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/08/17/nvidia-investing-1-5b-in-softbank-data-center-developer-behind-openai-project/",
+      "publishedAt": "2026-08-17T15:16:24.000Z"
+    },
+    {
+      "id": "7l73pk",
+      "title": "Nvidia discloses $21B stake in SpaceX",
+      "summary": "Filing comes after Elon Musk announced exclusive arrangement to kit out its data centers.",
+      "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2026/08/ftcms_116f79c4-b712-471b-b46a-ace5e4d7dda4.avif",
+      "source": "Ars Technica",
+      "sourceUrl": "https://arstechnica.com/information-technology/2026/08/nvidia-discloses-21b-stake-in-spacex/",
+      "publishedAt": "2026-08-17T14:22:54.000Z"
+    },
     {
       "id": "w6ggpk",
       "title": "Wispr raises $280M at $2B valuation as it looks beyond dictation",
@@ -390,15 +408,6 @@
       "publishedAt": "2026-08-13T19:28:39.000Z"
     },
     {
-      "id": "c2cvk",
-      "title": "OpenAI introduces ‘Ultrafast,’ a new mode that makes GPT-5.6 Sol work at 14x the speed",
-      "summary": "OpenAI is launching a preview of a sped up version of its latest, most powerful model, in an effort to court enterprise users.",
-      "imageUrl": "https://images.unsplash.com/photo-1531746790095-6c10a4031c5f?w=800&q=80",
-      "source": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/08/13/openai-introduces-ultrafast-a-new-mode-that-makes-gpt-5-6-sol-work-at-14x-the-speed/",
-      "publishedAt": "2026-08-13T19:22:40.000Z"
-    },
-    {
       "id": "bm60i5",
       "title": "Building a practical path to post-quantum cryptography",
       "summary": "Quantum computing has alternated between breakthrough darling and overhyped promise in technology circles. Its powerful new capabilities come with a threat to break current cryptography, but for business leaders navigating the noise, the signal should be clear: post-quantum cryptography (PQC) is a manageable evolution, not a crisis. The mathematics behind today’s encrypted digital transactions may…",
@@ -532,15 +541,6 @@
       "source": "Ars Technica",
       "sourceUrl": "https://arstechnica.com/security/2026/07/microsoft-unveils-ai-security-tools-it-says-outperform-competing-platforms/",
       "publishedAt": "2026-07-27T21:56:14.000Z"
-    },
-    {
-      "id": "hcwlne",
-      "title": "TreeSize won't renew perpetual-license support unless users subscribe",
-      "summary": "\"Current economic conditions\" have shifted TreeSize's business model.",
-      "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2026/07/TreeSize-1152x648.png",
-      "source": "Ars Technica",
-      "sourceUrl": "https://arstechnica.com/gadgets/2026/07/treesize-wont-renew-perpetual-license-support-unless-users-subscribe/",
-      "publishedAt": "2026-07-21T15:18:23.000Z"
     }
   ]
 }
