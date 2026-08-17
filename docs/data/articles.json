@@ -1,7 +1,16 @@
 {
-  "fetchedAt": "2026-08-17T18:49:51.297Z",
+  "fetchedAt": "2026-08-17T19:33:25.404Z",
   "count": 60,
   "articles": [
+    {
+      "id": "ooifci",
+      "title": "What Flock’s defenders are missing",
+      "summary": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here. Flock, the police-tech giant known for its network of some 120,000 automatic license plate readers around the US, announced some changes to its platform last Thursday. The updates are meant to prevent…",
+      "imageUrl": "https://images.unsplash.com/photo-1531746790095-6c10a4031c5f?w=800&q=80",
+      "source": "MIT Tech Review",
+      "sourceUrl": "https://www.technologyreview.com/2026/08/17/1142200/what-flocks-defenders-are-missing/",
+      "publishedAt": "2026-08-17T19:16:09.000Z"
+    },
     {
       "id": "wz12jg",
       "title": "Amazon, which started off selling books, is destroying rare texts to train AI",
@@ -415,15 +424,6 @@
       "source": "MIT Tech Review",
       "sourceUrl": "https://www.technologyreview.com/2026/08/13/1141041/building-a-practical-path-to-post-quantum-cryptography/",
       "publishedAt": "2026-08-13T18:11:42.000Z"
-    },
-    {
-      "id": "pnyg6e",
-      "title": "Flock is tightening its rules in response to a growing surveillance backlash",
-      "summary": "The police-tech giant Flock is announcing today that it will change officers’ access to its nationwide network of license plate readers, in an apparent effort to quell a growing backlash and win back contracts lost amid concerns about mass surveillance and police abuse. Several changes aim directly at a problem that has made recent headlines:…",
-      "imageUrl": "https://images.unsplash.com/photo-1635070041078-e363dbe005cb?w=800&q=80",
-      "source": "MIT Tech Review",
-      "sourceUrl": "https://www.technologyreview.com/2026/08/13/1141904/flock-is-tightening-its-rules-in-response-to-a-growing-surveillance-backlash/",
-      "publishedAt": "2026-08-13T13:41:10.000Z"
     },
     {
       "id": "6ljh1q",
