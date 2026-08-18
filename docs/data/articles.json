@@ -1,7 +1,34 @@
 {
-  "fetchedAt": "2026-08-18T10:36:14.744Z",
+  "fetchedAt": "2026-08-18T11:31:45.521Z",
   "count": 60,
   "articles": [
+    {
+      "id": "muhwbr",
+      "title": "Elon Musk made flying even worse so Palantir could profit",
+      "summary": "On August 6th, the Minneapolis Air Route Traffic Control Center lost radar and communications for around two hours. The outage disrupted more than 1,100 flights across the center's 330,000 square mile, nine-state airspace sector. Two days earlier, on August 4th, President Donald Trump departed the White House inside his Marine One military helicopter. As Federal Aviation Administration (FAA) protocol requires, the pilots tried to contact Reagan National Airport to tell them to halt commercial…",
+      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/268692_Elon_Musk_tore_down_the_FAA_so_Peter_Thiel_could_build_it_back_up_CVirginia.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "source": "The Verge",
+      "sourceUrl": "https://www.theverge.com/transportation/981194/faa-air-traffic-elon-musk-peter-thiel-palantir",
+      "publishedAt": "2026-08-18T11:00:00.000Z"
+    },
+    {
+      "id": "i25dt3",
+      "title": "ChatGPT is getting a dedicated mode for teens",
+      "summary": "ChatGPT for Teens includes safeguards and parental controls. | Image: OpenAI OpenAI is introducing a dedicated ChatGPT mode for teenagers, combining existing youth safeguards and new safety features under one roof. The launch comes amid mounting public scrutiny over how AI tools affect younger users, as other platforms implement their own age checks and teen-specific protections. ChatGPT for Teens is \"an experience designed to help teens learn, think critically, deepen understanding, and use AI…",
+      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/Parental-Controls-1.png?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "source": "The Verge",
+      "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/981333/openai-chatgpt-teen-mode",
+      "publishedAt": "2026-08-18T11:00:00.000Z"
+    },
+    {
+      "id": "e18w0o",
+      "title": "We still don’t know how people are really using AI",
+      "summary": "AI companies like Anthropic and OpenAI regularly publish reports on how people are using products like Claude and ChatGPT, but they only release the data they want us to see, AI researchers say. “There is no independent source to corroborate it,” says Anka Reuel, a Computer Science PhD candidate at the Stanford Trustworthy AI Research…",
+      "imageUrl": "https://images.unsplash.com/photo-1620712943543-bcc4688e7485?w=800&q=80",
+      "source": "MIT Tech Review",
+      "sourceUrl": "https://www.technologyreview.com/2026/08/18/1142226/how-people-use-ai/",
+      "publishedAt": "2026-08-18T10:06:43.000Z"
+    },
     {
       "id": "xae5su",
       "title": "Apple’s camera-equipped AirPods appear in leaked video",
@@ -27,6 +54,15 @@
       "imageUrl": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=800&q=80",
       "source": "MIT Tech Review",
       "sourceUrl": "https://www.technologyreview.com/2026/08/18/1141614/book-review-astronaut-role-in-flux/",
+      "publishedAt": "2026-08-18T09:00:00.000Z"
+    },
+    {
+      "id": "2yfktw",
+      "title": "AI’s recursive self-improvement might not come so quickly after all",
+      "summary": "The AI industry’s boldest promise right now is that AI will soon improve itself, with almost no need for human oversight. LLMs can already write code, generate synthetic data for training, and optimize the computer chips they run on. Forecasts of explosive AI progress predict that what researchers call recursive self-improvement is on the horizon. …",
+      "imageUrl": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=800&q=80",
+      "source": "MIT Tech Review",
+      "sourceUrl": "https://www.technologyreview.com/2026/08/18/1142188/ai-recursive-self-improvement/",
       "publishedAt": "2026-08-18T09:00:00.000Z"
     },
     {
@@ -291,15 +327,6 @@
       "publishedAt": "2026-08-14T16:54:16.000Z"
     },
     {
-      "id": "nwsj9h",
-      "title": "You can now turn off Google Gemini’s visible watermarks",
-      "summary": "Google will now allow you to remove visible watermarks from the images, videos, and music made with AI tools. With the update, you can toggle off a new \"Media watermark\" setting in Gemini and Google's AI video generator, Flow. When toggled off, Google will remove the \"sparkle\" watermark that appears in the bottom-right corner of content generated with the company's Nano Banana and Omni models. Though visible watermarks are now optional, AI-generated content will have invisible SynthID watermarks…",
-      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/02/STK255_Google_Gemini_D.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "source": "The Verge",
-      "sourceUrl": "https://www.theverge.com/tech/980416/google-gemini-ai-watermarks-removal",
-      "publishedAt": "2026-08-14T16:39:32.000Z"
-    },
-    {
       "id": "74gvx1",
       "title": "Google will now allow users to remove visible watermark from its AI generations",
       "summary": "Turning off this setting won't affect invisible benchmarks used to identify an AI generated file.",
@@ -363,15 +390,6 @@
       "publishedAt": "2026-08-14T10:15:00.000Z"
     },
     {
-      "id": "gfqngy",
-      "title": "Apple trained its own AI model for China with help from Alibaba",
-      "summary": "Apple has reportedly trained a custom AI model for the China market alongside domestic tech giant Alibaba, a rare cross-border partnership that cuts across growing tensions between Beijing and Washington. The China-focused large language model was developed in partnership with Alibaba and trained with the company's support, Reuters reports, citing three unnamed people familiar with the matter. Developing a custom model of its own marks a departure from Apple's previous strategy in the country…",
-      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/STK071_APPLE_A-1.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "source": "The Verge",
-      "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/980160/apple-intelligence-china-custom-ai-model-alibaba",
-      "publishedAt": "2026-08-14T09:21:17.000Z"
-    },
-    {
       "id": "ek5bse",
       "title": "This scientist is helping build a missing map of childhood",
       "summary": "In 2017, Deanne Taylor attended a presentation at the University of Pennsylvania, just a short walk from her office. A researcher was there to unveil the Human Cell Atlas, an ambitious project that aimed to map every cell in the human body. Taylor was floored, and then concerned. As details emerged, she discovered that the…",
@@ -387,15 +405,6 @@
       "imageUrl": "https://images.unsplash.com/photo-1635070041078-e363dbe005cb?w=800&q=80",
       "source": "MIT Tech Review",
       "sourceUrl": "https://www.technologyreview.com/2026/08/14/1141431/job-titles-space-travel-agent-roman-chiporukha/",
-      "publishedAt": "2026-08-14T09:00:00.000Z"
-    },
-    {
-      "id": "45xfpg",
-      "title": "Cloning could be used to save species—or make human “organ sacks”",
-      "summary": "This week I spoke to scientists who have found a way to turn male mouse embryos female. They’ve developed a CRISPR-based approach to essentially cut out the Y chromosome. It allowed them to create female clones of male mice. That’s right: female animals that are genetically identical to males, except for the missing Y chromosome.…",
-      "imageUrl": "https://images.unsplash.com/photo-1676299081847-824916de030a?w=800&q=80",
-      "source": "MIT Tech Review",
-      "sourceUrl": "https://www.technologyreview.com/2026/08/14/1141919/cloning-save-species-or-make-human-organ-sacks/",
       "publishedAt": "2026-08-14T09:00:00.000Z"
     },
     {
@@ -415,15 +424,6 @@
       "source": "Wired",
       "sourceUrl": "https://www.wired.com/story/mark-zuckerbergs-ai-manifesto-is-6500-words-and-barely-says-anything/",
       "publishedAt": "2026-08-13T21:14:43.000Z"
-    },
-    {
-      "id": "qw341i",
-      "title": "Roundtables: Inside the “Censorship-Industrial Complex” Idea Shaping US Policy",
-      "summary": "Listen to the session or watch below The “censorship-industrial complex” is an idea that a network of government, tech, and research groups is collaborating to suppress conservative online speech. This was fodder for the right-wing information sphere for years—then it began making its way into US policy. Watch a conversation exploring how it started, where…",
-      "imageUrl": "https://images.unsplash.com/photo-1635070041078-e363dbe005cb?w=800&q=80",
-      "source": "MIT Tech Review",
-      "sourceUrl": "https://www.technologyreview.com/2026/08/13/1141399/roundtables-inside-the-censorship-industrial-complex-idea-shaping-us-policy/",
-      "publishedAt": "2026-08-13T21:00:00.000Z"
     },
     {
       "id": "l0kivp",
