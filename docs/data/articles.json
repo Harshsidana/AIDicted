@@ -1,7 +1,16 @@
 {
-  "fetchedAt": "2026-08-18T19:32:20.562Z",
+  "fetchedAt": "2026-08-18T20:31:32.125Z",
   "count": 60,
   "articles": [
+    {
+      "id": "9adv0h",
+      "title": "Robin Williams’ Instagram account brought back to fight ‘AI abuse’",
+      "summary": "Robin Williams' children are taking over their father's Instagram account after his daughter spoke out against the use of his AI likeness, as reported earlier by The Wrap. In a post on Tuesday, Zak, Zelda, and Cody Williams write that they want the late actor's Instagram profile to be a \"safe, trusted place where the stories, photos, videos, and memories shared reflect his legacy with authenticity, warmth, and care.\" A story posted to Zelda Williams' own Instagram account expands on the decision…",
+      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/gettyimages-175034585.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,78.26399746371",
+      "source": "The Verge",
+      "sourceUrl": "https://www.theverge.com/entertainment/981644/robin-williams-instagram-account-ai",
+      "publishedAt": "2026-08-18T19:48:26.000Z"
+    },
     {
       "id": "9wzhgx",
       "title": "OpenAI lays out new security changes after its AI hacked Hugging Face",
@@ -325,15 +334,6 @@
       "source": "TechCrunch",
       "sourceUrl": "https://techcrunch.com/2026/08/16/anthropic-ceo-says-ai-backlash-is-fundamentally-a-crisis-of-trust/",
       "publishedAt": "2026-08-16T16:53:51.000Z"
-    },
-    {
-      "id": "gtu7uh",
-      "title": "ChatGPT’s Computer History tracks your clicks and keystrokes",
-      "summary": "ChatGPT's desktop app on macOS has a new feature called Computer History that turns your actions into training data, learning how you work, suggesting automations, and even picking up tasks you left half done. It uses your activity to build a timeline that ChatGPT and Codex can reference when you make a request. The feature is opt in, rather than opt out, and you can exclude certain apps and websites from Computer History, and you can delete entries if you want finer-grained control. Ari…",
-      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/08/STK155_OPEN_AI_4_CVirginia_C.png?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "source": "The Verge",
-      "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/980742/chatgpts-computer-history-tracks-your-clicks-and-keystrokes",
-      "publishedAt": "2026-08-16T14:56:40.000Z"
     },
     {
       "id": "npq8zb",
