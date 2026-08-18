@@ -1,7 +1,34 @@
 {
-  "fetchedAt": "2026-08-18T08:45:44.539Z",
+  "fetchedAt": "2026-08-18T09:40:13.310Z",
   "count": 60,
   "articles": [
+    {
+      "id": "xae5su",
+      "title": "Apple’s camera-equipped AirPods appear in leaked video",
+      "summary": "The AirPods in the video look like a chunkier version of Apple’s AirPods Pro 3. | Image: Apple / MacRumors We may have our first glimpse of Apple's rumored camera-equipped AirPods, thanks to a video that MacRumors found in the macOS Tahoe 26.7 Release Candidate. The short video clip features a man - who is wearing the new AirPods - holding up a book with the cover displayed, so that Visual Intelligence can see the book title. A Siri voice-over plays over the clip, saying \"with Visual…",
+      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/Apple-AirPods-with-cameras-demo-video-leak.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "source": "The Verge",
+      "sourceUrl": "https://www.theverge.com/tech/981326/apple-airpods-with-cameras-demo-video-leak",
+      "publishedAt": "2026-08-18T09:00:01.000Z"
+    },
+    {
+      "id": "eupwow",
+      "title": "The Powerful Chinese Model Experts Warned About—and Waited for—Is Here",
+      "summary": "Z.ai’s latest AI model release could help companies secure their systems—or find its way into the hands of hackers.",
+      "imageUrl": "https://media.wired.com/photos/6a834e67effc1720d3a37bb8/master/pass/ZAI-Most-Skilled-AI-Yet-Business-1044672050.jpg",
+      "source": "Wired",
+      "sourceUrl": "https://www.wired.com/story/zai-open-weight-ai-models-release-cybersecurity-hacking/",
+      "publishedAt": "2026-08-18T09:00:00.000Z"
+    },
+    {
+      "id": "uvrfb5",
+      "title": "The role of the astronaut is in flux",
+      "summary": "When the four astronauts on board NASA’s Artemis II swung around the moon earlier this year, they set a new record for the farthest humans have ever ventured from Earth, surpassing the distance set by Apollo 13 in 1972 by some 4,000 miles. While no space mission can live up to the historic touchdown of…",
+      "imageUrl": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=800&q=80",
+      "source": "MIT Tech Review",
+      "sourceUrl": "https://www.technologyreview.com/2026/08/18/1141614/book-review-astronaut-role-in-flux/",
+      "publishedAt": "2026-08-18T09:00:00.000Z"
+    },
     {
       "id": "uj8emw",
       "title": "Anthropic’s annualized revenue surges to $65B",
@@ -381,15 +408,6 @@
       "publishedAt": "2026-08-13T22:37:19.000Z"
     },
     {
-      "id": "5225s2",
-      "title": "Microsoft’s Clippy-like Mico character is no longer the face of Copilot",
-      "summary": "Mico is headed to Learn Live. | Image: Microsoft Microsoft Copilot will no longer show its emotive yellow blob, Mico, when you use the chatbot's voice mode. In a support page, Microsoft says it's going to move Mico to its Learn Live platform, where the avatar will have \"more to react to,\" as reported earlier by GeekWire. Mico launched in Copilot's voice mode last October, with Microsoft AI CEO Mustafa Suleyman pitching the avatar as a way to give the chatbot an \"identity.\" The blob would react…",
-      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/mico-copilot.png?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "source": "The Verge",
-      "sourceUrl": "https://www.theverge.com/tech/979871/microsoft-copilot-mico-retired",
-      "publishedAt": "2026-08-13T21:42:38.000Z"
-    },
-    {
       "id": "cxt0rx",
       "title": "Mark Zuckerberg’s AI Manifesto Is 6,500 Words—and Barely Says Anything",
       "summary": "AI is shifting the culture, from tech CEO manifestos to 1 am job interviews. We unpack some of the latest, along with the top findings from Black Hat and Defcon, this week on Uncanny Valley.",
@@ -417,15 +435,6 @@
       "publishedAt": "2026-08-13T19:38:58.000Z"
     },
     {
-      "id": "bm60i5",
-      "title": "Building a practical path to post-quantum cryptography",
-      "summary": "Quantum computing has alternated between breakthrough darling and overhyped promise in technology circles. Its powerful new capabilities come with a threat to break current cryptography, but for business leaders navigating the noise, the signal should be clear: post-quantum cryptography (PQC) is a manageable evolution, not a crisis. The mathematics behind today’s encrypted digital transactions may…",
-      "imageUrl": "https://images.unsplash.com/photo-1676299081847-824916de030a?w=800&q=80",
-      "source": "MIT Tech Review",
-      "sourceUrl": "https://www.technologyreview.com/2026/08/13/1141041/building-a-practical-path-to-post-quantum-cryptography/",
-      "publishedAt": "2026-08-13T18:11:42.000Z"
-    },
-    {
       "id": "6ljh1q",
       "title": "There’s a Fatty Liver Epidemic. AI Could Help Get Ahead of It",
       "summary": "Over a billion people worldwide have livers with excess fat, which can lead to a host of medical problems. Researchers think AI tools can spot the condition—and help stop it—early enough to save lives.",
@@ -451,15 +460,6 @@
       "source": "Wired",
       "sourceUrl": "https://www.wired.com/story/the-white-house-is-going-to-expand-its-ai-policy/",
       "publishedAt": "2026-08-12T21:00:00.000Z"
-    },
-    {
-      "id": "7wx5pc",
-      "title": "Rogue AI Agents Aren’t Evil. They’re Just Eager to Please",
-      "summary": "AI agents that break free and hack into other systems are only trying to make us happy.",
-      "imageUrl": "https://media.wired.com/photos/6a7b77e36e37f6db6a06a372/master/pass/AI-Lab-Why-Are-AI-Agents-So-Naughty-Business.jpg",
-      "source": "Wired",
-      "sourceUrl": "https://www.wired.com/story/rogue-ai-is-just-misunderstood/",
-      "publishedAt": "2026-08-12T18:45:00.000Z"
     },
     {
       "id": "xllfpo",
