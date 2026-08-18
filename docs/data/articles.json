@@ -1,11 +1,20 @@
 {
-  "fetchedAt": "2026-08-18T14:39:59.806Z",
+  "fetchedAt": "2026-08-18T16:38:55.448Z",
   "count": 60,
   "articles": [
     {
+      "id": "rw3n6o",
+      "title": "Why Apple’s camera-equipped AirPods may not be the ‘pervert pods’ consumers fear",
+      "summary": "Apple’s leaked camera-equipped AirPods might avoid the privacy pitfalls of other AI wearables by preventing users from recording photos and videos.",
+      "imageUrl": "https://images.unsplash.com/photo-1620712943543-bcc4688e7485?w=800&q=80",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/08/18/why-apples-camera-equipped-airpods-may-not-be-the-pervert-pods-consumers-fear/",
+      "publishedAt": "2026-08-18T16:19:10.000Z"
+    },
+    {
       "id": "sadg2e",
       "title": "Warp’s new system is an out-of-the-box software factory for AI development",
-      "summary": "On Tuesday, Warp introduced Warp Factories, a new infrastrructure system designed to make building AI software factories as easy as possible.",
+      "summary": "On Tuesday, Warp introduced Warp Factories, a new infrastructure system designed to make building AI software factories as easy as possible.",
       "imageUrl": "https://images.unsplash.com/photo-1620712943543-bcc4688e7485?w=800&q=80",
       "source": "TechCrunch",
       "sourceUrl": "https://techcrunch.com/2026/08/18/warps-new-system-is-an-out-of-the-box-software-factory-for-ai-development/",
@@ -66,8 +75,8 @@
       "publishedAt": "2026-08-18T12:01:29.000Z"
     },
     {
-      "id": "muhwbr",
-      "title": "Elon Musk made flying even worse so Palantir could profit",
+      "id": "ckjjke",
+      "title": "Elon Musk broke the FAA — Palantir is picking up the pieces",
       "summary": "On August 6th, the Minneapolis Air Route Traffic Control Center lost radar and communications for around two hours. The outage disrupted more than 1,100 flights across the center's 330,000 square mile, nine-state airspace sector. Two days earlier, on August 4th, President Donald Trump departed the White House inside his Marine One military helicopter. As Federal Aviation Administration (FAA) protocol requires, the pilots tried to contact Reagan National Airport to tell them to halt commercial…",
       "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/268692_Elon_Musk_tore_down_the_FAA_so_Peter_Thiel_could_build_it_back_up_CVirginia.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
       "source": "The Verge",
@@ -316,15 +325,6 @@
       "source": "TechCrunch",
       "sourceUrl": "https://techcrunch.com/2026/08/15/anthropic-shares-more-details-about-how-claudes-new-watermarks-will-work/",
       "publishedAt": "2026-08-15T18:58:39.000Z"
-    },
-    {
-      "id": "fkuk7r",
-      "title": "SpaceX officially closes its Cursor acquisition",
-      "summary": "AI coding startup Cursor is now officially a part of SpaceX.",
-      "imageUrl": "https://images.unsplash.com/photo-1526374965328-7f61d4dc18c5?w=800&q=80",
-      "source": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/08/15/spacex-officially-closes-its-cursor-acquisition/",
-      "publishedAt": "2026-08-15T16:30:00.000Z"
     },
     {
       "id": "npq8zb",
