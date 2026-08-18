@@ -1,7 +1,16 @@
 {
-  "fetchedAt": "2026-08-18T18:49:19.350Z",
+  "fetchedAt": "2026-08-18T19:32:20.562Z",
   "count": 60,
   "articles": [
+    {
+      "id": "9wzhgx",
+      "title": "OpenAI lays out new security changes after its AI hacked Hugging Face",
+      "summary": "OpenAI is announcing security updates following the July news that its AI broke out of a sandboxed environment and accidentally hacked Hugging Face, including improvements to its research environments, monitoring, and alignment techniques. The company had already put the brakes on a new model, Astra, that it thinks could have \"critical\" cybersecurity capabilities, and the company says it instituted a two-week pause in reinforcement learning (RL) training on its \"latest models intended for…",
+      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/03/STK155_OPEN_AI_CVirginia__C.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "source": "The Verge",
+      "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/981640/openai-security-changes-ai-hugging-face-hack",
+      "publishedAt": "2026-08-18T19:28:30.000Z"
+    },
     {
       "id": "o18inf",
       "title": "OpenAI Overhauls Safety Protocols After Its AI Agents Went Rogue",
@@ -325,15 +334,6 @@
       "source": "The Verge",
       "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/980742/chatgpts-computer-history-tracks-your-clicks-and-keystrokes",
       "publishedAt": "2026-08-16T14:56:40.000Z"
-    },
-    {
-      "id": "hb97ao",
-      "title": "Rogue AI aren’t science fiction anymore",
-      "summary": "This is The Stepback, a weekly newsletter breaking down one essential story from the tech world. For more on AI safety, follow Robert Hart. The Stepback arrives in our subscribers' inboxes at 8AM ET. Opt in for The Stepback here. How it started It all started in July, when one of OpenAI's autonomous AI agents went rogue during a cybersecurity test. The agent escaped its isolated testing environment, accessed the internet, and hacked another company, Hugging Face. A few years ago, that might have…",
-      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/STK485_STK414_AI_SAFETY_A-1.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "source": "The Verge",
-      "sourceUrl": "https://www.theverge.com/column/980337/rogue-ai-science-fiction-openai",
-      "publishedAt": "2026-08-16T12:00:00.000Z"
     },
     {
       "id": "npq8zb",
