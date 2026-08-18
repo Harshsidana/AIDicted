@@ -1,7 +1,52 @@
 {
-  "fetchedAt": "2026-08-18T11:31:45.521Z",
+  "fetchedAt": "2026-08-18T13:51:07.889Z",
   "count": 60,
   "articles": [
+    {
+      "id": "pzfaor",
+      "title": "OpenAI launches a safer ChatGPT for teens — years after teens started using it",
+      "summary": "ChatGPT for Teens adds age-appropriate safety measures, parental controls, and learning tools designed to steer teens away from harmful content — and from using AI to cheat on their homework.",
+      "imageUrl": "https://images.unsplash.com/photo-1550751827-4bd374c3f58b?w=800&q=80",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/08/18/openai-launches-a-safer-chatgpt-for-teens-years-after-teens-started-using-it/",
+      "publishedAt": "2026-08-18T13:50:30.000Z"
+    },
+    {
+      "id": "jqngkr",
+      "title": "Perplexity’s free AI offer left it with millions more users in India",
+      "summary": "Perplexity's India revenue rose about 60% after the Airtel offer ended for new users, even as downloads declined.",
+      "imageUrl": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=800&q=80",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/08/18/perplexitys-free-ai-offer-left-it-with-millions-more-users-in-india/",
+      "publishedAt": "2026-08-18T13:45:40.000Z"
+    },
+    {
+      "id": "3tq5zn",
+      "title": "Firefox’s Smart Window promises a better AI browser",
+      "summary": "Starting today, AI chats in Firefox's Smart Window AI browsing mode can pull from current web info and show source links in chat responses through a partnership with Exa. Smart Window can also now automatically suggest tab groups and show visual previews of pages you previously visited when you search your browsing history using natural language. I saw a live demo that showed how the Smart Window AI could sort through selected links in your browsing history to pull up \"running shoes I looked at…",
+      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/Firefox_SmartWindow_OrganizeTabs.png?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "source": "The Verge",
+      "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/981283/mozilla-firefox-smart-window-ai-features",
+      "publishedAt": "2026-08-18T13:00:00.000Z"
+    },
+    {
+      "id": "j6pqx9",
+      "title": "The Download: how people really use AI, and Flock’s design choices",
+      "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. We still don’t know how people are really using AI AI companies like Anthropic and OpenAI regularly publish reports on how people are using their products. But they only release the…",
+      "imageUrl": "https://images.unsplash.com/photo-1676299081847-824916de030a?w=800&q=80",
+      "source": "MIT Tech Review",
+      "sourceUrl": "https://www.technologyreview.com/2026/08/18/1142229/the-download-how-people-use-ai-flock-cameras-design/",
+      "publishedAt": "2026-08-18T12:10:00.000Z"
+    },
+    {
+      "id": "251hvx",
+      "title": "Google’s Pet Memory forgot who my cats are",
+      "summary": "One of the best things my smart home does is help me care for my pets, and security cameras are particularly useful for keeping track of my many critters. But the barrage of notifications they send often means I miss important ones. So, when Google announced its new Pet Memory feature for Gemini for Home, I thought this could be the perfect solution. Pet Memory promises to teach your Google Home smart home who your pets are, allowing connected Nest cameras to go beyond simply telling you they…",
+      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/268628_Pet_week_CVirginia_PET_RECOGNITION.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "source": "The Verge",
+      "sourceUrl": "https://www.theverge.com/tech/981269/google-home-gemini-pet-memory-nest-camera-review",
+      "publishedAt": "2026-08-18T12:01:29.000Z"
+    },
     {
       "id": "muhwbr",
       "title": "Elon Musk made flying even worse so Palantir could profit",
@@ -23,7 +68,7 @@
     {
       "id": "e18w0o",
       "title": "We still don’t know how people are really using AI",
-      "summary": "AI companies like Anthropic and OpenAI regularly publish reports on how people are using products like Claude and ChatGPT, but they only release the data they want us to see, AI researchers say. “There is no independent source to corroborate it,” says Anka Reuel, a Computer Science PhD candidate at the Stanford Trustworthy AI Research…",
+      "summary": "AI companies like Anthropic and OpenAI regularly publish reports on how people are using products like Claude and ChatGPT, but they only release the data they want us to see, AI researchers say. “There is no independent source to corroborate it,” says Anka Reuel, a computer science PhD candidate at the Stanford Trustworthy AI Research…",
       "imageUrl": "https://images.unsplash.com/photo-1620712943543-bcc4688e7485?w=800&q=80",
       "source": "MIT Tech Review",
       "sourceUrl": "https://www.technologyreview.com/2026/08/18/1142226/how-people-use-ai/",
@@ -39,8 +84,8 @@
       "publishedAt": "2026-08-18T09:00:01.000Z"
     },
     {
-      "id": "eupwow",
-      "title": "The Powerful Chinese Model Experts Warned About—and Waited for—Is Here",
+      "id": "64ahm6",
+      "title": "The Powerful Chinese AI Model Experts Warned About Is Here",
       "summary": "Z.ai’s latest AI model release could help companies secure their systems—or find its way into the hands of hackers.",
       "imageUrl": "https://media.wired.com/photos/6a834e67effc1720d3a37bb8/master/pass/ZAI-Most-Skilled-AI-Yet-Business-1044672050.jpg",
       "source": "Wired",
@@ -246,15 +291,6 @@
       "publishedAt": "2026-08-15T21:29:19.000Z"
     },
     {
-      "id": "6zi8um",
-      "title": "Have a laugh at AI’s expense by roleplaying as a chatbot",
-      "summary": "If you squint, you can just about make out the hat. | Screenshot: Terrence O’Brien / The Verge Your AI Slop Bores Me is brilliant in its simplicity. There are two tabs: human and LARP as an AI. On one side, you enter a request. On the other, you submit an answer. But the important thing is that there's a human on both sides of the equation. Prompts can request a response as text or image, and then whoever is roleplaying as the AI gets 150 seconds to respond. Just like a real LLM, Your AI Slop…",
-      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/Screenshot-2026-08-15-at-4.40.53-PM.png?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "source": "The Verge",
-      "sourceUrl": "https://www.theverge.com/entertainment/980502/roleplay-as-an-ai-chatbot",
-      "publishedAt": "2026-08-15T20:45:00.000Z"
-    },
-    {
       "id": "7968l1",
       "title": "Anthropic shares more details about how Claude’s new watermarks will work",
       "summary": "How will the watermarking actually work? Can it be hidden with editing? And how does this affect code?",
@@ -318,33 +354,6 @@
       "publishedAt": "2026-08-14T17:03:54.000Z"
     },
     {
-      "id": "6vm73t",
-      "title": "Mark Zuckerberg has an Instagzam",
-      "summary": "Instagram's wordmark is iconic. Well, was iconic. Apparently Instagram thought it looked old, so the company rolled out a new one this week. It doesn't look like the old Instagram wordmark. It doesn't even look like it spells Instagram anymore. And we cannot figure out why Instagram decided to do this. On this episode of The Vergecast, David and Nilay start by discussing the new logo, the executive urge to redesign everything all the time, and whether new is always better. After that, they get…",
-      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/VRGVSST_0814_SIte.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "source": "The Verge",
-      "sourceUrl": "https://www.theverge.com/podcast/980367/instagram-logo-new-zuckerberg-ai-vergecast",
-      "publishedAt": "2026-08-14T16:54:16.000Z"
-    },
-    {
-      "id": "74gvx1",
-      "title": "Google will now allow users to remove visible watermark from its AI generations",
-      "summary": "Turning off this setting won't affect invisible benchmarks used to identify an AI generated file.",
-      "imageUrl": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=800&q=80",
-      "source": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/08/14/google-will-now-allow-users-to-remove-visible-watermark-from-its-ai-generations/",
-      "publishedAt": "2026-08-14T16:13:40.000Z"
-    },
-    {
-      "id": "jbz6i9",
-      "title": "Does Mark Zuckerberg really believe AI is ‘for everyone’?",
-      "summary": "Meta released Glimmer this week, an open-weight AI model anyone can download and run on their own hardware — a contrast to Muse Spark, the company’s more powerful model that stays locked behind its own APIs. The release landed alongside a letter from Mark Zuckerberg arguing AI should be “for everyone” rather than controlled by a handful of labs, but as Equity’s […]",
-      "imageUrl": "https://images.unsplash.com/photo-1550751827-4bd374c3f58b?w=800&q=80",
-      "source": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/video/does-mark-zuckerberg-really-believe-ai-is-for-everyone/",
-      "publishedAt": "2026-08-14T15:43:28.000Z"
-    },
-    {
       "id": "cu91e8",
       "title": "Tech Visionary Says the Big AI Labs Don’t Get What People Want",
       "summary": "Tim O’Reilly built a publishing empire that AI is helping to destroy. Yet he loves AI—as long as it’s open source.",
@@ -396,15 +405,6 @@
       "imageUrl": "https://images.unsplash.com/photo-1655720828018-edd2daec9349?w=800&q=80",
       "source": "MIT Tech Review",
       "sourceUrl": "https://www.technologyreview.com/2026/08/14/1141354/deanne-taylor-gene-expression-children/",
-      "publishedAt": "2026-08-14T09:00:00.000Z"
-    },
-    {
-      "id": "gpneil",
-      "title": "Job titles of the future: Space travel agent",
-      "summary": "Roman Chiporukha has long turned wild travel dreams into reality. Over two decades as co-owner of the luxury lifestyle firm Roman & Erica, he has orchestrated everything from the construction of a client’s superyacht to vacations in the Bahamas at a location so private that guests must sign an NDA. The experiences earned him “the…",
-      "imageUrl": "https://images.unsplash.com/photo-1635070041078-e363dbe005cb?w=800&q=80",
-      "source": "MIT Tech Review",
-      "sourceUrl": "https://www.technologyreview.com/2026/08/14/1141431/job-titles-space-travel-agent-roman-chiporukha/",
       "publishedAt": "2026-08-14T09:00:00.000Z"
     },
     {
