@@ -1,7 +1,16 @@
 {
-  "fetchedAt": "2026-08-19T19:31:35.443Z",
+  "fetchedAt": "2026-08-19T20:35:47.900Z",
   "count": 60,
   "articles": [
+    {
+      "id": "hd25lu",
+      "title": "I Saw the Future of AI in a Robot That Can Learn on the Spot",
+      "summary": "During a recent visit to Generalist AI, I watched a robotic arm improvise and use a banana as a tool.",
+      "imageUrl": "https://media.wired.com/photos/6a85e8ea4518d27679a9b132/master/pass/AI-Lab-Very-Clever-Robot-Creeped-Me-Out-Business.jpg",
+      "source": "Wired",
+      "sourceUrl": "https://www.wired.com/story/generalist-ai-robots-learn-like-clever-toddlers/",
+      "publishedAt": "2026-08-19T19:30:00.000Z"
+    },
     {
       "id": "oh13oj",
       "title": "AI was supposed to win people over by now — it hasn’t",
@@ -451,15 +460,6 @@
       "source": "Wired",
       "sourceUrl": "https://www.wired.com/story/people-are-marrying-chatbots-these-lawmakers-want-to-stop-them/",
       "publishedAt": "2026-08-14T10:15:00.000Z"
-    },
-    {
-      "id": "rr9lbg",
-      "title": "The Safety Reckoning Inside OpenAI",
-      "summary": "OpenAI’s rogue agent hack was a watershed moment for AI safety and cybersecurity. It also sparked internal questions about the culture that led to it.",
-      "imageUrl": "https://media.wired.com/photos/6a7d0965c82d9b74df554e1c/master/pass/Model-Behavior-OpenAI-Dangerous-AI-Business.jpg",
-      "source": "Wired",
-      "sourceUrl": "https://www.wired.com/story/openai-safety-security-ai-agents-culture/",
-      "publishedAt": "2026-08-13T22:37:19.000Z"
     },
     {
       "id": "l0kivp",
