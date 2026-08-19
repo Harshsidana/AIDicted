@@ -1,7 +1,25 @@
 {
-  "fetchedAt": "2026-08-19T13:52:25.072Z",
+  "fetchedAt": "2026-08-19T14:40:33.392Z",
   "count": 60,
   "articles": [
+    {
+      "id": "1867ox",
+      "title": "VentureBeat names Rob Strechay as its first Lead Analyst, expanding its enterprise AI research push",
+      "summary": "Rob Strechay, until recently managing director and principal analyst at theCUBE Research, has joined VentureBeat as our first Lead Analyst and a founding analyst of VentureBeat Research. His arrival is the next step in a deliberate move at VentureBeat toward deeper specialization: analysis built for the technical decision-makers — the directors, VPs, CIOs, and CTOs — who are evaluating, buying, and deploying enterprise AI.The enterprise AI stack is being rewritten in real time, and the…",
+      "imageUrl": "https://images.ctfassets.net/jdtwqhzvc2n1/14iDGoOPdfaOw0DODBNL9w/7f4d8c6b70797d9bf23a623cbfa3fea3/6ca16f96-3171-4f7e-8c89-f466a3901415.png?w=300&q=30",
+      "source": "VentureBeat",
+      "sourceUrl": "https://venturebeat.com/ai/venturebeat-names-rob-strechay-as-its-first-lead-analyst-expanding-its-enterprise-ai-research-push",
+      "publishedAt": "2026-08-19T14:18:12.000Z"
+    },
+    {
+      "id": "5kk5dh",
+      "title": "Calendly throws its hat into meeting note-taker circus",
+      "summary": "Calendly is also releasing a meeting scheduling assistant called Callie.",
+      "imageUrl": "https://images.unsplash.com/photo-1635070041078-e363dbe005cb?w=800&q=80",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/08/19/calendly-throws-its-hat-into-meeting-note-taker-circus/",
+      "publishedAt": "2026-08-19T14:09:39.000Z"
+    },
     {
       "id": "t1ukdr",
       "title": "The Download: AI’s self-improvement problem, and what’s driving the heat",
@@ -309,15 +327,6 @@
       "publishedAt": "2026-08-17T14:22:54.000Z"
     },
     {
-      "id": "w6ggpk",
-      "title": "Wispr raises $280M at $2B valuation as it looks beyond dictation",
-      "summary": "The funds will allow Wispr to increase its footprint as it ventures into new areas, such as meetings, with its newly released note-taker tool.",
-      "imageUrl": "https://images.unsplash.com/photo-1635070041078-e363dbe005cb?w=800&q=80",
-      "source": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/08/17/wispr-raises-280m-at-2b-valuation-as-it-looks-beyond-dictation/",
-      "publishedAt": "2026-08-17T13:10:05.000Z"
-    },
-    {
       "id": "plcikt",
       "title": "The Download: dead robot friends and the “censorship-industrial complex”",
       "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. What happens when a kid’s robot best friend dies? When Xander first met Moxie, she taught him how to calm down when he was anxious or mad. Six years later, she…",
@@ -532,15 +541,6 @@
       "source": "Ars Technica",
       "sourceUrl": "https://arstechnica.com/security/2026/07/mythos-uncovers-crypto-weaknesses-that-went-unknown-for-years/",
       "publishedAt": "2026-07-29T22:07:06.000Z"
-    },
-    {
-      "id": "kxu0jq",
-      "title": "We now have a better understanding how OpenAI hacked into Hugging Face",
-      "summary": "10 days passed from OpenAI models exploiting JFrog Artifactory 0-day to release of a patch.",
-      "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2026/02/gatekeeping-ai-agents-1152x648.jpg",
-      "source": "Ars Technica",
-      "sourceUrl": "https://arstechnica.com/security/2026/07/jfrog-tries-to-spin-openai-0-day-exploit-of-its-app-into-a-success-story/",
-      "publishedAt": "2026-07-28T21:36:39.000Z"
     }
   ]
 }
