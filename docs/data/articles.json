@@ -1,7 +1,25 @@
 {
-  "fetchedAt": "2026-08-19T08:47:04.327Z",
+  "fetchedAt": "2026-08-19T09:40:15.747Z",
   "count": 60,
   "articles": [
+    {
+      "id": "yfkgwn",
+      "title": "Flock Has a Powerful New AI Tool for Police. We Got Its Code",
+      "summary": "Flock’s surveillance cameras have already sparked outrage. WIRED reconstructed its next-generation AI system, already in use by some police, to confirm it goes much further than tracking license plates.",
+      "imageUrl": "https://media.wired.com/photos/6a834e2ceca883ccd19e58fc/master/pass/Security_InsideNightshifttheAIAgentFlock_v1.gif",
+      "source": "Wired",
+      "sourceUrl": "https://www.wired.com/story/flock-safety-os-investigate/",
+      "publishedAt": "2026-08-19T09:00:00.000Z"
+    },
+    {
+      "id": "6cbgk8",
+      "title": "Child-monitoring apps might need a reboot",
+      "summary": "Pam Wisniewski’s digital adolescence showed her the best and the worst of the internet. At 14, she left an abusive home, where she’d been isolated in a fifth-wheel trailer at the end of a seven-­mile dirt road. She moved in with her older sister and taught herself to type on AOL Instant Messenger. Online, she…",
+      "imageUrl": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=800&q=80",
+      "source": "MIT Tech Review",
+      "sourceUrl": "https://www.technologyreview.com/2026/08/19/1141623/child-monitoring-apps-need-reboot/",
+      "publishedAt": "2026-08-19T09:00:00.000Z"
+    },
     {
       "id": "s5h719",
       "title": "Cursor capitalizes on GitHub frustration, launches rival hosting platform",
@@ -417,15 +435,6 @@
       "publishedAt": "2026-08-14T10:15:00.000Z"
     },
     {
-      "id": "ek5bse",
-      "title": "This scientist is helping build a missing map of childhood",
-      "summary": "In 2017, Deanne Taylor attended a presentation at the University of Pennsylvania, just a short walk from her office. A researcher was there to unveil the Human Cell Atlas, an ambitious project that aimed to map every cell in the human body. Taylor was floored, and then concerned. As details emerged, she discovered that the…",
-      "imageUrl": "https://images.unsplash.com/photo-1655720828018-edd2daec9349?w=800&q=80",
-      "source": "MIT Tech Review",
-      "sourceUrl": "https://www.technologyreview.com/2026/08/14/1141354/deanne-taylor-gene-expression-children/",
-      "publishedAt": "2026-08-14T09:00:00.000Z"
-    },
-    {
       "id": "rr9lbg",
       "title": "The Safety Reckoning Inside OpenAI",
       "summary": "OpenAI’s rogue agent hack was a watershed moment for AI safety and cybersecurity. It also sparked internal questions about the culture that led to it.",
@@ -451,15 +460,6 @@
       "source": "Ars Technica",
       "sourceUrl": "https://arstechnica.com/security/2026/08/white-house-recruits-security-firms-to-hack-overseas-cybercriminals/",
       "publishedAt": "2026-08-13T19:38:58.000Z"
-    },
-    {
-      "id": "6ljh1q",
-      "title": "There’s a Fatty Liver Epidemic. AI Could Help Get Ahead of It",
-      "summary": "Over a billion people worldwide have livers with excess fat, which can lead to a host of medical problems. Researchers think AI tools can spot the condition—and help stop it—early enough to save lives.",
-      "imageUrl": "https://media.wired.com/photos/6a7a380554cb34d4d120f360/master/pass/Theres-a-Fatty-Liver-Epidemic-Science.jpg",
-      "source": "Wired",
-      "sourceUrl": "https://www.wired.com/story/fatty-liver-disease-ai-detection-cancer/",
-      "publishedAt": "2026-08-13T09:00:00.000Z"
     },
     {
       "id": "ll0443",
