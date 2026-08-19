@@ -1,7 +1,16 @@
 {
-  "fetchedAt": "2026-08-19T14:40:33.392Z",
+  "fetchedAt": "2026-08-19T15:38:13.014Z",
   "count": 60,
   "articles": [
+    {
+      "id": "lbyvzm",
+      "title": "Amazon makes its AI-powered Alexa+ free on Fire TV, no Prime required",
+      "summary": "Amazon is making its AI-powered Alexa+ assistant free on all compatible Fire TV devices in the U.S., automatically upgrading users whether or not they subscribe to Prime.",
+      "imageUrl": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=800&q=80",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/08/19/amazon-makes-its-ai-powered-alexa-free-on-fire-tv-no-prime-required/",
+      "publishedAt": "2026-08-19T15:00:00.000Z"
+    },
     {
       "id": "1867ox",
       "title": "VentureBeat names Rob Strechay as its first Lead Analyst, expanding its enterprise AI research push",
@@ -307,15 +316,6 @@
       "source": "TechCrunch",
       "sourceUrl": "https://techcrunch.com/2026/08/17/groq-raises-350m-to-fuel-its-pivot-from-ai-chips-to-neocloud/",
       "publishedAt": "2026-08-17T16:15:12.000Z"
-    },
-    {
-      "id": "bl1knr",
-      "title": "Nvidia investing $1.5B in SoftBank data center developer behind OpenAI project",
-      "summary": "Nvidia's investment in SoftBank's data center developer will guarantee its chips power an OpenAI data center.",
-      "imageUrl": "https://images.unsplash.com/photo-1531746790095-6c10a4031c5f?w=800&q=80",
-      "source": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/08/17/nvidia-investing-1-5b-in-softbank-data-center-developer-behind-openai-project/",
-      "publishedAt": "2026-08-17T15:16:24.000Z"
     },
     {
       "id": "7l73pk",
