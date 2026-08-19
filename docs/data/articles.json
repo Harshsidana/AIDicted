@@ -1,7 +1,43 @@
 {
-  "fetchedAt": "2026-08-19T11:31:55.340Z",
+  "fetchedAt": "2026-08-19T12:59:48.579Z",
   "count": 60,
   "articles": [
+    {
+      "id": "t1ukdr",
+      "title": "The Download: AI’s self-improvement problem, and what’s driving the heat",
+      "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. AI’s recursive self-improvement might not come so quickly after all The AI industry’s boldest promise right now is that AI will soon improve itself, with almost no need for human oversight.…",
+      "imageUrl": "https://images.unsplash.com/photo-1635070041078-e363dbe005cb?w=800&q=80",
+      "source": "MIT Tech Review",
+      "sourceUrl": "https://www.technologyreview.com/2026/08/19/1140195/the-download-ai-recursive-self-improvement-problem-heatwave-causes/",
+      "publishedAt": "2026-08-19T12:10:00.000Z"
+    },
+    {
+      "id": "gqjzct",
+      "title": "AI isn’t close to curing cancer. This startup says it knows what it will take.",
+      "summary": "It's the data, stupid.",
+      "imageUrl": "https://images.unsplash.com/photo-1635070041078-e363dbe005cb?w=800&q=80",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/08/19/ai-isnt-close-to-curing-cancer-this-startup-says-it-knows-what-it-will-take/",
+      "publishedAt": "2026-08-19T12:00:00.000Z"
+    },
+    {
+      "id": "9uzfiv",
+      "title": "Nvidia’s new financial strategy does not compute",
+      "summary": "“Compute is an asset class! Compute is an asset class!” I continue to insist as I slowly shrink down and turn into a corncob | Image: Cath Virginia / The Verge, Getty Images April - 1805 Napoleon is master of Europe Only the British fleet stands before him Compute is now an asset class I see it is once again time to talk financial innovation. Apollo, BlackRock, Blackstone, Brookfield, Goldman Sachs, and KKR are all working with Nvidia to put together $500 billion in financing to turn compute…",
+      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25835739/STKP210_JENSEN_HUANG_B.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "source": "The Verge",
+      "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/981668/nvidias-goldman-blackrock-gpu-compute-asset",
+      "publishedAt": "2026-08-19T12:00:00.000Z"
+    },
+    {
+      "id": "ug8cqs",
+      "title": "Relativity Networks raises $22 million to bring a faster kind of fiber to data centers",
+      "summary": "Relativity Networks deals in hollow-core fiber, a rarely deployed technology that allows data to be transmitted 30% faster than conventional fiber.",
+      "imageUrl": "https://images.unsplash.com/photo-1526374965328-7f61d4dc18c5?w=800&q=80",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/08/19/relativity-networks-raises-22-million-to-bring-a-faster-kind-of-fiber-to-data-centers/",
+      "publishedAt": "2026-08-19T10:00:00.000Z"
+    },
     {
       "id": "yfkgwn",
       "title": "Flock Has a Powerful New AI Tool for Police. We Got Its Code",
@@ -327,33 +363,6 @@
       "publishedAt": "2026-08-17T09:00:00.000Z"
     },
     {
-      "id": "35zq7j",
-      "title": "OpenAI reportedly disbanded its preparedness team",
-      "summary": "According to the Financial Times, OpenAI disbanded its preparedness team at the end of last month. The job of the preparedness team was to assess if models posed serious risks and develop ways to mitigate those risks. (You know, like the possibility that it could go rogue and hack another company.) OpenAI spokesperson Kayla Wood denied that claim, saying in a statement to The Verge that \"We have not disbanded the Preparedness team. We have strong research leaders across cybersecurity, biological…",
-      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/08/STK149_AI_01.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "source": "The Verge",
-      "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/980817/openai-disbands-preparedness-team",
-      "publishedAt": "2026-08-16T21:32:56.000Z"
-    },
-    {
-      "id": "60pqjd",
-      "title": "Stripe will reportedly acquire AI gateway startup OpenRouter for $7B+",
-      "summary": "OpenRouter's CEO recently described the startup as Stripe for AI.",
-      "imageUrl": "https://images.unsplash.com/photo-1526374965328-7f61d4dc18c5?w=800&q=80",
-      "source": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/08/16/stripe-will-reportedly-acquire-ai-gateway-startup-openrouter-for-7b/",
-      "publishedAt": "2026-08-16T20:57:04.000Z"
-    },
-    {
-      "id": "mxvpnk",
-      "title": "Why people aren’t buying Mark Zuckerberg’s AI future",
-      "summary": "On the latest episode of Equity podcast, we discuss why not everyone is buying Zuckerberg’s vision.",
-      "imageUrl": "https://images.unsplash.com/photo-1635070041078-e363dbe005cb?w=800&q=80",
-      "source": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/08/16/why-people-arent-buying-mark-zuckerbergs-ai-future/",
-      "publishedAt": "2026-08-16T20:32:01.000Z"
-    },
-    {
       "id": "npq8zb",
       "title": "Amazon Can Use Your Twitch Content to Train Its AI—Unless You Opt Out",
       "summary": "When Twitch announced that streamers could opt out, thousands of users questioned why their content was being used to train AI models in the first place.",
@@ -406,15 +415,6 @@
       "source": "Ars Technica",
       "sourceUrl": "https://arstechnica.com/ai/2026/08/openai-and-anthropic-in-price-war-as-chinese-ai-rivals-gain-ground/",
       "publishedAt": "2026-08-14T14:27:14.000Z"
-    },
-    {
-      "id": "uzbcf7",
-      "title": "The Download: Flock’s new rules, cloning’s future, and children’s cells",
-      "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. Flock is tightening its rules in response to a growing surveillance backlash The police-tech giant Flock is changing officers’ access to its nationwide network of license plate readers. The move comes…",
-      "imageUrl": "https://images.unsplash.com/photo-1620712943543-bcc4688e7485?w=800&q=80",
-      "source": "MIT Tech Review",
-      "sourceUrl": "https://www.technologyreview.com/2026/08/14/1142033/the-download-flock-new-rules-cloning-future/",
-      "publishedAt": "2026-08-14T12:17:21.000Z"
     },
     {
       "id": "ah3p26",
