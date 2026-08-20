@@ -1,7 +1,34 @@
 {
-  "fetchedAt": "2026-08-20T10:37:43.809Z",
+  "fetchedAt": "2026-08-20T13:02:13.560Z",
   "count": 60,
   "articles": [
+    {
+      "id": "2ade4s",
+      "title": "Meta AI’s new Mac app wants you to talk to your apps",
+      "summary": "Meta said its Muse Spark model is powering the dictation feature.",
+      "imageUrl": "https://images.unsplash.com/photo-1526374965328-7f61d4dc18c5?w=800&q=80",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/08/20/meta-ais-new-mac-app-wants-you-to-talk-to-your-apps/",
+      "publishedAt": "2026-08-20T12:11:57.000Z"
+    },
+    {
+      "id": "m1jqsb",
+      "title": "The Download: polycrisis support networks and a hydrogen gold rush",
+      "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. Support networks aim to help kids through the polycrisis Sometime in the late 2000s, six-year-old Pim Sullivan-Tailyour was sitting in the back of a car in Thailand when she saw a…",
+      "imageUrl": "https://images.unsplash.com/photo-1635070041078-e363dbe005cb?w=800&q=80",
+      "source": "MIT Tech Review",
+      "sourceUrl": "https://www.technologyreview.com/2026/08/20/1142579/the-download-polycrisis-support-networks-underground-hydrogen-gold-rush/",
+      "publishedAt": "2026-08-20T12:10:00.000Z"
+    },
+    {
+      "id": "es2opv",
+      "title": "Slack is launching collaborative vibe-coding channels",
+      "summary": "Slack is introducing dedicated channels where teams can vibe-code together with AI agents instead of jumping between different tools and conversations. The Slack Code launch includes open, project-specific code channels with dedicated user tabs, alongside features that compare coding changes and preview HTML output before the project is shipped. \"With Slack Code, when you have an idea or need to build a new feature, update a web page, or fix a bug, you simply tag in a coding agent like…",
+      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/23988538/acastro_STK060_slack_04.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "source": "The Verge",
+      "sourceUrl": "https://www.theverge.com/tech/982628/slack-code-vibe-coding-channels-launch",
+      "publishedAt": "2026-08-20T12:00:00.000Z"
+    },
     {
       "id": "m9ii77",
       "title": "The next big thing in hydrogen could be underground",
@@ -273,15 +300,6 @@
       "publishedAt": "2026-08-18T18:33:11.000Z"
     },
     {
-      "id": "w9f2c0",
-      "title": "OpenAI institutes new safeguards after Hugging Face breach",
-      "summary": "The new safeguards include more detailed monitoring of models during the development process, as well as greater emphasis on alignment and security during the post-training process.",
-      "imageUrl": "https://images.unsplash.com/photo-1676299081847-824916de030a?w=800&q=80",
-      "source": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/08/18/openai-institutes-new-safeguards-after-hugging-face-breach/",
-      "publishedAt": "2026-08-18T18:00:00.000Z"
-    },
-    {
       "id": "dc6rn8",
       "title": "Microsoft Copilot reveals secret input that allowed it to be hacked",
       "summary": "Secret parameter allowed hackers to steal passwords when a target clicked on a link.",
@@ -327,15 +345,6 @@
       "publishedAt": "2026-08-18T11:00:00.000Z"
     },
     {
-      "id": "i25dt3",
-      "title": "ChatGPT is getting a dedicated mode for teens",
-      "summary": "ChatGPT for Teens includes safeguards and parental controls. | Image: OpenAI OpenAI is introducing a dedicated ChatGPT mode for teenagers, combining existing youth safeguards and new safety features under one roof. The launch comes amid mounting public scrutiny over how AI tools affect younger users, as other platforms implement their own age checks and teen-specific protections. ChatGPT for Teens is \"an experience designed to help teens learn, think critically, deepen understanding, and use AI…",
-      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/Parental-Controls-1.png?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "source": "The Verge",
-      "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/981333/openai-chatgpt-teen-mode",
-      "publishedAt": "2026-08-18T11:00:00.000Z"
-    },
-    {
       "id": "e18w0o",
       "title": "We still don’t know how people are really using AI",
       "summary": "AI companies like Anthropic and OpenAI regularly publish reports on how people are using products like Claude and ChatGPT, but they only release the data they want us to see, AI researchers say. “There is no independent source to corroborate it,” says Anka Reuel, a computer science PhD candidate at the Stanford Trustworthy AI Research…",
@@ -370,15 +379,6 @@
       "source": "MIT Tech Review",
       "sourceUrl": "https://www.technologyreview.com/2026/08/18/1142188/ai-recursive-self-improvement/",
       "publishedAt": "2026-08-18T09:00:00.000Z"
-    },
-    {
-      "id": "ooifci",
-      "title": "What Flock’s defenders are missing",
-      "summary": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here. Flock, the police-tech giant known for its network of some 120,000 automatic license plate readers around the US, announced some changes to its platform last Thursday. The updates are meant to prevent…",
-      "imageUrl": "https://images.unsplash.com/photo-1531746790095-6c10a4031c5f?w=800&q=80",
-      "source": "MIT Tech Review",
-      "sourceUrl": "https://www.technologyreview.com/2026/08/17/1142200/what-flocks-defenders-are-missing/",
-      "publishedAt": "2026-08-17T19:16:09.000Z"
     },
     {
       "id": "7l73pk",
