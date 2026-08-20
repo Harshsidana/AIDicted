@@ -1,7 +1,16 @@
 {
-  "fetchedAt": "2026-08-20T22:34:24.583Z",
+  "fetchedAt": "2026-08-20T23:32:02.951Z",
   "count": 60,
   "articles": [
+    {
+      "id": "12yx8m",
+      "title": "OpenAI is gaining on Anthropic with business users, new data indicates",
+      "summary": "Businesses are willing to flop back and forth as each lab releases new models, volatility that should give both companies' investors pause about how \"sticky\" enterprise AI spending really is.",
+      "imageUrl": "https://images.unsplash.com/photo-1526374965328-7f61d4dc18c5?w=800&q=80",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/08/20/openai-is-gaining-on-anthropic-with-business-users-new-data-indicates/",
+      "publishedAt": "2026-08-20T22:36:37.000Z"
+    },
     {
       "id": "gvt73o",
       "title": "ChatGPT can now send texts for you with new Apple Messages plug-in",
@@ -10,6 +19,15 @@
       "source": "TechCrunch",
       "sourceUrl": "https://techcrunch.com/2026/08/20/chatgpt-can-now-send-texts-for-you-with-new-apple-messages-plugin/",
       "publishedAt": "2026-08-20T22:09:51.000Z"
+    },
+    {
+      "id": "7p36h4",
+      "title": "Google Discover is getting an AI chatbot-tuned feed",
+      "summary": "Google will soon allow you to customize your Discover feed by describing what you want to see. The new feature, rolling out to the Google app in the \"coming days,\" will use AI to automatically tweak your feed and \"remember\" your preferences for future visits. You'll find the option within the three-dot menu on your Discover feed. As shown in a video shared by Google, tapping the feature will open a chatbot-style interface, where you'll be able to describe your preferences. The chatbot will…",
+      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/Screenshot-2026-08-20-at-5.37.35-PM.png?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "source": "The Verge",
+      "sourceUrl": "https://www.theverge.com/tech/983088/google-discover-ai-chatbot-feed",
+      "publishedAt": "2026-08-20T21:50:22.000Z"
     },
     {
       "id": "zfc2tq",
@@ -219,15 +237,6 @@
       "publishedAt": "2026-08-19T22:10:46.000Z"
     },
     {
-      "id": "v0ph0a",
-      "title": "Cognition CEO denies report that SpaceX tried to acquire the startup",
-      "summary": "SpaceX was reportedly in talks to buy AI coding startup Cognition. SpaceX has already acquired Cursor as it races to catch up to rivals like OpenAI and Anthropic in enterprise AI.",
-      "imageUrl": "https://images.unsplash.com/photo-1485827404703-89b55fcc595e?w=800&q=80",
-      "source": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/08/19/cognition-ceo-denies-report-that-spacex-tried-to-acquire-the-startup/",
-      "publishedAt": "2026-08-19T21:51:23.000Z"
-    },
-    {
       "id": "hd25lu",
       "title": "I Saw the Future of AI in a Robot That Can Learn on the Spot",
       "summary": "During a recent visit to Generalist AI, I watched a robotic arm improvise and use a banana as a tool.",
@@ -352,15 +361,6 @@
       "source": "Ars Technica",
       "sourceUrl": "https://arstechnica.com/security/2026/08/microsoft-copilot-reveals-secret-input-that-allowed-it-to-be-hacked/",
       "publishedAt": "2026-08-18T13:00:04.000Z"
-    },
-    {
-      "id": "3tq5zn",
-      "title": "Firefox’s Smart Window promises a better AI browser",
-      "summary": "Starting today, AI chats in Firefox's Smart Window AI browsing mode can pull from current web info and show source links in chat responses through a partnership with Exa. Smart Window can also now automatically suggest tab groups and show visual previews of pages you previously visited when you search your browsing history using natural language. I saw a live demo that showed how the Smart Window AI could sort through selected links in your browsing history to pull up \"running shoes I looked at…",
-      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/Firefox_SmartWindow_OrganizeTabs.png?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "source": "The Verge",
-      "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/981283/mozilla-firefox-smart-window-ai-features",
-      "publishedAt": "2026-08-18T13:00:00.000Z"
     },
     {
       "id": "j6pqx9",
