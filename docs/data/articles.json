@@ -1,7 +1,25 @@
 {
-  "fetchedAt": "2026-08-20T17:02:00.599Z",
+  "fetchedAt": "2026-08-20T17:57:35.057Z",
   "count": 60,
   "articles": [
+    {
+      "id": "a438ug",
+      "title": "Grok keeps sending gibberish responses to users",
+      "summary": "Affected users told TechCrunch they were using Grok Lite, and noticed the issues as early as Wednesday morning.",
+      "imageUrl": "https://images.unsplash.com/photo-1655720828018-edd2daec9349?w=800&q=80",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/08/20/grok-keeps-sending-gibberish-responses-to-users/",
+      "publishedAt": "2026-08-20T17:32:16.000Z"
+    },
+    {
+      "id": "bnkd99",
+      "title": "A third of web pages published since ChatGPT’s launch show signs of AI authorship, study finds",
+      "summary": "ChatGPT and other AI models are now authoring and editing much of the new web.",
+      "imageUrl": "https://images.unsplash.com/photo-1550751827-4bd374c3f58b?w=800&q=80",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/08/20/a-third-of-webpages-published-since-chatgpts-launch-show-signs-of-ai-authorship-study-finds/",
+      "publishedAt": "2026-08-20T17:18:58.000Z"
+    },
     {
       "id": "a4cp42",
       "title": "Ramp launches its own AI model router, called Router",
@@ -246,15 +264,6 @@
       "publishedAt": "2026-08-19T15:44:53.000Z"
     },
     {
-      "id": "lbyvzm",
-      "title": "Amazon makes its AI-powered Alexa+ free on Fire TV, no Prime required",
-      "summary": "Amazon is making its AI-powered Alexa+ assistant free on all compatible Fire TV devices in the U.S., automatically upgrading users whether or not they subscribe to Prime.",
-      "imageUrl": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=800&q=80",
-      "source": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/08/19/amazon-makes-its-ai-powered-alexa-free-on-fire-tv-no-prime-required/",
-      "publishedAt": "2026-08-19T15:00:00.000Z"
-    },
-    {
       "id": "1867ox",
       "title": "VentureBeat names Rob Strechay as its first Lead Analyst, expanding its enterprise AI research push",
       "summary": "Rob Strechay, until recently managing director and principal analyst at theCUBE Research, has joined VentureBeat as our first Lead Analyst and a founding analyst of VentureBeat Research. His arrival is the next step in a deliberate move at VentureBeat toward deeper specialization: analysis built for the technical decision-makers — the directors, VPs, CIOs, and CTOs — who are evaluating, buying, and deploying enterprise AI.The enterprise AI stack is being rewritten in real time, and the…",
@@ -262,15 +271,6 @@
       "source": "VentureBeat",
       "sourceUrl": "https://venturebeat.com/ai/venturebeat-names-rob-strechay-as-its-first-lead-analyst-expanding-its-enterprise-ai-research-push",
       "publishedAt": "2026-08-19T14:18:12.000Z"
-    },
-    {
-      "id": "5kk5dh",
-      "title": "Calendly throws its hat into meeting note-taker circus",
-      "summary": "Calendly is also releasing a meeting scheduling assistant called Callie.",
-      "imageUrl": "https://images.unsplash.com/photo-1635070041078-e363dbe005cb?w=800&q=80",
-      "source": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/08/19/calendly-throws-its-hat-into-meeting-note-taker-circus/",
-      "publishedAt": "2026-08-19T14:09:39.000Z"
     },
     {
       "id": "t1ukdr",
