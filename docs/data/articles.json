@@ -1,7 +1,25 @@
 {
-  "fetchedAt": "2026-08-20T15:06:23.329Z",
+  "fetchedAt": "2026-08-20T16:00:34.261Z",
   "count": 60,
   "articles": [
+    {
+      "id": "pp3co2",
+      "title": "Inertia Enterprises finds a way to make its fusion fuel fast",
+      "summary": "Fusion power startup Inertia Enterprises reduced the fuel filling process from a week to just a few hours. It's one of ten hurdles the company must overcome to make a profitable power plant.",
+      "imageUrl": "https://images.unsplash.com/photo-1485827404703-89b55fcc595e?w=800&q=80",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/08/20/inertia-enterprises-finds-a-way-to-make-its-fusion-fuel-fast/",
+      "publishedAt": "2026-08-20T16:00:00.000Z"
+    },
+    {
+      "id": "ort7qy",
+      "title": "It’s Greg Brockman’s OpenAI now",
+      "summary": "OpenAI has had a hell of a year. The company spent months battling former co-founder Elon Musk in a sensational jury trial, was hit with a high-profile trade secrets lawsuit from Apple, and faced widespread scrutiny after an unreleased model hacked another AI company. As it prepares for an IPO, a steady string of executives have departed, including some of the company's biggest names. Throughout it all, one person has quietly amassed power: Greg Brockman. Brockman is currently OpenAI's president…",
+      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/05/STKP221_GREG_BROCKMAN2.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "source": "The Verge",
+      "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/982774/greg-brockman-openai-role-expansion",
+      "publishedAt": "2026-08-20T15:45:55.000Z"
+    },
     {
       "id": "ekik0z",
       "title": "Welcome to the AI crisis in math",
@@ -282,15 +300,6 @@
       "publishedAt": "2026-08-19T09:00:00.000Z"
     },
     {
-      "id": "s5h719",
-      "title": "Cursor capitalizes on GitHub frustration, launches rival hosting platform",
-      "summary": "Cursor, known for its AI Code Editor, is launching a new code-hosting platform to rival developers' long preferred favorite, GitHub.",
-      "imageUrl": "https://images.unsplash.com/photo-1676299081847-824916de030a?w=800&q=80",
-      "source": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/08/18/cursor-capitalizes-on-github-frustration-launches-rival-hosting-platform/",
-      "publishedAt": "2026-08-18T22:14:25.000Z"
-    },
-    {
       "id": "9adv0h",
       "title": "Robin Williams’ Instagram account brought back to fight ‘AI abuse’",
       "summary": "Robin Williams' children are taking over their father's Instagram account after his daughter spoke out against the use of his AI likeness, as reported earlier by The Wrap. In a post on Tuesday, Zak, Zelda, and Cody Williams write that they want the late actor's Instagram profile to be a \"safe, trusted place where the stories, photos, videos, and memories shared reflect his legacy with authenticity, warmth, and care.\" A story posted to Zelda Williams' own Instagram account expands on the decision…",
@@ -343,15 +352,6 @@
       "source": "MIT Tech Review",
       "sourceUrl": "https://www.technologyreview.com/2026/08/18/1142229/the-download-how-people-use-ai-flock-cameras-design/",
       "publishedAt": "2026-08-18T12:10:00.000Z"
-    },
-    {
-      "id": "251hvx",
-      "title": "Google’s Pet Memory forgot who my cats are",
-      "summary": "One of the best things my smart home does is help me care for my pets, and security cameras are particularly useful for keeping track of my many critters. But the barrage of notifications they send often means I miss important ones. So, when Google announced its new Pet Memory feature for Gemini for Home, I thought this could be the perfect solution. Pet Memory promises to teach your Google Home smart home who your pets are, allowing connected Nest cameras to go beyond simply telling you they…",
-      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/268628_Pet_week_CVirginia_PET_RECOGNITION.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "source": "The Verge",
-      "sourceUrl": "https://www.theverge.com/tech/981269/google-home-gemini-pet-memory-nest-camera-review",
-      "publishedAt": "2026-08-18T12:01:29.000Z"
     },
     {
       "id": "e18w0o",
