@@ -1,7 +1,16 @@
 {
-  "fetchedAt": "2026-08-21T15:59:55.206Z",
+  "fetchedAt": "2026-08-21T16:46:45.625Z",
   "count": 60,
   "articles": [
+    {
+      "id": "of8sv2",
+      "title": "The DOJ is investigating a16z. What does this mean for venture capital?",
+      "summary": "Andreessen Horowitz has two partners sitting on the boards of companies that now compete with each other: Ben Horowitz at Databricks and Martin Casado at Fivetran. Nothing too scandalous on the surface, except the Department of Justice has reportedly been investigating the arrangement for almost a year, dusting off a 112-year-old antitrust law that’s rarely used against VCs. Board conflicts aren’t exactly new, and these companies weren’t necessarily direct competitors when a16z first invested…",
+      "imageUrl": "https://images.unsplash.com/photo-1620712943543-bcc4688e7485?w=800&q=80",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/podcast/the-doj-is-investigating-a16z-what-does-this-mean-for-venture-capital/",
+      "publishedAt": "2026-08-21T14:00:00.000Z"
+    },
     {
       "id": "1wa9ya",
       "title": "Starcloud raises $250 million for orbital data centers as launch options dry up",
@@ -12,13 +21,13 @@
       "publishedAt": "2026-08-21T14:00:00.000Z"
     },
     {
-      "id": "of8sv2",
-      "title": "The DOJ is investigating a16z. What does this mean for venture capital?",
-      "summary": "Andreessen Horowitz has two partners sitting on the boards of companies that now compete with each other: Ben Horowitz at Databricks and Martin Casado at Fivetran. Nothing too scandalous on the surface, except the Department of Justice has reportedly been investigating the arrangement for almost a year, dusting off a 112-year-old antitrust law that’s rarely used against VCs. Board conflicts aren’t exactly new, and these companies weren’t necessarily direct competitors when a16z first invested…",
-      "imageUrl": "https://images.unsplash.com/photo-1620712943543-bcc4688e7485?w=800&q=80",
-      "source": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/podcast/the-doj-is-investigating-a16z-what-does-this-mean-for-venture-capital/",
-      "publishedAt": "2026-08-21T14:00:00.000Z"
+      "id": "hheuof",
+      "title": "Major YouTube creators are facing backlash for accepting AI money",
+      "summary": "Over the past few days, a number of prominent filmmaking content creators including Matti Haapoja and Sam \"Kold\" Kolder have posted videos of themselves demonstrating what's possible with AI platform Higgsfield. The videos highlight Higgsfield's recently added Seedance 2.5 functionality and pitch these technologies as the future of video production. In response to these videos, other creators started sharing what appear to be screenshots of partnership offers they'd received from PR firms…",
+      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/ai-label_eb9dbb.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "source": "The Verge",
+      "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/983181/matti-haapoja-sam-kold-kolder-higgsfield-seedance-backlash",
+      "publishedAt": "2026-08-21T13:37:52.000Z"
     },
     {
       "id": "e0zpcm",
@@ -379,15 +388,6 @@
       "source": "The Verge",
       "sourceUrl": "https://www.theverge.com/entertainment/981644/robin-williams-instagram-account-ai",
       "publishedAt": "2026-08-18T19:48:26.000Z"
-    },
-    {
-      "id": "9wzhgx",
-      "title": "OpenAI lays out new security changes after its AI hacked Hugging Face",
-      "summary": "OpenAI is announcing security updates following the July news that its AI broke out of a sandboxed environment and accidentally hacked Hugging Face, including improvements to its research environments, monitoring, and alignment techniques. The company had already put the brakes on a new model, Astra, that it thinks could have \"critical\" cybersecurity capabilities, and the company says it instituted a two-week pause in reinforcement learning (RL) training on its \"latest models intended for…",
-      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/03/STK155_OPEN_AI_CVirginia__C.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "source": "The Verge",
-      "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/981640/openai-security-changes-ai-hugging-face-hack",
-      "publishedAt": "2026-08-18T19:28:30.000Z"
     },
     {
       "id": "o18inf",
