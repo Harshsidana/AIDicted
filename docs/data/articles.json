@@ -1,7 +1,25 @@
 {
-  "fetchedAt": "2026-08-21T13:01:14.695Z",
+  "fetchedAt": "2026-08-21T14:07:34.883Z",
   "count": 60,
   "articles": [
+    {
+      "id": "1wa9ya",
+      "title": "Starcloud raises $250 million for orbital data centers as launch options dry up",
+      "summary": "There's about to be a big fight to secure access to space.",
+      "imageUrl": "https://images.unsplash.com/photo-1526374965328-7f61d4dc18c5?w=800&q=80",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/08/21/starcloud-raises-200-million-for-orbital-data-centers-as-launch-options-dry-up/",
+      "publishedAt": "2026-08-21T14:00:00.000Z"
+    },
+    {
+      "id": "hheuof",
+      "title": "Major YouTube creators are facing backlash for accepting AI money",
+      "summary": "Over the past few days, a number of prominent filmmaking content creators including Matti Haapoja and Sam \"Kold\" Kolder have posted videos of themselves demonstrating what's possible with AI platform Higgsfield. The videos highlight Higgsfield's recently added Seedance 2.5 functionality and pitch these technologies as the future of video production. In response to these videos, other creators started sharing what appear to be screenshots of partnership offers they'd received from PR firms…",
+      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/Screenshot-2026-08-21-at-8.45.31-AM.png?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "source": "The Verge",
+      "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/983181/matti-haapoja-sam-kold-kolder-higgsfield-seedance-backlash",
+      "publishedAt": "2026-08-21T13:37:52.000Z"
+    },
     {
       "id": "j33t9y",
       "title": "The Download: threats from space mirrors and credit for AI drugs",
@@ -273,15 +291,6 @@
       "publishedAt": "2026-08-20T09:00:00.000Z"
     },
     {
-      "id": "j48ey2",
-      "title": "Stripe didn’t really buy OpenRouter because of the ‘singularity’",
-      "summary": "What does a payments giant want with a startup that routes prompts between different AI models? Stripe says it's because of \"the singularity\" but it's really for a far more real and powerful reason.",
-      "imageUrl": "https://images.unsplash.com/photo-1531746790095-6c10a4031c5f?w=800&q=80",
-      "source": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/08/19/stripe-didnt-really-buy-openrouter-because-of-the-singularity/",
-      "publishedAt": "2026-08-19T23:32:00.000Z"
-    },
-    {
       "id": "hd25lu",
       "title": "I Saw the Future of AI in a Robot That Can Learn on the Spot",
       "summary": "During a recent visit to Generalist AI, I watched a robotic arm improvise and use a banana as a tool.",
@@ -370,15 +379,6 @@
       "source": "The Verge",
       "sourceUrl": "https://www.theverge.com/entertainment/981644/robin-williams-instagram-account-ai",
       "publishedAt": "2026-08-18T19:48:26.000Z"
-    },
-    {
-      "id": "9wzhgx",
-      "title": "OpenAI lays out new security changes after its AI hacked Hugging Face",
-      "summary": "OpenAI is announcing security updates following the July news that its AI broke out of a sandboxed environment and accidentally hacked Hugging Face, including improvements to its research environments, monitoring, and alignment techniques. The company had already put the brakes on a new model, Astra, that it thinks could have \"critical\" cybersecurity capabilities, and the company says it instituted a two-week pause in reinforcement learning (RL) training on its \"latest models intended for…",
-      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/03/STK155_OPEN_AI_CVirginia__C.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "source": "The Verge",
-      "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/981640/openai-security-changes-ai-hugging-face-hack",
-      "publishedAt": "2026-08-18T19:28:30.000Z"
     },
     {
       "id": "o18inf",
