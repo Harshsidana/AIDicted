@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-08-21T14:07:34.883Z",
+  "fetchedAt": "2026-08-21T15:59:55.206Z",
   "count": 60,
   "articles": [
     {
@@ -12,13 +12,22 @@
       "publishedAt": "2026-08-21T14:00:00.000Z"
     },
     {
-      "id": "hheuof",
-      "title": "Major YouTube creators are facing backlash for accepting AI money",
-      "summary": "Over the past few days, a number of prominent filmmaking content creators including Matti Haapoja and Sam \"Kold\" Kolder have posted videos of themselves demonstrating what's possible with AI platform Higgsfield. The videos highlight Higgsfield's recently added Seedance 2.5 functionality and pitch these technologies as the future of video production. In response to these videos, other creators started sharing what appear to be screenshots of partnership offers they'd received from PR firms…",
-      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/Screenshot-2026-08-21-at-8.45.31-AM.png?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "source": "The Verge",
-      "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/983181/matti-haapoja-sam-kold-kolder-higgsfield-seedance-backlash",
-      "publishedAt": "2026-08-21T13:37:52.000Z"
+      "id": "of8sv2",
+      "title": "The DOJ is investigating a16z. What does this mean for venture capital?",
+      "summary": "Andreessen Horowitz has two partners sitting on the boards of companies that now compete with each other: Ben Horowitz at Databricks and Martin Casado at Fivetran. Nothing too scandalous on the surface, except the Department of Justice has reportedly been investigating the arrangement for almost a year, dusting off a 112-year-old antitrust law that’s rarely used against VCs. Board conflicts aren’t exactly new, and these companies weren’t necessarily direct competitors when a16z first invested…",
+      "imageUrl": "https://images.unsplash.com/photo-1620712943543-bcc4688e7485?w=800&q=80",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/podcast/the-doj-is-investigating-a16z-what-does-this-mean-for-venture-capital/",
+      "publishedAt": "2026-08-21T14:00:00.000Z"
+    },
+    {
+      "id": "e0zpcm",
+      "title": "Waymo doubles spending on lobbying in robotaxi battle with Uber",
+      "summary": "Alphabet-owned company is seeking to persuade US regulators to clear a path for fully autonomous taxi services.",
+      "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2026/08/ftcms_8bad1114-5b27-4fc9-8102-1cb63e7f76fb-1152x648.jpeg",
+      "source": "Ars Technica",
+      "sourceUrl": "https://arstechnica.com/cars/2026/08/waymo-doubles-spending-on-lobbying-in-robotaxi-battle-with-uber/",
+      "publishedAt": "2026-08-21T13:11:35.000Z"
     },
     {
       "id": "j33t9y",
@@ -156,10 +165,10 @@
       "publishedAt": "2026-08-20T17:32:16.000Z"
     },
     {
-      "id": "bnkd99",
-      "title": "A third of web pages published since ChatGPT’s launch show signs of AI authorship, study finds",
+      "id": "8aj2qs",
+      "title": "A third of web pages published since ChatGPT launched were written by AI, study finds",
       "summary": "ChatGPT and other AI models are now authoring and editing much of the new web.",
-      "imageUrl": "https://images.unsplash.com/photo-1550751827-4bd374c3f58b?w=800&q=80",
+      "imageUrl": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=800&q=80",
       "source": "TechCrunch",
       "sourceUrl": "https://techcrunch.com/2026/08/20/a-third-of-webpages-published-since-chatgpts-launch-show-signs-of-ai-authorship-study-finds/",
       "publishedAt": "2026-08-20T17:18:58.000Z"
@@ -273,15 +282,6 @@
       "publishedAt": "2026-08-20T09:47:22.000Z"
     },
     {
-      "id": "4x38i7",
-      "title": "Binance now lets AI agents trade, but keeping them in check is largely up to users",
-      "summary": "Binance's Agent OS works with tools such as ChatGPT, Claude Code, and Cursor.",
-      "imageUrl": "https://images.unsplash.com/photo-1531746790095-6c10a4031c5f?w=800&q=80",
-      "source": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/08/20/binance-now-lets-ai-agents-trade-but-keeping-them-in-check-is-largely-up-to-users/",
-      "publishedAt": "2026-08-20T09:30:00.000Z"
-    },
-    {
       "id": "49a46k",
       "title": "Support networks aim to help kids through the polycrisis",
       "summary": "Sometime in the late 2000s, Pim Sullivan-Tailyour was sitting in the back of a car, headed toward her great-grandmother’s tiny town in the south of Thailand. She watched big mountains pass by out the window. She was just six years old but was about to be hit by an adult-size realization. “They were just quarried…",
@@ -379,6 +379,15 @@
       "source": "The Verge",
       "sourceUrl": "https://www.theverge.com/entertainment/981644/robin-williams-instagram-account-ai",
       "publishedAt": "2026-08-18T19:48:26.000Z"
+    },
+    {
+      "id": "9wzhgx",
+      "title": "OpenAI lays out new security changes after its AI hacked Hugging Face",
+      "summary": "OpenAI is announcing security updates following the July news that its AI broke out of a sandboxed environment and accidentally hacked Hugging Face, including improvements to its research environments, monitoring, and alignment techniques. The company had already put the brakes on a new model, Astra, that it thinks could have \"critical\" cybersecurity capabilities, and the company says it instituted a two-week pause in reinforcement learning (RL) training on its \"latest models intended for…",
+      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/03/STK155_OPEN_AI_CVirginia__C.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "source": "The Verge",
+      "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/981640/openai-security-changes-ai-hugging-face-hack",
+      "publishedAt": "2026-08-18T19:28:30.000Z"
     },
     {
       "id": "o18inf",
@@ -532,15 +541,6 @@
       "source": "Ars Technica",
       "sourceUrl": "https://arstechnica.com/security/2026/07/likely-illegally-claude-gained-access-to-3-networks-will-anthropic-be-held-to-account/",
       "publishedAt": "2026-07-31T20:39:14.000Z"
-    },
-    {
-      "id": "h6gp7s",
-      "title": "Max-severity Exchange server flaw under active exploitation by Kremlin hackers",
-      "summary": "Exploits can give persistent server access that survives credential rotation and disk re-imaging.",
-      "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2023/07/exploit-vulnerability-security.jpg",
-      "source": "Ars Technica",
-      "sourceUrl": "https://arstechnica.com/security/2026/07/kremlin-hackers-are-exploiting-exchange-flaw-to-backdoor-unpatched-networks/",
-      "publishedAt": "2026-07-30T20:57:22.000Z"
     }
   ]
 }
