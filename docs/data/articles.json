@@ -1,7 +1,16 @@
 {
-  "fetchedAt": "2026-08-22T21:28:09.733Z",
+  "fetchedAt": "2026-08-22T21:51:02.656Z",
   "count": 60,
   "articles": [
+    {
+      "id": "ycm4ku",
+      "title": "Harvard’s $699 startup bootcamp offers AI avatars of its instructors",
+      "summary": "In the HBS Foundry program, AI avatars provide feedback during practice pitches and board meetings.",
+      "imageUrl": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=800&q=80",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/08/22/harvards-699-startup-bootcamp-offers-ai-avatars-of-its-instructors/",
+      "publishedAt": "2026-08-22T21:46:56.000Z"
+    },
     {
       "id": "h4199h",
       "title": "Inherent, founded by DeepMind alumni, says its AI ‘teammate’ just outperformed Anthropic and OpenAI at replicating research",
@@ -226,15 +235,6 @@
       "source": "Wired",
       "sourceUrl": "https://www.wired.com/story/silicon-valley-doesnt-get-why-you-hate-ai/",
       "publishedAt": "2026-08-20T18:49:07.000Z"
-    },
-    {
-      "id": "sr3jty",
-      "title": "Linkdaze’s smart calendar is built to run a household, not just track a schedule",
-      "summary": "Linkdaze's smart digital calendar stands out for not putting its features behind a paywall, including an AI meal planner tool.",
-      "imageUrl": "https://images.unsplash.com/photo-1531746790095-6c10a4031c5f?w=800&q=80",
-      "source": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/08/20/linkdazes-smart-calendar-is-built-to-run-a-household-not-just-track-a-schedule/",
-      "publishedAt": "2026-08-20T18:20:35.000Z"
     },
     {
       "id": "ort7qy",
