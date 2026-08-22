@@ -1,7 +1,25 @@
 {
-  "fetchedAt": "2026-08-22T15:28:00.675Z",
+  "fetchedAt": "2026-08-22T16:32:49.845Z",
   "count": 60,
   "articles": [
+    {
+      "id": "tauqow",
+      "title": "OpenAI says California should strengthen its AI safety bill",
+      "summary": "OpenAI is calling for California to strengthen SB 53, an AI safety bill that the company previously opposed.",
+      "imageUrl": "https://images.unsplash.com/photo-1526374965328-7f61d4dc18c5?w=800&q=80",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/08/22/openai-says-california-should-strengthen-its-ai-safety-bill/",
+      "publishedAt": "2026-08-22T16:30:34.000Z"
+    },
+    {
+      "id": "s7yyur",
+      "title": "Frontier AI labs still won’t say how they’d contain a rogue model",
+      "summary": "A new study finds leading AI labs have few publicly documented plans for containing rogue models, raising questions about preparedness as AI systems increasingly demonstrate unexpected and potentially dangerous behavior.",
+      "imageUrl": "https://images.unsplash.com/photo-1635070041078-e363dbe005cb?w=800&q=80",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/08/22/frontier-ai-labs-still-wont-say-how-theyd-contain-a-rogue-model/",
+      "publishedAt": "2026-08-22T16:00:00.000Z"
+    },
     {
       "id": "i7u4ya",
       "title": "The Unlikely Place at the Center of China’s AI Boom",
@@ -48,21 +66,21 @@
       "publishedAt": "2026-08-21T19:43:39.000Z"
     },
     {
-      "id": "1wa9ya",
-      "title": "Starcloud raises $250 million for orbital data centers as launch options dry up",
-      "summary": "There's about to be a big fight to secure access to space.",
-      "imageUrl": "https://images.unsplash.com/photo-1526374965328-7f61d4dc18c5?w=800&q=80",
-      "source": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/08/21/starcloud-raises-200-million-for-orbital-data-centers-as-launch-options-dry-up/",
-      "publishedAt": "2026-08-21T14:00:00.000Z"
-    },
-    {
       "id": "of8sv2",
       "title": "The DOJ is investigating a16z. What does this mean for venture capital?",
       "summary": "Andreessen Horowitz has two partners sitting on the boards of companies that now compete with each other: Ben Horowitz at Databricks and Martin Casado at Fivetran. Nothing too scandalous on the surface, except the Department of Justice has reportedly been investigating the arrangement for almost a year, dusting off a 112-year-old antitrust law that’s rarely used against VCs. Board conflicts aren’t exactly new, and these companies weren’t necessarily direct competitors when a16z first invested…",
       "imageUrl": "https://images.unsplash.com/photo-1620712943543-bcc4688e7485?w=800&q=80",
       "source": "TechCrunch",
       "sourceUrl": "https://techcrunch.com/podcast/the-doj-is-investigating-a16z-what-does-this-mean-for-venture-capital/",
+      "publishedAt": "2026-08-21T14:00:00.000Z"
+    },
+    {
+      "id": "1wa9ya",
+      "title": "Starcloud raises $250 million for orbital data centers as launch options dry up",
+      "summary": "There's about to be a big fight to secure access to space.",
+      "imageUrl": "https://images.unsplash.com/photo-1526374965328-7f61d4dc18c5?w=800&q=80",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/08/21/starcloud-raises-200-million-for-orbital-data-centers-as-launch-options-dry-up/",
       "publishedAt": "2026-08-21T14:00:00.000Z"
     },
     {
@@ -217,24 +235,6 @@
       "source": "TechCrunch",
       "sourceUrl": "https://techcrunch.com/2026/08/20/grok-keeps-sending-gibberish-responses-to-users/",
       "publishedAt": "2026-08-20T17:32:16.000Z"
-    },
-    {
-      "id": "8aj2qs",
-      "title": "A third of web pages published since ChatGPT launched were written by AI, study finds",
-      "summary": "ChatGPT and other AI models are now authoring and editing much of the new web.",
-      "imageUrl": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=800&q=80",
-      "source": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/08/20/a-third-of-webpages-published-since-chatgpts-launch-show-signs-of-ai-authorship-study-finds/",
-      "publishedAt": "2026-08-20T17:18:58.000Z"
-    },
-    {
-      "id": "a4cp42",
-      "title": "Ramp launches its own AI model router, called Router",
-      "summary": "Ramp has launched its own AI model routing service, dubbed Router, that lets users and companies use and switch between various large language models via an API.",
-      "imageUrl": "https://images.unsplash.com/photo-1620712943543-bcc4688e7485?w=800&q=80",
-      "source": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/08/20/ramp-launches-its-own-ai-model-router-called-router/",
-      "publishedAt": "2026-08-20T16:46:00.000Z"
     },
     {
       "id": "ort7qy",
