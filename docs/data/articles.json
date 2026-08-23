@@ -1,7 +1,16 @@
 {
-  "fetchedAt": "2026-08-23T18:38:55.140Z",
+  "fetchedAt": "2026-08-23T19:27:13.959Z",
   "count": 60,
   "articles": [
+    {
+      "id": "g1asil",
+      "title": "Linkdaze’s smart calendar is built to run a household, not just track a schedule",
+      "summary": "Linkdaze's smart digital calendar stands out for not putting its features behind a paywall, including an AI meal planner tool.",
+      "imageUrl": "https://images.unsplash.com/photo-1531746790095-6c10a4031c5f?w=800&q=80",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/08/23/linkdazes-smart-calendar-is-built-to-run-a-household-not-just-track-a-schedule/",
+      "publishedAt": "2026-08-23T19:14:08.000Z"
+    },
     {
       "id": "1u7vl8",
       "title": "Flock CEO calls for ‘compromise’ as surveillance company faces growing backlash",
@@ -102,21 +111,21 @@
       "publishedAt": "2026-08-21T19:43:39.000Z"
     },
     {
-      "id": "1wa9ya",
-      "title": "Starcloud raises $250 million for orbital data centers as launch options dry up",
-      "summary": "There's about to be a big fight to secure access to space.",
-      "imageUrl": "https://images.unsplash.com/photo-1526374965328-7f61d4dc18c5?w=800&q=80",
-      "source": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/08/21/starcloud-raises-200-million-for-orbital-data-centers-as-launch-options-dry-up/",
-      "publishedAt": "2026-08-21T14:00:00.000Z"
-    },
-    {
       "id": "of8sv2",
       "title": "The DOJ is investigating a16z. What does this mean for venture capital?",
       "summary": "Andreessen Horowitz has two partners sitting on the boards of companies that now compete with each other: Ben Horowitz at Databricks and Martin Casado at Fivetran. Nothing too scandalous on the surface, except the Department of Justice has reportedly been investigating the arrangement for almost a year, dusting off a 112-year-old antitrust law that’s rarely used against VCs. Board conflicts aren’t exactly new, and these companies weren’t necessarily direct competitors when a16z first invested…",
       "imageUrl": "https://images.unsplash.com/photo-1620712943543-bcc4688e7485?w=800&q=80",
       "source": "TechCrunch",
       "sourceUrl": "https://techcrunch.com/podcast/the-doj-is-investigating-a16z-what-does-this-mean-for-venture-capital/",
+      "publishedAt": "2026-08-21T14:00:00.000Z"
+    },
+    {
+      "id": "1wa9ya",
+      "title": "Starcloud raises $250 million for orbital data centers as launch options dry up",
+      "summary": "There's about to be a big fight to secure access to space.",
+      "imageUrl": "https://images.unsplash.com/photo-1526374965328-7f61d4dc18c5?w=800&q=80",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/08/21/starcloud-raises-200-million-for-orbital-data-centers-as-launch-options-dry-up/",
       "publishedAt": "2026-08-21T14:00:00.000Z"
     },
     {
@@ -217,15 +226,6 @@
       "source": "The Verge",
       "sourceUrl": "https://www.theverge.com/tech/983088/google-discover-ai-chatbot-feed",
       "publishedAt": "2026-08-20T21:50:22.000Z"
-    },
-    {
-      "id": "zfc2tq",
-      "title": "OK, can we actually cool data centers with our pee?",
-      "summary": "Jason Kelce joked that people should cool data centers with their pee, rather than potable water -- but his suggestion is not completely ludicrous.",
-      "imageUrl": "https://images.unsplash.com/photo-1655720828018-edd2daec9349?w=800&q=80",
-      "source": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/08/20/ok-can-we-actually-cool-data-centers-with-our-pee/",
-      "publishedAt": "2026-08-20T20:53:13.000Z"
     },
     {
       "id": "6uxhzq",
