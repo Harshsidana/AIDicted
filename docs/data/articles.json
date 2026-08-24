@@ -1,7 +1,25 @@
 {
-  "fetchedAt": "2026-08-24T14:19:13.042Z",
+  "fetchedAt": "2026-08-24T15:10:56.552Z",
   "count": 60,
   "articles": [
+    {
+      "id": "ywfqv0",
+      "title": "OpenAI is building AI agents for everything. Will everyone use them?",
+      "summary": "Inside the frontier lab’s push to bring AI agents from software engineers to the masses.",
+      "imageUrl": "https://images.unsplash.com/photo-1485827404703-89b55fcc595e?w=800&q=80",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/08/24/openai-is-building-an-ai-agent-for-everything-will-everyone-use-them/",
+      "publishedAt": "2026-08-24T15:00:00.000Z"
+    },
+    {
+      "id": "n4ogha",
+      "title": "How to encourage smarter AI use in the classroom",
+      "summary": "This article is from Making AI Work, MIT Technology Review’s limited-run newsletter examining how to apply LLMs across industries. To receive it in your inbox, sign up here. Chatbots took many schools by surprise upon their release a few years ago. Suddenly, students carried an app in their phones that could magically answer almost any…",
+      "imageUrl": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=800&q=80",
+      "source": "MIT Tech Review",
+      "sourceUrl": "https://www.technologyreview.com/2026/08/24/1142630/ai-school-classroom-policies/",
+      "publishedAt": "2026-08-24T14:20:19.000Z"
+    },
     {
       "id": "b6cg4r",
       "title": "Hugging Face reportedly in talks to be acquired for $13B",
@@ -237,15 +255,6 @@
       "publishedAt": "2026-08-21T06:00:00.000Z"
     },
     {
-      "id": "2puyne",
-      "title": "AI data startup Micro1 reaches $500M gross run rate amid AI training boom",
-      "summary": "Surging demand for AI training data is driving rapid growth for the startup and its rivals.",
-      "imageUrl": "https://images.unsplash.com/photo-1526374965328-7f61d4dc18c5?w=800&q=80",
-      "source": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/08/20/ai-data-startup-micro1-reaches-500m-gross-run-rate-amid-ai-training-boom/",
-      "publishedAt": "2026-08-21T00:13:44.000Z"
-    },
-    {
       "id": "7p36h4",
       "title": "Google Discover is getting an AI chatbot-tuned feed",
       "summary": "Google will soon allow you to customize your Discover feed by describing what you want to see. The new feature, rolling out to the Google app in the \"coming days,\" will use AI to automatically tweak your feed and \"remember\" your preferences for future visits. You'll find the option within the three-dot menu on your Discover feed. As shown in a video shared by Google, tapping the feature will open a chatbot-style interface, where you'll be able to describe your preferences. The chatbot will…",
@@ -325,15 +334,6 @@
       "source": "MIT Tech Review",
       "sourceUrl": "https://www.technologyreview.com/2026/08/20/1142512/geologic-hydrogen-hunt/",
       "publishedAt": "2026-08-20T10:00:00.000Z"
-    },
-    {
-      "id": "mbpvr6",
-      "title": "Unlocking hidden revenue streams with market models",
-      "summary": "Each day, an airline transports tens of thousands of passengers on hundreds of flights. Often these are not straightforward point-to-point routes, with passengers requiring multiple connections. The airline can consider potentially hundreds of variables to price each of these journeys: demand, season, time of day, current events, global markets, and competitor airline activity to name…",
-      "imageUrl": "https://images.unsplash.com/photo-1531746790095-6c10a4031c5f?w=800&q=80",
-      "source": "MIT Tech Review",
-      "sourceUrl": "https://www.technologyreview.com/2026/08/20/1142070/unlocking-hidden-revenue-streams-with-market-models/",
-      "publishedAt": "2026-08-20T09:47:22.000Z"
     },
     {
       "id": "hd25lu",
