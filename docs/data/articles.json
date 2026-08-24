@@ -1,7 +1,16 @@
 {
-  "fetchedAt": "2026-08-24T17:59:31.094Z",
+  "fetchedAt": "2026-08-24T18:54:18.380Z",
   "count": 60,
   "articles": [
+    {
+      "id": "h6qjn2",
+      "title": "Instinct’s powerful AI assistant is raising privacy and security concerns",
+      "summary": "Early testers are raving about what Instinct can do, but some say the AI assistant’s sweeping access, broad terms and ability to act on users’ behalf come with uncomfortable trade-offs",
+      "imageUrl": "https://images.unsplash.com/photo-1620712943543-bcc4688e7485?w=800&q=80",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/08/24/instincts-powerful-ai-assistant-is-raising-privacy-and-security-concerns/",
+      "publishedAt": "2026-08-24T18:03:55.000Z"
+    },
     {
       "id": "sy75f5",
       "title": "Valor, Point72 back General Intuition at $6B valuation as AI startup pushes into robotics",
@@ -181,15 +190,6 @@
       "source": "The Verge",
       "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/983502/linkedin-ai-slop-button-one-million-people-message",
       "publishedAt": "2026-08-21T21:25:50.000Z"
-    },
-    {
-      "id": "5sb8un",
-      "title": "Nvidia just showed that the harness, not the AI model, is now the real hero",
-      "summary": "Nvidia research shows that AI agents can perform well, and not go off the deep end, through fine-tuning, even if the AI model isn't that great at the task.",
-      "imageUrl": "https://images.unsplash.com/photo-1531746790095-6c10a4031c5f?w=800&q=80",
-      "source": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/08/21/nvidia-just-showed-that-the-harness-not-the-ai-model-is-now-the-real-hero/",
-      "publishedAt": "2026-08-21T19:43:39.000Z"
     },
     {
       "id": "hheuof",
