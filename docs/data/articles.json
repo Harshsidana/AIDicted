@@ -1,7 +1,16 @@
 {
-  "fetchedAt": "2026-08-25T13:02:38.666Z",
+  "fetchedAt": "2026-08-25T14:21:33.811Z",
   "count": 60,
   "articles": [
+    {
+      "id": "iz6wzl",
+      "title": "OpenAI says its Jalapeño chip can power faster AI responses than the competition",
+      "summary": "OpenAI says its new AI chip, Jalape&ntilde;o, completes tasks more efficiently and returns responses faster than other AI systems, according to a blog post published on Tuesday. During a briefing with reporters, OpenAI hardware vice president Richard Ho said Jalape&ntilde;o offers the \"best of both worlds\" with lower latency and higher throughput, as AI systems typically \"have to make a trade-off between the two.\" First introduced in June, Jalape&ntilde;o is an Application-Specific Integrated…",
+      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/Jalapeno-chip-final.jpeg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "source": "The Verge",
+      "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/984290/openai-jalapeno-ai-chip-benchmarks",
+      "publishedAt": "2026-08-25T14:00:00.000Z"
+    },
     {
       "id": "fo8w6p",
       "title": "Accel-backed Keenable is indexing the web for AI agents",
@@ -397,15 +406,6 @@
       "source": "The Verge",
       "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/982323/openai-hit-brakes-voluntary-pacing-ai",
       "publishedAt": "2026-08-19T17:10:09.000Z"
-    },
-    {
-      "id": "9i3qci",
-      "title": "Meta AI is getting a Mac app",
-      "summary": "Meta AI can create content and make suggestions based on what it “sees” on your screen. | Image: Meta Meta is launching a new Mac app dedicated to its AI chatbot. In an announcement on Wednesday, Meta says you can share your window with its AI chatbot, which can provide suggestions, answer questions, or create content based on what's on your screen. Meta AI on the Mac also supports dictation across all apps. The launch comes as Meta makes its AI chatbot more like a productivity-focused assistant…",
-      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/MacApp_ScreenShare_0818.2.png?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "source": "The Verge",
-      "sourceUrl": "https://www.theverge.com/tech/982270/meta-ai-mac-app",
-      "publishedAt": "2026-08-19T17:00:00.000Z"
     },
     {
       "id": "sfy7py",
