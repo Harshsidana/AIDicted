@@ -1,7 +1,16 @@
 {
-  "fetchedAt": "2026-08-25T17:08:10.485Z",
+  "fetchedAt": "2026-08-25T17:58:32.990Z",
   "count": 60,
   "articles": [
+    {
+      "id": "vqcy41",
+      "title": "Claude Cowork finally remembers what you told the app in chat",
+      "summary": "Anthropic is giving Claude a shared memory across chat and Cowork, so users no longer have to repeatedly brief the AI on projects, preferences, and other context.",
+      "imageUrl": "https://images.unsplash.com/photo-1485827404703-89b55fcc595e?w=800&q=80",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/08/25/claude-cowork-finally-remembers-what-you-told-the-app-in-chat/",
+      "publishedAt": "2026-08-25T17:50:33.000Z"
+    },
     {
       "id": "6oj14m",
       "title": "Gamma acquires Accel-backed design startup Lica",
@@ -235,15 +244,6 @@
       "source": "TechCrunch",
       "sourceUrl": "https://techcrunch.com/2026/08/23/flock-ceo-calls-for-compromise-as-surveillance-company-faces-growing-backlash/",
       "publishedAt": "2026-08-23T15:30:00.000Z"
-    },
-    {
-      "id": "y2bzqa",
-      "title": "Is it legal to train AI models on copyrighted books? It’s complicated",
-      "summary": "Most published authors have, without their knowledge or consent, contributed to the development of the same AI tools that threaten to undermine their livelihoods. That seems illegal, right?",
-      "imageUrl": "https://images.unsplash.com/photo-1485827404703-89b55fcc595e?w=800&q=80",
-      "source": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/08/23/is-it-legal-to-train-ai-models-on-copyrighted-books-its-complicated/",
-      "publishedAt": "2026-08-23T15:00:00.000Z"
     },
     {
       "id": "i7u4ya",
