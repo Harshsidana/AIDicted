@@ -1,7 +1,16 @@
 {
-  "fetchedAt": "2026-08-25T17:58:32.990Z",
+  "fetchedAt": "2026-08-25T18:51:48.106Z",
   "count": 60,
   "articles": [
+    {
+      "id": "z93vr2",
+      "title": "Art and algorithms at Sotheby’s",
+      "summary": "Do fine art and high tech ever converge? At Sotheby’s they do, thanks to Kelly Shen ’17. Shen works in the growing field of art intelligence for the New York auction house. Shen builds algorithms to predict prices, using factors like buying trends and artists’ popularity. She has also worked on such efforts as cataloguing…",
+      "imageUrl": "https://images.unsplash.com/photo-1620712943543-bcc4688e7485?w=800&q=80",
+      "source": "MIT Tech Review",
+      "sourceUrl": "https://www.technologyreview.com/2026/08/25/1140908/art-and-algorithms-at-sothebys/",
+      "publishedAt": "2026-08-25T18:00:00.000Z"
+    },
     {
       "id": "vqcy41",
       "title": "Claude Cowork finally remembers what you told the app in chat",
@@ -306,15 +315,6 @@
       "imageUrl": "https://images.unsplash.com/photo-1635070041078-e363dbe005cb?w=800&q=80",
       "source": "MIT Tech Review",
       "sourceUrl": "https://www.technologyreview.com/2026/08/21/1142627/when-ai-designs-a-drug-who-gets-the-credit/",
-      "publishedAt": "2026-08-21T09:00:00.000Z"
-    },
-    {
-      "id": "pblsdq",
-      "title": "This company’s plans to deploy space mirrors could jeopardize the night sky for many",
-      "summary": "A company that plans to beam sunlight from space to Earth on demand might unintentionally brighten the night sky for many more people than intended, according to a new study. Later this year, the US company Reflect Orbital plans to launch a test satellite called Eärendil-1 that will extend an 18-by-18-meter mirror in orbit. The…",
-      "imageUrl": "https://images.unsplash.com/photo-1485827404703-89b55fcc595e?w=800&q=80",
-      "source": "MIT Tech Review",
-      "sourceUrl": "https://www.technologyreview.com/2026/08/21/1142755/space-mirrors-night-sky/",
       "publishedAt": "2026-08-21T09:00:00.000Z"
     },
     {
