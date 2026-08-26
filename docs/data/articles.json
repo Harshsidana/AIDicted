@@ -1,7 +1,25 @@
 {
-  "fetchedAt": "2026-08-26T16:01:45.054Z",
+  "fetchedAt": "2026-08-26T18:17:36.716Z",
   "count": 60,
   "articles": [
+    {
+      "id": "c98jei",
+      "title": "Candidates Are Signing a Pact Promising Action on Data Centers and AI Safety",
+      "summary": "More than 15 politicians from across the country have signed on to the AI Pact, vowing to regulate data centers and AI. “We’ve got to get this right,” says Senate candidate Dan Osborn of Nebraska.",
+      "imageUrl": "https://media.wired.com/photos/6a8ded27f4779156570e0f64/master/pass/Politics_Politicians%20Are%20Signing%20a%20Pact%20Against%20Data%20Center%20Giveaways_v1.jpg",
+      "source": "Wired",
+      "sourceUrl": "https://www.wired.com/story/candidates-are-signing-a-pact-promising-action-on-data-centers-and-ai-safety/",
+      "publishedAt": "2026-08-26T17:13:37.000Z"
+    },
+    {
+      "id": "3i20d7",
+      "title": "Google’s new AI transcription edits out your ‘ums’ and ‘ahs’",
+      "summary": "Google has updated Gemini Audio with new transcription capabilities that automatically detect specialized jargon and more than 85 languages. Gemini 3.5 Transcribe is a new addition to the Gemini family that follows the launch of 3.5 Live Translate, and comes as we're still waiting for Google to release the Gemini 3.5 Pro model that it promised to roll out in June. Google says that 3.5 Transcribe \"represents a major advancement from our previous transcription model, Chirp 3,\" especially regarding…",
+      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/02/STK255_Google_Gemini_D.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "source": "The Verge",
+      "sourceUrl": "https://www.theverge.com/tech/985186/google-gemini-3-5-transcribe-audio-ai",
+      "publishedAt": "2026-08-26T17:00:00.000Z"
+    },
     {
       "id": "sfz6k",
       "title": "Radar makes podcasts searchable — and usable by AI agents",
@@ -417,15 +435,6 @@
       "publishedAt": "2026-08-19T19:30:00.000Z"
     },
     {
-      "id": "zgwyn2",
-      "title": "Google Gemini is getting a dedicated student hub",
-      "summary": "As we're gearing up for back-to-school season, Google is rolling out a new dedicated student hub in Gemini. It's a one-stop repository for collecting research in a study notebook, creating flashcards, taking practice quizzes, and more. Google is also enhancing its study notebooks with support for graphs and images. It can even add test dates and deadlines to your Google Calendar based on your syllabus. Google is also adding Deep Research to Gemini Live. You can ask Gemini to generate complicated…",
-      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/Screenshot-2026-08-19-at-2.05.46-PM.png?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "source": "The Verge",
-      "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/982425/google-gemini-student-hub",
-      "publishedAt": "2026-08-19T19:00:00.000Z"
-    },
-    {
       "id": "sfy7py",
       "title": "Coders Say They Already Found Workarounds to Claude’s Invisible Watermarks",
       "summary": "Anthropic announced last week it would include invisible watermarks in AI-generated content to comply with new EU rules. Within hours, overrides were being touted online.",
@@ -442,15 +451,6 @@
       "source": "VentureBeat",
       "sourceUrl": "https://venturebeat.com/ai/venturebeat-names-rob-strechay-as-its-first-lead-analyst-expanding-its-enterprise-ai-research-push",
       "publishedAt": "2026-08-19T14:18:12.000Z"
-    },
-    {
-      "id": "yfkgwn",
-      "title": "Flock Has a Powerful New AI Tool for Police. We Got Its Code",
-      "summary": "Flock’s surveillance cameras have already sparked outrage. WIRED reconstructed its next-generation AI system, already in use by some police, to confirm it goes much further than tracking license plates.",
-      "imageUrl": "https://media.wired.com/photos/6a834e2ceca883ccd19e58fc/master/pass/Security_InsideNightshifttheAIAgentFlock_v1.gif",
-      "source": "Wired",
-      "sourceUrl": "https://www.wired.com/story/flock-safety-os-investigate/",
-      "publishedAt": "2026-08-19T09:00:00.000Z"
     },
     {
       "id": "dc6rn8",
