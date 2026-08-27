@@ -1,7 +1,61 @@
 {
-  "fetchedAt": "2026-08-26T20:59:32.909Z",
+  "fetchedAt": "2026-08-27T00:40:37.750Z",
   "count": 60,
   "articles": [
+    {
+      "id": "mrndv1",
+      "title": "Viral AI startup Instinct has raised $350 million at a $2.5 billion valuation",
+      "summary": "The startup is only a year old but it has already generated a massive amount of hype (and money) while also spurring privacy concerns.",
+      "imageUrl": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=800&q=80",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/08/26/viral-ai-startup-instinct-has-raised-350-million-at-a-2-5-billion-valuation/",
+      "publishedAt": "2026-08-27T00:24:57.000Z"
+    },
+    {
+      "id": "99kftd",
+      "title": "Amazon just tripled its order of Nvidia chips over ‘surging demand’",
+      "summary": "Amazon is adding another 2 million Nvidia GPU chips to its data centers over the next two years. But this extended partnerships stretches beyond buying more chips.",
+      "imageUrl": "https://images.unsplash.com/photo-1676299081847-824916de030a?w=800&q=80",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/08/26/amazon-just-tripled-its-order-of-nvidia-chips-over-surging-demand/",
+      "publishedAt": "2026-08-26T23:47:18.000Z"
+    },
+    {
+      "id": "dlwh3a",
+      "title": "Nvidia is about to be a hundred-billion-dollar-a-quarter company",
+      "summary": "Nvidia's predicting it will pull in $108 billion in revenue within just a few months. It wouldn't be the first company to rake in over $100 billion in quarterly revenue - Amazon, Apple, and Alphabet have repeatedly reached the milestone. Nvidia said in its latest earnings report that it brought in a record $96.2 billion in overall revenue in the past quarter, a jump of over $10 billion from the previous quarter. Its data center revenue alone more than doubled year-over-year to a record $89…",
+      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/06/STK083_NVIDIA_2.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "source": "The Verge",
+      "sourceUrl": "https://www.theverge.com/tech/985387/nvidia-hundred-billion-dollar-quarterly-revenue",
+      "publishedAt": "2026-08-26T21:40:53.000Z"
+    },
+    {
+      "id": "78ed3e",
+      "title": "Anthropic continues compute-gobbling streak in $45B deal with Nscale",
+      "summary": "The new deal with the infrastructure provider is the latest example of Anthropic's white-hot compute-gobbling streak.",
+      "imageUrl": "https://images.unsplash.com/photo-1676299081847-824916de030a?w=800&q=80",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/08/26/anthropic-continues-compute-gobbling-streak-in-45-billion-deal-with-nscale/",
+      "publishedAt": "2026-08-26T21:37:39.000Z"
+    },
+    {
+      "id": "paioqi",
+      "title": "OpenAI’s rogue AI model incident was worse than we thought",
+      "summary": "OpenAI released a report breaking down how people use ChatGPT and who they are. | Image: The Verge In July, an unreleased OpenAI model broke out of a restricted environment, figured out how to get access to the internet, allowed AI agents to talk to each other using a secret \"message board,\" and hacked into the internal systems of a different AI lab, Hugging Face. It took nearly two weeks for OpenAI to find out about any of it. Over a month later, two new reports offer nearly 130 pages of…",
+      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/04/STK_414_AI_CHATBOT_R2_CVirginia_B.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "source": "The Verge",
+      "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/985385/openais-rogue-ai-model-hugging-face-cybersecurity-incident-reports-metr",
+      "publishedAt": "2026-08-26T21:36:06.000Z"
+    },
+    {
+      "id": "xccbnd",
+      "title": "AI agents meant to replace Meta workers made “large-scale, disruptive actions”",
+      "summary": "Report shows Meta's challenges replacing people with AI agents.",
+      "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2026/08/GettyImages-2171717886-1152x648.jpg",
+      "source": "Ars Technica",
+      "sourceUrl": "https://arstechnica.com/ai/2026/08/metas-scrapped-plans-to-go-ai-native-included-slashing-teams-by-60-percent/",
+      "publishedAt": "2026-08-26T21:25:27.000Z"
+    },
     {
       "id": "rxprdr",
       "title": "Google’s Gemini has a branding problem, and so does the rest of AI",
@@ -219,33 +273,6 @@
       "publishedAt": "2026-08-26T07:01:00.000Z"
     },
     {
-      "id": "rb2nl1",
-      "title": "India’s Ringg gets backing from Peak XV as it pushes voice AI past the phone call",
-      "summary": "Ringg has raised $10 million from Peak XV as a part of its Series A extension.",
-      "imageUrl": "https://images.unsplash.com/photo-1655720828018-edd2daec9349?w=800&q=80",
-      "source": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/08/25/indias-ringg-gets-backing-from-peak-xv-as-it-pushes-voice-ai-past-the-phone-call/",
-      "publishedAt": "2026-08-26T03:30:00.000Z"
-    },
-    {
-      "id": "aoxc4y",
-      "title": "Robotics startup Generalist reaches $3B valuation, sources say",
-      "summary": "The $200 million extension comes just months after the physical AI startup reached a $2 billion valuation.",
-      "imageUrl": "https://images.unsplash.com/photo-1635070041078-e363dbe005cb?w=800&q=80",
-      "source": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/08/25/robotics-startup-generalist-reaches-3b-valuation-sources-say/",
-      "publishedAt": "2026-08-26T00:40:59.000Z"
-    },
-    {
-      "id": "qhe2y9",
-      "title": "OpenAI loses a top data center exec as stream of high-profile departures continues",
-      "summary": "In a statement to TechCrunch about Malone's departure, OpenAI said it had \"recently reorganized\" its \"infrastructure organization to support the scale and pace of our work.\"",
-      "imageUrl": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=800&q=80",
-      "source": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/08/25/openai-loses-a-top-data-center-exec-as-stream-of-high-profile-departures-continues/",
-      "publishedAt": "2026-08-26T00:06:20.000Z"
-    },
-    {
       "id": "uk9p3z",
       "title": "Addressing a sticking point in sustainable adhesives",
       "summary": "Petroleum-based adhesives are everywhere: bonding the wood and drywall in a construction project, holding together the joints of furniture, and even sticking labels to otherwise recyclable containers. “The labels on a container are held up with petroleum-based glue. And because of that, even though you’re putting the container in the recycle bin, it will not…",
@@ -417,15 +444,6 @@
       "publishedAt": "2026-08-20T15:45:55.000Z"
     },
     {
-      "id": "ekik0z",
-      "title": "Welcome to the AI crisis in math",
-      "summary": "Today on Decoder, I’m talking with Robert Hart, The Verge’s London-based AI reporter, about what AI is doing to the field of mathematics and the existential crisis many lead mathematicians are having about it. OpenAI just published a set of solutions to longstanding problems in math that went off like a bombshell in the field. It caused a huge debate in the math community, and Rob spent some time talking to some of the most accomplished mathematicians of our time about it. It’s funny that AI…",
-      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/DCD_082026_Site.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "source": "The Verge",
-      "sourceUrl": "https://www.theverge.com/podcast/982434/ai-math-openai-astra-existential-crisis",
-      "publishedAt": "2026-08-20T14:00:00.000Z"
-    },
-    {
       "id": "d5c4sm",
       "title": "Grok exfiltrates user data when malicious instructions are encrypted",
       "summary": "Cryptographic Context Injection is only the latest way to break an LLM safety guardrail.",
@@ -433,15 +451,6 @@
       "source": "Ars Technica",
       "sourceUrl": "https://arstechnica.com/security/2026/08/grok-exfiltrates-user-data-when-malicious-instructions-are-encrypted/",
       "publishedAt": "2026-08-20T13:00:35.000Z"
-    },
-    {
-      "id": "es2opv",
-      "title": "Slack is launching collaborative vibe-coding channels",
-      "summary": "Slack is introducing dedicated channels where teams can vibe-code together with AI agents instead of jumping between different tools and conversations. The Slack Code launch includes open, project-specific code channels with dedicated user tabs, alongside features that compare coding changes and preview HTML output before the project is shipped. \"With Slack Code, when you have an idea or need to build a new feature, update a web page, or fix a bug, you simply tag in a coding agent like…",
-      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/23988538/acastro_STK060_slack_04.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "source": "The Verge",
-      "sourceUrl": "https://www.theverge.com/tech/982628/slack-code-vibe-coding-channels-launch",
-      "publishedAt": "2026-08-20T12:00:00.000Z"
     },
     {
       "id": "1867ox",
@@ -532,15 +541,6 @@
       "source": "Ars Technica",
       "sourceUrl": "https://arstechnica.com/security/2026/08/chrome-adopts-what-may-be-the-best-protection-yet-against-account-takeovers/",
       "publishedAt": "2026-08-11T20:59:52.000Z"
-    },
-    {
-      "id": "3npfnq",
-      "title": "New Pass-ta-key attack reveals all the things we didn't know about passkeys",
-      "summary": "Why passkey apps treat Windows differently than other operating systems.",
-      "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2023/05/passkey-target-illustration-1152x648.jpg",
-      "source": "Ars Technica",
-      "sourceUrl": "https://arstechnica.com/security/2026/08/heres-why-the-new-pass-ta-key-attack-is-mostly-a-nothingburger/",
-      "publishedAt": "2026-08-11T11:30:08.000Z"
     }
   ]
 }
