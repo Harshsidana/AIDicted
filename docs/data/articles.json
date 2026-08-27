@@ -1,12 +1,210 @@
 {
-  "fetchedAt": "2026-08-27T11:06:36.576Z",
+  "fetchedAt": "2026-08-27T21:07:32.423Z",
   "count": 60,
   "articles": [
+    {
+      "id": "5ehtuw",
+      "title": "Barret Zoph, the Thinking Machines co-founder who defected to OpenAI, is now at Google",
+      "summary": "Zoph, who co-founded Thinking Machines Lab alongside Mira Murati and also served as the startup's CTO, led a brief stint at OpenAI and is now at Google.",
+      "imageUrl": "https://images.unsplash.com/photo-1531746790095-6c10a4031c5f?w=800&q=80",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/08/27/barret-zoph-the-thinking-machines-co-founder-who-defected-to-openai-is-now-at-google/",
+      "publishedAt": "2026-08-27T19:52:52.000Z"
+    },
+    {
+      "id": "utx5ub",
+      "title": "A startup claims it’s found a drug to make your blood young",
+      "summary": "I knew I’d officially become a ‘longevity influencer’ this month when a company called Generation Lab reached out to offer me the chance to write about—and even receive—their new rejuvenation treatment, an injectable combination of two existing drugs which they call 1-Generation. This wasn’t just any antiaging treatment, either. A company fact sheet says that it…",
+      "imageUrl": "https://images.unsplash.com/photo-1531746790095-6c10a4031c5f?w=800&q=80",
+      "source": "MIT Tech Review",
+      "sourceUrl": "https://www.technologyreview.com/2026/08/27/1143037/startup-claims-its-found-a-drug-to-make-your-blood-young/",
+      "publishedAt": "2026-08-27T19:48:13.000Z"
+    },
+    {
+      "id": "ayhkpk",
+      "title": "A Georgia Cop Used Flock to Track 2 Other Cops: His Ex and Her Friend",
+      "summary": "After an affair with a fellow police officer ended, a Georgia cop used Flock to track her movements—and those of a man whose vehicle often showed up near hers, internal investigation records show.",
+      "imageUrl": "https://media.wired.com/photos/6a8d9086ba467cf540f2c239/master/pass/082526_Flock-Camera-Stalking-Police.jpg",
+      "source": "Wired",
+      "sourceUrl": "https://www.wired.com/story/a-georgia-cop-used-flock-to-track-2-other-cops-his-ex-and-her-friend/",
+      "publishedAt": "2026-08-27T18:12:17.000Z"
+    },
+    {
+      "id": "i1hoe8",
+      "title": "This Is How Anthropic Thinks AI Agents Should Navigate the Physical World",
+      "summary": "The potential for AI to automate scientific research and manufacturing must be balanced with new risks, Anthropic says.",
+      "imageUrl": "https://media.wired.com/photos/6a906eb1933ab0cdef306043/master/pass/Anthropic-Releases-Tool-To-Let-AI-Agents-Loose-Business-2192443120.jpg",
+      "source": "Wired",
+      "sourceUrl": "https://www.wired.com/story/anthropic-standard-ai-agents-coming-to-the-physical-world/",
+      "publishedAt": "2026-08-27T18:06:52.000Z"
+    },
+    {
+      "id": "f81tah",
+      "title": "OpenAI, Anthropic, Google, and 100 other companies call for action to defend against rogue AI",
+      "summary": "Some of the world's largest tech companies and AI startups have come together to decry the current state of cybersecurity and to advertise a new solution that they say can ward off a new generation of cyber threats.",
+      "imageUrl": "https://images.unsplash.com/photo-1550751827-4bd374c3f58b?w=800&q=80",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/08/27/openai-anthropic-google-and-100-other-companies-call-for-action-to-defend-against-rogue-ai/",
+      "publishedAt": "2026-08-27T17:43:24.000Z"
+    },
+    {
+      "id": "iq608n",
+      "title": "OpenAI Is Developing a ‘Persistent’ AI Agent",
+      "summary": "Code reviewed by WIRED reveals the company is developing a feature that enables Codex to continue working proactively until it is “put to sleep.”",
+      "imageUrl": "https://media.wired.com/photos/6a905cdd60f4c0fdadcc5237/master/pass/Model-Behavior-Illo-Template.jpg",
+      "source": "Wired",
+      "sourceUrl": "https://www.wired.com/story/openai-is-developing-a-persistent-ai-agent/",
+      "publishedAt": "2026-08-27T16:52:42.000Z"
+    },
+    {
+      "id": "huzsbe",
+      "title": "Jensen Huang says Nvidia achieved AGI, again — not that it matters",
+      "summary": "On Nvidia's earnings call Wednesday, CEO Jensen Huang casually announced the company had \"achieved AGI,\" one of the tech industry's ultimate goals some of its biggest players have spent years chasing. Almost immediately, Huang dismissed the coveted milestone as \"senseless.\" He's right. For the supposed finish line of the AI race, there is no consensus on what artificial general intelligence means, let alone how we'll know when we've actually got there, which makes achieving it equally arbitrary.…",
+      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/STKP210_JENSEN_HUANG_D.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "source": "The Verge",
+      "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/985597/jensen-huang-says-nvidia-achieved-senseless-agi",
+      "publishedAt": "2026-08-27T16:15:52.000Z"
+    },
+    {
+      "id": "xb4xr2",
+      "title": "Google’s AI Mode can now track flight prices, help book hotels, and more",
+      "summary": "The updates indicate that Google is looking to position AI Mode as an AI travel agent of sorts, as it's moving beyond simply helping users find information to actually handling parts of the trip-planning and booking process.",
+      "imageUrl": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=800&q=80",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/08/27/googles-ai-mode-can-now-track-flight-prices-help-book-hotels-and-more/",
+      "publishedAt": "2026-08-27T16:00:00.000Z"
+    },
+    {
+      "id": "4kdb8m",
+      "title": "Hugging Face is selling a cute $399 open source duck robot, Microduck",
+      "summary": "Clem Delangue, CEO of Hugging Face, said the Microduck is an “open-source robot you can teach new tricks with reinforcement learning.”",
+      "imageUrl": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=800&q=80",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/08/27/hugging-face-is-selling-a-cute-399-open-source-duck-robot-microduck/",
+      "publishedAt": "2026-08-27T14:56:52.000Z"
+    },
+    {
+      "id": "wo01j5",
+      "title": "AI’s memory crunch is coming for Android apps",
+      "summary": "Google is setting new memory-use limits for Android apps as AI data centers contribute to hardware shortages that could leave lower-cost phones with less memory.",
+      "imageUrl": "https://images.unsplash.com/photo-1620712943543-bcc4688e7485?w=800&q=80",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/08/27/ais-memory-crunch-is-coming-for-android-apps/",
+      "publishedAt": "2026-08-27T14:27:04.000Z"
+    },
+    {
+      "id": "gefiu3",
+      "title": "Here’s all the times AI has gone rogue and hacked other companies",
+      "summary": "A recap of all the incidents involving LLMs made by Anthropic, Meta, and OpenAI, which went rogue and attacked real companies and individuals on the internet.",
+      "imageUrl": "https://images.unsplash.com/photo-1655720828018-edd2daec9349?w=800&q=80",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/08/27/heres-all-the-times-ai-has-gone-rogue-and-hacked-other-companies/",
+      "publishedAt": "2026-08-27T14:01:42.000Z"
+    },
+    {
+      "id": "zicwvn",
+      "title": "Enterprise AI's real risk isn't autonomous agents. It's the complexity between them.",
+      "summary": "Presented by Gravitee Agent complexity is the insidious shadow lurking inside enterprises right now that needs a light shone on it.That’s because enterprises don't deploy a single agent and watch it run, they deploy fleets, each one calling APIs, calling other agents, reaching into applications that were never built with a machine decision-maker in mind. That's the failure mode that should keep you up at night: a windy, complicated system nobody can see clearly enough to govern. But why do…",
+      "imageUrl": "https://images.ctfassets.net/jdtwqhzvc2n1/5ScHW6mZ2rQr3EvsxrwooK/43df8725b6e12cd4bcf550bb7b3b1cb4/Gravitee_hero.jpg?w=300&q=30",
+      "source": "VentureBeat",
+      "sourceUrl": "https://venturebeat.com/ai/enterprise-ais-real-risk-isnt-autonomous-agents-its-the-complexity-between-them",
+      "publishedAt": "2026-08-27T14:01:00.000Z"
+    },
+    {
+      "id": "gywdx9",
+      "title": "Claude, Codex, and Hermes installed unowned code inside corporate networks",
+      "summary": "227 install commands were found in corporate docs pointing at code nobody owns.",
+      "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2026/02/gatekeeping-ai-agents-1152x648.jpg",
+      "source": "Ars Technica",
+      "sourceUrl": "https://arstechnica.com/security/2026/08/claude-codex-and-hermes-installed-unowned-code-inside-corporate-networks/",
+      "publishedAt": "2026-08-27T14:00:13.000Z"
+    },
+    {
+      "id": "stb05j",
+      "title": "OpenAI’s executive exodus has one big winner",
+      "summary": "Today on Decoder, I’m talking to Verge senior AI reporter Hayden Field about some pure Decoder bait: the seemingly-endless org chart changes at OpenAI, and how all of them seem to consolidate power under cofounder Greg Brockman, the company’s president. While Sam Altman is the CEO and still OpenAI’s most public face, Brockman has amassed enormous power and influence within the top ranks of the company as other senior leaders have left in rapid succession these past few months. Verge subscribers,…",
+      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/VRG_DCD_082726_site.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "source": "The Verge",
+      "sourceUrl": "https://www.theverge.com/podcast/985332/openai-greg-brockman-sam-altman-leader-executive-exodus",
+      "publishedAt": "2026-08-27T14:00:00.000Z"
+    },
+    {
+      "id": "vfm0w6",
+      "title": "Hugging Face’s new robot is an adorable rollerskating duck",
+      "summary": "Hugging Face's Pollen Robotics has launched its second cute AI robot, the Microduck, a one-eyed biped standing just under 10 inches tall. It's available to preorder now for $399 in cream, graphite, lavender, and sky blue, and Pollen Robotics says it plans to start shipping the little robot \"before Christmas 2026.\" Video demos of the Microduck show it picking up socks and markers, kicking around a ball, and zipping around on tiny rollerskates. Pollen Robotics says it can also \"react to its…",
+      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/microduck-kickabout.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "source": "The Verge",
+      "sourceUrl": "https://www.theverge.com/gadgets/985549/hugging-face-microduck-robot",
+      "publishedAt": "2026-08-27T13:44:00.000Z"
+    },
+    {
+      "id": "rvfrcn",
+      "title": "Plaud is launching AI earbuds",
+      "summary": "Plaud has introduced a new AI wearable that's designed to record, transcribe, and summarize your conversations, only this time it looks like earbuds instead of a pin. The Plaud One Explorer Edition can be worn like traditional earbuds or used through its standalone charging case, and the case includes built-in 4G to upload and process conversations without relying on your phone or Wi-Fi to stay connected. Each earbud features 16MB of local storage (for a total of 32MB) and three microphones that…",
+      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/Plaud-One-earbuds-hero.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "source": "The Verge",
+      "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/985500/plaud-one-earbuds-ai-recorder-price-availability",
+      "publishedAt": "2026-08-27T13:11:23.000Z"
+    },
+    {
+      "id": "g4p8b0",
+      "title": "Plaud’s new earphones come with an eSIM-enabled case for talking to AI agents",
+      "summary": "Called Plaud One, these adopt the simple bare-bones style of Apple's AirPods, and can record calls, while their case can be used to record in-person conversations or take notes.",
+      "imageUrl": "https://images.unsplash.com/photo-1635070041078-e363dbe005cb?w=800&q=80",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/08/27/plauds-new-earphones-come-with-an-esim-enabled-case-for-talking-to-ai-agents/",
+      "publishedAt": "2026-08-27T13:00:00.000Z"
+    },
+    {
+      "id": "bc4cuh",
+      "title": "Adobe is adding more AI to Photoshop",
+      "summary": "Adobe is rolling out an AI-heavy update for Photoshop that includes a new \"optional\" interface dedicated to its AI tools. Launching in beta, the \"AI Assisted Editor\" view will show all of Photoshop's AI features in a single toolbar, including its prompt-based image editor, background remover, an AI image extender, and more. There are also new ways to refine edits with AI, including a \"markup\" feature to draw directly on an image to show Photoshop's AI assistant what you'd like to change. That…",
+      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/AI-Assisted-Editor_Static.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "source": "The Verge",
+      "sourceUrl": "https://www.theverge.com/tech/985491/adobe-photoshop-ai-assisted-editor-markup",
+      "publishedAt": "2026-08-27T13:00:00.000Z"
+    },
+    {
+      "id": "un6reo",
+      "title": "How OpenAI let a mob of LLM agents game a test and ransack Hugging Face",
+      "summary": "Without authorization, 1,200 OpenAI agents conspired among themselves to game a test.",
+      "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2026/07/GettyImages-1004669768-1152x648-1784927041.jpg",
+      "source": "Ars Technica",
+      "sourceUrl": "https://arstechnica.com/security/2026/08/how-openai-let-a-mob-of-llm-agents-game-a-test-and-ransack-hugging-face/",
+      "publishedAt": "2026-08-27T12:58:59.000Z"
+    },
+    {
+      "id": "w9pjrb",
+      "title": "The Download: inside OpenAI’s Hugging Face hack, and a new EV takes on the US",
+      "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. The inside story on why OpenAI agents hacked Hugging Face The models responsible for last month’s agent hack of Hugging Face had been inadvertently trained to cheat and to communicate with…",
+      "imageUrl": "https://images.unsplash.com/photo-1531746790095-6c10a4031c5f?w=800&q=80",
+      "source": "MIT Tech Review",
+      "sourceUrl": "https://www.technologyreview.com/2026/08/27/1143033/the-download-openai-hugging-face-hack-slate-truck-ev/",
+      "publishedAt": "2026-08-27T12:10:00.000Z"
+    },
+    {
+      "id": "jkljjc",
+      "title": "When agents act on their own, governance has to live in the data layer",
+      "summary": "Presented by EDB As enterprises give AI agents more autonomy — the ability to plan, decide, and act across systems without a human approving each step — a hard question moves to the center of every architecture review: When an agent tries to complete an action that it was never authorized to do, what actually stops it?These are your agents, running on your models, touching your data in your infrastructure — and the responsibility for what they do sits with you. That responsibility can’t be met…",
+      "imageUrl": "https://images.ctfassets.net/jdtwqhzvc2n1/9VRh8KJhBqcFviSV8ClXc/feea8ec8fe76ffa0bc5cdb3dd95e1492/EDB_hero.jpeg?w=300&q=30",
+      "source": "VentureBeat",
+      "sourceUrl": "https://venturebeat.com/security/when-agents-act-on-their-own-governance-has-to-live-in-the-data-layer",
+      "publishedAt": "2026-08-27T12:01:00.000Z"
+    },
+    {
+      "id": "q6kt80",
+      "title": "OpenAI to start showing ads on ChatGPT’s free and Go tiers in India",
+      "summary": "OpenAI has more than 100 million weekly active ChatGPT users in India, a huge chunk of whom are on the free or the lower-priced Go tiers.",
+      "imageUrl": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=800&q=80",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/08/27/openai-to-start-showing-ads-on-chatgpts-free-and-go-tiers-in-india/",
+      "publishedAt": "2026-08-27T11:35:59.000Z"
+    },
     {
       "id": "auoixr",
       "title": "Submit Your Questions: The Great Data Center Backlash",
       "summary": "You have questions about data centers, and WIRED has answers. Join our livestream on September 10 and our panel of experts will tell you everything you need to know.",
-      "imageUrl": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=800&q=80",
+      "imageUrl": "https://media.wired.com/photos/6a8f77afa84e455f12fd9a48/master/pass/livestream_ama_data_centers.jpg",
       "source": "Wired",
       "sourceUrl": "https://www.wired.com/story/livestream-the-great-data-center-backlash/",
       "publishedAt": "2026-08-27T11:00:00.000Z"
@@ -32,7 +230,7 @@
     {
       "id": "xk7sfm",
       "title": "Nvidia closes in on Hugging Face acquisition",
-      "summary": "Nvidia has reportedly agreed to buy Hugging Face, the popular open-source AI hub, for $12.9 billion in a move that would let Nvidia both protect its chip empire and jump back into the cloud business.",
+      "summary": "Nvidia has reportedly agreed to buy Hugging Face, the popular open source AI hub, for $12.9 billion in a move that would let Nvidia both protect its chip empire and jump back into the cloud business.",
       "imageUrl": "https://images.unsplash.com/photo-1655720828018-edd2daec9349?w=800&q=80",
       "source": "TechCrunch",
       "sourceUrl": "https://techcrunch.com/2026/08/26/nvidia-closes-in-on-hugging-face-acquisition/",
@@ -174,33 +372,6 @@
       "publishedAt": "2026-08-26T17:00:00.000Z"
     },
     {
-      "id": "sfz6k",
-      "title": "Radar makes podcasts searchable — and usable by AI agents",
-      "summary": "Particle’s new podcast intelligence platform transcribes and analyzes more than 130,000 podcasts, making their conversations searchable on the web and accessible to AI agents through an API and MCP.",
-      "imageUrl": "https://images.unsplash.com/photo-1526374965328-7f61d4dc18c5?w=800&q=80",
-      "source": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/08/26/radar-makes-podcasts-searchable-and-usable-by-ai-agents/",
-      "publishedAt": "2026-08-26T15:47:28.000Z"
-    },
-    {
-      "id": "kc7vu8",
-      "title": "Ex-Meta scientists want to bring visual AI to the factory floor",
-      "summary": "Perceptron offers an AI model that it says can help machines navigate the world while also providing in-depth visual intelligence.",
-      "imageUrl": "https://images.unsplash.com/photo-1531746790095-6c10a4031c5f?w=800&q=80",
-      "source": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/08/26/ex-meta-scientists-want-to-bring-visual-ai-to-the-factory-floor/",
-      "publishedAt": "2026-08-26T15:00:00.000Z"
-    },
-    {
-      "id": "h8x4ox",
-      "title": "Bill Gates wants to see a robot tax and ‘Human Reserved’ jobs to mitigate harms from AI",
-      "summary": "Gates is mostly in the Responsible AI camp, but there are a few ideas in here we hadn't heard before.",
-      "imageUrl": "https://images.unsplash.com/photo-1655720828018-edd2daec9349?w=800&q=80",
-      "source": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/08/26/bill-gates-wants-to-see-a-robot-tax-and-human-reserved-jobs-to-mitigate-harms-from-ai/",
-      "publishedAt": "2026-08-26T14:37:01.000Z"
-    },
-    {
       "id": "otdqte",
       "title": "Orchestration is the new challenge for CX in the age of AI agents",
       "summary": "Presented by Tata Communications Enterprises are deploying AI agents, voice AI, and automation across messaging, voice, and digital channels faster than the architecture meant to support it. Most of that deployment has involved attaching conversational AI to legacy systems never built for it, says Gaurav Anand, global head of the Customer Interaction Suite at Tata Communications.\"In the rush to deploy AI, organizations have largely bolted conversational AI onto legacy systems,\" Anand says. \"As a…",
@@ -210,42 +381,6 @@
       "publishedAt": "2026-08-26T14:30:00.000Z"
     },
     {
-      "id": "yo0m7a",
-      "title": "Surprise: Z.ai is the AI lab behind the mysterious Ox Alpha model",
-      "summary": "Z.ai confirms it is behind Ox Alpha, the mysterious open AI model topping benchmarks and leaderboards, and its weights are set to be released soon.",
-      "imageUrl": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=800&q=80",
-      "source": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/08/26/surprise-z-ai-is-the-ai-lab-behind-the-mysterious-ox-alpha-model/",
-      "publishedAt": "2026-08-26T14:19:29.000Z"
-    },
-    {
-      "id": "abvxqb",
-      "title": "Robot brain builders are pushing out of their GPT-2 era",
-      "summary": "Robot bodies are waiting for their AI brains to catch up.",
-      "imageUrl": "https://images.unsplash.com/photo-1550751827-4bd374c3f58b?w=800&q=80",
-      "source": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/08/26/robot-brain-builders-are-pushing-out-of-their-gpt-2-era/",
-      "publishedAt": "2026-08-26T13:30:00.000Z"
-    },
-    {
-      "id": "2ruc03",
-      "title": "QueryStory wants you to believe what AI is telling you",
-      "summary": "The startup came out of stealth with $6 million in seed funding and a plan to use LLMs and cybersecurity know-how to make AI queries coherent.",
-      "imageUrl": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=800&q=80",
-      "source": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/08/26/querystory-wants-you-to-believe-what-ai-is-telling-you/",
-      "publishedAt": "2026-08-26T13:00:00.000Z"
-    },
-    {
-      "id": "dgfxg4",
-      "title": "Arga Labs is building a better way to train enterprise AI agents",
-      "summary": "Arga has raised $10 million in a seed funding round that was led by General Catalyst, with participation from Box Group, Emergence, Gradient and SV Angel.",
-      "imageUrl": "https://images.unsplash.com/photo-1620712943543-bcc4688e7485?w=800&q=80",
-      "source": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/08/26/arga-is-building-a-better-way-to-train-enterprise-ai-agents/",
-      "publishedAt": "2026-08-26T12:55:28.000Z"
-    },
-    {
       "id": "l52nmp",
       "title": "The Download: the Kids issue arrives, and Bill Gates reveals his AI fears",
       "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. Introducing: the Kids issue If the desire to limit kids’ use of technology was once a subcurrent, it has become a raging flood. Countries around the world are banning children from…",
@@ -253,15 +388,6 @@
       "source": "MIT Tech Review",
       "sourceUrl": "https://www.technologyreview.com/2026/08/26/1143000/the-download-kids-issue-launch-bill-gates-ai-fears/",
       "publishedAt": "2026-08-26T12:10:00.000Z"
-    },
-    {
-      "id": "9pgvx6",
-      "title": "Hearing tech startup Legato emerges from stealth with $12M and a peek at its AI hearing glasses",
-      "summary": "The glasses, called Legato Frames, integrate the company’s patented hearing-assistance technology into the arms of eyewear frames.",
-      "imageUrl": "https://images.unsplash.com/photo-1635070041078-e363dbe005cb?w=800&q=80",
-      "source": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/08/26/hearing-tech-startup-legato-emerges-from-stealth-with-12m-and-a-peek-at-its-ai-hearing-glasses/",
-      "publishedAt": "2026-08-26T12:00:00.000Z"
     },
     {
       "id": "k3w2dl",
@@ -327,24 +453,6 @@
       "publishedAt": "2026-08-25T21:00:00.000Z"
     },
     {
-      "id": "l3m3dp",
-      "title": "Launching youth entrepreneurship",
-      "summary": "Even as a teenager, Laurie Stach ’06 says, she had a “crazy ambition to take on the world and solve problems.” At MIT, she realized she wasn’t the only one. “Adults always see these youth who are good at math and science and say, ‘You’re going to do great things—someday,’” says Stach. “Meanwhile, traditional education…",
-      "imageUrl": "https://images.unsplash.com/photo-1620712943543-bcc4688e7485?w=800&q=80",
-      "source": "MIT Tech Review",
-      "sourceUrl": "https://www.technologyreview.com/2026/08/25/1140911/launching-youth-entrepreneurship/",
-      "publishedAt": "2026-08-25T21:00:00.000Z"
-    },
-    {
-      "id": "yoztfd",
-      "title": "A new stamp on cyberfraud prevention",
-      "summary": "For Rupert Young ’95, SM ’95, his career in data science and cybersecurity began when his grandfather gifted him thousands of stamps: He built intricate databases to catalogue them, displaying the “precise eye” for detail and nuance that his MIT application essay said would make him a good engineer. Young is now chief product officer…",
-      "imageUrl": "https://images.unsplash.com/photo-1635070041078-e363dbe005cb?w=800&q=80",
-      "source": "MIT Tech Review",
-      "sourceUrl": "https://www.technologyreview.com/2026/08/25/1140914/a-new-stamp-on-cyberfraud-prevention/",
-      "publishedAt": "2026-08-25T21:00:00.000Z"
-    },
-    {
       "id": "iz6wzl",
       "title": "OpenAI says its Jalapeño chip can power faster AI responses than the competition",
       "summary": "OpenAI says its new AI chip, Jalape&ntilde;o, completes tasks more efficiently and returns responses faster than other AI systems, according to a blog post published on Tuesday. During a briefing with reporters, OpenAI hardware vice president Richard Ho said Jalape&ntilde;o offers the \"best of both worlds\" with lower latency and higher throughput, as AI systems typically \"have to make a trade-off between the two.\" First introduced in June, Jalape&ntilde;o is an Application-Specific Integrated…",
@@ -352,33 +460,6 @@
       "source": "The Verge",
       "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/984290/openai-jalapeno-ai-chip-benchmarks",
       "publishedAt": "2026-08-25T14:00:00.000Z"
-    },
-    {
-      "id": "wlqysj",
-      "title": "It Should Be Harder to Apply for a Job. No, Really",
-      "summary": "Thanks to a dwindling supply of open roles, “one-click” applications, and the rise of artificial intelligence, it’s easier than ever to apply for a job. We’re all paying the price.",
-      "imageUrl": "https://media.wired.com/photos/6a84e66df285f2dc95adad96/master/pass/Recruiters-Want-It-To-Be-Harder-To-Apply-For-a-Job-Business.jpg",
-      "source": "Wired",
-      "sourceUrl": "https://www.wired.com/story/applying-for-a-job-is-too-damn-easy/",
-      "publishedAt": "2026-08-25T09:30:00.000Z"
-    },
-    {
-      "id": "kt3tdb",
-      "title": "OpenAI subpoenaed by Alabama AG over Hugging Face hack",
-      "summary": "Alabama's attorney general issued a subpoena to OpenAI on Monday as part of an investigation into how one of its AI agents escaped a supposedly secure testing environment and autonomously hacked another company last month. The investigation seeks to determine whether OpenAI's safety practices violated state consumer protection laws and pose a risk to Alabama citizens, the AG's office said in a statement. \"This AI lab leak showed that Alabamians' and Americans' worst fears about artificial…",
-      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/STK155_OPEN_AI_CVirginia_C-1.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "source": "The Verge",
-      "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/984239/alabama-attorney-general-subpoena-openai-hugging-face-hack",
-      "publishedAt": "2026-08-25T09:15:03.000Z"
-    },
-    {
-      "id": "6skka2",
-      "title": "Spirit Airlines Wants to Sell Its Data to Google. Former Flight Attendants Are Freaked Out",
-      "summary": "“It never crossed my mind that they would be so bold as to sell our private data for AI,” says one former Spirit Airlines flight attendant.",
-      "imageUrl": "https://media.wired.com/photos/6a8c0dfe87be8a9e28b0d0b1/master/pass/GettyImages-2274586366.jpg",
-      "source": "Wired",
-      "sourceUrl": "https://www.wired.com/story/spirit-airlines-wants-to-sell-its-data-to-google-former-flight-attendants-are-freaked-out/",
-      "publishedAt": "2026-08-25T09:15:00.000Z"
     },
     {
       "id": "yt1ote",
@@ -390,33 +471,6 @@
       "publishedAt": "2026-08-24T19:19:21.000Z"
     },
     {
-      "id": "ix0hkg",
-      "title": "They Dedicated Their Lives to Teaching. Then the Deepfakes Started",
-      "summary": "The deepfake epidemic in schools is affecting more than students. Four teachers tell WIRED about becoming targets of sexualized, AI-generated content—and how difficult it was to find accountability.",
-      "imageUrl": "https://media.wired.com/photos/6a7658f0de0a40f999466656/master/pass/080726-teachers-deepfakes-ai.gif",
-      "source": "Wired",
-      "sourceUrl": "https://www.wired.com/story/teachers-deepfake-ai-students-content/",
-      "publishedAt": "2026-08-24T09:30:00.000Z"
-    },
-    {
-      "id": "ev5llm",
-      "title": "Over 1 million people have clicked LinkedIn’s AI slop button",
-      "summary": "LinkedIn actually announced a \"Seems like AI slop\" button on July 30th, and the company says that a lot of people have already used it. According to a Thursday post from chief product officer Hari Srinivasan, \"over a million people\" have clicked on the button, which is accessible from the three dots menu on a post. LinkedIn announced the button a few weeks after AI detector Pangram determined that 41 percent of LinkedIn's longform posts were flagged as fully AI generated, which 404 Media…",
-      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/1785424232227.jpeg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "source": "The Verge",
-      "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/983502/linkedin-ai-slop-button-one-million-people-message",
-      "publishedAt": "2026-08-21T21:25:50.000Z"
-    },
-    {
-      "id": "hheuof",
-      "title": "Major YouTube creators are facing backlash for accepting AI money",
-      "summary": "A still from Sam Kolder’s video “AI is replacing me.” | Screenshot: The Verge, YouTube Over the past few days, a number of prominent filmmaking content creators including Matti Haapoja and Sam \"Kold\" Kolder have posted videos of themselves demonstrating what's possible with AI platform Higgsfield. The videos highlight Higgsfield's recently added Seedance 2.5 functionality and pitch these technologies as the future of video production. In response to these videos, other creators started sharing…",
-      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/ai-label_eb9dbb.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "source": "The Verge",
-      "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/983181/matti-haapoja-sam-kold-kolder-higgsfield-seedance-backlash",
-      "publishedAt": "2026-08-21T13:37:52.000Z"
-    },
-    {
       "id": "e0zpcm",
       "title": "Waymo doubles spending on lobbying in robotaxi battle with Uber",
       "summary": "Alphabet-owned company is seeking to persuade US regulators to clear a path for fully autonomous taxi services.",
@@ -424,24 +478,6 @@
       "source": "Ars Technica",
       "sourceUrl": "https://arstechnica.com/cars/2026/08/waymo-doubles-spending-on-lobbying-in-robotaxi-battle-with-uber/",
       "publishedAt": "2026-08-21T13:11:35.000Z"
-    },
-    {
-      "id": "7p36h4",
-      "title": "Google Discover is getting an AI chatbot-tuned feed",
-      "summary": "Google will soon allow you to customize your Discover feed by describing what you want to see. The new feature, rolling out to the Google app in the \"coming days,\" will use AI to automatically tweak your feed and \"remember\" your preferences for future visits. You'll find the option within the three-dot menu on your Discover feed. As shown in a video shared by Google, tapping the feature will open a chatbot-style interface, where you'll be able to describe your preferences. The chatbot will…",
-      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/Screenshot-2026-08-20-at-5.37.35-PM.png?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "source": "The Verge",
-      "sourceUrl": "https://www.theverge.com/tech/983088/google-discover-ai-chatbot-feed",
-      "publishedAt": "2026-08-20T21:50:22.000Z"
-    },
-    {
-      "id": "ort7qy",
-      "title": "It’s Greg Brockman’s OpenAI now",
-      "summary": "OpenAI has had a hell of a year. The company spent months battling former cofounder Elon Musk in a sensational jury trial, was hit with a high-profile trade secrets lawsuit from Apple, and faced widespread scrutiny after an unreleased model hacked another AI company. As it prepares for an IPO, a steady string of executives have departed, including some of the company's biggest names. Throughout it all, one person has quietly amassed power: Greg Brockman. Brockman is currently OpenAI's president…",
-      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/05/STKP221_GREG_BROCKMAN2.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "source": "The Verge",
-      "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/982774/greg-brockman-openai-role-expansion",
-      "publishedAt": "2026-08-20T15:45:55.000Z"
     },
     {
       "id": "d5c4sm",
@@ -505,42 +541,6 @@
       "source": "Ars Technica",
       "sourceUrl": "https://arstechnica.com/ai/2026/08/openai-and-anthropic-in-price-war-as-chinese-ai-rivals-gain-ground/",
       "publishedAt": "2026-08-14T14:27:14.000Z"
-    },
-    {
-      "id": "l0kivp",
-      "title": "Private security firms will soon be allowed to hack overseas cybercriminals",
-      "summary": "Trump memo is first time gov't has authorized private sector to perform cyberattacks.",
-      "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2026/07/security-illustration-skull-1152x648-1783710141.jpg",
-      "source": "Ars Technica",
-      "sourceUrl": "https://arstechnica.com/security/2026/08/white-house-recruits-security-firms-to-hack-overseas-cybercriminals/",
-      "publishedAt": "2026-08-13T19:38:58.000Z"
-    },
-    {
-      "id": "ll0443",
-      "title": "Terabytes of credentials leaked in massive supply-chain attack",
-      "summary": "The data was scraped and exfiltrated from 2,500 users of a compromised AI package.",
-      "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2021/07/data-breach.jpeg",
-      "source": "Ars Technica",
-      "sourceUrl": "https://arstechnica.com/security/2026/08/terabytes-of-credentials-leaked-in-massive-supply-chain-attack/",
-      "publishedAt": "2026-08-12T21:43:21.000Z"
-    },
-    {
-      "id": "xllfpo",
-      "title": "DEF CON crowd suspected in fake-hotspot attack on Delta flight",
-      "summary": "FBI Atlanta confirms it's looking into the incident, no arrests made.",
-      "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2021/07/GettyImages-1233218421-scaled-1152x648-1786493250.jpg",
-      "source": "Ars Technica",
-      "sourceUrl": "https://arstechnica.com/information-technology/2026/08/def-con-crowd-suspected-in-fake-hotspot-attack-on-delta-flight/",
-      "publishedAt": "2026-08-12T00:08:40.000Z"
-    },
-    {
-      "id": "1ydqmh",
-      "title": "Chrome adopts what may be the best protection yet against account takeovers",
-      "summary": "Device-bound session credentials thwart an increasingly common form of account takeover.",
-      "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2026/08/phishing-account-takeover-1152x648.jpg",
-      "source": "Ars Technica",
-      "sourceUrl": "https://arstechnica.com/security/2026/08/chrome-adopts-what-may-be-the-best-protection-yet-against-account-takeovers/",
-      "publishedAt": "2026-08-11T20:59:52.000Z"
     }
   ]
 }
