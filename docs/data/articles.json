@@ -1,7 +1,25 @@
 {
-  "fetchedAt": "2026-08-29T18:18:22.523Z",
+  "fetchedAt": "2026-08-29T21:05:41.668Z",
   "count": 60,
   "articles": [
+    {
+      "id": "7eizgq",
+      "title": "Sony Music, Warner sue Anthropic, alleging a “brazen campaign” of intellectual property theft",
+      "summary": "This latest lawsuit is particularly broad and homes in on accusations of illegal piracy.",
+      "imageUrl": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=800&q=80",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/08/29/sony-music-warner-sue-anthropic-alleging-a-brazen-campaign-of-intellectual-property-theft/",
+      "publishedAt": "2026-08-29T18:41:59.000Z"
+    },
+    {
+      "id": "34h0e0",
+      "title": "Sony Music and Warner Chappell are suing Anthropic",
+      "summary": "Sony Music and Warner Chappell have filed suit against Anthropic in the US District Court for the Northern District of California seeking damages for \"tens of thousands\" copyrighted works. The companies are asking for up to $150,000 per work, plus up to $25,000 for each instance when identifiable copyright data was stripped. In total, the damages could amount to several billion dollars if a court finds in Sony and Warner's favor and awards the maximum amount. This is just the latest high-profile…",
+      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/01/STK269_ANTHROPIC_2_A.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "source": "The Verge",
+      "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/986438/sony-music-warner-chappell-anthropic-lawsuit-copyright",
+      "publishedAt": "2026-08-29T18:19:53.000Z"
+    },
     {
       "id": "5p7nku",
       "title": "“We’re not doing 30 bets a year”: Vijay Pande on betting small after running $4 billion at a16z",
@@ -345,15 +363,6 @@
       "publishedAt": "2026-08-27T13:11:23.000Z"
     },
     {
-      "id": "g4p8b0",
-      "title": "Plaud’s new earphones come with an eSIM-enabled case for talking to AI agents",
-      "summary": "Called Plaud One, these adopt the simple bare-bones style of Apple's AirPods, and can record calls, while their case can be used to record in-person conversations or take notes.",
-      "imageUrl": "https://images.unsplash.com/photo-1635070041078-e363dbe005cb?w=800&q=80",
-      "source": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/08/27/plauds-new-earphones-come-with-an-esim-enabled-case-for-talking-to-ai-agents/",
-      "publishedAt": "2026-08-27T13:00:00.000Z"
-    },
-    {
       "id": "bc4cuh",
       "title": "Adobe is adding more AI to Photoshop",
       "summary": "Adobe is rolling out an AI-heavy update for Photoshop that includes a new \"optional\" interface dedicated to its AI tools. Launching in beta, the \"AI Assisted Editor\" view will show all of Photoshop's AI features in a single toolbar, including its prompt-based image editor, background remover, an AI image extender, and more. There are also new ways to refine edits with AI, including a \"markup\" feature to draw directly on an image to show Photoshop's AI assistant what you'd like to change. That…",
@@ -397,15 +406,6 @@
       "source": "MIT Tech Review",
       "sourceUrl": "https://www.technologyreview.com/2026/08/27/1142953/electric-truck-slate-auto/",
       "publishedAt": "2026-08-27T10:00:00.000Z"
-    },
-    {
-      "id": "dlwh3a",
-      "title": "Nvidia is about to be a hundred-billion-dollar-a-quarter company",
-      "summary": "Nvidia's predicting it will pull in $108 billion in revenue within just a few months. It wouldn't be the first company to rake in over $100 billion in quarterly revenue - Amazon, Apple, and Alphabet have repeatedly reached the milestone. Nvidia said in its latest earnings report that it brought in a record $96.2 billion in overall revenue in the past quarter, a jump of over $10 billion from the previous quarter. Its data center revenue alone more than doubled year-over-year to a record $89…",
-      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/06/STK083_NVIDIA_2.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "source": "The Verge",
-      "sourceUrl": "https://www.theverge.com/tech/985387/nvidia-hundred-billion-dollar-quarterly-revenue",
-      "publishedAt": "2026-08-26T21:40:53.000Z"
     },
     {
       "id": "xccbnd",
