@@ -1,7 +1,16 @@
 {
-  "fetchedAt": "2026-08-29T14:39:12.198Z",
+  "fetchedAt": "2026-08-29T18:18:22.523Z",
   "count": 60,
   "articles": [
+    {
+      "id": "5p7nku",
+      "title": "“We’re not doing 30 bets a year”: Vijay Pande on betting small after running $4 billion at a16z",
+      "summary": "Vijay Pande — who left a16z's roughly $4 billion biotech practice last year to start the much smaller, AI-native VZVC — talks about why biology is finally shifting from a \"discovery\" science to an \"engineering\" one, why clinical trials are still brutally expensive, and why he thinks open, shared datasets (not walled-off ones) are what will actually let AI transform medicine.",
+      "imageUrl": "https://images.unsplash.com/photo-1531746790095-6c10a4031c5f?w=800&q=80",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/08/29/were-not-doing-30-bets-a-year-vijay-pande-on-betting-small-after-running-4-billion-at-a16z/",
+      "publishedAt": "2026-08-29T17:36:47.000Z"
+    },
     {
       "id": "lj9g0z",
       "title": "Nvidia’s AI advantage is moving beyond the GPU",
@@ -379,15 +388,6 @@
       "source": "VentureBeat",
       "sourceUrl": "https://venturebeat.com/security/when-agents-act-on-their-own-governance-has-to-live-in-the-data-layer",
       "publishedAt": "2026-08-27T12:01:00.000Z"
-    },
-    {
-      "id": "q6kt80",
-      "title": "OpenAI to start showing ads on ChatGPT’s free and Go tiers in India",
-      "summary": "OpenAI has more than 100 million weekly active ChatGPT users in India, a huge chunk of whom are on the free or the lower-priced Go tiers.",
-      "imageUrl": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=800&q=80",
-      "source": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/08/27/openai-to-start-showing-ads-on-chatgpts-free-and-go-tiers-in-india/",
-      "publishedAt": "2026-08-27T11:35:59.000Z"
     },
     {
       "id": "di15w8",
