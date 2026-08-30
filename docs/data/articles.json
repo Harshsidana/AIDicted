@@ -1,7 +1,16 @@
 {
-  "fetchedAt": "2026-08-30T05:05:07.770Z",
+  "fetchedAt": "2026-08-30T10:37:34.950Z",
   "count": 60,
   "articles": [
+    {
+      "id": "92hvn6",
+      "title": "Why the Hottest New Wearables Want to Be Ignored",
+      "summary": "Burnt out on wrist buzzes and notification overload? A new crop of minimalist wearables promises to collect your health data without demanding your attention.",
+      "imageUrl": "https://media.wired.com/photos/6a8f1c5ba84e455f12fd962b/master/pass/NoScreenWearable.jpg",
+      "source": "Wired",
+      "sourceUrl": "https://www.wired.com/story/why-the-hottest-new-wearables-want-to-be-ignored/",
+      "publishedAt": "2026-08-30T10:30:00.000Z"
+    },
     {
       "id": "7eizgq",
       "title": "Sony Music, Warner sue Anthropic, alleging a “brazen campaign” of intellectual property theft",
@@ -262,15 +271,6 @@
       "source": "TechCrunch",
       "sourceUrl": "https://techcrunch.com/2026/08/27/openai-anthropic-google-and-100-other-companies-call-for-action-to-defend-against-rogue-ai/",
       "publishedAt": "2026-08-27T17:43:24.000Z"
-    },
-    {
-      "id": "iq608n",
-      "title": "OpenAI Is Developing a ‘Persistent’ AI Agent",
-      "summary": "Code reviewed by WIRED reveals the company is developing a feature that enables Codex to continue working proactively until it is “put to sleep.”",
-      "imageUrl": "https://media.wired.com/photos/6a905cdd60f4c0fdadcc5237/master/pass/Model-Behavior-Illo-Template.jpg",
-      "source": "Wired",
-      "sourceUrl": "https://www.wired.com/story/openai-is-developing-a-persistent-ai-agent/",
-      "publishedAt": "2026-08-27T16:52:42.000Z"
     },
     {
       "id": "huzsbe",
