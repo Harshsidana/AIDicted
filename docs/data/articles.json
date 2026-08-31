@@ -1,7 +1,16 @@
 {
-  "fetchedAt": "2026-08-31T19:55:28.207Z",
+  "fetchedAt": "2026-08-31T23:43:07.190Z",
   "count": 60,
   "articles": [
+    {
+      "id": "98wyqi",
+      "title": "The Pentagon now has its own version of ChatGPT and Grok",
+      "summary": "Versions of OpenAI's ChatGPT and SpaceXAI's Grok will join Google's Gemini on the Pentagon's central portal for AI tools.",
+      "imageUrl": "https://images.unsplash.com/photo-1485827404703-89b55fcc595e?w=800&q=80",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/08/31/the-pentagon-now-has-its-own-version-of-chatgpt-and-grok/",
+      "publishedAt": "2026-08-31T20:13:45.000Z"
+    },
     {
       "id": "feo6dz",
       "title": "Instagram puts new limits on undisclosed AI profiles",
@@ -21,13 +30,22 @@
       "publishedAt": "2026-08-31T18:35:11.000Z"
     },
     {
-      "id": "3abmo1",
-      "title": "Hugging Face hack could indicate cultural issues at OpenAI",
+      "id": "4xo0hc",
+      "title": "The Hugging Face hack could indicate cultural issues at OpenAI",
       "summary": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here. By now you’ve probably heard about last month’s major AI security incident, in which OpenAI agents escaped their sandbox and hacked into the AI platform Hugging Face while trying to cheat on…",
-      "imageUrl": "https://images.unsplash.com/photo-1676299081847-824916de030a?w=800&q=80",
+      "imageUrl": "https://images.unsplash.com/photo-1620712943543-bcc4688e7485?w=800&q=80",
       "source": "MIT Tech Review",
       "sourceUrl": "https://www.technologyreview.com/2026/08/31/1143180/hugging-face-hack-could-indicate-cultural-issues-at-openai/",
       "publishedAt": "2026-08-31T18:00:00.000Z"
+    },
+    {
+      "id": "lhpucb",
+      "title": "Think twice before installing this device promising free movies",
+      "summary": "In exchange for free stuff, devices make home connections part of a proxy network.",
+      "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2026/08/superbox-s7-pro-1152x648.webp",
+      "source": "Ars Technica",
+      "sourceUrl": "https://arstechnica.com/security/2026/08/how-some-media-streaming-devices-open-home-networks-to-a-world-of-harm/",
+      "publishedAt": "2026-08-31T16:33:38.000Z"
     },
     {
       "id": "a3f30d",
@@ -244,15 +262,6 @@
       "source": "TechCrunch",
       "sourceUrl": "https://techcrunch.com/2026/08/28/an-anthropic-researcher-just-gave-us-a-peek-at-self-improving-ai/",
       "publishedAt": "2026-08-28T19:30:38.000Z"
-    },
-    {
-      "id": "qj754f",
-      "title": "Open-weight AI companies are the Valley’s hottest acquisition targets",
-      "summary": "There's a lot of capital pouring into the business of giving models away.",
-      "imageUrl": "https://images.unsplash.com/photo-1676299081847-824916de030a?w=800&q=80",
-      "source": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/08/28/open-weight-ai-companies-are-the-valleys-hottest-acquisition-targets/",
-      "publishedAt": "2026-08-28T18:19:40.000Z"
     },
     {
       "id": "ekircu",
@@ -532,15 +541,6 @@
       "source": "Ars Technica",
       "sourceUrl": "https://arstechnica.com/security/2026/08/vulnerability-giving-attackers-full-control-of-macs-is-under-active-exploitation/",
       "publishedAt": "2026-08-14T18:32:14.000Z"
-    },
-    {
-      "id": "xrd5e",
-      "title": "PBS station fears losing 50TB of data after being ghosted by cloud storage provider",
-      "summary": "\"We don't have access to the data on the hardware/servers,\" Iron Mountain told Ars.",
-      "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2026/08/GettyImages-2269291893-1024x648.jpg",
-      "source": "Ars Technica",
-      "sourceUrl": "https://arstechnica.com/information-technology/2026/08/pbs-station-fears-losing-50tb-of-data-after-being-ghosted-by-cloud-storage-provider/",
-      "publishedAt": "2026-08-14T17:03:54.000Z"
     }
   ]
 }
