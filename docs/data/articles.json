@@ -1,7 +1,34 @@
 {
-  "fetchedAt": "2026-09-01T09:54:11.080Z",
+  "fetchedAt": "2026-09-01T14:42:42.725Z",
   "count": 60,
   "articles": [
+    {
+      "id": "xwc92c",
+      "title": "Making the AI-powered case for legacy modernization",
+      "summary": "For years, legacy technology has been a problem companies knew they needed to solve, but one they often struggled to tackle. The cost, complexity, and risk of replacing business-critical systems could make modernization feel like a disruption to manage instead of an opportunity to pursue. But with the rise in customer expectations and the changes…",
+      "imageUrl": "https://images.unsplash.com/photo-1526374965328-7f61d4dc18c5?w=800&q=80",
+      "source": "MIT Tech Review",
+      "sourceUrl": "https://www.technologyreview.com/2026/09/01/1142180/making-the-ai-powered-case-for-legacy-modernization/",
+      "publishedAt": "2026-09-01T14:00:00.000Z"
+    },
+    {
+      "id": "rmqh1o",
+      "title": "Nvidia’s controversial DLSS 5 arrives September 3rd and requires serious GPU horsepower",
+      "summary": "Nvidia is officially launching DLSS 5 this week, following a divisive announcement in March where we likened the AI upscaling tech to a \"real-time generative AI filter for video games\" and \"motion smoothing for video games, but worse.\" DLSS 5 will officially be available on RTX 50-series desktop and laptop GPUs and through GeForce Now cloud gaming, though the only game with the tech so far is NBA 2K27 - which is launching September 3rd at 9PM PT on PC. When it was announced, Nvidia lauded DLSS 5…",
+      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/nba-2k-image.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "source": "The Verge",
+      "sourceUrl": "https://www.theverge.com/tech/986378/nvidia-dlss-5-launch-nba-2k27",
+      "publishedAt": "2026-09-01T13:00:00.000Z"
+    },
+    {
+      "id": "z8xfbr",
+      "title": "The Download: engineered microbes for crops, and OpenAI’s culture problem",
+      "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. How engineered microbes could help feed the world’s crops Fertilizer is crucial for the global food supply, but making it uses a lot of energy and produces a lot of emissions.…",
+      "imageUrl": "https://images.unsplash.com/photo-1655720828018-edd2daec9349?w=800&q=80",
+      "source": "MIT Tech Review",
+      "sourceUrl": "https://www.technologyreview.com/2026/09/01/1143199/the-download-engineered-microbes-openai-safety-culture/",
+      "publishedAt": "2026-09-01T12:10:00.000Z"
+    },
     {
       "id": "cuhn2n",
       "title": "How engineered microbes could help feed the world’s crops",
@@ -363,15 +390,6 @@
       "publishedAt": "2026-08-27T19:48:13.000Z"
     },
     {
-      "id": "dl68n9",
-      "title": "Google’s AI note-taking app now allows you to interact with books",
-      "summary": "Google's AI note-taking app, Gemini Notebook, can now pull information from the books you've purchased. The new \"Expert Intelligence\" feature allows you to bring titles from Google Play Books directly into Gemini Notebook, which means you can ask questions about the material, as well as generate plans, infographics, AI podcasts, and more based on their contents. During a briefing with The Verge, Google Labs editorial director Steven Johnson showed how you can use the tool to generate a recipe…",
-      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/Expert-Intelligence-Hero.png?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "source": "The Verge",
-      "sourceUrl": "https://www.theverge.com/tech/985567/google-gemini-notebook-expert-sources-books",
-      "publishedAt": "2026-08-27T19:30:00.000Z"
-    },
-    {
       "id": "ayhkpk",
       "title": "A Georgia Cop Used Flock to Track 2 Other Cops: His Ex and Her Friend",
       "summary": "After an affair with a fellow police officer ended, a Georgia cop used Flock to track her movements—and those of a man whose vehicle often showed up near hers, internal investigation records show.",
@@ -460,24 +478,6 @@
       "source": "VentureBeat",
       "sourceUrl": "https://venturebeat.com/orchestration/orchestration-is-the-new-challenge-for-cx-in-the-age-of-ai-agents",
       "publishedAt": "2026-08-26T14:30:00.000Z"
-    },
-    {
-      "id": "l52nmp",
-      "title": "The Download: the Kids issue arrives, and Bill Gates reveals his AI fears",
-      "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. Introducing: the Kids issue If the desire to limit kids’ use of technology was once a subcurrent, it has become a raging flood. Countries around the world are banning children from…",
-      "imageUrl": "https://images.unsplash.com/photo-1531746790095-6c10a4031c5f?w=800&q=80",
-      "source": "MIT Tech Review",
-      "sourceUrl": "https://www.technologyreview.com/2026/08/26/1143000/the-download-kids-issue-launch-bill-gates-ai-fears/",
-      "publishedAt": "2026-08-26T12:10:00.000Z"
-    },
-    {
-      "id": "n0lpjz",
-      "title": "Raised on AI",
-      "summary": "When my oldest child was born, I immediately set up Gmail and Twitter accounts in her name. I broadly announced her birth online and proceeded to plaster her photo across all sorts of platforms. In short, I began creating her digital footprint long before she could stand on her own two feet. Fast-forward a couple…",
-      "imageUrl": "https://images.unsplash.com/photo-1655720828018-edd2daec9349?w=800&q=80",
-      "source": "MIT Tech Review",
-      "sourceUrl": "https://www.technologyreview.com/2026/08/26/1141949/editors-letter-september-2026/",
-      "publishedAt": "2026-08-26T09:00:00.000Z"
     },
     {
       "id": "yt1ote",
