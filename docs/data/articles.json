@@ -1,7 +1,25 @@
 {
-  "fetchedAt": "2026-08-31T23:43:07.190Z",
+  "fetchedAt": "2026-09-01T09:54:11.080Z",
   "count": 60,
   "articles": [
+    {
+      "id": "cuhn2n",
+      "title": "How engineered microbes could help feed the world’s crops",
+      "summary": "Fertilizer is crucial for the global food supply, but making it uses a lot of energy and produces a lot of emissions. Some companies hope microbes can help. A growing body of research shows that seeding the soil around a crop’s roots with beneficial microbes can help feed the plant, providing crucial nitrogen to help…",
+      "imageUrl": "https://images.unsplash.com/photo-1526374965328-7f61d4dc18c5?w=800&q=80",
+      "source": "MIT Tech Review",
+      "sourceUrl": "https://www.technologyreview.com/2026/09/01/1143195/microbe-fertilizer-switch-bioworks/",
+      "publishedAt": "2026-09-01T09:00:00.000Z"
+    },
+    {
+      "id": "f67h36",
+      "title": "Apple shares ‘shocking evidence’ against former employee accused of stealing company data for OpenAI",
+      "summary": "Apple says it has evidence that a former employee destroyed evidence of data theft after learning he was under investigation.",
+      "imageUrl": "https://images.unsplash.com/photo-1676299081847-824916de030a?w=800&q=80",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/08/31/apple-shares-shocking-evidence-against-former-employee-accused-of-stealing-company-data-for-openai/",
+      "publishedAt": "2026-09-01T00:13:00.000Z"
+    },
     {
       "id": "98wyqi",
       "title": "The Pentagon now has its own version of ChatGPT and Grok",
@@ -255,15 +273,6 @@
       "publishedAt": "2026-08-28T20:24:11.000Z"
     },
     {
-      "id": "301sze",
-      "title": "An Anthropic researcher just gave us a peek at self-improving AI",
-      "summary": "Given 10 benchmarks for specific misaligned behaviors, the automated systems were able to improve performance on every single one without degrading overall performance.",
-      "imageUrl": "https://images.unsplash.com/photo-1531746790095-6c10a4031c5f?w=800&q=80",
-      "source": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/08/28/an-anthropic-researcher-just-gave-us-a-peek-at-self-improving-ai/",
-      "publishedAt": "2026-08-28T19:30:38.000Z"
-    },
-    {
       "id": "ekircu",
       "title": "Trump’s EPA wants to let data centers hide their air pollution",
       "summary": "Just as new data centers face growing backlash from neighboring communities, the US Environmental Protection Agency (EPA) is about to make it harder for people to weigh in on any pollution those centers create. The EPA plans to toss out a federal rule requiring public notice and an opportunity to comment when certain industrial sites apply for an air permit. Advocates warn that the move would allow data center developers and other industries to break ground without giving nearby residents a say,…",
@@ -468,15 +477,6 @@
       "imageUrl": "https://images.unsplash.com/photo-1655720828018-edd2daec9349?w=800&q=80",
       "source": "MIT Tech Review",
       "sourceUrl": "https://www.technologyreview.com/2026/08/26/1141949/editors-letter-september-2026/",
-      "publishedAt": "2026-08-26T09:00:00.000Z"
-    },
-    {
-      "id": "y43427",
-      "title": "AI models flub these intelligence tests. Can you fare any better?",
-      "summary": "Puzzles and games have been central to AI development since the very beginning. Just as we humans like to test our smarts with crosswords or logic puzzles, developers can test how far models have advanced with a gaming gauntlet. The term “machine learning” was popularized in a 1959 article by the IBM computer scientist Arthur…",
-      "imageUrl": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=800&q=80",
-      "source": "MIT Tech Review",
-      "sourceUrl": "https://www.technologyreview.com/2026/08/26/1141952/puzzles-ai-models-flub-these-tests/",
       "publishedAt": "2026-08-26T09:00:00.000Z"
     },
     {
