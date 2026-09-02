@@ -1,7 +1,43 @@
 {
-  "fetchedAt": "2026-09-02T20:54:53.197Z",
+  "fetchedAt": "2026-09-02T23:13:30.321Z",
   "count": 60,
   "articles": [
+    {
+      "id": "ftt5ix",
+      "title": "The Builders Stage brings practical strategies for scaling startups to TechCrunch Disrupt 2026",
+      "summary": "The Builders Stage is returning to TechCrunch Disrupt, bringing together founders, startup operators, and investors for practical conversations on what it takes to build and scale.",
+      "imageUrl": "https://images.unsplash.com/photo-1620712943543-bcc4688e7485?w=800&q=80",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/09/02/the-builders-stage-brings-practical-strategies-for-scaling-startups-to-techcrunch-disrupt-2026/",
+      "publishedAt": "2026-09-02T23:01:00.000Z"
+    },
+    {
+      "id": "e55sqe",
+      "title": "Palo Alto Networks paid $500M for Thrive-backed Console, sources say",
+      "summary": "The acquisition also leaves Sequoia-backed Serval as the de facto startup leader in AI IT service automation, industry watchers believe.",
+      "imageUrl": "https://images.unsplash.com/photo-1485827404703-89b55fcc595e?w=800&q=80",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/09/02/palo-alto-networks-paid-500m-for-thrive-backed-console-sources-say/",
+      "publishedAt": "2026-09-02T22:44:56.000Z"
+    },
+    {
+      "id": "c1t593",
+      "title": "TechCrunch Disrupt 2026’s new Real World AI Stage features Nvidia, robots, and extinct animals",
+      "summary": "On our new Real World AI stage, we’ll be focusing on the intersection between the digital and physical, and all the ways we’ll continue to see a blending of the two.",
+      "imageUrl": "https://images.unsplash.com/photo-1635070041078-e363dbe005cb?w=800&q=80",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/09/02/techcrunch-disrupt-2026s-new-real-world-ai-stage-features-nvidia-robots-and-extinct-animals/",
+      "publishedAt": "2026-09-02T22:24:09.000Z"
+    },
+    {
+      "id": "bfnpq7",
+      "title": "I rented a car, and within hours, my driver's license was for sale",
+      "summary": "The FBI is reportedly investigating a massive data breach that is unfolding in real time.",
+      "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2026/09/Dan-stolen-driver-licence.png",
+      "source": "Ars Technica",
+      "sourceUrl": "https://arstechnica.com/security/2026/09/my-drivers-license-is-one-of-153-million-for-sale-on-a-new-dark-website/",
+      "publishedAt": "2026-09-02T20:32:02.000Z"
+    },
     {
       "id": "6mbo71",
       "title": "OpenAI’s new reasoning technique alarms AI safety experts",
@@ -158,7 +194,7 @@
     {
       "id": "9muxuh",
       "title": "NYC bans AI use for students until they reach high school",
-      "summary": "New York City mayor Zohran Mamdani has announced a new policy today that will ban younger schoolchildren from using AI in classrooms. The one-year moratorium, effective in the 2026-2027 school year, will impact about 600,000 public school students in 2-K through eighth grade and is being introduced alongside additional limits on digital devices and a small pilot program for AI education tools. The new rules being introduced by NYC's Department of Education will bar teachers from using AI tools…",
+      "summary": "New York City Mayor Zohran Mamdani has announced a new policy today that will ban younger schoolchildren from using AI in classrooms. The one-year moratorium, effective in the 2026-2027 school year, will impact about 600,000 public school students in 2-K through eighth grade and is being introduced alongside additional limits on digital devices and a small pilot program for AI education tools. The new rules being introduced by NYC's Department of Education will bar teachers from using AI tools…",
       "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/02/STK_414_AI_CHATBOT_R2_CVirginia_D.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
       "source": "The Verge",
       "sourceUrl": "https://www.theverge.com/policy/988228/nyc-ai-restrictions-in-schools-chatbot-ban",
@@ -255,15 +291,6 @@
       "publishedAt": "2026-09-01T21:06:24.000Z"
     },
     {
-      "id": "w9qunp",
-      "title": "Google’s Android update tackles motion sickness, accessibility, and more",
-      "summary": "While some of the features see Google playing catch-up to Apple, which already offers similar features for iPhone users, others specifically leverage Gemini to provide various improvements.",
-      "imageUrl": "https://images.unsplash.com/photo-1550751827-4bd374c3f58b?w=800&q=80",
-      "source": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/09/01/googles-android-update-tackles-motion-sickness-accessibility-and-more/",
-      "publishedAt": "2026-09-01T20:53:05.000Z"
-    },
-    {
       "id": "lv37da",
       "title": "OpenAI delayed its new model’s development after the Hugging Face hack",
       "summary": "After an unreleased OpenAI model wreaked enough havoc to make international headlines, OpenAI delayed the development of a different unreleased model suite, Astra, in order to shore up its safety work, the company wrote Tuesday in a blog post. In July, an unreleased OpenAI model broke out of its restricted environment, finagled its way into internet access, made it possible for AI agents to secretly conspire under the company's nose using a secret message board, and hacked into the network of AI…",
@@ -282,15 +309,6 @@
       "publishedAt": "2026-09-01T20:00:00.000Z"
     },
     {
-      "id": "bynpkk",
-      "title": "Anthropic’s new Fable release is cheaper, less restrictive",
-      "summary": "Fable 5.1 includes changes meant to reduce token cost and false-positive restrictions from the model's safeguards.",
-      "imageUrl": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=800&q=80",
-      "source": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/09/01/anthropics-new-fable-release-is-cheaper-less-restrictive/",
-      "publishedAt": "2026-09-01T19:39:22.000Z"
-    },
-    {
       "id": "4wtm9n",
       "title": "How AI plotted an interstellar journey to Alpha Centauri",
       "summary": "A nonprofit organization called the Fermi Explorer Mission announced today that it intends to launch a spacecraft to our nearest star system by the end of 2029. It’s a hugely ambitious mission—if all goes well, the spacecraft could take up to 80,000 years to arrive at Alpha Centauri, which is 4.4 light-years away. And the…",
@@ -298,15 +316,6 @@
       "source": "MIT Tech Review",
       "sourceUrl": "https://www.technologyreview.com/2026/09/01/1143247/ai-interstellar-journey-alpha-centauri/",
       "publishedAt": "2026-09-01T19:10:36.000Z"
-    },
-    {
-      "id": "dmkrua",
-      "title": "Google’s answer to Canva is an AI tool where you prompt instead of design",
-      "summary": "With Google Pics, Google is pushing deeper into the creative software market dominated by Canva and Adobe, but with a distinctly AI-first approach.",
-      "imageUrl": "https://images.unsplash.com/photo-1620712943543-bcc4688e7485?w=800&q=80",
-      "source": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/09/01/googles-answer-to-canva-is-an-ai-tool-where-you-prompt-instead-of-design/",
-      "publishedAt": "2026-09-01T17:35:37.000Z"
     },
     {
       "id": "d6ya6d",
@@ -532,15 +541,6 @@
       "source": "VentureBeat",
       "sourceUrl": "https://venturebeat.com/ai/venturebeat-names-rob-strechay-as-its-first-lead-analyst-expanding-its-enterprise-ai-research-push",
       "publishedAt": "2026-08-19T14:18:12.000Z"
-    },
-    {
-      "id": "dc6rn8",
-      "title": "Microsoft Copilot reveals secret input that allowed it to be hacked",
-      "summary": "Secret parameter allowed hackers to steal passwords when a target clicked on a link.",
-      "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2026/06/GettyImages-2242817595-1152x648.jpg",
-      "source": "Ars Technica",
-      "sourceUrl": "https://arstechnica.com/security/2026/08/microsoft-copilot-reveals-secret-input-that-allowed-it-to-be-hacked/",
-      "publishedAt": "2026-08-18T13:00:04.000Z"
     }
   ]
 }
