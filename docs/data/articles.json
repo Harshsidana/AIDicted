@@ -1,7 +1,43 @@
 {
-  "fetchedAt": "2026-09-02T08:58:03.470Z",
+  "fetchedAt": "2026-09-02T13:32:25.814Z",
   "count": 60,
   "articles": [
+    {
+      "id": "sj8np4",
+      "title": "The Download: AI puzzles and a path to our nearest star system",
+      "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. AI models flub these intelligence tests. Can you fare any better? Puzzles and games have always been central to AI development. The term “machine learning” was popularized in a 1959 article…",
+      "imageUrl": "https://images.unsplash.com/photo-1620712943543-bcc4688e7485?w=800&q=80",
+      "source": "MIT Tech Review",
+      "sourceUrl": "https://www.technologyreview.com/2026/09/02/1143283/the-download-ai-puzzles-alpha-centauri-mission/",
+      "publishedAt": "2026-09-02T12:10:00.000Z"
+    },
+    {
+      "id": "c5qa8s",
+      "title": "OpenAI faces 30 more lawsuits tied to Tumbler Ridge shooting",
+      "summary": "Edelson PC is filing 30 new lawsuits against OpenAI over the Tumbler Ridge shooting, escalating claims to aiding and abetting and naming Chris Lehane, though evidence remains unconfirmed.",
+      "imageUrl": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=800&q=80",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/09/02/openai-faces-30-more-lawsuits-tied-to-tumbler-ridge-shooting/",
+      "publishedAt": "2026-09-02T12:09:42.000Z"
+    },
+    {
+      "id": "xh65aw",
+      "title": "BGP hijack infecting networks caused by a comedy of errors that’s not funny at all",
+      "summary": "What can we learn from a BGP hijacking that poisoned production software? Plenty.",
+      "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2022/09/GettyImages-11477585601-1000x648.jpg",
+      "source": "Ars Technica",
+      "sourceUrl": "https://arstechnica.com/security/2026/09/well-executed-bgp-attack-uses-hijacked-ips-to-infect-real-networks/",
+      "publishedAt": "2026-09-02T11:00:43.000Z"
+    },
+    {
+      "id": "3da795",
+      "title": "Pangram Has Emerged as the Gold Standard of AI Detection. Should You Trust It?",
+      "summary": "Meet the AI police who can make or break careers—in publishing and beyond.",
+      "imageUrl": "https://media.wired.com/photos/6a96e7a402072373527ca410/master/pass/09012026-pangram-main.gif",
+      "source": "Wired",
+      "sourceUrl": "https://www.wired.com/story/pangram-has-emerged-as-the-gold-standard-of-ai-detection/",
+      "publishedAt": "2026-09-02T10:00:00.000Z"
+    },
     {
       "id": "udw1yz",
       "title": "Google needs Hollywood more than the studios need AI",
@@ -273,15 +309,6 @@
       "publishedAt": "2026-08-31T16:33:38.000Z"
     },
     {
-      "id": "a3f30d",
-      "title": "Clipto uses AI to search terabytes of video and is now valued at $250M",
-      "summary": "The three-year-old startup says it reached $15 million in ARR and profitability before raising its latest $15 million round.",
-      "imageUrl": "https://images.unsplash.com/photo-1676299081847-824916de030a?w=800&q=80",
-      "source": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/08/31/three-year-old-ai-media-search-startup-clipto-hits-a-250m-valuation/",
-      "publishedAt": "2026-08-31T16:00:00.000Z"
-    },
-    {
       "id": "5snqry",
       "title": "Debian won’t ban AI code from its Linux distribution",
       "summary": "Debian voted to allow developers to use AI tools in their contributions to the Linux distribution's \"development, maintenance, [and] documentation.\" The new policy on AI acknowledges that \"responsible\" use of AI can improve developers' productivity, and goes on to say, \"generative AI is neither exempt from nor subject to special rules beyond the standards already expected of Debian contributors.\" The project's voting developers considered several other proposals on how to handle AI, including…",
@@ -390,15 +417,6 @@
       "publishedAt": "2026-08-28T09:00:00.000Z"
     },
     {
-      "id": "hfjn0w",
-      "title": "A Judge Has Blocked the Pentagon’s Attempt to Blacklist Anthropic",
-      "summary": "A federal judge has called the Department of Defense’s designation of Anthropic as a national security supply-chain risk “illegal and baseless.”",
-      "imageUrl": "https://media.wired.com/photos/6a90f2d127d3f5cec6f46d70/master/pass/2261854833",
-      "source": "Wired",
-      "sourceUrl": "https://www.wired.com/story/a-judge-has-blocked-the-pentagons-attempt-to-blacklist-anthropic/",
-      "publishedAt": "2026-08-28T03:04:14.000Z"
-    },
-    {
       "id": "utx5ub",
       "title": "A startup claims it’s found a drug to make your blood young",
       "summary": "I knew I’d officially become a “longevity influencer” this month when a company called Generation Lab reached out to offer me the chance to write about—and even receive—their new rejuvenation treatment, an injectable combination of two existing drugs which they call 1 Generation. This wasn’t just any antiaging treatment, either. A company fact sheet says that…",
@@ -451,15 +469,6 @@
       "source": "VentureBeat",
       "sourceUrl": "https://venturebeat.com/security/when-agents-act-on-their-own-governance-has-to-live-in-the-data-layer",
       "publishedAt": "2026-08-27T12:01:00.000Z"
-    },
-    {
-      "id": "di15w8",
-      "title": "Is Slate Auto’s new electric truck the EV Americans need?",
-      "summary": "EVs account for under 10% of total new-vehicle sales in the US, and the numbers are declining. From a climate perspective, that’s pretty dismal, especially because the transportation sector is the single biggest source of greenhouse-gas emissions in the country. One thing that could help turn that around? Slate Auto’s new truck—a vehicle that seems…",
-      "imageUrl": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=800&q=80",
-      "source": "MIT Tech Review",
-      "sourceUrl": "https://www.technologyreview.com/2026/08/27/1142953/electric-truck-slate-auto/",
-      "publishedAt": "2026-08-27T10:00:00.000Z"
     },
     {
       "id": "xccbnd",
@@ -532,15 +541,6 @@
       "source": "Ars Technica",
       "sourceUrl": "https://arstechnica.com/information-technology/2026/08/nvidia-discloses-21b-stake-in-spacex/",
       "publishedAt": "2026-08-17T14:22:54.000Z"
-    },
-    {
-      "id": "9zimhs",
-      "title": "Vulnerability giving attackers full control of Macs is under active exploitation",
-      "summary": "Screen-sharing bug lets remote hackers log in without a password.",
-      "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2026/08/macbook-pro-1152x648.jpg",
-      "source": "Ars Technica",
-      "sourceUrl": "https://arstechnica.com/security/2026/08/vulnerability-giving-attackers-full-control-of-macs-is-under-active-exploitation/",
-      "publishedAt": "2026-08-14T18:32:14.000Z"
     }
   ]
 }
