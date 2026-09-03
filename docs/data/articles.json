@@ -1,7 +1,43 @@
 {
-  "fetchedAt": "2026-09-03T19:23:16.548Z",
+  "fetchedAt": "2026-09-03T21:51:16.629Z",
   "count": 60,
   "articles": [
+    {
+      "id": "k9vw26",
+      "title": "Prediction Market Betting Is Getting People Banned and Arrested",
+      "summary": "This week on Uncanny Valley, we dig into the latest prediction market buzz, Flock’s AI-powered police search tool, and how tech bros don’t know how to talk about “rouge” AI agents",
+      "imageUrl": "https://media.wired.com/photos/6a98be202f048bd98be06316/master/pass/Uncanny-Valley-George-Santos-Politics-2211292507.jpg",
+      "source": "Wired",
+      "sourceUrl": "https://www.wired.com/story/prediction-market-betting-is-getting-people-banned-and-arrested/",
+      "publishedAt": "2026-09-03T21:48:24.000Z"
+    },
+    {
+      "id": "7nsh23",
+      "title": "Confused about which VPN is right, US senator asks the NSA for guidance",
+      "summary": "Open source, commercial, single-hop, multi-hop, mixnet? The array of options is dizzying.",
+      "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2024/05/vpn-tunnel-1000x648.jpg",
+      "source": "Ars Technica",
+      "sourceUrl": "https://arstechnica.com/security/2026/09/us-senator-calls-on-the-nsa-to-give-guidance-for-use-of-vpns/",
+      "publishedAt": "2026-09-03T19:52:06.000Z"
+    },
+    {
+      "id": "l3msft",
+      "title": "Accel reportedly in talks to lead $1B round for Thinking Machines at $40B valuation",
+      "summary": "The high-profile startup's annual revenue run rate stands at over $100 million.",
+      "imageUrl": "https://images.unsplash.com/photo-1620712943543-bcc4688e7485?w=800&q=80",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/09/03/accel-reportedly-in-talks-to-lead-1b-round-for-thinking-machines-at-40b-valuation/",
+      "publishedAt": "2026-09-03T19:36:29.000Z"
+    },
+    {
+      "id": "kebwvk",
+      "title": "VMware migration reduces Tottenham Hotspur's licensing fees by 85 percent",
+      "summary": "Pro soccer team's CTO points to \"issues with the Broadcom takeover.\"",
+      "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2026/09/Tottenham-1152x648.jpg",
+      "source": "Ars Technica",
+      "sourceUrl": "https://arstechnica.com/information-technology/2026/09/vmware-migration-reduces-tottenham-hotspurs-licensing-fees-by-85-percent/",
+      "publishedAt": "2026-09-03T18:58:31.000Z"
+    },
     {
       "id": "p10us",
       "title": "Abliteration.ai is making a business out of removing AI guardrails",
@@ -327,15 +363,6 @@
       "publishedAt": "2026-09-02T16:04:10.000Z"
     },
     {
-      "id": "5scjwv",
-      "title": "India’s richest man now wants to turn aging computers into AI-ready PCs",
-      "summary": "Jio is betting it can turn an aging computer into an AI-ready PC for as little as about $11 for two months.",
-      "imageUrl": "https://images.unsplash.com/photo-1526374965328-7f61d4dc18c5?w=800&q=80",
-      "source": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/09/02/indias-richest-man-now-wants-to-turn-aging-computers-into-ai-ready-pcs/",
-      "publishedAt": "2026-09-02T16:01:48.000Z"
-    },
-    {
       "id": "rjol6v",
       "title": "The Logical End Point of AI Job Interviews Is Two Bots Talking to Each Other",
       "summary": "Christopher was sick of being ghosted by AI recruiters. So he unleashed ChatGPT on his robot interviewer.",
@@ -370,15 +397,6 @@
       "source": "Ars Technica",
       "sourceUrl": "https://arstechnica.com/security/2026/09/well-executed-bgp-attack-uses-hijacked-ips-to-infect-real-networks/",
       "publishedAt": "2026-09-02T11:00:43.000Z"
-    },
-    {
-      "id": "3da795",
-      "title": "Pangram Has Emerged as the Gold Standard of AI Detection. Should You Trust It?",
-      "summary": "Meet the AI police who can make or break careers—in publishing and beyond.",
-      "imageUrl": "https://media.wired.com/photos/6a96e7a402072373527ca410/master/pass/09012026-pangram-main.gif",
-      "source": "Wired",
-      "sourceUrl": "https://www.wired.com/story/pangram-has-emerged-as-the-gold-standard-of-ai-detection/",
-      "publishedAt": "2026-09-02T10:00:00.000Z"
     },
     {
       "id": "4wtm9n",
@@ -453,15 +471,6 @@
       "publishedAt": "2026-08-28T11:15:05.000Z"
     },
     {
-      "id": "zicwvn",
-      "title": "Enterprise AI's real risk isn't autonomous agents. It's the complexity between them.",
-      "summary": "Presented by Gravitee Agent complexity is the insidious shadow lurking inside enterprises right now that needs a light shone on it.That’s because enterprises don't deploy a single agent and watch it run, they deploy fleets, each one calling APIs, calling other agents, reaching into applications that were never built with a machine decision-maker in mind. That's the failure mode that should keep you up at night: a windy, complicated system nobody can see clearly enough to govern. But why do…",
-      "imageUrl": "https://images.ctfassets.net/jdtwqhzvc2n1/5ScHW6mZ2rQr3EvsxrwooK/43df8725b6e12cd4bcf550bb7b3b1cb4/Gravitee_hero.jpg?w=300&q=30",
-      "source": "VentureBeat",
-      "sourceUrl": "https://venturebeat.com/ai/enterprise-ais-real-risk-isnt-autonomous-agents-its-the-complexity-between-them",
-      "publishedAt": "2026-08-27T14:01:00.000Z"
-    },
-    {
       "id": "gywdx9",
       "title": "Claude, Codex, and Hermes installed unowned code inside corporate networks",
       "summary": "227 install commands were found in corporate docs pointing at code nobody owns.",
@@ -480,15 +489,6 @@
       "publishedAt": "2026-08-27T12:58:59.000Z"
     },
     {
-      "id": "jkljjc",
-      "title": "When agents act on their own, governance has to live in the data layer",
-      "summary": "Presented by EDB As enterprises give AI agents more autonomy — the ability to plan, decide, and act across systems without a human approving each step — a hard question moves to the center of every architecture review: When an agent tries to complete an action that it was never authorized to do, what actually stops it?These are your agents, running on your models, touching your data in your infrastructure — and the responsibility for what they do sits with you. That responsibility can’t be met…",
-      "imageUrl": "https://images.ctfassets.net/jdtwqhzvc2n1/9VRh8KJhBqcFviSV8ClXc/feea8ec8fe76ffa0bc5cdb3dd95e1492/EDB_hero.jpeg?w=300&q=30",
-      "source": "VentureBeat",
-      "sourceUrl": "https://venturebeat.com/security/when-agents-act-on-their-own-governance-has-to-live-in-the-data-layer",
-      "publishedAt": "2026-08-27T12:01:00.000Z"
-    },
-    {
       "id": "xccbnd",
       "title": "AI agents meant to replace Meta workers made “large-scale, disruptive actions”",
       "summary": "Report shows Meta's challenges replacing people with AI agents.",
@@ -496,15 +496,6 @@
       "source": "Ars Technica",
       "sourceUrl": "https://arstechnica.com/ai/2026/08/metas-scrapped-plans-to-go-ai-native-included-slashing-teams-by-60-percent/",
       "publishedAt": "2026-08-26T21:25:27.000Z"
-    },
-    {
-      "id": "otdqte",
-      "title": "Orchestration is the new challenge for CX in the age of AI agents",
-      "summary": "Presented by Tata Communications Enterprises are deploying AI agents, voice AI, and automation across messaging, voice, and digital channels faster than the architecture meant to support it. Most of that deployment has involved attaching conversational AI to legacy systems never built for it, says Gaurav Anand, global head of the Customer Interaction Suite at Tata Communications.\"In the rush to deploy AI, organizations have largely bolted conversational AI onto legacy systems,\" Anand says. \"As a…",
-      "imageUrl": "https://images.ctfassets.net/jdtwqhzvc2n1/1RK5pjHAxWRLsDy5iAC3Iy/4f9c39b5925645c365440e487ffe2157/Tata_hero.jpg?w=300&q=30",
-      "source": "VentureBeat",
-      "sourceUrl": "https://venturebeat.com/orchestration/orchestration-is-the-new-challenge-for-cx-in-the-age-of-ai-agents",
-      "publishedAt": "2026-08-26T14:30:00.000Z"
     },
     {
       "id": "yt1ote",
@@ -534,13 +525,22 @@
       "publishedAt": "2026-08-20T13:00:35.000Z"
     },
     {
-      "id": "1867ox",
-      "title": "VentureBeat names Rob Strechay as its first Lead Analyst, expanding its enterprise AI research push",
-      "summary": "Rob Strechay, until recently managing director and principal analyst at theCUBE Research, has joined VentureBeat as our first Lead Analyst and a founding analyst of VentureBeat Research. His arrival is the next step in a deliberate move at VentureBeat toward deeper specialization: analysis built for the technical decision-makers — the directors, VPs, CIOs, and CTOs — who are evaluating, buying, and deploying enterprise AI.The enterprise AI stack is being rewritten in real time, and the…",
-      "imageUrl": "https://images.ctfassets.net/jdtwqhzvc2n1/14iDGoOPdfaOw0DODBNL9w/7f4d8c6b70797d9bf23a623cbfa3fea3/6ca16f96-3171-4f7e-8c89-f466a3901415.png?w=300&q=30",
-      "source": "VentureBeat",
-      "sourceUrl": "https://venturebeat.com/ai/venturebeat-names-rob-strechay-as-its-first-lead-analyst-expanding-its-enterprise-ai-research-push",
-      "publishedAt": "2026-08-19T14:18:12.000Z"
+      "id": "dc6rn8",
+      "title": "Microsoft Copilot reveals secret input that allowed it to be hacked",
+      "summary": "Secret parameter allowed hackers to steal passwords when a target clicked on a link.",
+      "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2026/06/GettyImages-2242817595-1152x648.jpg",
+      "source": "Ars Technica",
+      "sourceUrl": "https://arstechnica.com/security/2026/08/microsoft-copilot-reveals-secret-input-that-allowed-it-to-be-hacked/",
+      "publishedAt": "2026-08-18T13:00:04.000Z"
+    },
+    {
+      "id": "7l73pk",
+      "title": "Nvidia discloses $21B stake in SpaceX",
+      "summary": "Filing comes after Elon Musk announced exclusive arrangement to kit out its data centers.",
+      "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2026/08/ftcms_116f79c4-b712-471b-b46a-ace5e4d7dda4.avif",
+      "source": "Ars Technica",
+      "sourceUrl": "https://arstechnica.com/information-technology/2026/08/nvidia-discloses-21b-stake-in-spacex/",
+      "publishedAt": "2026-08-17T14:22:54.000Z"
     }
   ]
 }
