@@ -1,7 +1,16 @@
 {
-  "fetchedAt": "2026-09-03T21:51:16.629Z",
+  "fetchedAt": "2026-09-03T23:57:12.017Z",
   "count": 60,
   "articles": [
+    {
+      "id": "opq1yr",
+      "title": "Nobody Is Saying Why OpenAI and Anthropic Had Outages Today",
+      "summary": "ChatGPT, Claude, and Grok all suffered outages at nearly the exact same time for reasons that remain murky.",
+      "imageUrl": "https://media.wired.com/photos/6a99e16fbf4e66136bddbc74/master/pass/Security_AWaveofOutagesHitsLeadingAIChatbots_v1-ezgif.com-video-to-gif-converter%20(2).gif",
+      "source": "Wired",
+      "sourceUrl": "https://www.wired.com/story/nobody-is-saying-why-openai-and-anthropic-had-outages-today/",
+      "publishedAt": "2026-09-03T21:56:21.000Z"
+    },
     {
       "id": "k9vw26",
       "title": "Prediction Market Betting Is Getting People Banned and Arrested",
@@ -361,15 +370,6 @@
       "source": "TechCrunch",
       "sourceUrl": "https://techcrunch.com/2026/09/02/wonderful-more-than-doubles-its-valuation-to-5b-in-under-6-months/",
       "publishedAt": "2026-09-02T16:04:10.000Z"
-    },
-    {
-      "id": "rjol6v",
-      "title": "The Logical End Point of AI Job Interviews Is Two Bots Talking to Each Other",
-      "summary": "Christopher was sick of being ghosted by AI recruiters. So he unleashed ChatGPT on his robot interviewer.",
-      "imageUrl": "https://media.wired.com/photos/6a95faca62c1ea4a51e42ed9/master/pass/Two-AI-Bots-Talking-to-Each-Other-Business-dv1959057.jpg",
-      "source": "Wired",
-      "sourceUrl": "https://www.wired.com/story/bot-vs-bot-job-interview-ai/",
-      "publishedAt": "2026-09-02T15:51:46.000Z"
     },
     {
       "id": "itw0s",
