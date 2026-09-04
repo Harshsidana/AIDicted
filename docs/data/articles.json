@@ -1,7 +1,52 @@
 {
-  "fetchedAt": "2026-09-04T16:59:44.779Z",
+  "fetchedAt": "2026-09-04T19:27:50.175Z",
   "count": 60,
   "articles": [
+    {
+      "id": "oksdyk",
+      "title": "Architecting memory and storage in the AI era",
+      "summary": "The era of AI inference has arrived. Imagine a healthcare system analyzing millions of data points in real time to accelerate life-saving medical research, or an intelligent assistant instantly resolving thousands of complex customer needs at once. These real-world breakthroughs rely on advanced infrastructure acting as the engine of continuous intelligence, powering real-time services while…",
+      "imageUrl": "https://images.unsplash.com/photo-1526374965328-7f61d4dc18c5?w=800&q=80",
+      "source": "MIT Tech Review",
+      "sourceUrl": "https://www.technologyreview.com/2026/09/04/1140872/architecting-memory-and-storage-in-the-ai-era/",
+      "publishedAt": "2026-09-04T18:39:19.000Z"
+    },
+    {
+      "id": "vm10vm",
+      "title": "Roland is getting into generative AI music with Melody Flip",
+      "summary": "It's not quite the \"push button; get song\" of Suno, but Roland's new Melody Flip tool marks the company's foray into generative AI music. Available as a plug-in for your digital audio workstation (DAW), Melody Flip offers around 250 \"Palettes,\" which are essentially themed collections of musical ideas sorted by genre. You can start from scratch and ask it to generate any combination of melody, chord progression, bassline, or drums. Or you can feed it a reference track and have it build off the…",
+      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/Melody_Flip_Palettes-Fav.png?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "source": "The Verge",
+      "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/990197/roland-ai-music-melody-flip",
+      "publishedAt": "2026-09-04T17:51:35.000Z"
+    },
+    {
+      "id": "ex7o1o",
+      "title": "“Trust, not features, is the real deficit”: VMware tries to appease SMBs",
+      "summary": "Broadcom admits it put “too big a focus on VCF.”",
+      "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2026/04/GettyImages-1934095718-1152x648.jpg",
+      "source": "Ars Technica",
+      "sourceUrl": "https://arstechnica.com/information-technology/2026/09/trust-not-features-is-the-real-deficit-vmware-tries-to-appease-smbs/",
+      "publishedAt": "2026-09-04T17:35:02.000Z"
+    },
+    {
+      "id": "faek9t",
+      "title": "Once popular for attacking AI, ASCII smuggling is embraced by spammers",
+      "summary": "A once-overlooked block of unicode that's invisible to humans is gaining ever wider use.",
+      "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2026/09/no-eyes-1152x648.jpg",
+      "source": "Ars Technica",
+      "sourceUrl": "https://arstechnica.com/security/2026/09/once-popular-for-attacking-ai-ascii-smuggling-is-embraced-by-spammers/",
+      "publishedAt": "2026-09-04T17:18:12.000Z"
+    },
+    {
+      "id": "j9kxe0",
+      "title": "What will Apple’s John Ternus era look like?",
+      "summary": "It’s officially the Ternus era at Apple. Tim Cook stepped down as CEO this week, handing the company to former hardware chief John Ternus, whose first memo promised a “huge launch next week” — timing that puts Apple’s next iPhone event on his desk before he’s even settled in. Cook isn’t going far, though: he’s staying on as Executive Chairman, focused on the kind of policy […]",
+      "imageUrl": "https://images.unsplash.com/photo-1550751827-4bd374c3f58b?w=800&q=80",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/video/what-will-apples-john-ternus-era-look-like/",
+      "publishedAt": "2026-09-04T17:18:00.000Z"
+    },
     {
       "id": "hupvx7",
       "title": "Another swarm of OpenAI agents reached the open internet without the frontier lab’s knowledge",
@@ -273,15 +318,6 @@
       "publishedAt": "2026-09-03T16:00:00.000Z"
     },
     {
-      "id": "yihu5l",
-      "title": "Google now lets you chat with Gmail, Docs, and Keep",
-      "summary": "Google is rolling out AI-powered voice assistant modes for Gmail, Docs, and Keep that allow you to manage the apps by talking to them. The real time conversational capabilities are called Gmail Live, Docs Live, and Keep Live, and like the Gemini Live experience for Google's chatbot, aim to make it easier to note down or find specific information when you're on the move or unable to do so manually. Gmail Live is primarily designed to surface details from your inbox without you having to dig…",
-      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/Gmail-Docs-and-Keep-Live.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "source": "The Verge",
-      "sourceUrl": "https://www.theverge.com/tech/989508/google-gmail-docs-keep-live-voice-modes-gemini",
-      "publishedAt": "2026-09-03T16:00:00.000Z"
-    },
-    {
       "id": "9aa40r",
       "title": "Google’s latest AI weather model gives you no excuse to forget your umbrella",
       "summary": "WeatherNext 3 is the latest wave of a sea change in meteorology brought out by deep learning techniques. Google says it will start feeding into weather information users see in search, Google Maps, and Gemini.",
@@ -372,15 +408,6 @@
       "publishedAt": "2026-09-02T23:01:00.000Z"
     },
     {
-      "id": "e55sqe",
-      "title": "Palo Alto Networks paid $500M for Thrive-backed Console, sources say",
-      "summary": "The acquisition also leaves Sequoia-backed Serval as the de facto startup leader in AI IT service automation, industry watchers believe.",
-      "imageUrl": "https://images.unsplash.com/photo-1485827404703-89b55fcc595e?w=800&q=80",
-      "source": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/09/02/palo-alto-networks-paid-500m-for-thrive-backed-console-sources-say/",
-      "publishedAt": "2026-09-02T22:44:56.000Z"
-    },
-    {
       "id": "bfnpq7",
       "title": "I rented a car, and within hours, my driver's license was for sale",
       "summary": "The FBI is reportedly investigating a massive data breach that is unfolding in real time.",
@@ -433,15 +460,6 @@
       "source": "MIT Tech Review",
       "sourceUrl": "https://www.technologyreview.com/2026/09/01/1142180/making-the-ai-powered-case-for-legacy-modernization/",
       "publishedAt": "2026-09-01T14:00:00.000Z"
-    },
-    {
-      "id": "z8xfbr",
-      "title": "The Download: engineered microbes for crops, and OpenAI’s culture problem",
-      "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. How engineered microbes could help feed the world’s crops Fertilizer is crucial for the global food supply, but making it uses a lot of energy and produces a lot of emissions.…",
-      "imageUrl": "https://images.unsplash.com/photo-1655720828018-edd2daec9349?w=800&q=80",
-      "source": "MIT Tech Review",
-      "sourceUrl": "https://www.technologyreview.com/2026/09/01/1143199/the-download-engineered-microbes-openai-safety-culture/",
-      "publishedAt": "2026-09-01T12:10:00.000Z"
     },
     {
       "id": "lhpucb",
@@ -523,24 +541,6 @@
       "source": "Ars Technica",
       "sourceUrl": "https://arstechnica.com/security/2026/08/grok-exfiltrates-user-data-when-malicious-instructions-are-encrypted/",
       "publishedAt": "2026-08-20T13:00:35.000Z"
-    },
-    {
-      "id": "dc6rn8",
-      "title": "Microsoft Copilot reveals secret input that allowed it to be hacked",
-      "summary": "Secret parameter allowed hackers to steal passwords when a target clicked on a link.",
-      "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2026/06/GettyImages-2242817595-1152x648.jpg",
-      "source": "Ars Technica",
-      "sourceUrl": "https://arstechnica.com/security/2026/08/microsoft-copilot-reveals-secret-input-that-allowed-it-to-be-hacked/",
-      "publishedAt": "2026-08-18T13:00:04.000Z"
-    },
-    {
-      "id": "7l73pk",
-      "title": "Nvidia discloses $21B stake in SpaceX",
-      "summary": "Filing comes after Elon Musk announced exclusive arrangement to kit out its data centers.",
-      "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2026/08/ftcms_116f79c4-b712-471b-b46a-ace5e4d7dda4.avif",
-      "source": "Ars Technica",
-      "sourceUrl": "https://arstechnica.com/information-technology/2026/08/nvidia-discloses-21b-stake-in-spacex/",
-      "publishedAt": "2026-08-17T14:22:54.000Z"
     }
   ]
 }
