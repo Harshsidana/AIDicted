@@ -1,7 +1,79 @@
 {
-  "fetchedAt": "2026-09-04T09:02:11.646Z",
+  "fetchedAt": "2026-09-04T13:25:53.121Z",
   "count": 60,
   "articles": [
+    {
+      "id": "68hnzr",
+      "title": "The Download: selling battlefield drone data and AI reshaping language",
+      "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. Data from drones in Ukraine is fueling a new Wild West marketplace —Cory Alpert, a researcher at the University of Melbourne studying AI’s impact on democracy, who previously served in the…",
+      "imageUrl": "https://images.unsplash.com/photo-1655720828018-edd2daec9349?w=800&q=80",
+      "source": "MIT Tech Review",
+      "sourceUrl": "https://www.technologyreview.com/2026/09/04/1143457/the-download-ukraine-selling-drone-data-ai-reshaping-language/",
+      "publishedAt": "2026-09-04T12:10:00.000Z"
+    },
+    {
+      "id": "akad4x",
+      "title": "Instagram’s AI detection is a mess (again)",
+      "summary": "Instagram's visible AI labels are supposed to help people quickly spot synthetically generated content at a glance. Over the last few weeks, however, users have been reporting that the system has gone haywire. They say Meta has been automatically applying an \"AI Content\" label to images that they didn't create or edit using generative AI tools. Meanwhile, actual AI imagery is slipping through the cracks, leaving the impression that nothing can be trusted on Instagram at all. The precise causes…",
+      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/04/268439_ai_art_label_CVirginia.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "source": "The Verge",
+      "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/989617/instagram-ai-content-label-confusion",
+      "publishedAt": "2026-09-04T12:00:00.000Z"
+    },
+    {
+      "id": "7jwznr",
+      "title": "Why AI food looks like that",
+      "summary": "There is a torrent of unappetizing slop coming from restaurants, cafes, and brands that are increasingly turning to AI to generate images promoting their food. The resulting horror show includes donut shrimp, Reubens from the deep, wormlike noodles, and noodle-like pastries and stringy chicken. There's also construction material masquerading as ice cream, ice cream masquerading as brains, and other masonry-adjacent cuisine. I don't even know how to begin describing this monstrous attempt of a…",
+      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/268722_Why_does_AI_food_look_like_that_CVirginia.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "source": "The Verge",
+      "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/989376/ai-generated-food-why-does-it-look-like-that",
+      "publishedAt": "2026-09-04T11:00:00.000Z"
+    },
+    {
+      "id": "o9xrwd",
+      "title": "Microsoft’s Project Zenith is a ‘distraction-free Windows experience’ for developers",
+      "summary": "Microsoft is giving its developer-optimized Windows experience a name: Project Zenith. While the software maker originally announced a similar developer-optimized Windows effort at Build earlier this year, Project Zenith is designed for new developer-focused devices with 64GB or more of unified memory. \"Project Zenith devices come with a preconfigured Windows setup for development and a set of tools curated for what developers reach for first,\" explains Logan Iyer, CVP of Windows platform and…",
+      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/projectzenith.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "source": "The Verge",
+      "sourceUrl": "https://www.theverge.com/news/990051/microsoft-project-zenith-windows-developers",
+      "publishedAt": "2026-09-04T10:44:15.000Z"
+    },
+    {
+      "id": "t60wdv",
+      "title": "Sam Altman apologizes for ‘messy’ GPT-6 Astra rollout that’s locked out paying users",
+      "summary": "Just hours after OpenAI launched GPT-6 Astra, CEO Sam Altman was already apologizing for what he describes as a \"messy rollout\" after paying users expecting access to the new frontier model were left waiting. The company hailed the model as a \"generational leap in capability\" on Thursday and described it as the start of \"the AGI era,\" a fuzzy and poorly defined term tech executives nevertheless insist on using to promote their products. It said Astra would roll out to some enterprise customers -…",
+      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/gettyimages-2285138968.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "source": "The Verge",
+      "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/990060/altman-apologizes-messy-astra-rollout",
+      "publishedAt": "2026-09-04T10:41:48.000Z"
+    },
+    {
+      "id": "60g8jm",
+      "title": "AI Use in the Job Market Is Creating an Infinite Doom Loop",
+      "summary": "Job seekers are trying to game the application process using AI. It’s not working, and not for the reasons you might think.",
+      "imageUrl": "https://media.wired.com/photos/6a9822cefee0db870262b29d/master/pass/AIvsAIJob.jpg",
+      "source": "Wired",
+      "sourceUrl": "https://www.wired.com/story/ai-job-market-infinite-doom-loop/",
+      "publishedAt": "2026-09-04T10:00:00.000Z"
+    },
+    {
+      "id": "1ykfqj",
+      "title": "This NAS company wants to run your local smart home",
+      "summary": "Ugreen’s HomeAgent H100 Pro hub combines local storage, on-device AI, and a new voice assistant, Uliya, to run your smart home. | Photo by Jennifer Pattison Tuohy / The Verge Ugreen, known for its phone power banks, chargers, and NAS storage solutions, is moving into the smart home - in a big way. This week at the IFA tech show, the company launched its HomeAgent smart home platform that combines security camera storage, on-device AI, and smart home control in one system, managed by a voice…",
+      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/LR6B5640.jpeg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "source": "The Verge",
+      "sourceUrl": "https://www.theverge.com/tech/990006/this-nas-company-wants-to-run-your-local-smart-home",
+      "publishedAt": "2026-09-04T09:41:44.000Z"
+    },
+    {
+      "id": "bgqaj0",
+      "title": "Data from drones in Ukraine is fueling a new Wild West marketplace",
+      "summary": "Battlefields in Ukraine are littered with the remnants of drones, which are now firmly established as a critical weapon of modern warfare. But behind all that wreckage, there’s a new gold mine for the defense sector. The data drones generate will far outlast the wars in which they are used to fight, increasingly becoming part…",
+      "imageUrl": "https://images.unsplash.com/photo-1676299081847-824916de030a?w=800&q=80",
+      "source": "MIT Tech Review",
+      "sourceUrl": "https://www.technologyreview.com/2026/09/04/1143452/drone-data-wild-west/",
+      "publishedAt": "2026-09-04T09:25:19.000Z"
+    },
     {
       "id": "r9bvsr",
       "title": "The sameness problem behind those unappetizing AI-generated menus",
@@ -201,15 +273,6 @@
       "publishedAt": "2026-09-03T12:42:45.000Z"
     },
     {
-      "id": "u7e7yj",
-      "title": "Nvidia is buying Hugging Face for almost $13 billion",
-      "summary": "Nvidia has agreed to buy Hugging Face for $12.93 billion, bringing one of the most popular hosting platforms for open-source AI models, datasets, and tools under the ownership of the world's biggest AI chipmaker. Hugging Face is an online platform founded in 2016 that gives AI developers a space to share their projects and data with other users and the general public. It's often described as the \"GitHub\" for AI due to its browsable library of open-source machine learning models and emphasis on…",
-      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25835739/STKP210_JENSEN_HUANG_B.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "source": "The Verge",
-      "sourceUrl": "https://www.theverge.com/tech/985474/nvidia-buying-hugging-face-deal",
-      "publishedAt": "2026-09-03T12:12:06.000Z"
-    },
-    {
       "id": "5ravl7",
       "title": "The Download: rethinking child safety and fossil-fueled farming",
       "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. Child-monitoring apps might need a reboot Digital harms have become the defining fear of American parents. In response, they’re increasingly turning to content-monitoring apps that scan their children’s texts, photos, emails,…",
@@ -300,15 +363,6 @@
       "publishedAt": "2026-09-02T20:19:14.000Z"
     },
     {
-      "id": "5atwgt",
-      "title": "Google says its new Gemini 3.8 Flash model ‘works harder’ but might cost more",
-      "summary": "Google launched Gemini 3.8 Flash, arriving just a few weeks after its predecessor. The company claims the new model \"works harder\" than Gemini 3.7 Flash by performing more reasoning steps on complex tasks and \"calling tools iteratively.\" It has the same introductory pricing as 3.7 Flash, $0.75 per million input tokens and $3.75 per million output tokens, but could still end up costing users more. Google warns that \"the model might use more tokens to maximize performance, especially at higher…",
-      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/02/STK255_Google_Gemini_B_474198.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "source": "The Verge",
-      "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/988742/google-gemini-3-8-flash",
-      "publishedAt": "2026-09-02T20:11:40.000Z"
-    },
-    {
       "id": "aws0ol",
       "title": "Trump Administration Sides With OpenAI in New York Times Copyright Lawsuit",
       "summary": "The US government wrote a letter in support of OpenAI’s argument that training AI on others' intellectual property is fair use.",
@@ -316,24 +370,6 @@
       "source": "Wired",
       "sourceUrl": "https://www.wired.com/story/trump-administration-sides-with-ai-giants-new-york-times-lawsuit/",
       "publishedAt": "2026-09-02T18:41:02.000Z"
-    },
-    {
-      "id": "mp8qr",
-      "title": "These Russian Mathematicians Taught AI Models How to Talk to Each Other Without Using Words",
-      "summary": "A startup called Mostik has a wild new approach to combining the capabilities of AI models.",
-      "imageUrl": "https://media.wired.com/photos/6a973d9ebb1b14821345f01b/master/pass/AI-Lab-Russian-Mathematicians-Got-AI-Models-to-Communicate-Subconsciously-Business.jpg",
-      "source": "Wired",
-      "sourceUrl": "https://www.wired.com/story/russian-startup-mostik-ai-models-communication/",
-      "publishedAt": "2026-09-02T18:20:00.000Z"
-    },
-    {
-      "id": "6meume",
-      "title": "Amazon’s AI assistant can now spot fake emails from the company",
-      "summary": "Amazon is trying to combat impersonation scams with a new feature that allows you to use its AI assistant to determine whether an email, text message, or phone call actually came from the company. With the update, you can ask Alexa for Shopping about a message you received, and it will use AI to compare it \"against a record of every message Amazon has sent,\" while also analyzing its contents, formatting, and the sender. As noted by Amazon, the assistant will only confirm that a message is real…",
-      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/alexa-shopping-ai-hero-lm.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "source": "The Verge",
-      "sourceUrl": "https://www.theverge.com/tech/988518/amazon-alexa-for-shopping-verify-emails",
-      "publishedAt": "2026-09-02T17:52:56.000Z"
     },
     {
       "id": "6gbgsb",
@@ -352,24 +388,6 @@
       "source": "TechCrunch",
       "sourceUrl": "https://techcrunch.com/podcast/were-dangerously-close-to-dead-internet-theory-says-pangrams-ceo/",
       "publishedAt": "2026-09-02T17:09:57.000Z"
-    },
-    {
-      "id": "lifx0t",
-      "title": "Researchers fear safety disaster ahead of OpenAI’s Astra release",
-      "summary": "OpenAI is on the cusp of releasing its most powerful AI model yet, Astra, following weeks of delays to shore up safety protocols after its agents attacked real targets during testing. As details about the model trickle out, researchers are warning it \"may be the single worst development for AI security/safety to date.\" Shortly after OpenAI said on Tuesday that it had delayed Astra's release to work on safety issues, The Information reported that Astra shows far less of its \"thinking\" than other…",
-      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/gettyimages-2287521404.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "source": "The Verge",
-      "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/988334/openai-astra-ai-monitoring-safety",
-      "publishedAt": "2026-09-02T16:40:50.000Z"
-    },
-    {
-      "id": "aarcdy",
-      "title": "The Trump administration is supporting OpenAI in the NYT copyright lawsuit",
-      "summary": "The Trump administration has intervened in The New York Times' copyright lawsuit against OpenAI, making an argument in favor of the AI lab. The landmark lawsuit, filed in December 2023, alleging that OpenAI unlawfully trained its AI systems on articles from The New York Times and seeks to recoup \"billions of dollars\" in damages from both Microsoft and OpenAI. This week, the Trump administration filed a statement of interest in the case, supporting OpenAI's argument that it's fair use to train an…",
-      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25462046/STK155_OPEN_AI_CVirginia_2_C.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "source": "The Verge",
-      "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/988344/trump-administration-new-york-times-openai-lawsuit",
-      "publishedAt": "2026-09-02T16:12:25.000Z"
     },
     {
       "id": "itw0s",
@@ -424,24 +442,6 @@
       "source": "MIT Tech Review",
       "sourceUrl": "https://www.technologyreview.com/2026/09/01/1143199/the-download-engineered-microbes-openai-safety-culture/",
       "publishedAt": "2026-09-01T12:10:00.000Z"
-    },
-    {
-      "id": "cuhn2n",
-      "title": "How engineered microbes could help feed the world’s crops",
-      "summary": "Fertilizer is crucial for the global food supply, but making it uses a lot of energy and produces a lot of emissions. Some companies hope microbes can help. A growing body of research shows that seeding the soil around a crop’s roots with beneficial microbes can help feed the plant, providing crucial nitrogen to help…",
-      "imageUrl": "https://images.unsplash.com/photo-1526374965328-7f61d4dc18c5?w=800&q=80",
-      "source": "MIT Tech Review",
-      "sourceUrl": "https://www.technologyreview.com/2026/09/01/1143195/microbe-fertilizer-switch-bioworks/",
-      "publishedAt": "2026-09-01T09:00:00.000Z"
-    },
-    {
-      "id": "4xo0hc",
-      "title": "The Hugging Face hack could indicate cultural issues at OpenAI",
-      "summary": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here. By now you’ve probably heard about last month’s major AI security incident, in which OpenAI agents escaped their sandbox and hacked into the AI platform Hugging Face while trying to cheat on…",
-      "imageUrl": "https://images.unsplash.com/photo-1620712943543-bcc4688e7485?w=800&q=80",
-      "source": "MIT Tech Review",
-      "sourceUrl": "https://www.technologyreview.com/2026/08/31/1143180/hugging-face-hack-could-indicate-cultural-issues-at-openai/",
-      "publishedAt": "2026-08-31T18:00:00.000Z"
     },
     {
       "id": "lhpucb",
