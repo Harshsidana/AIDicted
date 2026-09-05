@@ -1,7 +1,16 @@
 {
-  "fetchedAt": "2026-09-05T18:05:41.983Z",
+  "fetchedAt": "2026-09-05T20:39:02.749Z",
   "count": 60,
   "articles": [
+    {
+      "id": "2liv5h",
+      "title": "Hikers rescued after using Google Gemini for planning",
+      "summary": "The sheriff’s office said the hikers “were advised by Gemini to bring far less food and water than their group required.\"",
+      "imageUrl": "https://images.unsplash.com/photo-1620712943543-bcc4688e7485?w=800&q=80",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/09/05/hikers-rescued-after-using-google-gemini-for-planning/",
+      "publishedAt": "2026-09-05T19:35:24.000Z"
+    },
     {
       "id": "fe92q1",
       "title": "OpenAI confirms ‘wiki incident,’ says it’s ‘working on a framework’ for more disclosure",
@@ -334,15 +343,6 @@
       "source": "Wired",
       "sourceUrl": "https://www.wired.com/story/openai-says-gpt-6-can-use-a-computer-better-than-a-human/",
       "publishedAt": "2026-09-03T18:06:24.000Z"
-    },
-    {
-      "id": "skyszb",
-      "title": "OpenAI launches Astra, its powerful (and controversial) new model",
-      "summary": "OpenAI claims that Astra represents \"a new frontier on computer and browser use,\" and that it handles tasks with unmatched \"speed, accuracy, and safety.\"",
-      "imageUrl": "https://images.unsplash.com/photo-1526374965328-7f61d4dc18c5?w=800&q=80",
-      "source": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/09/03/openai-launches-astra-its-powerful-and-controversial-new-model/",
-      "publishedAt": "2026-09-03T18:01:45.000Z"
     },
     {
       "id": "9d0ww9",
