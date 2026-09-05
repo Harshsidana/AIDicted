@@ -1,7 +1,34 @@
 {
-  "fetchedAt": "2026-09-04T21:44:55.276Z",
+  "fetchedAt": "2026-09-04T23:54:00.898Z",
   "count": 60,
   "articles": [
+    {
+      "id": "52ditr",
+      "title": "XDOF, just three months out of stealth, is in talks for a Series B at a $1.2B valuation",
+      "summary": "The round is being raised just months after the robot data startup exited from stealth.",
+      "imageUrl": "https://images.unsplash.com/photo-1485827404703-89b55fcc595e?w=800&q=80",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/09/04/xdof-just-three-months-out-of-stealth-is-in-talks-for-a-series-b-at-a-1-2b-valuation/",
+      "publishedAt": "2026-09-04T23:36:14.000Z"
+    },
+    {
+      "id": "alibdx",
+      "title": "OpenAI’s rogue agents keep escaping, with no formal process to investigate them",
+      "summary": "OpenAI’s latest agent swarm incident adds urgency to calls for independent investigations as researchers and lawmakers question whether AI labs should control the scope of their own safety reviews.",
+      "imageUrl": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=800&q=80",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/09/04/openais-rogue-agents-keep-escaping-with-no-formal-process-to-investigate-them/",
+      "publishedAt": "2026-09-04T23:15:11.000Z"
+    },
+    {
+      "id": "s31z3d",
+      "title": "OpenAI agents discussed ways to escape their sandbox on public wiki",
+      "summary": "In all, 3,700 internal agents posted 18,000 messages discussing cheating on a test.",
+      "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2026/09/ai-agent-hacking-1152x648.jpg",
+      "source": "Ars Technica",
+      "sourceUrl": "https://arstechnica.com/security/2026/09/openai-agents-discussed-ways-to-escape-their-sandbox-on-public-wiki/",
+      "publishedAt": "2026-09-04T22:17:36.000Z"
+    },
     {
       "id": "num8fg",
       "title": "AI compute provider Nscale is looking for $3.5B in pre-IPO financing",
@@ -327,15 +354,6 @@
       "publishedAt": "2026-09-03T16:00:00.000Z"
     },
     {
-      "id": "9aa40r",
-      "title": "Google’s latest AI weather model gives you no excuse to forget your umbrella",
-      "summary": "WeatherNext 3 is the latest wave of a sea change in meteorology brought out by deep learning techniques. Google says it will start feeding into weather information users see in search, Google Maps, and Gemini.",
-      "imageUrl": "https://images.unsplash.com/photo-1655720828018-edd2daec9349?w=800&q=80",
-      "source": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/09/03/googles-latest-ai-weather-model-gives-you-no-excuse-to-forget-your-umbrella/",
-      "publishedAt": "2026-09-03T15:00:00.000Z"
-    },
-    {
       "id": "tqvgzq",
       "title": "Nvidia RTX Spark ‘Superchip’: The First AI PCs Are Here",
       "summary": "At IFA 2026, Nvidia and its partners showed off the first RTX Spark-powered laptops and mini PCs, designed to run AI models right on your computer.",
@@ -352,15 +370,6 @@
       "source": "Wired",
       "sourceUrl": "https://www.wired.com/story/nvidias-hugging-face-acquisition-is-a-dollar129-billion-bet-on-open-source-ai/",
       "publishedAt": "2026-09-03T12:43:09.000Z"
-    },
-    {
-      "id": "s51740",
-      "title": "Nvidia confirms it will buy Hugging Face for $12.9 billion",
-      "summary": "Nvidia said Hugging Face hosts over 3 million models and is used by over 18 million developers.",
-      "imageUrl": "https://images.unsplash.com/photo-1485827404703-89b55fcc595e?w=800&q=80",
-      "source": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/09/03/nvidia-confirms-it-will-buy-hugging-face-for-12-9-billion/",
-      "publishedAt": "2026-09-03T12:42:45.000Z"
     },
     {
       "id": "5ravl7",
@@ -532,15 +541,6 @@
       "source": "Ars Technica",
       "sourceUrl": "https://arstechnica.com/cars/2026/08/waymo-doubles-spending-on-lobbying-in-robotaxi-battle-with-uber/",
       "publishedAt": "2026-08-21T13:11:35.000Z"
-    },
-    {
-      "id": "d5c4sm",
-      "title": "Grok exfiltrates user data when malicious instructions are encrypted",
-      "summary": "Cryptographic Context Injection is only the latest way to break an LLM safety guardrail.",
-      "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2026/06/xai-grok-1152x648.jpg",
-      "source": "Ars Technica",
-      "sourceUrl": "https://arstechnica.com/security/2026/08/grok-exfiltrates-user-data-when-malicious-instructions-are-encrypted/",
-      "publishedAt": "2026-08-20T13:00:35.000Z"
     }
   ]
 }
