@@ -1,7 +1,25 @@
 {
-  "fetchedAt": "2026-09-06T05:44:46.047Z",
+  "fetchedAt": "2026-09-06T10:44:31.521Z",
   "count": 60,
   "articles": [
+    {
+      "id": "j56tja",
+      "title": "My Brief Summer Fling With Siri AI",
+      "summary": "I was initially enamored with the beta version of Apple’s revamped smartphone assistant. As the full release approaches, I’ve forgotten Siri AI even exists.",
+      "imageUrl": "https://media.wired.com/photos/6a9957d8075950c219e951f8/master/pass/GettyImages-2255802594.jpg",
+      "source": "Wired",
+      "sourceUrl": "https://www.wired.com/story/my-brief-summer-fling-with-siri-ai/",
+      "publishedAt": "2026-09-06T10:30:00.000Z"
+    },
+    {
+      "id": "a85hr2",
+      "title": "Why China Is the Bogeyman Data Center Enthusiasts Just Can't Quit",
+      "summary": "Polls show that overwhelming majorities of Americans hate data centers. China makes a perfect scapegoat for tech leaders and their allies—the only problem is a lack of evidence.",
+      "imageUrl": "https://media.wired.com/photos/6a998bf0d9ba7b75ced0a131/master/pass/DataCenterColumn1.jpg",
+      "source": "Wired",
+      "sourceUrl": "https://www.wired.com/story/why-china-is-still-the-bogeyman-for-data-center-enthusiasts/",
+      "publishedAt": "2026-09-06T10:00:00.000Z"
+    },
     {
       "id": "oidw78",
       "title": "Seattle Times and Newsday are the latest publications to sue OpenAI and Microsoft",
@@ -372,15 +390,6 @@
       "publishedAt": "2026-09-03T13:00:00.000Z"
     },
     {
-      "id": "cu19j0",
-      "title": "Nvidia’s Hugging Face Acquisition Is a $12.9 Billion Bet on Open-Source AI",
-      "summary": "The long-rumored deal will give the chip giant access to—and help it promote—a huge repository of open-source AI models and data sets.",
-      "imageUrl": "https://media.wired.com/photos/6a906df0a8a32784cdb5c100/master/pass/Nvidia-Throws-Major-Weight-Behind-Open-Weights-Business-2286326275.jpg",
-      "source": "Wired",
-      "sourceUrl": "https://www.wired.com/story/nvidias-hugging-face-acquisition-is-a-dollar129-billion-bet-on-open-source-ai/",
-      "publishedAt": "2026-09-03T12:43:09.000Z"
-    },
-    {
       "id": "5ravl7",
       "title": "The Download: rethinking child safety and fossil-fueled farming",
       "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. Child-monitoring apps might need a reboot Digital harms have become the defining fear of American parents. In response, they’re increasingly turning to content-monitoring apps that scan their children’s texts, photos, emails,…",
@@ -388,15 +397,6 @@
       "source": "MIT Tech Review",
       "sourceUrl": "https://www.technologyreview.com/2026/09/03/1143385/the-download-rethinking-child-safety-online-fossil-fuels-farming/",
       "publishedAt": "2026-09-03T12:10:00.000Z"
-    },
-    {
-      "id": "x8vm06",
-      "title": "This Is Flock’s AI Search Tool for Cops",
-      "summary": "WIRED rebuilt Flock’s latest search tool from code the company sends to a police officer’s browser. Its AI can keep watch across multiple cameras for anyone fitting a written description.",
-      "imageUrl": "https://media.wired.com/photos/6a87505516e3a66e632977e8/master/pass/Security_FlockLetsCopsConductAISearchUsingPolitics_v1.gif",
-      "source": "Wired",
-      "sourceUrl": "https://www.wired.com/story/flock-ai-search-user-interface/",
-      "publishedAt": "2026-09-03T10:00:00.000Z"
     },
     {
       "id": "16glpm",
