@@ -1,7 +1,25 @@
 {
-  "fetchedAt": "2026-09-07T09:37:17.981Z",
+  "fetchedAt": "2026-09-07T15:43:00.698Z",
   "count": 60,
   "articles": [
+    {
+      "id": "pfcf80",
+      "title": "The Download: the hunt for underground hydrogen and more rogue OpenAI agents",
+      "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. How much hydrogen awaits us underground? A flurry of exploration efforts is searching for underground stores of hydrogen gas, which could provide a valuable source of zero-carbon fuel. The hunt has…",
+      "imageUrl": "https://images.unsplash.com/photo-1485827404703-89b55fcc595e?w=800&q=80",
+      "source": "MIT Tech Review",
+      "sourceUrl": "https://www.technologyreview.com/2026/09/07/1143592/the-download-underground-hydrogen-search-rogue-openai-agents/",
+      "publishedAt": "2026-09-07T12:10:00.000Z"
+    },
+    {
+      "id": "qyaddv",
+      "title": "Whispering Complaints Into Your Phone May Be the Future of Customer Feedback",
+      "summary": "Forget email surveys or long calls spent on hold. Voicebox lets people send customer feedback by recording a voice note on their phone.",
+      "imageUrl": "https://media.wired.com/photos/6a994fa2bf4e66136bddb432/master/pass/HowYouReallyFeel.jpg",
+      "source": "Wired",
+      "sourceUrl": "https://www.wired.com/story/whispering-complaints-into-your-phone-may-be-the-future-of-customer-feedback/",
+      "publishedAt": "2026-09-07T10:30:00.000Z"
+    },
     {
       "id": "ilx3ux",
       "title": "Seattle Times and Newsday sue OpenAI and Microsoft for infringement",
@@ -381,15 +399,6 @@
       "publishedAt": "2026-09-03T16:42:40.000Z"
     },
     {
-      "id": "tqvgzq",
-      "title": "Nvidia RTX Spark ‘Superchip’: The First AI PCs Are Here",
-      "summary": "At IFA 2026, Nvidia and its partners showed off the first RTX Spark-powered laptops and mini PCs, designed to run AI models right on your computer.",
-      "imageUrl": "https://media.wired.com/photos/6a988e1369e7125a8c650442/master/pass/We-Just-Got-Our-First-Real-Look-at-AI-PCs-with-Nvidia%E2%80%99s-RTX-Spark-%E2%80%98Superchip%E2%80%99.jpg",
-      "source": "Wired",
-      "sourceUrl": "https://www.wired.com/story/nvidia-rtx-spark-laptops-first-look/",
-      "publishedAt": "2026-09-03T13:00:00.000Z"
-    },
-    {
       "id": "5ravl7",
       "title": "The Download: rethinking child safety and fossil-fueled farming",
       "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. Child-monitoring apps might need a reboot Digital harms have become the defining fear of American parents. In response, they’re increasingly turning to content-monitoring apps that scan their children’s texts, photos, emails,…",
@@ -460,15 +469,6 @@
       "source": "MIT Tech Review",
       "sourceUrl": "https://www.technologyreview.com/2026/09/01/1143247/ai-interstellar-journey-alpha-centauri/",
       "publishedAt": "2026-09-01T19:10:36.000Z"
-    },
-    {
-      "id": "xwc92c",
-      "title": "Making the AI-powered case for legacy modernization",
-      "summary": "For years, legacy technology has been a problem companies knew they needed to solve, but one they often struggled to tackle. The cost, complexity, and risk of replacing business-critical systems could make modernization feel like a disruption to manage instead of an opportunity to pursue. But with the rise in customer expectations and the changes…",
-      "imageUrl": "https://images.unsplash.com/photo-1526374965328-7f61d4dc18c5?w=800&q=80",
-      "source": "MIT Tech Review",
-      "sourceUrl": "https://www.technologyreview.com/2026/09/01/1142180/making-the-ai-powered-case-for-legacy-modernization/",
-      "publishedAt": "2026-09-01T14:00:00.000Z"
     },
     {
       "id": "lhpucb",
