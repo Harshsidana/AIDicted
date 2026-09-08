@@ -1,7 +1,52 @@
 {
-  "fetchedAt": "2026-09-08T11:40:35.850Z",
+  "fetchedAt": "2026-09-08T16:29:40.873Z",
   "count": 60,
   "articles": [
+    {
+      "id": "z3iidw",
+      "title": "Google Cloud races to catch up in the AI deployment wars with Accenture deal",
+      "summary": "Google Cloud expands its enterprise AI push with Accenture, betting on forward-deployed engineers to drive adoption and overcome deployment bottlenecks.",
+      "imageUrl": "https://images.unsplash.com/photo-1550751827-4bd374c3f58b?w=800&q=80",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/09/08/google-cloud-races-to-catch-up-in-the-ai-deployment-wars-with-accenture-deal/",
+      "publishedAt": "2026-09-08T16:20:31.000Z"
+    },
+    {
+      "id": "gyy5ci",
+      "title": "Mistral raises €3B as sovereign AI becomes big business",
+      "summary": "The French AI lab has raised €3 billion at a €21 billion valuation in a Series D round led by Samsung, Scaleup Europe and PSG Equity.",
+      "imageUrl": "https://images.unsplash.com/photo-1676299081847-824916de030a?w=800&q=80",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/09/08/mistral-raises-e3b-as-sovereign-ai-becomes-big-business/",
+      "publishedAt": "2026-09-08T14:17:48.000Z"
+    },
+    {
+      "id": "6plusk",
+      "title": "Google’s Atlas of the human genome could pave the way for new treatments",
+      "summary": "Google DeepMind has unveiled an AI tool that its scientists claim could help unravel the mysteries of the human genome and transform our understanding of biology, accelerating scientific research and ultimately paving the way for new treatments for diseases. The platform, called AlphaGenome Atlas, contains a \"predictive map of every possible DNA letter change in the human genome,\" the researchers said in a blog post published on Tuesday. DNA is written in an alphabet of four chemical \"letters\" -…",
+      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/alphagenome-atlas-cover__background.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "source": "The Verge",
+      "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/991180/google-launches-alpha-genome-atlas",
+      "publishedAt": "2026-09-08T14:00:00.000Z"
+    },
+    {
+      "id": "sm7ku4",
+      "title": "Adobe is trying to make its AI generators idiot-proof in Premiere",
+      "summary": "Suspenseful clock ticking… as you wait for AI to take your job. | Image: Adobe Adobe is overhauling how editors interact with AI in its Premiere professional video editing software. Its new Generative Media tool makes it easier to generate video, sound effects, music, and soundscapes without ever leaving the project timeline. The generators themselves aren't entirely new; the big change is how easily you can access them without breaking your workflow. Instead of jumping between browsers or…",
+      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/Premiere_Gen-Media-Tool-2.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "source": "The Verge",
+      "sourceUrl": "https://www.theverge.com/tech/991133/adobe-is-trying-to-make-its-ai-generators-idiot-proof-in-premiere",
+      "publishedAt": "2026-09-08T13:00:00.000Z"
+    },
+    {
+      "id": "ehmuzo",
+      "title": "The Download: our 35 Innovators Under 35 this year",
+      "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. Introducing our 35 Innovators Under 35 list for 2026 What will the next generation of science and technology look like? Our latest Innovators Under 35 list offers a glimpse. Every year,…",
+      "imageUrl": "https://images.unsplash.com/photo-1550751827-4bd374c3f58b?w=800&q=80",
+      "source": "MIT Tech Review",
+      "sourceUrl": "https://www.technologyreview.com/2026/09/08/1143615/the-download-35-innovators-under-35-spiderwebs-measuring-nature/",
+      "publishedAt": "2026-09-08T12:10:00.000Z"
+    },
     {
       "id": "80rb2q",
       "title": "This founder is teaching chips how to recycle (their energy)",
@@ -282,15 +327,6 @@
       "publishedAt": "2026-09-04T14:47:11.000Z"
     },
     {
-      "id": "ktf25t",
-      "title": "Less than 24 hours to apply for your TechCrunch Disrupt 2026 Side Event",
-      "summary": "Less than 24 hours left to apply to host a Side Event during TechCrunch Disrupt 2026 and make your mark in the Silicon Valley scene. Apply before the application closes tonight at midnight PT.",
-      "imageUrl": "https://images.unsplash.com/photo-1550751827-4bd374c3f58b?w=800&q=80",
-      "source": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/09/04/less-than-24-hours-to-apply-for-your-techcrunch-disrupt-2026-side-event/",
-      "publishedAt": "2026-09-04T14:00:00.000Z"
-    },
-    {
       "id": "pgxoo0",
       "title": "Rogue OpenAI agents appear to have organized another attack using a German wiki",
       "summary": "A swarm of rogue AI agents from OpenAI reportedly commandeered a German website and transformed it into a messaging board for other agents, with officials staying quiet about the incident for weeks as the company prepared to launch its most advanced model yet, Astra. The finding adds to intensifying concern surrounding oversight at frontier AI labs after multiple breaches were discovered this summer. The incident, first reported by Reuters, is outlined in new research published by four AI safety…",
@@ -321,7 +357,7 @@
       "id": "7jwznr",
       "title": "Why AI food looks like that",
       "summary": "There is a torrent of unappetizing slop coming from restaurants, cafes, and brands that are increasingly turning to AI to generate images promoting their food. The resulting horror show includes donut shrimp, Reubens from the deep, wormlike noodles, and noodle-like pastries and stringy chicken. There's also construction material masquerading as ice cream, ice cream masquerading as brains, and other masonry-adjacent cuisine. I don't even know how to begin describing this monstrous attempt of a…",
-      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/268722_Why_does_AI_food_look_like_that_CVirginia.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/268722_Why_does_AI_food_look_like_that_CVirginia3.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
       "source": "The Verge",
       "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/989376/ai-generated-food-why-does-it-look-like-that",
       "publishedAt": "2026-09-04T11:00:00.000Z"
@@ -336,15 +372,6 @@
       "publishedAt": "2026-09-04T10:44:15.000Z"
     },
     {
-      "id": "t60wdv",
-      "title": "Sam Altman apologizes for ‘messy’ GPT-6 Astra rollout that’s locked out paying users",
-      "summary": "Just hours after OpenAI launched GPT-6 Astra, CEO Sam Altman was already apologizing for what he describes as a \"messy rollout\" after paying users expecting access to the new frontier model were left waiting. The company hailed the model as a \"generational leap in capability\" on Thursday and described it as the start of \"the AGI era,\" a fuzzy and poorly defined term tech executives nevertheless insist on using to promote their products. It said Astra would roll out to some enterprise customers -…",
-      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/gettyimages-2285138968.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "source": "The Verge",
-      "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/990060/altman-apologizes-messy-astra-rollout",
-      "publishedAt": "2026-09-04T10:41:48.000Z"
-    },
-    {
       "id": "60g8jm",
       "title": "AI Use in the Job Market Is Creating an Infinite Doom Loop",
       "summary": "Job seekers are trying to game the application process using AI. It’s not working, and not for the reasons you might think.",
@@ -354,15 +381,6 @@
       "publishedAt": "2026-09-04T10:00:00.000Z"
     },
     {
-      "id": "1ykfqj",
-      "title": "This NAS company wants to run your local smart home",
-      "summary": "Ugreen’s HomeAgent H100 Pro hub combines local storage, on-device AI, and a new voice assistant, Uliya, to run your smart home. | Photo by Jennifer Pattison Tuohy / The Verge Ugreen, known for its phone power banks, chargers, and NAS storage solutions, is moving into the smart home - in a big way. This week at the IFA tech show, the company launched its HomeAgent smart home platform that combines security camera storage, on-device AI, and smart home control in one system, managed by a voice…",
-      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/LR6B5640.jpeg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "source": "The Verge",
-      "sourceUrl": "https://www.theverge.com/tech/990006/this-nas-company-wants-to-run-your-local-smart-home",
-      "publishedAt": "2026-09-04T09:41:44.000Z"
-    },
-    {
       "id": "bgqaj0",
       "title": "Data from drones in Ukraine is fueling a new Wild West marketplace",
       "summary": "Battlefields in Ukraine are littered with the remnants of drones, which are now firmly established as a critical weapon of modern warfare. But behind all that wreckage, there’s a new gold mine for the defense sector. The data drones generate will far outlast the wars in which they are used to fight, increasingly becoming part…",
@@ -370,15 +388,6 @@
       "source": "MIT Tech Review",
       "sourceUrl": "https://www.technologyreview.com/2026/09/04/1143452/drone-data-wild-west/",
       "publishedAt": "2026-09-04T09:25:19.000Z"
-    },
-    {
-      "id": "r9bvsr",
-      "title": "The sameness problem behind those unappetizing AI-generated menus",
-      "summary": "While restaurant owners might look to generative AI as a shortcut to sprucing up their menu, customers can viscerally sense that something is wrong with the food.",
-      "imageUrl": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=800&q=80",
-      "source": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/09/03/the-sameness-problem-behind-those-unappetizing-ai-generated-menus/",
-      "publishedAt": "2026-09-04T04:21:03.000Z"
     },
     {
       "id": "opq1yr",
@@ -442,15 +451,6 @@
       "source": "MIT Tech Review",
       "sourceUrl": "https://www.technologyreview.com/2026/09/03/1143385/the-download-rethinking-child-safety-online-fossil-fuels-farming/",
       "publishedAt": "2026-09-03T12:10:00.000Z"
-    },
-    {
-      "id": "16glpm",
-      "title": "Agriculture relies on fossil fuels. It’s costing us.",
-      "summary": "If you’ve had to fill up your vehicle’s gas tank or buy a plane ticket lately, you’ve probably felt the effects of rising fossil-fuel prices. But farmers buying fertilizer for their crops are especially aware of just how far the ripple effects of the conflict in Iran have spread. Fertilizer prices have been on a…",
-      "imageUrl": "https://images.unsplash.com/photo-1620712943543-bcc4688e7485?w=800&q=80",
-      "source": "MIT Tech Review",
-      "sourceUrl": "https://www.technologyreview.com/2026/09/03/1143320/fertilizer-prices-fossil-fuels/",
-      "publishedAt": "2026-09-03T10:00:00.000Z"
     },
     {
       "id": "bfnpq7",
