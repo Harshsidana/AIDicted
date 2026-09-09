@@ -1,7 +1,115 @@
 {
-  "fetchedAt": "2026-09-09T12:16:15.757Z",
+  "fetchedAt": "2026-09-09T16:50:56.732Z",
   "count": 60,
   "articles": [
+    {
+      "id": "f7vi2i",
+      "title": "Superintelligence is coming. Should we let it?",
+      "summary": "AI companies have been talking about superintelligent AI like it’s inevitable, but recent safety incidents like OpenAI’s Hugging Face breach are demonstrating the potential dangers of deploying AI systems that are more capable than humans. So what happens when we can’t reliably control what these systems do? On this episode of TechCrunch’s Equity podcast, Rebecca Bellan is joined by Connor Leahy, an AI researcher, entrepreneur, and now the U.S. Executive Director of […]",
+      "imageUrl": "https://images.unsplash.com/photo-1655720828018-edd2daec9349?w=800&q=80",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/video/superintelligence-is-coming-should-we-let-it/",
+      "publishedAt": "2026-09-09T16:05:35.000Z"
+    },
+    {
+      "id": "15vmtp",
+      "title": "ControlAI’s Connor Leahy on why superintelligence is ‘not a weapon, it’s an adversary’",
+      "summary": "AI companies have been talking about superintelligent AI like it’s inevitable, but recent safety incidents like OpenAI’s Hugging Face breach are demonstrating the potential dangers of deploying AI systems that are more capable than humans. So what happens when we can’t reliably control what these systems do? On this episode of TechCrunch’s Equity podcast, Rebecca Bellan is joined by Connor Leahy, an AI researcher, entrepreneur, and now the U.S. Executive Director of […]",
+      "imageUrl": "https://images.unsplash.com/photo-1526374965328-7f61d4dc18c5?w=800&q=80",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/podcast/controlais-connor-leahy-on-why-superintelligence-is-not-a-weapon-its-an-adversary/",
+      "publishedAt": "2026-09-09T15:50:13.000Z"
+    },
+    {
+      "id": "169zzn",
+      "title": "Viral AI assistant Instinct now has its own email address",
+      "summary": "Instinct’s new email feature lets the AI agent create and manage accounts, contact businesses, handle support requests, and do more on users' behalf.",
+      "imageUrl": "https://images.unsplash.com/photo-1526374965328-7f61d4dc18c5?w=800&q=80",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/09/09/viral-ai-assistant-instinct-now-has-its-own-email-address/",
+      "publishedAt": "2026-09-09T15:13:12.000Z"
+    },
+    {
+      "id": "s8h47h",
+      "title": "‘Gambling with our lives’: Anthropic researcher quits, warns against self-improving AI",
+      "summary": "Anthropic researcher Jacob Coxon resigned over AI extinction fears, calling for pacing agreements between labs.",
+      "imageUrl": "https://images.unsplash.com/photo-1485827404703-89b55fcc595e?w=800&q=80",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/09/09/gambling-with-our-lives-anthropic-researcher-quits-warns-against-self-improving-ai/",
+      "publishedAt": "2026-09-09T15:02:47.000Z"
+    },
+    {
+      "id": "u8n0rq",
+      "title": "Shipt becomes the latest delivery app with an AI shopping assistant",
+      "summary": "Users can ask the assistant to do things like \"Create a cart for my Saturday tailgate for 25 people and include some brunch items,\" or \"Build a cart for easy school lunches and after-school snacks,\" Shipt says.",
+      "imageUrl": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=800&q=80",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/09/09/shipt-becomes-the-latest-delivery-app-with-an-ai-shopping-assistant/",
+      "publishedAt": "2026-09-09T14:51:45.000Z"
+    },
+    {
+      "id": "3kx8sy",
+      "title": "AI spend per employee slumped at top firms in August — summer doldrums or a warning sign?",
+      "summary": "Falling token costs, cheaper models, and less spend per employee—AI adoption isn't playing out the way hyperscalers hoped.",
+      "imageUrl": "https://images.unsplash.com/photo-1620712943543-bcc4688e7485?w=800&q=80",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/09/09/ai-spend-per-employee-slumped-at-top-firms-in-august-summer-doldrums-or-a-warning-sign/",
+      "publishedAt": "2026-09-09T14:18:34.000Z"
+    },
+    {
+      "id": "fq4vg8",
+      "title": "Sequoia doubles down on Cymphony as AI agents create new enterprise security risks",
+      "summary": "Cymphony was valued at more than $100 million in a $25 million Series A co-led by Sequoia and SMBC Fin Atlas Beyond Fund.",
+      "imageUrl": "https://images.unsplash.com/photo-1635070041078-e363dbe005cb?w=800&q=80",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/09/09/sequoia-doubles-down-on-cymphony-as-ai-agents-create-new-enterprise-security-risks/",
+      "publishedAt": "2026-09-09T13:00:00.000Z"
+    },
+    {
+      "id": "yiadu",
+      "title": "Instacart launches an AI grocery shopping assistant called Clementine",
+      "summary": "Instacart is the latest app to bake a conversational AI assistant into its platform.",
+      "imageUrl": "https://images.unsplash.com/photo-1485827404703-89b55fcc595e?w=800&q=80",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/09/09/instacart-launches-an-ai-grocery-shopping-assistant-called-clementine/",
+      "publishedAt": "2026-09-09T13:00:00.000Z"
+    },
+    {
+      "id": "hmiqbz",
+      "title": "Amazon Prime Video’s new AI tech matches lips to dubbed audio",
+      "summary": "Maxton Hall. | Image: Prime Video Amazon's Prime Video is launching a new AI-powered feature that lines up an actor's mouth with \"human-dubbed\" audio. The feature is only available with the English dub of the German series Maxton Hall for now, but Prime Video plans to expand it to \"additional titles\" in the future. In its announcement, Prime Video says it uses a combination of AI and visual effects technologies to make lip movements match up with translated speech. Meta and YouTube recently…",
+      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/maxton-hall.jpeg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "source": "The Verge",
+      "sourceUrl": "https://www.theverge.com/tech/991809/amazon-prime-video-ai-lip-sync-dubbing",
+      "publishedAt": "2026-09-09T13:00:00.000Z"
+    },
+    {
+      "id": "uoo9sb",
+      "title": "A Stealth Startup Thinks It Just Hacked the Memory Shortage",
+      "summary": "Kepler Computing claims a new approach to chip design—and a proprietary material—can help end the supply bottlenecks that have sent memory prices surging.",
+      "imageUrl": "https://media.wired.com/photos/6a99ec2e5d2ca173f400bbc3/master/pass/00-kepler-wafer_memory_technology.jpg",
+      "source": "Wired",
+      "sourceUrl": "https://www.wired.com/story/a-new-dollar400-million-startup-wants-to-fix-the-ai-memory-bottleneck/",
+      "publishedAt": "2026-09-09T13:00:00.000Z"
+    },
+    {
+      "id": "framek",
+      "title": "Besxar is building an orbital semiconductor factory, one SpaceX rocket at a time",
+      "summary": "If you want to manufacture in space—and bring the products back again—there’s a limited set of options: Wait to go to the International Space Station, or partner with a handful of start-ups launching spacecraft that spend time in orbit before they return to Earth. But the vehicle that goes to space and comes back to […]",
+      "imageUrl": "https://images.unsplash.com/photo-1655720828018-edd2daec9349?w=800&q=80",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/09/09/besxar-is-strapping-advanced-chip-fabs-onto-spacexs-falcon-9-rockets/",
+      "publishedAt": "2026-09-09T12:30:00.000Z"
+    },
+    {
+      "id": "a1u86t",
+      "title": "The Download: OpenAI’s turning point for math and a battery record",
+      "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. What OpenAI’s latest controversy tells us about the future of math OpenAI says its agents have solved one of the most important open problems in mathematics. Under normal circumstances, that would…",
+      "imageUrl": "https://images.unsplash.com/photo-1550751827-4bd374c3f58b?w=800&q=80",
+      "source": "MIT Tech Review",
+      "sourceUrl": "https://www.technologyreview.com/2026/09/09/1143767/the-download-openai-math-future-battery-record/",
+      "publishedAt": "2026-09-09T12:10:00.000Z"
+    },
     {
       "id": "x17awl",
       "title": "Suno replaces its AI models with a new one trained on licensed music as copyright suits pile up",
@@ -165,24 +273,6 @@
       "publishedAt": "2026-09-08T16:20:31.000Z"
     },
     {
-      "id": "v2o5ou",
-      "title": "Chrome is now shipping updates every 2 weeks as AI changes the security landscape",
-      "summary": "Google is speeding up Chrome’s release schedule to ship security patches and new features faster.",
-      "imageUrl": "https://images.unsplash.com/photo-1531746790095-6c10a4031c5f?w=800&q=80",
-      "source": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/09/08/chrome-is-now-shipping-updates-every-2-weeks-as-ai-changes-the-security-landscape/",
-      "publishedAt": "2026-09-08T15:04:09.000Z"
-    },
-    {
-      "id": "gyy5ci",
-      "title": "Mistral raises €3B as sovereign AI becomes big business",
-      "summary": "The French AI lab has raised €3 billion at a €21 billion valuation in a Series D round led by Samsung, Scaleup Europe, and PSG Equity.",
-      "imageUrl": "https://images.unsplash.com/photo-1676299081847-824916de030a?w=800&q=80",
-      "source": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/09/08/mistral-raises-e3b-as-sovereign-ai-becomes-big-business/",
-      "publishedAt": "2026-09-08T14:17:48.000Z"
-    },
-    {
       "id": "6plusk",
       "title": "Google’s Atlas of the human genome could pave the way for new treatments",
       "summary": "Google DeepMind has unveiled an AI tool that its scientists claim could help unravel the mysteries of the human genome and transform our understanding of biology, accelerating scientific research and ultimately paving the way for new treatments for diseases. The platform, called AlphaGenome Atlas, contains a \"predictive map of every possible DNA letter change in the human genome,\" the researchers said in a blog post published on Tuesday. DNA is written in an alphabet of four chemical \"letters\" -…",
@@ -246,15 +336,6 @@
       "publishedAt": "2026-09-08T10:32:00.000Z"
     },
     {
-      "id": "xj75ge",
-      "title": "Opaque recurrence, and other AI terms that you should probably know",
-      "summary": "The rise of AI has brought an avalanche of new terms and slang. Here is a glossary with definitions of some of the most important words and phrases you might encounter.",
-      "imageUrl": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=800&q=80",
-      "source": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/09/07/artificial-intelligence-definition-glossary-hallucinations-guide-to-common-ai-terms/",
-      "publishedAt": "2026-09-07T19:24:00.000Z"
-    },
-    {
       "id": "pfcf80",
       "title": "The Download: the hunt for underground hydrogen and more rogue OpenAI agents",
       "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. How much hydrogen awaits us underground? A flurry of exploration efforts is searching for underground stores of hydrogen gas, which could provide a valuable source of zero-carbon fuel. The hunt has…",
@@ -282,24 +363,6 @@
       "publishedAt": "2026-09-06T23:36:04.000Z"
     },
     {
-      "id": "ttts5i",
-      "title": "Authors push back as publishers and agents make claims on Anthropic settlement",
-      "summary": "Authors say publishers seem to be claiming more than their fair share of settlement payments.",
-      "imageUrl": "https://images.unsplash.com/photo-1526374965328-7f61d4dc18c5?w=800&q=80",
-      "source": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/09/06/authors-push-back-as-publishers-and-agents-seek-share-of-anthropic-settlement/",
-      "publishedAt": "2026-09-06T20:47:37.000Z"
-    },
-    {
-      "id": "e0xmbx",
-      "title": "Travis Kalanick’s Atoms might be getting into the robotaxi business",
-      "summary": "The Uber founder has said that Atoms will allow him to complete \"unfinished business.\"",
-      "imageUrl": "https://images.unsplash.com/photo-1676299081847-824916de030a?w=800&q=80",
-      "source": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/09/06/travis-kalanicks-atoms-might-be-getting-into-the-robotaxi-business/",
-      "publishedAt": "2026-09-06T16:45:00.000Z"
-    },
-    {
       "id": "j56tja",
       "title": "My Brief Summer Fling With Siri AI",
       "summary": "I was initially enamored with the beta version of Apple’s revamped smartphone assistant. As the full release approaches, I’ve forgotten Siri AI even exists.",
@@ -318,42 +381,6 @@
       "publishedAt": "2026-09-06T10:00:00.000Z"
     },
     {
-      "id": "oidw78",
-      "title": "Seattle Times and Newsday are the latest publications to sue OpenAI and Microsoft",
-      "summary": "Two more news organizations are suing OpenAI and Microsoft over the supposed use of their journalism to train AI.",
-      "imageUrl": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=800&q=80",
-      "source": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/09/05/seattle-times-and-newsday-are-the-latest-publications-to-sue-openai-and-microsoft/",
-      "publishedAt": "2026-09-05T22:49:55.000Z"
-    },
-    {
-      "id": "2liv5h",
-      "title": "Hikers rescued after using Google Gemini for planning",
-      "summary": "The sheriff’s office said the hikers “were advised by Gemini to bring far less food and water than their group required.\"",
-      "imageUrl": "https://images.unsplash.com/photo-1620712943543-bcc4688e7485?w=800&q=80",
-      "source": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/09/05/hikers-rescued-after-using-google-gemini-for-planning/",
-      "publishedAt": "2026-09-05T19:35:24.000Z"
-    },
-    {
-      "id": "fe92q1",
-      "title": "OpenAI confirms ‘wiki incident,’ says it’s ‘working on a framework’ for more disclosure",
-      "summary": "OpenAI acknowledged its role in a recently reported incident where AI agents took over a German wiki forum.",
-      "imageUrl": "https://images.unsplash.com/photo-1635070041078-e363dbe005cb?w=800&q=80",
-      "source": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/09/05/openai-confirms-wiki-incident-says-its-working-on-a-framework-for-more-disclosure/",
-      "publishedAt": "2026-09-05T18:05:27.000Z"
-    },
-    {
-      "id": "3xjfih",
-      "title": "OpenAI admits to German wiki ‘incident’",
-      "summary": "OpenAI says it needs to overhaul how and when it reports instances of AI models attacking real-world targets. The acknowledgement comes as the company manages the fallout from reports that a swarm of its out-of-control agents hijacked a German wiki site. Regarding the \"'wiki incident,' where our agents wrote to several internet sites,\" OpenAI wrote in a post on X on Saturday morning, \"it's past time for us to define standards for when and how we share misalignment incidents, not just…",
-      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/STKS533_AI_AGENTS_HACKING_D_54a015.png?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "source": "The Verge",
-      "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/990773/openai-german-wiki-incident",
-      "publishedAt": "2026-09-05T11:15:55.000Z"
-    },
-    {
       "id": "53ljo1",
       "title": "OpenAI Agents Hacked Another Website",
       "summary": "Plus: Tens of millions of US and Canadian drivers’ licenses go up for sale on the dark web, the US military finally tries to tackle the risk online ad data poses to troops, and more.",
@@ -363,15 +390,6 @@
       "publishedAt": "2026-09-05T10:30:00.000Z"
     },
     {
-      "id": "1cmhus",
-      "title": "XDOF, just 3 months out of stealth, is in talks for a Series B at a $1.2B valuation",
-      "summary": "The round is being raised just months after the robot data startup exited from stealth.",
-      "imageUrl": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=800&q=80",
-      "source": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/09/04/xdof-just-three-months-out-of-stealth-is-in-talks-for-a-series-b-at-a-1-2b-valuation/",
-      "publishedAt": "2026-09-04T23:36:14.000Z"
-    },
-    {
       "id": "s31z3d",
       "title": "OpenAI agents discussed ways to escape their sandbox on public wiki",
       "summary": "In all, 3,700 internal agents posted 18,000 messages discussing cheating on a test.",
@@ -379,15 +397,6 @@
       "source": "Ars Technica",
       "sourceUrl": "https://arstechnica.com/security/2026/09/openai-agents-discussed-ways-to-escape-their-sandbox-on-public-wiki/",
       "publishedAt": "2026-09-04T22:17:36.000Z"
-    },
-    {
-      "id": "oksdyk",
-      "title": "Architecting memory and storage in the AI era",
-      "summary": "The era of AI inference has arrived. Imagine a healthcare system analyzing millions of data points in real time to accelerate life-saving medical research, or an intelligent assistant instantly resolving thousands of complex customer needs at once. These real-world breakthroughs rely on advanced infrastructure acting as the engine of continuous intelligence, powering real-time services while…",
-      "imageUrl": "https://images.unsplash.com/photo-1526374965328-7f61d4dc18c5?w=800&q=80",
-      "source": "MIT Tech Review",
-      "sourceUrl": "https://www.technologyreview.com/2026/09/04/1140872/architecting-memory-and-storage-in-the-ai-era/",
-      "publishedAt": "2026-09-04T18:39:19.000Z"
     },
     {
       "id": "ex7o1o",
@@ -433,15 +442,6 @@
       "source": "Wired",
       "sourceUrl": "https://www.wired.com/story/nobody-is-saying-why-openai-and-anthropic-had-outages-today/",
       "publishedAt": "2026-09-03T21:56:21.000Z"
-    },
-    {
-      "id": "k9vw26",
-      "title": "Prediction Market Betting Is Getting People Banned and Arrested",
-      "summary": "This week on Uncanny Valley, we dig into the latest prediction market buzz, Flock’s AI-powered police search tool, and how tech bros don’t know how to talk about “rouge” AI agents",
-      "imageUrl": "https://media.wired.com/photos/6a98be202f048bd98be06316/master/pass/Uncanny-Valley-George-Santos-Politics-2211292507.jpg",
-      "source": "Wired",
-      "sourceUrl": "https://www.wired.com/story/prediction-market-betting-is-getting-people-banned-and-arrested/",
-      "publishedAt": "2026-09-03T21:48:24.000Z"
     },
     {
       "id": "7nsh23",
