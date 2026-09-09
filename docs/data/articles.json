@@ -1,7 +1,16 @@
 {
-  "fetchedAt": "2026-09-09T01:09:13.093Z",
+  "fetchedAt": "2026-09-09T06:33:46.916Z",
   "count": 60,
   "articles": [
+    {
+      "id": "ks0r8i",
+      "title": "What OpenAI’s latest controversy tells us about the future of math",
+      "summary": "OpenAI’s latest mathematical milestone has quickly become mired in controversy. Today, the company announced that its agents have solved one of the Millennium Prize Problems, some of the most important open problems in mathematics. Under normal circumstances, that solution would be a huge feather in OpenAI’s cap. But the announcement has been overshadowed by accusations…",
+      "imageUrl": "https://images.unsplash.com/photo-1655720828018-edd2daec9349?w=800&q=80",
+      "source": "MIT Tech Review",
+      "sourceUrl": "https://www.technologyreview.com/2026/09/08/1143747/what-openais-latest-controversy-tells-us-about-the-future-of-math/",
+      "publishedAt": "2026-09-09T03:10:08.000Z"
+    },
     {
       "id": "o8hs1f",
       "title": "Why this month's Microsoft patch release is a doozy",
@@ -255,8 +264,8 @@
       "publishedAt": "2026-09-06T10:30:00.000Z"
     },
     {
-      "id": "a85hr2",
-      "title": "Why China Is the Bogeyman Data Center Enthusiasts Just Can't Quit",
+      "id": "joqdf4",
+      "title": "Why China Is the Bogeyman Data Center Enthusiasts Just Can’t Quit",
       "summary": "Polls show that overwhelming majorities of Americans hate data centers. China makes a perfect scapegoat for tech leaders and their allies—the only problem is a lack of evidence.",
       "imageUrl": "https://media.wired.com/photos/6a998bf0d9ba7b75ced0a131/master/pass/DataCenterColumn1.jpg",
       "source": "Wired",
@@ -451,15 +460,6 @@
       "source": "Ars Technica",
       "sourceUrl": "https://arstechnica.com/information-technology/2026/09/vmware-migration-reduces-tottenham-hotspurs-licensing-fees-by-85-percent/",
       "publishedAt": "2026-09-03T18:58:31.000Z"
-    },
-    {
-      "id": "5ravl7",
-      "title": "The Download: rethinking child safety and fossil-fueled farming",
-      "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. Child-monitoring apps might need a reboot Digital harms have become the defining fear of American parents. In response, they’re increasingly turning to content-monitoring apps that scan their children’s texts, photos, emails,…",
-      "imageUrl": "https://images.unsplash.com/photo-1485827404703-89b55fcc595e?w=800&q=80",
-      "source": "MIT Tech Review",
-      "sourceUrl": "https://www.technologyreview.com/2026/09/03/1143385/the-download-rethinking-child-safety-online-fossil-fuels-farming/",
-      "publishedAt": "2026-09-03T12:10:00.000Z"
     },
     {
       "id": "bfnpq7",
