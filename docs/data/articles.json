@@ -1,7 +1,16 @@
 {
-  "fetchedAt": "2026-09-08T22:31:04.685Z",
+  "fetchedAt": "2026-09-09T01:09:13.093Z",
   "count": 60,
   "articles": [
+    {
+      "id": "o8hs1f",
+      "title": "Why this month's Microsoft patch release is a doozy",
+      "summary": "Security gnomes are pumping out patches ahead of an expected onslaught of AI-assisted attacks.",
+      "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2023/07/exploit-vulnerability-security.jpg",
+      "source": "Ars Technica",
+      "sourceUrl": "https://arstechnica.com/security/2026/09/microsoft-patches-a-record-972-vulnerabilities-112-of-them-critical/",
+      "publishedAt": "2026-09-08T21:11:46.000Z"
+    },
     {
       "id": "yiaost",
       "title": "Hackers are stealing Claude tokens from subscribers",
@@ -532,15 +541,6 @@
       "source": "Ars Technica",
       "sourceUrl": "https://arstechnica.com/security/2026/08/aliexpress-caught-fingerprinting-visitors-after-sending-inaudible-sounds-to-browsers/",
       "publishedAt": "2026-08-24T19:19:21.000Z"
-    },
-    {
-      "id": "e0zpcm",
-      "title": "Waymo doubles spending on lobbying in robotaxi battle with Uber",
-      "summary": "Alphabet-owned company is seeking to persuade US regulators to clear a path for fully autonomous taxi services.",
-      "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2026/08/ftcms_8bad1114-5b27-4fc9-8102-1cb63e7f76fb-1152x648.jpeg",
-      "source": "Ars Technica",
-      "sourceUrl": "https://arstechnica.com/cars/2026/08/waymo-doubles-spending-on-lobbying-in-robotaxi-battle-with-uber/",
-      "publishedAt": "2026-08-21T13:11:35.000Z"
     }
   ]
 }
