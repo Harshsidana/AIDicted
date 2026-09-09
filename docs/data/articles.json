@@ -1,7 +1,52 @@
 {
-  "fetchedAt": "2026-09-09T06:33:46.916Z",
+  "fetchedAt": "2026-09-09T12:16:15.757Z",
   "count": 60,
   "articles": [
+    {
+      "id": "x17awl",
+      "title": "Suno replaces its AI models with a new one trained on licensed music as copyright suits pile up",
+      "summary": "As it grapples with a bevy of lawsuits, Suno said its new model, Suno v6, is not trained using music it used to train previous versions of the AI model.",
+      "imageUrl": "https://images.unsplash.com/photo-1550751827-4bd374c3f58b?w=800&q=80",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/09/09/suno-replaces-its-ai-models-with-a-new-one-trained-on-licensed-music-as-copyright-suits-pile-up/",
+      "publishedAt": "2026-09-09T12:05:34.000Z"
+    },
+    {
+      "id": "ak8qn5",
+      "title": "Students who use AI generally score worse at school",
+      "summary": "Students who use AI to help them study tend to perform worse at school than those who don't, according to data from a global OECD educational report. The situation is more complex than it sounds though, with certain types of AI use giving learners a slight boost, especially among students taught to critically assess how well the AI tools perform. The OECD's Programme for International Student Assessment (PISA) takes data from countries around the world every few years. This year's study, based…",
+      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25584700/STK483_EDUCATION_C.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "source": "The Verge",
+      "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/991956/student-ai-use-scores-oecd-pisa",
+      "publishedAt": "2026-09-09T12:05:01.000Z"
+    },
+    {
+      "id": "umq5i2",
+      "title": "Worried Anthropic researchers warn that AI ‘could kill all humans’",
+      "summary": "A senior Anthropic safety researcher has said there is more than a 10 percent chance artificial intelligence \"could kill all humans\" by the end of the decade, just hours after a colleague resigned over fears the AI lab and its rivals are carelessly racing to build \"superhuman systems\" they cannot control. In a post on X announcing his departure, Jacob Coxon, a researcher who has trained AI systems at Anthropic, said he had quit the company over its lax approach to safety. Coxon, who previously…",
+      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/STK269_ANTHROPIC_2_A-1.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "source": "The Verge",
+      "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/991927/anthropic-ai-kill-all-humans",
+      "publishedAt": "2026-09-09T09:56:28.000Z"
+    },
+    {
+      "id": "3jlr2g",
+      "title": "Batteries just broke another record in the US",
+      "summary": "Battery installations hit a new record in the US in the second quarter of 2026. In total, 20.2 gigawatt-hours of new capacity came online, according to a new report. That’s enough to supply the daily electricity needs of about 700,000 homes. The surge is putting the country on a trajectory to see 71 gigawatt-hours of…",
+      "imageUrl": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=800&q=80",
+      "source": "MIT Tech Review",
+      "sourceUrl": "https://www.technologyreview.com/2026/09/09/1143680/batteries-us-record/",
+      "publishedAt": "2026-09-09T09:00:00.000Z"
+    },
+    {
+      "id": "li5z5k",
+      "title": "Understanding the thermal ceiling in portable power",
+      "summary": "Plug a phone into a modern charger and the first 10 minutes are impressive. The next 20 are not. This is not a defect. It’s the connected device protecting itself. As temperature rises during charging, a smartphone’s battery management system reduces the current it will accept, because heat accelerates the chemical degradation that permanently reduces…",
+      "imageUrl": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=800&q=80",
+      "source": "MIT Tech Review",
+      "sourceUrl": "https://www.technologyreview.com/2026/09/09/1143279/understanding-the-thermal-ceiling-in-portable-power/",
+      "publishedAt": "2026-09-09T08:18:13.000Z"
+    },
     {
       "id": "ks0r8i",
       "title": "What OpenAI’s latest controversy tells us about the future of math",
@@ -327,15 +372,6 @@
       "publishedAt": "2026-09-04T23:36:14.000Z"
     },
     {
-      "id": "alibdx",
-      "title": "OpenAI’s rogue agents keep escaping, with no formal process to investigate them",
-      "summary": "OpenAI’s latest agent swarm incident adds urgency to calls for independent investigations as researchers and lawmakers question whether AI labs should control the scope of their own safety reviews.",
-      "imageUrl": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=800&q=80",
-      "source": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/09/04/openais-rogue-agents-keep-escaping-with-no-formal-process-to-investigate-them/",
-      "publishedAt": "2026-09-04T23:15:11.000Z"
-    },
-    {
       "id": "s31z3d",
       "title": "OpenAI agents discussed ways to escape their sandbox on public wiki",
       "summary": "In all, 3,700 internal agents posted 18,000 messages discussing cheating on a test.",
@@ -352,15 +388,6 @@
       "source": "MIT Tech Review",
       "sourceUrl": "https://www.technologyreview.com/2026/09/04/1140872/architecting-memory-and-storage-in-the-ai-era/",
       "publishedAt": "2026-09-04T18:39:19.000Z"
-    },
-    {
-      "id": "vm10vm",
-      "title": "Roland is getting into generative AI music with Melody Flip",
-      "summary": "It's not quite the \"push button; get song\" of Suno, but Roland's new Melody Flip tool marks the company's foray into generative AI music. Available as a plug-in for your digital audio workstation (DAW), Melody Flip offers around 250 \"Palettes,\" which are essentially themed collections of musical ideas sorted by genre. You can start from scratch and ask it to generate any combination of melody, chord progression, bassline, or drums. Or you can feed it a reference track and have it build off the…",
-      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/Melody_Flip_Palettes-Fav.png?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "source": "The Verge",
-      "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/990197/roland-ai-music-melody-flip",
-      "publishedAt": "2026-09-04T17:51:35.000Z"
     },
     {
       "id": "ex7o1o",
@@ -381,15 +408,6 @@
       "publishedAt": "2026-09-04T17:18:12.000Z"
     },
     {
-      "id": "jsoydl",
-      "title": "Microsoft says virtually nobody was grabbing NYT articles through its chatbot",
-      "summary": "Microsoft's Copilot rarely reproduces even full sentences from news articles and books, let alone substantive chunks that could substitute for the original, the company says in new legal filings as it fights copyright claims from publishers including The New York Times and book authors. As part of the lawsuit's discovery, Microsoft provided 8.2 million Copilot chat logs to an expert hired by news publishers. The logs, it claims, were specifically chosen \"because they hit on keywords implicating…",
-      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/08/STK259_MICROSOFT_COPILOT_2__B.png?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "source": "The Verge",
-      "sourceUrl": "https://www.theverge.com/policy/990267/microsoft-openai-new-york-times-authors-lawsuit",
-      "publishedAt": "2026-09-04T16:05:57.000Z"
-    },
-    {
       "id": "wxd5ol",
       "title": "Who Cares if AI Is Conscious—It’s Basically Alive",
       "summary": "While philosophers ponder AI consciousness, the models have ideas of their own.",
@@ -399,15 +417,6 @@
       "publishedAt": "2026-09-04T15:00:00.000Z"
     },
     {
-      "id": "68hnzr",
-      "title": "The Download: selling battlefield drone data and AI reshaping language",
-      "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. Data from drones in Ukraine is fueling a new Wild West marketplace —Cory Alpert, a researcher at the University of Melbourne studying AI’s impact on democracy, who previously served in the…",
-      "imageUrl": "https://images.unsplash.com/photo-1655720828018-edd2daec9349?w=800&q=80",
-      "source": "MIT Tech Review",
-      "sourceUrl": "https://www.technologyreview.com/2026/09/04/1143457/the-download-ukraine-selling-drone-data-ai-reshaping-language/",
-      "publishedAt": "2026-09-04T12:10:00.000Z"
-    },
-    {
       "id": "60g8jm",
       "title": "AI Use in the Job Market Is Creating an Infinite Doom Loop",
       "summary": "Job seekers are trying to game the application process using AI. It’s not working, and not for the reasons you might think.",
@@ -415,15 +424,6 @@
       "source": "Wired",
       "sourceUrl": "https://www.wired.com/story/ai-job-market-infinite-doom-loop/",
       "publishedAt": "2026-09-04T10:00:00.000Z"
-    },
-    {
-      "id": "bgqaj0",
-      "title": "Data from drones in Ukraine is fueling a new Wild West marketplace",
-      "summary": "Battlefields in Ukraine are littered with the remnants of drones, which are now firmly established as a critical weapon of modern warfare. But behind all that wreckage, there’s a new gold mine for the defense sector. The data drones generate will far outlast the wars in which they are used to fight, increasingly becoming part…",
-      "imageUrl": "https://images.unsplash.com/photo-1676299081847-824916de030a?w=800&q=80",
-      "source": "MIT Tech Review",
-      "sourceUrl": "https://www.technologyreview.com/2026/09/04/1143452/drone-data-wild-west/",
-      "publishedAt": "2026-09-04T09:25:19.000Z"
     },
     {
       "id": "opq1yr",
