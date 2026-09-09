@@ -1,7 +1,88 @@
 {
-  "fetchedAt": "2026-09-09T19:39:55.522Z",
+  "fetchedAt": "2026-09-09T22:25:43.210Z",
   "count": 60,
   "articles": [
+    {
+      "id": "1yf27m",
+      "title": "OpenAI adds a prominent AI doomer to its board of directors",
+      "summary": "Paul Christiano, an influential AI researcher focused on alignment, is joining the OpenAI Foundation as a member of its board.",
+      "imageUrl": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=800&q=80",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/09/09/openai-adds-a-prominent-ai-doomer-to-its-board-of-directors/",
+      "publishedAt": "2026-09-09T22:25:22.000Z"
+    },
+    {
+      "id": "ofnui9",
+      "title": "The AI Researcher Who Just Quit Anthropic Says It’s ‘Crunch Time for Humanity’",
+      "summary": "Jacob Coxon talks to WIRED about the “mini Manhattan project” inside Anthropic, the problem with alignment, and why AI labs have just a few years left to make their systems safe.",
+      "imageUrl": "https://media.wired.com/photos/6aa1afc94eb21a2db77402a8/master/pass/Security_InterviewWithAnthropicGuyWhoQuitBecauseAI_v-ezgif.com-video-to-gif-converter.gif",
+      "source": "Wired",
+      "sourceUrl": "https://www.wired.com/story/anthropic-researcher-quits-jacob-coxon-ai-fears-humanity/",
+      "publishedAt": "2026-09-09T22:11:55.000Z"
+    },
+    {
+      "id": "7evu3g",
+      "title": "Massachusetts hits data centers with new clean power rules",
+      "summary": "Massachusetts has become the third state in as many months to slap new restrictions on data center development.",
+      "imageUrl": "https://images.unsplash.com/photo-1550751827-4bd374c3f58b?w=800&q=80",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/09/09/massachusetts-hits-data-centers-with-new-clean-power-rules/",
+      "publishedAt": "2026-09-09T21:43:34.000Z"
+    },
+    {
+      "id": "1103zy",
+      "title": "Suno releases its first AI music model made with record industry help",
+      "summary": "Suno's new v6 AI music model is its first made with support from the record industry. Suno's Jack Brody told The Verge that v6 was \"trained from the ground up, with a new set of data that does not include the same data that our previous models were trained on.\" The data includes content licensed from partners Warner Music Group, BMG, and Believe, as well as \"user data.\" It's unclear whether that means v6 training data is completely free of dubiously obtained content. One of the big changes in v6…",
+      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/Suno_v6_Main.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "source": "The Verge",
+      "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/991977/suno-releases-its-first-ai-music-model-made-with-record-industry-help",
+      "publishedAt": "2026-09-09T21:42:19.000Z"
+    },
+    {
+      "id": "19fdg9",
+      "title": "OpenAI’s sly mathematical breakthrough sends a chill through academia",
+      "summary": "Open AI CEO Sam Altman speaks during the G20 Innovation Ministerial. | (Photo by Matt RAMEY / AFP via Getty Images) OpenAI's announcement Tuesday that it has solved one of mathematics' legendary Millennium Prize problems should have been a moment of triumph. The result is both an undeniable achievement and a striking demonstration of just how rapidly AI is transforming mathematics. But before it was even formally announced, the breakthrough had been complicated by the unusual circumstances that…",
+      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/gettyimages-2292626872.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "source": "The Verge",
+      "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/992953/openai-math-millennium-prize-navier-stokes",
+      "publishedAt": "2026-09-09T21:16:34.000Z"
+    },
+    {
+      "id": "numlbj",
+      "title": "San Francisco Orders Meta to Stop ‘Allowing’ AI Child Abuse Ads",
+      "summary": "The City Attorney’s Office has asked Meta to explain how the harmful ads repeatedly ran on Facebook and Instagram. The company claims the ads are not under the city’s jurisdiction.",
+      "imageUrl": "https://media.wired.com/photos/6aa1c5b373b15b9694431f6d/master/pass/GettyImages-2233066222.jpg",
+      "source": "Wired",
+      "sourceUrl": "https://www.wired.com/story/san-francisco-orders-meta-to-stop-allowing-ai-child-abuse-ads/",
+      "publishedAt": "2026-09-09T21:15:27.000Z"
+    },
+    {
+      "id": "x90sz7",
+      "title": "Read the Apple document explaining how new listening features still protect your privacy",
+      "summary": "At Wednesday's iPhone Duo launch event, Apple announced a handful of new Siri AI Audio Intelligence features, including Siri Recap, Live Rewind, Sound Recognition, and Music Recognition. Alongside its announcement, Apple released a document laying out how it plans to balance AI \"ambient listening\" and users' privacy. It says the raw audio from the new features \"is handled within dedicated hardware, is not saved as a file, and is not accessible to the operating system, apps, or Apple.\" Apple…",
+      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/apple-audio-intelligence-recap-wide.jpeg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "source": "The Verge",
+      "sourceUrl": "https://www.theverge.com/tech/992919/apple-siri-ai-audio-intelligence-privacy",
+      "publishedAt": "2026-09-09T20:44:43.000Z"
+    },
+    {
+      "id": "y2kcpa",
+      "title": "Apple Watch’s new AI features are normalizing the idea that technology is always listening",
+      "summary": "Apple says its new watches won’t save raw audio, but features that can transcribe recent speech and summarize ambient conversations raise new questions about consent, privacy, and how people behave when they know they could always be recorded.",
+      "imageUrl": "https://images.unsplash.com/photo-1531746790095-6c10a4031c5f?w=800&q=80",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/09/09/apple-watchs-new-ai-features-are-normalizing-the-idea-that-technology-is-always-listening/",
+      "publishedAt": "2026-09-09T20:24:48.000Z"
+    },
+    {
+      "id": "x2wqf7",
+      "title": "Everything Apple announced at its fall iPhone event, from the foldable iPhone Duo to an always-listening Apple Watch",
+      "summary": "The main event was the tech giant's highly anticipated first foldable phone, the iPhone Duo.",
+      "imageUrl": "https://images.unsplash.com/photo-1526374965328-7f61d4dc18c5?w=800&q=80",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/09/09/everything-apple-announced-at-its-fall-iphone-event-from-the-foldable-iphone-duo-to-an-always-listening-apple-watch/",
+      "publishedAt": "2026-09-09T20:03:43.000Z"
+    },
     {
       "id": "kqbzwd",
       "title": "Apple’s new iPhone camera mode promises to prove your photo isn’t AI",
@@ -120,15 +201,6 @@
       "publishedAt": "2026-09-09T14:18:34.000Z"
     },
     {
-      "id": "yiadu",
-      "title": "Instacart launches an AI grocery shopping assistant called Clementine",
-      "summary": "Instacart is the latest app to bake a conversational AI assistant into its platform.",
-      "imageUrl": "https://images.unsplash.com/photo-1485827404703-89b55fcc595e?w=800&q=80",
-      "source": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/09/09/instacart-launches-an-ai-grocery-shopping-assistant-called-clementine/",
-      "publishedAt": "2026-09-09T13:00:00.000Z"
-    },
-    {
       "id": "fq4vg8",
       "title": "Sequoia doubles down on Cymphony as AI agents create new enterprise security risks",
       "summary": "Cymphony gives security teams a single view of employees, AI agents, and other nonhuman identities, including the systems and sensitive data they can access.",
@@ -156,15 +228,6 @@
       "publishedAt": "2026-09-09T13:00:00.000Z"
     },
     {
-      "id": "framek",
-      "title": "Besxar is building an orbital semiconductor factory, one SpaceX rocket at a time",
-      "summary": "If you want to manufacture in space—and bring the products back again—there’s a limited set of options: Wait to go to the International Space Station, or partner with a handful of start-ups launching spacecraft that spend time in orbit before they return to Earth. But the vehicle that goes to space and comes back to […]",
-      "imageUrl": "https://images.unsplash.com/photo-1655720828018-edd2daec9349?w=800&q=80",
-      "source": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/09/09/besxar-is-strapping-advanced-chip-fabs-onto-spacexs-falcon-9-rockets/",
-      "publishedAt": "2026-09-09T12:30:00.000Z"
-    },
-    {
       "id": "a1u86t",
       "title": "The Download: OpenAI’s turning point for math and a battery record",
       "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. What OpenAI’s latest controversy tells us about the future of math OpenAI says its agents have solved one of the most important open problems in mathematics. Under normal circumstances, that would…",
@@ -172,15 +235,6 @@
       "source": "MIT Tech Review",
       "sourceUrl": "https://www.technologyreview.com/2026/09/09/1143767/the-download-openai-math-future-battery-record/",
       "publishedAt": "2026-09-09T12:10:00.000Z"
-    },
-    {
-      "id": "x17awl",
-      "title": "Suno replaces its AI models with a new one trained on licensed music as copyright suits pile up",
-      "summary": "As it grapples with a bevy of lawsuits, Suno said its new model, Suno v6, is not trained using music it used to train previous versions of the AI model.",
-      "imageUrl": "https://images.unsplash.com/photo-1550751827-4bd374c3f58b?w=800&q=80",
-      "source": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/09/09/suno-replaces-its-ai-models-with-a-new-one-trained-on-licensed-music-as-copyright-suits-pile-up/",
-      "publishedAt": "2026-09-09T12:05:34.000Z"
     },
     {
       "id": "ak8qn5",
@@ -237,15 +291,6 @@
       "publishedAt": "2026-09-08T21:11:46.000Z"
     },
     {
-      "id": "yiaost",
-      "title": "Hackers are stealing Claude tokens from subscribers",
-      "summary": "Last month, a Claude user noticed his account was consuming tokens even though he wasn't working. Anthropic has since warned users about hackers.",
-      "imageUrl": "https://images.unsplash.com/photo-1531746790095-6c10a4031c5f?w=800&q=80",
-      "source": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/09/08/hackers-are-stealing-claude-tokens-from-subscribers/",
-      "publishedAt": "2026-09-08T21:10:27.000Z"
-    },
-    {
       "id": "lu165b",
       "title": "Drama swirls around OpenAI’s legendary mathematical milestone",
       "summary": "OpenAI says it found a solution to a major math problem that has remained unsolved for around 90 years, as reported earlier by The New York Times and Wired. In a blog post on Tuesday, OpenAI announced that it discovered a solution to the Navier-Stokes problem - which relates to the flow of liquid and gas - using an internal AI model more powerful than the newly released GPT-6 Astra alongside 10,000 concurrent agents. The Navier-Stokes problem is one of seven Millennium Prize Problems, each of…",
@@ -273,24 +318,6 @@
       "publishedAt": "2026-09-08T20:12:51.000Z"
     },
     {
-      "id": "i9tnju",
-      "title": "Meta bets on AI agent Muse to catch up in AI race",
-      "summary": "Meta is making another push to bring artificial intelligence to the masses with Muse, a personal assistant it says can put AI in the hands of virtually anyone. The product is the latest step in a multi-billion-dollar strategy overhaul designed to revitalize the company's ailing position in the AI race and help it catch up to rivals like OpenAI, Anthropic, and Google. Muse is a \"personal AI agent\" designed to help out with everyday tasks and projects, like online shopping, sending emails, and…",
-      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/STK169_Mark_Zuckerburg_CVIRGINIA_C.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "source": "The Verge",
-      "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/991216/meta-bets-on-ai-agent-muse-to-catch-up-in-ai-race",
-      "publishedAt": "2026-09-08T19:00:00.000Z"
-    },
-    {
-      "id": "7w2ug5",
-      "title": "AI power users claim Anthropic duped them with subscriptions, and they’re taking it to court",
-      "summary": "Anthropic says power users are key to its business - it's prioritized them even when it means cutting off other popular applications, like OpenClaw. But some of these same customers say Anthropic misled them into believing they'd get more out of a top-tier pricing subscription than they did. In an expanded class action lawsuit filed today, a group of Claude subscribers say the company deceptively advertised the limits of its Max subscription tier. The lawsuit was brought by attorneys Monica Vaca…",
-      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/03/STK202_DARIO_AMODEI_CVIRGINIA_D.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "source": "The Verge",
-      "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/990313/anthropic-class-action-lawsuit-pricing-subscription-plans",
-      "publishedAt": "2026-09-08T17:27:31.000Z"
-    },
-    {
       "id": "fwcfu8",
       "title": "OpenAI Just Claimed a Huge Math Discovery. Some Academics Are Crying Foul",
       "summary": "A landmark announcement by the frontier AI lab has been overshadowed by accusations of impropriety.",
@@ -298,15 +325,6 @@
       "source": "Wired",
       "sourceUrl": "https://www.wired.com/story/openai-navier-stokes-math-discovery-academics/",
       "publishedAt": "2026-09-08T16:42:05.000Z"
-    },
-    {
-      "id": "6plusk",
-      "title": "Google’s Atlas of the human genome could pave the way for new treatments",
-      "summary": "Google DeepMind has unveiled an AI tool that its scientists claim could help unravel the mysteries of the human genome and transform our understanding of biology, accelerating scientific research and ultimately paving the way for new treatments for diseases. The platform, called AlphaGenome Atlas, contains a \"predictive map of every possible DNA letter change in the human genome,\" the researchers said in a blog post published on Tuesday. DNA is written in an alphabet of four chemical \"letters\" -…",
-      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/alphagenome-atlas-cover__background.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "source": "The Verge",
-      "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/991180/google-launches-alpha-genome-atlas",
-      "publishedAt": "2026-09-08T14:00:00.000Z"
     },
     {
       "id": "ehmuzo",
@@ -424,24 +442,6 @@
       "source": "Ars Technica",
       "sourceUrl": "https://arstechnica.com/security/2026/09/once-popular-for-attacking-ai-ascii-smuggling-is-embraced-by-spammers/",
       "publishedAt": "2026-09-04T17:18:12.000Z"
-    },
-    {
-      "id": "wxd5ol",
-      "title": "Who Cares if AI Is Conscious—It’s Basically Alive",
-      "summary": "While philosophers ponder AI consciousness, the models have ideas of their own.",
-      "imageUrl": "https://media.wired.com/photos/6a9a07e3356d3dfac634d3e8/master/pass/Backchannel-AI-Consciousness-Business-2289990159.jpg",
-      "source": "Wired",
-      "sourceUrl": "https://www.wired.com/story/who-cares-if-ai-is-conscious-its-basically-alive/",
-      "publishedAt": "2026-09-04T15:00:00.000Z"
-    },
-    {
-      "id": "60g8jm",
-      "title": "AI Use in the Job Market Is Creating an Infinite Doom Loop",
-      "summary": "Job seekers are trying to game the application process using AI. It’s not working, and not for the reasons you might think.",
-      "imageUrl": "https://media.wired.com/photos/6a9822cefee0db870262b29d/master/pass/AIvsAIJob.jpg",
-      "source": "Wired",
-      "sourceUrl": "https://www.wired.com/story/ai-job-market-infinite-doom-loop/",
-      "publishedAt": "2026-09-04T10:00:00.000Z"
     },
     {
       "id": "7nsh23",
