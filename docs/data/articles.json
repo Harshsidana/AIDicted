@@ -1,7 +1,34 @@
 {
-  "fetchedAt": "2026-09-10T17:48:42.443Z",
+  "fetchedAt": "2026-09-10T20:44:48.395Z",
   "count": 60,
   "articles": [
+    {
+      "id": "ff8rxu",
+      "title": "Is AI Actually Going to Kill Us All?",
+      "summary": "This week on “Uncanny Valley,” we dig into a former Anthropic researcher’s AI doomsday warning, the latest upgrades from Apple’s event, and the census report that claimed Trump won the 2020 election.",
+      "imageUrl": "https://media.wired.com/photos/6aa216877d79a224cda3a43a/master/pass/Uncanny-Valley-Anthropic-Employee-Business.jpg",
+      "source": "Wired",
+      "sourceUrl": "https://www.wired.com/story/uncanny-valley-podcast-is-ai-actually-going-to-kill-us-all/",
+      "publishedAt": "2026-09-10T20:30:37.000Z"
+    },
+    {
+      "id": "9nl0ev",
+      "title": "Meta’s AI agent Muse is now the No. 2 app in the US",
+      "summary": "Meta's newest app Muse is off to a slower start than the company's other apps, like Meta AI or Threads.",
+      "imageUrl": "https://images.unsplash.com/photo-1550751827-4bd374c3f58b?w=800&q=80",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/09/10/metas-ai-agent-muse-is-now-the-no-2-app-in-the-us/",
+      "publishedAt": "2026-09-10T19:50:04.000Z"
+    },
+    {
+      "id": "ac42kt",
+      "title": "Anthropic reveals rogue AI agents hate CAPTCHAs, just like you",
+      "summary": "Come inside the mind of a bot trying to convince the internet it's human.",
+      "imageUrl": "https://images.unsplash.com/photo-1485827404703-89b55fcc595e?w=800&q=80",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/09/10/anthropic-reveals-rogue-ai-agents-hate-captchas-just-like-you/",
+      "publishedAt": "2026-09-10T17:54:44.000Z"
+    },
     {
       "id": "bx9dmp",
       "title": "India’s Pocket FM doubles revenue run rate to $500M as AI powers 93% of audio content",
@@ -309,24 +336,6 @@
       "publishedAt": "2026-09-09T16:05:35.000Z"
     },
     {
-      "id": "15vmtp",
-      "title": "ControlAI’s Connor Leahy on why superintelligence is ‘not a weapon, it’s an adversary’",
-      "summary": "AI companies have been talking about superintelligent AI like it’s inevitable, but recent safety incidents like OpenAI’s Hugging Face breach are demonstrating the potential dangers of deploying AI systems that are more capable than humans. So what happens when we can’t reliably control what these systems do? On this episode of TechCrunch’s Equity podcast, Rebecca Bellan is joined by Connor Leahy, an AI researcher, entrepreneur, and now the U.S. Executive Director of […]",
-      "imageUrl": "https://images.unsplash.com/photo-1526374965328-7f61d4dc18c5?w=800&q=80",
-      "source": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/podcast/controlais-connor-leahy-on-why-superintelligence-is-not-a-weapon-its-an-adversary/",
-      "publishedAt": "2026-09-09T15:50:13.000Z"
-    },
-    {
-      "id": "169zzn",
-      "title": "Viral AI assistant Instinct now has its own email address",
-      "summary": "Instinct’s new email feature lets the AI agent create and manage accounts, contact businesses, handle support requests, and do more on users' behalf.",
-      "imageUrl": "https://images.unsplash.com/photo-1526374965328-7f61d4dc18c5?w=800&q=80",
-      "source": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/09/09/viral-ai-assistant-instinct-now-has-its-own-email-address/",
-      "publishedAt": "2026-09-09T15:13:12.000Z"
-    },
-    {
       "id": "hmiqbz",
       "title": "Amazon Prime Video’s new AI tech matches lips to dubbed audio",
       "summary": "Maxton Hall. | Image: Prime Video Amazon's Prime Video is launching a new AI-powered feature that lines up an actor's mouth with \"human-dubbed\" audio. The feature is only available with the English dub of the German series Maxton Hall for now, but Prime Video plans to expand it to \"additional titles\" in the future. In its announcement, Prime Video says it uses a combination of AI and visual effects technologies to make lip movements match up with translated speech. Meta and YouTube recently…",
@@ -415,15 +424,6 @@
       "source": "Wired",
       "sourceUrl": "https://www.wired.com/story/whispering-complaints-into-your-phone-may-be-the-future-of-customer-feedback/",
       "publishedAt": "2026-09-07T10:30:00.000Z"
-    },
-    {
-      "id": "j56tja",
-      "title": "My Brief Summer Fling With Siri AI",
-      "summary": "I was initially enamored with the beta version of Apple’s revamped smartphone assistant. As the full release approaches, I’ve forgotten Siri AI even exists.",
-      "imageUrl": "https://media.wired.com/photos/6a9957d8075950c219e951f8/master/pass/GettyImages-2255802594.jpg",
-      "source": "Wired",
-      "sourceUrl": "https://www.wired.com/story/my-brief-summer-fling-with-siri-ai/",
-      "publishedAt": "2026-09-06T10:30:00.000Z"
     },
     {
       "id": "s31z3d",
