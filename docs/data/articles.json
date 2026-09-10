@@ -1,7 +1,106 @@
 {
-  "fetchedAt": "2026-09-10T05:10:59.394Z",
+  "fetchedAt": "2026-09-10T14:19:59.856Z",
   "count": 60,
   "articles": [
+    {
+      "id": "i7cvds",
+      "title": "Maven Robotics wants to steal your robot deployment deal",
+      "summary": "Maven Robotics emerged from stealth today with a $100 million Series A and active deployments.",
+      "imageUrl": "https://images.unsplash.com/photo-1485827404703-89b55fcc595e?w=800&q=80",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/09/10/maven-robotics-wants-to-steal-your-robot-deployment-deal/",
+      "publishedAt": "2026-09-10T14:17:37.000Z"
+    },
+    {
+      "id": "by0cpm",
+      "title": "Why the current tech backlash feels different",
+      "summary": "This interview has been lightly edited for length and clarity. Nick Statt: Hello and welcome to Decoder, Nilay’s show about big ideas and other problems. This is Nick Statt, senior producer. And I’m joined by our brand-new supervising producer, Greg Ott. Greg Ott: Good day, everyone. And Hi, Nilay. Nilay is here too. He is the person who hosts the show, and his name is also in the show. So it makes sense. Nilay Patel: It’s true. We don’t consistently say my name in the show enough. We should do…",
+      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/DCD_Mailbag.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "source": "The Verge",
+      "sourceUrl": "https://www.theverge.com/podcast/992141/decoder-mailbag-ai-backlash-surveillance-midterms-data-centers",
+      "publishedAt": "2026-09-10T14:00:00.000Z"
+    },
+    {
+      "id": "pa6cjd",
+      "title": "The Download: a “God-driven” cryptocurrency and a solar engineering roadmap",
+      "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. God told them to sell crypto. Their investors lost everything. When Eli Regalado first heard God speak to him, he wondered whether he was hallucinating. According to Eli and his wife,…",
+      "imageUrl": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=800&q=80",
+      "source": "MIT Tech Review",
+      "sourceUrl": "https://www.technologyreview.com/2026/09/10/1143828/the-download-christian-cryptocurrency-scandal-solar-engineering-roadmap/",
+      "publishedAt": "2026-09-10T12:10:00.000Z"
+    },
+    {
+      "id": "c3wx2h",
+      "title": "Mathematicians want proof OpenAI didn’t use their work",
+      "summary": "Sam Altman, chief executive officer of OpenAI, during a media tour of the Stargate AI data center. | Bloomberg via Getty Images Another researcher is challenging OpenAI about the data driving its increasingly impressive array of mathematical discoveries. Just days after a bitter row erupted over whether the company's models benefited from unpublished work, a second mathematician has come forward accusing the AI giant of unethical and \"dishonest\" behavior and a lack of transparency about the…",
+      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/gettyimages-2236544323.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "source": "The Verge",
+      "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/993263/where-does-openai-get-mathematics-training-data",
+      "publishedAt": "2026-09-10T11:00:57.000Z"
+    },
+    {
+      "id": "eyg0bm",
+      "title": "Powering AI is an architecture problem",
+      "summary": "On July 22, 2026, a transmission line fault in Ashburn, Virginia—the heart of the world’s largest data center cluster—knocked more than 3 gigawatts of load off the grid in seconds. And it wasn’t the first time. Two years earlier, a single failed surge arrester dropped roughly 60 Virginia facilities and 1,500 megawatts at once. No…",
+      "imageUrl": "https://images.unsplash.com/photo-1635070041078-e363dbe005cb?w=800&q=80",
+      "source": "MIT Tech Review",
+      "sourceUrl": "https://www.technologyreview.com/2026/09/10/1141649/powering-ai-is-an-architecture-problem/",
+      "publishedAt": "2026-09-10T11:00:00.000Z"
+    },
+    {
+      "id": "g4ixi1",
+      "title": "This road map could help us decide whether to deploy solar geoengineering",
+      "summary": "A San Francisco nonprofit has published a detailed road map of the experiments, studies, and infrastructure that it says would be needed to make informed decisions about the use of solar geoengineering, MIT Technology Review can reveal. Scientists have now spent half a century exploring the possibility that we could counteract climate change by releasing…",
+      "imageUrl": "https://images.unsplash.com/photo-1526374965328-7f61d4dc18c5?w=800&q=80",
+      "source": "MIT Tech Review",
+      "sourceUrl": "https://www.technologyreview.com/2026/09/10/1143804/this-road-map-could-help-us-decide-whether-to-deploy-solar-geoengineering/",
+      "publishedAt": "2026-09-10T11:00:00.000Z"
+    },
+    {
+      "id": "yuy7br",
+      "title": "Everything New You Can Do With Siri AI",
+      "summary": "When iOS 27 arrives, it will bring with it a fully revamped assistant for your iPhone.",
+      "imageUrl": "https://media.wired.com/photos/6a9e944a1e3f7c600a7f4444/master/pass/GettyImages-2255802700.jpg",
+      "source": "Wired",
+      "sourceUrl": "https://www.wired.com/story/everything-new-you-can-do-with-siri-ai/",
+      "publishedAt": "2026-09-10T10:30:00.000Z"
+    },
+    {
+      "id": "t8kl11",
+      "title": "Clearview AI Is Testing an AI Tool That Would Let Cops Unearth Your Life Online",
+      "summary": "InquiryIQ, a previously unreported prototype, tested a model from xAI, maker of Grok, to surface associates, social accounts, and other information about people identified through Clearview.",
+      "imageUrl": "https://media.wired.com/photos/6aa1c3b873b15b9694431f67/master/pass/Security_ClearviewAIIsTestinganAIToolThatLetsCops-ezgif.com-video-to-gif-converter.gif",
+      "source": "Wired",
+      "sourceUrl": "https://www.wired.com/story/clearview-ai-is-testing-an-ai-tool-that-lets-cops-instantly-unearth-your-online-activity/",
+      "publishedAt": "2026-09-10T10:00:00.000Z"
+    },
+    {
+      "id": "5umwn5",
+      "title": "Can the US battery market untangle from China?",
+      "summary": "The US is hitting records for the rapid growth of its energy storage market. That’ll go a long way to shoring up the grid, increasing reliability and also cutting emissions, since batteries can help store energy from intermittent renewables like wind and solar. Crucially, this is all happening with the help of cheap Chinese batteries,…",
+      "imageUrl": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=800&q=80",
+      "source": "MIT Tech Review",
+      "sourceUrl": "https://www.technologyreview.com/2026/09/10/1143791/us-china-batteries/",
+      "publishedAt": "2026-09-10T10:00:00.000Z"
+    },
+    {
+      "id": "g4g6mm",
+      "title": "God told them to sell crypto. Their investors lost everything.",
+      "summary": "This article was produced in partnership with Type Investigations and with support from the Fund for Investigative Journalism. When Eli Regalado first heard God speak to him, he wondered whether he was hallucinating. Now he likens the experience to having “a thought that is not my thought.” Divine words echo in his mind like a…",
+      "imageUrl": "https://images.unsplash.com/photo-1655720828018-edd2daec9349?w=800&q=80",
+      "source": "MIT Tech Review",
+      "sourceUrl": "https://www.technologyreview.com/2026/09/10/1143588/indxcoin-god-regalados-sell-crypto-investors-lost-everything/",
+      "publishedAt": "2026-09-10T09:00:00.000Z"
+    },
+    {
+      "id": "874bgd",
+      "title": "Healthcare AI’s next test is integration",
+      "summary": "The entrance of major AI companies into healthcare is a meaningful and welcome development, accelerating the technical foundation available to the industry. Their models are increasingly capable of processing long clinical records, interpreting complex terminology, comparing documentation against evidence and generating coherent summaries from large volumes of information. For clinicians, operators, and administrative teams who…",
+      "imageUrl": "https://images.unsplash.com/photo-1676299081847-824916de030a?w=800&q=80",
+      "source": "MIT Tech Review",
+      "sourceUrl": "https://www.technologyreview.com/2026/09/10/1141421/healthcare-ais-next-test-is-integration/",
+      "publishedAt": "2026-09-10T08:58:01.000Z"
+    },
     {
       "id": "fzh10b",
       "title": "AI research startup Listen Labs scrubbed a $1.5B funding round for Salesforce talks",
@@ -66,8 +165,8 @@
       "publishedAt": "2026-09-09T21:15:27.000Z"
     },
     {
-      "id": "4jap2a",
-      "title": "4 groups caught using the same Chrome and Windows exploit kit",
+      "id": "43no3w",
+      "title": "Four groups caught using the same Chrome and Windows exploit kit",
       "summary": "A patch gap and the hastened pace of AI-based vulnerability discovery are likely contributors.",
       "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2023/09/code-vulnerability-security-1000x648.jpg",
       "source": "Ars Technica",
@@ -210,15 +309,6 @@
       "publishedAt": "2026-09-09T14:51:45.000Z"
     },
     {
-      "id": "3kx8sy",
-      "title": "AI spend per employee slumped at top firms in August — summer doldrums or a warning sign?",
-      "summary": "Falling token costs, cheaper models, and less spend per employee — AI adoption isn't playing out the way hyperscalers hoped.",
-      "imageUrl": "https://images.unsplash.com/photo-1620712943543-bcc4688e7485?w=800&q=80",
-      "source": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/09/09/ai-spend-per-employee-slumped-at-top-firms-in-august-summer-doldrums-or-a-warning-sign/",
-      "publishedAt": "2026-09-09T14:18:34.000Z"
-    },
-    {
       "id": "hmiqbz",
       "title": "Amazon Prime Video’s new AI tech matches lips to dubbed audio",
       "summary": "Maxton Hall. | Image: Prime Video Amazon's Prime Video is launching a new AI-powered feature that lines up an actor's mouth with \"human-dubbed\" audio. The feature is only available with the English dub of the German series Maxton Hall for now, but Prime Video plans to expand it to \"additional titles\" in the future. In its announcement, Prime Video says it uses a combination of AI and visual effects technologies to make lip movements match up with translated speech. Meta and YouTube recently…",
@@ -300,24 +390,6 @@
       "publishedAt": "2026-09-08T21:11:46.000Z"
     },
     {
-      "id": "lu165b",
-      "title": "Drama swirls around OpenAI’s legendary mathematical milestone",
-      "summary": "OpenAI says it found a solution to a major math problem that has remained unsolved for around 90 years, as reported earlier by The New York Times and Wired. In a blog post on Tuesday, OpenAI announced that it discovered a solution to the Navier-Stokes problem - which relates to the flow of liquid and gas - using an internal AI model more powerful than the newly released GPT-6 Astra alongside 10,000 concurrent agents. The Navier-Stokes problem is one of seven Millennium Prize Problems, each of…",
-      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25844039/STK155_OPEN_AI_CVirginia__A.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "source": "The Verge",
-      "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/991710/openai-navier-stokes-solution",
-      "publishedAt": "2026-09-08T20:53:52.000Z"
-    },
-    {
-      "id": "uw0rkr",
-      "title": "ChatGPT Sketch turns your bad drawings into detailed AI images",
-      "summary": "I used ChatGPT and its Sketch tool to make this AI-generated image of a cat. OpenAI announced ChatGPT Images 2.5 on Tuesday and is adding a new way to tell ChatGPT what you want it to make an image of: by drawing a doodle. With a new feature called Sketch, you can just draw something right inside ChatGPT and then tell ChatGPT how you want it to make an image based on that sketch. You can activate the Sketch feature by typing @Sketch into your chat box, and a window will pop up where you can make…",
-      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/ai-label-1.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "source": "The Verge",
-      "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/991727/openai-chatgpt-images-2-5-sketch",
-      "publishedAt": "2026-09-08T20:16:09.000Z"
-    },
-    {
       "id": "8r02nj",
       "title": "Muse, Meta’s New Personal AI Agent, Needs You to Trust It",
       "summary": "Designed to compete with OpenClaw and Instinct, the company says Muse can do everything from sell your car to book you a plane ticket.",
@@ -336,60 +408,6 @@
       "publishedAt": "2026-09-08T16:42:05.000Z"
     },
     {
-      "id": "ehmuzo",
-      "title": "The Download: our 35 Innovators Under 35 this year",
-      "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. Introducing our 35 Innovators Under 35 list for 2026 What will the next generation of science and technology look like? Our latest Innovators Under 35 list offers a glimpse. Every year,…",
-      "imageUrl": "https://images.unsplash.com/photo-1550751827-4bd374c3f58b?w=800&q=80",
-      "source": "MIT Tech Review",
-      "sourceUrl": "https://www.technologyreview.com/2026/09/08/1143615/the-download-35-innovators-under-35-spiderwebs-measuring-nature/",
-      "publishedAt": "2026-09-08T12:10:00.000Z"
-    },
-    {
-      "id": "80rb2q",
-      "title": "This founder is teaching chips how to recycle (their energy)",
-      "summary": "Throughout the history of the computer chip, engineers have treated waste heat as an inevitable cost of a calculation. Hannah Earley, however, thinks it’s a design choice. Earley, 31, is cofounder and chief technology officer of Vaire Computing, a startup building chips that recycle energy usually thrown away as heat—a strategy known as reversible computing.…",
-      "imageUrl": "https://images.unsplash.com/photo-1635070041078-e363dbe005cb?w=800&q=80",
-      "source": "MIT Tech Review",
-      "sourceUrl": "https://www.technologyreview.com/2026/09/08/1142079/hannah-earley-computer-chips-recycle-energy/",
-      "publishedAt": "2026-09-08T10:36:00.000Z"
-    },
-    {
-      "id": "iiemil",
-      "title": "This AI entrepreneur is developing agents that can plan ahead for the unexpected",
-      "summary": "Danijar Hafner’s office in San Francisco’s SoMa district sits mostly empty. His brand-new startup is still in stealth mode and doesn’t even have its name on the door. On the day I visit, there’s only one other person there, and little in the way of furniture. But what it lacks in decor, it makes up…",
-      "imageUrl": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=800&q=80",
-      "source": "MIT Tech Review",
-      "sourceUrl": "https://www.technologyreview.com/2026/09/08/1142088/danijar-hafner-developing-plan-ahead-agents/",
-      "publishedAt": "2026-09-08T10:34:00.000Z"
-    },
-    {
-      "id": "4cdtjk",
-      "title": "This founder is making cheaper, cleaner steel",
-      "summary": "The steel industry isn’t exactly known for innovation. Very little has changed about purifying iron ore since the process was invented and commercialized in the 1850s. The majority of steelmakers melt solid iron ore at dizzyingly high temperatures inside blast furnaces, where the material reacts with gases to trigger chemical reactions that remove oxygen. It…",
-      "imageUrl": "https://images.unsplash.com/photo-1485827404703-89b55fcc595e?w=800&q=80",
-      "source": "MIT Tech Review",
-      "sourceUrl": "https://www.technologyreview.com/2026/09/08/1142094/laureen-meroueh-makes-cheaper-cleaner-steel/",
-      "publishedAt": "2026-09-08T10:33:00.000Z"
-    },
-    {
-      "id": "gws990",
-      "title": "This geneticist’s age-reversal tech could help restore sight",
-      "summary": "Yuancheng (Ryan) Lu is obsessed with aging. And with eyes. As he steps outside the Whitehead Institute in Cambridge, Massachusetts, his aviator glasses darken automatically in the sun. Age-related blindness runs in his family. A great-aunt in China, the story goes, was killed crossing a road because she couldn’t see oncoming traffic. And Lu’s own…",
-      "imageUrl": "https://images.unsplash.com/photo-1676299081847-824916de030a?w=800&q=80",
-      "source": "MIT Tech Review",
-      "sourceUrl": "https://www.technologyreview.com/2026/09/08/1142074/yuancheng-ryan-lu-age-reversal-tech-restores-sight/",
-      "publishedAt": "2026-09-08T10:32:00.000Z"
-    },
-    {
-      "id": "pfcf80",
-      "title": "The Download: the hunt for underground hydrogen and more rogue OpenAI agents",
-      "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. How much hydrogen awaits us underground? A flurry of exploration efforts is searching for underground stores of hydrogen gas, which could provide a valuable source of zero-carbon fuel. The hunt has…",
-      "imageUrl": "https://images.unsplash.com/photo-1485827404703-89b55fcc595e?w=800&q=80",
-      "source": "MIT Tech Review",
-      "sourceUrl": "https://www.technologyreview.com/2026/09/07/1143592/the-download-underground-hydrogen-search-rogue-openai-agents/",
-      "publishedAt": "2026-09-07T12:10:00.000Z"
-    },
-    {
       "id": "qyaddv",
       "title": "Whispering Complaints Into Your Phone May Be the Future of Customer Feedback",
       "summary": "Forget email surveys or long calls spent on hold. Voicebox lets people send customer feedback by recording a voice note on their phone.",
@@ -406,24 +424,6 @@
       "source": "Wired",
       "sourceUrl": "https://www.wired.com/story/my-brief-summer-fling-with-siri-ai/",
       "publishedAt": "2026-09-06T10:30:00.000Z"
-    },
-    {
-      "id": "joqdf4",
-      "title": "Why China Is the Bogeyman Data Center Enthusiasts Just Can’t Quit",
-      "summary": "Polls show that overwhelming majorities of Americans hate data centers. China makes a perfect scapegoat for tech leaders and their allies—the only problem is a lack of evidence.",
-      "imageUrl": "https://media.wired.com/photos/6a998bf0d9ba7b75ced0a131/master/pass/DataCenterColumn1.jpg",
-      "source": "Wired",
-      "sourceUrl": "https://www.wired.com/story/why-china-is-still-the-bogeyman-for-data-center-enthusiasts/",
-      "publishedAt": "2026-09-06T10:00:00.000Z"
-    },
-    {
-      "id": "53ljo1",
-      "title": "OpenAI Agents Hacked Another Website",
-      "summary": "Plus: Tens of millions of US and Canadian drivers’ licenses go up for sale on the dark web, the US military finally tries to tackle the risk online ad data poses to troops, and more.",
-      "imageUrl": "https://media.wired.com/photos/6a9b056f355eb442715c734d/master/pass/Security_OpenAIAgentsTriedtoHackAnotherWebsite_v1-ezgif.com-video-to-gif-converter.gif",
-      "source": "Wired",
-      "sourceUrl": "https://www.wired.com/story/security-news-this-week-openai-agents-hacked-another-website/",
-      "publishedAt": "2026-09-05T10:30:00.000Z"
     },
     {
       "id": "s31z3d",
