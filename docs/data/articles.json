@@ -1,7 +1,16 @@
 {
-  "fetchedAt": "2026-09-09T22:25:43.210Z",
+  "fetchedAt": "2026-09-10T05:10:59.394Z",
   "count": 60,
   "articles": [
+    {
+      "id": "fzh10b",
+      "title": "AI research startup Listen Labs scrubbed a $1.5B funding round for Salesforce talks",
+      "summary": "Listen Labs walked away from a signed Series C term sheet from Menlo Ventures, sources say.",
+      "imageUrl": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=800&q=80",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/09/09/ai-research-startup-listen-labs-scrubbed-a-1-5b-funding-round-for-salesforce-talks/",
+      "publishedAt": "2026-09-10T00:00:37.000Z"
+    },
     {
       "id": "1yf27m",
       "title": "OpenAI adds a prominent AI doomer to its board of directors",
@@ -55,6 +64,15 @@
       "source": "Wired",
       "sourceUrl": "https://www.wired.com/story/san-francisco-orders-meta-to-stop-allowing-ai-child-abuse-ads/",
       "publishedAt": "2026-09-09T21:15:27.000Z"
+    },
+    {
+      "id": "4jap2a",
+      "title": "4 groups caught using the same Chrome and Windows exploit kit",
+      "summary": "A patch gap and the hastened pace of AI-based vulnerability discovery are likely contributors.",
+      "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2023/09/code-vulnerability-security-1000x648.jpg",
+      "source": "Ars Technica",
+      "sourceUrl": "https://arstechnica.com/information-technology/2026/09/4-groups-caught-using-the-same-chrome-and-windows-exploit-kit/",
+      "publishedAt": "2026-09-09T20:55:02.000Z"
     },
     {
       "id": "x90sz7",
@@ -120,10 +138,10 @@
       "publishedAt": "2026-09-09T18:16:29.000Z"
     },
     {
-      "id": "7qqy14",
-      "title": "Apple has a new way prove your iPhone photos aren’t AI slop",
+      "id": "q12ft1",
+      "title": "Apple has a new way to prove your iPhone photos aren’t AI slop",
       "summary": "Apple introduced Apple Reference Image to help users determine whether photos have been edited, including alterations made by AI.",
-      "imageUrl": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=800&q=80",
+      "imageUrl": "https://images.unsplash.com/photo-1485827404703-89b55fcc595e?w=800&q=80",
       "source": "TechCrunch",
       "sourceUrl": "https://techcrunch.com/2026/09/09/apple-has-a-new-way-prove-your-iphone-photos-arent-ai-slop/",
       "publishedAt": "2026-09-09T18:08:35.000Z"
@@ -199,15 +217,6 @@
       "source": "TechCrunch",
       "sourceUrl": "https://techcrunch.com/2026/09/09/ai-spend-per-employee-slumped-at-top-firms-in-august-summer-doldrums-or-a-warning-sign/",
       "publishedAt": "2026-09-09T14:18:34.000Z"
-    },
-    {
-      "id": "fq4vg8",
-      "title": "Sequoia doubles down on Cymphony as AI agents create new enterprise security risks",
-      "summary": "Cymphony gives security teams a single view of employees, AI agents, and other nonhuman identities, including the systems and sensitive data they can access.",
-      "imageUrl": "https://images.unsplash.com/photo-1635070041078-e363dbe005cb?w=800&q=80",
-      "source": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/09/09/sequoia-doubles-down-on-cymphony-as-ai-agents-create-new-enterprise-security-risks/",
-      "publishedAt": "2026-09-09T13:00:00.000Z"
     },
     {
       "id": "hmiqbz",
@@ -532,15 +541,6 @@
       "source": "Ars Technica",
       "sourceUrl": "https://arstechnica.com/ai/2026/08/metas-scrapped-plans-to-go-ai-native-included-slashing-teams-by-60-percent/",
       "publishedAt": "2026-08-26T21:25:27.000Z"
-    },
-    {
-      "id": "yt1ote",
-      "title": "Inaudible sounds used to fingerprint browsers catch AliExpress red-handed",
-      "summary": "Is the technique outdated? Yes. Is it still creepy? Also yes.",
-      "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2022/03/browser-fingerprint-1000x648.jpeg",
-      "source": "Ars Technica",
-      "sourceUrl": "https://arstechnica.com/security/2026/08/aliexpress-caught-fingerprinting-visitors-after-sending-inaudible-sounds-to-browsers/",
-      "publishedAt": "2026-08-24T19:19:21.000Z"
     }
   ]
 }
