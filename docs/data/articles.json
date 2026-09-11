@@ -1,7 +1,25 @@
 {
-  "fetchedAt": "2026-09-11T01:23:11.970Z",
+  "fetchedAt": "2026-09-11T12:08:49.517Z",
   "count": 60,
   "articles": [
+    {
+      "id": "2e835a",
+      "title": "Why So Many AI Researchers Think the Machines Could Kill Everyone",
+      "summary": "A combination of rapid advances, recursive self-improvement, and agentic swarms are genuinely “spooking people” inside big labs.",
+      "imageUrl": "https://media.wired.com/photos/6aa1c85ef107c265a15668ae/master/pass/Why-All-These-AI-Researchers-Freaking-Out-About-AI-Killing-Us-All-Business-MCDTETH_EC026.jpg",
+      "source": "Wired",
+      "sourceUrl": "https://www.wired.com/story/why-so-many-ai-researchers-think-the-machines-could-kill-everyone/",
+      "publishedAt": "2026-09-11T09:00:00.000Z"
+    },
+    {
+      "id": "rsp6kz",
+      "title": "Meet the under-35s shaping the future of biotech",
+      "summary": "Every year, MIT Technology Review puts together a list of some of the brightest and best young minds working across science and technology. Our 35 Innovators Under 35 are the ones to watch—people whose research and technical work stands to shape the future of their fields. This year, the list includes nine people who are…",
+      "imageUrl": "https://images.unsplash.com/photo-1655720828018-edd2daec9349?w=800&q=80",
+      "source": "MIT Tech Review",
+      "sourceUrl": "https://www.technologyreview.com/2026/09/11/1143834/meet-the-under-35s-shaping-the-future-of-biotech/",
+      "publishedAt": "2026-09-11T09:00:00.000Z"
+    },
     {
       "id": "bktik",
       "title": "OpenAI Wants to Know if an AI Industry Slowdown Would Even Be Legal",
@@ -23,7 +41,7 @@
     {
       "id": "gqcfi5",
       "title": "Mark Wahlberg is coming to TechCrunch Disrupt 2026, and he wants to talk about your work, not his",
-      "summary": "Mark Wahlberg joins Bruce K. Lee at Disrupt to discuss investing, entrepreneurship, healthcare, wellness and building businesses.",
+      "summary": "Mark Wahlberg joins Bruce K. Lee at Disrupt to discuss investing, entrepreneurship, healthcare, wellness, and building businesses.",
       "imageUrl": "https://images.unsplash.com/photo-1655720828018-edd2daec9349?w=800&q=80",
       "source": "TechCrunch",
       "sourceUrl": "https://techcrunch.com/2026/09/10/mark-wahlberg-is-coming-to-techcrunch-disrupt-2026/",
@@ -390,15 +408,6 @@
       "publishedAt": "2026-09-09T08:18:13.000Z"
     },
     {
-      "id": "ks0r8i",
-      "title": "What OpenAI’s latest controversy tells us about the future of math",
-      "summary": "OpenAI’s latest mathematical milestone has quickly become mired in controversy. Today, the company announced that its agents have solved one of the Millennium Prize Problems, some of the most important open problems in mathematics. Under normal circumstances, that solution would be a huge feather in OpenAI’s cap. But the announcement has been overshadowed by accusations…",
-      "imageUrl": "https://images.unsplash.com/photo-1655720828018-edd2daec9349?w=800&q=80",
-      "source": "MIT Tech Review",
-      "sourceUrl": "https://www.technologyreview.com/2026/09/08/1143747/what-openais-latest-controversy-tells-us-about-the-future-of-math/",
-      "publishedAt": "2026-09-09T03:10:08.000Z"
-    },
-    {
       "id": "o8hs1f",
       "title": "Why this month's Microsoft patch release is a doozy",
       "summary": "Security gnomes are pumping out patches ahead of an expected onslaught of AI-assisted attacks.",
@@ -415,15 +424,6 @@
       "source": "Wired",
       "sourceUrl": "https://www.wired.com/story/meta-releases-muse-a-personal-ai-agent-with-privacy-built-into-it/",
       "publishedAt": "2026-09-08T20:12:51.000Z"
-    },
-    {
-      "id": "fwcfu8",
-      "title": "OpenAI Just Claimed a Huge Math Discovery. Some Academics Are Crying Foul",
-      "summary": "A landmark announcement by the frontier AI lab has been overshadowed by accusations of impropriety.",
-      "imageUrl": "https://media.wired.com/photos/6aa02435e4af4176b7305e6a/master/pass/OpenAI-Antrophic-MathProblem.jpg",
-      "source": "Wired",
-      "sourceUrl": "https://www.wired.com/story/openai-navier-stokes-math-discovery-academics/",
-      "publishedAt": "2026-09-08T16:42:05.000Z"
     },
     {
       "id": "s31z3d",
