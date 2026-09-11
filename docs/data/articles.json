@@ -1,7 +1,97 @@
 {
-  "fetchedAt": "2026-09-11T16:42:17.411Z",
+  "fetchedAt": "2026-09-11T22:25:29.489Z",
   "count": 60,
   "articles": [
+    {
+      "id": "ho6ib",
+      "title": "Y Combinator’s Garry Tan wants U.S. open-weight AI labs to ‘distill’ frontier models, too",
+      "summary": "Tan argues that frontier models themselves trained on public human knowledge so access to capable AI should be \"a form of public good.\"",
+      "imageUrl": "https://images.unsplash.com/photo-1550751827-4bd374c3f58b?w=800&q=80",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/09/11/y-combinators-garry-tan-wants-u-s-open-weight-ai-labs-to-distill-frontier-models-too/",
+      "publishedAt": "2026-09-11T20:59:47.000Z"
+    },
+    {
+      "id": "krqhqy",
+      "title": "OpenAI’s feud with mathematicians is only escalating",
+      "summary": "Twenty-five leading mathematicians signed an open letter arguing that AI labs are threatening their intellectual work.",
+      "imageUrl": "https://images.unsplash.com/photo-1655720828018-edd2daec9349?w=800&q=80",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/09/11/openais-feud-with-mathematicians-is-only-escalating/",
+      "publishedAt": "2026-09-11T20:57:36.000Z"
+    },
+    {
+      "id": "ml4091",
+      "title": "Lawyer fined $5K over AI-hallucinated witnesses in a murder case",
+      "summary": "New Mexico's Supreme Court is punishing a lawyer for including AI-fabricated witnesses and fake police testimony in an appeal for his client's murder conviction, according to a report from Reuters. In a filing on Wednesday, the court fined Stephen Aarons $5,000 and held him in contempt for failing to \"verify the factual claims and legal authority in his AI-generated brief.\" The filing says the brief \"contained false testimony from wholly fabricated witnesses,\" along with \"false testimony\" about…",
+      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25384193/STK470_AI_LAW_CVIRGINIA_C.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "source": "The Verge",
+      "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/994207/chatgpt-new-mexico-lawyer-fined-murder-appeal",
+      "publishedAt": "2026-09-11T20:44:02.000Z"
+    },
+    {
+      "id": "2zdia4",
+      "title": "One week left to book your exhibit table at TechCrunch Disrupt 2026",
+      "summary": "Only one week left to secure your exhibit table. Tables are limited and can sell out before the September 18 deadline.",
+      "imageUrl": "https://images.unsplash.com/photo-1526374965328-7f61d4dc18c5?w=800&q=80",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/09/11/one-week-left-to-book-your-exhibit-table-at-techcrunch-disrupt-2026/",
+      "publishedAt": "2026-09-11T20:33:18.000Z"
+    },
+    {
+      "id": "xwmaj6",
+      "title": "Final, final, final call for TechCrunch Disrupt 2026 Side Events",
+      "summary": "The absolute last chance to apply to host an official Side Event during TechCrunch Disrupt 2026 is tonight, September 11, at 11:59 p.m. PT.",
+      "imageUrl": "https://images.unsplash.com/photo-1485827404703-89b55fcc595e?w=800&q=80",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/09/11/final-final-final-call-for-techcrunch-disrupt-2026-side-events/",
+      "publishedAt": "2026-09-11T20:30:17.000Z"
+    },
+    {
+      "id": "xobt1t",
+      "title": "Roundtables: AI’s apocalypse crisis",
+      "summary": "Employees at the world’s leading AI labs are saying there’s a real possibility that advanced AI could destroy humanity. Are they right? Or is this more scaremongering and hype? Join MIT Technology Review executive editor Niall Firth for a conversation with senior AI editor Will Douglas Heaven and AI reporter Grace Huckins unpacking AI extinction…",
+      "imageUrl": "https://images.unsplash.com/photo-1485827404703-89b55fcc595e?w=800&q=80",
+      "source": "MIT Tech Review",
+      "sourceUrl": "https://www.technologyreview.com/2026/09/11/1143936/roundtables-will-ai-really-kill-us-all/",
+      "publishedAt": "2026-09-11T20:05:06.000Z"
+    },
+    {
+      "id": "phbxwk",
+      "title": "Kimi-maker Moonshot AI targets $2B in annual revenue",
+      "summary": "While K3's usage figures have declined slightly in recent months, OpenRouter data currently shows as many as 300 billion tokens being generated each day by K3 models on the system.",
+      "imageUrl": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=800&q=80",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/09/11/kimi-maker-moonshot-ai-targets-2-billion-in-annual-revenue/",
+      "publishedAt": "2026-09-11T19:35:54.000Z"
+    },
+    {
+      "id": "lazpby",
+      "title": "Meta Sued Over Training Data for Its AI and Face-Recognition Systems",
+      "summary": "The proposed class action alleges Meta illegally harvested people’s Facebook and Instagram photos to train its AI image-generation models and to build its unreleased “NameTag” face recognition feature.",
+      "imageUrl": "https://media.wired.com/photos/6aa4120d92d2b4de236f2240/master/pass/GettyImages-2289768151.jpg",
+      "source": "Wired",
+      "sourceUrl": "https://www.wired.com/story/meta-sued-over-training-data-for-its-ai-and-face-recognition-systems/",
+      "publishedAt": "2026-09-11T18:59:25.000Z"
+    },
+    {
+      "id": "ggw0v3",
+      "title": "An Anthropic researcher’s doomsday warning comes at a very interesting time",
+      "summary": "An Anthropic researcher resigned this week, warning in a post on X that the company is “racing straight to self-improving superintelligence and gambling with our lives”. The company’s own alignment lead even co-signed the message rather than walking it back. It’s the kind of doomer warning the AI industry has flirted with before, but the timing, with Anthropic reportedly preparing for an IPO, makes it land differently. On […]",
+      "imageUrl": "https://images.unsplash.com/photo-1531746790095-6c10a4031c5f?w=800&q=80",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/podcast/an-anthropic-researchers-doomsday-warning-comes-at-a-very-interesting-time/",
+      "publishedAt": "2026-09-11T18:41:49.000Z"
+    },
+    {
+      "id": "v8yy1g",
+      "title": "Nscale adds former OpenAI exec Fidji Simo to its board ahead of potential IPO",
+      "summary": "The No. 2 exec at OpenAI also led Instacart through its IPO in 2023.",
+      "imageUrl": "https://images.unsplash.com/photo-1655720828018-edd2daec9349?w=800&q=80",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/09/11/nscale-adds-former-openai-exec-fidji-simo-to-its-board-ahead-of-potential-ipo/",
+      "publishedAt": "2026-09-11T16:46:25.000Z"
+    },
     {
       "id": "dbnfe9",
       "title": "Anthropic spent this week in hot water over cybersecurity",
@@ -192,15 +282,6 @@
       "publishedAt": "2026-09-10T14:53:50.000Z"
     },
     {
-      "id": "i7cvds",
-      "title": "Maven Robotics wants to steal your robot deployment deal",
-      "summary": "Maven Robotics emerged from stealth today with a $100 million Series A and active deployments.",
-      "imageUrl": "https://images.unsplash.com/photo-1485827404703-89b55fcc595e?w=800&q=80",
-      "source": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/09/10/maven-robotics-wants-to-steal-your-robot-deployment-deal/",
-      "publishedAt": "2026-09-10T14:17:37.000Z"
-    },
-    {
       "id": "by0cpm",
       "title": "Why the current tech backlash feels different",
       "summary": "This interview has been lightly edited for length and clarity. Nick Statt: Hello and welcome to Decoder, Nilay’s show about big ideas and other problems. This is Nick Statt, senior producer. And I’m joined by our brand-new supervising producer, Greg Ott. Greg Ott: Good day, everyone. And Hi, Nilay. Nilay is here too. He is the person who hosts the show, and his name is also in the show. So it makes sense. Nilay Patel: It’s true. We don’t consistently say my name in the show enough. We should do…",
@@ -291,24 +372,6 @@
       "publishedAt": "2026-09-10T08:58:01.000Z"
     },
     {
-      "id": "fzh10b",
-      "title": "AI research startup Listen Labs scrubbed a $1.5B funding round for Salesforce talks",
-      "summary": "Listen Labs walked away from a signed Series C term sheet from Menlo Ventures, sources say.",
-      "imageUrl": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=800&q=80",
-      "source": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/09/09/ai-research-startup-listen-labs-scrubbed-a-1-5b-funding-round-for-salesforce-talks/",
-      "publishedAt": "2026-09-10T00:00:37.000Z"
-    },
-    {
-      "id": "1yf27m",
-      "title": "OpenAI adds a prominent AI doomer to its board of directors",
-      "summary": "Paul Christiano, an influential AI researcher focused on alignment, is joining the OpenAI Foundation as a member of its board.",
-      "imageUrl": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=800&q=80",
-      "source": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/09/09/openai-adds-a-prominent-ai-doomer-to-its-board-of-directors/",
-      "publishedAt": "2026-09-09T22:25:22.000Z"
-    },
-    {
       "id": "ofnui9",
       "title": "The AI Researcher Who Just Quit Anthropic Says It’s ‘Crunch Time for Humanity’",
       "summary": "Jacob Coxon talks to WIRED about the “mini Manhattan project” inside Anthropic, the problem with alignment, and why AI labs have just a few years left to make their systems safe.",
@@ -318,15 +381,6 @@
       "publishedAt": "2026-09-09T22:11:55.000Z"
     },
     {
-      "id": "7evu3g",
-      "title": "Massachusetts hits data centers with new clean power rules",
-      "summary": "Massachusetts has become the third state in as many months to slap new restrictions on data center development.",
-      "imageUrl": "https://images.unsplash.com/photo-1550751827-4bd374c3f58b?w=800&q=80",
-      "source": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/09/09/massachusetts-hits-data-centers-with-new-clean-power-rules/",
-      "publishedAt": "2026-09-09T21:43:34.000Z"
-    },
-    {
       "id": "1103zy",
       "title": "Suno releases its first AI music model made with record industry help",
       "summary": "Suno's new v6 AI music model is its first made with support from the record industry. Suno's Jack Brody told The Verge that v6 was \"trained from the ground up, with a new set of data that does not include the same data that our previous models were trained on.\" The data includes content licensed from partners Warner Music Group, BMG, and Believe, as well as \"user data.\" It's unclear whether that means v6 training data is completely free of dubiously obtained content. One of the big changes in v6…",
@@ -334,15 +388,6 @@
       "source": "The Verge",
       "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/991977/suno-releases-its-first-ai-music-model-made-with-record-industry-help",
       "publishedAt": "2026-09-09T21:42:19.000Z"
-    },
-    {
-      "id": "19fdg9",
-      "title": "OpenAI’s sly mathematical breakthrough sends a chill through academia",
-      "summary": "Open AI CEO Sam Altman speaks during the G20 Innovation Ministerial. | (Photo by Matt RAMEY / AFP via Getty Images) OpenAI's announcement Tuesday that it has solved one of mathematics' legendary Millennium Prize problems should have been a moment of triumph. The result is both an undeniable achievement and a striking demonstration of just how rapidly AI is transforming mathematics. But before it was even formally announced, the breakthrough had been complicated by the unusual circumstances that…",
-      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/gettyimages-2292626872.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "source": "The Verge",
-      "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/992953/openai-math-millennium-prize-navier-stokes",
-      "publishedAt": "2026-09-09T21:16:34.000Z"
     },
     {
       "id": "numlbj",
@@ -363,33 +408,6 @@
       "publishedAt": "2026-09-09T20:55:02.000Z"
     },
     {
-      "id": "y2kcpa",
-      "title": "Apple Watch’s new AI features are normalizing the idea that technology is always listening",
-      "summary": "Apple says its new watches won’t save raw audio, but features that can transcribe recent speech and summarize ambient conversations raise new questions about consent, privacy, and how people behave when they know they could always be recorded.",
-      "imageUrl": "https://images.unsplash.com/photo-1531746790095-6c10a4031c5f?w=800&q=80",
-      "source": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/09/09/apple-watchs-new-ai-features-are-normalizing-the-idea-that-technology-is-always-listening/",
-      "publishedAt": "2026-09-09T20:24:48.000Z"
-    },
-    {
-      "id": "x2wqf7",
-      "title": "Everything Apple announced at its fall iPhone event, from the foldable iPhone Duo to an always-listening Apple Watch",
-      "summary": "The main event was the tech giant's highly anticipated first foldable phone, the iPhone Duo.",
-      "imageUrl": "https://images.unsplash.com/photo-1526374965328-7f61d4dc18c5?w=800&q=80",
-      "source": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/09/09/everything-apple-announced-at-its-fall-iphone-event-from-the-foldable-iphone-duo-to-an-always-listening-apple-watch/",
-      "publishedAt": "2026-09-09T20:03:43.000Z"
-    },
-    {
-      "id": "ifu6gv",
-      "title": "The hinge for Apple’s new foldable phone was built with AI",
-      "summary": "Apple says it used AI and 3D printing in the manufacturing process for its long-awaited foldable phone.",
-      "imageUrl": "https://images.unsplash.com/photo-1531746790095-6c10a4031c5f?w=800&q=80",
-      "source": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/09/09/the-hinge-for-apples-new-foldable-phone-was-built-with-ai/",
-      "publishedAt": "2026-09-09T19:21:48.000Z"
-    },
-    {
       "id": "np0lbq",
       "title": "I Let an AI Agent Hack All My Gadgets—and I’d Do It Again",
       "summary": "After I removed the safety guardrails from a powerful open-source model, it found vulnerabilities in my household devices and hacked into a PC. But it also told me how to make everything a lot more secure.",
@@ -399,15 +417,6 @@
       "publishedAt": "2026-09-09T18:30:00.000Z"
     },
     {
-      "id": "uoo9sb",
-      "title": "A Stealth Startup Thinks It Just Hacked the Memory Shortage",
-      "summary": "Kepler Computing claims a new approach to chip design—and a proprietary material—can help end the supply bottlenecks that have sent memory prices surging.",
-      "imageUrl": "https://media.wired.com/photos/6a99ec2e5d2ca173f400bbc3/master/pass/00-kepler-wafer_memory_technology.jpg",
-      "source": "Wired",
-      "sourceUrl": "https://www.wired.com/story/a-new-dollar400-million-startup-wants-to-fix-the-ai-memory-bottleneck/",
-      "publishedAt": "2026-09-09T13:00:00.000Z"
-    },
-    {
       "id": "a1u86t",
       "title": "The Download: OpenAI’s turning point for math and a battery record",
       "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. What OpenAI’s latest controversy tells us about the future of math OpenAI says its agents have solved one of the most important open problems in mathematics. Under normal circumstances, that would…",
@@ -415,15 +424,6 @@
       "source": "MIT Tech Review",
       "sourceUrl": "https://www.technologyreview.com/2026/09/09/1143767/the-download-openai-math-future-battery-record/",
       "publishedAt": "2026-09-09T12:10:00.000Z"
-    },
-    {
-      "id": "3jlr2g",
-      "title": "Batteries just broke another record in the US",
-      "summary": "Battery installations hit a new record in the US in the second quarter of 2026. In total, 20.2 gigawatt-hours of new capacity came online, according to a new report. That’s enough to supply the daily electricity needs of about 700,000 homes. The surge is putting the country on a trajectory to see 71 gigawatt-hours of…",
-      "imageUrl": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=800&q=80",
-      "source": "MIT Tech Review",
-      "sourceUrl": "https://www.technologyreview.com/2026/09/09/1143680/batteries-us-record/",
-      "publishedAt": "2026-09-09T09:00:00.000Z"
     },
     {
       "id": "o8hs1f",
