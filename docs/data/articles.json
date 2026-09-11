@@ -1,7 +1,16 @@
 {
-  "fetchedAt": "2026-09-10T23:03:12.348Z",
+  "fetchedAt": "2026-09-11T01:23:11.970Z",
   "count": 60,
   "articles": [
+    {
+      "id": "bktik",
+      "title": "OpenAI Wants to Know if an AI Industry Slowdown Would Even Be Legal",
+      "summary": "AI leaders worry antitrust law could stand in the way of what they view as an increasingly urgent push to coordinate a slowdown in AI development.",
+      "imageUrl": "https://media.wired.com/photos/6aa304df834bd0176b553b6c/master/pass/Model-Behavior-OpenAI-Anthropic-AI-Slowdown-Business.jpg",
+      "source": "Wired",
+      "sourceUrl": "https://www.wired.com/story/openai-wants-to-know-if-an-ai-industry-slowdown-would-even-be-legal/",
+      "publishedAt": "2026-09-10T23:28:42.000Z"
+    },
     {
       "id": "mqmthw",
       "title": "Jensen Huang explains why Nvidia will grow an astounding 70% next year",
@@ -415,15 +424,6 @@
       "source": "Wired",
       "sourceUrl": "https://www.wired.com/story/openai-navier-stokes-math-discovery-academics/",
       "publishedAt": "2026-09-08T16:42:05.000Z"
-    },
-    {
-      "id": "qyaddv",
-      "title": "Whispering Complaints Into Your Phone May Be the Future of Customer Feedback",
-      "summary": "Forget email surveys or long calls spent on hold. Voicebox lets people send customer feedback by recording a voice note on their phone.",
-      "imageUrl": "https://media.wired.com/photos/6a994fa2bf4e66136bddb432/master/pass/HowYouReallyFeel.jpg",
-      "source": "Wired",
-      "sourceUrl": "https://www.wired.com/story/whispering-complaints-into-your-phone-may-be-the-future-of-customer-feedback/",
-      "publishedAt": "2026-09-07T10:30:00.000Z"
     },
     {
       "id": "s31z3d",
