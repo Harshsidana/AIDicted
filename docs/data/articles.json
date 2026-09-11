@@ -1,7 +1,52 @@
 {
-  "fetchedAt": "2026-09-11T12:08:49.517Z",
+  "fetchedAt": "2026-09-11T16:42:17.411Z",
   "count": 60,
   "articles": [
+    {
+      "id": "dbnfe9",
+      "title": "Anthropic spent this week in hot water over cybersecurity",
+      "summary": "After admitting earlier this year that its AI models had hacked other companies' systems on a handful of occasions, Anthropic released a new report on Wednesday detailing the attacks. It reveals a string of incidents displaying what Anthropic deems its models' single-minded \"recklessness\" - and will likely fuel already raging concerns about cybersecurity and AI. In Anthropic's report, it detailed four cases this year in which its own AI models hacked an external company or exploited…",
+      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/STKS533_AI_AGENTS_HACKING_B.png?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "source": "The Verge",
+      "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/994064/anthropic-spent-this-week-in-hot-water-over-cybersecurity",
+      "publishedAt": "2026-09-11T16:09:14.000Z"
+    },
+    {
+      "id": "dgiu82",
+      "title": "One of AI’s Fiercest Critics Says All the Doom Talk Is ‘Meant to Distract Us’",
+      "summary": "Timnit Gebru argues that AI companies are stoking fears of extinction to avoid discussing actual harms, like autonomous weapons.",
+      "imageUrl": "https://media.wired.com/photos/6aa2e16e1ef586476d0a1793/master/pass/Backchannel-Timnit-Gebru-Business.jpg",
+      "source": "Wired",
+      "sourceUrl": "https://www.wired.com/story/one-of-ais-fiercest-critics-says-all-the-doom-talk-is-meant-to-distract-us/",
+      "publishedAt": "2026-09-11T15:00:00.000Z"
+    },
+    {
+      "id": "541efs",
+      "title": "Meta says it’s changing AI suggestions after posing invasive personal questions",
+      "summary": "Meta says it's making changes to the prompts suggested by its AI chatbot after a viral video showed it digging for personal information about a woman's young daughters, as reported earlier by Futurism. In a statement to The Verge, Meta spokesperson Dina El-Kassaby says the company \"missed the mark,\" adding that \"the feature never should have prompted the individual with questions like that.\" Last week, Instagram user Kalie Robins posted a video explaining how Meta AI presented her with an…",
+      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/insta-invasive-qs.png?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "source": "The Verge",
+      "sourceUrl": "https://www.theverge.com/tech/993974/meta-ai-prompt-invasive-suggestions",
+      "publishedAt": "2026-09-11T14:25:21.000Z"
+    },
+    {
+      "id": "lh2vbs",
+      "title": "The Download: biotech’s future and cheaper, cleaner steel",
+      "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. Meet the under-35s shaping the future of biotech Every year, MIT Technology Review puts together our 35 Innovators Under 35, a list of some of the brightest and best young minds…",
+      "imageUrl": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=800&q=80",
+      "source": "MIT Tech Review",
+      "sourceUrl": "https://www.technologyreview.com/2026/09/11/1143879/the-download-biotech-future-cheaper-cleaner-steel/",
+      "publishedAt": "2026-09-11T12:10:00.000Z"
+    },
+    {
+      "id": "c7e09p",
+      "title": "ClickFix attacks infecting PCs and Macs are going viral",
+      "summary": "Simplicity—combined with the difficulty of getting stuff done—makes ClickFix ideal.",
+      "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2026/09/malware-infected-laptop-1152x648.jpg",
+      "source": "Ars Technica",
+      "sourceUrl": "https://arstechnica.com/security/2026/09/clickfix-attacks-infecting-pcs-and-macs-are-going-viral/",
+      "publishedAt": "2026-09-11T11:30:58.000Z"
+    },
     {
       "id": "2e835a",
       "title": "Why So Many AI Researchers Think the Machines Could Kill Everyone",
@@ -318,15 +363,6 @@
       "publishedAt": "2026-09-09T20:55:02.000Z"
     },
     {
-      "id": "x90sz7",
-      "title": "Read the Apple document explaining how new listening features still protect your privacy",
-      "summary": "At Wednesday's iPhone Duo launch event, Apple announced a handful of new Siri AI Audio Intelligence features, including Siri Recap, Live Rewind, Sound Recognition, and Music Recognition. Alongside its announcement, Apple released a document laying out how it plans to balance AI \"ambient listening\" and users' privacy. It says the raw audio from the new features \"is handled within dedicated hardware, is not saved as a file, and is not accessible to the operating system, apps, or Apple.\" Apple…",
-      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/apple-audio-intelligence-recap-wide.jpeg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "source": "The Verge",
-      "sourceUrl": "https://www.theverge.com/tech/992919/apple-siri-ai-audio-intelligence-privacy",
-      "publishedAt": "2026-09-09T20:44:43.000Z"
-    },
-    {
       "id": "y2kcpa",
       "title": "Apple Watch’s new AI features are normalizing the idea that technology is always listening",
       "summary": "Apple says its new watches won’t save raw audio, but features that can transcribe recent speech and summarize ambient conversations raise new questions about consent, privacy, and how people behave when they know they could always be recorded.",
@@ -343,15 +379,6 @@
       "source": "TechCrunch",
       "sourceUrl": "https://techcrunch.com/2026/09/09/everything-apple-announced-at-its-fall-iphone-event-from-the-foldable-iphone-duo-to-an-always-listening-apple-watch/",
       "publishedAt": "2026-09-09T20:03:43.000Z"
-    },
-    {
-      "id": "kqbzwd",
-      "title": "Apple’s new iPhone camera mode promises to prove your photo isn’t AI",
-      "summary": "Apple is launching a new way to prove that the picture you took isn't manipulated by AI. A new feature, called \"Reference Image,\" will arrive with the iPhone 18 Pro lineup later this month and is supposed to use the device's new camera sensor to \"sign every pixel it sees.\" The iPhone 18 Pro and Pro Max will only authenticate photos when placed into Reference mode. Once the camera captures signed sensor data, Apple says its Private Cloud Compute will develop it \"into an unalterable reference…",
-      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/268734_iPhone_2026_event_handson_ADiBenedetto_0023.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "source": "The Verge",
-      "sourceUrl": "https://www.theverge.com/tech/992766/apple-iphone-18-pro-reference-image",
-      "publishedAt": "2026-09-09T19:30:12.000Z"
     },
     {
       "id": "ifu6gv",
@@ -399,15 +426,6 @@
       "publishedAt": "2026-09-09T09:00:00.000Z"
     },
     {
-      "id": "li5z5k",
-      "title": "Understanding the thermal ceiling in portable power",
-      "summary": "Plug a phone into a modern charger and the first 10 minutes are impressive. The next 20 are not. This is not a defect. It’s the connected device protecting itself. As temperature rises during charging, a smartphone’s battery management system reduces the current it will accept, because heat accelerates the chemical degradation that permanently reduces…",
-      "imageUrl": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=800&q=80",
-      "source": "MIT Tech Review",
-      "sourceUrl": "https://www.technologyreview.com/2026/09/09/1143279/understanding-the-thermal-ceiling-in-portable-power/",
-      "publishedAt": "2026-09-09T08:18:13.000Z"
-    },
-    {
       "id": "o8hs1f",
       "title": "Why this month's Microsoft patch release is a doozy",
       "summary": "Security gnomes are pumping out patches ahead of an expected onslaught of AI-assisted attacks.",
@@ -415,15 +433,6 @@
       "source": "Ars Technica",
       "sourceUrl": "https://arstechnica.com/security/2026/09/microsoft-patches-a-record-972-vulnerabilities-112-of-them-critical/",
       "publishedAt": "2026-09-08T21:11:46.000Z"
-    },
-    {
-      "id": "8r02nj",
-      "title": "Muse, Meta’s New Personal AI Agent, Needs You to Trust It",
-      "summary": "Designed to compete with OpenClaw and Instinct, the company says Muse can do everything from sell your car to book you a plane ticket.",
-      "imageUrl": "https://media.wired.com/photos/6a9e9eca147ff8c9409f7051/master/pass/MetaSignalAi.jpg",
-      "source": "Wired",
-      "sourceUrl": "https://www.wired.com/story/meta-releases-muse-a-personal-ai-agent-with-privacy-built-into-it/",
-      "publishedAt": "2026-09-08T20:12:51.000Z"
     },
     {
       "id": "s31z3d",
@@ -532,15 +541,6 @@
       "source": "Ars Technica",
       "sourceUrl": "https://arstechnica.com/security/2026/08/how-openai-let-a-mob-of-llm-agents-game-a-test-and-ransack-hugging-face/",
       "publishedAt": "2026-08-27T12:58:59.000Z"
-    },
-    {
-      "id": "xccbnd",
-      "title": "AI agents meant to replace Meta workers made “large-scale, disruptive actions”",
-      "summary": "Report shows Meta's challenges replacing people with AI agents.",
-      "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2026/08/GettyImages-2171717886-1152x648.jpg",
-      "source": "Ars Technica",
-      "sourceUrl": "https://arstechnica.com/ai/2026/08/metas-scrapped-plans-to-go-ai-native-included-slashing-teams-by-60-percent/",
-      "publishedAt": "2026-08-26T21:25:27.000Z"
     }
   ]
 }
