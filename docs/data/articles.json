@@ -1,7 +1,34 @@
 {
-  "fetchedAt": "2026-09-12T19:13:19.407Z",
+  "fetchedAt": "2026-09-12T21:34:50.785Z",
   "count": 60,
   "articles": [
+    {
+      "id": "5rkuh",
+      "title": "Sam Altman says OpenAI going public in 2026 would be ‘ill-advised’",
+      "summary": "OpenAI CEO Sam Altman confirmed that there would be no OpenAI IPO in 2026 during an interview with Fortune. Over the course of 45 minutes, Altman discussed a variety of subjects including the Hugging Face hacking incident, recursive self-improvement, and the possibility of building an AI that was beyond human control. On the latter, he said it was \"absolutely\" possible, but vowed to take actions to prevent that from happening, even if it meant pausing training, adding that \"there are risks we…",
+      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/STK201_SAM_ALTMAN_CVIRGINIA2D-1.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "source": "The Verge",
+      "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/994384/sam-altman-no-openai-ipo-ill-advised",
+      "publishedAt": "2026-09-12T21:16:28.000Z"
+    },
+    {
+      "id": "wg7vc8",
+      "title": "OpenAI’s Sam Altman says it would be ‘ill-advised’ to go public in 2026",
+      "summary": "While OpenAI has filed confidentially for an IPO, the company will not be going public this year, according to CEO Sam Altman.",
+      "imageUrl": "https://images.unsplash.com/photo-1531746790095-6c10a4031c5f?w=800&q=80",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/09/12/openais-sam-altman-says-it-would-be-ill-advised-to-go-public-in-2026/",
+      "publishedAt": "2026-09-12T20:19:16.000Z"
+    },
+    {
+      "id": "uy0e3m",
+      "title": "Anthropic CEO outlines plan to slow AI development",
+      "summary": "Anthropic's Dario Amodei and OpenAI's Sam Altman seem to agree that it's time to \"pace the frontier.\" What would that actually look like?",
+      "imageUrl": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=800&q=80",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/09/12/anthropic-ceo-outlines-plan-to-pace-the-frontier/",
+      "publishedAt": "2026-09-12T19:34:44.000Z"
+    },
     {
       "id": "gyka9i",
       "title": "Anthropic CEO says it’s time to pump the brakes on AI",
@@ -10,15 +37,6 @@
       "source": "The Verge",
       "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/994337/anthropic-ceo-slow-down-ai-development",
       "publishedAt": "2026-09-12T16:23:40.000Z"
-    },
-    {
-      "id": "pmcqe0",
-      "title": "Anthropic CEO outlines plan to ‘pace the frontier’",
-      "summary": "What would it actually look like to \"pace the frontier\"?",
-      "imageUrl": "https://images.unsplash.com/photo-1526374965328-7f61d4dc18c5?w=800&q=80",
-      "source": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/09/12/anthropic-ceo-outlines-plan-to-pace-the-frontier/",
-      "publishedAt": "2026-09-12T15:52:11.000Z"
     },
     {
       "id": "8taod3",
@@ -291,15 +309,6 @@
       "publishedAt": "2026-09-10T19:44:20.000Z"
     },
     {
-      "id": "ac42kt",
-      "title": "Anthropic reveals rogue AI agents hate CAPTCHAs, just like you",
-      "summary": "Come inside the mind of a bot trying to convince the internet it's human.",
-      "imageUrl": "https://images.unsplash.com/photo-1485827404703-89b55fcc595e?w=800&q=80",
-      "source": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/09/10/anthropic-reveals-rogue-ai-agents-hate-captchas-just-like-you/",
-      "publishedAt": "2026-09-10T17:54:44.000Z"
-    },
-    {
       "id": "exkelg",
       "title": "Universal Music is launching an AI music platform with ElevenLabs",
       "summary": "Universal Music Group is launching a new AI-powered platform that will allow users to draw from its catalog of licensed music to create song remixes, mashups, and new takes on tracks, according to an announcement on Thursday. The record label is developing the platform through a multiyear licensing agreement with ElevenLabs, a company that specializes in AI voice and music generation. Artists can choose whether to participate in UMG and ElevenLabs' upcoming platform, which marks yet another AI…",
@@ -307,15 +316,6 @@
       "source": "The Verge",
       "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/993465/universal-music-elevenlabs-ai",
       "publishedAt": "2026-09-10T15:38:19.000Z"
-    },
-    {
-      "id": "56srm0",
-      "title": "Meta’s Muse AI works and creeps me out",
-      "summary": "I turned my Muse assistant into a purple cat. | Screenshot: The Verge Meta has launched its new Muse assistant, marking the company's first real foray into AI-powered productivity tools. The company says its AI agent can \"take the busywork off your plate\" by helping you with online shopping, emails, trip-planning, and more. I decided to try out the new tool and see how well it performed - especially from a company that previously prioritized entertainment over productivity. Though the AI…",
-      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/muse-ai-window.png?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "source": "The Verge",
-      "sourceUrl": "https://www.theverge.com/tech/993391/meta-muse-ai-hands-on",
-      "publishedAt": "2026-09-10T15:00:00.000Z"
     },
     {
       "id": "pa6cjd",
