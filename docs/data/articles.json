@@ -1,7 +1,16 @@
 {
-  "fetchedAt": "2026-09-13T04:30:34.616Z",
+  "fetchedAt": "2026-09-13T10:07:01.194Z",
   "count": 60,
   "articles": [
+    {
+      "id": "yw6bzh",
+      "title": "AI Agents Are Thirsty for Power",
+      "summary": "Silicon Valley is shifting away from chatbot queries toward a future filled with resource-intensive agentic AI—and it's driving the data center buildout.",
+      "imageUrl": "https://media.wired.com/photos/6aa2cf4ca722d0b47513425c/master/pass/DataCenterColumn2.jpg",
+      "source": "Wired",
+      "sourceUrl": "https://www.wired.com/story/ai-agents-are-thirsty-for-power/",
+      "publishedAt": "2026-09-13T10:00:00.000Z"
+    },
     {
       "id": "i85nt7",
       "title": "OpenAI’s rogue AI tried to hack another company in May",
@@ -397,15 +406,6 @@
       "source": "Wired",
       "sourceUrl": "https://www.wired.com/story/anthropic-researcher-quits-jacob-coxon-ai-fears-humanity/",
       "publishedAt": "2026-09-09T22:11:55.000Z"
-    },
-    {
-      "id": "numlbj",
-      "title": "San Francisco Orders Meta to Stop ‘Allowing’ AI Child Abuse Ads",
-      "summary": "The City Attorney’s Office has asked Meta to explain how the harmful ads repeatedly ran on Facebook and Instagram. The company claims the ads are not under the city’s jurisdiction.",
-      "imageUrl": "https://media.wired.com/photos/6aa1c5b373b15b9694431f6d/master/pass/GettyImages-2233066222.jpg",
-      "source": "Wired",
-      "sourceUrl": "https://www.wired.com/story/san-francisco-orders-meta-to-stop-allowing-ai-child-abuse-ads/",
-      "publishedAt": "2026-09-09T21:15:27.000Z"
     },
     {
       "id": "43no3w",
