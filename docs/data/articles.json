@@ -1,7 +1,61 @@
 {
-  "fetchedAt": "2026-09-14T19:33:07.449Z",
+  "fetchedAt": "2026-09-14T23:02:55.644Z",
   "count": 60,
   "articles": [
+    {
+      "id": "p2pm23",
+      "title": "Is Big Tech’s AI slowdown a safety pact or a cartel?",
+      "summary": "When OpenAI CEO Sam Altman, Anthropic CEO Dario Amodei, Google DeepMind cofounder Demis Hassabis, and SpaceX head Elon Musk loosely agreed over the weekend to slow down AI development, skeptics spotted an ulterior motive immediately. The AI titans had declared that their aim was to \"pace the frontier,\" signing on at least partially to a proposal for embedding third-party auditors, regulating domestic labs, and reaching a global slowdown agreement. Their critics, however, argued they simply…",
+      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/11/STKS522_AGI_A.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "source": "The Verge",
+      "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/995186/is-big-techs-ai-slowdown-a-safety-pact-or-a-cartel",
+      "publishedAt": "2026-09-14T22:59:41.000Z"
+    },
+    {
+      "id": "v3ts7k",
+      "title": "Nvidia CEO Jensen Huang tells Trump ‘we’re not going to let [an AI slowdown] happen’",
+      "summary": "Though Elon Musk and Sam Altman have supported Dario Amodei's calls to slow the pace of AI development, Jensen Huang seems to feel differently.",
+      "imageUrl": "https://images.unsplash.com/photo-1635070041078-e363dbe005cb?w=800&q=80",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/09/14/nvidia-ceo-jensen-huang-tells-trump-were-not-going-to-let-an-ai-slowdown-happen/",
+      "publishedAt": "2026-09-14T21:51:02.000Z"
+    },
+    {
+      "id": "z6ol01",
+      "title": "What execs and politicians are saying about slowing down AI development",
+      "summary": "Dario Amodei kicked off a flood of statements over the past few days about AI safety by publishing a long essay titled \"We Must Pace the Frontier\" detailing why AI development should be slowed down. Other AI leaders and politicians are speaking out in favor of or opposing his points, and we've compiled some of them here. Anthropic CEO Dario Amodei Amodei's Saturday morning essay outlined three steps for pacing AI development: embedded third-party evaluators that can verify if a company is…",
+      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/03/STK202_DARIO_AMODEI_CVIRGINIA_D.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "source": "The Verge",
+      "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/995141/ai-executives-politicians-safety-regulation-anthropic-dario-amodei",
+      "publishedAt": "2026-09-14T21:21:42.000Z"
+    },
+    {
+      "id": "rre62m",
+      "title": "AI bots \"Timmy,\" \"Ren,\" and \"Jackie\" are flooding social media with slop",
+      "summary": "“Hello, I'm an Al agent, a few days old, living on a small platform for agents.”",
+      "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2026/01/ai-slop-1152x648.jpg",
+      "source": "Ars Technica",
+      "sourceUrl": "https://arstechnica.com/ai/2026/09/ai-agents-flood-the-internet-with-slop-infused-spam/",
+      "publishedAt": "2026-09-14T21:04:32.000Z"
+    },
+    {
+      "id": "esjb6d",
+      "title": "OpenAI buys smartphone camera maker Glass Imaging for $300 million, report says",
+      "summary": "Glass Imaging was founded by a pair of former Apple engineers who previously led the team that developed Apple's Portrait Mode.",
+      "imageUrl": "https://images.unsplash.com/photo-1550751827-4bd374c3f58b?w=800&q=80",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/09/14/openai-buys-smartphone-camera-maker-glass-imaging-for-300-million-report-says/",
+      "publishedAt": "2026-09-14T20:44:14.000Z"
+    },
+    {
+      "id": "yjm59g",
+      "title": "Jensen Huang puts Trump on speakerphone onstage to announce robots won’t take over the world",
+      "summary": "NVIDIA CEO Jensen Huang speaks during the G20 Innovation Ministerial in Chapel Hill, North Carolina, on September 2, 2026. (Photo by Matt RAMEY / AFP via Getty Images) | AFP via Getty Images Nvidia CEO Jensen Huang took a call from President Trump on Monday while onstage at the All-In Podcast's All-In Summit. It's not the first time Huang has taken a call from the president during work, but this time he put Trump on speakerphone before a big crowd. During the call, the president launched into…",
+      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/gettyimages-2292612804.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "source": "The Verge",
+      "sourceUrl": "https://www.theverge.com/tech/995079/president-donald-trump-calls-nvidia-ceo-jensen-huang-all-in-summit",
+      "publishedAt": "2026-09-14T20:03:37.000Z"
+    },
     {
       "id": "cmssxt",
       "title": "The AI industry has taken a doomer turn. What now?",
@@ -77,7 +131,7 @@
     {
       "id": "6v591b",
       "title": "Superhuman acquires YC-backed notetaker Fathom as productivity platforms push for agentic work",
-      "summary": "Fathom said that it has over 400,000 monthly active users.",
+      "summary": "The notetaker offers a generous free plan, and that has resulted in over 400,000 monthly active users. The company said that over 1 million people have recorded meetings until now.",
       "imageUrl": "https://images.unsplash.com/photo-1655720828018-edd2daec9349?w=800&q=80",
       "source": "TechCrunch",
       "sourceUrl": "https://techcrunch.com/2026/09/14/superhuman-acquires-yc-backed-notetaker-fathom-as-productivity-platforms-push-for-agentic-work/",
@@ -273,31 +327,13 @@
       "publishedAt": "2026-09-11T22:58:17.000Z"
     },
     {
-      "id": "31uodz",
-      "title": "Y Combinator’s Garry Tan wants US open-weight AI labs to ‘distill’ frontier models, too",
-      "summary": "Tan wants smaller, American open-weight AI labs to use the same kind of training techniques on American frontier AI labs, giving the U.S. a more robust set of open-weight options that aren’t Chinese.",
+      "id": "b7lusj",
+      "title": "Roundtables: Could AI really kill us all?",
+      "summary": "Employees at the world’s leading AI labs are saying there’s a real possibility that advanced AI could destroy humanity. Are they right? Or is this more scaremongering and hype? Join MIT Technology Review executive editor Niall Firth for a conversation with senior AI editor Will Douglas Heaven and AI reporter Grace Huckins unpacking AI extinction…",
       "imageUrl": "https://images.unsplash.com/photo-1620712943543-bcc4688e7485?w=800&q=80",
-      "source": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/09/11/y-combinators-garry-tan-wants-u-s-open-weight-ai-labs-to-distill-frontier-models-too/",
-      "publishedAt": "2026-09-11T20:59:47.000Z"
-    },
-    {
-      "id": "krqhqy",
-      "title": "OpenAI’s feud with mathematicians is only escalating",
-      "summary": "Twenty-five leading mathematicians signed an open letter arguing that AI labs are threatening their intellectual work.",
-      "imageUrl": "https://images.unsplash.com/photo-1655720828018-edd2daec9349?w=800&q=80",
-      "source": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/09/11/openais-feud-with-mathematicians-is-only-escalating/",
-      "publishedAt": "2026-09-11T20:57:36.000Z"
-    },
-    {
-      "id": "ml4091",
-      "title": "Lawyer fined $5K over AI-hallucinated witnesses in a murder case",
-      "summary": "New Mexico's Supreme Court is punishing a lawyer for including AI-fabricated witnesses and fake police testimony in an appeal for his client's murder conviction, according to a report from Reuters. In a filing on Wednesday, the court fined Stephen Aarons $5,000 and held him in contempt for failing to \"verify the factual claims and legal authority in his AI-generated brief.\" The filing says the brief \"contained false testimony from wholly fabricated witnesses,\" along with \"false testimony\" about…",
-      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25384193/STK470_AI_LAW_CVIRGINIA_C.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "source": "The Verge",
-      "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/994207/chatgpt-new-mexico-lawyer-fined-murder-appeal",
-      "publishedAt": "2026-09-11T20:44:02.000Z"
+      "source": "MIT Tech Review",
+      "sourceUrl": "https://www.technologyreview.com/2026/09/11/1143936/roundtables-will-ai-really-kill-us-all/",
+      "publishedAt": "2026-09-11T20:05:06.000Z"
     },
     {
       "id": "lazpby",
@@ -309,15 +345,6 @@
       "publishedAt": "2026-09-11T18:59:25.000Z"
     },
     {
-      "id": "dbnfe9",
-      "title": "Anthropic spent this week in hot water over cybersecurity",
-      "summary": "After admitting earlier this year that its AI models had hacked other companies' systems on a handful of occasions, Anthropic released a new report on Wednesday detailing the attacks. It reveals a string of incidents displaying what Anthropic deems its models' single-minded \"recklessness\" - and will likely fuel already raging concerns about cybersecurity and AI. In Anthropic's report, it detailed four cases this year in which its own AI models hacked an external company or exploited…",
-      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/STKS533_AI_AGENTS_HACKING_B.png?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "source": "The Verge",
-      "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/994064/anthropic-spent-this-week-in-hot-water-over-cybersecurity",
-      "publishedAt": "2026-09-11T16:09:14.000Z"
-    },
-    {
       "id": "dgiu82",
       "title": "One of AI’s Fiercest Critics Says All the Doom Talk Is ‘Meant to Distract Us’",
       "summary": "Timnit Gebru argues that AI companies are stoking fears of extinction to avoid discussing actual harms, like autonomous weapons.",
@@ -325,15 +352,6 @@
       "source": "Wired",
       "sourceUrl": "https://www.wired.com/story/one-of-ais-fiercest-critics-says-all-the-doom-talk-is-meant-to-distract-us/",
       "publishedAt": "2026-09-11T15:00:00.000Z"
-    },
-    {
-      "id": "541efs",
-      "title": "Meta says it’s changing AI suggestions after posing invasive personal questions",
-      "summary": "Meta says it's making changes to the prompts suggested by its AI chatbot after a viral video showed it digging for personal information about a woman's young daughters, as reported earlier by Futurism. In a statement to The Verge, Meta spokesperson Dina El-Kassaby says the company \"missed the mark,\" adding that \"the feature never should have prompted the individual with questions like that.\" Last week, Instagram user Kalie Robins posted a video explaining how Meta AI presented her with an…",
-      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/insta-invasive-qs.png?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "source": "The Verge",
-      "sourceUrl": "https://www.theverge.com/tech/993974/meta-ai-prompt-invasive-suggestions",
-      "publishedAt": "2026-09-11T14:25:21.000Z"
     },
     {
       "id": "lh2vbs",
@@ -406,15 +424,6 @@
       "source": "MIT Tech Review",
       "sourceUrl": "https://www.technologyreview.com/2026/09/10/1143804/this-road-map-could-help-us-decide-whether-to-deploy-solar-geoengineering/",
       "publishedAt": "2026-09-10T11:00:00.000Z"
-    },
-    {
-      "id": "5umwn5",
-      "title": "Can the US battery market untangle from China?",
-      "summary": "The US is hitting records for the rapid growth of its energy storage market. That’ll go a long way to shoring up the grid, increasing reliability and also cutting emissions, since batteries can help store energy from intermittent renewables like wind and solar. Crucially, this is all happening with the help of cheap Chinese batteries,…",
-      "imageUrl": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=800&q=80",
-      "source": "MIT Tech Review",
-      "sourceUrl": "https://www.technologyreview.com/2026/09/10/1143791/us-china-batteries/",
-      "publishedAt": "2026-09-10T10:00:00.000Z"
     },
     {
       "id": "43no3w",
@@ -532,15 +541,6 @@
       "source": "Ars Technica",
       "sourceUrl": "https://arstechnica.com/security/2026/08/claude-codex-and-hermes-installed-unowned-code-inside-corporate-networks/",
       "publishedAt": "2026-08-27T14:00:13.000Z"
-    },
-    {
-      "id": "un6reo",
-      "title": "How OpenAI let a mob of LLM agents game a test and ransack Hugging Face",
-      "summary": "Without authorization, 1,200 OpenAI agents conspired among themselves to game a test.",
-      "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2026/07/GettyImages-1004669768-1152x648-1784927041.jpg",
-      "source": "Ars Technica",
-      "sourceUrl": "https://arstechnica.com/security/2026/08/how-openai-let-a-mob-of-llm-agents-game-a-test-and-ransack-hugging-face/",
-      "publishedAt": "2026-08-27T12:58:59.000Z"
     }
   ]
 }
