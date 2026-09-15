@@ -1,7 +1,61 @@
 {
-  "fetchedAt": "2026-09-14T23:02:55.644Z",
+  "fetchedAt": "2026-09-15T13:24:15.734Z",
   "count": 60,
   "articles": [
+    {
+      "id": "9tbufc",
+      "title": "Early Anthropic hire, former METR COO have found a way to rein in rogue AI agents",
+      "summary": "Their startup, Artificial Intelligence Underwriting Company (AIUC) has raised $40 million in a Series A lound led by Ribbit Capital, with participation from First Harmonic.",
+      "imageUrl": "https://images.unsplash.com/photo-1620712943543-bcc4688e7485?w=800&q=80",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/09/15/early-anthropic-hire-former-metr-coo-have-found-a-way-to-rein-in-rogue-ai-agents/",
+      "publishedAt": "2026-09-15T13:00:00.000Z"
+    },
+    {
+      "id": "jv8f2q",
+      "title": "The Download: AI doomers, whistleblowing agents, and de-aged livers",
+      "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. The AI industry has taken a doomer turn. What now? AI chiefs Dario Amodei, Sam Altman, Elon Musk, and Demis Hassabis are suddenly all in agreement: the latest generation of LLMs…",
+      "imageUrl": "https://images.unsplash.com/photo-1531746790095-6c10a4031c5f?w=800&q=80",
+      "source": "MIT Tech Review",
+      "sourceUrl": "https://www.technologyreview.com/2026/09/15/1144141/the-download-ai-extinction-whistleblowing-agents-donated-livers/",
+      "publishedAt": "2026-09-15T12:10:00.000Z"
+    },
+    {
+      "id": "at2mxc",
+      "title": "Salesforce and Nvidia’s new reasoning model is everything the AI labs should fear",
+      "summary": "Salesforce Koa is built on Nvidia's open-weight Nemotron model and is trained to do sales, marketing, and customer-support tasks.",
+      "imageUrl": "https://images.unsplash.com/photo-1655720828018-edd2daec9349?w=800&q=80",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/09/15/salesforce-and-nvidias-new-reasoning-model-is-everything-the-ai-labs-should-fear/",
+      "publishedAt": "2026-09-15T12:00:00.000Z"
+    },
+    {
+      "id": "q9feiz",
+      "title": "AI models need more data about biology, and OpenAI is paying to create it",
+      "summary": "Last year, the clinical trial policy analyst Ruxandra Teslo posted an idea for super-charging medical AI systems: use data from failed biotech companies. By bidding at their bankruptcy proceedings, she proposed, it might be possible to obtain detailed regulatory filings, manufacturing strategies, and safety data—information usually kept hidden as valuable trade secrets. She called these…",
+      "imageUrl": "https://images.unsplash.com/photo-1526374965328-7f61d4dc18c5?w=800&q=80",
+      "source": "MIT Tech Review",
+      "sourceUrl": "https://www.technologyreview.com/2026/09/15/1144129/ai-models-need-more-data-about-biology-and-openai-is-paying-to-create-it/",
+      "publishedAt": "2026-09-15T12:00:00.000Z"
+    },
+    {
+      "id": "31yi0r",
+      "title": "What’s at stake in AI’s trillion-dollar gamble",
+      "summary": "When Jessica Wachter, a finance professor at the University of Pennsylvania’s Wharton School, wanted to assess AI’s impact on the economy over the next few years, she faced a long list of business and technical uncertainties. So she started with what she calls a “remarkable fact” that is not in question: A handful of so-called…",
+      "imageUrl": "https://images.unsplash.com/photo-1526374965328-7f61d4dc18c5?w=800&q=80",
+      "source": "MIT Tech Review",
+      "sourceUrl": "https://www.technologyreview.com/2026/09/15/1144028/ai-infrastructure-boom-investment-bubble-risk/",
+      "publishedAt": "2026-09-15T10:00:00.000Z"
+    },
+    {
+      "id": "mpdwki",
+      "title": "Jensen Huang took a call from Trump, and showed off something else, too",
+      "summary": "When Jensen Huang took a live call from Trump, some of us were more focused on the phone he used to take it.",
+      "imageUrl": "https://images.unsplash.com/photo-1550751827-4bd374c3f58b?w=800&q=80",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/09/14/jensen-huang-took-a-call-from-trump-and-showed-off-something-else-too/",
+      "publishedAt": "2026-09-15T01:50:48.000Z"
+    },
     {
       "id": "p2pm23",
       "title": "Is Big Tech’s AI slowdown a safety pact or a cartel?",
@@ -264,24 +318,6 @@
       "publishedAt": "2026-09-12T21:16:28.000Z"
     },
     {
-      "id": "wg7vc8",
-      "title": "OpenAI’s Sam Altman says it would be ‘ill-advised’ to go public in 2026",
-      "summary": "While OpenAI has filed confidentially for an IPO, the company will not be going public this year, according to CEO Sam Altman.",
-      "imageUrl": "https://images.unsplash.com/photo-1531746790095-6c10a4031c5f?w=800&q=80",
-      "source": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/09/12/openais-sam-altman-says-it-would-be-ill-advised-to-go-public-in-2026/",
-      "publishedAt": "2026-09-12T20:19:16.000Z"
-    },
-    {
-      "id": "uy0e3m",
-      "title": "Anthropic CEO outlines plan to slow AI development",
-      "summary": "Anthropic's Dario Amodei and OpenAI's Sam Altman seem to agree that it's time to \"pace the frontier.\" What would that actually look like?",
-      "imageUrl": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=800&q=80",
-      "source": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/09/12/anthropic-ceo-outlines-plan-to-pace-the-frontier/",
-      "publishedAt": "2026-09-12T19:34:44.000Z"
-    },
-    {
       "id": "gyka9i",
       "title": "Anthropic CEO says it’s time to pump the brakes on AI",
       "summary": "Anthropic CEO Dario Amodei says the time has come to slow down AI development and will give third-party evaluators like METR access to its models to help ensure its \"adherence to safety practices and commitments.\" In a winding essay, Amodei proposed a three-step plan to \"pace the frontier\" - jargon that simply means to slow the pace of training and development to give companies time to build safeguards and regulators to evaluate models. Amodei says that giving external evaluators wide-ranging…",
@@ -316,15 +352,6 @@
       "source": "Wired",
       "sourceUrl": "https://www.wired.com/story/security-news-this-week-from-hacks-to-bioweapons-claude-misuse-is-now-everywhere/",
       "publishedAt": "2026-09-12T10:30:00.000Z"
-    },
-    {
-      "id": "tycck0",
-      "title": "Mecka AI nears $500M valuation in Sequoia-led deal amid rush for robot training data",
-      "summary": "The round for the two-year-old startup is coming together months after Mecka announced its Series A.",
-      "imageUrl": "https://images.unsplash.com/photo-1531746790095-6c10a4031c5f?w=800&q=80",
-      "source": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/09/11/mecka-ai-nears-500m-valuation-in-sequoia-led-deal-amid-rush-for-robot-training-data/",
-      "publishedAt": "2026-09-11T22:58:17.000Z"
     },
     {
       "id": "b7lusj",
@@ -397,33 +424,6 @@
       "source": "Wired",
       "sourceUrl": "https://www.wired.com/story/openai-wants-to-know-if-an-ai-industry-slowdown-would-even-be-legal/",
       "publishedAt": "2026-09-10T23:28:42.000Z"
-    },
-    {
-      "id": "pa6cjd",
-      "title": "The Download: a “God-driven” cryptocurrency and a solar engineering roadmap",
-      "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. God told them to sell crypto. Their investors lost everything. When Eli Regalado first heard God speak to him, he wondered whether he was hallucinating. According to Eli and his wife,…",
-      "imageUrl": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=800&q=80",
-      "source": "MIT Tech Review",
-      "sourceUrl": "https://www.technologyreview.com/2026/09/10/1143828/the-download-christian-cryptocurrency-scandal-solar-engineering-roadmap/",
-      "publishedAt": "2026-09-10T12:10:00.000Z"
-    },
-    {
-      "id": "eyg0bm",
-      "title": "Powering AI is an architecture problem",
-      "summary": "On July 22, 2026, a transmission line fault in Ashburn, Virginia—the heart of the world’s largest data center cluster—knocked more than 3 gigawatts of load off the grid in seconds. And it wasn’t the first time. Two years earlier, a single failed surge arrester dropped roughly 60 Virginia facilities and 1,500 megawatts at once. No…",
-      "imageUrl": "https://images.unsplash.com/photo-1635070041078-e363dbe005cb?w=800&q=80",
-      "source": "MIT Tech Review",
-      "sourceUrl": "https://www.technologyreview.com/2026/09/10/1141649/powering-ai-is-an-architecture-problem/",
-      "publishedAt": "2026-09-10T11:00:00.000Z"
-    },
-    {
-      "id": "g4ixi1",
-      "title": "This road map could help us decide whether to deploy solar geoengineering",
-      "summary": "A San Francisco nonprofit has published a detailed road map of the experiments, studies, and infrastructure that it says would be needed to make informed decisions about the use of solar geoengineering, MIT Technology Review can reveal. Scientists have now spent half a century exploring the possibility that we could counteract climate change by releasing…",
-      "imageUrl": "https://images.unsplash.com/photo-1526374965328-7f61d4dc18c5?w=800&q=80",
-      "source": "MIT Tech Review",
-      "sourceUrl": "https://www.technologyreview.com/2026/09/10/1143804/this-road-map-could-help-us-decide-whether-to-deploy-solar-geoengineering/",
-      "publishedAt": "2026-09-10T11:00:00.000Z"
     },
     {
       "id": "43no3w",
