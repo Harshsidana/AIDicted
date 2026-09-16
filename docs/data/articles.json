@@ -1,7 +1,16 @@
 {
-  "fetchedAt": "2026-09-16T04:32:31.497Z",
+  "fetchedAt": "2026-09-16T09:48:30.858Z",
   "count": 60,
   "articles": [
+    {
+      "id": "avlmc6",
+      "title": "China Isn’t Buying Silicon Valley’s Call for an AI Slowdown",
+      "summary": "The US and China agree that advanced AI poses serious risks. But Beijing is deeply skeptical of a deal that prioritizes keeping US companies ahead.",
+      "imageUrl": "https://media.wired.com/photos/6aa8339f6d59a577994203cf/master/pass/China-Not-Buying-Silicon-Valley-Call-for-AI-Pause-Business-2286390787.jpg",
+      "source": "Wired",
+      "sourceUrl": "https://www.wired.com/story/china-isnt-buying-silicon-valley-call-for-ai-slowdown/",
+      "publishedAt": "2026-09-16T09:30:00.000Z"
+    },
     {
       "id": "z3uwyr",
       "title": "We don’t need AI regulation — leave safety to us, Nvidia’s Jensen Huang says",
@@ -406,15 +415,6 @@
       "source": "Ars Technica",
       "sourceUrl": "https://arstechnica.com/security/2026/09/clickfix-attacks-infecting-pcs-and-macs-are-going-viral/",
       "publishedAt": "2026-09-11T11:30:58.000Z"
-    },
-    {
-      "id": "2e835a",
-      "title": "Why So Many AI Researchers Think the Machines Could Kill Everyone",
-      "summary": "A combination of rapid advances, recursive self-improvement, and agentic swarms are genuinely “spooking people” inside big labs.",
-      "imageUrl": "https://media.wired.com/photos/6aa1c85ef107c265a15668ae/master/pass/Why-All-These-AI-Researchers-Freaking-Out-About-AI-Killing-Us-All-Business-MCDTETH_EC026.jpg",
-      "source": "Wired",
-      "sourceUrl": "https://www.wired.com/story/why-so-many-ai-researchers-think-the-machines-could-kill-everyone/",
-      "publishedAt": "2026-09-11T09:00:00.000Z"
     },
     {
       "id": "rsp6kz",
