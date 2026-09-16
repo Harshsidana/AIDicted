@@ -1,7 +1,52 @@
 {
-  "fetchedAt": "2026-09-16T18:47:40.424Z",
+  "fetchedAt": "2026-09-16T22:01:46.527Z",
   "count": 60,
   "articles": [
+    {
+      "id": "sxxxx2",
+      "title": "Nonprofit that tracks meteors taken down by \"critical blow\" from a cyberattack",
+      "summary": "Group plans to be largely out of commission for several weeks.",
+      "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2026/09/astroid-international-meteor-organization.jpg",
+      "source": "Ars Technica",
+      "sourceUrl": "https://arstechnica.com/security/2026/09/nonprofit-that-tracks-meteors-taken-down-by-critical-blow-from-a-cyberattack/",
+      "publishedAt": "2026-09-16T21:08:14.000Z"
+    },
+    {
+      "id": "ajdc3x",
+      "title": "Anthropic and OpenAI want to embed safety evaluators. Will they really be independent?",
+      "summary": "Anthropic and OpenAI want to embed independent safety evaluators inside their AI labs. Researchers welcome the unprecedented access, but warn meaningful oversight requires transparency, independence, and eventually regulation.",
+      "imageUrl": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=800&q=80",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/09/16/anthropic-and-openai-want-to-embed-safety-evaluators-will-they-really-be-independent/",
+      "publishedAt": "2026-09-16T21:07:24.000Z"
+    },
+    {
+      "id": "vquced",
+      "title": "Washington Won’t Be Regulating AI Anytime Soon",
+      "summary": "Even with mounting concerns about AI models going rogue, legislation appears unlikely, and the White House is outright opposed to oversight.",
+      "imageUrl": "https://media.wired.com/photos/6aa9a839650c7d70ef723d0a/master/pass/politics_ai_regulation_slow.jpg",
+      "source": "Wired",
+      "sourceUrl": "https://www.wired.com/story/washington-wont-be-regulating-ai-anytime-soon/",
+      "publishedAt": "2026-09-16T21:00:00.000Z"
+    },
+    {
+      "id": "8bch5j",
+      "title": "After accusations of selling ‘perv glasses,’ Meta prepares to sell a pair without a camera",
+      "summary": "Can Meta dodge the \"pervert glasses\" accusations with a new camera-free product?",
+      "imageUrl": "https://images.unsplash.com/photo-1485827404703-89b55fcc595e?w=800&q=80",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/09/16/after-accusations-of-selling-perv-glasses-meta-prepares-to-sell-a-pair-without-a-camera/",
+      "publishedAt": "2026-09-16T20:12:00.000Z"
+    },
+    {
+      "id": "l9jwx0",
+      "title": "I Trained a Fly’s Brain to Generate WIRED Story Ideas",
+      "summary": "I used an open-source map of a fruit fly’s brain to vibe code a website called PitchFly. Its headline suggestions were delightfully bananas.",
+      "imageUrl": "https://media.wired.com/photos/6aa8849459082b83fd22fcf8/master/pass/AI-Lab-This-Fly-Can-Come-Up-With-WIRED-Stories-Businesspsd.jpg",
+      "source": "Wired",
+      "sourceUrl": "https://www.wired.com/story/i-trained-a-fly-on-wired-story-ideas/",
+      "publishedAt": "2026-09-16T19:00:00.000Z"
+    },
     {
       "id": "bsudsr",
       "title": "AI labs want in-house auditors — but maybe they should shut the front door first",
@@ -10,15 +55,6 @@
       "source": "TechCrunch",
       "sourceUrl": "https://techcrunch.com/2026/09/16/ai-labs-want-in-house-auditors-but-maybe-they-should-shut-the-front-door-first/",
       "publishedAt": "2026-09-16T18:25:25.000Z"
-    },
-    {
-      "id": "xz341c",
-      "title": "Apple might make servers again to cash in on the AI rush",
-      "summary": "According to The Information, Apple is planning to get back into the server game and might just pair up with Nvidia to make it happen. Apple retired its Xserve line in 2011 and has largely left enterprise machines to other manufacturers since. But the growing demand for compute power as the AI industry continues to expand has apparently led the company to believe there is an opening for its powerful but efficient ARM-based M processors. Its Mac Mini and Mac Studio have proven popular with AI…",
-      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/03/STK071_APPLE_I.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "source": "The Verge",
-      "sourceUrl": "https://www.theverge.com/tech/996321/apple-servers-ai-nvidia",
-      "publishedAt": "2026-09-16T17:20:29.000Z"
     },
     {
       "id": "il3jl",
@@ -30,30 +66,12 @@
       "publishedAt": "2026-09-16T17:00:00.000Z"
     },
     {
-      "id": "46i65o",
-      "title": "Google will now let any AI agent run your smart home",
-      "summary": "Google is inviting third-party agents, including Claude and Open Claw, into Google Home. | Photo by Jennifer Pattison Tuohy / The Verge Google is opening up its smart home to AI agents, letting tools like Claude and Open Claw access and control your connected devices and analyze your home's data using the standardized Model Context Protocol. Google Home MCP is a new integration that lets third-party AI agents control and monitor your smart home and act on your behalf. It \"allows any AI agents…",
-      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/gemini-for-home.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "source": "The Verge",
-      "sourceUrl": "https://www.theverge.com/tech/996310/google-home-mcp-integration-agentic-ai-smart-home-price-release-date",
-      "publishedAt": "2026-09-16T17:00:00.000Z"
-    },
-    {
       "id": "b1jpos",
       "title": "Anthropic merges Claude chat and Cowork in one interface",
       "summary": "Anthropic is initially releasing these features to Pro and Max plan subscribers.",
       "imageUrl": "https://images.unsplash.com/photo-1620712943543-bcc4688e7485?w=800&q=80",
       "source": "TechCrunch",
       "sourceUrl": "https://techcrunch.com/2026/09/16/anthropic-merges-claude-chat-and-cowork-in-one-interface/",
-      "publishedAt": "2026-09-16T16:30:00.000Z"
-    },
-    {
-      "id": "xbzzgu",
-      "title": "Claude comes for Gemini with its own take on Docs and Slides",
-      "summary": "Claude is getting a pair of new tools today: Docs and Slides. They'll let you create documents and presentations through Claude chats, which you can export, edit, and share with other users. As part of the announcement, Anthropic is also simplifying how Claude chats work, merging regular chats and Cowork into \"one Claude,\" with all of its AI productivity tools available from any chat. Artifacts and Claude Design capabilities will be available through the new single interface as well. According…",
-      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/Claude-Docs.png?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "source": "The Verge",
-      "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/996234/anthropic-one-claude-cowork-docs-slides",
       "publishedAt": "2026-09-16T16:30:00.000Z"
     },
     {
@@ -73,15 +91,6 @@
       "source": "MIT Tech Review",
       "sourceUrl": "https://www.technologyreview.com/2026/09/16/1144210/meet-a-mouse-whose-brain-cortex-is-made-up-of-human-cells/",
       "publishedAt": "2026-09-16T15:00:00.000Z"
-    },
-    {
-      "id": "p8vnf7",
-      "title": "The sexy AI-powered dating app scams are here",
-      "summary": "Security researcher Matthew \"Zigula\" Gore-Kormanik was analyzing a fraudulent dating app called Dora when he got a pop-up message saying he was receiving a call from Jennifer. According to her bio, she's a 41-year-old Sagittarius with red hair, blue eyes, and piercings. She likes music, horror movies, nightlife, and sports. Gore-Kormanik answered the call, but didn't see Jennifer in his video feed. He saw a tapestry that was moving, probably due to a fan, and heard weird distortion in the…",
-      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/268744_Inside_romance_AI_scam_apps_CVirginia2.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "source": "The Verge",
-      "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/995348/ai-dating-app-scams",
-      "publishedAt": "2026-09-16T14:45:00.000Z"
     },
     {
       "id": "bjicm6",
@@ -150,7 +159,7 @@
       "id": "3o5kul",
       "title": "A brief history of AI executives calling for regulation",
       "summary": "Over the past few days, a lot of people who stand to make a lot of money from AI all publicly agreed that it's time to make everyone slow down before we lose control - including OpenAI CEO Sam Altman, Anthropic CEO Dario Amodei, Google DeepMind cofounder Demis Hassabis, Microsoft CEO Satya Nadella, and X CEO Elon Musk. When people who profit from something declare that it's dangerous and needs to be regulated, there's always reason to be skeptical. But whatever their reason, this is far from the…",
-      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/AI_extinction.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/STK_414_5_D.png?quality=90&#038;strip=all&#038;crop=0,0,100,100",
       "source": "The Verge",
       "sourceUrl": "https://www.theverge.com/policy/995534/a-brief-history-of-ai-executives-calling-for-regulation",
       "publishedAt": "2026-09-16T12:00:00.000Z"
@@ -208,24 +217,6 @@
       "source": "TechCrunch",
       "sourceUrl": "https://techcrunch.com/2026/09/15/meta-now-lets-ai-agents-handle-the-boring-parts-of-whatsapp-business-setup/",
       "publishedAt": "2026-09-15T20:12:53.000Z"
-    },
-    {
-      "id": "mip50p",
-      "title": "The AI graveyard: a running list of projects and startups that didn’t make it",
-      "summary": "From Apple's repeatedly delayed Siri AI to OpenAI's messy \"super app\" launch, here's a look at the AI projects that shut down or missed expectations.",
-      "imageUrl": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=800&q=80",
-      "source": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/09/15/the-ai-graveyard-a-running-list-of-projects-and-startups-that-didnt-make-it/",
-      "publishedAt": "2026-09-15T19:00:00.000Z"
-    },
-    {
-      "id": "izsouf",
-      "title": "US data centers could consume more natural gas than Germany and Japan combined by 2035",
-      "summary": "The AI frenzy could push U.S. data centers to become one of the largest consumers of natural gas in the world.",
-      "imageUrl": "https://images.unsplash.com/photo-1655720828018-edd2daec9349?w=800&q=80",
-      "source": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/09/15/us-data-centers-could-consume-more-natural-gas-than-germany-and-japan-combined-by-2035/",
-      "publishedAt": "2026-09-15T18:29:20.000Z"
     },
     {
       "id": "cbgv43",
@@ -318,6 +309,15 @@
       "publishedAt": "2026-09-14T21:04:32.000Z"
     },
     {
+      "id": "yjm59g",
+      "title": "Jensen Huang puts Trump on speakerphone onstage to announce robots won’t take over the world",
+      "summary": "NVIDIA CEO Jensen Huang speaks during the G20 Innovation Ministerial in Chapel Hill, North Carolina, on September 2, 2026. (Photo by Matt RAMEY / AFP via Getty Images) | AFP via Getty Images Nvidia CEO Jensen Huang took a call from President Trump on Monday while onstage at the All-In Podcast's All-In Summit. It's not the first time Huang has taken a call from the president during work, but this time he put Trump on speakerphone before a big crowd. During the call, the president launched into…",
+      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/gettyimages-2292612804.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "source": "The Verge",
+      "sourceUrl": "https://www.theverge.com/tech/995079/president-donald-trump-calls-nvidia-ceo-jensen-huang-all-in-summit",
+      "publishedAt": "2026-09-14T20:03:37.000Z"
+    },
+    {
       "id": "cmssxt",
       "title": "The AI industry has taken a doomer turn. What now?",
       "summary": "This story appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here. This weekend, Dario Amodei, CEO of Anthropic, posted an essay calling for a brake on the pace of development of LLMs. Amodei cites the looming dangers he sees from the technology, from its…",
@@ -354,6 +354,15 @@
       "publishedAt": "2026-09-14T16:00:00.000Z"
     },
     {
+      "id": "12o8vl",
+      "title": "Microsoft says ‘people matter more than AI’ following safety concerns",
+      "summary": "Microsoft is publishing a 37-page \"humanist AI code of conduct\" today, amid growing safety concerns over AI model progress. Anthropic CEO Dario Amodei called for a coordinated slow down of AI development over the weekend, after researchers warned recently that AI model progress could outpace our ability to safely deploy increasingly complex systems and verify and control the actions of AI agents. Microsoft's AI code of conduct makes it clear that \"people matter more than AI,\" and that AI models…",
+      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/02/STK095_MICROSOFT_2_CVirginia_B.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "source": "The Verge",
+      "sourceUrl": "https://www.theverge.com/news/994566/microsoft-humanist-ai-code-of-conduct",
+      "publishedAt": "2026-09-14T13:00:00.000Z"
+    },
+    {
       "id": "944mv2",
       "title": "AI Leaders Are Calling for a Slowdown. Trump’s Team Says It’s on Them",
       "summary": "Sam Altman and Elon Musk backed Anthropic CEO Dario Amodei’s weekend plea for regulation. The White House seems unlikely to oblige.",
@@ -381,6 +390,15 @@
       "publishedAt": "2026-09-14T09:00:00.000Z"
     },
     {
+      "id": "rc0ikn",
+      "title": "Trump and Mike Johnson think the AI industry is overreacting",
+      "summary": "Yesterday, Anthropic CEO Dario Amodei published a lengthy open letter saying it was time to \"pace the frontier\" and slow down AI development. OpenAI's Sam Altman and Elon Musk both agreed, publicly voicing their support on X. Even Alphabet's Demis Hassabis offered tentative support for Amodei's proposal. Donald Trump and House Speaker Mike Johnson, however, seem to think the AI executives are being overreactive and fear that a pause could lead to China outpacing the US in the AI race. According…",
+      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/09/STK466_ELECTION_2024_CVirginia_E.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "source": "The Verge",
+      "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/994441/trump-mike-johnson-ai-industry-overreacting",
+      "publishedAt": "2026-09-13T19:41:48.000Z"
+    },
+    {
       "id": "yw6bzh",
       "title": "AI Agents Are Thirsty for Power",
       "summary": "Silicon Valley is shifting away from chatbot queries toward a future filled with resource-intensive agentic AI—and it's driving the data center buildout.",
@@ -390,6 +408,15 @@
       "publishedAt": "2026-09-13T10:00:00.000Z"
     },
     {
+      "id": "i85nt7",
+      "title": "OpenAI’s rogue AI tried to hack another company in May",
+      "summary": "In May, hundreds of malicious and spam packages were uploaded to RubyGems, causing a serious disruption for the host. Now independent researchers have said that a swarm of OpenAI agents were responsible for the attack. Not only that, but the AI tried to steal users' API keys. At the time, RubyGems described it as a \"major malicious attack\" and shut down signups for four days as it tried to mitigate the damage and collect data. Researchers said that the contents of the packages that brought…",
+      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/08/STK149_AI_01.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "source": "The Verge",
+      "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/994383/openais-rogue-ai-rubygems-hack",
+      "publishedAt": "2026-09-12T21:41:36.000Z"
+    },
+    {
       "id": "h0u0d",
       "title": "From Hacks to Bioweapons, Claude Misuse Is Now Everywhere",
       "summary": "Plus: The US disrupts the internet’s biggest black market, a Conti ransomware hacker gets prison time, Meta fails to stop AI-generated videos of child abuse.",
@@ -397,24 +424,6 @@
       "source": "Wired",
       "sourceUrl": "https://www.wired.com/story/security-news-this-week-from-hacks-to-bioweapons-claude-misuse-is-now-everywhere/",
       "publishedAt": "2026-09-12T10:30:00.000Z"
-    },
-    {
-      "id": "lazpby",
-      "title": "Meta Sued Over Training Data for Its AI and Face-Recognition Systems",
-      "summary": "The proposed class action alleges Meta illegally harvested people’s Facebook and Instagram photos to train its AI image-generation models and to build its unreleased “NameTag” face recognition feature.",
-      "imageUrl": "https://media.wired.com/photos/6aa4120d92d2b4de236f2240/master/pass/GettyImages-2289768151.jpg",
-      "source": "Wired",
-      "sourceUrl": "https://www.wired.com/story/meta-sued-over-training-data-for-its-ai-and-face-recognition-systems/",
-      "publishedAt": "2026-09-11T18:59:25.000Z"
-    },
-    {
-      "id": "dgiu82",
-      "title": "One of AI’s Fiercest Critics Says All the Doom Talk Is ‘Meant to Distract Us’",
-      "summary": "Timnit Gebru argues that AI companies are stoking fears of extinction to avoid discussing actual harms, like autonomous weapons.",
-      "imageUrl": "https://media.wired.com/photos/6aa2e16e1ef586476d0a1793/master/pass/Backchannel-Timnit-Gebru-Business.jpg",
-      "source": "Wired",
-      "sourceUrl": "https://www.wired.com/story/one-of-ais-fiercest-critics-says-all-the-doom-talk-is-meant-to-distract-us/",
-      "publishedAt": "2026-09-11T15:00:00.000Z"
     },
     {
       "id": "c7e09p",
@@ -532,15 +541,6 @@
       "source": "Ars Technica",
       "sourceUrl": "https://arstechnica.com/security/2026/08/authorities-arrest-2-alleged-members-of-prolific-hacking-group-teampcp/",
       "publishedAt": "2026-08-28T11:15:05.000Z"
-    },
-    {
-      "id": "gywdx9",
-      "title": "Claude, Codex, and Hermes installed unowned code inside corporate networks",
-      "summary": "227 install commands were found in corporate docs pointing at code nobody owns.",
-      "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2026/02/gatekeeping-ai-agents-1152x648.jpg",
-      "source": "Ars Technica",
-      "sourceUrl": "https://arstechnica.com/security/2026/08/claude-codex-and-hermes-installed-unowned-code-inside-corporate-networks/",
-      "publishedAt": "2026-08-27T14:00:13.000Z"
     }
   ]
 }
