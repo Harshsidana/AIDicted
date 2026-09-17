@@ -1,7 +1,43 @@
 {
-  "fetchedAt": "2026-09-17T00:50:11.326Z",
+  "fetchedAt": "2026-09-17T05:58:51.047Z",
   "count": 60,
   "articles": [
+    {
+      "id": "tylv6h",
+      "title": "Iceland-based Treble raises $18 million for its voice simulation platform",
+      "summary": "Treble's voice simulation platform is used by voice AI model developers, AI wearable, and robotics companies",
+      "imageUrl": "https://images.unsplash.com/photo-1620712943543-bcc4688e7485?w=800&q=80",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/09/16/iceland-based-treble-raises-18-million-for-its-voice-simulation-platform/",
+      "publishedAt": "2026-09-17T05:00:00.000Z"
+    },
+    {
+      "id": "47gzra",
+      "title": "Your startup’s next teammate might be an AI agent: Gusto, Insight Partners, and Leland explain what that changes at TechCrunch Disrupt 2026",
+      "summary": "This session will explore how early-stage companies are building teams where humans and AI agents work alongside each other — and how founders can do that without sacrificing speed, accountability, or culture. Learn more at TechCrunch Disrupt 2026. Register before September 25 to save up to $200.",
+      "imageUrl": "https://images.unsplash.com/photo-1655720828018-edd2daec9349?w=800&q=80",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/09/16/your-startups-next-teammate-might-be-an-ai-agent-gusto-insight-partners-and-leland-explain-what-that-changes-at-techcrunch-disrupt-2026/",
+      "publishedAt": "2026-09-17T03:30:00.000Z"
+    },
+    {
+      "id": "6bwgdr",
+      "title": "Snap tries to make the case again for its $2,200 smart glasses",
+      "summary": "Since Specs' debut earlier this year, Snap has clearly been looking for an opportunity to explain why the smart glasses deserve to exist.",
+      "imageUrl": "https://images.unsplash.com/photo-1531746790095-6c10a4031c5f?w=800&q=80",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/09/16/snap-tries-to-make-the-case-again-for-its-2200-smart-glasses/",
+      "publishedAt": "2026-09-17T00:58:49.000Z"
+    },
+    {
+      "id": "thxx0h",
+      "title": "Al Gore says the real AI risk isn’t data centers",
+      "summary": "In an interview with TechCrunch, Al Gore suggested he isn't losing sleep over AI data center emissions — he's more worried about the AI industry's own warnings about where the technology is headed.",
+      "imageUrl": "https://images.unsplash.com/photo-1531746790095-6c10a4031c5f?w=800&q=80",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/09/16/al-gore-has-a-surprisingly-calm-take-on-the-ai-data-center-backlash/",
+      "publishedAt": "2026-09-16T23:43:09.000Z"
+    },
     {
       "id": "vsgyvm",
       "title": "Snap is launching a new Specs AI tool, and it’s coming to iOS and Mac",
@@ -237,15 +273,6 @@
       "publishedAt": "2026-09-16T12:00:00.000Z"
     },
     {
-      "id": "7qe8we",
-      "title": "Amazon launches Alexa+ in India with Hindi support",
-      "summary": "Amazon is letting all customers use Alexa+ assistant in early access period.",
-      "imageUrl": "https://images.unsplash.com/photo-1635070041078-e363dbe005cb?w=800&q=80",
-      "source": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/09/16/amazon-launches-alexa-in-india-with-hindi-support/",
-      "publishedAt": "2026-09-16T10:34:47.000Z"
-    },
-    {
       "id": "avlmc6",
       "title": "China Isn’t Buying Silicon Valley’s Call for an AI Slowdown",
       "summary": "The US and China agree that advanced AI poses serious risks. But Beijing is deeply skeptical of a deal that prioritizes keeping US companies ahead.",
@@ -255,15 +282,6 @@
       "publishedAt": "2026-09-16T09:30:00.000Z"
     },
     {
-      "id": "z3uwyr",
-      "title": "We don’t need AI regulation — leave safety to us, Nvidia’s Jensen Huang says",
-      "summary": "AI isn't some new form of \"alien mind,\" according to Jensen Huang. It's just hardware and software, so safety can be engineered by each AI product maker.",
-      "imageUrl": "https://images.unsplash.com/photo-1531746790095-6c10a4031c5f?w=800&q=80",
-      "source": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/09/15/we-dont-need-ai-regulation-leave-safety-to-us-nvidias-jensen-huang-says/",
-      "publishedAt": "2026-09-16T00:20:39.000Z"
-    },
-    {
       "id": "9j14tf",
       "title": "AI and data centers are incredibly unpopular in every poll",
       "summary": "Poll data released Tuesday by The New York Times and Siena University confirms what we've already been seeing, and what politicians are responding to - AI and data centers are incredibly unpopular. Asked if they support or oppose the construction of data centers to power AI tech, 61 percent of the 1,503 likely voters surveyed in early September (ahead of the recent AI safety slowdown discussion) said they were opposed, with only 14 percent saying they strongly support. The split was about even…",
@@ -271,24 +289,6 @@
       "source": "The Verge",
       "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/995917/data-center-nyt-midterm-poll-september",
       "publishedAt": "2026-09-15T23:34:25.000Z"
-    },
-    {
-      "id": "e7zrj9",
-      "title": "The AI data center boom is colliding with cities scarred by big industry",
-      "summary": "National outcry against data center construction has spread to Philadelphia, where officials suggested possible construction in a neighborhood already impacted by a now-defunct oil refinery.",
-      "imageUrl": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=800&q=80",
-      "source": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/09/15/the-ai-data-center-boom-is-colliding-with-cities-scarred-by-big-industry/",
-      "publishedAt": "2026-09-15T21:47:38.000Z"
-    },
-    {
-      "id": "1pxk2z",
-      "title": "Meta now lets AI agents handle the boring parts of WhatsApp Business setup",
-      "summary": "A new WhatsApp Business MCP server lets developers use AI coding agents like Claude, Cursor, Codex, and ChatGPT to handle setup, messaging templates, testing, and troubleshooting.",
-      "imageUrl": "https://images.unsplash.com/photo-1531746790095-6c10a4031c5f?w=800&q=80",
-      "source": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/09/15/meta-now-lets-ai-agents-handle-the-boring-parts-of-whatsapp-business-setup/",
-      "publishedAt": "2026-09-15T20:12:53.000Z"
     },
     {
       "id": "cbgv43",
