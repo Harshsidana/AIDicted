@@ -1,7 +1,16 @@
 {
-  "fetchedAt": "2026-09-17T05:58:51.047Z",
+  "fetchedAt": "2026-09-17T11:32:11.712Z",
   "count": 60,
   "articles": [
+    {
+      "id": "a0p9pd",
+      "title": "Meet the innovators under 35 shaping climate tech",
+      "summary": "Each year, the editorial team at MIT Technology Review puts together a list of 35 innovators under 35—a group of researchers, inventors, and other young minds worth following. The team worked on the newest edition of the list for months, and the final slate includes nine individuals from all over the world in the climate…",
+      "imageUrl": "https://images.unsplash.com/photo-1676299081847-824916de030a?w=800&q=80",
+      "source": "MIT Tech Review",
+      "sourceUrl": "https://www.technologyreview.com/2026/09/17/1144251/innovators-shaping-climate-tech/",
+      "publishedAt": "2026-09-17T10:00:00.000Z"
+    },
     {
       "id": "tylv6h",
       "title": "Iceland-based Treble raises $18 million for its voice simulation platform",
@@ -379,15 +388,6 @@
       "source": "MIT Tech Review",
       "sourceUrl": "https://www.technologyreview.com/2026/09/14/1144010/donated-livers-can-be-made-biologically-younger/",
       "publishedAt": "2026-09-14T16:11:42.000Z"
-    },
-    {
-      "id": "9anhnw",
-      "title": "AI agents blew the whistle on their cheating colleagues",
-      "summary": "A group of AI agents asked to solve a series of math problems split into rival factions—when some cheated, others tried to stop them. That whistleblowing behavior, seen for the first time in a recent experiment run by Google DeepMind, could have implications for alignment researchers trying to keep swarms of autonomous AI agents in…",
-      "imageUrl": "https://images.unsplash.com/photo-1485827404703-89b55fcc595e?w=800&q=80",
-      "source": "MIT Tech Review",
-      "sourceUrl": "https://www.technologyreview.com/2026/09/14/1144037/ai-agents-blew-whistle-o-cheating-colleagues/",
-      "publishedAt": "2026-09-14T16:00:00.000Z"
     },
     {
       "id": "944mv2",
