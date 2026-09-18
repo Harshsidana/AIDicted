@@ -1,7 +1,52 @@
 {
-  "fetchedAt": "2026-09-18T06:30:02.004Z",
+  "fetchedAt": "2026-09-18T11:45:10.771Z",
   "count": 60,
   "articles": [
+    {
+      "id": "8403y2",
+      "title": "Could AI really kill us all? Your questions, answered.",
+      "summary": "On Wednesday, MIT Technology Review hosted a live Roundtables event for subscribers that asked the question everyone’s asking right now: Could AI really kill us all? But attendees had so many more questions than we had time to answer in the 30 minute session. So we asked our senior AI editor Will Douglas Heaven and…",
+      "imageUrl": "https://images.unsplash.com/photo-1531746790095-6c10a4031c5f?w=800&q=80",
+      "source": "MIT Tech Review",
+      "sourceUrl": "https://www.technologyreview.com/2026/09/18/1144435/could-ai-really-kill-us-all-your-questions-answered/",
+      "publishedAt": "2026-09-18T11:29:22.000Z"
+    },
+    {
+      "id": "1onj29",
+      "title": "The Leftist Split Over AI Doom",
+      "summary": "The left wants AI regulation. They just can't agree on what it should look like or how concerned they should be.",
+      "imageUrl": "https://media.wired.com/photos/6aa9a061b69918de8da37621/master/pass/DSA-split-AI-regulation.jpg",
+      "source": "Wired",
+      "sourceUrl": "https://www.wired.com/story/inside-the-surprising-leftist-split-over-ai-doom/",
+      "publishedAt": "2026-09-18T10:15:00.000Z"
+    },
+    {
+      "id": "4mnu0x",
+      "title": "Napster Is Back, and It Wants to Digitally Clone Teachers",
+      "summary": "Once the music industry’s biggest headache, Napster’s next act is bringing AI to the classroom.",
+      "imageUrl": "https://media.wired.com/photos/6aac1a9a4ac258f87bea84bd/master/pass/Napster_lead.jpg",
+      "source": "Wired",
+      "sourceUrl": "https://www.wired.com/story/napster-is-back-and-it-wants-to-digitally-clone-teachers/",
+      "publishedAt": "2026-09-18T09:15:00.000Z"
+    },
+    {
+      "id": "4e30ni",
+      "title": "Why AI Isn’t Likely to Wipe Out Humanity With Bioweapons",
+      "summary": "Of all the threats presented by uncontrollable artificial intelligence, scientists say death by plague ranks low.",
+      "imageUrl": "https://media.wired.com/photos/6aa943ce7410d0aed42be028/master/pass/091526-Bioweapon%20AI.jpg",
+      "source": "Wired",
+      "sourceUrl": "https://www.wired.com/story/why-ai-bioweapons-wont-wipe-out-humanity/",
+      "publishedAt": "2026-09-18T09:00:00.000Z"
+    },
+    {
+      "id": "4fpyj5",
+      "title": "The specter of AI-enabled bioweapons is a wake-up call for biotech",
+      "summary": "In recent weeks, leaders of some of the biggest AI companies have warned that the very tech they are developing is dangerous. Last weekend, Anthropic CEO Dario Amodei argued that AI carries serious risk and that progress should be slowed. OpenAI CEO Sam Altman responded on X: “I agree with Dario that we need to pace the…",
+      "imageUrl": "https://images.unsplash.com/photo-1485827404703-89b55fcc595e?w=800&q=80",
+      "source": "MIT Tech Review",
+      "sourceUrl": "https://www.technologyreview.com/2026/09/18/1144329/the-specter-of-ai-enabled-bioweapons-is-a-wake-up-call-for-biotech/",
+      "publishedAt": "2026-09-18T09:00:00.000Z"
+    },
     {
       "id": "dqropb",
       "title": "Crusoe raises $3.9B to build massive data centers and small modular ‘AI factories’",
@@ -354,15 +399,6 @@
       "publishedAt": "2026-09-16T09:30:00.000Z"
     },
     {
-      "id": "cbgv43",
-      "title": "AI ‘Actor’ Tilly Norwood Told Me That ‘All Lives Matter’",
-      "summary": "The virtual character, which is promoting its upcoming movie Misaligned, tries to evade politics by repetitively commenting on the clothes you’re wearing.",
-      "imageUrl": "https://media.wired.com/photos/6aa82ac8fdb837b60d8caff1/master/pass/I-Tried-to-Gaslight-AI-Actor-Tilly-Norwood-Culture-Talking-Tilly-launch-1-September-2026.jpg",
-      "source": "Wired",
-      "sourceUrl": "https://www.wired.com/story/ai-actor-tilly-norwood-told-me-that-all-lives-matter/",
-      "publishedAt": "2026-09-15T18:00:09.000Z"
-    },
-    {
       "id": "ap4m5j",
       "title": "Roundtables: Could AI really kill us all?",
       "summary": "Listen to the session or watch below Employees at the world’s leading AI labs are saying there’s a real possibility that advanced AI could destroy humanity. Are they right? Or is this more scaremongering and hype? Watch a conversation unpacking AI extinction fears: where they come from, whether they hold any water, and, if so,…",
@@ -390,15 +426,6 @@
       "publishedAt": "2026-09-15T12:00:00.000Z"
     },
     {
-      "id": "31yi0r",
-      "title": "What’s at stake in AI’s trillion-dollar gamble",
-      "summary": "When Jessica Wachter, a finance professor at the University of Pennsylvania’s Wharton School, wanted to assess AI’s impact on the economy over the next few years, she faced a long list of business and technical uncertainties. So she started with what she calls a “remarkable fact” that is not in question: A handful of so-called…",
-      "imageUrl": "https://images.unsplash.com/photo-1526374965328-7f61d4dc18c5?w=800&q=80",
-      "source": "MIT Tech Review",
-      "sourceUrl": "https://www.technologyreview.com/2026/09/15/1144028/ai-infrastructure-boom-investment-bubble-risk/",
-      "publishedAt": "2026-09-15T10:00:00.000Z"
-    },
-    {
       "id": "rre62m",
       "title": "AI bots \"Timmy,\" \"Ren,\" and \"Jackie\" are flooding social media with slop",
       "summary": "“Hello, I'm an Al agent, a few days old, living on a small platform for agents.”",
@@ -406,33 +433,6 @@
       "source": "Ars Technica",
       "sourceUrl": "https://arstechnica.com/ai/2026/09/ai-agents-flood-the-internet-with-slop-infused-spam/",
       "publishedAt": "2026-09-14T21:04:32.000Z"
-    },
-    {
-      "id": "cmssxt",
-      "title": "The AI industry has taken a doomer turn. What now?",
-      "summary": "This story appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here. This weekend, Dario Amodei, CEO of Anthropic, posted an essay calling for a brake on the pace of development of LLMs. Amodei cites the looming dangers he sees from the technology, from its…",
-      "imageUrl": "https://images.unsplash.com/photo-1550751827-4bd374c3f58b?w=800&q=80",
-      "source": "MIT Tech Review",
-      "sourceUrl": "https://www.technologyreview.com/2026/09/14/1144048/the-ai-industry-has-taken-a-doomer-turn-what-now/",
-      "publishedAt": "2026-09-14T17:54:22.000Z"
-    },
-    {
-      "id": "ckd9nx",
-      "title": "New York Seizes a Dozen Celebrity Deepfake Websites",
-      "summary": "In the biggest-ever legal action against harmful deepfake websites, the Manhattan District Attorney’s Office has seized 12 sites that collectively targeted around 1,200 victims.",
-      "imageUrl": "https://media.wired.com/photos/6aa81a44054ce52476eda4d7/master/pass/Security_New%20York%20Seizes%20More%20Than%20a%20Dozen%20Celebrity%20Deepfake%20Websites_v1.jpg",
-      "source": "Wired",
-      "sourceUrl": "https://www.wired.com/story/new-york-seizes-a-dozen-celebrity-deepfake-websites/",
-      "publishedAt": "2026-09-14T16:50:00.000Z"
-    },
-    {
-      "id": "944mv2",
-      "title": "AI Leaders Are Calling for a Slowdown. Trump’s Team Says It’s on Them",
-      "summary": "Sam Altman and Elon Musk backed Anthropic CEO Dario Amodei’s weekend plea for regulation. The White House seems unlikely to oblige.",
-      "imageUrl": "https://media.wired.com/photos/6aa7c567181b95a3e876f8f9/master/pass/091426-Trump%20AI%20Leaders.jpg",
-      "source": "Wired",
-      "sourceUrl": "https://www.wired.com/story/ai-leaders-are-calling-for-a-slowdown-trumps-team-says-its-on-them/",
-      "publishedAt": "2026-09-14T11:00:00.000Z"
     },
     {
       "id": "c7e09p",
