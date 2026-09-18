@@ -1,7 +1,97 @@
 {
-  "fetchedAt": "2026-09-18T11:45:10.771Z",
+  "fetchedAt": "2026-09-18T16:15:32.882Z",
   "count": 60,
   "articles": [
+    {
+      "id": "v49wvf",
+      "title": "Security researchers used Claude to help them hack into OpenAI",
+      "summary": "A team of three independent security researchers at Hacktron says it took less than 72 hours for them to hack into OpenAI employee accounts using Anthropic's Claude Opus 4.8 and 5, the Wall Street Journal reports. They were able to access OpenAI's GitHub repository, called \"Monorepo,\" which reportedly contains \"OpenAI's algorithmic secrets,\" according to the Wall Street Journal's sources. They stopped short of accessing internal code in Monorepo themselves, but sent a pull request from an…",
+      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/STKS533_AI_AGENTS_HACKING_D.png?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "source": "The Verge",
+      "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/997444/openai-hack-claude-heif-heist",
+      "publishedAt": "2026-09-18T15:30:16.000Z"
+    },
+    {
+      "id": "szqq54",
+      "title": "Open or closed AI? Nvidia’s Nader Khalil and Sydney Sykes take on one of the decisions shaping next-gen startups at TechCrunch Disrupt 2026",
+      "summary": "Nvidia's Nader Khalil and Sydney Sykes discuss one of the decisions shaping next-gen startups on the Builders Stage at TechCrunch Disrupt 2026.",
+      "imageUrl": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=800&q=80",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/09/18/open-or-closed-ai-nvidias-nader-khalil-and-sydney-sykes-take-on-one-of-the-decisions-shaping-next-gen-startups-at-techcrunch-disrupt-2026/",
+      "publishedAt": "2026-09-18T15:30:00.000Z"
+    },
+    {
+      "id": "quckv6",
+      "title": "Meta’s Muse hits Mac, letting the AI take actions on your computer",
+      "summary": "Muse is now available on the Mac, where it can work with your files and apps to take action on your behalf.",
+      "imageUrl": "https://images.unsplash.com/photo-1620712943543-bcc4688e7485?w=800&q=80",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/09/18/metas-muse-hits-mac-letting-the-ai-take-actions-on-your-computer/",
+      "publishedAt": "2026-09-18T15:22:48.000Z"
+    },
+    {
+      "id": "abmydl",
+      "title": "AI PACs Have Dumped Nearly $1 Million Into an Obscure Senate Race",
+      "summary": "The reliably Republican South Dakota senate seat has an incumbent on the ballot. But PACs associated with AI labs and investors have already spent more money on the race than actual residents have.",
+      "imageUrl": "https://media.wired.com/photos/6aa820614ea2a5a4d9e48bf8/master/pass/GettyImages-2258333098.jpg",
+      "source": "Wired",
+      "sourceUrl": "https://www.wired.com/story/ai-pacs-have-dumped-nearly-1-million-into-an-obscure-senate-race/",
+      "publishedAt": "2026-09-18T15:00:08.000Z"
+    },
+    {
+      "id": "2rgiy5",
+      "title": "Robinhood’s Abhishek Fatehpuria on winning the modern financial consumer at TechCrunch Disrupt 2026",
+      "summary": "Robinhood’s Abhishek Fatehpuria on winning the modern financial consumer at TechCrunch Disrupt 2026. Register now to save up to $200 before September 25 at 11:59 p.m. PT.",
+      "imageUrl": "https://images.unsplash.com/photo-1620712943543-bcc4688e7485?w=800&q=80",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/09/18/robinhoods-abhishek-fatehpuria-on-winning-the-modern-financial-consumer-at-techcrunch-disrupt-2026/",
+      "publishedAt": "2026-09-18T15:00:00.000Z"
+    },
+    {
+      "id": "u9kq8s",
+      "title": "If the AI Industry Followed Its Own Research, It Might Have Paused Already",
+      "summary": "Anthropic’s CEO says that safety hinges on understanding how AI “thinks.” So far the evidence is disturbing.",
+      "imageUrl": "https://media.wired.com/photos/6aac458c4b08c0385f0a12d8/master/pass/Backchannel-dont-know-enough-about-how-ai-models-work-Business.jpg",
+      "source": "Wired",
+      "sourceUrl": "https://www.wired.com/story/if-the-ai-industry-followed-its-own-research-it-might-have-paused-already/",
+      "publishedAt": "2026-09-18T15:00:00.000Z"
+    },
+    {
+      "id": "spyou",
+      "title": "Researchers used Anthropic’s Claude to hack into OpenAI",
+      "summary": "Security researchers used Anthropic’s Claude to exploit vulnerabilities in OpenAI’s systems, taking over employee accounts and gaining access to an internal code repository before reporting the flaws.",
+      "imageUrl": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=800&q=80",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/09/18/researchers-used-anthropics-claude-to-hack-into-openai/",
+      "publishedAt": "2026-09-18T14:00:14.000Z"
+    },
+    {
+      "id": "y3mw5u",
+      "title": "The clock is ticking: Final 24 hours to exhibit at TechCrunch Disrupt 2026",
+      "summary": "Last day to book your exhibit table at Disrupt is today, September 18. Get your startup in front of 10,000+ founders, investors, operators, and tech leaders on October 13–15.",
+      "imageUrl": "https://images.unsplash.com/photo-1526374965328-7f61d4dc18c5?w=800&q=80",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/09/18/final-24-hours-to-exhibit-at-techcrunch-disrupt-2026/",
+      "publishedAt": "2026-09-18T14:00:00.000Z"
+    },
+    {
+      "id": "gcqzfl",
+      "title": "Adopt This Data Center Plushie and Hear Its Piercing Scream",
+      "summary": "The satirical collaboration between a creative studio and the music producer behind Big Data, “Bezzy” is a cute little doll that spews the sounds of real data centers.",
+      "imageUrl": "https://media.wired.com/photos/6aac7385c5520f8d5bff0aea/master/pass/AdoptADataCenter-Bezzy-Sitting.png",
+      "source": "Wired",
+      "sourceUrl": "https://www.wired.com/story/adopt-this-data-center-plushie-and-hear-its-piercing-scream/",
+      "publishedAt": "2026-09-18T13:30:00.000Z"
+    },
+    {
+      "id": "rrf1yx",
+      "title": "The Download: AI’s extinction risk and bioweapons threat",
+      "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. Could AI really kill us all? Your questions, answered On Wednesday, MIT Technology Review hosted a live Roundtables event that asked the question many seem to be asking right now: could…",
+      "imageUrl": "https://images.unsplash.com/photo-1655720828018-edd2daec9349?w=800&q=80",
+      "source": "MIT Tech Review",
+      "sourceUrl": "https://www.technologyreview.com/2026/09/18/1142577/the-download-ai-extinction-threat-bioweapons/",
+      "publishedAt": "2026-09-18T12:10:00.000Z"
+    },
     {
       "id": "8403y2",
       "title": "Could AI really kill us all? Your questions, answered.",
@@ -10,6 +100,15 @@
       "source": "MIT Tech Review",
       "sourceUrl": "https://www.technologyreview.com/2026/09/18/1144435/could-ai-really-kill-us-all-your-questions-answered/",
       "publishedAt": "2026-09-18T11:29:22.000Z"
+    },
+    {
+      "id": "xeoabs",
+      "title": "Flash floods can strike without warning — this new technology could change that",
+      "summary": "On the morning of June 9th, Laura Lin was working from her home in Lanesville, a rural southern Indiana town about 15 miles from the Kentucky border. She was on a Zoom call, unaware that the heavy rain outside was beginning to flood her yard. \"I look over to where the barn is over there, and I see pieces of my wood floating, and I was like, 'What?' And I immediately was like, 'I have to go.' Close my laptop, and I get my kids up, and I'm like, 'Something's wrong,'\" Lin recalls. Lin and her…",
+      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/268746_new_technology_could_change_how_we_predict_flash_floods_for_good_CVirginia.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "source": "The Verge",
+      "sourceUrl": "https://www.theverge.com/science/997083/flash-flood-warning-tacls-satellite-machine-learning",
+      "publishedAt": "2026-09-18T11:00:00.000Z"
     },
     {
       "id": "1onj29",
@@ -192,42 +291,6 @@
       "publishedAt": "2026-09-17T17:26:25.000Z"
     },
     {
-      "id": "v6qyoh",
-      "title": "Base Labs launches an open-weight AI safety partnership with Hugging Face and Goodfire",
-      "summary": "Base Labs, the research group Baseten spun up earlier this year, will develop and publish methods for training and monitoring open models.",
-      "imageUrl": "https://images.unsplash.com/photo-1635070041078-e363dbe005cb?w=800&q=80",
-      "source": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/09/17/base-labs-launches-an-open-weight-ai-safety-partnership-with-hugging-face-and-goodfire/",
-      "publishedAt": "2026-09-17T17:15:59.000Z"
-    },
-    {
-      "id": "vb23kx",
-      "title": "Pinterest teases a new ‘Restyle’ feature that lets you redesign your room with AI",
-      "summary": "Pinterest is testing Restyle, a new AI-powered feature that lets users visualize furniture, decor, lighting, and more in photos of their own rooms — potentially helping turn saved inspiration into purchases.",
-      "imageUrl": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=800&q=80",
-      "source": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/09/17/pinterest-teases-a-new-restyle-feature-that-lets-you-redesign-your-room-with-ai/",
-      "publishedAt": "2026-09-17T17:15:00.000Z"
-    },
-    {
-      "id": "8aobdi",
-      "title": "Huawei plans Q1 2027 launch of new AI chip as it takes on Nvidia",
-      "summary": "Huawei is accelerating the launch of its next-generation Ascend 960DT AI chip as it pushes to compete with Nvidia and close China’s AI computing gap with the U.S.",
-      "imageUrl": "https://images.unsplash.com/photo-1531746790095-6c10a4031c5f?w=800&q=80",
-      "source": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/09/17/huawei-plans-q1-2027-launch-of-new-ai-chip-as-it-takes-on-nvidia/",
-      "publishedAt": "2026-09-17T14:06:14.000Z"
-    },
-    {
-      "id": "n2y2ij",
-      "title": "2 days left to exhibit at TechCrunch Disrupt 2026",
-      "summary": "Last day to book your exhibit table at Disrupt is September 18. Two days left. Get your startup in front of 10,000+ founders, investors, operators, and tech leaders on October 13–15.",
-      "imageUrl": "https://images.unsplash.com/photo-1550751827-4bd374c3f58b?w=800&q=80",
-      "source": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/09/17/2-days-left-to-exhibit-at-techcrunch-disrupt-2026/",
-      "publishedAt": "2026-09-17T14:00:00.000Z"
-    },
-    {
       "id": "avr9vs",
       "title": "Microsoft AI CEO says AI threats are real, and Anthropic is making it worse",
       "summary": "Today, I’m talking with Mustafa Suleyman, the CEO of Microsoft AI. As you’re no doubt aware, the biggest story in tech right now is the spiraling debate about AI safety and regulation. It should come as no surprise that Mustafa has strong opinions on how AI should be built and regulated. Microsoft just published a 37-page statement called the “Humanist AI Code of Conduct,” which lays out the company’s principles around AI development and even its philosophy around really thorny issues like AI…",
@@ -244,15 +307,6 @@
       "source": "The Verge",
       "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/996775/ai-is-feared-globally-as-the-destroyer-of-jobs",
       "publishedAt": "2026-09-17T14:00:00.000Z"
-    },
-    {
-      "id": "xefugt",
-      "title": "Rival AI agents, Instinct and Meta’s Muse, both add the ability to make calls",
-      "summary": "People can use these assistants to make restaurant reservations and cancel subscriptions.",
-      "imageUrl": "https://images.unsplash.com/photo-1485827404703-89b55fcc595e?w=800&q=80",
-      "source": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/09/17/rival-ai-agents-instinct-and-metas-muse-both-add-the-ability-to-make-calls/",
-      "publishedAt": "2026-09-17T13:46:16.000Z"
     },
     {
       "id": "tpmtu",
@@ -309,15 +363,6 @@
       "publishedAt": "2026-09-16T21:08:14.000Z"
     },
     {
-      "id": "vquced",
-      "title": "Washington Won’t Be Regulating AI Anytime Soon",
-      "summary": "Even with mounting concerns about AI models going rogue, legislation appears unlikely, and the White House is outright opposed to oversight.",
-      "imageUrl": "https://media.wired.com/photos/6aa9a839650c7d70ef723d0a/master/pass/politics_ai_regulation_slow.jpg",
-      "source": "Wired",
-      "sourceUrl": "https://www.wired.com/story/washington-wont-be-regulating-ai-anytime-soon/",
-      "publishedAt": "2026-09-16T21:00:00.000Z"
-    },
-    {
       "id": "3nc0ba",
       "title": "The 2.5-hour AI-generated Odyssey movie is 2.5 hours too long",
       "summary": "Christopher Nolan's engrossing take on The Odyssey dominated at the box office and spurred a newfound interest in classic literature among filmgoers. But a new retelling of the story made entirely with AI is so bad that it might just make viewers hate the original tale altogether. The new film, called Odysseus: The Fall, comes via AI firm Fountain 0 and is written and directed by company cofounder Ash Koosha, who also lent his likeness to the title character and created all of the music. (The…",
@@ -334,33 +379,6 @@
       "source": "The Verge",
       "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/996470/ai-data-center-e-waste-ban",
       "publishedAt": "2026-09-16T20:40:46.000Z"
-    },
-    {
-      "id": "l9jwx0",
-      "title": "I Trained a Fly’s Brain to Generate WIRED Story Ideas",
-      "summary": "I used an open-source map of a fruit fly’s brain to vibe code a website called PitchFly. Its headline suggestions were delightfully bananas.",
-      "imageUrl": "https://media.wired.com/photos/6aa8849459082b83fd22fcf8/master/pass/AI-Lab-This-Fly-Can-Come-Up-With-WIRED-Stories-Businesspsd.jpg",
-      "source": "Wired",
-      "sourceUrl": "https://www.wired.com/story/i-trained-a-fly-on-wired-story-ideas/",
-      "publishedAt": "2026-09-16T19:00:00.000Z"
-    },
-    {
-      "id": "xz341c",
-      "title": "Apple might make servers again to cash in on the AI rush",
-      "summary": "According to The Information, Apple is planning to get back into the server game and might just pair up with Nvidia to make it happen. Apple retired its Xserve line in 2011 and has largely left enterprise machines to other manufacturers since. But the growing demand for compute power as the AI industry continues to expand has apparently led the company to believe there is an opening for its powerful but efficient ARM-based M processors. Its Mac Mini and Mac Studio have proven popular with AI…",
-      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/03/STK071_APPLE_I.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "source": "The Verge",
-      "sourceUrl": "https://www.theverge.com/tech/996321/apple-servers-ai-nvidia",
-      "publishedAt": "2026-09-16T17:20:29.000Z"
-    },
-    {
-      "id": "46i65o",
-      "title": "Google will now let any AI agent run your smart home",
-      "summary": "Google is inviting third-party agents, including Claude and Open Claw, into Google Home. | Photo by Jennifer Pattison Tuohy / The Verge Google is opening up its smart home to AI agents, letting tools like Claude and Open Claw access and control your connected devices and analyze your home's data using the standardized Model Context Protocol. Google Home MCP is a new integration that lets third-party AI agents control and monitor your smart home and act on your behalf. It \"allows any AI agents…",
-      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/gemini-for-home.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "source": "The Verge",
-      "sourceUrl": "https://www.theverge.com/tech/996310/google-home-mcp-integration-agentic-ai-smart-home-price-release-date",
-      "publishedAt": "2026-09-16T17:00:00.000Z"
     },
     {
       "id": "ydnwfv",
@@ -390,15 +408,6 @@
       "publishedAt": "2026-09-16T12:10:00.000Z"
     },
     {
-      "id": "avlmc6",
-      "title": "China Isn’t Buying Silicon Valley’s Call for an AI Slowdown",
-      "summary": "The US and China agree that advanced AI poses serious risks. But Beijing is deeply skeptical of a deal that prioritizes keeping US companies ahead.",
-      "imageUrl": "https://media.wired.com/photos/6aa8339f6d59a577994203cf/master/pass/China-Not-Buying-Silicon-Valley-Call-for-AI-Pause-Business-2286390787.jpg",
-      "source": "Wired",
-      "sourceUrl": "https://www.wired.com/story/china-isnt-buying-silicon-valley-call-for-ai-slowdown/",
-      "publishedAt": "2026-09-16T09:30:00.000Z"
-    },
-    {
       "id": "ap4m5j",
       "title": "Roundtables: Could AI really kill us all?",
       "summary": "Listen to the session or watch below Employees at the world’s leading AI labs are saying there’s a real possibility that advanced AI could destroy humanity. Are they right? Or is this more scaremongering and hype? Watch a conversation unpacking AI extinction fears: where they come from, whether they hold any water, and, if so,…",
@@ -415,15 +424,6 @@
       "source": "MIT Tech Review",
       "sourceUrl": "https://www.technologyreview.com/2026/09/15/1144141/the-download-ai-extinction-whistleblowing-agents-donated-livers/",
       "publishedAt": "2026-09-15T12:10:00.000Z"
-    },
-    {
-      "id": "q9feiz",
-      "title": "AI models need more data about biology, and OpenAI is paying to create it",
-      "summary": "Last year Ruxandra Teslo, a policy analyst who focuses on clinical trials, posted an idea for supercharging medical AI systems: Use data from failed biotech companies. By bidding at their bankruptcy proceedings, she proposed, it might be possible to obtain detailed regulatory filings, manufacturing strategies, and safety data—types of information usually considered trade secrets. She…",
-      "imageUrl": "https://images.unsplash.com/photo-1526374965328-7f61d4dc18c5?w=800&q=80",
-      "source": "MIT Tech Review",
-      "sourceUrl": "https://www.technologyreview.com/2026/09/15/1144129/ai-models-need-more-data-about-biology-and-openai-is-paying-to-create-it/",
-      "publishedAt": "2026-09-15T12:00:00.000Z"
     },
     {
       "id": "rre62m",
