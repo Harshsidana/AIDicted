@@ -1,7 +1,25 @@
 {
-  "fetchedAt": "2026-09-17T23:00:44.685Z",
+  "fetchedAt": "2026-09-18T01:24:39.491Z",
   "count": 60,
   "articles": [
+    {
+      "id": "dqropb",
+      "title": "Crusoe raises $3.9B to build massive data centers and small modular ‘AI factories’",
+      "summary": "The round values the data center giant at $30.9 billion.",
+      "imageUrl": "https://images.unsplash.com/photo-1676299081847-824916de030a?w=800&q=80",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/09/17/crusoe-raises-3-9b-to-build-massive-data-centers-and-small-modular-ai-factories/",
+      "publishedAt": "2026-09-17T23:25:52.000Z"
+    },
+    {
+      "id": "ppilj5",
+      "title": "Google DeepMind launches institute to widen the AGI debate",
+      "summary": "The new institute aims to surface differing views between Google, Google DeepMind, and the broader global research community around AGI. \"They will not always agree, and they will likely change their minds, as more data and information comes to light at the fast-moving frontier.\"",
+      "imageUrl": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=800&q=80",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/09/17/google-deepmind-launches-institute-to-widen-the-agi-debate/",
+      "publishedAt": "2026-09-17T23:21:17.000Z"
+    },
     {
       "id": "dp2zoz",
       "title": "PrismML hopes its tiny LLM will change how we all use AI",
@@ -183,15 +201,6 @@
       "publishedAt": "2026-09-17T13:46:16.000Z"
     },
     {
-      "id": "blpfe7",
-      "title": "Google, Nvidia, and Anthropic want Emerald AI to find space on the grid for more data centers",
-      "summary": "A new coalition that includes Google, Nvidia, Anthropic, and Emerald AI wants to find 100 GW of grid capacity for new data centers.",
-      "imageUrl": "https://images.unsplash.com/photo-1550751827-4bd374c3f58b?w=800&q=80",
-      "source": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/09/17/google-nvidia-and-anthropic-want-emerald-ai-to-find-space-on-the-grid-for-more-data-centers/",
-      "publishedAt": "2026-09-17T13:38:33.000Z"
-    },
-    {
       "id": "tpmtu",
       "title": "The Download: mice with part-human brains and climate tech innovators",
       "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. Meet a mouse whose brain cortex is made up of human cells Multiple cameras tracked a mouse as it wandered around a small arena. A computer charted its position and speed,…",
@@ -217,15 +226,6 @@
       "source": "MIT Tech Review",
       "sourceUrl": "https://www.technologyreview.com/2026/09/17/1144251/innovators-shaping-climate-tech/",
       "publishedAt": "2026-09-17T10:00:00.000Z"
-    },
-    {
-      "id": "tylv6h",
-      "title": "Iceland-based Treble raises $18 million for its voice simulation platform",
-      "summary": "Treble's voice simulation platform is used by voice AI model developers and AI wearable and robotics companies,",
-      "imageUrl": "https://images.unsplash.com/photo-1620712943543-bcc4688e7485?w=800&q=80",
-      "source": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/09/16/iceland-based-treble-raises-18-million-for-its-voice-simulation-platform/",
-      "publishedAt": "2026-09-17T05:00:00.000Z"
     },
     {
       "id": "vsgyvm",
