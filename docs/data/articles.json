@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-09-18T01:24:39.491Z",
+  "fetchedAt": "2026-09-18T06:30:02.004Z",
   "count": 60,
   "articles": [
     {
@@ -127,6 +127,15 @@
       "source": "Wired",
       "sourceUrl": "https://www.wired.com/story/are-rogue-ai-agents-really-just-a-cybersecurity-problem/",
       "publishedAt": "2026-09-17T18:42:25.000Z"
+    },
+    {
+      "id": "5b1utm",
+      "title": "LLMs respond differently to harmful prompts when AI watermarking is used",
+      "summary": "SynthID can cause models to follow harmful instructions they would otherwise refuse.",
+      "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2026/09/ai-generated-watermark-1152x556.jpg",
+      "source": "Ars Technica",
+      "sourceUrl": "https://arstechnica.com/security/2026/09/ai-text-watermarking-can-make-models-more-vulnerable-to-adversarial-prompts/",
+      "publishedAt": "2026-09-17T18:33:13.000Z"
     },
     {
       "id": "7lsk4a",
@@ -532,15 +541,6 @@
       "source": "Ars Technica",
       "sourceUrl": "https://arstechnica.com/ai/2026/08/inside-metas-push-to-put-robots-to-work-in-data-centers/",
       "publishedAt": "2026-08-30T11:03:47.000Z"
-    },
-    {
-      "id": "uenosh",
-      "title": "Authorities arrest 2 alleged members of prolific hacking group TeamPCP",
-      "summary": "The group infected more than 1,000 organizations in a relentless supply-chain attack campaign.",
-      "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2026/08/teampcp-member-arrest-1152x648.jpg",
-      "source": "Ars Technica",
-      "sourceUrl": "https://arstechnica.com/security/2026/08/authorities-arrest-2-alleged-members-of-prolific-hacking-group-teampcp/",
-      "publishedAt": "2026-08-28T11:15:05.000Z"
     }
   ]
 }
