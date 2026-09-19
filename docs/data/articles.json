@@ -1,7 +1,43 @@
 {
-  "fetchedAt": "2026-09-19T09:22:08.549Z",
+  "fetchedAt": "2026-09-19T13:19:41.079Z",
   "count": 60,
   "articles": [
+    {
+      "id": "roona9",
+      "title": "Vals, backed by Andreessen Horowitz, is looking to become the gold standard for AI benchmarking",
+      "summary": "Vals AI is hoping to make AI benchmarking a more neutral and trustworthy resource in a world increasingly inundated by AI models.",
+      "imageUrl": "https://images.unsplash.com/photo-1676299081847-824916de030a?w=800&q=80",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/09/19/vals-backed-by-andreessen-horowitz-is-looking-to-become-the-gold-standard-for-ai-benchmarking/",
+      "publishedAt": "2026-09-19T13:00:00.000Z"
+    },
+    {
+      "id": "3b9v7j",
+      "title": "The AI regulation smackdown isn’t over",
+      "summary": "At the start of this week, the who's-who of AI seemed - at least tentatively - on the side of AI regulation. Over the weekend, Anthropic CEO Dario Amodei had proposed a three-step plan for slowing AI development, including by embedding third-party evaluators in labs, coordinating across the domestic industry, and forging international agreements potentially with government assistance. OpenAI CEO Sam Altman, Google DeepMind co-founder Demis Hassabis, and even SpaceX CEO Elon Musk publicly seemed…",
+      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/09/STK481_STK432_CONGRESS_GOVERNMENT_CIVRGINIA_C.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "source": "The Verge",
+      "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/997706/the-ai-regulation-smackdown-isnt-over",
+      "publishedAt": "2026-09-19T13:00:00.000Z"
+    },
+    {
+      "id": "qcxwea",
+      "title": "Forget the AI Slowdown—the Vulnerability Explosion Is Already Happening",
+      "summary": "AI labs are toying with an industry-wide pact to slow development. Meanwhile, widely available AI chatbots are already helping uncover a tidal wave of security flaws.",
+      "imageUrl": "https://media.wired.com/photos/6aada5d618f30d6f17ee2971/master/pass/Kernal-Panic-AI-SlowDown-Wont-Stop-Security-Vulnerability-Explosion-Security.jpg",
+      "source": "Wired",
+      "sourceUrl": "https://www.wired.com/story/kernel-panic-ai-vulnerability-explosion/",
+      "publishedAt": "2026-09-19T11:00:00.000Z"
+    },
+    {
+      "id": "a13uwl",
+      "title": "Mathematicians Hate AI. They Can’t Quit It",
+      "summary": "Powerful AI models have created an existential risk to the field, but researchers can’t stop relying on them because they’re too useful.",
+      "imageUrl": "https://media.wired.com/photos/6aad73fd03ca378a32980599/master/pass/091826-Math%20Hate%20AI.jpg",
+      "source": "Wired",
+      "sourceUrl": "https://www.wired.com/story/mathematicians-cant-quit-ai/",
+      "publishedAt": "2026-09-19T10:00:00.000Z"
+    },
     {
       "id": "wpqkt3",
       "title": "Join the WIRED World Fair in Miami on November 4",
@@ -192,15 +228,6 @@
       "publishedAt": "2026-09-18T15:30:00.000Z"
     },
     {
-      "id": "quckv6",
-      "title": "Meta’s Muse hits Mac, letting the AI take actions on your computer",
-      "summary": "Muse is now available on the Mac, where it can work with your files and apps to take action on your behalf.",
-      "imageUrl": "https://images.unsplash.com/photo-1620712943543-bcc4688e7485?w=800&q=80",
-      "source": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/09/18/metas-muse-hits-mac-letting-the-ai-take-actions-on-your-computer/",
-      "publishedAt": "2026-09-18T15:22:48.000Z"
-    },
-    {
       "id": "abmydl",
       "title": "AI PACs Have Dumped Nearly $1 Million Into an Obscure Senate Race",
       "summary": "The reliably Republican South Dakota senate seat has an incumbent on the ballot. But PACs associated with AI labs and investors have already spent more money on the race than actual residents have.",
@@ -291,24 +318,6 @@
       "publishedAt": "2026-09-18T09:00:00.000Z"
     },
     {
-      "id": "x8jg62",
-      "title": "Here’s What the AI Apocalypse Could Look Like",
-      "summary": "This week on “Uncanny Valley,” we discuss three possible AI doomsday scenarios, AI safety, and the unexpected bipartisan alliance forming against AI.",
-      "imageUrl": "https://media.wired.com/photos/6aab06ffc34fee882b3a156d/master/pass/Uncanny-Valley-Sam-Altman-AI-Risk-Debate-Business-2294955001.jpg",
-      "source": "Wired",
-      "sourceUrl": "https://www.wired.com/story/uncanny-valley-podcast-heres-what-the-ai-apocalypse-could-look-like/",
-      "publishedAt": "2026-09-17T22:20:21.000Z"
-    },
-    {
-      "id": "tm6sct",
-      "title": "The AI ‘Slowdown’ Is an Antitrust Mess",
-      "summary": "By framing their efforts as a “slowdown” rather than an industry-wide push for better security standards, AI labs may have set themselves up for years of regulatory headaches.",
-      "imageUrl": "https://media.wired.com/photos/6aab095b6efac6d4d3b8cb0b/master/pass/AI-Slowdown-Antitrust-Mess-Business.jpg",
-      "source": "Wired",
-      "sourceUrl": "https://www.wired.com/story/the-ai-slowdown-is-an-antitrust-mess/",
-      "publishedAt": "2026-09-17T19:58:28.000Z"
-    },
-    {
       "id": "ubz02e",
       "title": "The AI Superintelligence Slowdown",
       "summary": "Remember when tech leaders would tell their employees to “move fast and break things”? It seemed that would be the way of AI too. But after a summer where rogue AI agents became reality, and researchers warned that AI could kill us all, a number of leading US AI companies are publicly suggesting it’s time to pump the brakes and “pace the frontier” of bleeding-edge AI development. Their motivations are suspect, but leaders at major AI companies — including Anthropic, OpenAI, Google, Microsoft,…",
@@ -342,15 +351,6 @@
       "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/DCD-Mustafa-Suleyman.png?quality=90&#038;strip=all&#038;crop=0,0,100,100",
       "source": "The Verge",
       "sourceUrl": "https://www.theverge.com/podcast/996412/microsoft-ai-ceo-mustafa-suleyman-regulation-safety-anthropic-claude",
-      "publishedAt": "2026-09-17T14:00:00.000Z"
-    },
-    {
-      "id": "soe9nq",
-      "title": "AI is feared globally as the destroyer of jobs",
-      "summary": "In 34 of the 37 surveyed countries, people are more likely to believe AI will lead to job losses over the next 20 years. | Image: Pew Pew Research has published a new global survey that sheds light on how people view AI, including its impact on jobs, life in general, and income inequality. The survey questioned 42,151 people across 37 countries from February 8th to May 13th - well ahead of recent apocalyptic warnings. A majority sees AI as a threat to human employment. In 34 of the 37 countries…",
-      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/pew-hero.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "source": "The Verge",
-      "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/996775/ai-is-feared-globally-as-the-destroyer-of-jobs",
       "publishedAt": "2026-09-17T14:00:00.000Z"
     },
     {
