@@ -1,7 +1,16 @@
 {
-  "fetchedAt": "2026-09-19T04:55:40.721Z",
+  "fetchedAt": "2026-09-19T09:22:08.549Z",
   "count": 60,
   "articles": [
+    {
+      "id": "wpqkt3",
+      "title": "Join the WIRED World Fair in Miami on November 4",
+      "summary": "For one day only, WIRED is bringing the technologies, people, and cultural forces transforming our world off the page and into real life.",
+      "imageUrl": "https://media.wired.com/photos/6aad7180245943a17ceca34d/master/pass/WWF_2026_META__1080x1350_Phase%202.jpg",
+      "source": "Wired",
+      "sourceUrl": "https://www.wired.com/story/join-the-wired-world-fair-in-miami-on-november-4/",
+      "publishedAt": "2026-09-19T09:00:00.000Z"
+    },
     {
       "id": "x3xrub",
       "title": "India forces caller-ID apps to feed spam reports to telcos",
@@ -316,15 +325,6 @@
       "source": "The Verge",
       "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/997134/anthropic-claude-code-projects",
       "publishedAt": "2026-09-17T18:58:05.000Z"
-    },
-    {
-      "id": "5do6ze",
-      "title": "The AI Slowdown Debate Crashed Salesforce’s Party",
-      "summary": "The Dreamforce conference became an unlikely battleground for the CEOs of OpenAI, Anthropic, and Nvidia to debate whether AI development should slow down.",
-      "imageUrl": "https://media.wired.com/photos/6aab113b6146f3a3b3e310bc/master/pass/Model-Behavior-Year-Dreamforce-Was-Overtaken-by--Debate-Over-Existential-AI-Fears-Business.jpg",
-      "source": "Wired",
-      "sourceUrl": "https://www.wired.com/story/are-rogue-ai-agents-really-just-a-cybersecurity-problem/",
-      "publishedAt": "2026-09-17T18:42:25.000Z"
     },
     {
       "id": "5b1utm",
