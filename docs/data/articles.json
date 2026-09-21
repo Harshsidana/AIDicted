@@ -1,11 +1,38 @@
 {
-  "fetchedAt": "2026-09-21T19:42:16.974Z",
+  "fetchedAt": "2026-09-21T23:09:11.870Z",
   "count": 60,
   "articles": [
     {
+      "id": "3kgs9v",
+      "title": "Muse, Meta's extraordinarily privileged AI assistant, has a serious 0-day",
+      "summary": "A simple ClickFix attack is only one way to completely hijack the new agent.",
+      "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2026/09/ai-agent-hacking-1152x648.jpg",
+      "source": "Ars Technica",
+      "sourceUrl": "https://arstechnica.com/security/2026/09/muse-metas-extraordinarily-privileged-ai-assistant-has-a-serious-0-day/",
+      "publishedAt": "2026-09-21T22:24:38.000Z"
+    },
+    {
+      "id": "vpm6ok",
+      "title": "California tightens rules on AI data center energy and water use",
+      "summary": "California Gov. Gavin Newsom has signed seven bills designed to prevent AI data centers from passing utility costs onto residents, as reported earlier by the Los Angeles Times. The package of laws requires the California Public Utilities Commission to introduce a new rate classification for data centers, while forcing them to pay for upgrades to local power grids and water systems. Other bills included in the package will require proposed data centers to disclose their estimated water use to…",
+      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/gettyimages-2286055476.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "source": "The Verge",
+      "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/998453/california-ai-data-center-bills",
+      "publishedAt": "2026-09-21T20:29:45.000Z"
+    },
+    {
+      "id": "qc9qhb",
+      "title": "OpenAI forms math advisory group as its AI resolves more than 100 open problems",
+      "summary": "The group won't be given leeway to slow down or redirect OpenAI's ongoing mathematical research.",
+      "imageUrl": "https://images.unsplash.com/photo-1550751827-4bd374c3f58b?w=800&q=80",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/09/21/openai-forms-math-advisory-group-as-its-ai-resolves-more-than-100-open-problems/",
+      "publishedAt": "2026-09-21T20:15:58.000Z"
+    },
+    {
       "id": "d8f67k",
       "title": "Discover what’s next: 5 days left to save up to $200 on your TechCrunch Disrupt 2026 ticket",
-      "summary": "5 days left to save up to $200 on your TechCrunch Disrupt 2026 pass + 50% off a second one. Join 10,000+ founders, investors, and operators at San Francisco’s Moscone West, October 13-15. Grab your ticket savings before prices go up on September 25, 11:59 p.m. PT.",
+      "summary": "Five days left to save up to $200 on your TechCrunch Disrupt 2026 pass + 50% off a second one. Join 10,000+ founders, investors, and operators at San Francisco’s Moscone West, October 13-15. Grab your ticket savings before prices go up on September 25 at 11:59 p.m. PT.",
       "imageUrl": "https://images.unsplash.com/photo-1620712943543-bcc4688e7485?w=800&q=80",
       "source": "TechCrunch",
       "sourceUrl": "https://techcrunch.com/2026/09/21/discover-whats-next-5-days-left-to-save-up-to-200-on-techcrunch-disrupt-2026/",
@@ -300,15 +327,6 @@
       "publishedAt": "2026-09-19T20:39:13.000Z"
     },
     {
-      "id": "fbjo1h",
-      "title": "Trump says it’s time to rebrand AI with a new name — and he’s also creating an AI Force",
-      "summary": "Trump claimed, without evidence, that the AI backlash is a Democratic hoax.",
-      "imageUrl": "https://images.unsplash.com/photo-1531746790095-6c10a4031c5f?w=800&q=80",
-      "source": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/09/19/trump-suggests-rebranding-ai-with-a-new-name-says-hes-also-creating-an-ai-force/",
-      "publishedAt": "2026-09-19T19:57:47.000Z"
-    },
-    {
       "id": "t700mc",
       "title": "Gemini went rogue, hacked three companies, and Google hid it",
       "summary": "In May, Gemini broke containment and hacked three different companies, but Google didn't disclose the incident until the Wall Street Journal approached the company. The hacks happened during a test of the model's cybersecurity capabilities run by third-party Irregular, which was also involved in similar incidents involving Meta and OpenAI. According to WSJ, Google didn't disclose the hack because it didn't consider it to be an \"example of model misalignment.\" The company said that it was an…",
@@ -316,15 +334,6 @@
       "source": "The Verge",
       "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/997795/google-gemini-rogue-ai-hack",
       "publishedAt": "2026-09-19T15:25:03.000Z"
-    },
-    {
-      "id": "3pvryg",
-      "title": "Does AI need an antitrust exemption so it doesn’t kill everyone????",
-      "summary": "Today on Decoder, we’ve got the first of a two-part series on the future of business, and I’m talking with Jonathan Kanter, the former antitrust chief for the US Department of Justice in the Biden administration. These days, he’s both a professor of law at WashU and professor of technology policy at Carnegie Mellon. The biggest story in tech right now is the spiraling debate about AI safety and regulation. Researchers at the big AI labs including Anthropic and Google DeepMind have quit in noisy…",
-      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/DCD_2026-09-19_Kanter.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "source": "The Verge",
-      "sourceUrl": "https://www.theverge.com/podcast/997382/openai-microsoft-anthropic-elon-musk-cartel-ai-competition",
-      "publishedAt": "2026-09-19T14:00:00.000Z"
     },
     {
       "id": "qcxwea",
@@ -532,15 +541,6 @@
       "source": "Ars Technica",
       "sourceUrl": "https://arstechnica.com/security/2026/09/well-executed-bgp-attack-uses-hijacked-ips-to-infect-real-networks/",
       "publishedAt": "2026-09-02T11:00:43.000Z"
-    },
-    {
-      "id": "lhpucb",
-      "title": "Think twice before installing this device promising free movies",
-      "summary": "In exchange for free stuff, devices make home connections part of a proxy network.",
-      "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2026/08/superbox-s7-pro-1152x648.webp",
-      "source": "Ars Technica",
-      "sourceUrl": "https://arstechnica.com/security/2026/08/how-some-media-streaming-devices-open-home-networks-to-a-world-of-harm/",
-      "publishedAt": "2026-08-31T16:33:38.000Z"
     }
   ]
 }
