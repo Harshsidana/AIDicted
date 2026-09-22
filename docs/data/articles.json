@@ -1,7 +1,115 @@
 {
-  "fetchedAt": "2026-09-22T13:19:29.087Z",
+  "fetchedAt": "2026-09-22T17:43:47.710Z",
   "count": 60,
   "articles": [
+    {
+      "id": "fjyow",
+      "title": "IT mistake erases 11 years of viewing history for hospitals’ maternity records",
+      "summary": "The English hospitals recovered patient care data only.",
+      "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2026/09/GettyImages-2255624329-1024x648.jpg",
+      "source": "Ars Technica",
+      "sourceUrl": "https://arstechnica.com/information-technology/2026/09/it-mistake-erases-11-years-of-viewing-history-for-hospitals-maternity-records/",
+      "publishedAt": "2026-09-22T16:55:40.000Z"
+    },
+    {
+      "id": "5235pu",
+      "title": "Andreessen Horowitz is launching an ‘academy’ with no homework and partnerships with Palantir, Google, and Meta",
+      "summary": "Venture capital firm Andreessen Horowitz (a16z) is creating an \"academy\" positioned as a pipeline for young people to build or join a Silicon Valley startup. The \"Horowitz Andreessen Academy\" will launch with 10 partners, including Anduril, Anthropic, Coinbase, Google, Meta, NVIDIA, OpenAI, Palantir, Replit, and Stripe, along with $42 million in funding led by a16z. While billed as a \"highly selective school,\" it does not grant any degree or accreditation. Instead, students will attend short…",
+      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/STK483_EDUCATION_B.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "source": "The Verge",
+      "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/998813/andreessen-horowitz-ai-academy",
+      "publishedAt": "2026-09-22T16:34:08.000Z"
+    },
+    {
+      "id": "tr4r5r",
+      "title": "Anthropic releases Opus 5.5 with lower prices and Fable-level performance",
+      "summary": "Anthropic called it \"the strongest-performing model we've tested to date.\"",
+      "imageUrl": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=800&q=80",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/09/22/anthropic-releases-opus-5-5-with-lower-prices-and-fable-level-performance/",
+      "publishedAt": "2026-09-22T16:30:07.000Z"
+    },
+    {
+      "id": "vbshjh",
+      "title": "Anthropic launches Claude Opus 5.5 with stricter safeguards for cybersecurity",
+      "summary": "Anthropic says its new Claude Opus 5.5 model comes with stronger safeguards in the wake of recent rogue AI hacking incidents. In an announcement on Tuesday, Anthropic says Opus 5.5 comes with improvements to certain risky behaviors, including attempts to escape the company's testing sandbox. It's the first model released by Anthropic after CEO Dario Amodei announced plans to \"pace the frontier,\" or slow down AI development. In recent weeks, several AI companies, including Anthropic, Google, and…",
+      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/04/STK269_ANTHROPIC_2_D.webp?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "source": "The Verge",
+      "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/998868/anthropic-claude-opus-5-5-cybersecurity",
+      "publishedAt": "2026-09-22T16:30:00.000Z"
+    },
+    {
+      "id": "b079nm",
+      "title": "Trump says the US is officially renaming AI to ‘super intelligence’",
+      "summary": "In a speech Tuesday morning at the UN General Assembly, Donald Trump railed against Iran, \"globalists,\" climate change, and transgender people while also claiming that the US is now \"officially\" renaming artificial intelligence to \"super intelligence.\" Oddly, this wasn't one of the entries in the poll Trump posted a few days ago when he started on this tangent. Why is he saying this at all? Because, according to Trump, the word artificial makes intelligence fake. Is that what makes it sound fake…",
+      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/videoframe_1949029.png?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "source": "The Verge",
+      "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/998816/donald-trump-ai-super-intelligence",
+      "publishedAt": "2026-09-22T16:01:10.000Z"
+    },
+    {
+      "id": "jfl9q5",
+      "title": "Rabbit Is Back, This Time With an AI Agent App",
+      "summary": "Two years after trying to sidestep mobile apps with dedicated AI hardware, Rabbit is launching OS3, a cross-platform agent that lives on the screens you already use.",
+      "imageUrl": "https://media.wired.com/photos/6ab18726d3445bdfbd468e18/master/pass/Rabbit-is-Back-Gear-OS3_r1.jpg",
+      "source": "Wired",
+      "sourceUrl": "https://www.wired.com/story/rabbit-r1-os3-jesse-lyu/",
+      "publishedAt": "2026-09-22T16:00:00.000Z"
+    },
+    {
+      "id": "n62qzs",
+      "title": "AstroForge is putting AI in command of its next spacecraft",
+      "summary": "Autonomy-1 will have a small, transformer-based AI model taking charge of a space probe.",
+      "imageUrl": "https://images.unsplash.com/photo-1655720828018-edd2daec9349?w=800&q=80",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/09/22/astroforge-is-putting-ai-in-command-of-its-next-spacecraft/",
+      "publishedAt": "2026-09-22T15:00:00.000Z"
+    },
+    {
+      "id": "q4akzc",
+      "title": "Five AI safety sessions every founder should have on their TechCrunch Disrupt 2026 agenda",
+      "summary": "At TechCrunch Disrupt 2026, five sessions across the AI Stage and Real World AI Stage cover AI safety, featuring leaders from Anthropic, Nvidia, AWS, Waabi, and more. Register before September 25 to save up to $200.",
+      "imageUrl": "https://images.unsplash.com/photo-1485827404703-89b55fcc595e?w=800&q=80",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/09/22/five-ai-safety-sessions-every-founder-should-have-on-their-techcrunch-disrupt-2026-agenda/",
+      "publishedAt": "2026-09-22T15:00:00.000Z"
+    },
+    {
+      "id": "im25l4",
+      "title": "TechCrunch Disrupt 2026: Aaron Edsinger brings Hello Robot’s Stretch 4 to life onstage",
+      "summary": "Hello Robot CEO and co-founder Aaron Edsinger will bring Stretch 4 for a live demo on the Real World AI Stage at TechCrunch Disrupt 2026. Register before September 25 to save up to $200, plus get a second pass at 50% off.",
+      "imageUrl": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=800&q=80",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/09/22/techcrunch-disrupt-2026-aaron-edsinger-brings-hello-robots-stretch-4-to-life-onstage/",
+      "publishedAt": "2026-09-22T14:30:00.000Z"
+    },
+    {
+      "id": "vq3595",
+      "title": "Exhibit tables added: One last chance to showcase your startup at TechCrunch Disrupt 2026",
+      "summary": "We have reopened our exhibitor program for 1 more week. Book your exhibit table by September 30 at 11:59 p.m. PT and showcase your startup in front of 10,000+ founders, investors, and tech leaders at SF's Moscone West from October 13-15.",
+      "imageUrl": "https://images.unsplash.com/photo-1620712943543-bcc4688e7485?w=800&q=80",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/09/22/exhibitor-program-reopened-book-by-sept-30/",
+      "publishedAt": "2026-09-22T14:15:00.000Z"
+    },
+    {
+      "id": "qmresn",
+      "title": "4 days to save up to $200: Reason 2 of 5 to be at TechCrunch Disrupt 2026",
+      "summary": "Save up to $200 on your TechCrunch Disrupt 2026 pass, plus 50% off a second pass before prices increase on September 25 at 11:59 p.m. PT. Register today.",
+      "imageUrl": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=800&q=80",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/09/22/4-days-to-save-up-to-200-reason-2-of-5-to-be-at-techcrunch-disrupt-2026/",
+      "publishedAt": "2026-09-22T14:00:00.000Z"
+    },
+    {
+      "id": "4gpqhh",
+      "title": "Roundtables: The Deadly Failures of The Virtual Border Wall",
+      "summary": "The US has spent billions building a “virtual wall” of surveillance towers along its southern border over the past 25 years, promising they will help detect and apprehend border crossers and save lives. But a groundbreaking investigation by MIT Technology Review has documented over a thousand people who moved through areas watched by these towers…",
+      "imageUrl": "https://images.unsplash.com/photo-1550751827-4bd374c3f58b?w=800&q=80",
+      "source": "MIT Tech Review",
+      "sourceUrl": "https://www.technologyreview.com/2026/09/22/1144890/roundtables-the-deadly-failures-of-the-virtual-border-wall/",
+      "publishedAt": "2026-09-22T13:42:05.000Z"
+    },
     {
       "id": "ru159c",
       "title": "Everyone can find a reason to dislike data center construction",
@@ -201,33 +309,6 @@
       "publishedAt": "2026-09-21T15:00:00.000Z"
     },
     {
-      "id": "f2tk3f",
-      "title": "Google’s $899 Googlebook is a bet that you’ll buy a new laptop for Gemini",
-      "summary": "Google’s AI-native Googlebook ties Gemini to the cursor, dictation, widgets, and other parts of the desktop experience.",
-      "imageUrl": "https://images.unsplash.com/photo-1550751827-4bd374c3f58b?w=800&q=80",
-      "source": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/09/21/googles-899-googlebook-is-a-bet-that-youll-buy-a-new-laptop-for-gemini/",
-      "publishedAt": "2026-09-21T14:39:22.000Z"
-    },
-    {
-      "id": "ghaslu",
-      "title": "From first users to billions: Google’s Robby Stein joins TechCrunch Disrupt 2026",
-      "summary": "From first users to billions: Google’s Robby Stein joins TechCrunch Disrupt 2026. Lean in on this Builders Stage session. Save up to $200 before September 25.",
-      "imageUrl": "https://images.unsplash.com/photo-1526374965328-7f61d4dc18c5?w=800&q=80",
-      "source": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/09/21/from-first-users-to-billions-googles-robby-stein-joins-techcrunch-disrupt-2026/",
-      "publishedAt": "2026-09-21T14:30:00.000Z"
-    },
-    {
-      "id": "9gcxsh",
-      "title": "Meet the next wave of VCs judging Startup Battlefield 200 at TechCrunch Disrupt 2026",
-      "summary": "Meet the next wave of VCs judging the Startup Battlefield 200 contenders on the main stage at TechCrunch Disrupt 2026. Register by September 25 at 11:59 p.m. PT, to save up to $200 and to get a front-row seat to one of the most intense startup pitch competitions.",
-      "imageUrl": "https://images.unsplash.com/photo-1550751827-4bd374c3f58b?w=800&q=80",
-      "source": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/09/21/meet-the-next-wave-of-vcs-judging-startup-battlefield-200-at-techcrunch-disrupt-2026/",
-      "publishedAt": "2026-09-21T14:15:00.000Z"
-    },
-    {
       "id": "mimz0w",
       "title": "Can John Ternus find Apple’s next big thing?",
       "summary": "Today, I’m talking with Mark Gurman, who is the world’s best-sourced Apple reporter — both as Bloomberg’s chief Apple correspondent and the host of the upcoming podcast Power On. Earlier this month, Apple hosted its annual iPhone hardware event, virtually every detail of which was reported ahead of time by Mark. But this event was special, for a number of reasons. It was new Apple CEO John Ternus’ first major product launch since he took over for former CEO Tim Cook less than two weeks prior. It…",
@@ -300,15 +381,6 @@
       "publishedAt": "2026-09-21T12:00:00.000Z"
     },
     {
-      "id": "t6fgf7",
-      "title": "US and China Discuss Alerting Each Other to AI National Security Threats",
-      "summary": "Officials discussed setting up a mechanism for the two countries to notify each other of AI incidents which could threaten national security.",
-      "imageUrl": "https://media.wired.com/photos/6ab0fffcca426ab5b46ef4b4/master/pass/092126-Bensen%20China.jpg",
-      "source": "Wired",
-      "sourceUrl": "https://www.wired.com/story/us-and-china-discuss-alerting-each-other-to-ai-national-security-threats/",
-      "publishedAt": "2026-09-21T10:34:43.000Z"
-    },
-    {
       "id": "50y1v9",
       "title": "UN says AI safeguards can’t wait for certainty",
       "summary": "The United Nations logo at the UN headquarters in New York. | Getty Images Governments need to rein in increasingly capable AI agents before their risks are fully understood, a United Nations scientific panel warned in the global organization's first major assessment of OpenAI's hack of Hugging Face earlier this year. The report cements AI's place on the global diplomatic agenda this week as leaders gather in New York for the UN General Assembly and the US and China hold talks on AI. Last week,…",
@@ -327,33 +399,6 @@
       "publishedAt": "2026-09-21T09:21:47.000Z"
     },
     {
-      "id": "yy6q70",
-      "title": "6 days left to save up to $200 to TechCrunch Disrupt 2026",
-      "summary": "Current ticket pricing ends in 6 days on September 25 at 11:59 p.m. PT. Join 10,000+ founders, investors, and tech leaders at Disrupt and save up to $200 on your ticket.",
-      "imageUrl": "https://images.unsplash.com/photo-1531746790095-6c10a4031c5f?w=800&q=80",
-      "source": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/09/20/6-days-left-to-get-ahead-at-techcrunch-disrupt-2026/",
-      "publishedAt": "2026-09-20T21:41:08.000Z"
-    },
-    {
-      "id": "x0tqxb",
-      "title": "World model companies are keeping a lot of secrets",
-      "summary": "Everyone in the world-models space is sitting on a pile of cash and a ton of buzz, but good luck getting anyone — from the founders to their own data suppliers — to tell you what they're actually building.",
-      "imageUrl": "https://images.unsplash.com/photo-1655720828018-edd2daec9349?w=800&q=80",
-      "source": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/09/20/world-model-companies-are-keeping-a-lot-of-secrets/",
-      "publishedAt": "2026-09-20T20:29:07.000Z"
-    },
-    {
-      "id": "rmx1su",
-      "title": "Is the AI industry really ready to slow down?",
-      "summary": "On Equity, we debated whether AI executives are serious about wanting to slow down.",
-      "imageUrl": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=800&q=80",
-      "source": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/09/20/is-the-ai-industry-really-ready-to-slow-down/",
-      "publishedAt": "2026-09-20T18:56:04.000Z"
-    },
-    {
       "id": "n3dpp3",
       "title": "No one is surprised that Nvidia’s Jensen Huang thinks AI fears are overblown",
       "summary": "The man who may stand to make the most money from the AI boom seems to think he knows better than anyone else, including researchers who have studied and worked on AI for decades. In an interview with CBS Sunday Morning, he claimed there was a \"0% chance\" of AI being the end of the world. He also said of people sounding the alarm about the dangers of AI that, \"Scaring people is unnecessary. It is irresponsible.\" He also claims that calls from CEOs like Anthropic's Dario Amodei and OpenAI's Sam…",
@@ -363,24 +408,6 @@
       "publishedAt": "2026-09-20T18:50:18.000Z"
     },
     {
-      "id": "ife46w",
-      "title": "Trump now says he wants to form an ‘AI Force’",
-      "summary": "The president posted on Truth Social that he wanted to appoint an \"AI czar\" to lead a new \"AI force.\" He made the announcement amid growing calls from across the political spectrum and even within the industry to pump the brakes on AI development. He posted that his administration \"will not in any way hinder or stifle the Growth of this incredible Industry. Rather, we will cherish it, help it, and watch over it, as it grows!\" In the rambling post, Trump said that data centers were \"wealthy and…",
-      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25334825/STK466_ELECTION_2024_CVirginia_E.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "source": "The Verge",
-      "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/997867/trump-ai-force-ai-czar",
-      "publishedAt": "2026-09-20T15:39:22.000Z"
-    },
-    {
-      "id": "43h3qb",
-      "title": "Humans, not rogue AI, are still the biggest cybersecurity risk to energy systems",
-      "summary": "Before recent high-profile hacks raised the specter of AI possibly \"killing all humans,\" our energy systems were already disturbingly vulnerable to cyberattack - and the risk is growing. \"We were always prey. We were just kind of surviving at the appetite of our predators,\" Joshua Corman, executive in residence for public safety and resilience at the Institute for Security and Technology (IST), told me last year. At the time, I was preoccupied with a Department of Homeland Security warning that…",
-      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/akrales_220309_4977_0292.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "source": "The Verge",
-      "sourceUrl": "https://www.theverge.com/science/997834/ai-cyberattack-energy-critical-infrastructure",
-      "publishedAt": "2026-09-20T12:00:00.000Z"
-    },
-    {
       "id": "7gknug",
       "title": "An undercover Google analyst infiltrated a notorious supply-chain hacking gang",
       "summary": "Google’s threat intelligence group said it had a mole inside TeamPCP's inner circle.",
@@ -388,15 +415,6 @@
       "source": "Ars Technica",
       "sourceUrl": "https://arstechnica.com/security/2026/09/an-undercover-google-analyst-infiltrated-a-notorious-supply-chain-hacking-gang/",
       "publishedAt": "2026-09-20T11:07:00.000Z"
-    },
-    {
-      "id": "4rjww4",
-      "title": "Meta’s Muse is creepy, but maybe not for the reasons you think",
-      "summary": "Meta's Muse is apparently an effective AI assistant, but one that's a little creepy. Part of that is because of its new Mac app, which can access Messages, Calendar, and Notes. But for all its smarts, Muse doesn't actually know how to describe itself. Jason Aten, a contributing editor at Inc Magazine, posted on Threads screenshots of an interaction he had with Muse in which the assistant asks him some questions about a conversation he was having in Messages. The problem is that Aten says he…",
-      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/08/257890_Chatbot_secrets_CVirginia.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "source": "The Verge",
-      "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/997833/meta-muse-creepy",
-      "publishedAt": "2026-09-19T20:44:40.000Z"
     },
     {
       "id": "rrf1yx",
@@ -415,15 +433,6 @@
       "source": "MIT Tech Review",
       "sourceUrl": "https://www.technologyreview.com/2026/09/18/1144435/could-ai-really-kill-us-all-your-questions-answered/",
       "publishedAt": "2026-09-18T11:29:22.000Z"
-    },
-    {
-      "id": "4fpyj5",
-      "title": "The specter of AI-enabled bioweapons is a wake-up call for biotech",
-      "summary": "In recent weeks, leaders of some of the biggest AI companies have warned that the very tech they are developing is dangerous. Last weekend, Anthropic CEO Dario Amodei argued that AI carries serious risk and that progress should be slowed. OpenAI CEO Sam Altman responded on X: “I agree with Dario that we need to pace the…",
-      "imageUrl": "https://images.unsplash.com/photo-1485827404703-89b55fcc595e?w=800&q=80",
-      "source": "MIT Tech Review",
-      "sourceUrl": "https://www.technologyreview.com/2026/09/18/1144329/the-specter-of-ai-enabled-bioweapons-is-a-wake-up-call-for-biotech/",
-      "publishedAt": "2026-09-18T09:00:00.000Z"
     },
     {
       "id": "5b1utm",
@@ -532,15 +541,6 @@
       "source": "Ars Technica",
       "sourceUrl": "https://arstechnica.com/security/2026/09/my-drivers-license-is-one-of-153-million-for-sale-on-a-new-dark-website/",
       "publishedAt": "2026-09-02T20:32:02.000Z"
-    },
-    {
-      "id": "xh65aw",
-      "title": "BGP hijack infecting networks caused by a comedy of errors that’s not funny at all",
-      "summary": "What can we learn from a BGP hijacking that poisoned production software? Plenty.",
-      "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2022/09/GettyImages-11477585601-1000x648.jpg",
-      "source": "Ars Technica",
-      "sourceUrl": "https://arstechnica.com/security/2026/09/well-executed-bgp-attack-uses-hijacked-ips-to-infect-real-networks/",
-      "publishedAt": "2026-09-02T11:00:43.000Z"
     }
   ]
 }
