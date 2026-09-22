@@ -1,7 +1,115 @@
 {
-  "fetchedAt": "2026-09-22T07:37:00.954Z",
+  "fetchedAt": "2026-09-22T13:19:29.087Z",
   "count": 60,
   "articles": [
+    {
+      "id": "ru159c",
+      "title": "Everyone can find a reason to dislike data center construction",
+      "summary": "Inside two years of fraught AI data center debates in Pennsylvania.",
+      "imageUrl": "https://images.unsplash.com/photo-1620712943543-bcc4688e7485?w=800&q=80",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/09/22/everyone-can-find-a-reason-to-dislike-data-center-construction/",
+      "publishedAt": "2026-09-22T13:00:00.000Z"
+    },
+    {
+      "id": "jr3lvu",
+      "title": "Viture’s Vonder Glasses Are Meant to Map Your Mind",
+      "summary": "No cameras? No problem. Viture’s first display-free smart glasses have bone-conduction microphones to privately record your daily musings.",
+      "imageUrl": "https://media.wired.com/photos/6ab12960f8eb3bb5e52c1630/master/pass/VONDER_Oslo+Smoke+Ruby.png",
+      "source": "Wired",
+      "sourceUrl": "https://www.wired.com/story/viture-vonder-glasses-are-meant-to-map-your-mind/",
+      "publishedAt": "2026-09-22T13:00:00.000Z"
+    },
+    {
+      "id": "7e9r26",
+      "title": "AI Models Built From Rat Brains Just Got Closer to Reality",
+      "summary": "The Biological Computing Company is bringing its AI tools to Amazon Web Services in a major boost for a once-fringe field that aims to marry nature with code.",
+      "imageUrl": "https://media.wired.com/photos/6ab1a45fca426ab5b46efa55/master/pass/AI-Models-Built-From-Rat-Brains-Business-Neuron-stimulation.jpg",
+      "source": "Wired",
+      "sourceUrl": "https://www.wired.com/story/ai-models-built-from-rat-brains-are-about-to-become-a-reality/",
+      "publishedAt": "2026-09-22T13:00:00.000Z"
+    },
+    {
+      "id": "w7ki4f",
+      "title": "Nscale’s IPO will test Wall Street’s appetite for concentrated AI bets once again",
+      "summary": "The British AI data center developer depends on tech giants Microsoft and Anthropic for most of its revenue.",
+      "imageUrl": "https://images.unsplash.com/photo-1550751827-4bd374c3f58b?w=800&q=80",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/09/22/nscales-ipo-will-test-wall-streets-appetite-for-concentrated-ai-bets-once-again/",
+      "publishedAt": "2026-09-22T12:23:05.000Z"
+    },
+    {
+      "id": "t0pssk",
+      "title": "The Download: why AI’s latest breakthroughs and fears may be more hype than reality",
+      "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. Don’t be fooled by this summer of AI hype —Timnit Gebru, executive director of the Distributed AI Research Institute (DAIR), and Emily M. Bender, professor of linguistics at the University of…",
+      "imageUrl": "https://images.unsplash.com/photo-1655720828018-edd2daec9349?w=800&q=80",
+      "source": "MIT Tech Review",
+      "sourceUrl": "https://www.technologyreview.com/2026/09/22/1144910/the-download-dont-believe-ai-hype/",
+      "publishedAt": "2026-09-22T12:10:00.000Z"
+    },
+    {
+      "id": "hqz10r",
+      "title": "Meta patches Muse exploit that let attackers control the AI agent",
+      "summary": "The zero-day exploit required local access to the user’s device, but gave potential attackers access to Muse accounts. | Image: The Verge Meta has issued a patch for its Muse macOS app following the discovery of a zero-day vulnerability that could allow someone to take control of the AI agent. The bug found by security researcher Patrick Wardle utilized an undocumented Muse setting that enabled potential attackers running local code to redirect transcription processing from Meta's servers to…",
+      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/STKS533_AI_AGENTS_HACKING_D_54a015.png?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "source": "The Verge",
+      "sourceUrl": "https://www.theverge.com/tech/998679/meta-muse-patch-zero-day-exploit-ai-agent",
+      "publishedAt": "2026-09-22T11:53:58.000Z"
+    },
+    {
+      "id": "usxgk1",
+      "title": "Don’t be fooled by this summer of AI hype",
+      "summary": "It’s been a busy few months for AI hype. At the end of April, Anthropic claimed that its model Claude Mythos is better at finding software vulnerabilities than most security experts. Then we had the OpenAI–Hugging Face hacking incident, after which Anthropic (proudly) and Meta (reluctantly) disclosed similar incidents involving their models. This was followed…",
+      "imageUrl": "https://images.unsplash.com/photo-1531746790095-6c10a4031c5f?w=800&q=80",
+      "source": "MIT Tech Review",
+      "sourceUrl": "https://www.technologyreview.com/2026/09/22/1144867/dont-be-fooled-summer-ai-hype/",
+      "publishedAt": "2026-09-22T11:04:51.000Z"
+    },
+    {
+      "id": "8d65pz",
+      "title": "I Built AI Clones of My Coworkers. Things Got Weird",
+      "summary": "Brian Bot loved talking about improv, while Sophie Bot wouldn’t stop calling me “big dog.” Welcome to the future of work.",
+      "imageUrl": "https://media.wired.com/photos/6ab1c8ecddc1b60d84e9c3e3/master/pass/Ai-Version-of-My-Boss-Business.jpg",
+      "source": "Wired",
+      "sourceUrl": "https://www.wired.com/story/ai-coworker-bots-loved-improv-and-interstellar-soundtrack/",
+      "publishedAt": "2026-09-22T10:30:00.000Z"
+    },
+    {
+      "id": "vrp4iq",
+      "title": "Patti Harrison Had Dreams of a Tech Utopia. Silicon Valley Smashed Them",
+      "summary": "The comedian sat down with WIRED to talk about social media, AI, and getting laughs for impersonating Boston Dynamics’ robot dogs.",
+      "imageUrl": "https://media.wired.com/photos/6aac3df13f16ef202ae27d28/master/pass/WIRED_PATTI_HARRISON_08212026_S01_081-v5_WEB.jpg",
+      "source": "Wired",
+      "sourceUrl": "https://www.wired.com/story/big-interview-patti-harrison/",
+      "publishedAt": "2026-09-22T10:00:00.000Z"
+    },
+    {
+      "id": "4ctcpg",
+      "title": "A New Tool Found Malware That’s Guided by an AI Hive Mind—No Humans in Sight",
+      "summary": "Cisco Talos researchers created a new framework for identifying malware and hacking tools that rely on AI chatbots—and quickly discovered something unusual.",
+      "imageUrl": "https://media.wired.com/photos/6ab1b117c967476bab903a3e/master/pass/Security_CommandCenter_v4.jpg",
+      "source": "Wired",
+      "sourceUrl": "https://www.wired.com/story/a-tool-for-tracking-ai-integrated-malware-uncovered-an-autonomous-command-system/",
+      "publishedAt": "2026-09-22T10:00:00.000Z"
+    },
+    {
+      "id": "1rjsfp",
+      "title": "A New Chatbot Wants to Unlock the Secrets in Tattered Ancient Greek Records",
+      "summary": "In the hope of uncovering new details about ancient life, researchers have developed a large language model that fills in the gaps in papyrus fragments.",
+      "imageUrl": "https://media.wired.com/photos/6aad9b0ab031c4554cdc7e0b/master/pass/Company-Wants-to-USe-AI-Translate-Ancient-Greek-Business.jpg",
+      "source": "Wired",
+      "sourceUrl": "https://www.wired.com/story/apollo-ai-model-ancient-greek-secrets-papyrus/",
+      "publishedAt": "2026-09-22T09:30:00.000Z"
+    },
+    {
+      "id": "joavmd",
+      "title": "How to Use AI With Your Privacy Intact",
+      "summary": "Your conversations with AI chatbots are both highly personal and deeply vulnerable to surveillance. Here’s how you can protect yourself.",
+      "imageUrl": "https://media.wired.com/photos/6aa859b2e4f947f2c71d66cb/master/pass/Security_TheWIREDguidetoUsingAIWhileProtectingYourPrivacy_v-ezgif.com-video-to-gif-converter.gif",
+      "source": "Wired",
+      "sourceUrl": "https://www.wired.com/story/how-to-use-ai-with-your-privacy-intact/",
+      "publishedAt": "2026-09-22T09:00:00.000Z"
+    },
     {
       "id": "51wefa",
       "title": "The man who built Apple’s stores doesn’t buy Silicon Valley’s bet on AI shopping",
@@ -255,24 +363,6 @@
       "publishedAt": "2026-09-20T18:50:18.000Z"
     },
     {
-      "id": "aztfp3",
-      "title": "Vocci’s ring adds a new form factor to meeting note-taking",
-      "summary": "Vocci's lightweight ring costs $249, and might pose some privacy questions.",
-      "imageUrl": "https://images.unsplash.com/photo-1655720828018-edd2daec9349?w=800&q=80",
-      "source": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/09/20/voccis-ring-adds-a-new-form-factor-to-meeting-note-taking/",
-      "publishedAt": "2026-09-20T18:32:52.000Z"
-    },
-    {
-      "id": "65h9qj",
-      "title": "ScrollEd wants to turn textbooks into TikTok",
-      "summary": "ScrollEd turns textbooks into a scrollable, Instagram-like feed with video, audio, and quizzes. The Palo Alto startup, founded by student co-founders (and spouses) Utsav Gupta and Rebecca Neff, pitches at TechCrunch Disrupt.",
-      "imageUrl": "https://images.unsplash.com/photo-1526374965328-7f61d4dc18c5?w=800&q=80",
-      "source": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/09/20/scrolled-wants-to-turn-textbooks-into-tiktok/",
-      "publishedAt": "2026-09-20T18:00:00.000Z"
-    },
-    {
       "id": "ife46w",
       "title": "Trump now says he wants to form an ‘AI Force’",
       "summary": "The president posted on Truth Social that he wanted to appoint an \"AI czar\" to lead a new \"AI force.\" He made the announcement amid growing calls from across the political spectrum and even within the industry to pump the brakes on AI development. He posted that his administration \"will not in any way hinder or stifle the Growth of this incredible Industry. Rather, we will cherish it, help it, and watch over it, as it grows!\" In the rambling post, Trump said that data centers were \"wealthy and…",
@@ -300,24 +390,6 @@
       "publishedAt": "2026-09-20T11:07:00.000Z"
     },
     {
-      "id": "tlnxap",
-      "title": "Meta's Muse Is Better at Surveilling Than Helping Me",
-      "summary": "The Muse app continues Meta’s trend of opting users into data collection for AI training. It also nudges you to share your bank account, email, and passport information.",
-      "imageUrl": "https://media.wired.com/photos/6aaa7e94f251bfe9554bf013/master/pass/091626-Meta%20Muse.jpg",
-      "source": "Wired",
-      "sourceUrl": "https://www.wired.com/story/metas-muse-is-better-at-surveilling-than-helping-me/",
-      "publishedAt": "2026-09-20T10:30:00.000Z"
-    },
-    {
-      "id": "w5q0ld",
-      "title": "It’s Donald Trump Versus MAGA on Data Centers",
-      "summary": "The president has doubled down on data centers and AI. His base is running in the opposite direction.",
-      "imageUrl": "https://media.wired.com/photos/6aad9a65289841154fbf8f24/master/pass/Trump-MAGA-Data-Centers-Column-Science.jpg",
-      "source": "Wired",
-      "sourceUrl": "https://www.wired.com/story/donald-trump-versus-maga-on-data-centers/",
-      "publishedAt": "2026-09-20T10:30:00.000Z"
-    },
-    {
       "id": "4rjww4",
       "title": "Meta’s Muse is creepy, but maybe not for the reasons you think",
       "summary": "Meta's Muse is apparently an effective AI assistant, but one that's a little creepy. Part of that is because of its new Mac app, which can access Messages, Calendar, and Notes. But for all its smarts, Muse doesn't actually know how to describe itself. Jason Aten, a contributing editor at Inc Magazine, posted on Threads screenshots of an interaction he had with Muse in which the assistant asks him some questions about a conversation he was having in Messages. The problem is that Aten says he…",
@@ -325,60 +397,6 @@
       "source": "The Verge",
       "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/997833/meta-muse-creepy",
       "publishedAt": "2026-09-19T20:44:40.000Z"
-    },
-    {
-      "id": "t700mc",
-      "title": "Gemini went rogue, hacked three companies, and Google hid it",
-      "summary": "In May, Gemini broke containment and hacked three different companies, but Google didn't disclose the incident until the Wall Street Journal approached the company. The hacks happened during a test of the model's cybersecurity capabilities run by third-party Irregular, which was also involved in similar incidents involving Meta and OpenAI. According to WSJ, Google didn't disclose the hack because it didn't consider it to be an \"example of model misalignment.\" The company said that it was an…",
-      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25290334/STK255_Google_Gemini_D.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "source": "The Verge",
-      "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/997795/google-gemini-rogue-ai-hack",
-      "publishedAt": "2026-09-19T15:25:03.000Z"
-    },
-    {
-      "id": "qcxwea",
-      "title": "Forget the AI Slowdown—the Vulnerability Explosion Is Already Happening",
-      "summary": "AI labs are toying with an industry-wide pact to slow development. Meanwhile, widely available AI chatbots are already helping uncover a tidal wave of security flaws.",
-      "imageUrl": "https://media.wired.com/photos/6aada5d618f30d6f17ee2971/master/pass/Kernal-Panic-AI-SlowDown-Wont-Stop-Security-Vulnerability-Explosion-Security.jpg",
-      "source": "Wired",
-      "sourceUrl": "https://www.wired.com/story/kernel-panic-ai-vulnerability-explosion/",
-      "publishedAt": "2026-09-19T11:00:00.000Z"
-    },
-    {
-      "id": "a13uwl",
-      "title": "Mathematicians Hate AI. They Can’t Quit It",
-      "summary": "Powerful AI models have created an existential risk to the field, but researchers can’t stop relying on them because they’re too useful.",
-      "imageUrl": "https://media.wired.com/photos/6aad73fd03ca378a32980599/master/pass/091826-Math%20Hate%20AI.jpg",
-      "source": "Wired",
-      "sourceUrl": "https://www.wired.com/story/mathematicians-cant-quit-ai/",
-      "publishedAt": "2026-09-19T10:00:00.000Z"
-    },
-    {
-      "id": "wpqkt3",
-      "title": "Join the WIRED World Fair in Miami on November 4",
-      "summary": "For one day only, WIRED is bringing the technologies, people, and cultural forces transforming our world off the page and into real life.",
-      "imageUrl": "https://media.wired.com/photos/6aad7180245943a17ceca34d/master/pass/WWF_2026_META__1080x1350_Phase%202.jpg",
-      "source": "Wired",
-      "sourceUrl": "https://www.wired.com/story/join-the-wired-world-fair-in-miami-on-november-4/",
-      "publishedAt": "2026-09-19T09:00:00.000Z"
-    },
-    {
-      "id": "73zkmm",
-      "title": "Here’s How an AI Slowdown Could Actually Be Enforced",
-      "summary": "Even if big AI companies agree to a pause, ensuring that nobody tries to sneak ahead could prove tricky.",
-      "imageUrl": "https://media.wired.com/photos/6aab266a1bcc9d144a552a68/master/pass/How-AI-Slow-Down-Would-Happen-Business-AB12706.jpg",
-      "source": "Wired",
-      "sourceUrl": "https://www.wired.com/story/heres-how-an-ai-slowdown-could-actually-work/",
-      "publishedAt": "2026-09-18T19:21:09.000Z"
-    },
-    {
-      "id": "abmydl",
-      "title": "AI PACs Have Dumped Nearly $1 Million Into an Obscure Senate Race",
-      "summary": "The reliably Republican South Dakota senate seat has an incumbent on the ballot. But PACs associated with AI labs and investors have already spent more money on the race than actual residents have.",
-      "imageUrl": "https://media.wired.com/photos/6aa820614ea2a5a4d9e48bf8/master/pass/GettyImages-2258333098.jpg",
-      "source": "Wired",
-      "sourceUrl": "https://www.wired.com/story/ai-pacs-have-dumped-nearly-1-million-into-an-obscure-senate-race/",
-      "publishedAt": "2026-09-18T15:00:08.000Z"
     },
     {
       "id": "rrf1yx",
@@ -415,24 +433,6 @@
       "source": "Ars Technica",
       "sourceUrl": "https://arstechnica.com/security/2026/09/ai-text-watermarking-can-make-models-more-vulnerable-to-adversarial-prompts/",
       "publishedAt": "2026-09-17T18:33:13.000Z"
-    },
-    {
-      "id": "tpmtu",
-      "title": "The Download: mice with part-human brains and climate tech innovators",
-      "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. Meet a mouse whose brain cortex is made up of human cells Multiple cameras tracked a mouse as it wandered around a small arena. A computer charted its position and speed,…",
-      "imageUrl": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=800&q=80",
-      "source": "MIT Tech Review",
-      "sourceUrl": "https://www.technologyreview.com/2026/09/17/1144314/the-download-mice-part-human-brains-climate-tech-innovators/",
-      "publishedAt": "2026-09-17T12:10:00.000Z"
-    },
-    {
-      "id": "a0p9pd",
-      "title": "Meet the innovators under 35 shaping climate tech",
-      "summary": "Each year, the editorial team at MIT Technology Review puts together a list of 35 innovators under 35—a group of researchers, inventors, and other young minds worth following. The team worked on the newest edition of the list for months, and the final slate includes nine individuals from all over the world in the climate…",
-      "imageUrl": "https://images.unsplash.com/photo-1676299081847-824916de030a?w=800&q=80",
-      "source": "MIT Tech Review",
-      "sourceUrl": "https://www.technologyreview.com/2026/09/17/1144251/innovators-shaping-climate-tech/",
-      "publishedAt": "2026-09-17T10:00:00.000Z"
     },
     {
       "id": "sxxxx2",
