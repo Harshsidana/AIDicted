@@ -1,7 +1,52 @@
 {
-  "fetchedAt": "2026-09-22T17:43:47.710Z",
+  "fetchedAt": "2026-09-22T21:10:12.150Z",
   "count": 60,
   "articles": [
+    {
+      "id": "fy92pw",
+      "title": "Qualcomm launches two new smartphone chips with emphasis on AI",
+      "summary": "Qualcomm said that its new top chip can run 30B mixture-of-expert model locally.",
+      "imageUrl": "https://images.unsplash.com/photo-1531746790095-6c10a4031c5f?w=800&q=80",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/09/22/qualcomm-launches-two-new-smartphone-chips-with-emphasis-on-ai/",
+      "publishedAt": "2026-09-22T20:00:00.000Z"
+    },
+    {
+      "id": "9qibt1",
+      "title": "Microsoft disrupts AI-assisted platform that compromised 12,000",
+      "summary": "EvilTokens provided an end-to-end platform that makes mass compromises faster and easier.",
+      "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2026/09/ai-automation-1152x648.jpg",
+      "source": "Ars Technica",
+      "sourceUrl": "https://arstechnica.com/security/2026/09/microsoft-disrupts-ai-assisted-platform-that-compromised-12000/",
+      "publishedAt": "2026-09-22T19:45:47.000Z"
+    },
+    {
+      "id": "m4k9fz",
+      "title": "Meta admits Muse’s likeness to OpenClaw isn’t a coincidence",
+      "summary": "Meta says Muse was built from scratch, but acknowledges the AI assistant was \"heavily inspired\" by OpenClaw — down to some of its workspace filenames and content.",
+      "imageUrl": "https://images.unsplash.com/photo-1531746790095-6c10a4031c5f?w=800&q=80",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/09/22/meta-admits-muses-likeness-to-openclaw-isnt-a-coincidence/",
+      "publishedAt": "2026-09-22T19:09:11.000Z"
+    },
+    {
+      "id": "nu2934",
+      "title": "How to Claim Your Cut of Apple’s $250 Million Siri Settlement",
+      "summary": "Apple may pay out up to $95 for each eligible iPhone purchased by someone who felt misled about Siri’s release. You have until December 21 to submit a claim.",
+      "imageUrl": "https://media.wired.com/photos/6ab2a6f4d38d5a63a756fca7/master/pass/GettyImages-1683464893%20(1).jpg",
+      "source": "Wired",
+      "sourceUrl": "https://www.wired.com/story/how-to-claim-your-cut-of-apple-250-million-siri-settlement/",
+      "publishedAt": "2026-09-22T18:19:13.000Z"
+    },
+    {
+      "id": "m3d1gq",
+      "title": "OpenAI launches GPT-6 Sol and Luna, boasting lower cost and fewer mistakes",
+      "summary": "OpenAI is launching two new models, which it says are cut from the same cloth as Astra.",
+      "imageUrl": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=800&q=80",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/09/22/openai-launches-gpt-6-sol-and-luna/",
+      "publishedAt": "2026-09-22T18:00:00.000Z"
+    },
     {
       "id": "fjyow",
       "title": "IT mistake erases 11 years of viewing history for hospitals’ maternity records",
@@ -282,33 +327,6 @@
       "publishedAt": "2026-09-21T18:33:02.000Z"
     },
     {
-      "id": "c1g22a",
-      "title": "Meta’s AI agent has been blocked from using Amazon.com",
-      "summary": "Amazon has its own cohort of foundation models, along with one of the most popular inference platforms on the internet. As long as they're under no legal obligation to open the doors to Muse, why would they?",
-      "imageUrl": "https://images.unsplash.com/photo-1485827404703-89b55fcc595e?w=800&q=80",
-      "source": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/09/21/metas-ai-agent-has-been-blocked-from-using-amazon-com/",
-      "publishedAt": "2026-09-21T17:55:18.000Z"
-    },
-    {
-      "id": "h39szx",
-      "title": "With Tabby, a former accountant is using AI to make accountants obsolete",
-      "summary": "Tabby is designed to be a real-time bookkeeping interface, handling clients’ paperwork as it gives them up-to-the-minute data on their business’s profit and loss.",
-      "imageUrl": "https://images.unsplash.com/photo-1531746790095-6c10a4031c5f?w=800&q=80",
-      "source": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/09/21/with-tabby-a-former-accountant-is-using-ai-to-make-accountants-obsolete/",
-      "publishedAt": "2026-09-21T16:38:51.000Z"
-    },
-    {
-      "id": "kl8zdk",
-      "title": "Where will the next breakout startup come from? Benchmark’s full partnership weighs in at TechCrunch Disrupt 2026",
-      "summary": "Where will the next breakout startup come from? Benchmark’s full partnership weighs in on the main stage at TechCrunch Disrupt 2026. Save up to $200 before September 25 at 11:59 p.m. PT. Register now.",
-      "imageUrl": "https://images.unsplash.com/photo-1531746790095-6c10a4031c5f?w=800&q=80",
-      "source": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/09/21/where-will-the-next-breakout-startup-come-from-benchmarks-full-partnership-weighs-in-at-techcrunch-disrupt-2026/",
-      "publishedAt": "2026-09-21T15:00:00.000Z"
-    },
-    {
       "id": "mimz0w",
       "title": "Can John Ternus find Apple’s next big thing?",
       "summary": "Today, I’m talking with Mark Gurman, who is the world’s best-sourced Apple reporter — both as Bloomberg’s chief Apple correspondent and the host of the upcoming podcast Power On. Earlier this month, Apple hosted its annual iPhone hardware event, virtually every detail of which was reported ahead of time by Mark. But this event was special, for a number of reasons. It was new Apple CEO John Ternus’ first major product launch since he took over for former CEO Tim Cook less than two weeks prior. It…",
@@ -325,15 +343,6 @@
       "source": "The Verge",
       "sourceUrl": "https://www.theverge.com/tech/998191/apple-siri-ai-iphone-16-class-action-lawsuit-settlement",
       "publishedAt": "2026-09-21T13:36:52.000Z"
-    },
-    {
-      "id": "xg7l3f",
-      "title": "Got an Android Phone? Google Thinks You’ll Probably Want a Googlebook Laptop",
-      "summary": "Apple lovers have long enjoyed seamless connectivity between their iPhones and Macs. Now, Google’s bringing that experience to Android.",
-      "imageUrl": "https://media.wired.com/photos/6ab1289a5263c12dd1677528/master/pass/DSC_9551.jpg",
-      "source": "Wired",
-      "sourceUrl": "https://www.wired.com/story/google-launches-googlebook-laptops/",
-      "publishedAt": "2026-09-21T13:00:00.000Z"
     },
     {
       "id": "7yfrr3",
@@ -532,15 +541,6 @@
       "source": "Ars Technica",
       "sourceUrl": "https://arstechnica.com/information-technology/2026/09/vmware-migration-reduces-tottenham-hotspurs-licensing-fees-by-85-percent/",
       "publishedAt": "2026-09-03T18:58:31.000Z"
-    },
-    {
-      "id": "bfnpq7",
-      "title": "I rented a car, and within hours, my driver's license was for sale",
-      "summary": "The FBI is reportedly investigating a massive data breach that is unfolding in real time.",
-      "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2026/09/Dan-stolen-driver-licence.png",
-      "source": "Ars Technica",
-      "sourceUrl": "https://arstechnica.com/security/2026/09/my-drivers-license-is-one-of-153-million-for-sale-on-a-new-dark-website/",
-      "publishedAt": "2026-09-02T20:32:02.000Z"
     }
   ]
 }
