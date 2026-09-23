@@ -1,7 +1,70 @@
 {
-  "fetchedAt": "2026-09-23T09:29:39.287Z",
+  "fetchedAt": "2026-09-23T14:23:21.671Z",
   "count": 60,
   "articles": [
+    {
+      "id": "1kmyxr",
+      "title": "3 days left to save up to $200 and make impactful connections at TechCrunch Disrupt 2026",
+      "summary": "3 days to save up to $200 on your TechCrunch Disrupt 2026 pass, plus 50% off a second. Make impactful connections with 10,000+ tech leaders. Last day to save is September 25, 11:59 p.m. PT. Register here.",
+      "imageUrl": "https://images.unsplash.com/photo-1620712943543-bcc4688e7485?w=800&q=80",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/09/23/3-days-left-to-save-up-to-200-and-make-impactful-connections-at-techcrunch-disrupt-2026/",
+      "publishedAt": "2026-09-23T14:00:00.000Z"
+    },
+    {
+      "id": "20ow9z",
+      "title": "Spotify is giving you the keys to its recommendation algorithm with US launch of ‘Taste Profile’",
+      "summary": "Spotify is rolling out Taste Profile to Premium users in the U.S., letting listeners see how the streamer understands their tastes and use natural language to reshape their recommendations.",
+      "imageUrl": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=800&q=80",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/09/23/spotify-is-giving-you-the-keys-to-its-recommendation-algorithm-with-u-s-launch-of-taste-profile/",
+      "publishedAt": "2026-09-23T13:00:00.000Z"
+    },
+    {
+      "id": "3tsz0a",
+      "title": "Meta’s Muse AI Assistant Rolled Out With a Serious Security Flaw",
+      "summary": "Meta says it issued a fix for the Muse zero-day vulnerability that would have let attackers do “whatever” they wanted on a victim’s Mac, highlighting the inherent dangers of AI helpers.",
+      "imageUrl": "https://media.wired.com/photos/6ab2cd9fca426ab5b46f084b/master/pass/Security_Meta%E2%80%99s%20Muse%20AI%20Agent%20Has%20a%20Serious%20Security%20Flaw_v1.jpg",
+      "source": "Wired",
+      "sourceUrl": "https://www.wired.com/story/metas-muse-ai-agent-zero-day/",
+      "publishedAt": "2026-09-23T12:54:58.000Z"
+    },
+    {
+      "id": "6248h5",
+      "title": "The Download: India’s smart glasses menace and AI’s trillion-dollar gamble",
+      "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. Smart glasses are already causing havoc in India When Shubnam saw an Instagram video of a Delhi protest they had attended, they realized a content creator wearing Meta smart glasses had…",
+      "imageUrl": "https://images.unsplash.com/photo-1531746790095-6c10a4031c5f?w=800&q=80",
+      "source": "MIT Tech Review",
+      "sourceUrl": "https://www.technologyreview.com/2026/09/23/1144966/the-download-india-smart-glasses-ai-trillion-dollar-gamble/",
+      "publishedAt": "2026-09-23T12:10:00.000Z"
+    },
+    {
+      "id": "7tcs67",
+      "title": "Ema raises $77M as AI starts eating into enterprise software and services",
+      "summary": "Ema has raised $140 million to date and has more than 50 enterprise customers, including Google and Microsoft.",
+      "imageUrl": "https://images.unsplash.com/photo-1550751827-4bd374c3f58b?w=800&q=80",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/09/23/ema-raises-77m-as-ai-starts-eating-into-enterprise-software-and-services/",
+      "publishedAt": "2026-09-23T12:00:00.000Z"
+    },
+    {
+      "id": "mejr3c",
+      "title": "OpenAI nabs key Patreon execs ahead of upcoming announcement",
+      "summary": "Patreon co-founder Sam Yam is joing OpenAI to lead Creator Product. | Image: The Verge OpenAI has hired three former Patreon execs to anchor its product strategy for creators. After starting the creator subscription platform 13 years ago, co-founder and technology chief Sam Yam announced on X that he's joining OpenAI to lead Creator Product. He's also bringing Patreon's former product head Drew Rowny and engineering head Shannon Ma with him on the new venture, both of whom stepped down in the…",
+      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/04/STK326_PATREON_A.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "source": "The Verge",
+      "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/999249/openai-creators-patreon-execs-hire-sam-yam",
+      "publishedAt": "2026-09-23T11:02:39.000Z"
+    },
+    {
+      "id": "m5n8mx",
+      "title": "AT&T Is Automating Away Jobs—and Its Old Telecom Empire",
+      "summary": "The telecom giant is eager to show Wall Street that it can do more with less. That means fewer employees, less electricity, and increased automation.",
+      "imageUrl": "https://media.wired.com/photos/6aa145e274a1099024c35a52/master/pass/AT&T-Workforce-Shrink.jpg",
+      "source": "Wired",
+      "sourceUrl": "https://www.wired.com/story/atandt-is-automating-away-its-old-telecom-empire/",
+      "publishedAt": "2026-09-23T10:15:00.000Z"
+    },
     {
       "id": "j4tfd0",
       "title": "Smart glasses are already causing havoc in India",
@@ -210,15 +273,6 @@
       "publishedAt": "2026-09-22T13:42:05.000Z"
     },
     {
-      "id": "ru159c",
-      "title": "Everyone can find a reason to dislike data center construction",
-      "summary": "Inside two years of fraught AI data center debates in Pennsylvania.",
-      "imageUrl": "https://images.unsplash.com/photo-1620712943543-bcc4688e7485?w=800&q=80",
-      "source": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/09/22/everyone-can-find-a-reason-to-dislike-data-center-construction/",
-      "publishedAt": "2026-09-22T13:00:00.000Z"
-    },
-    {
       "id": "jr3lvu",
       "title": "Viture’s Vonder Glasses Are Meant to Map Your Mind",
       "summary": "No cameras? No problem. Viture’s first display-free smart glasses have bone-conduction microphones to privately record your daily musings.",
@@ -235,15 +289,6 @@
       "source": "Wired",
       "sourceUrl": "https://www.wired.com/story/ai-models-built-from-rat-brains-are-about-to-become-a-reality/",
       "publishedAt": "2026-09-22T13:00:00.000Z"
-    },
-    {
-      "id": "w7ki4f",
-      "title": "Nscale’s IPO will test Wall Street’s appetite for concentrated AI bets once again",
-      "summary": "The British AI data center developer depends on tech giants Microsoft and Anthropic for most of its revenue.",
-      "imageUrl": "https://images.unsplash.com/photo-1550751827-4bd374c3f58b?w=800&q=80",
-      "source": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/09/22/nscales-ipo-will-test-wall-streets-appetite-for-concentrated-ai-bets-once-again/",
-      "publishedAt": "2026-09-22T12:23:05.000Z"
     },
     {
       "id": "t0pssk",
@@ -309,24 +354,6 @@
       "publishedAt": "2026-09-22T09:30:00.000Z"
     },
     {
-      "id": "joavmd",
-      "title": "How to Use AI With Your Privacy Intact",
-      "summary": "Your conversations with AI chatbots are both highly personal and deeply vulnerable to surveillance. Here’s how you can protect yourself.",
-      "imageUrl": "https://media.wired.com/photos/6aa859b2e4f947f2c71d66cb/master/pass/Security_TheWIREDguidetoUsingAIWhileProtectingYourPrivacy_v-ezgif.com-video-to-gif-converter.gif",
-      "source": "Wired",
-      "sourceUrl": "https://www.wired.com/story/how-to-use-ai-with-your-privacy-intact/",
-      "publishedAt": "2026-09-22T09:00:00.000Z"
-    },
-    {
-      "id": "51wefa",
-      "title": "The man who built Apple’s stores doesn’t buy Silicon Valley’s bet on AI shopping",
-      "summary": "Apple Store architect Ron Johnson says Apple's secret sauce has always been its people.",
-      "imageUrl": "https://images.unsplash.com/photo-1531746790095-6c10a4031c5f?w=800&q=80",
-      "source": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/09/21/the-man-who-built-apples-stores-doesnt-buy-silicon-valleys-bet-on-ai-shopping/",
-      "publishedAt": "2026-09-21T23:44:28.000Z"
-    },
-    {
       "id": "3kgs9v",
       "title": "Muse, Meta's extraordinarily privileged AI assistant, has a serious 0-day",
       "summary": "A simple ClickFix attack is only one way to completely hijack the new agent.",
@@ -343,15 +370,6 @@
       "source": "The Verge",
       "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/998453/california-ai-data-center-bills",
       "publishedAt": "2026-09-21T20:29:45.000Z"
-    },
-    {
-      "id": "hva4ea",
-      "title": "AI, Tariffs, Rare Minerals: What to Expect From Trump’s Upcoming Summit With Xi Jinping",
-      "summary": "Washington and Beijing have grown ever more linked in the AI boom, making hardware exports and technological restrictions hefty bargaining chips in negotiations.",
-      "imageUrl": "https://media.wired.com/photos/6ab15a857fffb9bb745696eb/master/pass/trumpxi.jpg",
-      "source": "Wired",
-      "sourceUrl": "https://www.wired.com/story/ai-tariffs-rare-minerals-what-to-expect-from-trumps-upcoming-summit-with-xi-jinping/",
-      "publishedAt": "2026-09-21T18:33:02.000Z"
     },
     {
       "id": "mimz0w",
@@ -417,15 +435,6 @@
       "publishedAt": "2026-09-21T12:00:00.000Z"
     },
     {
-      "id": "50y1v9",
-      "title": "UN says AI safeguards can’t wait for certainty",
-      "summary": "The United Nations logo at the UN headquarters in New York. | Getty Images Governments need to rein in increasingly capable AI agents before their risks are fully understood, a United Nations scientific panel warned in the global organization's first major assessment of OpenAI's hack of Hugging Face earlier this year. The report cements AI's place on the global diplomatic agenda this week as leaders gather in New York for the UN General Assembly and the US and China hold talks on AI. Last week,…",
-      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/gettyimages-2234546269.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "source": "The Verge",
-      "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/998090/un-ai-panel-hugging-face-hack-precautionary-principle",
-      "publishedAt": "2026-09-21T10:18:06.000Z"
-    },
-    {
       "id": "7gknug",
       "title": "An undercover Google analyst infiltrated a notorious supply-chain hacking gang",
       "summary": "Google’s threat intelligence group said it had a mole inside TeamPCP's inner circle.",
@@ -433,15 +442,6 @@
       "source": "Ars Technica",
       "sourceUrl": "https://arstechnica.com/security/2026/09/an-undercover-google-analyst-infiltrated-a-notorious-supply-chain-hacking-gang/",
       "publishedAt": "2026-09-20T11:07:00.000Z"
-    },
-    {
-      "id": "rrf1yx",
-      "title": "The Download: AI’s extinction risk and bioweapons threat",
-      "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. Could AI really kill us all? Your questions, answered On Wednesday, MIT Technology Review hosted a live Roundtables event that asked the question many seem to be asking right now: could…",
-      "imageUrl": "https://images.unsplash.com/photo-1655720828018-edd2daec9349?w=800&q=80",
-      "source": "MIT Tech Review",
-      "sourceUrl": "https://www.technologyreview.com/2026/09/18/1142577/the-download-ai-extinction-threat-bioweapons/",
-      "publishedAt": "2026-09-18T12:10:00.000Z"
     },
     {
       "id": "5b1utm",
