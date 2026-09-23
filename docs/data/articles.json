@@ -1,7 +1,34 @@
 {
-  "fetchedAt": "2026-09-22T23:45:15.419Z",
+  "fetchedAt": "2026-09-23T09:29:39.287Z",
   "count": 60,
   "articles": [
+    {
+      "id": "j4tfd0",
+      "title": "Smart glasses are already causing havoc in India",
+      "summary": "Shubnam was packing boxes for a move into a new home when their friend sent them an Instagram video. The footage had only been up for a few hours, but it was days old, recorded at a Delhi protest this spring against a bill that would have narrowed the legal recognition for transgender people in…",
+      "imageUrl": "https://images.unsplash.com/photo-1676299081847-824916de030a?w=800&q=80",
+      "source": "MIT Tech Review",
+      "sourceUrl": "https://www.technologyreview.com/2026/09/23/1144953/smart-glasses-havoc-india/",
+      "publishedAt": "2026-09-23T09:00:00.000Z"
+    },
+    {
+      "id": "mt3fbu",
+      "title": "‘We’re already fighting yesterday’s battle’: Greece’s prime minister gets candid about AI",
+      "summary": "Most leaders on a trade mission stick to the pitch, but when I interviewed Greek Prime Minister Kyriakos Mitsotakis this week, he also admitted that no government is ready for what AI is about to do.",
+      "imageUrl": "https://images.unsplash.com/photo-1485827404703-89b55fcc595e?w=800&q=80",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/09/22/were-already-fighting-yesterdays-battle-greeces-prime-minister-gets-candid-about-ai/",
+      "publishedAt": "2026-09-23T04:59:08.000Z"
+    },
+    {
+      "id": "opdp03",
+      "title": "OpenAI wants to consult elite mathematicians about how to not fumble again",
+      "summary": "After turning a string of spectacular mathematical results into a reputational crisis, OpenAI is consulting human mathematicians to help it figure out a less disastrous path forward. On Monday, the company announced a new independent panel of mathematicians tasked with advising it and other AI companies on their interactions with mathematical research and the wider mathematics community, including how new results are presented and released. Its abrupt arrival caught many mathematicians by…",
+      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/gettyimages-2294952541.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "source": "The Verge",
+      "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/999167/openai-elite-mathematicians-panel",
+      "publishedAt": "2026-09-23T00:17:17.000Z"
+    },
     {
       "id": "rjxff7",
       "title": "TechCrunch Founder Summit’s agenda revealed: Unlock fundraising, hiring, and AI insights in Boston on November 4",
@@ -318,15 +345,6 @@
       "publishedAt": "2026-09-21T20:29:45.000Z"
     },
     {
-      "id": "qc9qhb",
-      "title": "OpenAI forms math advisory group as its AI resolves more than 100 open problems",
-      "summary": "The group won't be given leeway to slow down or redirect OpenAI's ongoing mathematical research.",
-      "imageUrl": "https://images.unsplash.com/photo-1550751827-4bd374c3f58b?w=800&q=80",
-      "source": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/09/21/openai-forms-math-advisory-group-as-its-ai-resolves-more-than-100-open-problems/",
-      "publishedAt": "2026-09-21T20:15:58.000Z"
-    },
-    {
       "id": "hva4ea",
       "title": "AI, Tariffs, Rare Minerals: What to Expect From Trump’s Upcoming Summit With Xi Jinping",
       "summary": "Washington and Beijing have grown ever more linked in the AI boom, making hardware exports and technological restrictions hefty bargaining chips in negotiations.",
@@ -408,15 +426,6 @@
       "publishedAt": "2026-09-21T10:18:06.000Z"
     },
     {
-      "id": "nr9vcp",
-      "title": "Amazon blocks Meta’s Muse AI agent",
-      "summary": "Meta's Muse AI agent has been blocked from shopping Amazon on behalf of its users, GeekWire reports. A popup message started appearing on Sunday for Muse users saying that \"continued access by an unauthorized AI agent violates Amazon's Conditions of Use, to which our customers have agreed.\" According to GeekWire, Meta didn't notify Amazon that Muse would access its store. Amazon also expressed privacy and security concerns over Muse failing to identify itself when it browses, and seemingly…",
-      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/Amazon_Prime_Illo.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "source": "The Verge",
-      "sourceUrl": "https://www.theverge.com/tech/998078/amazon-blocks-meta-muse-ai-agent-shopping",
-      "publishedAt": "2026-09-21T09:21:47.000Z"
-    },
-    {
       "id": "7gknug",
       "title": "An undercover Google analyst infiltrated a notorious supply-chain hacking gang",
       "summary": "Google’s threat intelligence group said it had a mole inside TeamPCP's inner circle.",
@@ -433,15 +442,6 @@
       "source": "MIT Tech Review",
       "sourceUrl": "https://www.technologyreview.com/2026/09/18/1142577/the-download-ai-extinction-threat-bioweapons/",
       "publishedAt": "2026-09-18T12:10:00.000Z"
-    },
-    {
-      "id": "8403y2",
-      "title": "Could AI really kill us all? Your questions, answered.",
-      "summary": "On Wednesday, MIT Technology Review hosted a live Roundtables event for subscribers that asked the question everyone’s asking right now: Could AI really kill us all? But attendees had so many more questions than we had time to answer in the 30 minute session. So we asked our senior AI editor Will Douglas Heaven and…",
-      "imageUrl": "https://images.unsplash.com/photo-1531746790095-6c10a4031c5f?w=800&q=80",
-      "source": "MIT Tech Review",
-      "sourceUrl": "https://www.technologyreview.com/2026/09/18/1144435/could-ai-really-kill-us-all-your-questions-answered/",
-      "publishedAt": "2026-09-18T11:29:22.000Z"
     },
     {
       "id": "5b1utm",
