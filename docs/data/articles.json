@@ -1,7 +1,43 @@
 {
-  "fetchedAt": "2026-09-24T06:01:12.191Z",
+  "fetchedAt": "2026-09-24T12:06:53.293Z",
   "count": 60,
   "articles": [
+    {
+      "id": "k2329b",
+      "title": "OpenAI agents hacked an Australian government website in search for data",
+      "summary": "Sam Altman attends a UN Security Council meeting on AI. | Getty Images OpenAI's artificial intelligence agents hacked an Australian government website and attempted to breach numerous other government and university websites. The attack appears to be the first confirmed instance of a rogue AI agent breaching a government website, adding fuel to rapidly intensifying concerns about the safety of advanced AI systems and the responsibility of the companies building them. Speaking on the sidelines of…",
+      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/gettyimages-2296796582.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "source": "The Verge",
+      "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/999874/openai-agents-hacked-an-australian-government-website-in-search-for-data",
+      "publishedAt": "2026-09-24T11:52:32.000Z"
+    },
+    {
+      "id": "ju4t45",
+      "title": "An OpenAI Agent Hacked Australia’s Health Service. Their Government Found Out Months Later",
+      "summary": "The country’s prime minister expressed disappointment at being informed of the hack only via email. Now Australia is investigating whether OpenAI broke the law.",
+      "imageUrl": "https://media.wired.com/photos/6ab4f83dee18064acd928033/master/pass/092426-Canada%20Open%20AI%20Hack%20Sam.jpg",
+      "source": "Wired",
+      "sourceUrl": "https://www.wired.com/story/openai-agent-hacked-australias-health-service-their-government-found-out-months-later/",
+      "publishedAt": "2026-09-24T10:46:56.000Z"
+    },
+    {
+      "id": "i77cz8",
+      "title": "AI is dominating the conversation at Climate Week",
+      "summary": "This week, world leaders descended on Manhattan for the UN General Assembly. It’s also New York Climate Week—investors, policymakers, advocates, and journalists are colliding at panels, talks, and fancy dinners. With so many climate voices in one place, the discourse can feel a little louder than usual. This year, the unavoidable topic is artificial intelligence.…",
+      "imageUrl": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=800&q=80",
+      "source": "MIT Tech Review",
+      "sourceUrl": "https://www.technologyreview.com/2026/09/24/1145048/ai-climate-week/",
+      "publishedAt": "2026-09-24T10:00:00.000Z"
+    },
+    {
+      "id": "vmivnr",
+      "title": "Gemini 4 is almost ready, says new Google DeepMind chief",
+      "summary": "Google is reportedly nearing the launch of its long awaited Gemini 4 model, after dawdling behind rival developers on flagship AI releases. Speaking with The Information during his first media appearance as the leader of Google's DeepMind division, Koray Kavukcuoglu said that Gemini 4 is currently in its refinement stage, and that the company is aiming to launch the model \"much earlier\" than the end of the year. \"Our intention is to, like - as soon as possible - to release an early post-training…",
+      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/02/STK255_Google_Gemini_D.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "source": "The Verge",
+      "sourceUrl": "https://www.theverge.com/tech/999802/google-deepmind-gemini-4-timeline-koray-kavukcuoglu",
+      "publishedAt": "2026-09-24T09:04:18.000Z"
+    },
     {
       "id": "5f5gye",
       "title": "Everything new coming to Meta’s AI agent Muse",
@@ -156,15 +192,6 @@
       "publishedAt": "2026-09-23T18:03:00.000Z"
     },
     {
-      "id": "2rde9q",
-      "title": "Anthropic’s biolab made a discovery it’s comparing to Crispr",
-      "summary": "Anthropic says its AI Claude has \"autonomously discovered\" a new enzyme system similar to machinery behind the powerful gene-editing tool Crispr. It's the first result from Anthropic's newly-launched wet lab and an early test of Claude's usefulness for science as the company prepares to go public. The company says Claude found the enzyme system after searching through a massive database of DNA sequences, adding that its scientists' involvement was limited to the initial prompt and lab work. Over…",
-      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/STKB364_CLAUDE_2_C_96d15c-2.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "source": "The Verge",
-      "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/999470/anthropic-biolab-claude-crispr",
-      "publishedAt": "2026-09-23T18:00:00.000Z"
-    },
-    {
       "id": "r11496",
       "title": "A congressional representative just proposed killing America’s border tower program",
       "summary": "Delia Ramirez, a Democratic US representative from Illinois, has announced a plan to introduce new legislation to terminate the surveillance tower program along the US southern border. The announcement comes just days after publication of an MIT Technology Review investigation, “Dying on Camera,” in which we looked at deaths along the border that took place…",
@@ -192,15 +219,6 @@
       "publishedAt": "2026-09-23T16:49:58.000Z"
     },
     {
-      "id": "pay3af",
-      "title": "Bernie Sanders proposes banning ‘superintelligence’ and putting violators in prison",
-      "summary": "Sen. Bernie Sanders (I-VT) and Rep. Greg Casar (D-TX) have introduced new legislation that would ban anyone from developing artificial superintelligence - a technology the bill describes as capable of the \"destruction or disempowerment of humanity,\" including by overthrowing the government. Under the Ban Artificial Superintelligence Act, AI leaders would face up to 20 years in prison for violating the law. The bill doesn't just take aim at the more powerful superintelligence, a term President…",
-      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/gettyimages-2294931488.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "source": "The Verge",
-      "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/999443/bernie-sanders-ai-superintelligence-ban-act",
-      "publishedAt": "2026-09-23T16:23:05.000Z"
-    },
-    {
       "id": "rceoc",
       "title": "YouTube Music gets more conversational with new AI features",
       "summary": "Built directly into the YouTube Music app, Ask Music lets users describe what they want to hear in everyday language rather than searching for individual songs or artists.",
@@ -219,21 +237,21 @@
       "publishedAt": "2026-09-23T14:30:00.000Z"
     },
     {
-      "id": "u4ev5s",
-      "title": "YouTube releases new AI features for creators within its Studio app",
-      "summary": "YouTube is adding new features to generate ideas and monitor the performance of thumbnails.",
-      "imageUrl": "https://images.unsplash.com/photo-1676299081847-824916de030a?w=800&q=80",
-      "source": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/09/23/youtube-releases-new-ai-features-for-creators-within-its-studio-app/",
-      "publishedAt": "2026-09-23T14:30:00.000Z"
-    },
-    {
       "id": "8cqrz",
       "title": "StrictlyVC at TechCrunch Disrupt 2026: Inside the changing rules of venture capital",
       "summary": "StrictlyVC joins TechCrunch Disrupt 2026 to discuss the changing VC landscape thanks to AI. Get your Investor Pass to join these exclusive sessions. Save $200 before September 25 at 11:59 p.m. PT.",
       "imageUrl": "https://images.unsplash.com/photo-1531746790095-6c10a4031c5f?w=800&q=80",
       "source": "TechCrunch",
       "sourceUrl": "https://techcrunch.com/2026/09/23/strictlyvc-at-techcrunch-disrupt-2026-inside-the-changing-rules-of-venture-capital/",
+      "publishedAt": "2026-09-23T14:30:00.000Z"
+    },
+    {
+      "id": "u4ev5s",
+      "title": "YouTube releases new AI features for creators within its Studio app",
+      "summary": "YouTube is adding new features to generate ideas and monitor the performance of thumbnails.",
+      "imageUrl": "https://images.unsplash.com/photo-1676299081847-824916de030a?w=800&q=80",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/09/23/youtube-releases-new-ai-features-for-creators-within-its-studio-app/",
       "publishedAt": "2026-09-23T14:30:00.000Z"
     },
     {
@@ -372,15 +390,6 @@
       "publishedAt": "2026-09-22T13:00:00.000Z"
     },
     {
-      "id": "7e9r26",
-      "title": "AI Models Built From Rat Brains Just Got Closer to Reality",
-      "summary": "The Biological Computing Company is bringing its AI tools to Amazon Web Services in a major boost for a once-fringe field that aims to marry nature with code.",
-      "imageUrl": "https://media.wired.com/photos/6ab1a45fca426ab5b46efa55/master/pass/AI-Models-Built-From-Rat-Brains-Business-Neuron-stimulation.jpg",
-      "source": "Wired",
-      "sourceUrl": "https://www.wired.com/story/ai-models-built-from-rat-brains-are-about-to-become-a-reality/",
-      "publishedAt": "2026-09-22T13:00:00.000Z"
-    },
-    {
       "id": "t0pssk",
       "title": "The Download: why AI’s latest breakthroughs and fears may be more hype than reality",
       "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. Don’t be fooled by this summer of AI hype —Timnit Gebru, executive director of the Distributed AI Research Institute (DAIR), and Emily M. Bender, professor of linguistics at the University of…",
@@ -423,15 +432,6 @@
       "imageUrl": "https://images.unsplash.com/photo-1526374965328-7f61d4dc18c5?w=800&q=80",
       "source": "MIT Tech Review",
       "sourceUrl": "https://www.technologyreview.com/2026/09/21/1144161/border-towers-surveillance-methodology/",
-      "publishedAt": "2026-09-21T12:00:00.000Z"
-    },
-    {
-      "id": "dkrtko",
-      "title": "4 ways to address the failures we found along the US border’s “virtual wall”",
-      "summary": "MIT Technology Review today published our investigation into how many people have died near the “virtual wall” of surveillance towers that the US government has installed along the US-Mexico border. We found cases of people who walked undetected through areas surveilled by advanced, AI-enabled towers and later died nearby, where their bodies remained unnoticed for…",
-      "imageUrl": "https://images.unsplash.com/photo-1485827404703-89b55fcc595e?w=800&q=80",
-      "source": "MIT Tech Review",
-      "sourceUrl": "https://www.technologyreview.com/2026/09/21/1144164/border-towers-surveillance-policy-recommendations/",
       "publishedAt": "2026-09-21T12:00:00.000Z"
     },
     {
