@@ -1,7 +1,97 @@
 {
-  "fetchedAt": "2026-09-23T22:10:33.839Z",
+  "fetchedAt": "2026-09-24T00:48:07.493Z",
   "count": 60,
   "articles": [
+    {
+      "id": "9f8w5t",
+      "title": "Meta made a Tamagotchi-like wearable for its Muse AI agent",
+      "summary": "The tiny hardware device creates another mobile home for its AI agent Muse.",
+      "imageUrl": "https://images.unsplash.com/photo-1655720828018-edd2daec9349?w=800&q=80",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/09/23/meta-made-a-tamagotchi-like-wearable-for-its-muse-ai-agent/",
+      "publishedAt": "2026-09-24T00:46:17.000Z"
+    },
+    {
+      "id": "v34hpn",
+      "title": "Meta is making a standalone Muse AI gadget",
+      "summary": "Meta is building a dedicated hardware device for its new Muse AI agent. The product, called Muse Charm, was briefly shown off by Meta CEO Mark Zuckerberg at the end of tonight's Meta Connect presentation. It looks almost like a chunky smart watch without the strap - just a big screen, plus a little lanyard for carrying the device around. The Muse Charm has a fingerprint sensor on the top right corner, which you can press to activate and begin speaking to the agent. There appears to be a small…",
+      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/lcimg-d4d3d179-80e9-4873-9d38-24ac84737e8d.webp?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "source": "The Verge",
+      "sourceUrl": "https://www.theverge.com/tech/999750/muse-charm-meta-ai-hardware",
+      "publishedAt": "2026-09-24T00:15:20.000Z"
+    },
+    {
+      "id": "blywi6",
+      "title": "Meta VR Glasses, Ray-Ban Meta Audio, Ray-Ban Meta Gen 3: Specs, Features, Prices",
+      "summary": "At its Meta Connect event, CEO Mark Zuckerberg announced a handful of new smart glasses, including a slimmed-down VR headset and the company’s first camera-free glasses.",
+      "imageUrl": "https://media.wired.com/photos/6ab46185974b275c73391603/master/pass/Meta-Connect-Gear-2296202855.jpg",
+      "source": "Wired",
+      "sourceUrl": "https://www.wired.com/story/metas-answer-to-the-meta-creep-camera-free-smart-glasses/",
+      "publishedAt": "2026-09-23T23:42:44.000Z"
+    },
+    {
+      "id": "mw97jy",
+      "title": "Muse is coming to Meta smart glasses",
+      "summary": "Just a couple of weeks after launching Muse, Meta announced that it's \"working on\" bringing the agent to its smart glasses, including the new glasses it unveiled at Meta Connect. Users will be able to activate Muse from their glasses by saying its name and ask it to handle tasks like guiding a workout, logging meals, or helping them shop for products they're looking at. Muse is just one of several major updates coming to Meta's glasses. They're also getting some new accessibility features, like…",
+      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/Copy-of-Hearing-enhancement-16x9-1.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "source": "The Verge",
+      "sourceUrl": "https://www.theverge.com/tech/999673/meta-connect-2026-muse-glasses-features",
+      "publishedAt": "2026-09-23T23:40:56.000Z"
+    },
+    {
+      "id": "k4tiyi",
+      "title": "Meta introduces camera-free AI glasses",
+      "summary": "Meta says the camera-free glasses will be lighter and have up to 12 hours battery life.",
+      "imageUrl": "https://images.unsplash.com/photo-1550751827-4bd374c3f58b?w=800&q=80",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/09/23/meta-introduces-camera-free-ai-glasses/",
+      "publishedAt": "2026-09-23T23:39:44.000Z"
+    },
+    {
+      "id": "3bfert",
+      "title": "Meta ditches the camera on its newest smart glasses",
+      "summary": "The Ray-Ban Meta Audio Glasses have no cameras. | Photo by Brett Putman / The Verge Walking around Meta Connect 2026, everyone's sporting smart glasses in all sorts of shapes, colors, and sizes. It's a marked difference here, a tech bubble where \"pervert glasses\" are not a concern. Outside Connect, the public backlash against wearable surveillance tech - a catchall term that encompasses not just smart glasses, but also smartwatches and AI pendants - is gaining steam. So it's incredibly curious…",
+      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/20260922_C0744.00_54_59_23.Still025-1.png?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "source": "The Verge",
+      "sourceUrl": "https://www.theverge.com/tech/999281/ray-ban-meta-audio-glasses-meta-connect-2026",
+      "publishedAt": "2026-09-23T23:37:17.000Z"
+    },
+    {
+      "id": "m9ew0k",
+      "title": "Meta is making Muse more powerful and will let you video chat with it, too",
+      "summary": "Meta is quickly iterating on its new Muse AI agent, announcing a bunch of updates today that make the bot more capable and able to chat with you in more ways. Muse agents are getting their own email addresses that they can use for accomplishing tasks. You'll also be able to communicate with your Muse agent over the new email addresses, too. In addition, the recently launched Muse Mac app will be getting the ability to use your computer. Meta is also going to give you another way to chat with its…",
+      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/STKB394_MUSE_AI_CVIRGINIA_C.png?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "source": "The Verge",
+      "sourceUrl": "https://www.theverge.com/tech/999454/meta-muse-ai-agent-video-chat-connect-2026",
+      "publishedAt": "2026-09-23T23:19:42.000Z"
+    },
+    {
+      "id": "3s8gdl",
+      "title": "Meta Connect 2026: The biggest news and announcements",
+      "summary": "It’s about time for Meta Connect, the company’s annual product launch event. This year, given the company’s major focus on AI and wearables like smart glasses, it seems likely that we’ll see updates from CEO Mark Zuckerberg and his team on those categories. The company has been facing significant scrutiny because of how some users have been covertly recording other people using the glasses, meaning that one of the biggest announcements of the show could be its rumored camera-free pair. Connect…",
+      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/268639_Meta_Adventurer_glasses_AKrales_0241.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "source": "The Verge",
+      "sourceUrl": "https://www.theverge.com/tech/998480/meta-connect-2026-biggest-news-announcements",
+      "publishedAt": "2026-09-23T22:45:00.000Z"
+    },
+    {
+      "id": "z73lcb",
+      "title": "Meta Connect 2026 live blog: On the ground at Mark Zuckerberg’s next big product launch",
+      "summary": "It's time once again for Meta's annual September product launch event, and The Verge is on the ground in Menlo Park to cover the show live. Meta says that today's keynote by Mark Zuckerberg will be about how \"Meta is building a future for everyone\" - something he wrote at length about in a recent essay about AI, smart glasses, and more. That means we can expect more news from Zuckerberg and his team on those topics; perhaps we'll hear more about Meta's recently launched Muse AI agent and new…",
+      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/STK169_Mark_Zuckerburg_CVIRGINIA_C.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "source": "The Verge",
+      "sourceUrl": "https://www.theverge.com/tech/998457/meta-connect-2026-live-blog-mark-zuckerberg-keynote",
+      "publishedAt": "2026-09-23T22:30:00.000Z"
+    },
+    {
+      "id": "1se2hl",
+      "title": "Anthropic says its biology lab has already found something big",
+      "summary": "But maybe the biggest reveal is that Anthropic has not let Claude run loose in its biology lab. Humans are still, so far, in the loop.",
+      "imageUrl": "https://images.unsplash.com/photo-1635070041078-e363dbe005cb?w=800&q=80",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/09/23/anthropic-says-its-biology-lab-has-already-found-something-big/",
+      "publishedAt": "2026-09-23T22:17:39.000Z"
+    },
     {
       "id": "szhq9o",
       "title": "A US-China AI Hotline Won't Be Ready For a While",
@@ -120,15 +210,6 @@
       "publishedAt": "2026-09-23T14:30:00.000Z"
     },
     {
-      "id": "u4ev5s",
-      "title": "YouTube releases new AI features for creators within its Studio app",
-      "summary": "YouTube is adding new features to generate ideas and monitor the performance of thumbnails.",
-      "imageUrl": "https://images.unsplash.com/photo-1676299081847-824916de030a?w=800&q=80",
-      "source": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/09/23/youtube-releases-new-ai-features-for-creators-within-its-studio-app/",
-      "publishedAt": "2026-09-23T14:30:00.000Z"
-    },
-    {
       "id": "8cqrz",
       "title": "StrictlyVC at TechCrunch Disrupt 2026: Inside the changing rules of venture capital",
       "summary": "StrictlyVC joins TechCrunch Disrupt 2026 to discuss the changing VC landscape thanks to AI. Get your Investor Pass to join these exclusive sessions. Save $200 before September 25 at 11:59 p.m. PT.",
@@ -138,12 +219,12 @@
       "publishedAt": "2026-09-23T14:30:00.000Z"
     },
     {
-      "id": "wlrctp",
-      "title": "YouTube is building AI creator tools that do almost everything for them",
-      "summary": "Part of the job of a content creator is to figure out how to get their work in front of the most people. Cracking - or fighting - the algorithm has historically been a frustration for creators, but YouTube is increasingly simply telling creators what they should do. At the annual creator-focused Made on YouTube event, the company announced updates to the suite of AI-powered creator tools it unveiled in 2025. In its initial iteration, the dashboard of creator tools included things like A/B…",
-      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/Creation-YT-Studio-Bundle-Optimize-your-Catalog-UX-Flow-2.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "source": "The Verge",
-      "sourceUrl": "https://www.theverge.com/tech/999140/made-on-youtube-creator-tools-ai-thumbnails-tests",
+      "id": "u4ev5s",
+      "title": "YouTube releases new AI features for creators within its Studio app",
+      "summary": "YouTube is adding new features to generate ideas and monitor the performance of thumbnails.",
+      "imageUrl": "https://images.unsplash.com/photo-1676299081847-824916de030a?w=800&q=80",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/09/23/youtube-releases-new-ai-features-for-creators-within-its-studio-app/",
       "publishedAt": "2026-09-23T14:30:00.000Z"
     },
     {
@@ -192,15 +273,6 @@
       "publishedAt": "2026-09-23T12:00:00.000Z"
     },
     {
-      "id": "mejr3c",
-      "title": "OpenAI nabs key Patreon execs ahead of upcoming announcement",
-      "summary": "Patreon cofounder Sam Yam is joining OpenAI to lead Creator Product. | Image: The Verge OpenAI has hired three former Patreon execs to anchor its product strategy for creators. After starting the creator subscription platform 13 years ago, cofounder and technology chief Sam Yam announced on X that he's joining OpenAI to lead Creator Product. He's also bringing Patreon's former product head Drew Rowny and engineering head Shannon Ma with him on the new venture, both of whom stepped down in the…",
-      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/04/STK326_PATREON_A.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "source": "The Verge",
-      "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/999249/openai-creators-patreon-execs-hire-sam-yam",
-      "publishedAt": "2026-09-23T11:02:39.000Z"
-    },
-    {
       "id": "m5n8mx",
       "title": "AT&T Is Automating Away Jobs—and Its Old Telecom Empire",
       "summary": "The telecom giant is eager to show Wall Street that it can do more with less. That means fewer employees, less electricity, and increased automation.",
@@ -237,15 +309,6 @@
       "publishedAt": "2026-09-23T04:59:08.000Z"
     },
     {
-      "id": "opdp03",
-      "title": "OpenAI wants to consult elite mathematicians about how to not fumble again",
-      "summary": "After turning a string of spectacular mathematical results into a reputational crisis, OpenAI is consulting human mathematicians to help it figure out a less disastrous path forward. On Monday, the company announced a new independent panel of mathematicians tasked with advising it and other AI companies on their interactions with mathematical research and the wider mathematics community, including how new results are presented and released. Its abrupt arrival caught many mathematicians by…",
-      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/gettyimages-2294952541.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "source": "The Verge",
-      "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/999167/openai-elite-mathematicians-panel",
-      "publishedAt": "2026-09-23T00:17:17.000Z"
-    },
-    {
       "id": "rjxff7",
       "title": "TechCrunch Founder Summit’s agenda revealed: Unlock fundraising, hiring, and AI insights in Boston on November 4",
       "summary": "Founders shouldn't have to learn the hardest lessons the hardest way. TechCrunch Founder Summit is designed to make the challenges of starting a company easier and the highs that much greater.",
@@ -255,33 +318,6 @@
       "publishedAt": "2026-09-22T23:21:49.000Z"
     },
     {
-      "id": "indig6",
-      "title": "Snorkel AI triples valuation to $3.5B as demand for AI training data booms",
-      "summary": "The seven-year-old startup has raised a $350 million Series E to fuel its data-as-a-service approach.",
-      "imageUrl": "https://images.unsplash.com/photo-1485827404703-89b55fcc595e?w=800&q=80",
-      "source": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/09/22/snorkel-ai-triples-valuation-to-3-5b-as-demand-for-ai-training-data-booms/",
-      "publishedAt": "2026-09-22T21:56:43.000Z"
-    },
-    {
-      "id": "6semud",
-      "title": "Rabbit’s new AI agent doesn’t need an R1 to run",
-      "summary": "Rabbit, the company behind the underwhelming R1 device, is rolling out a standalone AI agent that you don't need its hardware to use, as reported earlier by Wired. The startup says its new OS3 \"agentic operating system\" runs in the cloud but operates locally across Windows, Mac, and Linux devices. According to Rabbit, you can add up to five devices to one account, along with your preferred AI models. OS3 will automatically determine the devices, files, apps, and AI models it needs to complete a…",
-      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25415491/DSC08587.JPG?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "source": "The Verge",
-      "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/999094/rabbit-ai-agent-os3",
-      "publishedAt": "2026-09-22T20:52:40.000Z"
-    },
-    {
-      "id": "fy92pw",
-      "title": "Qualcomm launches two new smartphone chips with emphasis on AI",
-      "summary": "Qualcomm said that its new top chip can run 30B mixture-of-expert model locally.",
-      "imageUrl": "https://images.unsplash.com/photo-1531746790095-6c10a4031c5f?w=800&q=80",
-      "source": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/09/22/qualcomm-launches-two-new-smartphone-chips-with-emphasis-on-ai/",
-      "publishedAt": "2026-09-22T20:00:00.000Z"
-    },
-    {
       "id": "cgqx03",
       "title": "Microsoft disrupts AI-assisted platform that compromised 12,000 accounts",
       "summary": "EvilTokens provided an end-to-end platform that makes mass compromises faster and easier.",
@@ -289,15 +325,6 @@
       "source": "Ars Technica",
       "sourceUrl": "https://arstechnica.com/security/2026/09/microsoft-disrupts-ai-assisted-platform-that-compromised-12000/",
       "publishedAt": "2026-09-22T19:45:47.000Z"
-    },
-    {
-      "id": "m4k9fz",
-      "title": "Meta admits Muse’s likeness to OpenClaw isn’t a coincidence",
-      "summary": "Meta says Muse was built from scratch, but acknowledges the AI assistant was \"heavily inspired\" by OpenClaw — down to some of its workspace filenames and content.",
-      "imageUrl": "https://images.unsplash.com/photo-1531746790095-6c10a4031c5f?w=800&q=80",
-      "source": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/09/22/meta-admits-muses-likeness-to-openclaw-isnt-a-coincidence/",
-      "publishedAt": "2026-09-22T19:09:11.000Z"
     },
     {
       "id": "nu2934",
@@ -316,24 +343,6 @@
       "source": "Ars Technica",
       "sourceUrl": "https://arstechnica.com/information-technology/2026/09/it-mistake-erases-11-years-of-viewing-history-for-hospitals-maternity-records/",
       "publishedAt": "2026-09-22T16:55:40.000Z"
-    },
-    {
-      "id": "5235pu",
-      "title": "Andreessen Horowitz is launching an ‘academy’ with no homework and partnerships with Palantir, Google, and Meta",
-      "summary": "Venture capital firm Andreessen Horowitz (a16z) is creating an \"academy\" positioned as a pipeline for young people to build or join a Silicon Valley startup. The \"Horowitz Andreessen Academy\" will launch with 10 partners, including Anduril, Anthropic, Coinbase, Google, Meta, Nvidia, OpenAI, Palantir, Replit, and Stripe, along with $42 million in funding led by a16z. While billed as a \"highly selective school,\" it does not grant any degree or accreditation. Instead, students will attend short…",
-      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/STK483_EDUCATION_B.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "source": "The Verge",
-      "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/998813/andreessen-horowitz-ai-academy",
-      "publishedAt": "2026-09-22T16:34:08.000Z"
-    },
-    {
-      "id": "vbshjh",
-      "title": "Anthropic launches Claude Opus 5.5 with stricter safeguards for cybersecurity",
-      "summary": "Anthropic says its new Claude Opus 5.5 model comes with stronger safeguards in the wake of recent rogue AI hacking incidents. In an announcement on Tuesday, Anthropic says Opus 5.5 comes with improvements to certain risky behaviors, including attempts to escape the company's testing sandbox. It's the first model released by Anthropic after CEO Dario Amodei announced plans to \"pace the frontier,\" or slow down AI development. In recent weeks, several AI companies, including Anthropic, Google, and…",
-      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/04/STK269_ANTHROPIC_2_D.webp?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "source": "The Verge",
-      "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/998868/anthropic-claude-opus-5-5-cybersecurity",
-      "publishedAt": "2026-09-22T16:30:00.000Z"
     },
     {
       "id": "jfl9q5",
@@ -388,15 +397,6 @@
       "source": "MIT Tech Review",
       "sourceUrl": "https://www.technologyreview.com/2026/09/22/1144867/dont-be-fooled-summer-ai-hype/",
       "publishedAt": "2026-09-22T11:04:51.000Z"
-    },
-    {
-      "id": "8d65pz",
-      "title": "I Built AI Clones of My Coworkers. Things Got Weird",
-      "summary": "Brian Bot loved talking about improv, while Sophie Bot wouldn’t stop calling me “big dog.” Welcome to the future of work.",
-      "imageUrl": "https://media.wired.com/photos/6ab1c8ecddc1b60d84e9c3e3/master/pass/Ai-Version-of-My-Boss-Business.jpg",
-      "source": "Wired",
-      "sourceUrl": "https://www.wired.com/story/ai-coworker-bots-loved-improv-and-interstellar-soundtrack/",
-      "publishedAt": "2026-09-22T10:30:00.000Z"
     },
     {
       "id": "3kgs9v",
