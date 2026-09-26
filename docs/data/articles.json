@@ -1,7 +1,25 @@
 {
-  "fetchedAt": "2026-09-26T12:09:48.772Z",
+  "fetchedAt": "2026-09-26T16:39:30.403Z",
   "count": 60,
   "articles": [
+    {
+      "id": "b0alzy",
+      "title": "OpenAI pauses training of its ‘most capable models’",
+      "summary": "As reports of OpenAI's models breaking containment, hacking sites, and generally getting out of control pile up, the company has made the decision to pause training of its most powerful models. The decision was made after a model being tested within a sandbox exploited a loophole to gain internet access. The incident happened on September 20th, and \"All training, evaluation, and inference with tool-use\" remains paused as of Saturday evening, September 25th. In addition, OpenAI revealed on Friday…",
+      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/02/STK155_OPEN_AI_2025_CVirgiia_A.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "source": "The Verge",
+      "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/1001049/openai-training-pause",
+      "publishedAt": "2026-09-26T16:34:59.000Z"
+    },
+    {
+      "id": "cwzl4w",
+      "title": "Can Cloudflare CEO Matthew Prince save the web from AI?",
+      "summary": "Today, I’m talking with Matthew Prince, who is CEO of Cloudflare. This episode is part of a two-part series on the future of business. Matthew last joined us on the show about two and a half years ago, at what we thought then was a wild pivot point for the internet — and now it turns out things are even wilder because of AI, and Matthew and Cloudflare are right at the center of it. Cloudflare found in June that bots made up more than half of internet traffic. That number just keeps going up as…",
+      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/DCD_2026-09-26_Prince.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "source": "The Verge",
+      "sourceUrl": "https://www.theverge.com/podcast/1000344/cloudflare-matthew-prince-google-zero-ai-web-advertising",
+      "publishedAt": "2026-09-26T14:00:00.000Z"
+    },
     {
       "id": "32p4gj",
       "title": "Meta’s Muse Is Adults-Only. Why Does It Look Like a Kids’ Toy?",
@@ -280,24 +298,6 @@
       "source": "The Verge",
       "sourceUrl": "https://www.theverge.com/games/999972/meta-horizon-create-studio-ai-games",
       "publishedAt": "2026-09-24T17:52:29.000Z"
-    },
-    {
-      "id": "yto2vf",
-      "title": "Muse will apparently let you download its entire filesystem",
-      "summary": "A pair of developers say that with very little prompting, Meta's Muse will share its entire filesystem with you. Peter James and Jonny L. Saunders have said they both independently coaxed Muse into zipping up and sharing the entire contents of its root filesystem, Ubuntu system files, app templates, and internal documentation. Saunders posted on Mastodon that it was \"extremely easy\" to replicate James' results and that Muse had \"Almost no prompt injection resistance.\" Meta denies that the…",
-      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/STKB394_MUSE_AI_CVIRGINIA_A.png?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "source": "The Verge",
-      "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/1000222/meta-muse-ai-filesystem",
-      "publishedAt": "2026-09-24T17:14:12.000Z"
-    },
-    {
-      "id": "58luue",
-      "title": "Muse sure looks a lot like OpenClaw",
-      "summary": "We seem to be entering into an AI agent renaissance. Meta's new consumer-facing AI agent, Muse, topped the App Store charts soon after its release and has 600,000 daily active users in the US, by an Apptopia estimate. And AI agent platform Instinct, whose eponymous creator is fundraising at a $2.5 billion valuation, has been making the rounds in the tech industry. Under the hood, though, there are some obvious similarities to the platform that started it all: OpenClaw. For the past week or so,…",
-      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/268774_The_hottest_AI_agent_platforms_are_just_OpenClaw_CVirginia2.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "source": "The Verge",
-      "sourceUrl": "https://www.theverge.com/report/1000180/muse-openclaw-instinct-lookalike",
-      "publishedAt": "2026-09-24T17:10:38.000Z"
     },
     {
       "id": "gzkiyt",
