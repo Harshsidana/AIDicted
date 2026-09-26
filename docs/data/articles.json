@@ -1,11 +1,20 @@
 {
-  "fetchedAt": "2026-09-26T01:24:51.604Z",
+  "fetchedAt": "2026-09-26T06:33:14.624Z",
   "count": 60,
   "articles": [
     {
+      "id": "ji0fdj",
+      "title": "At Meta Connect, the company’s smart glasses were everywhere",
+      "summary": "The company behind Facebook and Instagram wants to keep consumers connected to the digital world via its ever-growing line of smart glasses.",
+      "imageUrl": "https://images.unsplash.com/photo-1676299081847-824916de030a?w=800&q=80",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/09/25/at-meta-connect-the-companys-smart-glasses-were-everywhere/",
+      "publishedAt": "2026-09-26T01:08:57.000Z"
+    },
+    {
       "id": "8zyiyw",
       "title": "Crusoe abandons $1.25B plan to use Boom turbines at AI data centers",
-      "summary": "Boom Supersonic CEO Blake Scholl said its new stationary power plants were no longer in Crusoe's near-term plans.",
+      "summary": "Boom Supersonic CEO Blake Scholl said the company's new stationary power plants were no longer in Crusoe's near-term plans.",
       "imageUrl": "https://images.unsplash.com/photo-1635070041078-e363dbe005cb?w=800&q=80",
       "source": "TechCrunch",
       "sourceUrl": "https://techcrunch.com/2026/09/25/crusoe-abandons-1-25b-plan-to-use-boom-turbines-at-ai-data-centers/",
@@ -37,6 +46,15 @@
       "source": "Wired",
       "sourceUrl": "https://www.wired.com/story/thieves-stole-nvidia-trailers-they-got-20-tons-of-sand/",
       "publishedAt": "2026-09-25T20:30:40.000Z"
+    },
+    {
+      "id": "4xlikp",
+      "title": "Your uncle’s frozen Mac says it’s infected after viewing a Google ad. Now what?",
+      "summary": "Ads appearing all over the Internet are trying to scam people.",
+      "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2026/09/malware-infected-laptop-1152x648.jpg",
+      "source": "Ars Technica",
+      "sourceUrl": "https://arstechnica.com/security/2026/09/google-ads-caught-delivering-convincing-scareware-ads-to-unsuspecting-users/",
+      "publishedAt": "2026-09-25T19:38:59.000Z"
     },
     {
       "id": "v19yau",
@@ -172,15 +190,6 @@
       "source": "TechCrunch",
       "sourceUrl": "https://techcrunch.com/2026/09/25/techcrunch-disrupt-2026-ricursive-intelligences-anna-goldie-and-azalia-mirhoseini-on-when-ai-starts-designing-its-own-hardware/",
       "publishedAt": "2026-09-25T15:00:00.000Z"
-    },
-    {
-      "id": "cfs72d",
-      "title": "Affected by layoffs? Don’t miss this $75 deal for your TechCrunch Disrupt 2026 Expo+ Pass",
-      "summary": "Your next opportunity could be one conversation away. Get your Expo+ Pass for just $75. Limited to the first 100 qualifying people.",
-      "imageUrl": "https://images.unsplash.com/photo-1526374965328-7f61d4dc18c5?w=800&q=80",
-      "source": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/09/25/disrupt-2026-layoff-expo-plus-passes-available-for-75-dollars/",
-      "publishedAt": "2026-09-25T14:15:00.000Z"
     },
     {
       "id": "b0c3ib",
@@ -532,15 +541,6 @@
       "source": "Ars Technica",
       "sourceUrl": "https://arstechnica.com/security/2026/09/once-popular-for-attacking-ai-ascii-smuggling-is-embraced-by-spammers/",
       "publishedAt": "2026-09-04T17:18:12.000Z"
-    },
-    {
-      "id": "7nsh23",
-      "title": "Confused about which VPN is right, US senator asks the NSA for guidance",
-      "summary": "Open source, commercial, single-hop, multi-hop, mixnet? The array of options is dizzying.",
-      "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2024/05/vpn-tunnel-1000x648.jpg",
-      "source": "Ars Technica",
-      "sourceUrl": "https://arstechnica.com/security/2026/09/us-senator-calls-on-the-nsa-to-give-guidance-for-use-of-vpns/",
-      "publishedAt": "2026-09-03T19:52:06.000Z"
     }
   ]
 }
