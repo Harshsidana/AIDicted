@@ -1,7 +1,52 @@
 {
-  "fetchedAt": "2026-09-27T17:55:02.532Z",
+  "fetchedAt": "2026-09-27T21:14:02.492Z",
   "count": 60,
   "articles": [
+    {
+      "id": "g4ktpv",
+      "title": "Engram is a sampler that turns broken AI hallucinations into music",
+      "summary": "Music startup Thoughtful Things has just launched the Kickstarter campaign for its first instrument, Engram. It's a sampler and groovebox that uses AI to mangle incoming audio and even hallucinate completely new sounds. This isn't Suno in a box, though. This isn't a \"push-button, get-song\" device, aimed at creating something that sounds ready for top-40 radio. It's about creating experimental, uncanny sounds and pushing AI audio models beyond their limits. Engram isn't connected to the internet.…",
+      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/Screenshot-2026-09-27-at-4.42.53-PM.png?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "source": "The Verge",
+      "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/1001193/engram-sampler-ai-hallucinations-music",
+      "publishedAt": "2026-09-27T20:46:36.000Z"
+    },
+    {
+      "id": "ol4khw",
+      "title": "Anthropic’s CEO is about to have dinner with President Trump",
+      "summary": "This will be the first one-on-one meeting between Dario Amodei and Donald Trump",
+      "imageUrl": "https://images.unsplash.com/photo-1655720828018-edd2daec9349?w=800&q=80",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/09/27/anthropics-ceo-is-about-to-have-dinner-with-president-trump/",
+      "publishedAt": "2026-09-27T20:34:28.000Z"
+    },
+    {
+      "id": "dije5p",
+      "title": "Can Muse overcome Meta’s trust issues?",
+      "summary": "On Equity, we discussed how Meta's AI announcement managed to steal the spotlight from OpenAI and Anthropic.",
+      "imageUrl": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=800&q=80",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/09/27/can-muse-overcome-metas-trust-issues/",
+      "publishedAt": "2026-09-27T19:57:30.000Z"
+    },
+    {
+      "id": "ulkb7e",
+      "title": "OpenAI agents tried to ‘bruteforce’ a UN website",
+      "summary": "The United Nations logo on a gate outside the UN headquarters in New York. | AFP via Getty Images Security researcher Rowan Howard-Jones says that OpenAI agents scanned the UN Conference on Trade and Development's (UNCTAD) statistics site over 16,000 times between April and June. While the incident doesn't quite rise to the level of the Hugging Face hack, or the recent attacks on US government sites, it's yet another concerning example of AI agents going outside the normal bounds to accomplish a…",
+      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/gettyimages-2236154957.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "source": "The Verge",
+      "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/1001178/openai-agents-bruteforce-un-website",
+      "publishedAt": "2026-09-27T17:21:07.000Z"
+    },
+    {
+      "id": "ifg2k5",
+      "title": "Anthropic’s Dario Amodei gets the SNL treatment",
+      "summary": "\"AI is the devil and I its maker.\"",
+      "imageUrl": "https://images.unsplash.com/photo-1550751827-4bd374c3f58b?w=800&q=80",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/09/27/anthropics-dario-amodei-gets-the-snl-treatment/",
+      "publishedAt": "2026-09-27T16:30:00.000Z"
+    },
     {
       "id": "8m45rx",
       "title": "Google tests buying from Walmart-owned Flipkart through Gemini and AI Mode in India",
@@ -156,15 +201,6 @@
       "publishedAt": "2026-09-25T17:29:46.000Z"
     },
     {
-      "id": "nbg9co",
-      "title": "Astra and Opus just passed Turing’s other test",
-      "summary": "Frontier AI models are finishing Alan Turing's World War II codebreaking work.",
-      "imageUrl": "https://images.unsplash.com/photo-1635070041078-e363dbe005cb?w=800&q=80",
-      "source": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/09/25/astra-and-opus-just-passed-turings-other-test/",
-      "publishedAt": "2026-09-25T17:24:36.000Z"
-    },
-    {
       "id": "ar39zh",
       "title": "Appeals Court Lets the Pentagon Designate Anthropic a Supply-Chain Risk",
       "summary": "The AI lab had argued multiple violations of its rights, but a divided panel of judges sided with the Trump administration.",
@@ -181,24 +217,6 @@
       "source": "The Verge",
       "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/1000784/meta-muse-filesystem",
       "publishedAt": "2026-09-25T16:49:53.000Z"
-    },
-    {
-      "id": "1u4ywm",
-      "title": "Meta is putting its muscle behind Muse as the AI app takes off",
-      "summary": "Muse is topping the app store charts and adding users at a rapid clip, while Meta ramps up the personal AI agent's promotion across its own apps and beyond.",
-      "imageUrl": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=800&q=80",
-      "source": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/09/25/meta-is-putting-its-muscle-behind-muse-as-the-ai-app-takes-off/",
-      "publishedAt": "2026-09-25T16:16:52.000Z"
-    },
-    {
-      "id": "r51ru",
-      "title": "Meta’s AI Tamagotchi bet is…working?",
-      "summary": "When AI leaders at OpenAI and Anthropic started talking about “pacing the frontier,” maybe someone should have asked: what pace? Now it’s turned into model drop week for both companies as Anthropic rolled out Opus 5.5, followed by OpenAI’s GPT-6 model updates just 90 minutes later. But the company that stole the spotlight was Meta, whose personal AI agent Muse is reportedly outpacing ChatGPT’s early numbers and is headed for smart glasses and […]",
-      "imageUrl": "https://images.unsplash.com/photo-1550751827-4bd374c3f58b?w=800&q=80",
-      "source": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/video/will-metas-ai-tamagotchi-bet-isworking/",
-      "publishedAt": "2026-09-25T16:00:00.000Z"
     },
     {
       "id": "8z1cfe",
@@ -280,24 +298,6 @@
       "source": "Wired",
       "sourceUrl": "https://www.wired.com/story/i-finally-found-an-ai-agent-worth-the-risk/",
       "publishedAt": "2026-09-24T19:36:35.000Z"
-    },
-    {
-      "id": "w14qyd",
-      "title": "Jensen Huang talks about AI and climate change like a supervillain",
-      "summary": "As Jensen Huang puts it, AI can help fight climate change - but only if it inflicts \"an enormous amount of pain and suffering\" first. The Nvidia CEO discussed the future of energy and AI's impact on our planet in the latest episode of The Ezra Klein Show. But his comments boil down to the same accelerationist spin we've seen from a variety of tech leaders as well as President Donald Trump. They promise that AI will be such a gift to humanity that it's worth the damage caused by data centers…",
-      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/gettyimages-2285784039.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "source": "The Verge",
-      "sourceUrl": "https://www.theverge.com/tech/1000140/jensen-huang-nvidia-ai-energy-climate-change-supervillain",
-      "publishedAt": "2026-09-24T18:04:44.000Z"
-    },
-    {
-      "id": "gojksp",
-      "title": "Meta is going to let you build games with AI right on your phone",
-      "summary": "Meta has a new plan to get people to make games for its Horizon social platform. The company today announced two new development tools that will let you create games with AI prompts: Horizon Create, a mobile app, and Horizon Studio, a browser app that offers more granular controls. The apps will be available in early access, and interested users can sign up for a waitlist. Horizon has struggled as a platform, but Meta has a plan to give these new Horizon games significantly more reach: It's…",
-      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/Screenshot-2026-09-24-at-6.56.53-AM.png?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "source": "The Verge",
-      "sourceUrl": "https://www.theverge.com/games/999972/meta-horizon-create-studio-ai-games",
-      "publishedAt": "2026-09-24T17:52:29.000Z"
     },
     {
       "id": "gzkiyt",
