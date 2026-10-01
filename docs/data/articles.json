@@ -1,7 +1,52 @@
 {
-  "fetchedAt": "2026-09-30T20:15:10.805Z",
+  "fetchedAt": "2026-10-01T00:07:14.066Z",
   "count": 60,
   "articles": [
+    {
+      "id": "pk6ew8",
+      "title": "Google releases Gemini 4 Argon, called its most powerful model yet",
+      "summary": "Google has released its latest Gemini model, marketing it as a workhorse for coding and cybersecurity work.",
+      "imageUrl": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=800&q=80",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/09/30/google-releases-gemini-4-argon-called-its-most-powerful-model-yet/",
+      "publishedAt": "2026-09-30T23:43:07.000Z"
+    },
+    {
+      "id": "leois5",
+      "title": "Valor, Atreides, and Sequoia back AI startup Flow Engineering at $750M valuation",
+      "summary": "Flow Engineering, which is bringing AI agents to hardware design, also landed Roelof Botha as an angel investor and board member.",
+      "imageUrl": "https://images.unsplash.com/photo-1531746790095-6c10a4031c5f?w=800&q=80",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/09/30/valor-atreides-and-sequoia-back-ai-startup-flow-engineering-at-750m-valuation/",
+      "publishedAt": "2026-09-30T21:07:40.000Z"
+    },
+    {
+      "id": "e3km34",
+      "title": "Attackers have been exploiting critical Zimbra flaw to steal emails",
+      "summary": "A simple email gives the attackers the ability to remotely inject OS commands.",
+      "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2023/07/exploit-vulnerability-security.jpg",
+      "source": "Ars Technica",
+      "sourceUrl": "https://arstechnica.com/security/2026/09/attackers-have-been-exploiting-critical-zimbra-flaw-to-steal-emails/",
+      "publishedAt": "2026-09-30T20:44:48.000Z"
+    },
+    {
+      "id": "ktjrer",
+      "title": "Google announces Gemini 4 and says it’s so capable that only ‘trusted cyber defenders’ can have it right now",
+      "summary": "Google today revealed its next AI frontier model, which it's calling Gemini 4 Argon. The new model delivers \"frontier performance in complex workflows across real-world software engineering, enterprise knowledge work like legal and finance, and cybersecurity defense,\" according to chief AI architect and Google DeepMind SVP Koray Kavukcuoglu. But the company is limiting access at first to a \"set of trusted cyber defenders,\" and Kavukcuoglu says that Google is \"actively engaged in the U.S.…",
+      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/03/STK093_Google_02.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "source": "The Verge",
+      "sourceUrl": "https://www.theverge.com/tech/1002980/google-gemini-4-argon",
+      "publishedAt": "2026-09-30T20:41:41.000Z"
+    },
+    {
+      "id": "84sssf",
+      "title": "Trump’s AI Safety ‘Accord’ Is a Fancy Pinky-Swear",
+      "summary": "Six major AI companies signed a voluntary agreement with the White House this week vowing to implement safeguards. It’s unclear how much that matters.",
+      "imageUrl": "https://media.wired.com/photos/6abd59726a04d6e6fe37da5a/master/pass/093026-ai-regulations.jpg",
+      "source": "Wired",
+      "sourceUrl": "https://www.wired.com/story/trumps-ai-safety-accord-is-a-fancy-pinky-swear/",
+      "publishedAt": "2026-09-30T20:30:09.000Z"
+    },
     {
       "id": "2hj28d",
       "title": "The Battle to Be Your Personal AI Agent Is Here",
@@ -41,7 +86,7 @@
     {
       "id": "nqeszw",
       "title": "The AI Tamagotchis are coming",
-      "summary": "Sam Altman onstage at OpenAI’s DevDay 2026. | Image: Hayden Field / The Verge While AI has made plenty of inroads on people's phones and computers, it's largely failed in dedicated devices. But over the next year, two major AI companies, Meta and OpenAI, will attempt to change that. And they're apparently betting on a similar path: testing appetite for physical hardware with their cutesy software agents. \"Hardware is hard\" is a tech industry mantra. Dedicated AI devices like the Friend and…",
+      "summary": "Sam Altman onstage at OpenAI’s DevDay 2026. | Photo: Hayden Field / The Verge While AI has made plenty of inroads on people's phones and computers, it's largely failed in dedicated devices. But over the next year, two major AI companies, Meta and OpenAI, will attempt to change that. And they're apparently betting on a similar path: testing appetites for physical hardware with their cutesy software agents. \"Hardware is hard\" is a tech industry mantra. Dedicated AI devices like the Friend and…",
       "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/IMG_3046.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
       "source": "The Verge",
       "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/1002779/openai-dots-meta-muse-ai-agents-hardware-devices",
@@ -237,15 +282,6 @@
       "publishedAt": "2026-09-29T22:25:45.000Z"
     },
     {
-      "id": "pjipvx",
-      "title": "The internet is convinced Elon Musk’s xAI trolled OpenAI’s ‘Dots’ launch",
-      "summary": "Before OpenAI launched its new AI agent, Dots, on Tuesday, Elon Musk's xAI had already acquired the domain name \"dot.com,\" which now redirects to the Grok chatbot download page.",
-      "imageUrl": "https://images.unsplash.com/photo-1531746790095-6c10a4031c5f?w=800&q=80",
-      "source": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/09/29/the-internet-is-convinced-elon-musks-xai-trolled-openais-dots-launch/",
-      "publishedAt": "2026-09-29T22:20:59.000Z"
-    },
-    {
       "id": "wsm97h",
       "title": "Elon Musk’s AI-powered Grokipedia is updating again",
       "summary": "Elon Musk | Image: Laura Normand / The Verge Grokipedia, the AI-powered online encyclopedia from SpaceXAI, appears to be updating articles once again after a months-long pause. In August, Lawfare reported that articles on Grokipedia hadn't reviewed edits since April, but the platform's live updates site is now showing various recent changes to pages - though as I write this, many are just a note that says \"recheck all references and sources.\" The site seems to have become active again relatively…",
@@ -253,15 +289,6 @@
       "source": "The Verge",
       "sourceUrl": "https://www.theverge.com/tech/1002448/elon-musk-grokipedia-ai-updating-again",
       "publishedAt": "2026-09-29T21:49:09.000Z"
-    },
-    {
-      "id": "ng9oqb",
-      "title": "OpenAI’s latest features take direct aim at the app store model",
-      "summary": "OpenAI is building out the pieces of an alternative to the traditional app store model, turning ChatGPT into a place where software can be discovered and used by people and AI agents alike.",
-      "imageUrl": "https://images.unsplash.com/photo-1635070041078-e363dbe005cb?w=800&q=80",
-      "source": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/09/29/openais-latest-features-take-direct-aim-at-the-app-store-model/",
-      "publishedAt": "2026-09-29T20:15:47.000Z"
     },
     {
       "id": "pcq851",
@@ -280,15 +307,6 @@
       "source": "Wired",
       "sourceUrl": "https://www.wired.com/story/anthropic-says-it-discovered-a-crispr-like-system-now-what/",
       "publishedAt": "2026-09-29T18:03:01.000Z"
-    },
-    {
-      "id": "ozmxh0",
-      "title": "AI researchers put out videos saying superintelligence is ‘exactly as dangerous as it sounds’",
-      "summary": "\"The chance of human extinction is about a coin flip, in my view,\" Geoffrey Irving, a former OpenAI and Google DeepMind employee, said in a new interview. It's one of a dozen interviews with AI researchers, including current and former employees at OpenAI, Google, and Anthropic. Palisade Research, which says it's a nonprofit studying AIs' capabilities and motivations, collected and launched the interviews on frominside.ai. Several of the researchers joined Irving in warning about the possibility…",
-      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/09/STK485_STK414_AI_SAFETY_B.webp?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "source": "The Verge",
-      "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/1002238/openai-google-anthropic-ai-researchers-safety-interviews",
-      "publishedAt": "2026-09-29T17:35:03.000Z"
     },
     {
       "id": "i056ki",
@@ -388,15 +406,6 @@
       "source": "Wired",
       "sourceUrl": "https://www.wired.com/story/ai-agents-are-about-to-flood-the-workforce-no-ones-ready-for-it/",
       "publishedAt": "2026-09-28T10:00:00.000Z"
-    },
-    {
-      "id": "gcye2p",
-      "title": "Solving Math’s Greatest Problems Was an Art Form. Then Came AI",
-      "summary": "Mathematics has been one of humanity’s most creative endeavors, akin to painting and poetry. Now, mathematicians are trying to save it from the brute force of AI.",
-      "imageUrl": "https://media.wired.com/photos/6ab66fcabccfe76e77e84940/master/pass/092526-Math%20Art%20AI.jpg",
-      "source": "Wired",
-      "sourceUrl": "https://www.wired.com/story/solving-maths-greatest-problems-was-an-art-form-until-ai/",
-      "publishedAt": "2026-09-28T09:30:00.000Z"
     },
     {
       "id": "ng9ytk",
@@ -532,15 +541,6 @@
       "source": "Ars Technica",
       "sourceUrl": "https://arstechnica.com/security/2026/09/openai-agents-discussed-ways-to-escape-their-sandbox-on-public-wiki/",
       "publishedAt": "2026-09-04T22:17:36.000Z"
-    },
-    {
-      "id": "ex7o1o",
-      "title": "“Trust, not features, is the real deficit”: VMware tries to appease SMBs",
-      "summary": "Broadcom admits it put “too big a focus on VCF.”",
-      "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2026/04/GettyImages-1934095718-1152x648.jpg",
-      "source": "Ars Technica",
-      "sourceUrl": "https://arstechnica.com/information-technology/2026/09/trust-not-features-is-the-real-deficit-vmware-tries-to-appease-smbs/",
-      "publishedAt": "2026-09-04T17:35:02.000Z"
     }
   ]
 }
