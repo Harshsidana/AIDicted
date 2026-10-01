@@ -1,7 +1,52 @@
 {
-  "fetchedAt": "2026-10-01T19:24:00.444Z",
+  "fetchedAt": "2026-10-01T23:24:07.889Z",
   "count": 60,
   "articles": [
+    {
+      "id": "wo5vqd",
+      "title": "Whatever AI Safety Is, It’s Not This",
+      "summary": "Asking AI companies to self-regulate is a great way to pretend like you’ve accomplished something.",
+      "imageUrl": "https://media.wired.com/photos/6abd667878587a545496ec2f/master/pass/Model-Behavior-Trump-AI-Business.jpg",
+      "source": "Wired",
+      "sourceUrl": "https://www.wired.com/story/whatever-ai-safety-looks-like-its-not-this/",
+      "publishedAt": "2026-10-01T22:10:42.000Z"
+    },
+    {
+      "id": "hifk4",
+      "title": "Musk’s AI chatbot Grok reportedly encouraged Trump to capture Venezuela’s president",
+      "summary": "President Trump reportedly asked for Grok's opinion before invading Venezuela and capturing Nicolás Maduro.",
+      "imageUrl": "https://images.unsplash.com/photo-1531746790095-6c10a4031c5f?w=800&q=80",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/10/01/musks-ai-chatbot-grok-reportedly-encouraged-trump-to-capture-venezuelas-president/",
+      "publishedAt": "2026-10-01T21:08:11.000Z"
+    },
+    {
+      "id": "z58b9r",
+      "title": "Hacks of 2 federal agencies in a month have spilled a bonanza of sensitive data",
+      "summary": "It has been a bad month for federal government cybersecurity.",
+      "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2021/04/data-leak-1000x648.jpeg",
+      "source": "Ars Technica",
+      "sourceUrl": "https://arstechnica.com/security/2026/10/hacks-of-2-federal-agencies-in-a-month-have-spilled-a-bonanza-of-sensitive-data/",
+      "publishedAt": "2026-10-01T20:28:45.000Z"
+    },
+    {
+      "id": "gu5src",
+      "title": "Trump’s ‘Morally Binding’ AI ‘Accord,’ the Rise of AI Agents, and Extremists on the Ballot",
+      "summary": "This week on “Uncanny Valley,” we discuss the voluntary AI safety agreement tech executives signed, AI agents for normies, and extremist candidates running for office in the US midterms.",
+      "imageUrl": "https://media.wired.com/photos/6abd98d540aa0c6f065eedf5/master/pass/Uncanny-Valley-Morally-Bound-WH-Accord-Business-2297777029.jpg",
+      "source": "Wired",
+      "sourceUrl": "https://www.wired.com/story/uncanny-valley-podcast-trumps-pinky-swear-ai-safety-accord-an-ai-agent-worth-the-risk/",
+      "publishedAt": "2026-10-01T19:58:31.000Z"
+    },
+    {
+      "id": "ok5z9w",
+      "title": "Google’s new Guided Vision feature can help you read the fine print",
+      "summary": "Guided Vision is launching in Gemini Live on compatible Android devices today to use AI to give real-time audio descriptions of anything you point your phone's camera at. By sharing your camera in Gemini Live, you can have Google's AI help with things like reading small text, describing your surroundings, finding or identifying objects around you, and describing details on specific objects. Like the VoiceOver Live Recognition feature Apple has added to the iPhone and Vision Pro, it's designed…",
+      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/02/STK255_Google_Gemini_B_474198.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "source": "The Verge",
+      "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/1003756/google-gemini-live-guided-vision",
+      "publishedAt": "2026-10-01T19:47:51.000Z"
+    },
     {
       "id": "vrouge",
       "title": "ChatGPT can now virtually try on clothes for you",
@@ -12,10 +57,10 @@
       "publishedAt": "2026-10-01T19:21:53.000Z"
     },
     {
-      "id": "2iri27",
-      "title": "Google thinks SpaceX’s Starship has to launch 1,600 times before space data centers get off the ground",
+      "id": "4k5usx",
+      "title": "Google thinks SpaceX’s Starship has to launch 1,800 times before space data centers get off the ground",
       "summary": "Google launched its first advanced chip into orbit to pave the way for space data centers.",
-      "imageUrl": "https://images.unsplash.com/photo-1655720828018-edd2daec9349?w=800&q=80",
+      "imageUrl": "https://images.unsplash.com/photo-1531746790095-6c10a4031c5f?w=800&q=80",
       "source": "TechCrunch",
       "sourceUrl": "https://techcrunch.com/2026/10/01/google-thinks-spacexs-starship-has-to-launch-1600-times-before-space-data-centers-get-off-the-ground/",
       "publishedAt": "2026-10-01T19:18:03.000Z"
@@ -255,15 +300,6 @@
       "publishedAt": "2026-09-30T18:07:38.000Z"
     },
     {
-      "id": "6h6cpd",
-      "title": "Reddit is killing RSS feeds and ending public API access because of AI bots",
-      "summary": "Reddit is ending support for RSS feeds, as the company continues tightening access to its trove of user-generated content.",
-      "imageUrl": "https://images.unsplash.com/photo-1531746790095-6c10a4031c5f?w=800&q=80",
-      "source": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/09/30/reddit-is-killing-rss-feeds-ending-public-api-access-because-of-ai-bots/",
-      "publishedAt": "2026-09-30T17:45:00.000Z"
-    },
-    {
       "id": "pg02l3",
       "title": "Here’s what AI leaders are saying about Trump’s new safety plan",
       "summary": "If you think this shot is amusing, check out the panicked look on Zuckerberg’s face when Trump calls on him to speak. | Photo: Kevin Dietsch/Getty Images After hosting a meal with Big Tech leaders on Tuesday, President Donald Trump responded to journalist questions about his artificial intelligence announcements in typical fashion. He said his previous claims regarding fears around AI safety being a \"hoax\" cooked up by Democrats no longer apply now that he's renamed the technology to \"Super…",
@@ -289,15 +325,6 @@
       "source": "The Verge",
       "sourceUrl": "https://www.theverge.com/tech/1002665/google-paying-publishers-ai-search-features",
       "publishedAt": "2026-09-30T14:51:49.000Z"
-    },
-    {
-      "id": "izwja3",
-      "title": "Instagram is adding an AI ‘assistant’ to tell you how to post",
-      "summary": "Instagram is the latest social media platform to add built-in AI-powered features that will give users feedback on their posts. The company announced Wednesday that its standalone Edits app will now include an AI \"creative assistant\" that pulls in data from a user's Instagram account and offers suggestions on what to change. Using the new assistant, creators can ask open-ended questions about what's trending on Instagram, why one video worked and another didn't, or what piece of content…",
-      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/02/acastro_STK070__01.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "source": "The Verge",
-      "sourceUrl": "https://www.theverge.com/tech/1002402/instagram-ai-edits-assistant-creators-analytics-youtube",
-      "publishedAt": "2026-09-30T14:30:00.000Z"
     },
     {
       "id": "4gdg2j",
@@ -417,24 +444,6 @@
       "publishedAt": "2026-09-28T17:03:16.000Z"
     },
     {
-      "id": "kaxfzo",
-      "title": "OpenAI Pauses Training Its Most Powerful Models After Rogue Agents Target Government",
-      "summary": "Sam Altman says the company “have not been as fast as we would have liked” at dealing with security breaches, after news of further incidents over the summer forces another temporary halt.",
-      "imageUrl": "https://media.wired.com/photos/6aba376a2b66b9dd652c1c6c/master/pass/092826-OpenAi%20Whitehouse%20Hack.jpg",
-      "source": "Wired",
-      "sourceUrl": "https://www.wired.com/story/openai-pauses-training-most-powerful-models-after-rogue-agents-target-government/",
-      "publishedAt": "2026-09-28T11:32:19.000Z"
-    },
-    {
-      "id": "by31cf",
-      "title": "AI Agents Are About to Flood the Workforce. No One’s Ready for It",
-      "summary": "Your next coworker might well be an AI agent—and will require a whole new model of workplace interactions.",
-      "imageUrl": "https://media.wired.com/photos/6ab67a543b15d40264a17301/master/pass/092526-AI%20Coworker.jpg",
-      "source": "Wired",
-      "sourceUrl": "https://www.wired.com/story/ai-agents-are-about-to-flood-the-workforce-no-ones-ready-for-it/",
-      "publishedAt": "2026-09-28T10:00:00.000Z"
-    },
-    {
       "id": "4xlikp",
       "title": "Your uncle’s frozen Mac says it’s infected after viewing a Google ad. Now what?",
       "summary": "Ads appearing all over the Internet are trying to scam people.",
@@ -532,15 +541,6 @@
       "source": "Ars Technica",
       "sourceUrl": "https://arstechnica.com/information-technology/2026/09/4-groups-caught-using-the-same-chrome-and-windows-exploit-kit/",
       "publishedAt": "2026-09-09T20:55:02.000Z"
-    },
-    {
-      "id": "o8hs1f",
-      "title": "Why this month's Microsoft patch release is a doozy",
-      "summary": "Security gnomes are pumping out patches ahead of an expected onslaught of AI-assisted attacks.",
-      "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2023/07/exploit-vulnerability-security.jpg",
-      "source": "Ars Technica",
-      "sourceUrl": "https://arstechnica.com/security/2026/09/microsoft-patches-a-record-972-vulnerabilities-112-of-them-critical/",
-      "publishedAt": "2026-09-08T21:11:46.000Z"
     }
   ]
 }
