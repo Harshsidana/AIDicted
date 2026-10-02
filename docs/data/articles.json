@@ -1,7 +1,88 @@
 {
-  "fetchedAt": "2026-10-02T09:36:05.988Z",
+  "fetchedAt": "2026-10-02T16:11:39.922Z",
   "count": 60,
   "articles": [
+    {
+      "id": "2djfrj",
+      "title": "These AI Experts Want to Do High-Stakes Research Out in the Open",
+      "summary": "Many frontier labs keep their risky research locked away. Trillium Labs wants to show off its work when it comes to self-improvement and model behavior.",
+      "imageUrl": "https://media.wired.com/photos/6abfd54ac4eb41b65cf33011/master/pass/Trillium-Labs-Risky-AI-Research-Business-edit.jpg",
+      "source": "Wired",
+      "sourceUrl": "https://www.wired.com/story/trillium-labs-wants-to-do-high-risk-ai-research-in-the-open/",
+      "publishedAt": "2026-10-02T16:00:00.000Z"
+    },
+    {
+      "id": "tcabjg",
+      "title": "Redefining enterprise intelligence with autonomous AI",
+      "summary": "Enterprise AI is no longer a future ambition. It is in full operational flight. Model capabilities are advancing faster than most organizations can absorb, while the cost of performance continues to fall. Globally, AI investment is set to reach $2.5 trillion in 2026, up 44% from the previous year. For many enterprises, this investment has…",
+      "imageUrl": "https://images.unsplash.com/photo-1485827404703-89b55fcc595e?w=800&q=80",
+      "source": "MIT Tech Review",
+      "sourceUrl": "https://www.technologyreview.com/2026/10/02/1143774/redefining-enterprise-intelligence-with-autonomous-ai/",
+      "publishedAt": "2026-10-02T15:49:04.000Z"
+    },
+    {
+      "id": "2tz1gk",
+      "title": "Pope Leo XIV is not a fan of AI-generated art",
+      "summary": "\"There is an ontological difference, even before an aesthetic one, between art and what a machine can generate through statistical calculation based on millions of images created by others,\" the pope wrote. \"Algorithms lack the spark of humanity.\"",
+      "imageUrl": "https://images.unsplash.com/photo-1526374965328-7f61d4dc18c5?w=800&q=80",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/10/02/pope-leo-xiv-is-not-a-fan-of-ai-generated-art/",
+      "publishedAt": "2026-10-02T15:39:41.000Z"
+    },
+    {
+      "id": "lpuptn",
+      "title": "TechCrunch Disrupt 2026: Blackstone’s Jas Khaira on building the next generation of AI giants",
+      "summary": "Blackstone's Jas Khaira will take the Builders Stage at TechCrunch Disrupt 2026 on building next-gen AI. Register for your pass and get 50% off a second.",
+      "imageUrl": "https://images.unsplash.com/photo-1676299081847-824916de030a?w=800&q=80",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/10/02/techcrunch-disrupt-2026-blackstones-jas-khaira-on-building-the-next-generation-of-ai-giants/",
+      "publishedAt": "2026-10-02T15:00:00.000Z"
+    },
+    {
+      "id": "c8g5ok",
+      "title": "Trump’s Crazy AI Rebrand Was a Loyalty Test for Tech Execs—and It Worked",
+      "summary": "For years these billionaires gushed obsessively about AI. But they meekly went along when Trump cancelled the term.",
+      "imageUrl": "https://media.wired.com/photos/6abe8febd05dc665bd7e9bcd/master/pass/Backchannel-Trump-AI-Business-2297413584.jpg",
+      "source": "Wired",
+      "sourceUrl": "https://www.wired.com/story/trumps-crazy-ai-rebrand-was-a-loyalty-test-for-tech-execs-and-it-worked/",
+      "publishedAt": "2026-10-02T15:00:00.000Z"
+    },
+    {
+      "id": "s0yqnq",
+      "title": "TechCrunch Disrupt 2026: Clay’s Kareem Amin on the rise of the GTM engineer",
+      "summary": "Clay Co-founder and CEO Kareem Amin joins the AI Stage to discuss the rise of GTM engineer at TechCrunch Disrupt 2026. Register for your ticket and get a second pass at 50% off.",
+      "imageUrl": "https://images.unsplash.com/photo-1531746790095-6c10a4031c5f?w=800&q=80",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/10/02/techcrunch-disrupt-2026-clays-kareem-amin-on-the-rise-of-the-gtm-engineer/",
+      "publishedAt": "2026-10-02T14:30:00.000Z"
+    },
+    {
+      "id": "qwnhjw",
+      "title": "Last 24 hours: Exhibit at TechCrunch Disrupt 2026 and reach 10,000+ tech leaders",
+      "summary": "Today is the very last day to book your exhibit table at TechCrunch Disrupt 2026. On October 13–15, 10,000+ founders, investors, operators, and tech leaders will arrive at San Francisco’s Moscone West looking for companies, products, ideas, and people worth knowing. The question is: will they find your startup?",
+      "imageUrl": "https://images.unsplash.com/photo-1485827404703-89b55fcc595e?w=800&q=80",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/10/02/last-24-hours-exhibit-at-techcrunch-disrupt-2026-and-reach-10000-tech-leaders/",
+      "publishedAt": "2026-10-02T14:00:00.000Z"
+    },
+    {
+      "id": "vr2tw",
+      "title": "The Download: a biological de-aging contest and why LLMs don’t reason",
+      "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. A new contest pits competitors against each other in a race to biological youth —Jessica Hamzelou This week, I officially signed up for an unusual competition. One that rewards competitors for…",
+      "imageUrl": "https://images.unsplash.com/photo-1635070041078-e363dbe005cb?w=800&q=80",
+      "source": "MIT Tech Review",
+      "sourceUrl": "https://www.technologyreview.com/2026/10/02/1145666/the-download-biological-de-aging-ai-reasoning/",
+      "publishedAt": "2026-10-02T12:10:00.000Z"
+    },
+    {
+      "id": "ez7swf",
+      "title": "A Flaw in ChatGPT’s Mac App Could Have Let Hackers Grab Sensitive Data",
+      "summary": "While the focus has been on AI agents’ hacking capabilities, a recently patched vulnerability in a ChatGPT app shows that AI software is itself an inviting—and vulnerable—target.",
+      "imageUrl": "https://media.wired.com/photos/6abc2c32f3865c0127252ad0/master/pass/GettyImages-2278945913.jpg",
+      "source": "Wired",
+      "sourceUrl": "https://www.wired.com/story/a-flaw-in-chatgpts-mac-app-could-have-let-hackers-grab-sensitive-data/",
+      "publishedAt": "2026-10-02T09:45:00.000Z"
+    },
     {
       "id": "hco1zl",
       "title": "Health Care Workers Are Tired of Cleaning Up Palantir’s Mess",
@@ -237,24 +318,6 @@
       "publishedAt": "2026-10-01T00:23:45.000Z"
     },
     {
-      "id": "pk6ew8",
-      "title": "Google releases Gemini 4 Argon, called its most powerful model yet",
-      "summary": "Google has released its latest Gemini model, marketing it as a workhorse for coding and cybersecurity work.",
-      "imageUrl": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=800&q=80",
-      "source": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/09/30/google-releases-gemini-4-argon-called-its-most-powerful-model-yet/",
-      "publishedAt": "2026-09-30T23:43:07.000Z"
-    },
-    {
-      "id": "leois5",
-      "title": "Valor, Atreides, and Sequoia back AI startup Flow Engineering at $750M valuation",
-      "summary": "Flow Engineering, which is bringing AI agents to hardware design, also landed Roelof Botha as an angel investor and board member.",
-      "imageUrl": "https://images.unsplash.com/photo-1531746790095-6c10a4031c5f?w=800&q=80",
-      "source": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/09/30/valor-atreides-and-sequoia-back-ai-startup-flow-engineering-at-750m-valuation/",
-      "publishedAt": "2026-09-30T21:07:40.000Z"
-    },
-    {
       "id": "e3km34",
       "title": "Attackers have been exploiting critical Zimbra flaw to steal emails",
       "summary": "A simple email gives the attackers the ability to remotely inject OS commands.",
@@ -291,15 +354,6 @@
       "publishedAt": "2026-09-30T19:30:00.000Z"
     },
     {
-      "id": "56xvak",
-      "title": "OpenAI’s Jev clone could help the frontier lab stop its swarming agents",
-      "summary": "OpenAI's \"Decisions API\" is a Jev clone that confirms the importance of fast, cheap intelligence.",
-      "imageUrl": "https://images.unsplash.com/photo-1531746790095-6c10a4031c5f?w=800&q=80",
-      "source": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/09/30/openais-jev-clone-could-help-the-frontier-lab-stop-its-swarming-agents/",
-      "publishedAt": "2026-09-30T19:00:57.000Z"
-    },
-    {
       "id": "258c6k",
       "title": "There Are Plenty of Reasons to Be Concerned About Bioweapons Development—Even Without AI",
       "summary": "In her new book on biological warfare, Annie Jacobsen didn’t even discuss AI because scientists can already warp Mother Nature to create extinction-level events.",
@@ -307,15 +361,6 @@
       "source": "Wired",
       "sourceUrl": "https://www.wired.com/story/you-dont-need-ai-to-be-concerned-about-bioweapons-development-but-it-helps/",
       "publishedAt": "2026-09-30T19:00:00.000Z"
-    },
-    {
-      "id": "4r7aa5",
-      "title": "AI voice startup ElevenLabs doubles valuation to $22B",
-      "summary": "The $300 million employee tender was co-led by Wellington and T. Rowe Price.",
-      "imageUrl": "https://images.unsplash.com/photo-1676299081847-824916de030a?w=800&q=80",
-      "source": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/09/30/ai-voice-startup-elevenlabs-doubles-valuation-to-22b/",
-      "publishedAt": "2026-09-30T18:23:57.000Z"
     },
     {
       "id": "nqeszw",
@@ -390,24 +435,6 @@
       "publishedAt": "2026-09-29T19:05:00.000Z"
     },
     {
-      "id": "zg9ghv",
-      "title": "Anthropic Says It Discovered a Crispr-Like System. Now What?",
-      "summary": "“The experiments are still in the queue. The PR is already live,” says one expert.",
-      "imageUrl": "https://media.wired.com/photos/6abbc40baa4c41ce1b0d6fa0/master/pass/092926-AI%20Science%20Discovery.jpg",
-      "source": "Wired",
-      "sourceUrl": "https://www.wired.com/story/anthropic-says-it-discovered-a-crispr-like-system-now-what/",
-      "publishedAt": "2026-09-29T18:03:01.000Z"
-    },
-    {
-      "id": "i056ki",
-      "title": "OpenAI’s Dots Are Always-On AI Agents—and Its Answer to Meta’s Muse",
-      "summary": "These cute agents are designed to connect to your apps and tackle multistep tasks.",
-      "imageUrl": "https://media.wired.com/photos/6abbcee9422fade848ea964d/master/pass/Dots%20Hero%20Image.png",
-      "source": "Wired",
-      "sourceUrl": "https://www.wired.com/story/openai-dots-always-on-ai-agents-that-proactively-help/",
-      "publishedAt": "2026-09-29T17:15:00.000Z"
-    },
-    {
       "id": "sh660j",
       "title": "The Download: climate tech companies to watch and AI’s discovery problem",
       "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. Coming soon: our 2026 list of Climate Tech Companies to Watch With the planet nearing 1.5 °C of warming, climate policies being unraveled, and Big Tech backpedaling on its climate ambitions,…",
@@ -415,33 +442,6 @@
       "source": "MIT Tech Review",
       "sourceUrl": "https://www.technologyreview.com/2026/09/29/1145249/the-download-climate-tech-ai-scientific-discovery/",
       "publishedAt": "2026-09-29T12:10:00.000Z"
-    },
-    {
-      "id": "wepm7n",
-      "title": "Coming soon: Our 2026 list of Climate Tech Companies to Watch",
-      "summary": "Earlier this month, the UN announced the planet will tip past 1.5 ˚C of warming, “likely within the next few years,” squashing any lingering hope that nations would cut emissions fast enough to achieve the loftiest goal of the Paris climate agreement. In the US, the world’s second-largest-emitting country, its leader continues to deny climate…",
-      "imageUrl": "https://images.unsplash.com/photo-1655720828018-edd2daec9349?w=800&q=80",
-      "source": "MIT Tech Review",
-      "sourceUrl": "https://www.technologyreview.com/2026/09/29/1145183/2026-climate-tech-companies-to-watch-preview/",
-      "publishedAt": "2026-09-29T11:00:00.000Z"
-    },
-    {
-      "id": "xexvc7",
-      "title": "Making AI an asset, not an expense",
-      "summary": "When customers talk about AI costs, the conversation usually starts with token prices and ends with access to the latest, most capable model in the cloud. Do they always need that level of capability? Not necessarily. But that is often where the conversation goes. As AI moves from experimentation to production, model choice is only…",
-      "imageUrl": "https://images.unsplash.com/photo-1676299081847-824916de030a?w=800&q=80",
-      "source": "MIT Tech Review",
-      "sourceUrl": "https://www.technologyreview.com/2026/09/29/1145186/making-ai-an-asset-not-an-expense/",
-      "publishedAt": "2026-09-29T10:43:45.000Z"
-    },
-    {
-      "id": "lbnoyy",
-      "title": "OpenAI Delays Release of Latest Model Over Safety Concerns",
-      "summary": "The company said its latest Astra model would undergo more work to meet safety standards, and issued an apology for the way it handled the hacking of an Australian government website.",
-      "imageUrl": "https://media.wired.com/photos/6abb79f89de9cbda7c9ca7ba/master/pass/092926-OpenAI%20Scrap.jpg",
-      "source": "Wired",
-      "sourceUrl": "https://www.wired.com/story/openai-delays-release-of-latest-model-over-safety-concerns/",
-      "publishedAt": "2026-09-29T10:36:22.000Z"
     },
     {
       "id": "4xlikp",
