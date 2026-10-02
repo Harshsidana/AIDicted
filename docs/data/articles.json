@@ -1,7 +1,34 @@
 {
-  "fetchedAt": "2026-10-02T02:30:41.328Z",
+  "fetchedAt": "2026-10-02T09:36:05.988Z",
   "count": 60,
   "articles": [
+    {
+      "id": "hco1zl",
+      "title": "Health Care Workers Are Tired of Cleaning Up Palantir’s Mess",
+      "summary": "A hospital giant and radiology network turned to Palantir to streamline scheduling, but nurses and other staff say the new software is causing errors, burnout, and frustration.",
+      "imageUrl": "https://media.wired.com/photos/6abeb2ae10b6b4f5a5628f89/master/pass/Palantir-Nurse-Strike-e2fab562-387a-496b-b88c-027860c47584.jpg",
+      "source": "Wired",
+      "sourceUrl": "https://www.wired.com/story/healthcare-workers-are-tired-of-cleaning-up-palantirs-mess/",
+      "publishedAt": "2026-10-02T09:30:00.000Z"
+    },
+    {
+      "id": "cor1o",
+      "title": "A new contest pits competitors against each other in a race to biological youth",
+      "summary": "This week, I officially signed up for an unusual competition. One that rewards competitors for getting younger. I recently turned 40, and I don’t need reminding that both time and my chronological age only tick forward. But this game is focused on competitors’ biological ages—figures that are meant to provide a better way to measure…",
+      "imageUrl": "https://images.unsplash.com/photo-1676299081847-824916de030a?w=800&q=80",
+      "source": "MIT Tech Review",
+      "sourceUrl": "https://www.technologyreview.com/2026/10/02/1145610/younger-contest-race-to-biological-youth/",
+      "publishedAt": "2026-10-02T09:00:00.000Z"
+    },
+    {
+      "id": "vvyoc4",
+      "title": "Don’t be fooled—LLMs don’t reason",
+      "summary": "On an afternoon in Seoul in March 2016, I watched a program I helped build put a stone on the fifth line of a Go board in what looked like a gift to its human opponent. Move 37 in game two of the five-game match looked so absurd that some commentators thought it was a…",
+      "imageUrl": "https://images.unsplash.com/photo-1526374965328-7f61d4dc18c5?w=800&q=80",
+      "source": "MIT Tech Review",
+      "sourceUrl": "https://www.technologyreview.com/2026/10/02/1145639/dont-be-fooled-llms-dont-reason/",
+      "publishedAt": "2026-10-02T08:00:00.000Z"
+    },
     {
       "id": "wo5vqd",
       "title": "Whatever AI Safety Is, It’s Not This",
@@ -415,33 +442,6 @@
       "source": "Wired",
       "sourceUrl": "https://www.wired.com/story/openai-delays-release-of-latest-model-over-safety-concerns/",
       "publishedAt": "2026-09-29T10:36:22.000Z"
-    },
-    {
-      "id": "iuq2m2",
-      "title": "Timnit Gebru Believes There Is No ‘Existential Threat’ From AI",
-      "summary": "One of AI’s fiercest critics believes the doom talk is about founders making money, not saving humanity.",
-      "imageUrl": "https://media.wired.com/photos/6ab58bd8630fd3fdf523eab4/master/pass/Big-Interview-UV-Solo-Timnit-Gebru-2266305419-Business.jpg",
-      "source": "Wired",
-      "sourceUrl": "https://www.wired.com/story/the-big-interview-podcast-timnit-gebru/",
-      "publishedAt": "2026-09-29T10:30:00.000Z"
-    },
-    {
-      "id": "jz6bvp",
-      "title": "Roundtables: The Deadly Failures of The Virtual Border Wall",
-      "summary": "Listen to the session or watch below The US has spent billions building a “virtual wall” of surveillance towers along its southern border over the past 25 years, promising they will help detect and apprehend border crossers and save lives. But a groundbreaking investigation by MIT Technology Review has documented over a thousand people who…",
-      "imageUrl": "https://images.unsplash.com/photo-1550751827-4bd374c3f58b?w=800&q=80",
-      "source": "MIT Tech Review",
-      "sourceUrl": "https://www.technologyreview.com/2026/09/28/1144890/roundtables-the-deadly-failures-of-the-virtual-border-wall/",
-      "publishedAt": "2026-09-28T22:17:07.000Z"
-    },
-    {
-      "id": "nkapd",
-      "title": "When can we say AI made a scientific discovery?",
-      "summary": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here. Last Wednesday, Anthropic announced that earlier this year it had launched a molecular biology lab, where Claude agents read and conjecture about hard biology problems and human scientists run experiments on what…",
-      "imageUrl": "https://images.unsplash.com/photo-1620712943543-bcc4688e7485?w=800&q=80",
-      "source": "MIT Tech Review",
-      "sourceUrl": "https://www.technologyreview.com/2026/09/28/1145230/when-can-we-say-ai-made-a-scientific-discovery/",
-      "publishedAt": "2026-09-28T17:03:16.000Z"
     },
     {
       "id": "4xlikp",
