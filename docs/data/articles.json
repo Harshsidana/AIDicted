@@ -1,7 +1,43 @@
 {
-  "fetchedAt": "2026-10-03T11:29:56.961Z",
+  "fetchedAt": "2026-10-03T15:13:33.203Z",
   "count": 60,
   "articles": [
+    {
+      "id": "3rnnes",
+      "title": "Splice CEO Kakul Srivastava thinks AI emails are killing conversations",
+      "summary": "Kakul Srivastava is the CEO of Splice, the sample platform countless producers rely on for one-shots and melodic loops. Samples pulled from the service have found their way into massive hits like Lisa's \"Money\" and \"Espresso\" by Sabrina Carpenter. (The original samples are here and here, for the curious.) Before that, Kakul held executive roles at Flickr, Yahoo, GitHub, and Adobe. Throughout her career, Kakul has found herself at the intersection of Silicon Valley and creatives. That's been…",
+      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/IMG_3820.png?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "source": "The Verge",
+      "sourceUrl": "https://www.theverge.com/entertainment/1004162/splice-ceo-kakul-srivastava-ai-interview",
+      "publishedAt": "2026-10-03T15:00:00.000Z"
+    },
+    {
+      "id": "bu4218",
+      "title": "An OpenAI safety employee has quit and is sounding the alarm",
+      "summary": "David Robinson used to write the safety reports that accompanied every major model release at OpenAI. This week, he resigned from his position and is now speaking out in an editorial in The Atlantic. It's understandable if you're feeling a bit cynical about everyone suddenly coming out of the woodwork to warn about how dangerous the thing they helped build is. They did, after all, make this mess. But that doesn't mean we should discount their warnings. Robinson says that the culture in industry…",
+      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/08/STK149_AI_01.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "source": "The Verge",
+      "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/1004408/openai-safety-quits-sounding-the-alarm",
+      "publishedAt": "2026-10-03T14:31:56.000Z"
+    },
+    {
+      "id": "1yi8c2",
+      "title": "All the AI agents that can live in your text messages",
+      "summary": "We created a list of the most notable AI agents that can live in your text messages, from general assistants to agents designed for families, travel, and work.",
+      "imageUrl": "https://images.unsplash.com/photo-1676299081847-824916de030a?w=800&q=80",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/10/03/all-the-ai-agents-that-can-live-in-your-text-messages/",
+      "publishedAt": "2026-10-03T14:00:00.000Z"
+    },
+    {
+      "id": "9tz1mj",
+      "title": "Muse Creates Detailed Profiles of All Your Friends and Family",
+      "summary": "Millions have downloaded Meta’s AI agent Muse. But getting it to do your bidding comes with privacy costs.",
+      "imageUrl": "https://media.wired.com/photos/6abda258fa5a1bd6e2b21507/master/pass/Kernel-Panic-Muse-AI-Self-PWN-Security.jpg",
+      "source": "Wired",
+      "sourceUrl": "https://www.wired.com/story/muse-creates-detailed-profiles-of-all-your-friends-and-family/",
+      "publishedAt": "2026-10-03T12:00:00.000Z"
+    },
     {
       "id": "w3rd3z",
       "title": "Meta wants your next gadget to be Muse-infused",
@@ -291,15 +327,6 @@
       "publishedAt": "2026-10-01T19:58:31.000Z"
     },
     {
-      "id": "ok5z9w",
-      "title": "Google’s new Guided Vision feature can help you read the fine print",
-      "summary": "Guided Vision is launching in Gemini Live on compatible Android devices today to use AI to give real-time audio descriptions of anything you point your phone's camera at. By sharing your camera in Gemini Live, you can have Google's AI help with things like reading small text, describing your surroundings, finding or identifying objects around you, and describing details on specific objects. Like the VoiceOver Live Recognition feature Apple has added to the iPhone and Vision Pro, it's designed…",
-      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/02/STK255_Google_Gemini_B_474198.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "source": "The Verge",
-      "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/1003756/google-gemini-live-guided-vision",
-      "publishedAt": "2026-10-01T19:47:51.000Z"
-    },
-    {
       "id": "vrouge",
       "title": "ChatGPT can now virtually try on clothes for you",
       "summary": "OpenAI is rolling out new shopping features for ChatGPT that let users virtually try on clothing and accessories using their own photos and save products they like to a Favorites library.",
@@ -318,15 +345,6 @@
       "publishedAt": "2026-10-01T19:18:03.000Z"
     },
     {
-      "id": "fe6snh",
-      "title": "OpenAI cuts ties with 3 safety researchers, WSJ reports",
-      "summary": "OpenAI has parted ways with three safety researchers after an internal investigation found they mishandled sensitive company information, report says.",
-      "imageUrl": "https://images.unsplash.com/photo-1620712943543-bcc4688e7485?w=800&q=80",
-      "source": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/10/01/openai-cuts-ties-with-three-safety-researchers-wsj-reports/",
-      "publishedAt": "2026-10-01T18:14:42.000Z"
-    },
-    {
       "id": "ngcqid",
       "title": "Memory executives expect RAM shortage to continue through 2028",
       "summary": "Prices for memory sold for 2027 \"are much higher than 2026 prices.\"",
@@ -334,15 +352,6 @@
       "source": "Ars Technica",
       "sourceUrl": "https://arstechnica.com/information-technology/2026/10/memory-supplies-are-only-getting-tighter-micron-ceo-says/",
       "publishedAt": "2026-10-01T17:49:56.000Z"
-    },
-    {
-      "id": "7mmbue",
-      "title": "Judge dismisses antitrust lawsuits over Google’s AI Overviews",
-      "summary": "A federal judge has dismissed a pair of antitrust lawsuits filed by Chegg and Rolling Stone parent company Penske Media Corporation, which accused Google of driving away web traffic with its AI-powered search features, as reported earlier by Reuters. US District Judge Amit Mehta takes Google's side in a ruling on Wednesday, writing that PMC and Chegg's claims don't stand up to antitrust law. In lawsuits filed last year, Chegg and PMC accused Google of abusing its monopoly power by coercing…",
-      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/02/STK093_GOOGLE_A.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "source": "The Verge",
-      "sourceUrl": "https://www.theverge.com/tech/1003589/google-ai-overviews-chegg-penske-lawsuits-dismissed",
-      "publishedAt": "2026-10-01T17:12:21.000Z"
     },
     {
       "id": "93l9rp",
@@ -433,15 +442,6 @@
       "source": "MIT Tech Review",
       "sourceUrl": "https://www.technologyreview.com/2026/09/30/1145339/were-not-going-to-shoot-ourselves-in-the-foot-over-hugging-face-says-openais-chief-research-officer/",
       "publishedAt": "2026-09-30T10:40:30.000Z"
-    },
-    {
-      "id": "pcq851",
-      "title": "OpenAI Gets Sued Over the Hugging Face Hack",
-      "summary": "A nonprofit in California is doing what Hugging Face has not—attempting to hold OpenAI legally accountable for the actions of its agents.",
-      "imageUrl": "https://media.wired.com/photos/6abbb935c1a080d8e4e23844/master/pass/GettyImages-2265991617.jpg",
-      "source": "Wired",
-      "sourceUrl": "https://www.wired.com/story/openai-sued-over-the-hugging-face-hack/",
-      "publishedAt": "2026-09-29T19:05:00.000Z"
     },
     {
       "id": "sh660j",
