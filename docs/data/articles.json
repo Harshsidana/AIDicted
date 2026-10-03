@@ -1,7 +1,43 @@
 {
-  "fetchedAt": "2026-10-03T15:13:33.203Z",
+  "fetchedAt": "2026-10-03T22:04:52.121Z",
   "count": 60,
   "articles": [
+    {
+      "id": "xv9i2l",
+      "title": "Amazon responds to data center backlash, says it no longer uses NDAs",
+      "summary": "The CEO of Amazon Web Services tried to push back against widespread suspicion of data centers.",
+      "imageUrl": "https://images.unsplash.com/photo-1526374965328-7f61d4dc18c5?w=800&q=80",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/10/03/amazon-responds-to-data-center-backlash-says-it-no-longer-uses-ndas/",
+      "publishedAt": "2026-10-03T18:43:57.000Z"
+    },
+    {
+      "id": "fvyew1",
+      "title": "The Nvidia Shield TV Is 7 Years Old. It Just Got a $100 Price Hike",
+      "summary": "The price of anything with memory is skyrocketing thanks to AI. Aging streaming devices are no exception.",
+      "imageUrl": "https://media.wired.com/photos/6ac00d9bc910b804171a679e/master/pass/GettyImages-474968764.jpg",
+      "source": "Wired",
+      "sourceUrl": "https://www.wired.com/story/7-year-old-tv-now-100-dollars-more-expensive-thank-ai/",
+      "publishedAt": "2026-10-03T18:00:00.000Z"
+    },
+    {
+      "id": "ylbwl7",
+      "title": "Capcom is preparing for a ‘future where we create games together with AI’",
+      "summary": "Capcom's Pragmata might be all about the horrors of AI, but in practice the studio doesn't seem so down on the tech. During the Capcom Open Conference RE: 2026 programmer Satoshi Ishida gave a presentation with the mouthful of a title: \"The Outlook and Future of the REX Project, Further Evolving the RE Engine for the Next Generation.\" During the talk he laid out the challenges facing studios producing games at the scale of Resident Evil, which can make even simple tasks extremely time consuming.…",
+      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/02/RE9_SS_08.png?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "source": "The Verge",
+      "sourceUrl": "https://www.theverge.com/games/1004418/capcom-ai-game-development",
+      "publishedAt": "2026-10-03T16:49:10.000Z"
+    },
+    {
+      "id": "uwzkvd",
+      "title": "OpenAI safety employee resigns, claiming the company’s ‘culture is broken’",
+      "summary": "By his own admission, David Robinson is “something of a cliché”: an employee at a leading AI company who issues a dire warning while resigning from their job.",
+      "imageUrl": "https://images.unsplash.com/photo-1485827404703-89b55fcc595e?w=800&q=80",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/10/03/openai-safety-employee-resigns-claiming-the-companys-culture-is-broken/",
+      "publishedAt": "2026-10-03T16:30:01.000Z"
+    },
     {
       "id": "3rnnes",
       "title": "Splice CEO Kakul Srivastava thinks AI emails are killing conversations",
@@ -255,15 +291,6 @@
       "publishedAt": "2026-10-02T09:45:00.000Z"
     },
     {
-      "id": "q1gf8o",
-      "title": "AI music maker Suno now generates spoken words",
-      "summary": "Suno is branching out from the world of AI music, launching a new feature that generates spoken voices based on scripts or prompted descriptions. Speech is now available in public beta across Suno's web and mobile platforms, and allows you to simultaneously generate voiceovers and background music to accompany them. \"Music will always be at the heart of Suno and what we build. At the same time, our vision has always extended to other forms of human expression,\" Suno chief product officer, Jack…",
-      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/Suno-AI-voices.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "source": "The Verge",
-      "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/1003925/suno-speech-ai-voice-feature-beta-availability",
-      "publishedAt": "2026-10-02T09:42:19.000Z"
-    },
-    {
       "id": "8rc4hg",
       "title": "AI Is Making a Mess of Nurses’ Schedules. They Say It’s a Safety Issue",
       "summary": "A hospital giant and radiology network turned to Palantir to streamline scheduling, but nurses and other staff say the new software is causing errors, burnout, and frustration.",
@@ -327,24 +354,6 @@
       "publishedAt": "2026-10-01T19:58:31.000Z"
     },
     {
-      "id": "vrouge",
-      "title": "ChatGPT can now virtually try on clothes for you",
-      "summary": "OpenAI is rolling out new shopping features for ChatGPT that let users virtually try on clothing and accessories using their own photos and save products they like to a Favorites library.",
-      "imageUrl": "https://images.unsplash.com/photo-1655720828018-edd2daec9349?w=800&q=80",
-      "source": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/10/01/chatgpt-can-now-virtually-try-on-clothes-for-you/",
-      "publishedAt": "2026-10-01T19:21:53.000Z"
-    },
-    {
-      "id": "4k5usx",
-      "title": "Google thinks SpaceX’s Starship has to launch 1,800 times before space data centers get off the ground",
-      "summary": "Google launched its first advanced chip into orbit to pave the way for space data centers.",
-      "imageUrl": "https://images.unsplash.com/photo-1531746790095-6c10a4031c5f?w=800&q=80",
-      "source": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/10/01/google-thinks-spacexs-starship-has-to-launch-1600-times-before-space-data-centers-get-off-the-ground/",
-      "publishedAt": "2026-10-01T19:18:03.000Z"
-    },
-    {
       "id": "ngcqid",
       "title": "Memory executives expect RAM shortage to continue through 2028",
       "summary": "Prices for memory sold for 2027 \"are much higher than 2026 prices.\"",
@@ -406,15 +415,6 @@
       "source": "Wired",
       "sourceUrl": "https://www.wired.com/story/ai-agents-dots-devday-muse-battling-it-out/",
       "publishedAt": "2026-09-30T19:30:00.000Z"
-    },
-    {
-      "id": "258c6k",
-      "title": "There Are Plenty of Reasons to Be Concerned About Bioweapons Development—Even Without AI",
-      "summary": "In her new book on biological warfare, Annie Jacobsen didn’t even discuss AI because scientists can already warp Mother Nature to create extinction-level events.",
-      "imageUrl": "https://media.wired.com/photos/6abc561adcf8a088a1995737/master/pass/science_biological_weapons_ai.jpg",
-      "source": "Wired",
-      "sourceUrl": "https://www.wired.com/story/you-dont-need-ai-to-be-concerned-about-bioweapons-development-but-it-helps/",
-      "publishedAt": "2026-09-30T19:00:00.000Z"
     },
     {
       "id": "4gdg2j",
