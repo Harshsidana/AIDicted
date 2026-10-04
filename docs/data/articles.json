@@ -1,7 +1,16 @@
 {
-  "fetchedAt": "2026-10-04T08:18:56.176Z",
+  "fetchedAt": "2026-10-04T14:18:32.244Z",
   "count": 60,
   "articles": [
+    {
+      "id": "gemry8",
+      "title": "Rural Data Centers Are in for a Big Federal Tax Break",
+      "summary": "Under the One Big Beautiful Bill Act, data center projects in rural areas could be eligible for major tax benefits starting next year. Some hyperscalers do not seem eager to take the free cash.",
+      "imageUrl": "https://media.wired.com/photos/6abfbb7863cea41649272752/master/pass/100226-Power%20Play.jpg",
+      "source": "Wired",
+      "sourceUrl": "https://www.wired.com/story/rural-data-centers-are-in-for-a-big-federal-tax-break/",
+      "publishedAt": "2026-10-04T10:00:00.000Z"
+    },
     {
       "id": "xv9i2l",
       "title": "Amazon responds to data center backlash, says it no longer uses NDAs",
@@ -406,15 +415,6 @@
       "source": "Wired",
       "sourceUrl": "https://www.wired.com/story/trumps-ai-safety-accord-is-a-fancy-pinky-swear/",
       "publishedAt": "2026-09-30T20:30:09.000Z"
-    },
-    {
-      "id": "2hj28d",
-      "title": "The Battle to Be Your Personal AI Agent Is Here",
-      "summary": "OpenAI's Dots and Meta's Muse are vying to be your AI agent of choice. I've tried both—and I suspect you will too.",
-      "imageUrl": "https://media.wired.com/photos/6abc30af03c559dbc086f308/master/pass/AI-Lab-AI-Agent-War-Business.jpg",
-      "source": "Wired",
-      "sourceUrl": "https://www.wired.com/story/ai-agents-dots-devday-muse-battling-it-out/",
-      "publishedAt": "2026-09-30T19:30:00.000Z"
     },
     {
       "id": "4gdg2j",
