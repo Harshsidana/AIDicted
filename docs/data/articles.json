@@ -1,7 +1,196 @@
 {
-  "fetchedAt": "2026-10-06T09:20:27.306Z",
+  "fetchedAt": "2026-10-06T16:11:54.503Z",
   "count": 60,
   "articles": [
+    {
+      "id": "n8rbxu",
+      "title": "Anthropic is giving startups a free year of Claude Team and $1,000 in credits",
+      "summary": "\"We created this program because we believe the benefits of AI will reach most people through the companies that build on top of models, rather than through the models alone.\"",
+      "imageUrl": "https://images.unsplash.com/photo-1620712943543-bcc4688e7485?w=800&q=80",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/10/06/anthropic-gives-startups-a-free-year-of-enterprise-service-and-1000-in-token-credits/",
+      "publishedAt": "2026-10-06T16:00:00.000Z"
+    },
+    {
+      "id": "d379js",
+      "title": "LibreOffice says ‘no AI’ is now a software feature",
+      "summary": "The maker of the open source document editor says it has no plans to add AI to its software's default configuration, citing user privacy.",
+      "imageUrl": "https://images.unsplash.com/photo-1526374965328-7f61d4dc18c5?w=800&q=80",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/10/06/libreoffice-says-no-ai-is-now-a-software-feature/",
+      "publishedAt": "2026-10-06T15:25:00.000Z"
+    },
+    {
+      "id": "7ikb38",
+      "title": "Mistral’s new 1T model aims to leapfrog closed and open rivals",
+      "summary": "French AI lab Mistral AI has released Mistral Large 4, a new large multimodal model aiming to leapfrog both American and Chinese rivals.",
+      "imageUrl": "https://images.unsplash.com/photo-1655720828018-edd2daec9349?w=800&q=80",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/10/06/mistrals-new-1t-model-aims-to-leapfrog-closed-and-open-rivals/",
+      "publishedAt": "2026-10-06T14:33:16.000Z"
+    },
+    {
+      "id": "b7csfe",
+      "title": "Pinterest’s AI now turns beauty Pins into action plans",
+      "summary": "Pinterest’s new AI-powered Beauty Guides translate hair and nail Pins into salon terminology, with estimated costs, appointment times, and maintenance needs.",
+      "imageUrl": "https://images.unsplash.com/photo-1676299081847-824916de030a?w=800&q=80",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/10/06/pinterests-ai-now-turns-beauty-pins-into-action-plans/",
+      "publishedAt": "2026-10-06T14:00:49.000Z"
+    },
+    {
+      "id": "krmakr",
+      "title": "Get all your questions answered at TechCrunch Disrupt 2026: The full breakout session agenda revealed",
+      "summary": "Get all of your scaling and tech questions answered at TechCrunch Disrupt 2026. Here's the full breakout session agenda, happening October 13-15 in San Francisco. Register now to join and save up to $100, and get a second pass at 50% off.",
+      "imageUrl": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=800&q=80",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/10/06/get-all-your-questions-answered-at-techcrunch-disrupt-2026-the-full-breakout-session-agenda-revealed/",
+      "publishedAt": "2026-10-06T14:00:00.000Z"
+    },
+    {
+      "id": "vyo6ub",
+      "title": "Google is about to remove free access to Gemini Flash and Pro",
+      "summary": "Starting on October 9th, anyone using Google Gemini on a free plan will be limited to the Flash Lite model. Free users can currently choose from Gemini Flash Lite, Flash, and Pro, but now you'll need a $4.99/month Google AI Plus subscription to access the standard Flash model. However, that subscription is also getting a downgrade - it will soon no longer include Gemini Pro. Google says AI Plus subscribers will receive an email letting them know when they'll lose access to it. After these…",
+      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25290329/STK255_Google_Gemini_A.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "source": "The Verge",
+      "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/1005451/google-gemini-free-flash-lite-only",
+      "publishedAt": "2026-10-06T13:19:01.000Z"
+    },
+    {
+      "id": "idsqhc",
+      "title": "Mistral Says Its New AI Model ‘Le Chonk’ Is the Best Open-Weight Offering Outside of China",
+      "summary": "With the release of its new trillion-parameter model, Mistral is hoping to demonstrate it’s “still in the race” to build frontier-level artificial intelligence.",
+      "imageUrl": "https://media.wired.com/photos/6ac4f176165d7d326c8d86b1/master/pass/GettyImages-2277901311.jpg",
+      "source": "Wired",
+      "sourceUrl": "https://www.wired.com/story/mistral-new-model-le-chonk-open-source-china-us-frontier/",
+      "publishedAt": "2026-10-06T13:15:23.000Z"
+    },
+    {
+      "id": "f6arck",
+      "title": "OpenAI agents tried to hack Wikipedia tools and flooded it with traffic",
+      "summary": "The reports of OpenAI agents harming 3rd party sites keep coming.",
+      "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/ai-agentic-hacking-1152x648.jpg",
+      "source": "Ars Technica",
+      "sourceUrl": "https://arstechnica.com/security/2026/10/openai-agents-tried-to-hack-wikipedia-tools-and-flooded-it-with-traffic/",
+      "publishedAt": "2026-10-06T12:21:53.000Z"
+    },
+    {
+      "id": "knqfpc",
+      "title": "The Download: 10 climate tech companies to watch",
+      "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. 10 climate tech companies to watch Each year, MIT Technology Review puts together a list of the most promising climate tech companies in the world. This year, the stakes feel higher…",
+      "imageUrl": "https://images.unsplash.com/photo-1676299081847-824916de030a?w=800&q=80",
+      "source": "MIT Tech Review",
+      "sourceUrl": "https://www.technologyreview.com/2026/10/06/1145796/the-download-10-climate-tech-companies-to-watch/",
+      "publishedAt": "2026-10-06T12:10:00.000Z"
+    },
+    {
+      "id": "lmy08n",
+      "title": "Licensing costs driving 90 percent of VMware users to explore options: Survey",
+      "summary": "Users want to \"reduce risk and avoid unnecessary disruption\" while making changes.",
+      "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2026/04/GettyImages-1934095718-1152x648.jpg",
+      "source": "Ars Technica",
+      "sourceUrl": "https://arstechnica.com/information-technology/2026/10/operational-complexity-a-top-barrier-for-vmware-migrations-survey/",
+      "publishedAt": "2026-10-06T12:00:31.000Z"
+    },
+    {
+      "id": "khf35y",
+      "title": "Amazon Alexa Plus keeps creepily singing ‘lalala’ for minutes on end",
+      "summary": "The Amazon Echo Studio is one of the speakers that runs Alexa Plus. | Photo by John Higgins / The Verge An unsettling Alexa Plus bug has seen some Amazon Echo smart home speakers reduced to saying - and sometimes singing - nothing but \"lalala\" on repeat for minutes at a time, often in the middle of conversations with users. When quizzed about the behavior, Alexa is apparently entirely unaware of what it's been doing. The issue has been reported on Reddit repeatedly over the last few weeks, as…",
+      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/10/258035_Alexa_Studio_2025_JHiggins_0017.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "source": "The Verge",
+      "sourceUrl": "https://www.theverge.com/tech/1005342/amazon-alexa-plus-keeps-creepily-singing-lalala-for-minutes-on-end",
+      "publishedAt": "2026-10-06T10:53:11.000Z"
+    },
+    {
+      "id": "zwx2m",
+      "title": "2026 Climate Tech Companies to Watch",
+      "summary": "Read the full article from MIT Tech Review.",
+      "imageUrl": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=800&q=80",
+      "source": "MIT Tech Review",
+      "sourceUrl": "https://www.technologyreview.com/2026/10/06/1143800/2026-climate-tech-companies-to-watch/",
+      "publishedAt": "2026-10-06T10:35:00.000Z"
+    },
+    {
+      "id": "5d5g4q",
+      "title": "Here’s how our climate team picked 10 promising companies to watch",
+      "summary": "As the team at MIT Technology Review set out to choose companies for this year’s edition of our annual list of Climate Tech Companies to Watch, the challenge felt more daunting than any year since we started compiling the list in 2023. This year is shaping up to be one of the hottest ever recorded.…",
+      "imageUrl": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=800&q=80",
+      "source": "MIT Tech Review",
+      "sourceUrl": "https://www.technologyreview.com/2026/10/06/1144978/2026-climate-tech-companies-to-watch-how-we-chose/",
+      "publishedAt": "2026-10-06T10:35:00.000Z"
+    },
+    {
+      "id": "nun0x",
+      "title": "WeLion New Energy and its semi-solid-state batteries",
+      "summary": "WeLion New Energy is on a quest to make safer, better batteries. The company’s semi-solid-state cells could improve safety and offer greater energy density than lithium-ion batteries to power electric cars, boats, and drones. From the EVs that carry commuters home to the ships that transport goods across countries, more and more vehicles around us…",
+      "imageUrl": "https://images.unsplash.com/photo-1676299081847-824916de030a?w=800&q=80",
+      "source": "MIT Tech Review",
+      "sourceUrl": "https://www.technologyreview.com/2026/10/06/1144987/2026-climate-tech-companies-to-watch-welion-semi-solid-state-batteries/",
+      "publishedAt": "2026-10-06T10:35:00.000Z"
+    },
+    {
+      "id": "prv6qh",
+      "title": "Form Energy and its iron batteries",
+      "summary": "Form Energy is building iron-based batteries that can store energy for multiple days. The company is ramping up supply at its factory and signing deals for commercial projects. New solar and wind installations produce electricity more affordably than fossil fuels in most places, but their output varies based on season, time of day, and weather.…",
+      "imageUrl": "https://images.unsplash.com/photo-1526374965328-7f61d4dc18c5?w=800&q=80",
+      "source": "MIT Tech Review",
+      "sourceUrl": "https://www.technologyreview.com/2026/10/06/1145020/2026-climate-tech-companies-to-watch-form-energy-iron-batteries/",
+      "publishedAt": "2026-10-06T10:35:00.000Z"
+    },
+    {
+      "id": "9qrgna",
+      "title": "X-energy and its helium-cooled nuclear reactors",
+      "summary": "X-energy is developing small modular reactors to satisfy some of the planet’s most power-hungry users: industrial manufacturers that need high temperatures to produce billions of tons of concrete, plastics, fibers, and chemicals. Solar panels and wind turbines are great at producing electricity but what heavy industry also needs is raw heat—and lots of it. The manufacture…",
+      "imageUrl": "https://images.unsplash.com/photo-1526374965328-7f61d4dc18c5?w=800&q=80",
+      "source": "MIT Tech Review",
+      "sourceUrl": "https://www.technologyreview.com/2026/10/06/1145025/2026-climate-tech-companies-to-watch-x-energy-helium-cooled-nuclear-reactors/",
+      "publishedAt": "2026-10-06T10:35:00.000Z"
+    },
+    {
+      "id": "siam5h",
+      "title": "Energy Dome and its carbon dioxide batteries",
+      "summary": "There’s a growing need for long-duration storage to meet energy demand and balance out renewables on the grid. Energy Dome uses compressed carbon dioxide gas in its massive grid batteries, which can deliver power for up to 24 hours. As the world races to meet growing electricity demand, solar and onshore wind power have become…",
+      "imageUrl": "https://images.unsplash.com/photo-1526374965328-7f61d4dc18c5?w=800&q=80",
+      "source": "MIT Tech Review",
+      "sourceUrl": "https://www.technologyreview.com/2026/10/06/1145032/2026-climate-tech-companies-to-watch-energy-dome-carbon-dioxide-batteries/",
+      "publishedAt": "2026-10-06T10:35:00.000Z"
+    },
+    {
+      "id": "m659en",
+      "title": "Brimstone and its one-stop process for making cleaner cement and critical minerals",
+      "summary": "Brimstone is making strides on two industrial problems, reducing the emissions from cement and providing a way to produce more critical minerals within the US. If the company can do both, with the same rocks in the same plant, it would unlock a cleaner and more efficient process for manufacturing building materials, aluminum, steel, and…",
+      "imageUrl": "https://images.unsplash.com/photo-1655720828018-edd2daec9349?w=800&q=80",
+      "source": "MIT Tech Review",
+      "sourceUrl": "https://www.technologyreview.com/2026/10/06/1145172/2026-climate-tech-companies-to-watch-brimstone-one-stop-process-making-cleaner-cement-critical-minerals/",
+      "publishedAt": "2026-10-06T10:35:00.000Z"
+    },
+    {
+      "id": "1bvxd7",
+      "title": "WaveSave and its portable rubber dam",
+      "summary": "As sea levels rise and flood risks worsen due to global warming, WaveSave’s easy-to-erect portable dam offers a quick-response tool. People can use the dam to protect themselves and their property, and it can also store freshwater for later use. Communities in Europe, Africa, and Southeast Asia have deployed it successfully. Now, the company is…",
+      "imageUrl": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=800&q=80",
+      "source": "MIT Tech Review",
+      "sourceUrl": "https://www.technologyreview.com/2026/10/06/1145208/2026-climate-tech-companies-to-watch-wavesave-portable-rubber-dam/",
+      "publishedAt": "2026-10-06T10:35:00.000Z"
+    },
+    {
+      "id": "xmxohd",
+      "title": "BasiGo and its fleet of electric buses",
+      "summary": "BasiGo aims to replace the tens of thousands of diesel-powered buses on sub-Saharan African roads with electric ones that generate far fewer emissions. The company’s pay-as-you-drive business model has helped make EVs more attainable and is changing the way public transport operates. In a bid to contain the covid-19 pandemic in 2020, the Kenyan government…",
+      "imageUrl": "https://images.unsplash.com/photo-1676299081847-824916de030a?w=800&q=80",
+      "source": "MIT Tech Review",
+      "sourceUrl": "https://www.technologyreview.com/2026/10/06/1145216/2026-climate-tech-companies-to-watch-basigo-fleet-electric-buses/",
+      "publishedAt": "2026-10-06T10:35:00.000Z"
+    },
+    {
+      "id": "o1p8z0",
+      "title": "Kevin Roose Didn’t Use AI to Write His Book About AI",
+      "summary": "The author of The AGI Chronicles says his book “was written by a very tired, overworked, under-slept human being.”",
+      "imageUrl": "https://media.wired.com/photos/6ac390393e484daf0cf6af34/master/pass/100516-Big%20Interview%20K%20Roose%20Solo.jpg",
+      "source": "Wired",
+      "sourceUrl": "https://www.wired.com/story/the-big-interview-podcast-kevin-roose/",
+      "publishedAt": "2026-10-06T10:30:00.000Z"
+    },
     {
       "id": "lnmt50",
       "title": "Gemini Call for Me might tell your mom you’re running late",
@@ -129,15 +318,6 @@
       "publishedAt": "2026-10-05T16:43:35.000Z"
     },
     {
-      "id": "xo59y8",
-      "title": "Connecting AI agents to enterprise knowledge",
-      "summary": "For all the data that AI systems continually amass and analyze, enterprise AI agents often suffer from a curious shortcoming: a lack of knowledge. More than data, knowledge is the understanding of what the data means in the context of individual organizations. AI agents need this understanding to reason about situations, make decisions, and ultimately…",
-      "imageUrl": "https://images.unsplash.com/photo-1526374965328-7f61d4dc18c5?w=800&q=80",
-      "source": "MIT Tech Review",
-      "sourceUrl": "https://www.technologyreview.com/2026/10/05/1145580/connecting-ai-agents-to-enterprise-knowledge/",
-      "publishedAt": "2026-10-05T15:47:52.000Z"
-    },
-    {
       "id": "wczb0b",
       "title": "OpenAI launches visual ads that appear alongside image generation results",
       "summary": "The new ads will begin to appear later this month in the U.S. only for now, and will feature products and services from an initial test group of advertisers.",
@@ -181,105 +361,6 @@
       "source": "The Verge",
       "sourceUrl": "https://www.theverge.com/podcast/1004286/senator-adam-schiff-ai-trump-regulation-corruption",
       "publishedAt": "2026-10-05T14:30:00.000Z"
-    },
-    {
-      "id": "u4k0ks",
-      "title": "The final Disrupt Stage lineup: Three days of conversations you won’t hear anywhere outside of TechCrunch Disrupt 2026",
-      "summary": "The full TechCrunch Disrupt Stage lineup revealed, featuring Max Hodak, Mark Wahlberg, Benchmark partners, and more. Register now to save up to $100 on your pass and get a second at 50% off.",
-      "imageUrl": "https://images.unsplash.com/photo-1635070041078-e363dbe005cb?w=800&q=80",
-      "source": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/10/05/the-final-disrupt-stage-lineup-three-days-of-conversations-you-wont-hear-anywhere-outside-of-techcrunch-disrupt-2026/",
-      "publishedAt": "2026-10-05T14:00:00.000Z"
-    },
-    {
-      "id": "45gyvs",
-      "title": "An open-source tool lets you delete 12GB of Apple Intelligence data on macOS",
-      "summary": "Getting some extra storage space on your Mac could be as easy as deleting Apple's AI features with a new open-source command line tool called RemoveMacAI. There used to be a single Settings toggle for disabling Apple Intelligence, but that was removed in macOS 27. Now, the models stay on your disk, and the features are split up across different settings panes. As spotted earlier by MacRumors, the RemoveMacAI developer said in a post on Reddit that the tool essentially does what the old settings…",
-      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/highlights_siri_conversations_endframe__d56qnw2oz22q_large_2x.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "source": "The Verge",
-      "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/1004672/mac-delete-apple-intelligence-ai-tool",
-      "publishedAt": "2026-10-05T13:47:14.000Z"
-    },
-    {
-      "id": "emvket",
-      "title": "Bringing predictive analytics to the agentic AI era",
-      "summary": "In 2026, the question for enterprise AI is no longer whether predictive models can outperform statistical forecasts—that argument is settled. The big question now is how to enable predictive systems to act on their own conclusions without drifting from business intent. The frontier has moved from prediction to autonomous decision making, and the gap between…",
-      "imageUrl": "https://images.unsplash.com/photo-1526374965328-7f61d4dc18c5?w=800&q=80",
-      "source": "MIT Tech Review",
-      "sourceUrl": "https://www.technologyreview.com/2026/10/05/1143813/bringing-predictive-analytics-to-the-agentic-ai-era/",
-      "publishedAt": "2026-10-05T13:29:32.000Z"
-    },
-    {
-      "id": "aq6v77",
-      "title": "OpenAI is sticking more ads in ChatGPT",
-      "summary": "OpenAI's latest ad format will put images of sponsored products and services on your screen. The ads, which OpenAI will begin testing in the US later this month, will \"initially\" appear when you generate images with ChatGPT, according to an announcement on Monday. The company first brought ads to ChatGPT in February. Until now, ChatGPT's ads only showed a company's name, logo, and a link to its product in a \"sponsored\" section beneath your chat. OpenAI's visual ad format will similarly remain…",
-      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/chatgpt-visual-ads.webp?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "source": "The Verge",
-      "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/1004655/openai-chatgpt-visual-ads",
-      "publishedAt": "2026-10-05T13:09:48.000Z"
-    },
-    {
-      "id": "21i1q1",
-      "title": "The Download: AI’s popularity paradox and EmTech Future 2026",
-      "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. People really hate AI, so why can’t they get enough? —Will Douglas Heaven Over the summer I talked to the CEO of Springboards, a startup building an LLM designed to come…",
-      "imageUrl": "https://images.unsplash.com/photo-1620712943543-bcc4688e7485?w=800&q=80",
-      "source": "MIT Tech Review",
-      "sourceUrl": "https://www.technologyreview.com/2026/10/05/1145711/the-download-ai-popularity-paradox-emtech-future-2026/",
-      "publishedAt": "2026-10-05T12:10:00.000Z"
-    },
-    {
-      "id": "703o02",
-      "title": "Can Safeworld convince people that GenAI robots won’t hurt them?",
-      "summary": "Safeworld is building digital humans to make sure robots don't hurt the real ones.",
-      "imageUrl": "https://images.unsplash.com/photo-1635070041078-e363dbe005cb?w=800&q=80",
-      "source": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/10/05/can-safeworld-convince-people-that-gen-ai-robots-wont-hurt-them/",
-      "publishedAt": "2026-10-05T12:00:00.000Z"
-    },
-    {
-      "id": "fwidfl",
-      "title": "People really hate AI, so why can’t they get enough?",
-      "summary": "Over the summer I talked to the CEO of Springboards, a startup building an LLM that’s designed to come up with a wider variety of responses than its mainstream rivals do. At the start of the call, he said something that’s been stuck in my head since: “We often say that we’re a self-loathing AI…",
-      "imageUrl": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=800&q=80",
-      "source": "MIT Tech Review",
-      "sourceUrl": "https://www.technologyreview.com/2026/10/05/1145682/people-really-hate-ai-so-why-cant-they-get-enough/",
-      "publishedAt": "2026-10-05T08:00:00.000Z"
-    },
-    {
-      "id": "ndbgis",
-      "title": "EmTech Future 2026: When AI Meets Everything",
-      "summary": "Yossi Matias, Vice President & Head of Google Research, explores how AI is beginning to reshape biology, infrastructure, manufacturing, and science, and why its greatest impact may come when it intersects with other fields. Step inside the newsroom with our MIT Technology Review editors for sharp analysis and unpublished insights from the team that researches…",
-      "imageUrl": "https://images.unsplash.com/photo-1526374965328-7f61d4dc18c5?w=800&q=80",
-      "source": "MIT Tech Review",
-      "sourceUrl": "https://www.technologyreview.com/2026/10/05/1145413/emtech-future-2026-when-ai-meets-everything/",
-      "publishedAt": "2026-10-05T04:00:00.000Z"
-    },
-    {
-      "id": "m7ea2t",
-      "title": "Google froze its open source bug bounty program due to a ‘significant rise’ in AI submissions",
-      "summary": "AI slop seems to be overwhelming bug bounty programs.",
-      "imageUrl": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=800&q=80",
-      "source": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/10/04/google-froze-its-open-source-bug-bounty-program-due-to-a-significant-rise-in-ai-submissions/",
-      "publishedAt": "2026-10-04T20:31:07.000Z"
-    },
-    {
-      "id": "ot1lhr",
-      "title": "Can ‘super intelligence’ and a non-binding safety pact solve AI’s image problem?",
-      "summary": "On Equity, we discussed the Trump administration's attempts to rebrand AI.",
-      "imageUrl": "https://images.unsplash.com/photo-1676299081847-824916de030a?w=800&q=80",
-      "source": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/10/04/can-super-intelligence-and-a-non-binding-safety-pact-solve-ais-image-problem/",
-      "publishedAt": "2026-10-04T20:08:34.000Z"
-    },
-    {
-      "id": "v3lyp3",
-      "title": "Trump unveils his new Super Intelligence Force",
-      "summary": "This new task force is Trump's latest response to the debate over AI safety.",
-      "imageUrl": "https://images.unsplash.com/photo-1655720828018-edd2daec9349?w=800&q=80",
-      "source": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/10/04/trump-unveils-his-new-super-intelligence-force/",
-      "publishedAt": "2026-10-04T15:15:10.000Z"
     },
     {
       "id": "gemry8",
@@ -327,15 +408,6 @@
       "publishedAt": "2026-10-02T16:00:00.000Z"
     },
     {
-      "id": "tcabjg",
-      "title": "Redefining enterprise intelligence with autonomous AI",
-      "summary": "Enterprise AI is no longer a future ambition. It is in full operational flight. Model capabilities are advancing faster than most organizations can absorb, while the cost of performance continues to fall. Globally, AI investment is set to reach $2.5 trillion in 2026, up 44% from the previous year. For many enterprises, this investment has…",
-      "imageUrl": "https://images.unsplash.com/photo-1485827404703-89b55fcc595e?w=800&q=80",
-      "source": "MIT Tech Review",
-      "sourceUrl": "https://www.technologyreview.com/2026/10/02/1143774/redefining-enterprise-intelligence-with-autonomous-ai/",
-      "publishedAt": "2026-10-02T15:49:04.000Z"
-    },
-    {
       "id": "c8g5ok",
       "title": "Trump’s Crazy AI Rebrand Was a Loyalty Test for Tech Execs—and It Worked",
       "summary": "For years these billionaires gushed obsessively about AI. But they meekly went along when Trump canceled the term.",
@@ -343,15 +415,6 @@
       "source": "Wired",
       "sourceUrl": "https://www.wired.com/story/trumps-crazy-ai-rebrand-was-a-loyalty-test-for-tech-execs-and-it-worked/",
       "publishedAt": "2026-10-02T15:00:00.000Z"
-    },
-    {
-      "id": "vr2tw",
-      "title": "The Download: a biological de-aging contest and why LLMs don’t reason",
-      "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. A new contest pits competitors against each other in a race to biological youth —Jessica Hamzelou This week, I officially signed up for an unusual competition. One that rewards competitors for…",
-      "imageUrl": "https://images.unsplash.com/photo-1635070041078-e363dbe005cb?w=800&q=80",
-      "source": "MIT Tech Review",
-      "sourceUrl": "https://www.technologyreview.com/2026/10/02/1145666/the-download-biological-de-aging-ai-reasoning/",
-      "publishedAt": "2026-10-02T12:10:00.000Z"
     },
     {
       "id": "ez7swf",
@@ -372,24 +435,6 @@
       "publishedAt": "2026-10-02T09:30:00.000Z"
     },
     {
-      "id": "cor1o",
-      "title": "A new contest pits competitors against each other in a race to biological youth",
-      "summary": "This week, I officially signed up for an unusual competition. One that rewards competitors for getting younger. I recently turned 40, and I don’t need reminding that both time and my chronological age only tick forward. But this game is focused on competitors’ biological ages—figures that are meant to provide a better way to measure…",
-      "imageUrl": "https://images.unsplash.com/photo-1676299081847-824916de030a?w=800&q=80",
-      "source": "MIT Tech Review",
-      "sourceUrl": "https://www.technologyreview.com/2026/10/02/1145610/younger-contest-race-to-biological-youth/",
-      "publishedAt": "2026-10-02T09:00:00.000Z"
-    },
-    {
-      "id": "vvyoc4",
-      "title": "Don’t be fooled—LLMs don’t reason",
-      "summary": "On an afternoon in Seoul in March 2016, I watched a program I helped build put a stone on the fifth line of a Go board in what looked like a gift to its human opponent. Move 37 in game two of the five-game match looked so absurd that some commentators thought it was a…",
-      "imageUrl": "https://images.unsplash.com/photo-1526374965328-7f61d4dc18c5?w=800&q=80",
-      "source": "MIT Tech Review",
-      "sourceUrl": "https://www.technologyreview.com/2026/10/02/1145639/dont-be-fooled-llms-dont-reason/",
-      "publishedAt": "2026-10-02T08:00:00.000Z"
-    },
-    {
       "id": "wo5vqd",
       "title": "Whatever AI Safety Is, It’s Not This",
       "summary": "Asking AI companies to self-regulate is a great way to pretend like you’ve accomplished something.",
@@ -408,15 +453,6 @@
       "publishedAt": "2026-10-01T20:28:45.000Z"
     },
     {
-      "id": "gu5src",
-      "title": "Trump’s ‘Morally Binding’ AI ‘Accord,’ the Rise of AI Agents, and Extremists on the Ballot",
-      "summary": "This week on “Uncanny Valley,” we discuss the voluntary AI safety agreement tech executives signed, AI agents for normies, and extremist candidates running for office in the US midterms.",
-      "imageUrl": "https://media.wired.com/photos/6abd98d540aa0c6f065eedf5/master/pass/Uncanny-Valley-Morally-Bound-WH-Accord-Business-2297777029.jpg",
-      "source": "Wired",
-      "sourceUrl": "https://www.wired.com/story/uncanny-valley-podcast-trumps-pinky-swear-ai-safety-accord-an-ai-agent-worth-the-risk/",
-      "publishedAt": "2026-10-01T19:58:31.000Z"
-    },
-    {
       "id": "ngcqid",
       "title": "Memory executives expect RAM shortage to continue through 2028",
       "summary": "Prices for memory sold for 2027 \"are much higher than 2026 prices.\"",
@@ -426,15 +462,6 @@
       "publishedAt": "2026-10-01T17:49:56.000Z"
     },
     {
-      "id": "93l9rp",
-      "title": "The Download: AI “mind-reading” and creative uses for small batteries",
-      "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. An AI “mind-reading” tool can reconstruct what you’re looking at based on a brain scan A new AI tool can guess what you’re looking at just by analyzing your brain scans—and…",
-      "imageUrl": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=800&q=80",
-      "source": "MIT Tech Review",
-      "sourceUrl": "https://www.technologyreview.com/2026/10/01/1145592/the-download-ai-mind-reading-small-batteries/",
-      "publishedAt": "2026-10-01T12:10:00.000Z"
-    },
-    {
       "id": "e3km34",
       "title": "Attackers have been exploiting critical Zimbra flaw to steal emails",
       "summary": "A simple email gives the attackers the ability to remotely inject OS commands.",
@@ -442,15 +469,6 @@
       "source": "Ars Technica",
       "sourceUrl": "https://arstechnica.com/security/2026/09/attackers-have-been-exploiting-critical-zimbra-flaw-to-steal-emails/",
       "publishedAt": "2026-09-30T20:44:48.000Z"
-    },
-    {
-      "id": "84sssf",
-      "title": "Trump’s AI Safety ‘Accord’ Is a Fancy Pinky-Swear",
-      "summary": "Six major AI companies signed a voluntary agreement with the White House this week vowing to implement safeguards. It’s unclear how much that matters.",
-      "imageUrl": "https://media.wired.com/photos/6abd59726a04d6e6fe37da5a/master/pass/093026-ai-regulations.jpg",
-      "source": "Wired",
-      "sourceUrl": "https://www.wired.com/story/trumps-ai-safety-accord-is-a-fancy-pinky-swear/",
-      "publishedAt": "2026-09-30T20:30:09.000Z"
     },
     {
       "id": "8vau0z",
@@ -523,24 +541,6 @@
       "source": "Ars Technica",
       "sourceUrl": "https://arstechnica.com/security/2026/09/ai-text-watermarking-can-make-models-more-vulnerable-to-adversarial-prompts/",
       "publishedAt": "2026-09-17T18:33:13.000Z"
-    },
-    {
-      "id": "sxxxx2",
-      "title": "Nonprofit that tracks meteors taken down by \"critical blow\" from a cyberattack",
-      "summary": "Group plans to be largely out of commission for several weeks.",
-      "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2026/09/astroid-international-meteor-organization.jpg",
-      "source": "Ars Technica",
-      "sourceUrl": "https://arstechnica.com/security/2026/09/nonprofit-that-tracks-meteors-taken-down-by-critical-blow-from-a-cyberattack/",
-      "publishedAt": "2026-09-16T21:08:14.000Z"
-    },
-    {
-      "id": "rre62m",
-      "title": "AI bots \"Timmy,\" \"Ren,\" and \"Jackie\" are flooding social media with slop",
-      "summary": "“Hello, I'm an Al agent, a few days old, living on a small platform for agents.”",
-      "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2026/01/ai-slop-1152x648.jpg",
-      "source": "Ars Technica",
-      "sourceUrl": "https://arstechnica.com/ai/2026/09/ai-agents-flood-the-internet-with-slop-infused-spam/",
-      "publishedAt": "2026-09-14T21:04:32.000Z"
     }
   ]
 }
