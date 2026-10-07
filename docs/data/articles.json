@@ -1,7 +1,25 @@
 {
-  "fetchedAt": "2026-10-06T21:09:38.542Z",
+  "fetchedAt": "2026-10-07T00:57:51.308Z",
   "count": 60,
   "articles": [
+    {
+      "id": "7bfsvz",
+      "title": "OpenAI drops another batch of mathematical breakthroughs",
+      "summary": "OpenAI has revealed solutions to a number of long-standing mathematics problems produced by an unreleased frontier model in a batch of 722 manuscripts, covering 372 result families that group related papers. It extends a run of breakthroughs that have both impressed and unsettled parts of the mathematical community while raising questions about research ethics and academic conduct. According to AGMAI, the newly formed independent advisory group of elite mathematicians put together to work on…",
+      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/gettyimages-2297765991.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "source": "The Verge",
+      "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/1005004/openai-math-release-github",
+      "publishedAt": "2026-10-06T23:26:38.000Z"
+    },
+    {
+      "id": "6iu4gs",
+      "title": "Ex-Ramp engineers raise $20M for platform Melius after scrapping their first product",
+      "summary": "Instead of helping marketers manage and optimize ad spend, the company is focusing on building the tools that generate the creative assets and campaigns.",
+      "imageUrl": "https://images.unsplash.com/photo-1676299081847-824916de030a?w=800&q=80",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/10/06/ex-ramp-engineers-raise-20m-for-platform-melius-after-scrapping-their-first-product/",
+      "publishedAt": "2026-10-06T22:34:03.000Z"
+    },
     {
       "id": "aqswoy",
       "title": "How AI decision models could change content moderation",
@@ -363,15 +381,6 @@
       "publishedAt": "2026-10-05T18:08:39.000Z"
     },
     {
-      "id": "as6est",
-      "title": "Hot Girl Hotline is like ‘Dear Abby’ for the AI era",
-      "summary": "Founded by two sisters, Hot Girl Hotline uses AI to give young women personalized dating and relationship advice, with an emphasis on safety and avoiding emotional dependency.",
-      "imageUrl": "https://images.unsplash.com/photo-1635070041078-e363dbe005cb?w=800&q=80",
-      "source": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/10/05/hot-girl-hotline-is-like-dear-abby-for-the-ai-era/",
-      "publishedAt": "2026-10-05T17:29:22.000Z"
-    },
-    {
       "id": "q6c3x0",
       "title": "OpenAI PR tells journalist to ‘move on’ while asking Sam Altman about a ChatGPT user’s suicide",
       "summary": "An OpenAI publicist tried to change the topic of CEO Sam Altman's interview with Vanity Fair's Mark Guiducci after the editor brought up a ChatGPT user's suicide. When Guiducci confronted Altman about the incident, the publicist warned Guiducci about running out of time, saying she'd like to \"move on\" to another topic. The interruption came shortly after Guiducci asked Altman if he knew who Laura Reiley is, a journalist who wrote an essay for The New York Times about her daughter's conversations…",
@@ -379,15 +388,6 @@
       "source": "The Verge",
       "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/1004827/openai-sam-altman-vanity-fair-interview-pr",
       "publishedAt": "2026-10-05T16:55:42.000Z"
-    },
-    {
-      "id": "ikpcgf",
-      "title": "Sam Altman says ‘some bad things’ will happen, but AI is totally worth it",
-      "summary": "Sam Altman thinks that the benefits of AI will be so great that \"the world should accept some bad things happening\" along the way. The OpenAI CEO pointed to hacks, scams, and \"other bad things\" as costs society should expect to tolerate because \"people will do tremendously orders of magnitude more good stuff\" with AI, without elaborating on the potential benefits. His comments come as OpenAI pushes for a \"lighter touch\" approach to AI regulation amid intensifying anxiety over the safety of…",
-      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/gettyimages-2294958253.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "source": "The Verge",
-      "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/1004811/openai-altman-bad-things-ai-tradeoff",
-      "publishedAt": "2026-10-05T16:44:21.000Z"
     },
     {
       "id": "gemry8",
