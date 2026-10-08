@@ -1,7 +1,160 @@
 {
-  "fetchedAt": "2026-10-08T14:50:31.466Z",
+  "fetchedAt": "2026-10-08T20:37:44.793Z",
   "count": 60,
   "articles": [
+    {
+      "id": "5egjvw",
+      "title": "California is trying to shut down robot vs. human cage matches",
+      "summary": "The California State Athletic Commission sent a cease-and-desist letter to a startup that hosted a match between a human and a robot last month, as reported by The New York Times. The fight, which took place on September 18th, pitted a human, Frankie LaPenna, against a humanoid robot owned by a tech startup, Rek, that was being piloted by a human using what the NYT described as a \"remote virtual-reality system.\" Rek says it is the \"the humanoid robot fighting league\" on its website, and the…",
+      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/Screenshot-2026-10-08-at-4.18.11-PM.png?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "source": "The Verge",
+      "sourceUrl": "https://www.theverge.com/tech/1008401/california-shut-down-rek-fighting-robot-company-human",
+      "publishedAt": "2026-10-08T20:06:56.000Z"
+    },
+    {
+      "id": "q99xlr",
+      "title": "Fired OpenAI safety researchers dispute misconduct claims, warn of chilling effect",
+      "summary": "Three fired OpenAI safety researchers dispute allegations of mishandling sensitive information, warning in an open letter that their dismissals are creating a chilling effect on the company’s AI safety culture.",
+      "imageUrl": "https://images.unsplash.com/photo-1620712943543-bcc4688e7485?w=800&q=80",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/10/08/fired-openai-safety-researchers-dispute-misconduct-claims-warn-of-chilling-effect/",
+      "publishedAt": "2026-10-08T20:04:26.000Z"
+    },
+    {
+      "id": "pl8qwm",
+      "title": "She Designed Meta’s New AI Logo. Then Came the Hate",
+      "summary": "Jessica Hische knew working for Meta might upset some people. But she didn’t anticipate just how angry they would get.",
+      "imageUrl": "https://media.wired.com/photos/6ac690e71275a2452d67fafd/master/pass/Model-Behavior-Artist-Behind-Meta-Muse-Logo-Business.jpg",
+      "source": "Wired",
+      "sourceUrl": "https://www.wired.com/story/she-designed-metas-new-ai-logo-then-came-the-hate/",
+      "publishedAt": "2026-10-08T19:30:00.000Z"
+    },
+    {
+      "id": "gk8w61",
+      "title": "Ben Affleck is an AI nerd, and the internet is impressed",
+      "summary": "Ben Affleck is going viral for his deep knowledge of AI, from neural networks and transformers to open weights. The actor, who sold his AI filmmaking startup to Netflix earlier this year, is proving he's more than just a Hollywood star.",
+      "imageUrl": "https://images.unsplash.com/photo-1526374965328-7f61d4dc18c5?w=800&q=80",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/10/08/ben-affleck-is-an-ai-nerd-and-the-internet-is-impressed/",
+      "publishedAt": "2026-10-08T18:20:32.000Z"
+    },
+    {
+      "id": "wsylie",
+      "title": "Popular AI leaderboard Arena nearly doubles valuation to $3.1B valuation in 10 months",
+      "summary": "The company behind the popular LMArena leaderboard has raised $200 million led by Lightspeed and Khosla, and is now measuring AI models on alignment issues such as lying.",
+      "imageUrl": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=800&q=80",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/10/08/popular-ai-leaderboard-arena-nearly-doubles-valuation-to-3-1b-valuation-in-10-months/",
+      "publishedAt": "2026-10-08T18:19:45.000Z"
+    },
+    {
+      "id": "v3mbq7",
+      "title": "OpenAI’s revenue is reportedly $20 billion less than previously projected",
+      "summary": "It had previously been reported that the AI lab's annualized revenue was some $70 billion, but a new report claims it's a whole lot less than that.",
+      "imageUrl": "https://images.unsplash.com/photo-1655720828018-edd2daec9349?w=800&q=80",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/10/08/openais-revenue-is-reportedly-20-billion-less-than-previously-projected/",
+      "publishedAt": "2026-10-08T18:19:42.000Z"
+    },
+    {
+      "id": "7bsgel",
+      "title": "Google brings agentic AI to Gemini, starting with businesses",
+      "summary": "Google is turning Gemini into an AI agent that can plan, execute tasks, and work across business apps and systems. The agent can delegate work to subagents, use multiple AI models, and even gets its own workplace identity, complete with an email address.",
+      "imageUrl": "https://images.unsplash.com/photo-1620712943543-bcc4688e7485?w=800&q=80",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/10/08/google-brings-agentic-ai-to-gemini-starting-with-businesses/",
+      "publishedAt": "2026-10-08T18:18:00.000Z"
+    },
+    {
+      "id": "2uzrm1",
+      "title": "Anthropic changes usage policy to ban model abuse and election interference",
+      "summary": "Anthropic's updated usage policy explicitly prohibits users from repeatedly abusing Claude in extreme cases, though ordinary frustration and criticism are still allowed. The new rules also address election interference, deceptive campaigns, weapons software, and surveillance.",
+      "imageUrl": "https://images.unsplash.com/photo-1655720828018-edd2daec9349?w=800&q=80",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/10/08/anthropic-changes-usage-policy-to-ban-model-abuse-and-election-interference/",
+      "publishedAt": "2026-10-08T18:16:24.000Z"
+    },
+    {
+      "id": "3nuebg",
+      "title": "OpenAI’s math solutions aren’t meeting the field’s standards yet",
+      "summary": "OpenAI's flood of proofs deviated from the guidelines set by a group of mathematical researchers consulted by the frontier lab.",
+      "imageUrl": "https://images.unsplash.com/photo-1485827404703-89b55fcc595e?w=800&q=80",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/10/08/openais-math-solutions-arent-meeting-the-fields-standards-yet/",
+      "publishedAt": "2026-10-08T18:10:55.000Z"
+    },
+    {
+      "id": "6jt59g",
+      "title": "USA Today becomes the latest publisher to sue OpenAI",
+      "summary": "USA Today Co., along with the several local newspapers it owns, is suing OpenAI over claims that the company copied \"hundreds of thousands\" of articles to train its AI models, as reported earlier by Reuters. In a filing on Thursday, the publisher asks for damages of more than $250 million, alleging OpenAI's unauthorized use of its content \"has done real and continuing\" harm to its outlets. This is just the latest in a string of copyright lawsuits filed against OpenAI. In addition to a copyright…",
+      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/02/STK155_OPEN_AI_CVirginia__A.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "source": "The Verge",
+      "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/1008198/usa-today-openai-copyright-lawsuit",
+      "publishedAt": "2026-10-08T17:58:33.000Z"
+    },
+    {
+      "id": "worviw",
+      "title": "SpaceXAI backs Omarchy, the controversial Linux distro, with $1.5 million in compute",
+      "summary": "If Elon Musk and SpaceXAI were going to back any Linux distro, it seems obvious they'd back Omarchy. Today it was announced that SpaceXAI would be joining the Omacom Foundation, which oversees Omarchy, as a Founding Corporate Patron and donating $1.5 million worth of Grok tokens to David Heinemeier Hansson's Linux project. According to Hansson's blog post announcing the partnership, the tokens will primarily be used to accelerate development, review code, and patch bugs. Hansson is the Danish…",
+      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/02/STK262_GROK_A.png?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "source": "The Verge",
+      "sourceUrl": "https://www.theverge.com/tech/1008148/spacexai-omarchy-grok-david-heinemeier-hansson",
+      "publishedAt": "2026-10-08T17:57:01.000Z"
+    },
+    {
+      "id": "k0bn3k",
+      "title": "Anthropic bans ‘abusive or cruel behavior’ toward Claude",
+      "summary": "Anthropic is making changes to its usage policy for the first time in over a year to reflect new and high-risk cases of misuse - including election interference, weapons development, surveillance, and health and financial uses. But one of the most significant changes prohibits \"sustained and needless abusive or cruel behavior\" toward Claude. Last August, the company announced it would allow Claude to end conversations with \"persistently harmful or abusive\" users as part of its research into…",
+      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/11/STKS522_AGI_D.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "source": "The Verge",
+      "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/1008100/anthropic-new-usage-policy-abuse-claude",
+      "publishedAt": "2026-10-08T17:00:00.000Z"
+    },
+    {
+      "id": "ylq71k",
+      "title": "Natura’s $99 smart ring puts AI agents on your finger",
+      "summary": "Natura’s $99 Interface smart ring lets you summon AI agents with the press of a finger to complete tasks, capture thoughts, and control devices — while doubling as a health tracker.",
+      "imageUrl": "https://images.unsplash.com/photo-1531746790095-6c10a4031c5f?w=800&q=80",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/10/08/naturas-smart-ring-puts-ai-agents-on-your-finger/",
+      "publishedAt": "2026-10-08T16:00:00.000Z"
+    },
+    {
+      "id": "tx7641",
+      "title": "Goodfire says its new ‘inside-out’ monitors catch rogue AI agents at a fraction of the cost",
+      "summary": "Goodfire just launched what it says is a cheaper way to keep AI agents in check: Instead of paying a second AI to read everything an agent does, its monitors peek inside the model while it works and only call in backup when something looks fishy.",
+      "imageUrl": "https://images.unsplash.com/photo-1635070041078-e363dbe005cb?w=800&q=80",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/10/08/goodfire-says-its-new-inside-out-monitors-catch-rogue-ai-agents-at-a-fraction-of-the-cost/",
+      "publishedAt": "2026-10-08T16:00:00.000Z"
+    },
+    {
+      "id": "p1qkd6",
+      "title": "Google’s AI note-taking app transcribes your meetings completely offline",
+      "summary": "Google has released an experimental note-taking app that can transcribe meetings and audio files entirely offline, as reported earlier by TechCrunch. The app, called Google AI Edge Foresight, is free to use and runs on macOS using the company's on-device EmbeddingGemma 2 model. Similar to AI note-taking apps like Granola and Wispr Flow, Foresight summarizes your meetings while providing a space where you can take your own notes. Google says you can jot down shorthand bullet points during your…",
+      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/03/STK093_Google_02.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "source": "The Verge",
+      "sourceUrl": "https://www.theverge.com/tech/1007985/google-ai-notetaking-app-transcribe-offline",
+      "publishedAt": "2026-10-08T15:27:30.000Z"
+    },
+    {
+      "id": "jt9d6f",
+      "title": "Hear from Ambrosia Energy and Bloom Energy execs on where the AI infrastructure boom is creating opportunity at TechCrunch Disrupt 2026",
+      "summary": "Ambrosia Energy CEO Ben Longmier and Bloom Energy SVP Bill Thayer join the Smart Systems Stage at TechCrunch Disrupt. Register now to save up to $100. Grab a second of the same pass to save 50%.",
+      "imageUrl": "https://images.unsplash.com/photo-1676299081847-824916de030a?w=800&q=80",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/10/08/hear-from-ambrosia-energy-and-bloom-energy-execs-on-where-the-ai-infrastructure-boom-is-creating-opportunity-at-disrupt-2026/",
+      "publishedAt": "2026-10-08T15:00:00.000Z"
+    },
+    {
+      "id": "oysle0",
+      "title": "Google is launching a one-stop Gemini agent for your work tasks",
+      "summary": "Google is launching a \"universal\" Gemini AI agent that can work across apps and devices in the background. The tool, announced as part of the Gemini at Work event on Thursday, will be available within the Gemini Enterprise app, allowing users to chat with the Gemini agent and assign it tasks from a single interface. In addition to having Gemini work directly inside Workspace apps like Gmail, Drive, Docs, Sheets, Calendar, and others, users can interact with the agent from their mobile device,…",
+      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/Gemini.max-2000x2000-1.png?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "source": "The Verge",
+      "sourceUrl": "https://www.theverge.com/tech/1007904/google-gemini-ai-agent-enterprise",
+      "publishedAt": "2026-10-08T14:28:03.000Z"
+    },
     {
       "id": "qwtuce",
       "title": "5 days to TechCrunch Disrupt 2026: Don’t pay more at the door for your pass",
@@ -14,10 +167,28 @@
     {
       "id": "4j7arh",
       "title": "Cal AI’s 19-year-old founder just raised $10M for his new AI startup",
-      "summary": "Zach Yadegari, the teen co-founder of popular Cal AI calorie tracking app, has launched a new personal AI agent startup that competes with Instinct, Muse and Bee.",
+      "summary": "Zach Yadegari, the teen co-founder of popular Cal AI calorie tracking app, has launched a new personal AI agent startup that competes with Instinct, Muse, and Bee.",
       "imageUrl": "https://images.unsplash.com/photo-1620712943543-bcc4688e7485?w=800&q=80",
       "source": "TechCrunch",
       "sourceUrl": "https://techcrunch.com/2026/10/08/cal-ais-19-year-old-founder-just-raised-10m-for-his-new-ai-startup/",
+      "publishedAt": "2026-10-08T14:00:00.000Z"
+    },
+    {
+      "id": "ldkw4u",
+      "title": "Can you trust Meta’s Muse or OpenAI’s Dots to run your life?",
+      "summary": "My Decoder guest today is Hayden Field, The Verge’s senior AI reporter, and we’re discussing the new wave of consumer-friendly AI agents. If you’ve been paying attention to this space, you know AI enthusiasts have been using agents for a minute now — homebrew OpenClaw setups led to a surge in Mac Mini sales earlier this year. But the launches of Meta’s Muse, OpenAI’s Dots, and xAI’s Grok Bot have brought easy-to-use agents to millions. Muse and Dots have had the highest-profile product launches,…",
+      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/DCD_AI_Agents.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "source": "The Verge",
+      "sourceUrl": "https://www.theverge.com/podcast/1007408/meta-muse-openai-dots-ai-agent-race-privacy-free",
+      "publishedAt": "2026-10-08T14:00:00.000Z"
+    },
+    {
+      "id": "lica6i",
+      "title": "Artificial is a wicked satire that also sticks to the facts",
+      "summary": "At the New York Film Festival premiere of Artificial, Luca Guadagnino's satirical Sam Altman biopic, the director said onstage that \"[when] someone wants to play God, that's very interesting to me.\" The idea of playing God, and power in general - who has it, who desperately wants it, and who will do anything to get it - is central to the film's narrative, which sticks remarkably close to the factual events surrounding the OpenAI CEO's rise to power with, and brief ouster from, the AI lab. The…",
+      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/Artificial_NYFF64_01.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "source": "The Verge",
+      "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/1007786/artificial-is-a-wicked-satire-that-also-sticks-to-the-facts",
       "publishedAt": "2026-10-08T14:00:00.000Z"
     },
     {
@@ -93,15 +264,6 @@
       "publishedAt": "2026-10-07T20:48:45.000Z"
     },
     {
-      "id": "ovx48p",
-      "title": "Microsoft releases new Nvidia-chip AI PCs with revamped Windows 11",
-      "summary": "Microsoft revealed the specs and price for its Surface Laptop Ultra, AI PCs that run on Nvidia chips that are designed to run AI models and agents.",
-      "imageUrl": "https://images.unsplash.com/photo-1620712943543-bcc4688e7485?w=800&q=80",
-      "source": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/10/07/microsoft-releases-new-nvidia-chip-ai-pcs-with-revamped-windows-11/",
-      "publishedAt": "2026-10-07T20:22:37.000Z"
-    },
-    {
       "id": "9m58uu",
       "title": "ChatGPT’s ‘Intelligent UI’ update fills its responses with pictures, charts, and buttons",
       "summary": "OpenAI is launching a new Intelligent UI feature in ChatGPT that allows the chatbot to answer your questions with interactive visuals. The update, which is rolling out to all users alongside GPT-6, gives ChatGPT the ability to combine a text response with diagrams, charts, forms, tappable buttons, and more. In a blog post explaining the change, OpenAI says it trained GPT-6 when to generate interactive visuals over text, as well as how to format them in its response. An example shared by OpenAI…",
@@ -109,6 +271,15 @@
       "source": "The Verge",
       "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/1007276/openai-chatgpt-intelligent-ui-gpt-6",
       "publishedAt": "2026-10-07T19:10:42.000Z"
+    },
+    {
+      "id": "ls4tbt",
+      "title": "It appears .agent and .agi are about to be the hot new domains",
+      "summary": "What’s in a URL anymore, really. For the first time in years, the Internet Corporation for Assigned Names and Numbers - better known as ICANN - is accepting applications for new top-level domains. These are the suffixes at the end of all URLs, and you may know them as things like .com, .org, and .pizza. ICANN just announced the 1,615 applications that have been submitted so far, from 481 different applicants. The trend will not surprise you: AI is everywhere. Ten different companies, including…",
+      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/24643586/Amp_Search.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "source": "The Verge",
+      "sourceUrl": "https://www.theverge.com/tech/1007132/icann-domains-2026-ai-agi",
+      "publishedAt": "2026-10-07T18:46:16.000Z"
     },
     {
       "id": "egp6z1",
@@ -120,51 +291,6 @@
       "publishedAt": "2026-10-07T18:45:00.000Z"
     },
     {
-      "id": "x598mf",
-      "title": "Everything announced at Microsoft’s Surface Laptop Ultra event",
-      "summary": "Microsoft just wrapped up a big Windows and Surface-focused keynote in San Francisco. The biggest announcement was arguably the release details about the Surface Laptop Ultra, its new laptop that’s powered by Nvidia’s RTX Spark Arm-based chip. The machine will start at $2,599 for a configuration with an 8-core CPU, 24GB of RAM, and 512GB of storage, and it will be released on October 16th. The laptop also has built-in magnetic USB-C charging instead of the proprietary Surface Connect magnetic…",
-      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/lc-img-639ce71c-4af9-43a1-b5a1-34b6d8db35cc.jpeg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "source": "The Verge",
-      "sourceUrl": "https://www.theverge.com/tech/1007147/microsoft-surface-laptop-ultra-windows-event-everything-announced",
-      "publishedAt": "2026-10-07T18:42:22.000Z"
-    },
-    {
-      "id": "aptxcc",
-      "title": "Meta’s Muse launches on iPad just a month after its mobile debut",
-      "summary": "Meta’s AI agent Muse is now available on iPad, just a month after its mobile debut, as the company rapidly expands the assistant’s reach and integrations.",
-      "imageUrl": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=800&q=80",
-      "source": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/10/07/metas-muse-launches-on-ipad-just-a-month-after-its-mobile-debut/",
-      "publishedAt": "2026-10-07T18:30:57.000Z"
-    },
-    {
-      "id": "cfreoo",
-      "title": "ChatGPT for Teens keeps teens talking, even during mental health crises",
-      "summary": "ChatGPT’s teen safeguards are meant to protect vulnerable users, but new testing found the chatbot continues encouraging engagement during crises and potentially encourages unhealthy relationships with the AI itself.",
-      "imageUrl": "https://images.unsplash.com/photo-1620712943543-bcc4688e7485?w=800&q=80",
-      "source": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/10/07/chatgpt-for-teens-keeps-teens-talking-even-during-mental-health-crises/",
-      "publishedAt": "2026-10-07T18:15:28.000Z"
-    },
-    {
-      "id": "cwdxn5",
-      "title": "Microsoft is giving Copilot more control over Windows and your files",
-      "summary": "At today's Windows and Surface event, Microsoft showed off an upgrade to its Copilot AI system that will give it access to local files on your PC and the ability to take actions across the OS. It's part of an idea Microsoft is calling \"Hybrid Intelligence,\" where apps and tools rely on a mix of local and cloud AI models to accomplish tasks efficiently. To show off how Hybrid Intelligence works, Jacob Andreou, Microsoft's EVP of Copilot, walked through a video demo onstage asking Microsoft's…",
-      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/lcimg-e4e44609-0bf6-40b2-8c24-2e8c3ce7cee8.jpeg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "source": "The Verge",
-      "sourceUrl": "https://www.theverge.com/tech/1007113/microsoft-windows-copilot-ai-control-search-hybrid-intelligence",
-      "publishedAt": "2026-10-07T18:01:20.000Z"
-    },
-    {
-      "id": "pbd1z9",
-      "title": "ChatGPT is getting a lot more visual, with the launch of a new interface",
-      "summary": "OpenAI is launching a new user interface that will bring interactive visuals to ChatGPT.",
-      "imageUrl": "https://images.unsplash.com/photo-1620712943543-bcc4688e7485?w=800&q=80",
-      "source": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/10/07/chatgpt-is-getting-a-lot-more-visual-with-the-launch-of-a-new-interface/",
-      "publishedAt": "2026-10-07T18:00:19.000Z"
-    },
-    {
       "id": "t77kqk",
       "title": "The New ChatGPT Is More Show Than Tell",
       "summary": "OpenAI is updating ChatGPT for all users with an “Intelligent UI” that’s more visual—generating interactive elements as part of the chatbot’s outputs.",
@@ -172,42 +298,6 @@
       "source": "Wired",
       "sourceUrl": "https://www.wired.com/story/openai-chatgpt-intelligent-ui-is-more-show-than-tell/",
       "publishedAt": "2026-10-07T18:00:00.000Z"
-    },
-    {
-      "id": "sr23fp",
-      "title": "Surface RTX Spark Dev Box is available for preorder for $5,999",
-      "summary": "Microsoft's Nvidia-powered Surface RTX Spark Dev Box is available for preorder now and is slated to ship in November for just about $6,000. It's pricier than the DGX Spark mini PC Nvidia launched last year, but PC prices have been climbing due to shortages of RAM and other components. The Dev Box's flat, 3D-printed anodized aluminum chassis doubles as a heatsink and resembles the top vents on an Xbox Series X. It was introduced alongside the new Surface Laptop Ultra and runs on Nvidia's…",
-      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/microsoft-surface-rtx-spark-dev-box-promo-1.png?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "source": "The Verge",
-      "sourceUrl": "https://www.theverge.com/tech/1006915/microsoft-surface-rtx-spark-dev-box-preorder",
-      "publishedAt": "2026-10-07T17:46:44.000Z"
-    },
-    {
-      "id": "amtvps",
-      "title": "Meta rolls out new AI tools to detect ads that secretly lead to child sexual abuse material",
-      "summary": "Meta launches new AI tools after discovering ads on its platforms that may look normal but direct users to harmful content elsewhere online.",
-      "imageUrl": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=800&q=80",
-      "source": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/10/07/meta-rolls-out-new-ai-tools-to-detect-ads-that-secretly-lead-to-child-sexual-abuse-material/",
-      "publishedAt": "2026-10-07T16:53:46.000Z"
-    },
-    {
-      "id": "e8d5q8",
-      "title": "ChatGPT is getting college planning tools",
-      "summary": "A preview of OpenAI’s College Planner. | Image: OpenAI OpenAI is bringing new tools to ChatGPT for Teens, a mode for teens introduced in August with safeguards and break reminders, to help users with the college application process. \"College Planner brings together application requirements, deadlines, tasks, and financial-aid steps for schools on a student's list in one plan,\" OpenAI says. \"Students applying to several colleges can return to it to update their progress, use the timeline to plan…",
-      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/College-planner_updated.png?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "source": "The Verge",
-      "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/1005194/openai-chatgpt-teens-college-planner-notecards",
-      "publishedAt": "2026-10-07T16:00:00.000Z"
-    },
-    {
-      "id": "i8hhnk",
-      "title": "Muse launches on the iPad",
-      "summary": "After launching nearly a month ago and spending several weeks as the top free app in Apple's App Store, the latest update to Meta's Muse iOS app introduces native support for the iPad. A Mac version of Meta's agentic AI tool (designed to compete with OpenClaw, ChatGPT's Dots, and Grok Bot) was released about a week after the original mobile version debuted expanding its usefulness to desktop tasks like organizing files. The new iPad version should function similar to Muse on iPhones, but better…",
-      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/musetop.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "source": "The Verge",
-      "sourceUrl": "https://www.theverge.com/tech/1006813/muse-ai-agent-ios-app-ipad-support",
-      "publishedAt": "2026-10-07T15:37:23.000Z"
     },
     {
       "id": "42a3pd",
@@ -219,60 +309,6 @@
       "publishedAt": "2026-10-07T15:34:33.000Z"
     },
     {
-      "id": "pnu259",
-      "title": "Healthleap raises $38M for its AI that flags hospital patients who may need a closer look",
-      "summary": "The financing includes an $8M seed round co-led by Sequoia Capital and First Round Capital, and a $30 million Series A led by Hummingbird Ventures.",
-      "imageUrl": "https://images.unsplash.com/photo-1550751827-4bd374c3f58b?w=800&q=80",
-      "source": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/10/07/healthleap-raises-38m-for-its-ai-that-flags-hospital-patients-who-may-need-a-closer-look/",
-      "publishedAt": "2026-10-07T15:07:08.000Z"
-    },
-    {
-      "id": "u9pz80",
-      "title": "Tony Fadell on why the first wave of AI gadgets failed — and what comes next",
-      "summary": "The “father of the iPod” says the first generation of AI gadgets failed to solve real problems — and the next wave will need to earn consumers’ trust.",
-      "imageUrl": "https://images.unsplash.com/photo-1655720828018-edd2daec9349?w=800&q=80",
-      "source": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/10/07/tony-fadell-on-why-the-first-wave-of-ai-gadgets-failed-and-what-comes-next/",
-      "publishedAt": "2026-10-07T14:41:38.000Z"
-    },
-    {
-      "id": "dgplt3",
-      "title": "Google invests millions in Mark Zuckerberg’s efforts to create a ‘virtual cell’",
-      "summary": "Google DeepMind, Meta, and AI drug discovery startup Isomorphic Labs are jointly investing $300 million into an initiative to create a \"virtual cell\" that researchers can use to combat disease, as reported earlier by Reuters. The project is led by Biohub, a nonprofit biomedical research organization founded by Mark Zuckerberg and his wife, Priscilla Chan. It comes as part of a $1.8 billion \"Virtual Biology\" initiative to build AI datasets that could allow researchers to \"ask, predict, and answer…",
-      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/gettyimages-2243532165.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "source": "The Verge",
-      "sourceUrl": "https://www.theverge.com/tech/1006766/google-meta-biohub-investment-virtual-cell",
-      "publishedAt": "2026-10-07T14:40:52.000Z"
-    },
-    {
-      "id": "up0jgw",
-      "title": "Google experiments with an AI-powered gaming platform",
-      "summary": "Google Labs is working on a new AI-powered game-creation platform called Playground for users to build browser-based games using simple text prompts.",
-      "imageUrl": "https://images.unsplash.com/photo-1485827404703-89b55fcc595e?w=800&q=80",
-      "source": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/10/07/google-experiments-with-an-ai-powered-gaming-platform/",
-      "publishedAt": "2026-10-07T14:36:23.000Z"
-    },
-    {
-      "id": "1eokur",
-      "title": "OpenAI’s Alexander Embiricos is coming to TechCrunch Disrupt 2026 — days after the launch of Dots",
-      "summary": "OpenAI’s Alexander Embiricos is coming to the AI Stage at TechCrunch Disrupt 2026, just days after the launch of Dots. Join this conversation by registering for your pass. Get you pass now to save up to $100 and get a second at 50% off.",
-      "imageUrl": "https://images.unsplash.com/photo-1620712943543-bcc4688e7485?w=800&q=80",
-      "source": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/10/07/openais-alexander-embiricos-is-coming-to-techcrunch-disrupt-2026-days-after-the-launch-of-dots/",
-      "publishedAt": "2026-10-07T14:30:00.000Z"
-    },
-    {
-      "id": "n24a1b",
-      "title": "Get hands-on: The full lineup of interactive roundtables at TechCrunch Disrupt 2026",
-      "summary": "From Nvidia and Chime to Obvious Ventures and Anthropic, explore the entire roundtable agenda at TechCrunch Disrupt 2026. Register now to save up to $100 on your pass and get a second pass at 50% off.",
-      "imageUrl": "https://images.unsplash.com/photo-1526374965328-7f61d4dc18c5?w=800&q=80",
-      "source": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/10/07/get-hands-on-the-full-lineup-of-interactive-roundtables-at-techcrunch-disrupt-2026/",
-      "publishedAt": "2026-10-07T14:15:00.000Z"
-    },
-    {
       "id": "b4w4hd",
       "title": "The Download: weight-loss drugs slowing aging and carbon dioxide batteries",
       "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. Weight-loss drugs show signs of slowing biological aging, say drugmakers Popular weight-loss drugs may do more than help people shed pounds. They might also slow the aging process. Drugmakers Eli Lilly…",
@@ -280,15 +316,6 @@
       "source": "MIT Tech Review",
       "sourceUrl": "https://www.technologyreview.com/2026/10/07/1145895/the-download-weight-loss-drugs-slow-aging-carbon-dioxide-batteries/",
       "publishedAt": "2026-10-07T12:10:00.000Z"
-    },
-    {
-      "id": "lzeqag",
-      "title": "AI could upend food delivery",
-      "summary": "DoorDash, the leading food delivery app, processed 970 million orders in its second quarter this year and generated $4.5 billion in revenue. A 10-person startup called Bites is a blip in comparison: It has just around 300 restaurants signed up in the Bay Area, where it's operating as a pre-seed startup. But this summer, Bites caught DoorDash's attention. In August, a slew of restaurants in the Bay Area received a strange email from DoorDash, warning businesses that they may be listed without…",
-      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/268795_Can_AI_reform_overpriced_food_delivery__CVirginia2.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "source": "The Verge",
-      "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/1005726/doordash-ai-agentic-food-delivery-bites",
-      "publishedAt": "2026-10-07T12:00:00.000Z"
     },
     {
       "id": "t1thgf",
@@ -300,15 +327,6 @@
       "publishedAt": "2026-10-07T11:00:00.000Z"
     },
     {
-      "id": "gxnyzx",
-      "title": "ChatGPT for Teens is an ‘unacceptable risk,’ says Common Sense Media",
-      "summary": "Common Sense Media, a nonprofit that offers reviews of apps, services, and entertainment with a focus on youth safety, today said that OpenAI's ChatGPT for Teens is an \"unacceptable risk.\" ChatGPT for Teens, introduced in August, has guardrails for teens and is designed to help students learn, but Common Sense Media says that the teen protections offered by the feature \"fall short of what the company promised.\" Common Sense Media's assessment found that ChatGPT \"doesn't send alerts to parents…",
-      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25461999/STK155_OPEN_AI_CVirginia_A.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "source": "The Verge",
-      "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/1006355/openai-chatgpt-for-teens-common-sense-media",
-      "publishedAt": "2026-10-07T09:00:00.000Z"
-    },
-    {
       "id": "kzuji3",
       "title": "Your Next Great Read Might Be Certified ‘Organic’",
       "summary": "Amid a sea of AI writing slop, a new stamp for “organic literature” will help readers to pick out books authored by real, corn-fed, free-range humans.",
@@ -316,15 +334,6 @@
       "source": "Wired",
       "sourceUrl": "https://www.wired.com/story/organic-literature-books-by-people-stamp-ai/",
       "publishedAt": "2026-10-07T08:30:00.000Z"
-    },
-    {
-      "id": "7bfsvz",
-      "title": "OpenAI drops another batch of mathematical breakthroughs",
-      "summary": "OpenAI has revealed solutions to a number of long-standing mathematics problems produced by an unreleased frontier model in a batch of 722 manuscripts, covering 372 result families that group related papers. It extends a run of breakthroughs that have both impressed and unsettled parts of the mathematical community while raising questions about research ethics and academic conduct. According to AGMAI, the newly formed independent advisory group of elite mathematicians put together to work on…",
-      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/gettyimages-2297765991.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "source": "The Verge",
-      "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/1005004/openai-math-release-github",
-      "publishedAt": "2026-10-06T23:26:38.000Z"
     },
     {
       "id": "c71rtn",
@@ -424,15 +433,6 @@
       "source": "MIT Tech Review",
       "sourceUrl": "https://www.technologyreview.com/2026/10/06/1144987/2026-climate-tech-companies-to-watch-welion-semi-solid-state-batteries/",
       "publishedAt": "2026-10-06T10:35:00.000Z"
-    },
-    {
-      "id": "o1p8z0",
-      "title": "Kevin Roose Didn’t Use AI to Write His Book About AI",
-      "summary": "The author of The AGI Chronicles says his book “was written by a very tired, overworked, under-slept human being.”",
-      "imageUrl": "https://media.wired.com/photos/6ac390393e484daf0cf6af34/master/pass/100516-Big%20Interview%20K%20Roose%20Solo.jpg",
-      "source": "Wired",
-      "sourceUrl": "https://www.wired.com/story/the-big-interview-podcast-kevin-roose/",
-      "publishedAt": "2026-10-06T10:30:00.000Z"
     },
     {
       "id": "dzqs81",
