@@ -1,7 +1,88 @@
 {
-  "fetchedAt": "2026-10-08T07:13:15.050Z",
+  "fetchedAt": "2026-10-08T14:50:31.466Z",
   "count": 60,
   "articles": [
+    {
+      "id": "qwtuce",
+      "title": "5 days to TechCrunch Disrupt 2026: Don’t pay more at the door for your pass",
+      "summary": "The global tech ecosystem gathers at TechCrunch Disrupt 2026 at San Francisco’s Moscone West on October 13-15. Get your pass now to save up to $100. Get a second of the same ticket type to save 50%.",
+      "imageUrl": "https://images.unsplash.com/photo-1550751827-4bd374c3f58b?w=800&q=80",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/10/08/5-days-to-techcrunch-disrupt-2026-dont-pay-more-at-the-door/",
+      "publishedAt": "2026-10-08T14:00:00.000Z"
+    },
+    {
+      "id": "4j7arh",
+      "title": "Cal AI’s 19-year-old founder just raised $10M for his new AI startup",
+      "summary": "Zach Yadegari, the teen co-founder of popular Cal AI calorie tracking app, has launched a new personal AI agent startup that competes with Instinct, Muse and Bee.",
+      "imageUrl": "https://images.unsplash.com/photo-1620712943543-bcc4688e7485?w=800&q=80",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/10/08/cal-ais-19-year-old-founder-just-raised-10m-for-his-new-ai-startup/",
+      "publishedAt": "2026-10-08T14:00:00.000Z"
+    },
+    {
+      "id": "pp4wrf",
+      "title": "Google releases a new local-first Granola competitor",
+      "summary": "Google’s new AI Edge Foresight app takes on Granola with an offline meeting note-taker that can transcribe conversations, generate notes, and answer questions using on-device AI.",
+      "imageUrl": "https://images.unsplash.com/photo-1635070041078-e363dbe005cb?w=800&q=80",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/10/08/google-releases-a-new-local-first-granola-competitor/",
+      "publishedAt": "2026-10-08T13:28:39.000Z"
+    },
+    {
+      "id": "v4pqe",
+      "title": "China’s Manus raises over $500M in first funding round since split with Meta",
+      "summary": "Boyu Capital and IDG Capital led the funding round, and existing shareholders Tencent, HSG (formerly known as Sequoia China), ZhenFund, and others also participated.",
+      "imageUrl": "https://images.unsplash.com/photo-1620712943543-bcc4688e7485?w=800&q=80",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/10/08/chinas-manus-raises-over-500m-in-first-funding-round-since-split-with-meta/",
+      "publishedAt": "2026-10-08T13:20:32.000Z"
+    },
+    {
+      "id": "hc9d2w",
+      "title": "The Download: AI roadblocks for humanoids and portable rubber dams",
+      "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. AI breakthroughs in robotics won’t change your life any time soon The hype around humanoid robots is reaching fever pitch. Much of it comes from the idea that the same AI…",
+      "imageUrl": "https://images.unsplash.com/photo-1620712943543-bcc4688e7485?w=800&q=80",
+      "source": "MIT Tech Review",
+      "sourceUrl": "https://www.technologyreview.com/2026/10/08/1146045/the-download-ai-roadblocks-humanoids-portable-rubber-dams/",
+      "publishedAt": "2026-10-08T12:10:00.000Z"
+    },
+    {
+      "id": "s26emh",
+      "title": "Why we’re watching these climate tech companies",
+      "summary": "This week, we released our 2026 version of our Climate Tech Companies to Watch list. It’s an annual project that the MIT Technology Review team puts together. Our goal is to highlight some of the promising, interesting advances and firms we think are worth paying attention to in the world of climate and energy technology. …",
+      "imageUrl": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=800&q=80",
+      "source": "MIT Tech Review",
+      "sourceUrl": "https://www.technologyreview.com/2026/10/08/1145920/climate-tech-companies-list/",
+      "publishedAt": "2026-10-08T10:00:00.000Z"
+    },
+    {
+      "id": "sohy9t",
+      "title": "Tristan Harris’ Tech Nonprofit Is Laying Off Most Staff and Going ‘Founder-Led’",
+      "summary": "The Center for Humane Technology helped spark a movement against excessive screen time, but internal tensions over its direction and strategy have simmered for years, sources tell WIRED.",
+      "imageUrl": "https://media.wired.com/photos/6ac02e534880260b81233f30/master/pass/Tristan-Harris-2274181207.jpg",
+      "source": "Wired",
+      "sourceUrl": "https://www.wired.com/story/tristan-harris-tech-nonprofit-is-laying-off-most-staff-and-going-founder-led/",
+      "publishedAt": "2026-10-08T09:30:00.000Z"
+    },
+    {
+      "id": "9l70ui",
+      "title": "AI breakthroughs in robotics won’t change your life any time soon",
+      "summary": "The story is a collaboration between MIT Technology Review and Aventine, a non-profit research foundation that creates and supports content about how technology and science are changing the way we live. A robot shaped like a human—white with a black head and torso—has been popping up on video feeds. Perhaps you’ve seen it dance or…",
+      "imageUrl": "https://images.unsplash.com/photo-1485827404703-89b55fcc595e?w=800&q=80",
+      "source": "MIT Tech Review",
+      "sourceUrl": "https://www.technologyreview.com/2026/10/08/1145923/ai-breakthroughs-in-robotics-wont-change-your-life-any-time-soon/",
+      "publishedAt": "2026-10-08T09:00:00.000Z"
+    },
+    {
+      "id": "g9dtwl",
+      "title": "Building a safer path to autonomous industrial AI",
+      "summary": "Industrial AI is entering a new phase. After decades of predictive analytics and other specialized applications, advances in foundation models, physical AI, and agentic AI are making it possible to automate more complex tasks across industrial environments. But unlike AI that operates purely in the digital world, industrial AI can interact directly with physical systems,…",
+      "imageUrl": "https://images.unsplash.com/photo-1620712943543-bcc4688e7485?w=800&q=80",
+      "source": "MIT Tech Review",
+      "sourceUrl": "https://www.technologyreview.com/2026/10/08/1144020/building-a-safer-path-to-autonomous-industrial-ai/",
+      "publishedAt": "2026-10-08T08:17:32.000Z"
+    },
     {
       "id": "92lkut",
       "title": "Nous Research confirms it hit $1.5B valuation, launches AI agents for business users",
@@ -192,24 +273,6 @@
       "publishedAt": "2026-10-07T14:15:00.000Z"
     },
     {
-      "id": "yalpj6",
-      "title": "6 days to TechCrunch Disrupt 2026: Save on your pass before doors open",
-      "summary": "In 6 days, 10,000+ people from across the global startup and tech ecosystem will come together at San Francisco’s Moscone West for TechCrunch Disrupt 2026. If you’re planning to be one of them, register for your ticket before prices increase at the door. Save up to $100 on your pass, plus 50% on a second of the same type.",
-      "imageUrl": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=800&q=80",
-      "source": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/10/07/6-days-to-techcrunch-disrupt-2026-save-on-your-pass-before-doors-open/",
-      "publishedAt": "2026-10-07T14:00:00.000Z"
-    },
-    {
-      "id": "a6fyd8",
-      "title": "Google’s new SynthID website can identify AI-generated media",
-      "summary": "Google on Tuesday launched a new site that lets anyone verify whether a piece of media, be it an image, a video, or an audio clip, is generated using AI.",
-      "imageUrl": "https://images.unsplash.com/photo-1655720828018-edd2daec9349?w=800&q=80",
-      "source": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/10/07/googles-new-synthid-website-can-identify-ai-generated-media/",
-      "publishedAt": "2026-10-07T14:00:00.000Z"
-    },
-    {
       "id": "b4w4hd",
       "title": "The Download: weight-loss drugs slowing aging and carbon dioxide batteries",
       "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. Weight-loss drugs show signs of slowing biological aging, say drugmakers Popular weight-loss drugs may do more than help people shed pounds. They might also slow the aging process. Drugmakers Eli Lilly…",
@@ -262,24 +325,6 @@
       "source": "The Verge",
       "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/1005004/openai-math-release-github",
       "publishedAt": "2026-10-06T23:26:38.000Z"
-    },
-    {
-      "id": "6iu4gs",
-      "title": "Ex-Ramp engineers raise $20M for platform Melius after scrapping their first product",
-      "summary": "Instead of helping marketers manage and optimize ad spend, the company is focusing on building the tools that generate the creative assets and campaigns.",
-      "imageUrl": "https://images.unsplash.com/photo-1676299081847-824916de030a?w=800&q=80",
-      "source": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/10/06/ex-ramp-engineers-raise-20m-for-platform-melius-after-scrapping-their-first-product/",
-      "publishedAt": "2026-10-06T22:34:03.000Z"
-    },
-    {
-      "id": "aqswoy",
-      "title": "How AI decision models could change content moderation",
-      "summary": "On Tuesday, Musubi announced a lightweight decision model made for real-time moderation called PolicyLM-1.7B, released with open weights.",
-      "imageUrl": "https://images.unsplash.com/photo-1635070041078-e363dbe005cb?w=800&q=80",
-      "source": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/10/06/how-ai-decision-models-could-change-content-moderation/",
-      "publishedAt": "2026-10-06T20:35:20.000Z"
     },
     {
       "id": "c71rtn",
@@ -381,42 +426,6 @@
       "publishedAt": "2026-10-06T10:35:00.000Z"
     },
     {
-      "id": "prv6qh",
-      "title": "Form Energy and its iron batteries",
-      "summary": "Form Energy is building iron-based batteries that can store energy for multiple days. The company is ramping up supply at its factory and signing deals for commercial projects. New solar and wind installations produce electricity more affordably than fossil fuels in most places, but their output varies based on season, time of day, and weather.…",
-      "imageUrl": "https://images.unsplash.com/photo-1526374965328-7f61d4dc18c5?w=800&q=80",
-      "source": "MIT Tech Review",
-      "sourceUrl": "https://www.technologyreview.com/2026/10/06/1145020/2026-climate-tech-companies-to-watch-form-energy-iron-batteries/",
-      "publishedAt": "2026-10-06T10:35:00.000Z"
-    },
-    {
-      "id": "9qrgna",
-      "title": "X-energy and its helium-cooled nuclear reactors",
-      "summary": "X-energy is developing small modular reactors to satisfy some of the planet’s most power-hungry users: industrial manufacturers that need high temperatures to produce billions of tons of concrete, plastics, fibers, and chemicals. Solar panels and wind turbines are great at producing electricity but what heavy industry also needs is raw heat—and lots of it. The manufacture…",
-      "imageUrl": "https://images.unsplash.com/photo-1526374965328-7f61d4dc18c5?w=800&q=80",
-      "source": "MIT Tech Review",
-      "sourceUrl": "https://www.technologyreview.com/2026/10/06/1145025/2026-climate-tech-companies-to-watch-x-energy-helium-cooled-nuclear-reactors/",
-      "publishedAt": "2026-10-06T10:35:00.000Z"
-    },
-    {
-      "id": "siam5h",
-      "title": "Energy Dome and its carbon dioxide batteries",
-      "summary": "There’s a growing need for long-duration storage to meet energy demand and balance out renewables on the grid. Energy Dome uses compressed carbon dioxide gas in its massive grid batteries, which can deliver power for up to 24 hours. As the world races to meet growing electricity demand, solar and onshore wind power have become…",
-      "imageUrl": "https://images.unsplash.com/photo-1526374965328-7f61d4dc18c5?w=800&q=80",
-      "source": "MIT Tech Review",
-      "sourceUrl": "https://www.technologyreview.com/2026/10/06/1145032/2026-climate-tech-companies-to-watch-energy-dome-carbon-dioxide-batteries/",
-      "publishedAt": "2026-10-06T10:35:00.000Z"
-    },
-    {
-      "id": "m659en",
-      "title": "Brimstone and its one-stop process for making cleaner cement and critical minerals",
-      "summary": "Brimstone is making strides on two industrial problems, reducing the emissions from cement and providing a way to produce more critical minerals within the US. If the company can do both, with the same rocks in the same plant, it would unlock a cleaner and more efficient process for manufacturing building materials, aluminum, steel, and…",
-      "imageUrl": "https://images.unsplash.com/photo-1655720828018-edd2daec9349?w=800&q=80",
-      "source": "MIT Tech Review",
-      "sourceUrl": "https://www.technologyreview.com/2026/10/06/1145172/2026-climate-tech-companies-to-watch-brimstone-one-stop-process-making-cleaner-cement-critical-minerals/",
-      "publishedAt": "2026-10-06T10:35:00.000Z"
-    },
-    {
       "id": "o1p8z0",
       "title": "Kevin Roose Didn’t Use AI to Write His Book About AI",
       "summary": "The author of The AGI Chronicles says his book “was written by a very tired, overworked, under-slept human being.”",
@@ -433,15 +442,6 @@
       "source": "Ars Technica",
       "sourceUrl": "https://arstechnica.com/security/2026/10/vulnerability-in-agents-from-google-and-others-exposes-structural-flaw-in-mcp/",
       "publishedAt": "2026-10-05T22:26:35.000Z"
-    },
-    {
-      "id": "gemry8",
-      "title": "Rural Data Centers Are in for a Big Federal Tax Break",
-      "summary": "Under the One Big Beautiful Bill Act, data center projects in rural areas could be eligible for major tax benefits starting next year. Some hyperscalers do not seem eager to take the free cash.",
-      "imageUrl": "https://media.wired.com/photos/6abfbb7863cea41649272752/master/pass/100226-Power%20Play.jpg",
-      "source": "Wired",
-      "sourceUrl": "https://www.wired.com/story/rural-data-centers-are-in-for-a-big-federal-tax-break/",
-      "publishedAt": "2026-10-04T10:00:00.000Z"
     },
     {
       "id": "jittfl",
