@@ -1,7 +1,169 @@
 {
-  "fetchedAt": "2026-10-07T14:41:33.197Z",
+  "fetchedAt": "2026-10-08T00:53:56.402Z",
   "count": 60,
   "articles": [
+    {
+      "id": "92lkut",
+      "title": "Nous Research confirms it hit $1.5B valuation, launches AI agents for business users",
+      "summary": "The developer of Hermes Agent raised a $90 million Series B.",
+      "imageUrl": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=800&q=80",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/10/07/nous-research-confirms-it-hit-1-5b-valuation-launches-ai-agents-for-business-users/",
+      "publishedAt": "2026-10-07T20:48:45.000Z"
+    },
+    {
+      "id": "ovx48p",
+      "title": "Microsoft releases new Nvidia-chip AI PCs with revamped Windows 11",
+      "summary": "Microsoft revealed the specs and price for its Surface Laptop Ultra, AI PCs that run on Nvidia chips that are designed to run AI models and agents.",
+      "imageUrl": "https://images.unsplash.com/photo-1620712943543-bcc4688e7485?w=800&q=80",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/10/07/microsoft-releases-new-nvidia-chip-ai-pcs-with-revamped-windows-11/",
+      "publishedAt": "2026-10-07T20:22:37.000Z"
+    },
+    {
+      "id": "9m58uu",
+      "title": "ChatGPT’s ‘Intelligent UI’ update fills its responses with pictures, charts, and buttons",
+      "summary": "OpenAI is launching a new Intelligent UI feature in ChatGPT that allows the chatbot to answer your questions with interactive visuals. The update, which is rolling out to all users alongside GPT-6, gives ChatGPT the ability to combine a text response with diagrams, charts, forms, tappable buttons, and more. In a blog post explaining the change, OpenAI says it trained GPT-6 when to generate interactive visuals over text, as well as how to format them in its response. An example shared by OpenAI…",
+      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/Intelligent-UI.png?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "source": "The Verge",
+      "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/1007276/openai-chatgpt-intelligent-ui-gpt-6",
+      "publishedAt": "2026-10-07T19:10:42.000Z"
+    },
+    {
+      "id": "egp6z1",
+      "title": "These Researchers Made AI Drive a Toyota Corolla to Get In-N-Out",
+      "summary": "Three engineers put GPT, Claude, and Grok in charge of a real car. Only one of them was successful.",
+      "imageUrl": "https://media.wired.com/photos/6ac54e80213cd6c84b19e900/master/pass/AI-Lab-Researchers-Got-an-LLM-to-Drive-a-Toyota-Business.jpg",
+      "source": "Wired",
+      "sourceUrl": "https://www.wired.com/story/ai-is-driving-cars-now-oh-boy/",
+      "publishedAt": "2026-10-07T18:45:00.000Z"
+    },
+    {
+      "id": "x598mf",
+      "title": "Everything announced at Microsoft’s Surface Laptop Ultra event",
+      "summary": "Microsoft just wrapped up a big Windows and Surface-focused keynote in San Francisco. The biggest announcement was arguably the release details about the Surface Laptop Ultra, its new laptop that’s powered by Nvidia’s RTX Spark Arm-based chip. The machine will start at $2,599 for a configuration with an 8-core CPU, 24GB of RAM, and 512GB of storage, and it will be released on October 16th. The laptop also has built-in magnetic USB-C charging instead of the proprietary Surface Connect magnetic…",
+      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/lc-img-639ce71c-4af9-43a1-b5a1-34b6d8db35cc.jpeg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "source": "The Verge",
+      "sourceUrl": "https://www.theverge.com/tech/1007147/microsoft-surface-laptop-ultra-windows-event-everything-announced",
+      "publishedAt": "2026-10-07T18:42:22.000Z"
+    },
+    {
+      "id": "aptxcc",
+      "title": "Meta’s Muse launches on iPad just a month after its mobile debut",
+      "summary": "Meta’s AI agent Muse is now available on iPad, just a month after its mobile debut, as the company rapidly expands the assistant’s reach and integrations.",
+      "imageUrl": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=800&q=80",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/10/07/metas-muse-launches-on-ipad-just-a-month-after-its-mobile-debut/",
+      "publishedAt": "2026-10-07T18:30:57.000Z"
+    },
+    {
+      "id": "cfreoo",
+      "title": "ChatGPT for Teens keeps teens talking, even during mental health crises",
+      "summary": "ChatGPT’s teen safeguards are meant to protect vulnerable users, but new testing found the chatbot continues encouraging engagement during crises and potentially encourages unhealthy relationships with the AI itself.",
+      "imageUrl": "https://images.unsplash.com/photo-1620712943543-bcc4688e7485?w=800&q=80",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/10/07/chatgpt-for-teens-keeps-teens-talking-even-during-mental-health-crises/",
+      "publishedAt": "2026-10-07T18:15:28.000Z"
+    },
+    {
+      "id": "cwdxn5",
+      "title": "Microsoft is giving Copilot more control over Windows and your files",
+      "summary": "At today's Windows and Surface event, Microsoft showed off an upgrade to its Copilot AI system that will give it access to local files on your PC and the ability to take actions across the OS. It's part of an idea Microsoft is calling \"Hybrid Intelligence,\" where apps and tools rely on a mix of local and cloud AI models to accomplish tasks efficiently. To show off how Hybrid Intelligence works, Jacob Andreou, Microsoft's EVP of Copilot, walked through a video demo onstage asking Microsoft's…",
+      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/lcimg-e4e44609-0bf6-40b2-8c24-2e8c3ce7cee8.jpeg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "source": "The Verge",
+      "sourceUrl": "https://www.theverge.com/tech/1007113/microsoft-windows-copilot-ai-control-search-hybrid-intelligence",
+      "publishedAt": "2026-10-07T18:01:20.000Z"
+    },
+    {
+      "id": "pbd1z9",
+      "title": "ChatGPT is getting a lot more visual, with the launch of a new interface",
+      "summary": "OpenAI is launching a new user interface that will bring interactive visuals to ChatGPT.",
+      "imageUrl": "https://images.unsplash.com/photo-1620712943543-bcc4688e7485?w=800&q=80",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/10/07/chatgpt-is-getting-a-lot-more-visual-with-the-launch-of-a-new-interface/",
+      "publishedAt": "2026-10-07T18:00:19.000Z"
+    },
+    {
+      "id": "t77kqk",
+      "title": "The New ChatGPT Is More Show Than Tell",
+      "summary": "OpenAI is updating ChatGPT for all users with an “Intelligent UI” that’s more visual—generating interactive elements as part of the chatbot’s outputs.",
+      "imageUrl": "https://media.wired.com/photos/6ac65e502270cfac88fdd69c/master/pass/Intelligent%20UI.png",
+      "source": "Wired",
+      "sourceUrl": "https://www.wired.com/story/openai-chatgpt-intelligent-ui-is-more-show-than-tell/",
+      "publishedAt": "2026-10-07T18:00:00.000Z"
+    },
+    {
+      "id": "sr23fp",
+      "title": "Surface RTX Spark Dev Box is available for preorder for $5,999",
+      "summary": "Microsoft's Nvidia-powered Surface RTX Spark Dev Box is available for preorder now and is slated to ship in November for just about $6,000. It's pricier than the DGX Spark mini PC Nvidia launched last year, but PC prices have been climbing due to shortages of RAM and other components. The Dev Box's flat, 3D-printed anodized aluminum chassis doubles as a heatsink and resembles the top vents on an Xbox Series X. It was introduced alongside the new Surface Laptop Ultra and runs on Nvidia's…",
+      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/microsoft-surface-rtx-spark-dev-box-promo-1.png?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "source": "The Verge",
+      "sourceUrl": "https://www.theverge.com/tech/1006915/microsoft-surface-rtx-spark-dev-box-preorder",
+      "publishedAt": "2026-10-07T17:46:44.000Z"
+    },
+    {
+      "id": "amtvps",
+      "title": "Meta rolls out new AI tools to detect ads that secretly lead to child sexual abuse material",
+      "summary": "Meta launches new AI tools after discovering ads on its platforms that may look normal but direct users to harmful content elsewhere online.",
+      "imageUrl": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=800&q=80",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/10/07/meta-rolls-out-new-ai-tools-to-detect-ads-that-secretly-lead-to-child-sexual-abuse-material/",
+      "publishedAt": "2026-10-07T16:53:46.000Z"
+    },
+    {
+      "id": "e8d5q8",
+      "title": "ChatGPT is getting college planning tools",
+      "summary": "A preview of OpenAI’s College Planner. | Image: OpenAI OpenAI is bringing new tools to ChatGPT for Teens, a mode for teens introduced in August with safeguards and break reminders, to help users with the college application process. \"College Planner brings together application requirements, deadlines, tasks, and financial-aid steps for schools on a student's list in one plan,\" OpenAI says. \"Students applying to several colleges can return to it to update their progress, use the timeline to plan…",
+      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/College-planner_updated.png?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "source": "The Verge",
+      "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/1005194/openai-chatgpt-teens-college-planner-notecards",
+      "publishedAt": "2026-10-07T16:00:00.000Z"
+    },
+    {
+      "id": "i8hhnk",
+      "title": "Muse launches on the iPad",
+      "summary": "After launching nearly a month ago and spending several weeks as the top free app in Apple's App Store, the latest update to Meta's Muse iOS app introduces native support for the iPad. A Mac version of Meta's agentic AI tool (designed to compete with OpenClaw, ChatGPT's Dots, and Grok Bot) was released about a week after the original mobile version debuted expanding its usefulness to desktop tasks like organizing files. The new iPad version should function similar to Muse on iPhones, but better…",
+      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/musetop.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "source": "The Verge",
+      "sourceUrl": "https://www.theverge.com/tech/1006813/muse-ai-agent-ios-app-ipad-support",
+      "publishedAt": "2026-10-07T15:37:23.000Z"
+    },
+    {
+      "id": "42a3pd",
+      "title": "The Pentagon Hopes to Speed Up ‘Kill Chain’ AI Buys With 5-Minute Videos",
+      "summary": "The US government’s Tradewinds initiative has made it easier to throw millions of dollars at “nontraditional” defense contractors, including OpenAI, Anthropic, and Google.",
+      "imageUrl": "https://media.wired.com/photos/6abbccfabe7d0477fd09a6c4/master/pass/Security_Pentagon%20Hopes%20to%20Speed%20Up%20%E2%80%98Kill%20Chain%E2%80%99%20AI%20Buys%20With%205-Minute%20Videos_v1.jpg",
+      "source": "Wired",
+      "sourceUrl": "https://www.wired.com/story/the-pentagon-hopes-to-speed-up-kill-chain-ai-buys-with-5-minute-videos/",
+      "publishedAt": "2026-10-07T15:34:33.000Z"
+    },
+    {
+      "id": "pnu259",
+      "title": "Healthleap raises $38M for its AI that flags hospital patients who may need a closer look",
+      "summary": "The financing includes an $8M seed round co-led by Sequoia Capital and First Round Capital, and a $30 million Series A led by Hummingbird Ventures.",
+      "imageUrl": "https://images.unsplash.com/photo-1550751827-4bd374c3f58b?w=800&q=80",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/10/07/healthleap-raises-38m-for-its-ai-that-flags-hospital-patients-who-may-need-a-closer-look/",
+      "publishedAt": "2026-10-07T15:07:08.000Z"
+    },
+    {
+      "id": "u9pz80",
+      "title": "Tony Fadell on why the first wave of AI gadgets failed — and what comes next",
+      "summary": "The “father of the iPod” says the first generation of AI gadgets failed to solve real problems — and the next wave will need to earn consumers’ trust.",
+      "imageUrl": "https://images.unsplash.com/photo-1655720828018-edd2daec9349?w=800&q=80",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/10/07/tony-fadell-on-why-the-first-wave-of-ai-gadgets-failed-and-what-comes-next/",
+      "publishedAt": "2026-10-07T14:41:38.000Z"
+    },
+    {
+      "id": "dgplt3",
+      "title": "Google invests millions in Mark Zuckerberg’s efforts to create a ‘virtual cell’",
+      "summary": "Google DeepMind, Meta, and AI drug discovery startup Isomorphic Labs are jointly investing $300 million into an initiative to create a \"virtual cell\" that researchers can use to combat disease, as reported earlier by Reuters. The project is led by Biohub, a nonprofit biomedical research organization founded by Mark Zuckerberg and his wife, Priscilla Chan. It comes as part of a $1.8 billion \"Virtual Biology\" initiative to build AI datasets that could allow researchers to \"ask, predict, and answer…",
+      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/gettyimages-2243532165.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "source": "The Verge",
+      "sourceUrl": "https://www.theverge.com/tech/1006766/google-meta-biohub-investment-virtual-cell",
+      "publishedAt": "2026-10-07T14:40:52.000Z"
+    },
     {
       "id": "up0jgw",
       "title": "Google experiments with an AI-powered gaming platform",
@@ -30,21 +192,21 @@
       "publishedAt": "2026-10-07T14:15:00.000Z"
     },
     {
+      "id": "yalpj6",
+      "title": "6 days to TechCrunch Disrupt 2026: Save on your pass before doors open",
+      "summary": "In 6 days, 10,000+ people from across the global startup and tech ecosystem will come together at San Francisco’s Moscone West for TechCrunch Disrupt 2026. If you’re planning to be one of them, register for your ticket before prices increase at the door. Save up to $100 on your pass, plus 50% on a second of the same type.",
+      "imageUrl": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=800&q=80",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/10/07/6-days-to-techcrunch-disrupt-2026-save-on-your-pass-before-doors-open/",
+      "publishedAt": "2026-10-07T14:00:00.000Z"
+    },
+    {
       "id": "a6fyd8",
       "title": "Google’s new SynthID website can identify AI-generated media",
       "summary": "Google on Tuesday launched a new site that lets anyone verify whether a piece of media, be it an image, a video, or an audio clip, is generated using AI.",
       "imageUrl": "https://images.unsplash.com/photo-1655720828018-edd2daec9349?w=800&q=80",
       "source": "TechCrunch",
       "sourceUrl": "https://techcrunch.com/2026/10/07/googles-new-synthid-website-can-identify-ai-generated-media/",
-      "publishedAt": "2026-10-07T14:00:00.000Z"
-    },
-    {
-      "id": "yalpj6",
-      "title": "6 days to TechCrunch Disrupt 2026: Save on your pass before doors open",
-      "summary": "In 6 days, 10,000+ people from across the global startup and tech ecosystem will come together at San Francisco’s Moscone West for TechCrunch Disrupt 2026. If you’re planning to be one of them, don’t wait to register your ticket before prices increase at the door. Save up to $100 on your pass, plus 50% on a second of the same type.",
-      "imageUrl": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=800&q=80",
-      "source": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/10/07/6-days-to-techcrunch-disrupt-2026-save-on-your-pass-before-doors-open/",
       "publishedAt": "2026-10-07T14:00:00.000Z"
     },
     {
@@ -120,24 +282,6 @@
       "publishedAt": "2026-10-06T20:35:20.000Z"
     },
     {
-      "id": "ph9igt",
-      "title": "AI computing startup Lambda to raise $4B ahead of planned IPO",
-      "summary": "Nvidia-backed Lambda is raising up to $4 billion at a $14.5 billion pre-money valuation ahead of a planned 2027 IPO, led by Coatue and Blackstone.",
-      "imageUrl": "https://images.unsplash.com/photo-1550751827-4bd374c3f58b?w=800&q=80",
-      "source": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/10/06/ai-computing-startup-lambda-to-raise-4b-ahead-of-planned-ipo/",
-      "publishedAt": "2026-10-06T20:00:30.000Z"
-    },
-    {
-      "id": "e0wv0e",
-      "title": "The next hurdle for AI agents: getting websites to let them in",
-      "summary": "Personal AI agents promise to shop, book flights, and make reservations for you. But deliberate blocks and anti-bot defenses are getting in the way, leaving consumers caught in the middle. A new standard aims to help.",
-      "imageUrl": "https://images.unsplash.com/photo-1635070041078-e363dbe005cb?w=800&q=80",
-      "source": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/10/06/the-next-hurdle-for-ai-agents-getting-websites-to-let-them-in/",
-      "publishedAt": "2026-10-06T19:56:50.000Z"
-    },
-    {
       "id": "c71rtn",
       "title": "Hackers obtain counterfeit TLS certificates for Google and other large services",
       "summary": "Compromise of 3 domain registries allows hackers to walk off with unauthorized certs.",
@@ -156,15 +300,6 @@
       "publishedAt": "2026-10-06T18:45:39.000Z"
     },
     {
-      "id": "brfvhr",
-      "title": "Hark releases an AI personal assistant with a focus on privacy",
-      "summary": "The AI lab's personal assistant is an operating system from the future designed to compete with Muse, Dots, and Instinct.",
-      "imageUrl": "https://images.unsplash.com/photo-1655720828018-edd2daec9349?w=800&q=80",
-      "source": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/10/06/hark-releases-an-ai-personal-assistant-with-a-focus-on-privacy/",
-      "publishedAt": "2026-10-06T18:22:45.000Z"
-    },
-    {
       "id": "fta0i4",
       "title": "OpenAI Is Pissing Off a Bunch of Mathematicians—Again",
       "summary": "“There’s a perception of mobster behavior” from leading AI companies, one mathematician tells WIRED as OpenAI prepares to release more than 100 new solutions to unsolved problems.",
@@ -181,69 +316,6 @@
       "source": "MIT Tech Review",
       "sourceUrl": "https://www.technologyreview.com/2026/10/06/1145836/weight-loss-drugs-glp1-lilly-novo-aging-clocks/",
       "publishedAt": "2026-10-06T16:40:36.000Z"
-    },
-    {
-      "id": "lvp8t",
-      "title": "Mirror Particle is building a ‘world model’ of human behavior",
-      "summary": "Mirror Particle will launch at TechCrunch Disrupt's Startup Battlefield 200 with a world model built from scratch to predict human behavior, arguing that LLM role-play falls short for market research and brand strategy.",
-      "imageUrl": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=800&q=80",
-      "source": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/10/06/mirror-particle-is-building-a-world-model-of-human-behavior/",
-      "publishedAt": "2026-10-06T16:35:00.000Z"
-    },
-    {
-      "id": "q1fogf",
-      "title": "We can’t just change the definition of ‘recording’",
-      "summary": "With AI hardware, tech companies are pushing the definition of what does and doesn't constitute a recording. For most of gadget history, it'd be reasonable to assume that a device with a microphone or camera is either recording you or it isn't; it's either on or off, without much gray area. Microphones capture sound. Cameras capture images. That data is saved onto a device. Sometimes, it's also sent to the cloud - hopefully with end-to-end encryption - for processing. That data is a preserved…",
-      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/268639_Meta_Adventurer_glasses_AKrales_0005.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "source": "The Verge",
-      "sourceUrl": "https://www.theverge.com/column/1005697/we-cant-just-change-the-definition-of-recording",
-      "publishedAt": "2026-10-06T16:29:44.000Z"
-    },
-    {
-      "id": "n8rbxu",
-      "title": "Anthropic is giving startups a free year of Claude Team and $1,000 in credits",
-      "summary": "\"We created this program because we believe the benefits of AI will reach most people through the companies that build on top of models, rather than through the models alone.\"",
-      "imageUrl": "https://images.unsplash.com/photo-1620712943543-bcc4688e7485?w=800&q=80",
-      "source": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/10/06/anthropic-gives-startups-a-free-year-of-enterprise-service-and-1000-in-token-credits/",
-      "publishedAt": "2026-10-06T16:00:00.000Z"
-    },
-    {
-      "id": "d379js",
-      "title": "LibreOffice says ‘no AI’ is now a software feature",
-      "summary": "The maker of the open source document editor says it has no plans to add AI to its software's default configuration, citing user privacy.",
-      "imageUrl": "https://images.unsplash.com/photo-1526374965328-7f61d4dc18c5?w=800&q=80",
-      "source": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/10/06/libreoffice-says-no-ai-is-now-a-software-feature/",
-      "publishedAt": "2026-10-06T15:25:00.000Z"
-    },
-    {
-      "id": "7ikb38",
-      "title": "Mistral’s new 1T model aims to leapfrog closed and open rivals",
-      "summary": "French AI lab Mistral AI has released Mistral Large 4, a new large multimodal model aiming to leapfrog both American and Chinese rivals.",
-      "imageUrl": "https://images.unsplash.com/photo-1655720828018-edd2daec9349?w=800&q=80",
-      "source": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/10/06/mistrals-new-1t-model-aims-to-leapfrog-closed-and-open-rivals/",
-      "publishedAt": "2026-10-06T14:33:16.000Z"
-    },
-    {
-      "id": "b7csfe",
-      "title": "Pinterest’s AI now turns beauty Pins into action plans",
-      "summary": "Pinterest’s new AI-powered Beauty Guides translate hair and nail Pins into salon terminology, with estimated costs, appointment times, and maintenance needs.",
-      "imageUrl": "https://images.unsplash.com/photo-1676299081847-824916de030a?w=800&q=80",
-      "source": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/10/06/pinterests-ai-now-turns-beauty-pins-into-action-plans/",
-      "publishedAt": "2026-10-06T14:00:49.000Z"
-    },
-    {
-      "id": "vyo6ub",
-      "title": "Google is about to remove free access to Gemini Flash and Pro",
-      "summary": "Starting on October 9th, anyone using Google Gemini on a free plan will be limited to the Flash Lite model. Free users can currently choose from Gemini Flash Lite, Flash, and Pro, but now you'll need a $4.99/month Google AI Plus subscription to access the standard Flash model. However, that subscription is also getting a downgrade - it will soon no longer include Gemini Pro. Google says AI Plus subscribers will receive an email letting them know when they'll lose access to it. After these…",
-      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25290329/STK255_Google_Gemini_A.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "source": "The Verge",
-      "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/1005451/google-gemini-free-flash-lite-only",
-      "publishedAt": "2026-10-06T13:19:01.000Z"
     },
     {
       "id": "idsqhc",
@@ -280,15 +352,6 @@
       "source": "Ars Technica",
       "sourceUrl": "https://arstechnica.com/information-technology/2026/10/operational-complexity-a-top-barrier-for-vmware-migrations-survey/",
       "publishedAt": "2026-10-06T12:00:31.000Z"
-    },
-    {
-      "id": "khf35y",
-      "title": "Amazon Alexa Plus keeps creepily singing ‘lalala’ for minutes on end",
-      "summary": "The Amazon Echo Studio is one of the speakers that runs Alexa Plus. | Photo by John Higgins / The Verge An unsettling Alexa Plus bug has seen some Amazon Echo smart home speakers reduced to saying - and sometimes singing - nothing but \"lalala\" on repeat for minutes at a time, often in the middle of conversations with users. When quizzed about the behavior, Alexa is apparently entirely unaware of what it's been doing. The issue has been reported on Reddit repeatedly over the last few weeks, as…",
-      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/10/258035_Alexa_Studio_2025_JHiggins_0017.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "source": "The Verge",
-      "sourceUrl": "https://www.theverge.com/tech/1005342/amazon-alexa-plus-keeps-creepily-singing-lalala-for-minutes-on-end",
-      "publishedAt": "2026-10-06T10:53:11.000Z"
     },
     {
       "id": "zwx2m",
@@ -363,15 +426,6 @@
       "publishedAt": "2026-10-06T10:30:00.000Z"
     },
     {
-      "id": "lnmt50",
-      "title": "Gemini Call for Me might tell your mom you’re running late",
-      "summary": "Google may be expanding its \"Call for Me\" AI feature beyond business calls so you can use it to send messages to friends and family. Android Authority reports finding a \"Gemini Calling\" introductory screen in an APK teardown with examples that include \"Call Mom and tell her I will be 15 minutes late\" and \"Call John and ask if he is coming for dinner.\" Based on those examples, even with this expansion, Gemini would likely be limited to basic, text message-like calls. While Google's AI might not…",
-      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/Google-Pixel-11-Pro-Photos-of-Phone-7.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "source": "The Verge",
-      "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/1005177/google-gemini-call-for-me-expansion-rumors",
-      "publishedAt": "2026-10-05T23:09:55.000Z"
-    },
-    {
       "id": "dzqs81",
       "title": "MCP for agent-to-agent comms may be the riskiest protocol you've never heard of",
       "summary": "Trust gaps in the new protocol spread malicious prompts from one agent to another.",
@@ -379,33 +433,6 @@
       "source": "Ars Technica",
       "sourceUrl": "https://arstechnica.com/security/2026/10/vulnerability-in-agents-from-google-and-others-exposes-structural-flaw-in-mcp/",
       "publishedAt": "2026-10-05T22:26:35.000Z"
-    },
-    {
-      "id": "dvdccy",
-      "title": "This startup is issuing AI-generated acne prescriptions",
-      "summary": "People in Utah can now use AI to get a prescription for acne treatment. On Monday, healthcare startup Nolla Health announced that users in the state can scan their faces using its app, allowing its AI system to analyze acne severity and autonomously write a prescription, as reported earlier by Bloomberg. The service is launching as a pilot program with gradually loosening physician oversight. Two physicians will approve each AI-generated prescription before they're issued for the first 100…",
-      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/nolla-health-app.png?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "source": "The Verge",
-      "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/1005075/nolla-health-acne-ai-prescriptions",
-      "publishedAt": "2026-10-05T20:14:57.000Z"
-    },
-    {
-      "id": "hvgk62",
-      "title": "All the drama around AI’s takeover of mathematics",
-      "summary": "This past year, OpenAI, Anthropic, and other labs have announced breakthroughs on numerous long-standing mathematical problems, in some cases pushing well beyond what researchers expected current systems to be capable of — including resolving one of the famous Millennium Prize problems. But in classic Silicon Valley style, AI labs are moving fast and breaking things, barreling through the discipline with all the grace of a runaway bulldozer. Results that might normally have been celebrated have…",
-      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/268684_OpenAI_claims_to_revolutionize_maths_CVirginia2-1.webp?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "source": "The Verge",
-      "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/1004933/ai-math-openai-breakthrough-solution",
-      "publishedAt": "2026-10-05T19:28:59.000Z"
-    },
-    {
-      "id": "stusmm",
-      "title": "Wikipedia operator says OpenAI’s ‘rogue’ bots may be linked to a May outage",
-      "summary": "Following many recent disclosures about AI agents accessing third-party websites and services, the Wikimedia Foundation, which hosts Wikipedia, says that it \"can confirm that we have discovered some activity\" by \"rogue\" OpenAI agents on Wikimedia platforms. The activity includes edits to Wikimedia wikis, \"unsuccessful attempts\" to \"exploit\" the Etherpad note-taking tool that the Wikimedia Foundation hosts, and heavy traffic that the foundation says \"may\" have contributed to a partial outage that…",
-      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/STKS533_AI_AGENTS_HACKING_D.png?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "source": "The Verge",
-      "sourceUrl": "https://www.theverge.com/news/1004929/wikipedia-openai-rogue-bots-wikimedia-foundation-outage",
-      "publishedAt": "2026-10-05T19:05:19.000Z"
     },
     {
       "id": "gemry8",
@@ -417,24 +444,6 @@
       "publishedAt": "2026-10-04T10:00:00.000Z"
     },
     {
-      "id": "fvyew1",
-      "title": "The Nvidia Shield TV Is 7 Years Old. It Just Got a $100 Price Hike",
-      "summary": "The price of anything with memory is skyrocketing thanks to AI. Aging streaming devices are no exception.",
-      "imageUrl": "https://media.wired.com/photos/6ac00d9bc910b804171a679e/master/pass/GettyImages-474968764.jpg",
-      "source": "Wired",
-      "sourceUrl": "https://www.wired.com/story/7-year-old-tv-now-100-dollars-more-expensive-thank-ai/",
-      "publishedAt": "2026-10-03T18:00:00.000Z"
-    },
-    {
-      "id": "9tz1mj",
-      "title": "Muse Creates Detailed Profiles of All Your Friends and Family",
-      "summary": "Millions have downloaded Meta’s AI agent Muse. But getting it to do your bidding comes with privacy costs.",
-      "imageUrl": "https://media.wired.com/photos/6abda258fa5a1bd6e2b21507/master/pass/Kernel-Panic-Muse-AI-Self-PWN-Security.jpg",
-      "source": "Wired",
-      "sourceUrl": "https://www.wired.com/story/muse-creates-detailed-profiles-of-all-your-friends-and-family/",
-      "publishedAt": "2026-10-03T12:00:00.000Z"
-    },
-    {
       "id": "jittfl",
       "title": "Apple changes full-disk access permissions to curb abuse from AI agents",
       "summary": "Meta says FDA isn't sufficient to Muse reading messages. Apple begs to differ.",
@@ -442,15 +451,6 @@
       "source": "Ars Technica",
       "sourceUrl": "https://arstechnica.com/security/2026/10/apple-changes-full-disk-access-permissions-to-curb-abuse-from-ai-agents/",
       "publishedAt": "2026-10-02T23:03:16.000Z"
-    },
-    {
-      "id": "2djfrj",
-      "title": "These AI Experts Want to Do High-Stakes Research Out in the Open",
-      "summary": "Many frontier labs keep their risky research locked away. Trillium Labs wants to show off its work when it comes to self-improvement and model behavior.",
-      "imageUrl": "https://media.wired.com/photos/6abfd54ac4eb41b65cf33011/master/pass/Trillium-Labs-Risky-AI-Research-Business-edit.jpg",
-      "source": "Wired",
-      "sourceUrl": "https://www.wired.com/story/trillium-labs-wants-to-do-high-risk-ai-research-in-the-open/",
-      "publishedAt": "2026-10-02T16:00:00.000Z"
     },
     {
       "id": "z58b9r",
