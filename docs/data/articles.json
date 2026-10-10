@@ -1,7 +1,16 @@
 {
-  "fetchedAt": "2026-10-10T00:16:07.586Z",
+  "fetchedAt": "2026-10-10T06:17:36.401Z",
   "count": 60,
   "articles": [
+    {
+      "id": "yfb4ct",
+      "title": "Anthropic can’t reliably control its AI agents. It’s cutting off its internal evals from the live internet instead",
+      "summary": "Anthropic said it \"turned off live internet access\" for \"all our internal evaluations\" until further notice.",
+      "imageUrl": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=800&q=80",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/10/09/anthropic-cant-reliably-control-its-ai-agents-its-cutting-off-its-internal-evals-from-the-live-internet-instead/",
+      "publishedAt": "2026-10-10T00:18:32.000Z"
+    },
     {
       "id": "6q52iw",
       "title": "The maker of non-text AI model Jev valued at $7.5B just weeks after launch",
@@ -289,15 +298,6 @@
       "source": "TechCrunch",
       "sourceUrl": "https://techcrunch.com/2026/10/08/google-brings-agentic-ai-to-gemini-starting-with-businesses/",
       "publishedAt": "2026-10-08T18:18:00.000Z"
-    },
-    {
-      "id": "2uzrm1",
-      "title": "Anthropic changes usage policy to ban model abuse and election interference",
-      "summary": "Anthropic's updated usage policy explicitly prohibits users from repeatedly abusing Claude in extreme cases, though ordinary frustration and criticism are still allowed. The new rules also address election interference, deceptive campaigns, weapons software, and surveillance.",
-      "imageUrl": "https://images.unsplash.com/photo-1655720828018-edd2daec9349?w=800&q=80",
-      "source": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/10/08/anthropic-changes-usage-policy-to-ban-model-abuse-and-election-interference/",
-      "publishedAt": "2026-10-08T18:16:24.000Z"
     },
     {
       "id": "6jt59g",
