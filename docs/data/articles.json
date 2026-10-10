@@ -1,7 +1,16 @@
 {
-  "fetchedAt": "2026-10-10T06:17:36.401Z",
+  "fetchedAt": "2026-10-10T12:57:43.741Z",
   "count": 60,
   "articles": [
+    {
+      "id": "jby4zq",
+      "title": "AI Is Getting Really Good at Messing With Cybercriminals",
+      "summary": "Anti-cybercrime initiatives are increasingly using AI to scam the scammers by tricking them into talking to lifelike bots that they think are real victims.",
+      "imageUrl": "https://media.wired.com/photos/6ac7e488d45774a31ff822a9/master/pass/Kernel-Panic-AI-Getting-Really-Good-Fucking-With-Cybercriminals-Security.jpg",
+      "source": "Wired",
+      "sourceUrl": "https://www.wired.com/story/ai-is-getting-really-good-at-messing-with-cybercriminals/",
+      "publishedAt": "2026-10-10T12:00:00.000Z"
+    },
     {
       "id": "yfb4ct",
       "title": "Anthropic can’t reliably control its AI agents. It’s cutting off its internal evals from the live internet instead",
@@ -406,15 +415,6 @@
       "source": "Wired",
       "sourceUrl": "https://www.wired.com/story/openai-wants-its-new-agent-to-run-your-life-mine-said-it-loved-me/",
       "publishedAt": "2026-10-07T11:00:00.000Z"
-    },
-    {
-      "id": "kzuji3",
-      "title": "Your Next Great Read Might Be Certified ‘Organic’",
-      "summary": "Amid a sea of AI writing slop, a new stamp for “organic literature” will help readers to pick out books authored by real, corn-fed, free-range humans.",
-      "imageUrl": "https://media.wired.com/photos/6abfd3ec63cea41649272758/master/pass/Business_Plagued%20By%20AI%20Scandals,%20Publishers%20Are%20Starting%20To%20Sell%20%E2%80%98Organic%20Literature%E2%80%99_v1.jpg",
-      "source": "Wired",
-      "sourceUrl": "https://www.wired.com/story/organic-literature-books-by-people-stamp-ai/",
-      "publishedAt": "2026-10-07T08:30:00.000Z"
     },
     {
       "id": "c71rtn",
