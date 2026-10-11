@@ -1,7 +1,25 @@
 {
-  "fetchedAt": "2026-10-11T06:18:16.695Z",
+  "fetchedAt": "2026-10-11T13:21:53.689Z",
   "count": 60,
   "articles": [
+    {
+      "id": "gewhny",
+      "title": "I Made Terrible Games With Google’s AI Playground",
+      "summary": "A long day’s haul in the video game slop mines.",
+      "imageUrl": "https://images.unsplash.com/photo-1635070041078-e363dbe005cb?w=800&q=80",
+      "source": "Wired",
+      "sourceUrl": "https://www.wired.com/story/i-made-terrible-games-with-googles-ai-playground/",
+      "publishedAt": "2026-10-11T11:30:00.000Z"
+    },
+    {
+      "id": "mk31wd",
+      "title": "Learning to use local AI is exciting, overwhelming, and frustrating",
+      "summary": "Baby’s first local AI agent. | Photo: Antonio G. Di Benedetto / The Verge I'm embarking on a journey I've so far been hesitant to go on: actually using AI on the regular. Giving my most personal data to cloud services has been a major hold up for me, but it's increasingly possible to run powerful models locally to see what they're capable of. Is this tech so useful that it's worth throwing gobs of money at a computer or a laptop with lots of overpriced RAM? I'll try to help you find out. I'm not…",
+      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/100926_Asus_TUF_A14_Hermes_local_AI_ADiBenedetto_0001.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "source": "The Verge",
+      "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/1008484/learning-local-ai-hermes-qwen-model-mac-studio-testing-diary-progress",
+      "publishedAt": "2026-10-11T11:00:00.000Z"
+    },
     {
       "id": "9rudfx",
       "title": "Satya Nadella says we should assume all AI models are ‘compromised’",
@@ -246,15 +264,6 @@
       "publishedAt": "2026-10-09T10:00:00.000Z"
     },
     {
-      "id": "tymo28",
-      "title": "OpenAI doubles down on decision to fire three AI safety researchers",
-      "summary": "OpenAI is standing firm on its decision to fire three safety researchers after an investigation found they committed \"a significant breach of trust.\" In a post on X on Friday, the company said Jasmine Wang, Tomek Korbak and Mikita ⁠Balesni were dismissed for violating \"clear policies on handling sensitive information.\" It insisted the decision was not about the trio speaking out about the company and their concerns about AI safety. The post is a direct response to an open letter the researchers…",
-      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/STK155_OPEN_AI_CVirginia_C-1.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "source": "The Verge",
-      "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/1008604/openai-defends-decision-fire-safety-researchers",
-      "publishedAt": "2026-10-09T09:48:26.000Z"
-    },
-    {
       "id": "m2jic9",
       "title": "We’re putting too much faith in AI’s ability to say no",
       "summary": "Ever since people first seriously contemplated giving machines an intelligence modeled on our own, there has never been any question that they would, like us, be able to say no. The sci-fi canon is full of stories of robotic disobedience. Most of these capers are, of course, cautionary. But recently, the idea that AI shouldn’t…",
@@ -406,15 +415,6 @@
       "source": "MIT Tech Review",
       "sourceUrl": "https://www.technologyreview.com/2026/10/07/1145895/the-download-weight-loss-drugs-slow-aging-carbon-dioxide-batteries/",
       "publishedAt": "2026-10-07T12:10:00.000Z"
-    },
-    {
-      "id": "t1thgf",
-      "title": "OpenAI Wants Its New Agent to Run Your Life. Mine Said It Loved Me",
-      "summary": "Dots are designed to automate online tasks, like buying furniture. In my initial experience, the always-on agent was a bit buggy and couldn’t complete a captcha.",
-      "imageUrl": "https://media.wired.com/photos/6ac4bbcf3487dc6fde4862bd/master/pass/100626-Dots%20Couch.jpg",
-      "source": "Wired",
-      "sourceUrl": "https://www.wired.com/story/openai-wants-its-new-agent-to-run-your-life-mine-said-it-loved-me/",
-      "publishedAt": "2026-10-07T11:00:00.000Z"
     },
     {
       "id": "c71rtn",
