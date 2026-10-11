@@ -1,12 +1,30 @@
 {
-  "fetchedAt": "2026-10-11T13:21:53.689Z",
+  "fetchedAt": "2026-10-11T18:23:21.965Z",
   "count": 60,
   "articles": [
+    {
+      "id": "pr65vy",
+      "title": "Can the AI industry persuade data center opponents by getting rid of NDAs?",
+      "summary": "On Equity, we debate the impact of data center moratoriums and whether the AI industry has a communication problem.",
+      "imageUrl": "https://images.unsplash.com/photo-1620712943543-bcc4688e7485?w=800&q=80",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/10/11/can-the-ai-industry-persuade-data-center-opponents-by-getting-rid-of-ndas/",
+      "publishedAt": "2026-10-11T16:52:33.000Z"
+    },
+    {
+      "id": "k12ko0",
+      "title": "These execs think voice AI hasn’t reached its ChatGPT moment yet",
+      "summary": "Voice AI's often misses important points for its context layer, and causes the whole pipeline to break",
+      "imageUrl": "https://images.unsplash.com/photo-1550751827-4bd374c3f58b?w=800&q=80",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/10/11/these-execs-think-voice-ai-hasnt-reached-its-chatgpt-moment-yet/",
+      "publishedAt": "2026-10-11T14:00:00.000Z"
+    },
     {
       "id": "gewhny",
       "title": "I Made Terrible Games With Google’s AI Playground",
       "summary": "A long day’s haul in the video game slop mines.",
-      "imageUrl": "https://images.unsplash.com/photo-1635070041078-e363dbe005cb?w=800&q=80",
+      "imageUrl": "https://media.wired.com/photos/6ac967401dd8a2ab2e331c51/master/pass/Google-Playground-Gear-PG_THUMBNAIL_BLOG%20(1).png",
       "source": "Wired",
       "sourceUrl": "https://www.wired.com/story/i-made-terrible-games-with-googles-ai-playground/",
       "publishedAt": "2026-10-11T11:30:00.000Z"
@@ -307,24 +325,6 @@
       "source": "Wired",
       "sourceUrl": "https://www.wired.com/story/uncanny-valley-podcast-inside-elon-musks-midterm-spending-spree/",
       "publishedAt": "2026-10-08T21:14:12.000Z"
-    },
-    {
-      "id": "p61maa",
-      "title": "Pretend you’re sitting at Elizabeth Holmes’ desk on this weirdly detailed website",
-      "summary": "With over a thousand emails, slides, texts, and documents from the United States v. Elizabeth Holmes trial, Extend engineer Bo Lau created a website that simulates what it might have been like to rifle through the Theranos founder's desk.",
-      "imageUrl": "https://images.unsplash.com/photo-1526374965328-7f61d4dc18c5?w=800&q=80",
-      "source": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/10/08/pretend-youre-sitting-at-elizabeth-holmes-desk-on-this-weirdly-detailed-website/",
-      "publishedAt": "2026-10-08T21:00:00.000Z"
-    },
-    {
-      "id": "q99xlr",
-      "title": "Fired OpenAI safety researchers dispute misconduct claims, warn of chilling effect",
-      "summary": "Three fired OpenAI safety researchers dispute allegations of mishandling sensitive information, warning in an open letter that their dismissals are creating a chilling effect on the company’s AI safety culture.",
-      "imageUrl": "https://images.unsplash.com/photo-1620712943543-bcc4688e7485?w=800&q=80",
-      "source": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/10/08/fired-openai-safety-researchers-dispute-misconduct-claims-warn-of-chilling-effect/",
-      "publishedAt": "2026-10-08T20:04:26.000Z"
     },
     {
       "id": "pl8qwm",
