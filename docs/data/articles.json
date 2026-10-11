@@ -1,7 +1,25 @@
 {
-  "fetchedAt": "2026-10-10T21:29:24.908Z",
+  "fetchedAt": "2026-10-11T00:25:27.346Z",
   "count": 60,
   "articles": [
+    {
+      "id": "9rudfx",
+      "title": "Satya Nadella says we should assume all AI models are ‘compromised’",
+      "summary": "In a lengthy post on X, Microsoft's CEO laid out his views on the dangers posed by highly advanced AI models and how to confront those risks. Nadella says we can no longer accept a world where AI is treated as a \"set of nested black boxes\" whose advice and actions we simply accept or reject. He calls for building a more transparent system where models can be contained, observed, and leaves behind \"tamper-proof human readable evidence.\" Many of his recommendations align with what we've heard from…",
+      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/10/STK178_Satya_Nadella_B.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "source": "The Verge",
+      "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/1009337/satya-nadella-says-we-should-assume-all-ai-models-are-compromised",
+      "publishedAt": "2026-10-10T22:10:17.000Z"
+    },
+    {
+      "id": "gsh3np",
+      "title": "Microsoft’s Satya Nadella says AI models need an ‘emergency brake’",
+      "summary": "In a Saturday morning post, Microsoft's CEO wrote that it’s time “to step back and assess the trust architecture” of AI.",
+      "imageUrl": "https://images.unsplash.com/photo-1655720828018-edd2daec9349?w=800&q=80",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/10/10/microsofts-satya-nadella-says-ai-models-need-an-emergency-brake/",
+      "publishedAt": "2026-10-10T21:47:51.000Z"
+    },
     {
       "id": "wljsxr",
       "title": "Apple discloses deal to hire team and license tech from personalized podcast startup Huxe",
@@ -273,15 +291,6 @@
       "publishedAt": "2026-10-09T00:08:24.000Z"
     },
     {
-      "id": "6y9y3o",
-      "title": "Anthropic launches free AI security scans for open-source projects",
-      "summary": "Anthropic's offering to help open-source projects track down security vulnerabilities with a new service called OSS Scanner. It says open-source projects that opt-in will get \"thorough, periodic security scans by our strongest models at no cost.\" That could mean open-source projects get alerted about possible security issues sooner, but the trade-off is that OSS Scanner's reports don't come with human review: The outputs of this opt-in vulnerability scanner will be fully model-generated, without…",
-      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/05/STKB364_CLAUDE_2_C_96d15c.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "source": "The Verge",
-      "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/1008521/anthropic-open-source-oss-scanner",
-      "publishedAt": "2026-10-08T21:53:51.000Z"
-    },
-    {
       "id": "e6rgg",
       "title": "Inside Elon Musk’s Midterm Spending Spree",
       "summary": "This week on “Uncanny Valley,” we discuss where Elon Musk’s PAC is spending millions, the latest ideology Trump claims is dangerous, and the backlash against the designer behind Muse’s logo.",
@@ -316,15 +325,6 @@
       "source": "Wired",
       "sourceUrl": "https://www.wired.com/story/she-designed-metas-new-ai-logo-then-came-the-hate/",
       "publishedAt": "2026-10-08T19:30:00.000Z"
-    },
-    {
-      "id": "gk8w61",
-      "title": "Ben Affleck is an AI nerd, and the internet is impressed",
-      "summary": "Ben Affleck is going viral for his deep knowledge of AI, from neural networks and transformers to open weights. The actor, who sold his AI filmmaking startup to Netflix earlier this year, is proving he's more than just a Hollywood star.",
-      "imageUrl": "https://images.unsplash.com/photo-1526374965328-7f61d4dc18c5?w=800&q=80",
-      "source": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/10/08/ben-affleck-is-an-ai-nerd-and-the-internet-is-impressed/",
-      "publishedAt": "2026-10-08T18:20:32.000Z"
     },
     {
       "id": "hc9d2w",
