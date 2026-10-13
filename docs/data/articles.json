@@ -1,7 +1,97 @@
 {
-  "fetchedAt": "2026-10-13T17:05:04.410Z",
+  "fetchedAt": "2026-10-13T21:56:12.310Z",
   "count": 60,
   "articles": [
+    {
+      "id": "dzl107",
+      "title": "OpenAI employee arrested for allegedly planting a bug in a conference room",
+      "summary": "An OpenAI engineer was arrested after the company said it discovered a \"sophisticated recording device\" hidden in one of its offices. The employee was identified as Abdulrahman Alfozan, a 35-year-old Saudi national. Alfozan is charged with using or endeavoring to use a device to intercept oral communications, according to a press release from the Department of Justice. OpenAI's post about the incident says it used its AI models to \"understand the device and where it had come from, identifying…",
+      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/03/STK155_OPEN_AI_CVirginia__C.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "source": "The Verge",
+      "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/1010642/openai-employee-arrested-recording-device",
+      "publishedAt": "2026-10-13T20:45:25.000Z"
+    },
+    {
+      "id": "pprn2t",
+      "title": "Judge orders OpenAI to turn over hiring records in Apple trade secrets case",
+      "summary": "A federal judge ruled that Apple can access OpenAI's interview materials involving former Apple employees, as well as private messages and testimony from key figures in the case.",
+      "imageUrl": "https://images.unsplash.com/photo-1550751827-4bd374c3f58b?w=800&q=80",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/10/13/judge-orders-openai-to-turn-over-hiring-records-in-apple-trade-secrets-case/",
+      "publishedAt": "2026-10-13T20:36:44.000Z"
+    },
+    {
+      "id": "8xbc11",
+      "title": "Shopify opens its catalog up to more AI agents",
+      "summary": "CANADA - 2025/07/20: In this photo illustration, the Shopify logo is seen displayed on a smartphone screen. (Photo Illustration by Thomas Fuller/SOPA Images/LightRocket via Getty Images) More AI agents will soon be able to browse and purchase from Shopify listings, marking an expansion of the company's agentic commerce ambitions. Shopify announced Tuesday it will let shoppers configure their AI agents to purchase products on their behalf, giving more agents access to over a billion listings in…",
+      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/gettyimages-2225304503.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "source": "The Verge",
+      "sourceUrl": "https://www.theverge.com/news/1010365/shopify-opens-its-catalog-up-to-more-ai-agents",
+      "publishedAt": "2026-10-13T19:42:42.000Z"
+    },
+    {
+      "id": "gmuzif",
+      "title": "OpenAI and Anthropic Tell British Lawmakers: Regulate Us",
+      "summary": "AI leaders joined whistleblowers and security leaders at a sweeping parliamentary session, while a few hundred meters away Britain’s spy chief warned AI could be used to create new bioweapons.",
+      "imageUrl": "https://media.wired.com/photos/6ace48fd005dc85af95e36ae/master/pass/101326-Big%20Four%20UK%20parliment.jpg",
+      "source": "Wired",
+      "sourceUrl": "https://www.wired.com/story/openai-and-anthropic-tell-british-lawmakers-regulate-us/",
+      "publishedAt": "2026-10-13T19:35:29.000Z"
+    },
+    {
+      "id": "sx9ab9",
+      "title": "Xbox is officially embracing the chaos of AI-powered game ports",
+      "summary": "Retro gaming is going through a wild time at the moment, thanks to decompilations and recompilations that are letting gamers port classic titles to new devices, or merge code from two different games into a single new experience. Microsoft has witnessed skateboarding being modded into Call of Duty and Halo being played in a web browser, and the company is now officially embracing the chaos of this new AI-powered era of game modding. Microsoft is putting together a new Xbox Labs group to explore…",
+      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/xboxlabshed.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "source": "The Verge",
+      "sourceUrl": "https://www.theverge.com/news/1010406/xbox-labs-game-decompiling-emulation-exploration",
+      "publishedAt": "2026-10-13T19:00:48.000Z"
+    },
+    {
+      "id": "ho18as",
+      "title": "Flox Intelligence is building AI to keep wildlife away from trains, airports, and roads",
+      "summary": "Flox's edge devices can identify animals and use species-specific sounds to drive them away from critical infrastructure.",
+      "imageUrl": "https://images.unsplash.com/photo-1620712943543-bcc4688e7485?w=800&q=80",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/10/13/flox-intelligence-is-building-ai-to-keep-wildlife-away-from-trains-airports-and-roads/",
+      "publishedAt": "2026-10-13T18:30:00.000Z"
+    },
+    {
+      "id": "84zovj",
+      "title": "Facebook is giving users more control over their algorithm",
+      "summary": "Meta announced the launch of its new AI-powered feature, “Your Algorithm,” a feature it first launched on Instagram.",
+      "imageUrl": "https://images.unsplash.com/photo-1531746790095-6c10a4031c5f?w=800&q=80",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/10/13/facebook-is-giving-users-more-control-over-their-algorithm/",
+      "publishedAt": "2026-10-13T18:05:24.000Z"
+    },
+    {
+      "id": "uawsi0",
+      "title": "I don’t miss the camera on the Ray-Ban Meta Audio glasses",
+      "summary": "The other day I whizzed past several people while running in the park, my playlist blasting at full volume. The next morning, I smiled at a barista while ordering a caramel apple-flavored matcha latte. Afterward, I sat on a park bench reading a book, called up a pal to chat about her recent trip to Prague, and then asked my Ray-Ban Meta Audio glasses what meetings were coming up on my calendar. The chipper AI voice said I hadn't connected my Google Calendar yet (I had) and asked if I would like…",
+      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/rayban_meta_audio_12.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "source": "The Verge",
+      "sourceUrl": "https://www.theverge.com/tech/1009128/ray-ban-meta-audio-glasses-review-smart-glasses-headphones-wearables",
+      "publishedAt": "2026-10-13T18:00:00.000Z"
+    },
+    {
+      "id": "ymwxrn",
+      "title": "Laplace Intelligence red-teams robots and self-driving cars before they hit the real world",
+      "summary": "University of Michigan spinout Laplace Intelligence uses AI agents and interactive simulation to stress-test robots and self-driving vehicles before deployment. The profitable startup is competing in Startup Battlefield at TechCrunch Disrupt, October 13-15 in San Francisco.",
+      "imageUrl": "https://images.unsplash.com/photo-1531746790095-6c10a4031c5f?w=800&q=80",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/10/13/laplace-intelligence-red-teams-robots-and-self-driving-cars-before-they-hit-the-real-world/",
+      "publishedAt": "2026-10-13T17:30:00.000Z"
+    },
+    {
+      "id": "w3ysav",
+      "title": "Pluto Security raises $42M as AI gives enterprise security teams a new headache",
+      "summary": "The problem with giving everyone in a company access to AI tools is that people will use them in unexpected ways. And that fact is steadily seeding fears that companies now have new, gaping security holes in their systems or, at least, will soon.",
+      "imageUrl": "https://images.unsplash.com/photo-1531746790095-6c10a4031c5f?w=800&q=80",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/10/13/pluto-security-raises-42m-as-ai-gives-enterprise-security-teams-a-new-headache/",
+      "publishedAt": "2026-10-13T17:18:25.000Z"
+    },
     {
       "id": "s62qur",
       "title": "Facebook will let you customize your feed algorithm using AI",
@@ -12,8 +102,8 @@
       "publishedAt": "2026-10-13T17:01:31.000Z"
     },
     {
-      "id": "l14hm7",
-      "title": "Google Play now supports private, vibe-coded apps built just for you",
+      "id": "78h5yv",
+      "title": "Google Play now lets anyone build private, vibe-coded apps that run on Android",
       "summary": "Google is making it easier to build and use personal Android apps created with AI, without having to make them available to everyone on the Play Store.",
       "imageUrl": "https://images.unsplash.com/photo-1526374965328-7f61d4dc18c5?w=800&q=80",
       "source": "TechCrunch",
@@ -30,8 +120,8 @@
       "publishedAt": "2026-10-13T17:00:00.000Z"
     },
     {
-      "id": "w8mo3n",
-      "title": "Actress Mia Goth says it’s ‘incomprehensible’ that Instagram allowed an AI image of her to spread",
+      "id": "5p5b3j",
+      "title": "It’s ‘incomprehensible’ that Instagram allowed an AI image of Mia Goth to spread, say her reps",
       "summary": "Mia Goth at The 32nd Annual Actor Awards. | Variety via Getty Images Earlier this month, news broke that actress Mia Goth had filed for divorce from actor and filmmaker Shia LaBeouf. An Instagram post from the account miagoth_ - marked with a blue verified checkmark - quickly spread. The post shows Goth in a T-shirt that reads \"MY EX IS MY BIGGEST FAN\" in bold black letters. The Beyonc&eacute; song \"Single Ladies (Put a Ring on It)\" had been added to the Instagram post. Hundreds of thousands of…",
       "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/gettyimages-2263775227.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
       "source": "The Verge",
@@ -39,10 +129,10 @@
       "publishedAt": "2026-10-13T16:42:51.000Z"
     },
     {
-      "id": "wu4baz",
-      "title": "Satlyt, founded by a former Google and SpaceX product manager, raises $8M to run AI on satellites",
+      "id": "gzmg3a",
+      "title": "SpaceX and Google both said no. Now his software is riding a SpaceX rocket next to Google’s",
       "summary": "Satlyt wants to be the Android of orbital computing, offering open software that works on many companies' satellites, versus SpaceX's closed, all-in-one iPhone-style approach.",
-      "imageUrl": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=800&q=80",
+      "imageUrl": "https://images.unsplash.com/photo-1620712943543-bcc4688e7485?w=800&q=80",
       "source": "TechCrunch",
       "sourceUrl": "https://techcrunch.com/2026/10/13/satlyt-founded-by-a-former-google-and-spacex-product-manager-raises-8m-to-run-ai-on-satellites/",
       "publishedAt": "2026-10-13T16:30:00.000Z"
@@ -111,15 +201,6 @@
       "publishedAt": "2026-10-13T13:00:00.000Z"
     },
     {
-      "id": "erhfq9",
-      "title": "Apple launches HomeView, its first smart display for the home",
-      "summary": "The HomeView is a smart speaker with a touchscreen display. It’s available in silver, starlight, rose pink, and space gray. | Image: Apple It's finally here: Apple's long-rumored smart display, the Apple HomeView, has arrived. I got a first look at the device in New York City this week, and it's gorgeous. The HomeView puts a small, vibrant screen atop a speaker base for taking video calls, beautifully displaying photos, and providing information at a glance with Apple's Siri AI voice assistant.…",
-      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/Apple-HomeView-lineup.png?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "source": "The Verge",
-      "sourceUrl": "https://www.theverge.com/tech/1009704/apple-homeview-smart-display-first-look",
-      "publishedAt": "2026-10-13T13:00:00.000Z"
-    },
-    {
       "id": "we973w",
       "title": "Just 5 years in, interactive chatbot platform Character.AI files for bankruptcy",
       "summary": "The startup will sell some of its assets to Disney for $20 million.",
@@ -145,15 +226,6 @@
       "source": "Wired",
       "sourceUrl": "https://www.wired.com/story/book-excerpt-the-last-best-place-on-the-internet-wikipedia-artificial-intelligence/",
       "publishedAt": "2026-10-13T11:00:00.000Z"
-    },
-    {
-      "id": "cxy7ri",
-      "title": "Character.AI files for bankruptcy",
-      "summary": "Character.AI, one of the first breakout startups of the generative AI boom, has filed for bankruptcy and is selling some of its assets to Disney. The company, which builds various online bots for users to chat or roleplay with, has faced mounting scrutiny and lawsuits over the safety of its chatbots, but has continued releasing updates and products in recent months. In a press release and blog post published Monday, Character said it had filed for Chapter 11 bankruptcy protection in the US to…",
-      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/STK278_character_ai_B.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "source": "The Verge",
-      "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/1009802/character-ai-files-for-bankruptcy-disney",
-      "publishedAt": "2026-10-13T10:32:23.000Z"
     },
     {
       "id": "b831pc",
@@ -219,15 +291,6 @@
       "publishedAt": "2026-10-12T17:00:27.000Z"
     },
     {
-      "id": "3r3k0t",
-      "title": "Meta has some Wonder Full new AI models",
-      "summary": "Meta is making up for lost time in the AI race. After launching Muse Spark, the first model from its revamped Superintelligence Labs division, and buzzy AI agent Muse, it's now launching two new models it claims can go toe-to-toe with the industry's best. The new models, Muse Wonder and Muse Wonder Full, are available for Muse Code subscribers starting today. Wonder can also be accessed through the Meta Model API, Meta said. Meta says it eventually plans to power its Muse AI agent with Wonder,…",
-      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/STKB394_MUSE_AI_CVIRGINIA_D.png?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "source": "The Verge",
-      "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/1009479/meta-muse-wonder-full-ai-model",
-      "publishedAt": "2026-10-12T17:00:00.000Z"
-    },
-    {
       "id": "lky6yl",
       "title": "Honeyjar offers AI tools to improve PR and comms at every company",
       "summary": "Journalists, entrepreneurs, and even some public relations professionals will tell you that the PR process is broken. But could AI actually make things better?",
@@ -235,51 +298,6 @@
       "source": "TechCrunch",
       "sourceUrl": "https://techcrunch.com/2026/10/12/honeyjar-offers-ai-tools-to-improve-pr-and-comms-at-every-company/",
       "publishedAt": "2026-10-12T15:45:00.000Z"
-    },
-    {
-      "id": "4ktlli",
-      "title": "Microsoft president says UK is best placed to drive AI regulation",
-      "summary": "Microsoft president Brad Smith calls for urgent AI regulation, saying milk and washing machines have more oversight than AI companies.",
-      "imageUrl": "https://images.unsplash.com/photo-1676299081847-824916de030a?w=800&q=80",
-      "source": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/10/12/microsoft-president-says-uk-is-best-placed-to-drive-ai-regulation/",
-      "publishedAt": "2026-10-12T15:31:19.000Z"
-    },
-    {
-      "id": "9u0yne",
-      "title": "This AI startup says it can generate permit-ready blueprints in minutes",
-      "summary": "Blueprints AI, a bootstrapped startup based in Santa Monica, developed software that produces code-compliant construction blueprints from a photo, PDF, or sketch.",
-      "imageUrl": "https://images.unsplash.com/photo-1526374965328-7f61d4dc18c5?w=800&q=80",
-      "source": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/10/12/this-ai-startup-says-it-can-generate-permit-ready-blueprints-in-minutes/",
-      "publishedAt": "2026-10-12T15:27:59.000Z"
-    },
-    {
-      "id": "7dc266",
-      "title": "TechCrunch Disrupt 2026 starts tomorrow: Your final chance to secure up to $100 ticket savings",
-      "summary": "Tomorrow at 8 a.m. PT, it all begins z— 10,000+ founders, investors, and tech operators will gather at San Francisco’s Moscone West for TechCrunch Disrupt 2026 for three days of ideas, connections, and startups shaping what comes next. This is your last 24 hours to secure ticket savings of up to $100, and get 50% off a second.",
-      "imageUrl": "https://images.unsplash.com/photo-1620712943543-bcc4688e7485?w=800&q=80",
-      "source": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/10/12/techcrunch-disrupt-2026-starts-tomorrow-your-final-chance-to-secure-up-to-100-ticket-savings/",
-      "publishedAt": "2026-10-12T14:00:00.000Z"
-    },
-    {
-      "id": "bos7ad",
-      "title": "Microsoft’s new AI chip makes it less reliant on Nvidia’s GPUs",
-      "summary": "Microsoft’s Maia 300 chip. | Image: Microsoft Microsoft is announcing its third-generation Maia in-house AI chip today, designed to be the \"primary AI inference system\" for Microsoft's products and services. Maia 300 not only improves the cost and efficiency of running AI workloads in the cloud, it's also more capable of handling the latest reasoning models and agentic tasks. Maia 300 will start being rolled out to production in 2027, and it has been designed with efficiency in mind. \"We expect…",
-      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/Maia-300-prototype-chip-03.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "source": "The Verge",
-      "sourceUrl": "https://www.theverge.com/news/1009465/microsoft-maia-300-chip-improvements-rollout",
-      "publishedAt": "2026-10-12T13:00:00.000Z"
-    },
-    {
-      "id": "vudyju",
-      "title": "Former Plaud exec raises $26M for AI app that listens to you in the background",
-      "summary": "One of the core promises of AI is that the more it knows about a person, the better it will be able to assist them with tasks and make appropriate suggestions, which, if you'll believe the tech companies, requires apps and devices to listen, watch, or record users' activity all the time and gather all possible context.",
-      "imageUrl": "https://images.unsplash.com/photo-1550751827-4bd374c3f58b?w=800&q=80",
-      "source": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/10/12/former-plaud-exec-raises-26m-for-ai-app-that-listens-to-you-in-the-background/",
-      "publishedAt": "2026-10-12T12:47:59.000Z"
     },
     {
       "id": "8bwrx9",
@@ -291,10 +309,10 @@
       "publishedAt": "2026-10-12T12:10:00.000Z"
     },
     {
-      "id": "hk18wt",
-      "title": "Mars may be a hellhole, but the moon is not far behind",
+      "id": "5l9hha",
+      "title": "What it would take to build a city on the moon",
       "summary": "Welcome to the second space race. You can be forgiven for experiencing déjà vu. Last time, it was the Soviet Union and the United States vying to be the first to plant some flags. Now it’s a sprint to the lunar surface between America and China—alongside a host of varyingly friendly and rival nations—plus a…",
-      "imageUrl": "https://images.unsplash.com/photo-1635070041078-e363dbe005cb?w=800&q=80",
+      "imageUrl": "https://images.unsplash.com/photo-1550751827-4bd374c3f58b?w=800&q=80",
       "source": "MIT Tech Review",
       "sourceUrl": "https://www.technologyreview.com/2026/10/12/1145760/imagining-building-cities-on-the-moon/",
       "publishedAt": "2026-10-12T09:37:02.000Z"
@@ -307,15 +325,6 @@
       "source": "MIT Tech Review",
       "sourceUrl": "https://www.technologyreview.com/2026/10/12/1145745/daisy-dent-ecologist-revealing-invisible-networks-revive-rainforests/",
       "publishedAt": "2026-10-12T09:00:00.000Z"
-    },
-    {
-      "id": "vm2gq9",
-      "title": "Will the HomeView be Apple’s first smart home success?",
-      "summary": "Over the past couple of years, we’ve seen multiple reports that Apple was working on a new smart home product, but now it seems the product has a name and a launch date.",
-      "imageUrl": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=800&q=80",
-      "source": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/10/11/will-the-homeview-be-apples-first-smart-home-success/",
-      "publishedAt": "2026-10-11T21:14:40.000Z"
     },
     {
       "id": "gewhny",
@@ -406,15 +415,6 @@
       "source": "Wired",
       "sourceUrl": "https://www.wired.com/story/uncanny-valley-podcast-inside-elon-musks-midterm-spending-spree/",
       "publishedAt": "2026-10-08T21:14:12.000Z"
-    },
-    {
-      "id": "pl8qwm",
-      "title": "She Designed Meta’s New AI Logo. Then Came the Hate",
-      "summary": "Jessica Hische knew working for Meta might upset some people. But she didn’t anticipate just how angry they would get.",
-      "imageUrl": "https://media.wired.com/photos/6ac690e71275a2452d67fafd/master/pass/Model-Behavior-Artist-Behind-Meta-Muse-Logo-Business.jpg",
-      "source": "Wired",
-      "sourceUrl": "https://www.wired.com/story/she-designed-metas-new-ai-logo-then-came-the-hate/",
-      "publishedAt": "2026-10-08T19:30:00.000Z"
     },
     {
       "id": "c71rtn",
