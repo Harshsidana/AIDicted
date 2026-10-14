@@ -1,7 +1,61 @@
 {
-  "fetchedAt": "2026-10-13T21:56:12.310Z",
+  "fetchedAt": "2026-10-14T06:37:31.748Z",
   "count": 60,
   "articles": [
+    {
+      "id": "wjevph",
+      "title": "An OpenAI Employee Allegedly Used a Chatbot to Help Plant a Recording Device at the Office",
+      "summary": "Chatbot prompts reveal the engineer’s alleged efforts to set up a covert listening device days before one was found in a meeting room used by high-level executives.",
+      "imageUrl": "https://media.wired.com/photos/6aceab66cc5b61e4cd2bfb17/master/pass/Man-Arrested-for-Listening-Device-in-OpenAI-Office-Security.jpg",
+      "source": "Wired",
+      "sourceUrl": "https://www.wired.com/story/an-openai-employee-allegedly-used-a-chatbot-to-help-plant-a-recording-device-at-the-office/",
+      "publishedAt": "2026-10-13T23:17:59.000Z"
+    },
+    {
+      "id": "iogm40",
+      "title": "Science Corporation implants its vision-restoring chip in its first Stargardt disease patient",
+      "summary": "Max Hodak, the former president and co-founder of Neuralink, detailed onstage at TechCrunch Disrupt how his company's work with PRIMA is part of its path toward a novel brain-computer interface (BCI).",
+      "imageUrl": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=800&q=80",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/10/13/science-corporation-implants-its-vision-restoring-chip-in-its-first-stargardt-disease-patient/",
+      "publishedAt": "2026-10-13T23:13:31.000Z"
+    },
+    {
+      "id": "43v3b5",
+      "title": "Cerebras CEO says we’re nearing a future where everyone has a personal AI assistant at home",
+      "summary": "Cerebras CEO Andrew Feldman predicts a future where personal AI assistants become as commonplace as household appliances, running partly on local devices and partly in the cloud.",
+      "imageUrl": "https://images.unsplash.com/photo-1655720828018-edd2daec9349?w=800&q=80",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/10/13/cerebras-ceo-says-were-nearing-a-future-where-everyone-has-a-personal-ai-assistant-at-home/",
+      "publishedAt": "2026-10-13T23:05:34.000Z"
+    },
+    {
+      "id": "pmvdg4",
+      "title": "Industrial Next wants factory robots to switch tasks in minutes, not weeks",
+      "summary": "Industrial Next helps manufacturers automate complex, delicate tasks that have traditionally required human labor.",
+      "imageUrl": "https://images.unsplash.com/photo-1531746790095-6c10a4031c5f?w=800&q=80",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/10/13/industrial-next-wants-factory-robots-to-switch-tasks-in-minutes-not-weeks/",
+      "publishedAt": "2026-10-13T23:00:00.000Z"
+    },
+    {
+      "id": "f010py",
+      "title": "Cerebras CEO pushes back on AI doomsday warnings",
+      "summary": "Cerebras CEO Andrew Feldman has a message for AI leaders spreading doomsday warnings: Maybe stop talking? At TechCrunch Disrupt, he argued that the industry's focus on AI's risks is drowning out its potential benefits.",
+      "imageUrl": "https://images.unsplash.com/photo-1531746790095-6c10a4031c5f?w=800&q=80",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/10/13/cerebras-ceo-pushes-back-on-ai-doomsday-warnings/",
+      "publishedAt": "2026-10-13T22:36:59.000Z"
+    },
+    {
+      "id": "ybzm0c",
+      "title": "Topgolf saved over $11.3 million after leaving VMware",
+      "summary": "Topgolf and VMware \"ran deep\" before the migration.",
+      "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/11-TGFW-Tee-Line-X2-1152x648.jpg",
+      "source": "Ars Technica",
+      "sourceUrl": "https://arstechnica.com/information-technology/2026/10/topgolf-saved-over-11-3-million-after-leaving-vmware/",
+      "publishedAt": "2026-10-13T21:33:43.000Z"
+    },
     {
       "id": "dzl107",
       "title": "OpenAI employee arrested for allegedly planting a bug in a conference room",
@@ -201,15 +255,6 @@
       "publishedAt": "2026-10-13T13:00:00.000Z"
     },
     {
-      "id": "we973w",
-      "title": "Just 5 years in, interactive chatbot platform Character.AI files for bankruptcy",
-      "summary": "The startup will sell some of its assets to Disney for $20 million.",
-      "imageUrl": "https://images.unsplash.com/photo-1526374965328-7f61d4dc18c5?w=800&q=80",
-      "source": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/10/13/just-5-years-in-interactive-chatbot-platform-character-ai-files-for-bankruptcy/",
-      "publishedAt": "2026-10-13T12:23:42.000Z"
-    },
-    {
       "id": "vk3zde",
       "title": "The Download: open model trade-offs and geothermal power’s promise",
       "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. Open models have real benefits. Do they outweigh the risks? Anthropic recently released a report arguing that a powerful new model released by the Chinese company Z.ai, poses a major cyberattack…",
@@ -255,15 +300,6 @@
       "publishedAt": "2026-10-13T09:00:00.000Z"
     },
     {
-      "id": "cztsa5",
-      "title": "Meta releases its first frontier model, Muse Wonder",
-      "summary": "Where Muse Spark aimed to be a lightweight model that could perform at low latency, the Wonder models are larger and said to be more capable, with higher benchmark scores and better results on complex tasks like coding.",
-      "imageUrl": "https://images.unsplash.com/photo-1526374965328-7f61d4dc18c5?w=800&q=80",
-      "source": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/10/12/meta-releases-its-first-frontier-model-muse-wonder/",
-      "publishedAt": "2026-10-12T17:56:56.000Z"
-    },
-    {
       "id": "acnpw0",
       "title": "Elon Musk Bragged About His Grok Lego Star Wars Haul. Then X Users Punked Him",
       "summary": "Musk, we find your lack of security disturbing.",
@@ -273,15 +309,6 @@
       "publishedAt": "2026-10-12T17:55:12.000Z"
     },
     {
-      "id": "r9jpe1",
-      "title": "WindBorne wins a hefty US Air Force contract for its balloon data",
-      "summary": "A Silicon Valley startup that uses weather balloons and AI to predict the weather won a U.S. military contract worth almost $50 million.",
-      "imageUrl": "https://images.unsplash.com/photo-1531746790095-6c10a4031c5f?w=800&q=80",
-      "source": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/10/12/windborne-wins-a-hefty-us-air-force-contract-for-its-balloon-data/",
-      "publishedAt": "2026-10-12T17:19:14.000Z"
-    },
-    {
       "id": "o5hbys",
       "title": "Muse Wonder Puts Meta Back at the AI Frontier",
       "summary": "Meta’s biggest model rivals the world’s best—and includes new features to keep agents from going off the rails.",
@@ -289,15 +316,6 @@
       "source": "Wired",
       "sourceUrl": "https://www.wired.com/story/muse-wonder-puts-meta-back-at-the-ai-frontier/",
       "publishedAt": "2026-10-12T17:00:27.000Z"
-    },
-    {
-      "id": "lky6yl",
-      "title": "Honeyjar offers AI tools to improve PR and comms at every company",
-      "summary": "Journalists, entrepreneurs, and even some public relations professionals will tell you that the PR process is broken. But could AI actually make things better?",
-      "imageUrl": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=800&q=80",
-      "source": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/10/12/honeyjar-offers-ai-tools-to-improve-pr-and-comms-at-every-company/",
-      "publishedAt": "2026-10-12T15:45:00.000Z"
     },
     {
       "id": "8bwrx9",
@@ -406,15 +424,6 @@
       "source": "MIT Tech Review",
       "sourceUrl": "https://www.technologyreview.com/2026/10/09/1146094/were-still-figuring-out-the-side-effects-of-glp-1-weight-loss-drugs/",
       "publishedAt": "2026-10-09T09:00:00.000Z"
-    },
-    {
-      "id": "e6rgg",
-      "title": "Inside Elon Musk’s Midterm Spending Spree",
-      "summary": "This week on “Uncanny Valley,” we discuss where Elon Musk’s PAC is spending millions, the latest ideology Trump claims is dangerous, and the backlash against the designer behind Muse’s logo.",
-      "imageUrl": "https://media.wired.com/photos/6ac6cf6962b0c903a0cf2363/master/pass/Uncanny-Valley-Elon-Spending-Business-2297775036.jpg",
-      "source": "Wired",
-      "sourceUrl": "https://www.wired.com/story/uncanny-valley-podcast-inside-elon-musks-midterm-spending-spree/",
-      "publishedAt": "2026-10-08T21:14:12.000Z"
     },
     {
       "id": "c71rtn",
@@ -532,15 +541,6 @@
       "source": "Ars Technica",
       "sourceUrl": "https://arstechnica.com/information-technology/2026/09/it-mistake-erases-11-years-of-viewing-history-for-hospitals-maternity-records/",
       "publishedAt": "2026-09-22T16:55:40.000Z"
-    },
-    {
-      "id": "3kgs9v",
-      "title": "Muse, Meta's extraordinarily privileged AI assistant, has a serious 0-day",
-      "summary": "A simple ClickFix attack is only one way to completely hijack the new agent.",
-      "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2026/09/ai-agent-hacking-1152x648.jpg",
-      "source": "Ars Technica",
-      "sourceUrl": "https://arstechnica.com/security/2026/09/muse-metas-extraordinarily-privileged-ai-assistant-has-a-serious-0-day/",
-      "publishedAt": "2026-09-21T22:24:38.000Z"
     }
   ]
 }
