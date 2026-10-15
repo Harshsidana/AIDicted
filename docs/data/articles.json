@@ -1,12 +1,39 @@
 {
-  "fetchedAt": "2026-10-14T21:31:29.344Z",
+  "fetchedAt": "2026-10-15T00:23:50.138Z",
   "count": 60,
   "articles": [
     {
-      "id": "4xfefo",
-      "title": "Flock CEO says its microphones detect ‘just gunshots.’ Its website says different",
+      "id": "6u6dri",
+      "title": "Gudea leverages AI to help organizations prevent social media crises before they erupt",
+      "summary": "Every day, conversations unfold across social media and websites around the world. A seemingly insignificant post—whether it involves AI-generated misinformation, hate speech, or a damaging rumor—can quickly snowball into a much larger public controversy. Gudea, a company that tracks how stories and rumors spread online that describes itself as the “storm tracker for the internet,” […]",
+      "imageUrl": "https://images.unsplash.com/photo-1550751827-4bd374c3f58b?w=800&q=80",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/10/14/gudea-leverages-ai-to-help-organizations-prevent-social-media-crises-before-they-erupt/",
+      "publishedAt": "2026-10-15T00:00:00.000Z"
+    },
+    {
+      "id": "fako8c",
+      "title": "McKinsey is making job applicants spar with a fake AI client",
+      "summary": "Consulting firm McKinsey & Company is going to ask some entry-level candidates to have a 10-minute conversation with an AI simulation of a client as part of the interview process, according to The Wall Street Journal. The AI simulation \"aims to reflect 80% of the scenarios McKinsey consultants might encounter in their day-to-day work,\" the WSJ says, and it isn't designed to \"mimic an unhinged client.\" The AI won't score the candidates - humans will be in the room to assess the candidates and see…",
+      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/STK414_AI_CVIRGINIA_2_C-2.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "source": "The Verge",
+      "sourceUrl": "https://www.theverge.com/news/1011654/mckinsey-ai-client-interview",
+      "publishedAt": "2026-10-14T22:53:31.000Z"
+    },
+    {
+      "id": "ud5xdp",
+      "title": "Fridge hack costing millions and sparking fires stemmed from poor security",
+      "summary": "Incident hitting 700 supermarkets exploited outdated devices exposed to the Internet.",
+      "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/mass-fridge-hack-1024x648.jpg",
+      "source": "Ars Technica",
+      "sourceUrl": "https://arstechnica.com/security/2026/10/fridge-hack-costing-millions-and-sparking-fires-stemmed-from-poor-security/",
+      "publishedAt": "2026-10-14T21:35:09.000Z"
+    },
+    {
+      "id": "pdr670",
+      "title": "Flock CEO says its microphones detect ‘just gunshots’ — its website says different",
       "summary": "Langley’s comments come amid mounting scrutiny of Flock from privacy advocates, including the ACLU, and members of the public who are concerned about the misuse of its technology.",
-      "imageUrl": "https://images.unsplash.com/photo-1635070041078-e363dbe005cb?w=800&q=80",
+      "imageUrl": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=800&q=80",
       "source": "TechCrunch",
       "sourceUrl": "https://techcrunch.com/2026/10/14/flock-ceo-says-its-microphones-detect-just-gunshots-its-website-says-different/",
       "publishedAt": "2026-10-14T21:30:33.000Z"
@@ -23,8 +50,8 @@
     {
       "id": "mxw1xo",
       "title": "The AI race is back on",
-      "summary": "Last week, Anthropic and OpenAI looked like they had the AI race to themselves, pulling ahead with increasingly powerful models that left their rivals in the dust. Google seemed hopelessly far behind, while Meta, despite spending billions to revive its floundering AI ambitions, had yet to establish itself as a serious contender. Even the latest models coming out of China, impressive as they were, appeared to be playing catch-up. Then, in the space of a few days, everything changed. Google and…",
-      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/STK255_Google_Gemini_A.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "summary": "Mark Zuckerberg at the Meta Connect developer conference. | Photo: Andrej Sokolow/dpa/picture alliance via Getty Images Last week, Anthropic and OpenAI looked like they had the AI race to themselves, pulling ahead with increasingly powerful models that left their rivals in the dust. Google seemed hopelessly far behind, while Meta, despite spending billions to revive its floundering AI ambitions, had yet to establish itself as a serious contender. Even the latest models coming out of China,…",
+      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/gettyimages-2296206566.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
       "source": "The Verge",
       "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/1011311/the-ai-race-is-back-on",
       "publishedAt": "2026-10-14T19:06:03.000Z"
@@ -118,15 +145,6 @@
       "source": "The Verge",
       "sourceUrl": "https://www.theverge.com/tech/1010928/android-scam-protection-enhanced-protection-google-messages",
       "publishedAt": "2026-10-14T16:00:00.000Z"
-    },
-    {
-      "id": "twn863",
-      "title": "Anthropic’s self-replicating AI warning is alarming deja vu",
-      "summary": "Are legions of smart devices - fridges, ovens, vacuum cleaners, lawnmowers, security cameras, and TVs - conspiring to take over the internet? No. But they could soon be unwitting hosts to self-replicating AI models that spread from device to device and prove remarkably difficult to contain. Welcome to the unsettling world of AI worms, where, depending on who you ask, the prospect of models spreading uncontrollably across household appliances is either an imminent cybersecurity risk or another…",
-      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/akrales_220309_4977_0232-1.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "source": "The Verge",
-      "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/1011108/anthropic-self-replicating-ai-smart-devices-risk",
-      "publishedAt": "2026-10-14T15:19:02.000Z"
     },
     {
       "id": "mwe9vw",
@@ -307,15 +325,6 @@
       "source": "Wired",
       "sourceUrl": "https://www.wired.com/story/openai-and-anthropic-tell-british-lawmakers-regulate-us/",
       "publishedAt": "2026-10-13T19:35:29.000Z"
-    },
-    {
-      "id": "ho18as",
-      "title": "Flox Intelligence is building AI to keep wildlife away from trains, airports, and roads",
-      "summary": "Flox's edge devices can identify animals and use species-specific sounds to drive them away from critical infrastructure.",
-      "imageUrl": "https://images.unsplash.com/photo-1620712943543-bcc4688e7485?w=800&q=80",
-      "source": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/10/13/flox-intelligence-is-building-ai-to-keep-wildlife-away-from-trains-airports-and-roads/",
-      "publishedAt": "2026-10-13T18:30:00.000Z"
     },
     {
       "id": "vk3zde",
@@ -532,15 +541,6 @@
       "source": "Ars Technica",
       "sourceUrl": "https://arstechnica.com/security/2026/09/theres-a-new-way-to-break-rsa-thats-faster-than-anything-weve-seen-before/",
       "publishedAt": "2026-09-24T11:15:44.000Z"
-    },
-    {
-      "id": "cgqx03",
-      "title": "Microsoft disrupts AI-assisted platform that compromised 12,000 accounts",
-      "summary": "EvilTokens provided an end-to-end platform that makes mass compromises faster and easier.",
-      "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2026/09/ai-automation-1152x648.jpg",
-      "source": "Ars Technica",
-      "sourceUrl": "https://arstechnica.com/security/2026/09/microsoft-disrupts-ai-assisted-platform-that-compromised-12000/",
-      "publishedAt": "2026-09-22T19:45:47.000Z"
     }
   ]
 }
