@@ -1,7 +1,25 @@
 {
-  "fetchedAt": "2026-10-15T00:23:50.138Z",
+  "fetchedAt": "2026-10-15T05:03:36.725Z",
   "count": 60,
   "articles": [
+    {
+      "id": "4d0vpn",
+      "title": "Figma announces new features to define how agents work on its platform",
+      "summary": "Figma is also releasing its code layers feature in open beta.",
+      "imageUrl": "https://images.unsplash.com/photo-1676299081847-824916de030a?w=800&q=80",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/10/14/figma-announces-new-features-to-define-how-agents-work-on-its-platform/",
+      "publishedAt": "2026-10-15T04:30:00.000Z"
+    },
+    {
+      "id": "39szpi",
+      "title": "Ricursive Intelligence is betting on AI-designed chips to help solve the compute crisis",
+      "summary": "The founders detailed how their startup is developing AI that can design chips, learn from each iteration, and improve subsequent designs, all with the goal of automating and accelerating the chip design process.",
+      "imageUrl": "https://images.unsplash.com/photo-1635070041078-e363dbe005cb?w=800&q=80",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/10/14/ricursive-intelligence-is-betting-on-ai-designed-chips-to-help-solve-the-compute-crisis/",
+      "publishedAt": "2026-10-15T01:01:32.000Z"
+    },
     {
       "id": "6u6dri",
       "title": "Gudea leverages AI to help organizations prevent social media crises before they erupt",
@@ -291,15 +309,6 @@
       "publishedAt": "2026-10-13T23:00:00.000Z"
     },
     {
-      "id": "f010py",
-      "title": "Cerebras CEO pushes back on AI doomsday warnings",
-      "summary": "Cerebras CEO Andrew Feldman has a message for AI leaders spreading doomsday warnings: Maybe stop talking? At TechCrunch Disrupt, he argued that the industry's focus on AI's risks is drowning out its potential benefits.",
-      "imageUrl": "https://images.unsplash.com/photo-1531746790095-6c10a4031c5f?w=800&q=80",
-      "source": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/10/13/cerebras-ceo-pushes-back-on-ai-doomsday-warnings/",
-      "publishedAt": "2026-10-13T22:36:59.000Z"
-    },
-    {
       "id": "ybzm0c",
       "title": "Topgolf saved over $11.3 million after leaving VMware",
       "summary": "Topgolf and VMware \"ran deep\" before the migration.",
@@ -307,15 +316,6 @@
       "source": "Ars Technica",
       "sourceUrl": "https://arstechnica.com/information-technology/2026/10/topgolf-saved-over-11-3-million-after-leaving-vmware/",
       "publishedAt": "2026-10-13T21:33:43.000Z"
-    },
-    {
-      "id": "pprn2t",
-      "title": "Judge orders OpenAI to turn over hiring records in Apple trade secrets case",
-      "summary": "A federal judge ruled that Apple can access OpenAI's interview materials involving former Apple employees, as well as private messages and testimony from key figures in the case.",
-      "imageUrl": "https://images.unsplash.com/photo-1550751827-4bd374c3f58b?w=800&q=80",
-      "source": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/10/13/judge-orders-openai-to-turn-over-hiring-records-in-apple-trade-secrets-case/",
-      "publishedAt": "2026-10-13T20:36:44.000Z"
     },
     {
       "id": "gmuzif",
