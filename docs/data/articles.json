@@ -1,7 +1,16 @@
 {
-  "fetchedAt": "2026-10-17T06:02:14.833Z",
+  "fetchedAt": "2026-10-17T11:05:27.865Z",
   "count": 60,
   "articles": [
+    {
+      "id": "x4kpat",
+      "title": "Why AI Isn’t Ready to Tackle Our Convoluted Genomes",
+      "summary": "The DNA inside our cells isn’t just a series of instructions, but something far more dynamic. Like scientists, AI models don't yet have the data to properly decode it.",
+      "imageUrl": "https://media.wired.com/photos/6acf63d6b06331734b2e70d7/master/pass/Physical%20Genome%20cr-Samuel%20Velasco%20and%20Hannah%20Waters_Quanta%20Magazine-Lede.jpg",
+      "source": "Wired",
+      "sourceUrl": "https://www.wired.com/story/why-ai-isnt-ready-to-tackle-our-convoluted-genomes/",
+      "publishedAt": "2026-10-17T09:00:00.000Z"
+    },
     {
       "id": "uqud20",
       "title": "Replit is no longer working with Anthropic, CEO says",
@@ -433,15 +442,6 @@
       "source": "Wired",
       "sourceUrl": "https://www.wired.com/story/ai-models-can-be-easily-modified-to-assist-terrorist-and-extremist-activity/",
       "publishedAt": "2026-10-14T09:00:00.000Z"
-    },
-    {
-      "id": "wjevph",
-      "title": "An OpenAI Employee Allegedly Used a Chatbot to Help Plant a Recording Device at the Office",
-      "summary": "Chatbot prompts reveal the engineer’s alleged efforts to set up a covert listening device days before one was found in a meeting room used by high-level executives.",
-      "imageUrl": "https://media.wired.com/photos/6acf68394246ebd08155f6c2/master/pass/2026-10-13T224936Z_547248141_RC2F2OAXO3WE_RTRMADP_3_OPENAI-SPYING-FBI.jpg",
-      "source": "Wired",
-      "sourceUrl": "https://www.wired.com/story/an-openai-employee-allegedly-used-a-chatbot-to-help-plant-a-recording-device-at-the-office/",
-      "publishedAt": "2026-10-13T23:17:59.000Z"
     },
     {
       "id": "ybzm0c",
