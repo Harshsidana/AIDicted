@@ -1,7 +1,16 @@
 {
-  "fetchedAt": "2026-10-17T11:05:27.865Z",
+  "fetchedAt": "2026-10-17T14:21:10.112Z",
   "count": 60,
   "articles": [
+    {
+      "id": "qcq9l",
+      "title": "Websites are closing their doors to AI agents",
+      "summary": "Autonomous agents are the hottest thing in AI. OpenAI, Meta, Google, Instinct, and others promise their agents can scour the internet on your behalf, doing anything from booking a dinner reservation and cleaning out your inbox to buying new shoes. But what happens when the rest of the internet won't play nice? In recent weeks, users of services like Meta's Muse, xAI's Grok, OpenAI's Dots, and Instinct have reported blocks preventing their AI agents from performing tasks across top websites. Yelp…",
+      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/03/STK414_AI_CVIRGINIA_C.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "source": "The Verge",
+      "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/1013195/ai-agents-blocked-web",
+      "publishedAt": "2026-10-17T13:00:00.000Z"
+    },
     {
       "id": "x4kpat",
       "title": "Why AI Isn’t Ready to Tackle Our Convoluted Genomes",
@@ -343,15 +352,6 @@
       "source": "The Verge",
       "sourceUrl": "https://www.theverge.com/tech/1011938/muse-ai-data-friends-consent",
       "publishedAt": "2026-10-15T16:21:45.000Z"
-    },
-    {
-      "id": "ybseul",
-      "title": "How Windows is being optimized for Nvidia’s RTX Spark laptops",
-      "summary": "Microsoft and Nvidia held a launch party for the first wave of RTX Spark laptops last week in San Francisco, where a new wave of AI PCs took center stage amid a packed crowd and a lively hands-on area. A day after the media event, I was invited to a quieter Nvidia event to hear a lot more about the new RTX Spark computing platform. While Nvidia's new laptops might look like regular Windows machines, the chips inside are Arm-based, instead of the traditional x64 architecture used by AMD and…",
-      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/08/STK109_WINDOWS_A.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "source": "The Verge",
-      "sourceUrl": "https://www.theverge.com/tech/1011996/microsoft-windows-rtx-spark-platform-changes-notepad",
-      "publishedAt": "2026-10-15T14:30:00.000Z"
     },
     {
       "id": "w0qbzw",
