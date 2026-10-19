@@ -1,7 +1,43 @@
 {
-  "fetchedAt": "2026-10-19T05:09:54.392Z",
+  "fetchedAt": "2026-10-19T11:08:39.819Z",
   "count": 60,
   "articles": [
+    {
+      "id": "qyppbq",
+      "title": "Inside the quest to combat Arctic fires and save the planet’s frozen carbon",
+      "summary": "In the middle of an especially warm July in 2021, a wildfire ignited in a thick forest of black spruce and peeling paper birch trees on the northern campus of the University of Alaska, Fairbanks. The blaze, possibly sparked by lightning, burned across the dry carpet of feather mosses and lichen before climbing into the…",
+      "imageUrl": "https://images.unsplash.com/photo-1655720828018-edd2daec9349?w=800&q=80",
+      "source": "MIT Tech Review",
+      "sourceUrl": "https://www.technologyreview.com/2026/10/19/1146832/inside-the-quest-to-combat-arctic-fires-and-save-the-planets-frozen-carbon/",
+      "publishedAt": "2026-10-19T09:22:17.000Z"
+    },
+    {
+      "id": "wesq3m",
+      "title": "AI researchers stranded Claude on a virtual desert island. It started to “play.”",
+      "summary": "What do AI agents do if you don’t tell them to do anything? The answer looks a lot like play. Researchers repeatedly stranded them alone on a virtual desert island for 30 hours in an experiment reminiscent of the movies Cast Away or Home Alone. The agents—copies of Claude Opus 4.7 nicknamed Eko—were able to…",
+      "imageUrl": "https://images.unsplash.com/photo-1550751827-4bd374c3f58b?w=800&q=80",
+      "source": "MIT Tech Review",
+      "sourceUrl": "https://www.technologyreview.com/2026/10/19/1147095/ai-stranded-claude-virtual-desert-island-play/",
+      "publishedAt": "2026-10-19T09:08:05.000Z"
+    },
+    {
+      "id": "ed9i7l",
+      "title": "Disney Asked Character.AI to Go Bankrupt for a Get-Out-of-Lawsuits Card",
+      "summary": "The entertainment giant hopes to get trust and safety tech, among other IP, from a startup whose chatbots dozens of states allege encouraged minors to self-harm and kill their parents.",
+      "imageUrl": "https://media.wired.com/photos/6acfe36ba2733753393886b8/master/pass/Disney-Asked-Character.AI-to-Go-Bankrupt-Business-1530260396.jpg",
+      "source": "Wired",
+      "sourceUrl": "https://www.wired.com/story/disney-asked-characterai-to-go-bankrupt-for-a-get-out-of-lawsuits-card/",
+      "publishedAt": "2026-10-19T09:00:00.000Z"
+    },
+    {
+      "id": "vovuha",
+      "title": "How far can we push computing?",
+      "summary": "MIT Technology Review Explains: Let our writers untangle the complex, messy world of science and technology to help you understand what’s coming next. You can read more from the series here. On the evening of December 29, 1959, at an American Physical Society meeting at Caltech, the physicist Richard Feynman gave a lecture called “There’s…",
+      "imageUrl": "https://images.unsplash.com/photo-1526374965328-7f61d4dc18c5?w=800&q=80",
+      "source": "MIT Tech Review",
+      "sourceUrl": "https://www.technologyreview.com/2026/10/19/1145904/tr-explains-how-far-can-we-push-computing/",
+      "publishedAt": "2026-10-19T09:00:00.000Z"
+    },
     {
       "id": "rlo49t",
       "title": "Anthropic says it’s committing 5% of its shares to a ‘public benefit fund’",
@@ -381,33 +417,6 @@
       "publishedAt": "2026-10-15T12:10:00.000Z"
     },
     {
-      "id": "p3sfop",
-      "title": "How much more can nuclear power plants give?",
-      "summary": "In this age of rising electricity demand, people are trying to squeeze every last bit of power out of every power plant possible. Over the past few weeks, there’s been big news about nuclear power plants trying to do just that. Constellation, the largest nuclear operator in the US, announced plans to add nearly a…",
-      "imageUrl": "https://images.unsplash.com/photo-1531746790095-6c10a4031c5f?w=800&q=80",
-      "source": "MIT Tech Review",
-      "sourceUrl": "https://www.technologyreview.com/2026/10/15/1146577/nuclear-power-upgrade/",
-      "publishedAt": "2026-10-15T10:00:00.000Z"
-    },
-    {
-      "id": "2tsu3o",
-      "title": "Six wild ideas for perpetuating your mind",
-      "summary": "Have you ever thought about what makes you you? Science assures us it has everything to do with the three-pound organ between our ears, with its billions of neurons and trillions of delicate connections. But it’s a lot trickier to explain why we have a sense of self-awareness or to pin down precisely where that…",
-      "imageUrl": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=800&q=80",
-      "source": "MIT Tech Review",
-      "sourceUrl": "https://www.technologyreview.com/2026/10/15/1145819/six-wild-ideas-perpetuating-your-mind-cognitive-immortality/",
-      "publishedAt": "2026-10-15T09:00:00.000Z"
-    },
-    {
-      "id": "3qips8",
-      "title": "Pig kidneys that were “frozen” for a year have been brought back to life",
-      "summary": "Pig kidneys that were cooled to -150 °C and stored in a freezer for months have been successfully rewarmed and shown to work again for the first time, say scientists. They hope to replicate the findings with human organs. The kidneys—which are similar in size to human ones—were left in a glass-like state, in one…",
-      "imageUrl": "https://images.unsplash.com/photo-1526374965328-7f61d4dc18c5?w=800&q=80",
-      "source": "MIT Tech Review",
-      "sourceUrl": "https://www.technologyreview.com/2026/10/15/1146091/pig-kidneys-that-were-frozen-for-a-year-have-been-brought-back-to-life/",
-      "publishedAt": "2026-10-15T08:43:24.000Z"
-    },
-    {
       "id": "ud5xdp",
       "title": "Fridge hack costing millions and sparking fires stemmed from poor security",
       "summary": "Incident hitting 700 supermarkets exploited outdated devices exposed to the Internet.",
@@ -433,15 +442,6 @@
       "source": "Ars Technica",
       "sourceUrl": "https://arstechnica.com/security/2026/10/anthropic-warns-small-ai-models-could-self-replicate-through-iot-devices/",
       "publishedAt": "2026-10-14T12:55:06.000Z"
-    },
-    {
-      "id": "o9rido",
-      "title": "My Friend Has No Soul",
-      "summary": "The second iteration of the viral Friend AI necklace is louder and less interesting.",
-      "imageUrl": "https://media.wired.com/photos/6acdf17fe71041f109e915b0/master/pass/E4.jpg",
-      "source": "Wired",
-      "sourceUrl": "https://www.wired.com/story/my-friend-has-no-soul/",
-      "publishedAt": "2026-10-14T11:00:00.000Z"
     },
     {
       "id": "ybzm0c",
