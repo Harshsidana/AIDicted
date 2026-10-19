@@ -1,7 +1,43 @@
 {
-  "fetchedAt": "2026-10-19T11:08:39.819Z",
+  "fetchedAt": "2026-10-19T17:41:37.375Z",
   "count": 60,
   "articles": [
+    {
+      "id": "emhvfd",
+      "title": "People are using AI to make their smart TVs dumb again",
+      "summary": "Fed up with ads, tracking and sluggish interfaces, some smart TV owners are turning to AI agents to strip away bloatware and take back control of their TVs.",
+      "imageUrl": "https://images.unsplash.com/photo-1676299081847-824916de030a?w=800&q=80",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/10/19/people-are-using-ai-to-make-their-smart-tvs-dumb-again/",
+      "publishedAt": "2026-10-19T16:13:22.000Z"
+    },
+    {
+      "id": "vn66w1",
+      "title": "WhatsApp Help Pages Leaked Hidden Instructions for a Meta Chatbot",
+      "summary": "Around 80 pages on WhatsApp’s website exposed instructions that were designed for its chatbot, including “WHAT NOT TO SAY.” Meta says a bug caused the issue.",
+      "imageUrl": "https://media.wired.com/photos/6ad61af88d7b5cce41c3ec77/master/pass/GettyImages-2262950720.jpg",
+      "source": "Wired",
+      "sourceUrl": "https://www.wired.com/story/whatsapp-help-pages-leaked-hidden-instructions-for-a-meta-chatbot/",
+      "publishedAt": "2026-10-19T16:00:00.000Z"
+    },
+    {
+      "id": "brcfq4",
+      "title": "Nvidia launches new open models to run agents in the enterprise and on PCs",
+      "summary": "Nvidia is leaning hard into the trend of enterprise companies wanting to run their own open models in their own data centers and also trying to make on-device, private AI agents a thing.",
+      "imageUrl": "https://images.unsplash.com/photo-1531746790095-6c10a4031c5f?w=800&q=80",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/10/19/nvidia-launches-new-open-models-to-run-agents-in-the-enterprise-and-on-pcs/",
+      "publishedAt": "2026-10-19T15:37:09.000Z"
+    },
+    {
+      "id": "aauxhm",
+      "title": "The Download: preserving the Arctic permafrost, and playful AI agents",
+      "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. Inside the quest to combat Arctic fires and save the planet’s frozen carbon —James Temple In July 2021, a wildfire burned through a forest on the University of Alaska, Fairbanks campus,…",
+      "imageUrl": "https://images.unsplash.com/photo-1526374965328-7f61d4dc18c5?w=800&q=80",
+      "source": "MIT Tech Review",
+      "sourceUrl": "https://www.technologyreview.com/2026/10/19/1147103/the-download-preserving-the-arctic-permafrost-and-playful-ai-agents/",
+      "publishedAt": "2026-10-19T12:10:00.000Z"
+    },
     {
       "id": "qyppbq",
       "title": "Inside the quest to combat Arctic fires and save the planet’s frozen carbon",
@@ -41,7 +77,7 @@
     {
       "id": "rlo49t",
       "title": "Anthropic says it’s committing 5% of its shares to a ‘public benefit fund’",
-      "summary": "Anthropic said that it will commit 5% of its shares to the fund.",
+      "summary": "The company offered some broad-strokes ideas for how this money might actually be used, such as “large donations to traditional nonprofits or direct distributions to specific populations.”",
       "imageUrl": "https://images.unsplash.com/photo-1655720828018-edd2daec9349?w=800&q=80",
       "source": "TechCrunch",
       "sourceUrl": "https://techcrunch.com/2026/10/18/anthropic-says-its-committing-5-of-its-shares-to-a-public-benefit-fund/",
@@ -57,10 +93,10 @@
       "publishedAt": "2026-10-18T18:28:10.000Z"
     },
     {
-      "id": "cu5nja",
-      "title": "Disney agrees to hire the majority of Character.AI’s workforce",
+      "id": "9jlkq0",
+      "title": "Disney agrees to hire the majority of Character AI’s workforce",
       "summary": "The filing also says that the “vast majority” of Character.AI employees who were offered jobs at Disney accepted them. However, this is a stalking horse bid, so another company could come forward with a higher offer.",
-      "imageUrl": "https://images.unsplash.com/photo-1676299081847-824916de030a?w=800&q=80",
+      "imageUrl": "https://images.unsplash.com/photo-1526374965328-7f61d4dc18c5?w=800&q=80",
       "source": "TechCrunch",
       "sourceUrl": "https://techcrunch.com/2026/10/18/disney-agrees-to-hire-the-majority-of-character-ais-workforce/",
       "publishedAt": "2026-10-18T16:30:00.000Z"
@@ -318,15 +354,6 @@
       "publishedAt": "2026-10-16T07:56:32.000Z"
     },
     {
-      "id": "pry5om",
-      "title": "When it came to Cal AI’s viral success, a small army of influencers paid off",
-      "summary": "The company generated over $30 million in revenue in two years and was acquired by MyFitnessPal for an undisclosed amount of money in March.",
-      "imageUrl": "https://images.unsplash.com/photo-1526374965328-7f61d4dc18c5?w=800&q=80",
-      "source": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/10/15/when-it-came-to-cal-ais-viral-success-a-small-army-of-influencers-paid-off/",
-      "publishedAt": "2026-10-15T23:44:56.000Z"
-    },
-    {
       "id": "z4a4eh",
       "title": "ChatGPT can peek at your Chrome tabs now",
       "summary": "OpenAI's ChatGPT Atlas browser is gone, but now ChatGPT's Google Chrome extension is getting some upgrades that allow it to use the browser tabs you already have open. With the extension installed, OpenAI says ChatGPT can now view your browser tabs when you tag Chrome in ChatGPT's web or desktop app, posting a demo video showing someone asking ChatGPT to compare the three tabs they have open with sofas they're considering. A few big upgrades for Chrome users today! We're bringing the power of…",
@@ -390,15 +417,6 @@
       "publishedAt": "2026-10-15T20:32:41.000Z"
     },
     {
-      "id": "bdu7mj",
-      "title": "Meta launches an open-weight AI model that runs on Macs",
-      "summary": "Meta and Apple have teamed up for the launch of the social media giant's newest model, Muse Spark Open, which will run locally on Apple silicon.",
-      "imageUrl": "https://images.unsplash.com/photo-1620712943543-bcc4688e7485?w=800&q=80",
-      "source": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/10/15/meta-launches-an-open-weight-model-that-runs-on-macs/",
-      "publishedAt": "2026-10-15T20:04:53.000Z"
-    },
-    {
       "id": "altepz",
       "title": "Bluesky’s AI tool now lets you make games and apps to share on social",
       "summary": "Bluesky's Attie AI tool, which initially launched earlier this year as a way to use AI to build your own feeds, now lets you make \"small\" social apps like games, polls, and dashboards that you can then share with others as their own websites. In an interview at TechCrunch Disrupt, Bluesky CEO Toni Schneider said to think of Attie as \"social vibe coding or vibe coding for your community.\" You can make your own Attie app by typing in a prompt. A simple poll I made about Pok&eacute;mon Red and…",
@@ -408,15 +426,6 @@
       "publishedAt": "2026-10-15T19:57:16.000Z"
     },
     {
-      "id": "w0qbzw",
-      "title": "The Download: reviving frozen pig kidneys and boosting nuclear power",
-      "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. Pig kidneys that were “frozen” for a year have been brought back to life Pig kidneys that were cooled to -150 °C and stored in a freezer for months have been…",
-      "imageUrl": "https://images.unsplash.com/photo-1620712943543-bcc4688e7485?w=800&q=80",
-      "source": "MIT Tech Review",
-      "sourceUrl": "https://www.technologyreview.com/2026/10/15/1146755/the-download-reviving-frozen-pig-kidneys-boosting-nuclear-power/",
-      "publishedAt": "2026-10-15T12:10:00.000Z"
-    },
-    {
       "id": "ud5xdp",
       "title": "Fridge hack costing millions and sparking fires stemmed from poor security",
       "summary": "Incident hitting 700 supermarkets exploited outdated devices exposed to the Internet.",
@@ -424,15 +433,6 @@
       "source": "Ars Technica",
       "sourceUrl": "https://arstechnica.com/security/2026/10/fridge-hack-costing-millions-and-sparking-fires-stemmed-from-poor-security/",
       "publishedAt": "2026-10-14T21:35:09.000Z"
-    },
-    {
-      "id": "rti8c0",
-      "title": "AI Came for Math. Now It’s Chasing the Rest of Science",
-      "summary": "AI may soon be the default way to solve theoretical problems in economics, high-energy physics, and other fields, MIT researchers tell WIRED.",
-      "imageUrl": "https://media.wired.com/photos/6ace87bed95d506835d511b4/master/pass/AI-Lab-AI-Coming-for-Other-Areas-of-Science-Businesspsd.jpg",
-      "source": "Wired",
-      "sourceUrl": "https://www.wired.com/story/ai-is-coming-for-science-next-watch-out/",
-      "publishedAt": "2026-10-14T18:15:00.000Z"
     },
     {
       "id": "utfhoq",
