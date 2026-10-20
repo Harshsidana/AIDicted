@@ -1,7 +1,88 @@
 {
-  "fetchedAt": "2026-10-20T17:27:17.675Z",
+  "fetchedAt": "2026-10-20T20:48:20.814Z",
   "count": 60,
   "articles": [
+    {
+      "id": "mnrh8v",
+      "title": "SpaceX’s AI business is beating expectations",
+      "summary": "SpaceX’s data centers and Grok agents have been more profitable than investors expected in second quarter of the year, as the company leaves its roots as a space company behind to focus on artificial intelligence, which now makes up 52% of its income. Elon Musk’s deep conglomerate reported on Tuesday $14.6 billion in third-quarter revenue, […]",
+      "imageUrl": "https://images.unsplash.com/photo-1531746790095-6c10a4031c5f?w=800&q=80",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/10/20/spacexs-ai-business-is-beating-expectations/",
+      "publishedAt": "2026-10-20T20:40:41.000Z"
+    },
+    {
+      "id": "a3swp3",
+      "title": "OpenAI acquires startup Orchestra Bio⁠ to beef up its biotech business",
+      "summary": "OpenAI says it's adding Orchestra's team and technology to work on Rosalind, its AI model for life sciences research, and to its related Rosalind Workbench tool, a harness that aims to help researchers plan experiments and analyze results.",
+      "imageUrl": "https://images.unsplash.com/photo-1531746790095-6c10a4031c5f?w=800&q=80",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/10/20/openai-acquires-startup-orchestra-bio%e2%81%a0-to-beef-up-its-biotech-business/",
+      "publishedAt": "2026-10-20T20:35:10.000Z"
+    },
+    {
+      "id": "vfgkde",
+      "title": "Astrolab’s upcoming rover will run the first LLMs on the moon",
+      "summary": "Large language models are set to go lunar. A computer capable of running AI software is one of the payloads aboard Astrolab’s FLIP lunar rover, which is slated to head to Earth’s celestial companion as early as November 2026. The 480-kilogram FLIP rover, short for “FLEX Lunar Innovation Platform,” is the first in a series…",
+      "imageUrl": "https://images.unsplash.com/photo-1485827404703-89b55fcc595e?w=800&q=80",
+      "source": "MIT Tech Review",
+      "sourceUrl": "https://www.technologyreview.com/2026/10/20/1147360/astrolab-upcoming-rover-llms-on-the-moon/",
+      "publishedAt": "2026-10-20T20:07:21.000Z"
+    },
+    {
+      "id": "3gzjjd",
+      "title": "The Internet goes on high alert after discovery of 8 compromised TLS certs",
+      "summary": "Intermediate certs allow anyone to mint web credentials for any Internet server.",
+      "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2026/07/broken-encryption-lock-1152x648.jpg",
+      "source": "Ars Technica",
+      "sourceUrl": "https://arstechnica.com/security/2026/10/the-internet-goes-on-high-alert-after-discovery-of-8-compromised-tls-certs/",
+      "publishedAt": "2026-10-20T19:47:35.000Z"
+    },
+    {
+      "id": "iht329",
+      "title": "Google has joined Amazon in attacking Nvidia’s stronghold with AI app developers",
+      "summary": "Google has joined Amazon in releasing a developer tool that makes it easy for PyTorch users to move their apps off Nvidia GPUs.",
+      "imageUrl": "https://images.unsplash.com/photo-1635070041078-e363dbe005cb?w=800&q=80",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/10/20/google-has-joined-amazon-in-attacking-nvidias-stronghold-with-ai-app-developers/",
+      "publishedAt": "2026-10-20T18:38:24.000Z"
+    },
+    {
+      "id": "wgdtav",
+      "title": "ChatGPT now lets you lock your chats",
+      "summary": "The company says the feature is designed for situations where users might be discussing something personal or planning a surprise and want to keep those conversations private when handing their device to friends or family to show them something in another chat.",
+      "imageUrl": "https://images.unsplash.com/photo-1485827404703-89b55fcc595e?w=800&q=80",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/10/20/chatgpt-now-lets-you-lock-your-chats/",
+      "publishedAt": "2026-10-20T18:36:53.000Z"
+    },
+    {
+      "id": "nl3q03",
+      "title": "Meta pauses Muse sharing after researchers find AI chats on the web",
+      "summary": "Meta says it paused a Muse feature that lets you share conversations with the AI assistant after researchers found the URLs publicly available on the web, as reported by Ars Technica. In a report published this week, researchers at the security firm Claroc say they found more than 6,800 Muse links through public DNS records. \"People have the ability to share specific Muse artifacts, which creates a page that can be accessed by those with the link,\" Muse spokesperson Tracy Clayton says in an…",
+      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/STKB394_MUSE_AI_CVIRGINIA_A.png?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "source": "The Verge",
+      "sourceUrl": "https://www.theverge.com/tech/1014627/meta-muse-ai-sharing-ai-chats",
+      "publishedAt": "2026-10-20T18:07:34.000Z"
+    },
+    {
+      "id": "tvjige",
+      "title": "Eric Schmidt reportedly owns about half as much of Anthropic as CEO Dario Amodei",
+      "summary": "The former Google CEO owns about 1% stake in the leading AI lab, Bloomberg reported.",
+      "imageUrl": "https://images.unsplash.com/photo-1550751827-4bd374c3f58b?w=800&q=80",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/10/20/eric-schmidt-reportedly-owns-about-half-as-much-of-anthropic-as-ceo-dario-amodei/",
+      "publishedAt": "2026-10-20T17:55:12.000Z"
+    },
+    {
+      "id": "dhnq2",
+      "title": "French Government Calls Emergency Meetings With Platforms Over Protests",
+      "summary": "TikTok and other sites were told to curb protest footage and AI-altered images, while online retailers like Vinted and eBay reportedly signed an agreement stop looted goods from flooding resale sites.",
+      "imageUrl": "https://media.wired.com/photos/6ad772c1fca8f52b99e9eedc/master/pass/GettyImages-2300075055.jpg",
+      "source": "Wired",
+      "sourceUrl": "https://www.wired.com/story/french-government-calls-emergency-meetings-with-platforms-over-protests/",
+      "publishedAt": "2026-10-20T17:41:58.000Z"
+    },
     {
       "id": "rmj5v1",
       "title": "Meta’s Muse hits 10M U.S. downloads in 40 days, a milestone reached by only 11 other apps",
@@ -111,21 +192,21 @@
       "publishedAt": "2026-10-20T12:00:00.000Z"
     },
     {
-      "id": "85fan2",
-      "title": "Yelp can now call on your behalf to check wait times at a restaurant",
-      "summary": "Yelp is embedding numerous new AI features into its app that can do everything from call to check on restaurant wait times to create personalized recommendations that remember your preferences.",
-      "imageUrl": "https://images.unsplash.com/photo-1620712943543-bcc4688e7485?w=800&q=80",
-      "source": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/10/20/yelp-can-now-call-on-your-behalf-to-check-wait-times-at-a-restaurant/",
-      "publishedAt": "2026-10-20T11:00:00.000Z"
-    },
-    {
       "id": "vvkwb7",
       "title": "Otter.ai raises $320 million from General Catalyst’s growth fund for its meeting tool",
       "summary": "Meeting note-taking tool Otter.ai announced on Tuesday that it has raised $320 million from General Catalyst’s Customer Value Fund (CVF), which provides capital to startups without diluting equity and gets returns on the results of marketing spend. Otter.ai said that it will use these funds for enterprise growth, go-to-market strategy, international expansion, and product innovation. […]",
       "imageUrl": "https://images.unsplash.com/photo-1550751827-4bd374c3f58b?w=800&q=80",
       "source": "TechCrunch",
       "sourceUrl": "https://techcrunch.com/2026/10/20/otter-ai-raises-320-million-from-general-catalysts-growth-fund-for-its-meeting-tool/",
+      "publishedAt": "2026-10-20T11:00:00.000Z"
+    },
+    {
+      "id": "85fan2",
+      "title": "Yelp can now call on your behalf to check wait times at a restaurant",
+      "summary": "Yelp is embedding numerous new AI features into its app that can do everything from call to check on restaurant wait times to create personalized recommendations that remember your preferences.",
+      "imageUrl": "https://images.unsplash.com/photo-1620712943543-bcc4688e7485?w=800&q=80",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/10/20/yelp-can-now-call-on-your-behalf-to-check-wait-times-at-a-restaurant/",
       "publishedAt": "2026-10-20T11:00:00.000Z"
     },
     {
@@ -183,15 +264,6 @@
       "publishedAt": "2026-10-19T22:49:27.000Z"
     },
     {
-      "id": "omjwt6",
-      "title": "Microsoft says AI agents are like insider threats as ‘frontier models can’t be trusted’",
-      "summary": "Microsoft wants enterprises to closely watch the agents that employees use with systems not controlled by AI labs like OpenAI and Anthropic.",
-      "imageUrl": "https://images.unsplash.com/photo-1620712943543-bcc4688e7485?w=800&q=80",
-      "source": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/10/19/microsoft-says-ai-agents-are-like-insider-threats-as-frontier-models-cant-be-trusted/",
-      "publishedAt": "2026-10-19T22:04:28.000Z"
-    },
-    {
       "id": "lutjql",
       "title": "The fossil fuel comeback is here",
       "summary": "The US is building more fossil fuel infrastructure than it has in a decade while renewable energy growth slows down, a new report shows. Electricity demand is also climbing faster than it has in more than a decade with more data centers, factories, and electric vehicles plugging into the grid. Despite those growing demands, the Trump administration has sought to hobble the wind and solar industries in favor of fossil fuels. America's energy landscape is already shifting as a result, according to…",
@@ -210,15 +282,6 @@
       "publishedAt": "2026-10-19T21:28:20.000Z"
     },
     {
-      "id": "8vqe60",
-      "title": "Amazon is taking its biggest shot at Nvidia yet with new TorchNeuron dev tool",
-      "summary": "Amazon wants to break Nvidia’s hold on PyTorch, the free toolkit used to build most AI apps, so that more developers run their apps on alternative chips like its own.",
-      "imageUrl": "https://images.unsplash.com/photo-1655720828018-edd2daec9349?w=800&q=80",
-      "source": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/10/19/amazon-is-taking-its-biggest-shot-at-nvidia-yet-with-new-torchneuron-dev-tool/",
-      "publishedAt": "2026-10-19T20:09:24.000Z"
-    },
-    {
       "id": "ag49of",
       "title": "OpenAI Engineer Accused of Spying on Executives Ordered to Remain in Custody",
       "summary": "A judge ordered Abdulrahman Alfozan to remain in custody, likening the Saudi government’s offer to secure the former OpenAI engineer’s release to a “blank check.”",
@@ -235,33 +298,6 @@
       "source": "Ars Technica",
       "sourceUrl": "https://arstechnica.com/security/2026/10/recently-fixed-plex-media-vulnerabilities-are-being-exploited-to-install-malware/",
       "publishedAt": "2026-10-19T19:39:19.000Z"
-    },
-    {
-      "id": "r2fm3s",
-      "title": "Hackers hit AI coding tool OpenCode, running up charges on users’ AI accounts",
-      "summary": "OpenCode is an open source AI coding agent that's become a popular alternative to Claude Code and Cursor. But hackers got into part of its online platform and stole some users’ API keys, and the AI tools it turned to for help kept refusing to look at the malicious code.",
-      "imageUrl": "https://images.unsplash.com/photo-1635070041078-e363dbe005cb?w=800&q=80",
-      "source": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/10/19/hackers-hit-ai-coding-tool-opencode-running-up-charges-on-users-ai-accounts/",
-      "publishedAt": "2026-10-19T19:28:34.000Z"
-    },
-    {
-      "id": "4vx9x6",
-      "title": "Tolan snags $30M for its AI companion that helps users navigate life",
-      "summary": "AI companion app Tolan has raised another $30 million after attracting more than 250,000 active users.",
-      "imageUrl": "https://images.unsplash.com/photo-1620712943543-bcc4688e7485?w=800&q=80",
-      "source": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/10/19/tolan-snags-30m-for-its-ai-companion-that-helps-users-navigate-life/",
-      "publishedAt": "2026-10-19T19:00:12.000Z"
-    },
-    {
-      "id": "7bv0aq",
-      "title": "Replika’s founder built the AI assistant she pitched at Disrupt 12 years ago",
-      "summary": "Eugenia Kuyda's newest startup Wabi is positioned to take advantage of an idea she had more than a decade ago. Wabi offers a personal AI assistant with a twist, free and downloadable to anyone today.",
-      "imageUrl": "https://images.unsplash.com/photo-1620712943543-bcc4688e7485?w=800&q=80",
-      "source": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/10/19/replikas-founder-built-the-ai-assistant-she-pitched-at-disrupt-12-years-ago/",
-      "publishedAt": "2026-10-19T18:49:04.000Z"
     },
     {
       "id": "9ojlf7",
@@ -336,15 +372,6 @@
       "publishedAt": "2026-10-19T12:00:00.000Z"
     },
     {
-      "id": "qyppbq",
-      "title": "Inside the quest to combat Arctic fires and save the planet’s frozen carbon",
-      "summary": "In the middle of an especially warm July in 2021, a wildfire ignited in a thick forest of black spruce and peeling paper birch trees on the northern campus of the University of Alaska, Fairbanks. The blaze, possibly sparked by lightning, burned across the dry carpet of feather mosses and lichen before climbing into the…",
-      "imageUrl": "https://images.unsplash.com/photo-1655720828018-edd2daec9349?w=800&q=80",
-      "source": "MIT Tech Review",
-      "sourceUrl": "https://www.technologyreview.com/2026/10/19/1146832/inside-the-quest-to-combat-arctic-fires-and-save-the-planets-frozen-carbon/",
-      "publishedAt": "2026-10-19T09:22:17.000Z"
-    },
-    {
       "id": "ed9i7l",
       "title": "Disney Asked Character.AI to Go Bankrupt for a Get-Out-of-Lawsuits Card",
       "summary": "The entertainment giant hopes to get trust and safety tech, among other IP, from a startup whose chatbots dozens of states allege encouraged minors to self-harm and kill their parents.",
@@ -390,15 +417,6 @@
       "publishedAt": "2026-10-17T15:04:36.000Z"
     },
     {
-      "id": "qcq9l",
-      "title": "Websites are closing their doors to AI agents",
-      "summary": "Autonomous agents are the hottest thing in AI. OpenAI, Meta, Google, Instinct, and others promise their agents can scour the internet on your behalf, doing anything from booking a dinner reservation and cleaning out your inbox to buying new shoes. But what happens when the rest of the internet won't play nice? In recent weeks, users of services like Meta's Muse, xAI's Grok, OpenAI's Dots, and Instinct have reported blocks preventing their AI agents from performing tasks across top websites. Yelp…",
-      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/03/STK414_AI_CVIRGINIA_C.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "source": "The Verge",
-      "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/1013195/ai-agents-blocked-web",
-      "publishedAt": "2026-10-17T13:00:00.000Z"
-    },
-    {
       "id": "x4kpat",
       "title": "Why AI Isn’t Ready to Tackle Our Convoluted Genomes",
       "summary": "The DNA inside our cells isn’t just a series of instructions, but something far more dynamic. Like scientists, AI models don't yet have the data to properly decode it.",
@@ -433,15 +451,6 @@
       "source": "Wired",
       "sourceUrl": "https://www.wired.com/story/maybe-chatbots-shouldnt-get-to-say-i-or-me/",
       "publishedAt": "2026-10-16T15:00:00.000Z"
-    },
-    {
-      "id": "h9wyo5",
-      "title": "AI-Generated Hot Girls Are Ripping Off Comedians to Boost Their Horny Content",
-      "summary": "A network of AI-generated models is using comics’ material to funnel views to their OnlyFans and Fanvue accounts—and there’s not much comedians can do about it.",
-      "imageUrl": "https://media.wired.com/photos/6ad165ce87819d1c9639eaa6/master/pass/Business_ComediansAreGettingRippedOffByAIHotGirls-ezgif.com-video-to-gif-converter%20(2).gif",
-      "source": "Wired",
-      "sourceUrl": "https://www.wired.com/story/ai-generated-hot-girls-are-ripping-off-comedians-to-boost-their-horny-content/",
-      "publishedAt": "2026-10-16T11:00:00.000Z"
     },
     {
       "id": "dbeif9",
@@ -532,15 +541,6 @@
       "source": "Ars Technica",
       "sourceUrl": "https://arstechnica.com/security/2026/10/apple-changes-full-disk-access-permissions-to-curb-abuse-from-ai-agents/",
       "publishedAt": "2026-10-02T23:03:16.000Z"
-    },
-    {
-      "id": "z58b9r",
-      "title": "Hacks of 2 federal agencies in a month have spilled a bonanza of sensitive data",
-      "summary": "It has been a bad month for federal government cybersecurity.",
-      "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2021/04/data-leak-1000x648.jpeg",
-      "source": "Ars Technica",
-      "sourceUrl": "https://arstechnica.com/security/2026/10/hacks-of-2-federal-agencies-in-a-month-have-spilled-a-bonanza-of-sensitive-data/",
-      "publishedAt": "2026-10-01T20:28:45.000Z"
     }
   ]
 }
