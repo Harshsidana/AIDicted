@@ -1,7 +1,52 @@
 {
-  "fetchedAt": "2026-10-20T06:28:27.060Z",
+  "fetchedAt": "2026-10-20T12:01:44.747Z",
   "count": 60,
   "articles": [
+    {
+      "id": "vvkwb7",
+      "title": "Otter.ai raises $320 million from General Catalyst’s growth fund for its meeting tool",
+      "summary": "Meeting note-taking tool Otter.ai announced on Tuesday that it has raised $320 million from General Catalyst’s Customer Value Fund (CVF), which provides capital to startups without diluting equity and gets returns on the results of marketing spend. Otter.ai said that it will use these funds for enterprise growth, go-to-market strategy, international expansion, and product innovation. […]",
+      "imageUrl": "https://images.unsplash.com/photo-1550751827-4bd374c3f58b?w=800&q=80",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/10/20/otter-ai-raises-320-million-from-general-catalysts-growth-fund-for-its-meeting-tool/",
+      "publishedAt": "2026-10-20T11:00:00.000Z"
+    },
+    {
+      "id": "85fan2",
+      "title": "Yelp can now call on your behalf to check wait times at a restaurant",
+      "summary": "Yelp is embedding numerous new AI features into its app that can do everything from call to check on restaurant wait times to create personalized recommendations that remember your preferences.",
+      "imageUrl": "https://images.unsplash.com/photo-1620712943543-bcc4688e7485?w=800&q=80",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/10/20/yelp-can-now-call-on-your-behalf-to-check-wait-times-at-a-restaurant/",
+      "publishedAt": "2026-10-20T11:00:00.000Z"
+    },
+    {
+      "id": "tur6zb",
+      "title": "How to study a swiftly melting climate disaster",
+      "summary": "Andrew Haverdink, a tall grad student in a rain bib and rubber boots, wrenched a double-handed drill from the frozen soil that underlies much of Alaska’s Denali National Park and then unclipped the hollow barrel from the end of the bit. He knelt in front of a blue tarp, lined the barrel up with a…",
+      "imageUrl": "https://images.unsplash.com/photo-1531746790095-6c10a4031c5f?w=800&q=80",
+      "source": "MIT Tech Review",
+      "sourceUrl": "https://www.technologyreview.com/2026/10/20/1147135/how-to-study-a-swiftly-melting-climate-disaster/",
+      "publishedAt": "2026-10-20T10:00:00.000Z"
+    },
+    {
+      "id": "q0dvyv",
+      "title": "A visit to Samsung’s massive new semiconductor hub",
+      "summary": "Generative AI models run on powerful chips known as GPUs, which depend on stacks of specialized memory chips packaged with the processor. To meet growing demand for memory, Samsung is building a massive new semiconductor manufacturing complex in Pyeongtaek, South Korea. Three fabs already operate around the clock, and a fourth is coming online. Construction…",
+      "imageUrl": "https://images.unsplash.com/photo-1531746790095-6c10a4031c5f?w=800&q=80",
+      "source": "MIT Tech Review",
+      "sourceUrl": "https://www.technologyreview.com/2026/10/20/1145916/dispatch-visit-to-samsung-massive-new-semiconductor-hub/",
+      "publishedAt": "2026-10-20T09:00:00.000Z"
+    },
+    {
+      "id": "ya7h3o",
+      "title": "These startups hope “blended” food will cut our appetite for red meat",
+      "summary": "In the fall of 2025, Jeff Dodge set up a six-foot folding table in the cafeteria of Cane Bay High School in Summerville, South Carolina, to conduct a taste test. When the first rush of about 150 hungry students hit, he was waiting with slow cookers filled with steaming marinara sauce and meatballs. Kids love…",
+      "imageUrl": "https://images.unsplash.com/photo-1531746790095-6c10a4031c5f?w=800&q=80",
+      "source": "MIT Tech Review",
+      "sourceUrl": "https://www.technologyreview.com/2026/10/20/1145927/blended-meat-food-startups-building-bridge-to-ditch-red-meat/",
+      "publishedAt": "2026-10-20T09:00:00.000Z"
+    },
     {
       "id": "nabx6t",
       "title": "Mamdani says feds have abdicated on AI, urges New Yorkers to push back",
@@ -50,7 +95,7 @@
     {
       "id": "f0jts7",
       "title": "CoreWeave’s debt is becoming the whole AI industry’s problem",
-      "summary": "CoreWeave had a bad week last week. Its bonds slipped into distressed territory by a common definition - when investors demand 1,000 basis points more in yield than they'd get from government bonds. Last Tuesady Chamath \"SPAC King\" Palihapitiya noticed the distressed debt, and also asked whether the AI buildout was a private credit bubble. Its shares are down more than 20 percent since Tuesday's close, which is kind of a lot! There even seemed to be some collateral damage in the market on other…",
+      "summary": "CoreWeave had a bad week last week. Its bonds slipped into distressed territory by a common definition - when investors demand 1,000 basis points more in yield than they'd get from government bonds. Last Tuesday Chamath \"SPAC King\" Palihapitiya noticed the distressed debt, and also asked whether the AI buildout was a private credit bubble. Its shares are down more than 20 percent since Tuesday's close, which is kind of a lot! There even seemed to be some collateral damage in the market on other…",
       "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/10/Vrg_Illo_AI_Bubble.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
       "source": "The Verge",
       "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/1014045/coreweave-stock-debt-sector-ai",
@@ -273,15 +318,6 @@
       "publishedAt": "2026-10-18T18:28:10.000Z"
     },
     {
-      "id": "9jlkq0",
-      "title": "Disney agrees to hire the majority of Character AI’s workforce",
-      "summary": "The filing also says that the “vast majority” of Character.AI employees who were offered jobs at Disney accepted them. However, this is a stalking horse bid, so another company could come forward with a higher offer.",
-      "imageUrl": "https://images.unsplash.com/photo-1526374965328-7f61d4dc18c5?w=800&q=80",
-      "source": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/10/18/disney-agrees-to-hire-the-majority-of-character-ais-workforce/",
-      "publishedAt": "2026-10-18T16:30:00.000Z"
-    },
-    {
       "id": "ahkd8n",
       "title": "OnlyFans Creators Are Pissed That Meta Lets Muse Talk Dirty",
       "summary": "Adult performers are questioning why Meta allows its AI agent to sext while restricting their social media accounts.",
@@ -298,15 +334,6 @@
       "source": "Wired",
       "sourceUrl": "https://www.wired.com/story/data-center-industry-is-trying-to-woo-kids/",
       "publishedAt": "2026-10-18T10:30:00.000Z"
-    },
-    {
-      "id": "wzxapo",
-      "title": "Meta removes language that raised scraping and AI training concerns",
-      "summary": "A Meta spokesperson insisted that the updated terms did not reflect a change in the way Meta crawls the web.",
-      "imageUrl": "https://images.unsplash.com/photo-1526374965328-7f61d4dc18c5?w=800&q=80",
-      "source": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/10/17/meta-removes-language-that-raised-scraping-and-ai-training-concerns/",
-      "publishedAt": "2026-10-17T21:31:32.000Z"
     },
     {
       "id": "7hmebr",
@@ -390,15 +417,6 @@
       "publishedAt": "2026-10-16T14:02:40.000Z"
     },
     {
-      "id": "udgk3f",
-      "title": "The Download: failed social media bans, and extending pets’ lives",
-      "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. Kids are outsmarting social media bans. That’s not a problem we need to solve. —Michal Luria, Aliya Bhatia, and Danah Boyd Social media bans are stacking up. In July, France joined…",
-      "imageUrl": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=800&q=80",
-      "source": "MIT Tech Review",
-      "sourceUrl": "https://www.technologyreview.com/2026/10/16/1146864/the-download-failed-social-media-bans-and-extending-pets-lives/",
-      "publishedAt": "2026-10-16T12:10:00.000Z"
-    },
-    {
       "id": "h9wyo5",
       "title": "AI-Generated Hot Girls Are Ripping Off Comedians to Boost Their Horny Content",
       "summary": "A network of AI-generated models is using comics’ material to funnel views to their OnlyFans and Fanvue accounts—and there’s not much comedians can do about it.",
@@ -406,24 +424,6 @@
       "source": "Wired",
       "sourceUrl": "https://www.wired.com/story/ai-generated-hot-girls-are-ripping-off-comedians-to-boost-their-horny-content/",
       "publishedAt": "2026-10-16T11:00:00.000Z"
-    },
-    {
-      "id": "md0ijz",
-      "title": "This implant can restore sight for patients with macular degeneration",
-      "summary": "More than 5 million people around the world have an advanced form of age-related macular degeneration (AMD) called geographic atrophy, in which cells in the retinas die off. And until now, no treatment could restore their vision. The PRIMA system, which was approved in Europe in July and is awaiting FDA clearance in the US,…",
-      "imageUrl": "https://images.unsplash.com/photo-1550751827-4bd374c3f58b?w=800&q=80",
-      "source": "MIT Tech Review",
-      "sourceUrl": "https://www.technologyreview.com/2026/10/16/1145840/prima-implant-restores-sight-macular-degeneration-patients/",
-      "publishedAt": "2026-10-16T09:00:00.000Z"
-    },
-    {
-      "id": "mqxuao",
-      "title": "Love is infrastructure",
-      "summary": "I. Meet cute Barnabas and Mainspring grew up near at hand, about an hour apart with good traffic, but for a long time they weren’t close. They traded glimpses and occasional hellos and then went about their business. Both of them carried on livelier conversations with farther-flung neighbors, who were richer and had more to…",
-      "imageUrl": "https://images.unsplash.com/photo-1620712943543-bcc4688e7485?w=800&q=80",
-      "source": "MIT Tech Review",
-      "sourceUrl": "https://www.technologyreview.com/2026/10/16/1145845/love-is-infrastructure-fiction-charlie-jane-anders/",
-      "publishedAt": "2026-10-16T09:00:00.000Z"
     },
     {
       "id": "nrymgg",
