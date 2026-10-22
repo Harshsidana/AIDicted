@@ -1,7 +1,70 @@
 {
-  "fetchedAt": "2026-10-22T07:25:11.089Z",
+  "fetchedAt": "2026-10-22T13:08:04.322Z",
   "count": 60,
   "articles": [
+    {
+      "id": "kcslhw",
+      "title": "Meet Mori, a Cute Robot Mushroom That Doesn’t Really Say (or Do) Anything",
+      "summary": "Step one in convincing people to live with robots with cameras on their faces? Disguise them as cute home decor.",
+      "imageUrl": "https://media.wired.com/photos/6ad73249e71bc9cefa5d514d/master/pass/OKA_MORI_Companion_EveningWorkAtLaptop.jpg",
+      "source": "Wired",
+      "sourceUrl": "https://www.wired.com/story/meet-mori-a-cute-robot-mushroom-that-doesnt-really-say-or-do-anything/",
+      "publishedAt": "2026-10-22T13:00:00.000Z"
+    },
+    {
+      "id": "pjujcq",
+      "title": "The Download: computing’s next leap and permafrost’s climate threat",
+      "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. How far can we push computing? On a December evening in 1959, the physicist Richard Feynman gave a lecture called “There’s Plenty of Room at the Bottom.” There is no physical…",
+      "imageUrl": "https://images.unsplash.com/photo-1485827404703-89b55fcc595e?w=800&q=80",
+      "source": "MIT Tech Review",
+      "sourceUrl": "https://www.technologyreview.com/2026/10/22/1147612/the-download-computing-next-leap-permafrost-climate-threat/",
+      "publishedAt": "2026-10-22T12:10:00.000Z"
+    },
+    {
+      "id": "d5cmps",
+      "title": "333 Tor exit nodes hijacked to intercept SSH traffic and retrieve plaintext email",
+      "summary": "For 3 days this month, 333 exit nodes were hacked in hopes of stealing sensitive data.",
+      "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/GettyImages-1237260150-1152x648.jpg",
+      "source": "Ars Technica",
+      "sourceUrl": "https://arstechnica.com/information-technology/2026/10/300-tor-exit-nodes-hijacked-to-intercept-ssh-traffic-and-retrieve-plaintext-email/",
+      "publishedAt": "2026-10-22T11:30:33.000Z"
+    },
+    {
+      "id": "dz0m5x",
+      "title": "Hugging Face’s New AI Biology Model Lets You Chat With DNA",
+      "summary": "The new open-source model speaks the language of DNA and can help researchers understand the effects of any changes on gene activity and health.",
+      "imageUrl": "https://media.wired.com/photos/6ad9279b7f825128a68bc73a/master/pass/Science_HuggingFacesPowerfulNewDNAModelIsSmallEnou-ezgif.com-video-to-gif-converter.gif",
+      "source": "Wired",
+      "sourceUrl": "https://www.wired.com/story/hugging-face-new-ai-biology-model-chat-with-dna/",
+      "publishedAt": "2026-10-22T10:00:00.000Z"
+    },
+    {
+      "id": "y90xsq",
+      "title": "Making the case for context-aware AI",
+      "summary": "Enterprise AI can generate recommendations, automate tasks, and help organizations make decisions faster. But without an understanding of how a business actually operates, even powerful models can miss the constraints and relationships that determine whether a decision is the right one. As companies look to move AI from experimentation into everyday operations, the challenge ahead…",
+      "imageUrl": "https://images.unsplash.com/photo-1531746790095-6c10a4031c5f?w=800&q=80",
+      "source": "MIT Tech Review",
+      "sourceUrl": "https://www.technologyreview.com/2026/10/22/1146812/making-the-case-for-context-aware-ai/",
+      "publishedAt": "2026-10-22T10:00:00.000Z"
+    },
+    {
+      "id": "3udv0p",
+      "title": "Three things you should know about permafrost",
+      "summary": "How much do you know about permafrost? Maybe, like me, you’ve been aware that this layer of frozen soil is thawing, that it’s important in the global puzzle of climate change … and that’s about the extent of it. The great news for both of us is that my colleague James Temple just published two…",
+      "imageUrl": "https://images.unsplash.com/photo-1635070041078-e363dbe005cb?w=800&q=80",
+      "source": "MIT Tech Review",
+      "sourceUrl": "https://www.technologyreview.com/2026/10/22/1147591/permafrost-primer/",
+      "publishedAt": "2026-10-22T10:00:00.000Z"
+    },
+    {
+      "id": "iq7g6d",
+      "title": "AI’s hidden storage bill: What inference leaves behind",
+      "summary": "Ask most executives to picture the cost of AI and they’ll likely see GPUs—racks of accelerators with gigawatts of power—and a waitlist for silicon. But that picture leaves something out: Data storage costs. What happens to data after a model responds? Much of the back-end data that’s generated—from billions of daily prompts, images, and videos—needs…",
+      "imageUrl": "https://images.unsplash.com/photo-1655720828018-edd2daec9349?w=800&q=80",
+      "source": "MIT Tech Review",
+      "sourceUrl": "https://www.technologyreview.com/2026/10/22/1146948/ais-hidden-storage-bill-what-inference-leaves-behind/",
+      "publishedAt": "2026-10-22T08:41:18.000Z"
+    },
     {
       "id": "yntqur",
       "title": "Hackers Exploited the PHP Vulnerabilities Days Before They Were Patched",
@@ -264,33 +327,6 @@
       "publishedAt": "2026-10-21T09:00:00.000Z"
     },
     {
-      "id": "7m9gir",
-      "title": "Solid-state batteries",
-      "summary": "The rise of the lithium-ion battery, which powers everything from the smallest personal electronics to gargantuan energy storage systems, has been nothing short of revolutionary. But as anyone who’s boarded a plane in the last decade could tell you, storing and pumping out energy by moving charged lithium ions through a liquid electrolyte soup has…",
-      "imageUrl": "https://images.unsplash.com/photo-1526374965328-7f61d4dc18c5?w=800&q=80",
-      "source": "MIT Tech Review",
-      "sourceUrl": "https://www.technologyreview.com/2026/10/21/1146137/solid-state-batteries-impossible-issue/",
-      "publishedAt": "2026-10-21T09:00:00.000Z"
-    },
-    {
-      "id": "cljrr5",
-      "title": "Eliminating traffic deaths",
-      "summary": "Every year, traffic crashes kill more than one million people, and they’re the leading cause of death for children and young adults. In the US, 100 people a day lose their lives this way, in many cases not on highways but on rural and local streets. “Traffic deaths are a leading cause of preventable death,…",
-      "imageUrl": "https://images.unsplash.com/photo-1655720828018-edd2daec9349?w=800&q=80",
-      "source": "MIT Tech Review",
-      "sourceUrl": "https://www.technologyreview.com/2026/10/21/1146141/eliminating-traffic-deaths-impossible-issue/",
-      "publishedAt": "2026-10-21T09:00:00.000Z"
-    },
-    {
-      "id": "chftry",
-      "title": "Europe Wants Data Centers. Its Climate Goals Are Getting in the Way",
-      "summary": "A plan to funnel the heat given off by data centers into nearby homes has run aground in Germany. Across Europe, policymakers are weighing AI ambitions against climate objectives.",
-      "imageUrl": "https://media.wired.com/photos/6ad7d5f6ceee34bd819fdbeb/master/pass/Business_Can%20Europe%20Build%20Data%20Centers%20Without%20Giving%20Up%20Its%20Climate%20Goals_v2.jpg",
-      "source": "Wired",
-      "sourceUrl": "https://www.wired.com/story/europe-data-centers-climate-change/",
-      "publishedAt": "2026-10-21T08:30:00.000Z"
-    },
-    {
       "id": "g1t2ud",
       "title": "PHP warns it plans to release 2 emergency patches imminently",
       "summary": "Unconfirmed report claims PHP2Shell exploit remotely executes code on PHP sites.",
@@ -345,24 +381,6 @@
       "publishedAt": "2026-10-20T21:25:22.000Z"
     },
     {
-      "id": "sjwnwo",
-      "title": "It’s a bird, it’s a plane … it’s a robo-puffin?",
-      "summary": "Given that water is 1,000 times denser than air, moving through those two mediums requires very different mechanics—or so one might assume. Yet birds like gulls and puffins can plunge into the sea, swim underwater, and leap back into the air to fly away. And now engineers at MIT and EPFL in Lausanne, Switzerland, have…",
-      "imageUrl": "https://images.unsplash.com/photo-1620712943543-bcc4688e7485?w=800&q=80",
-      "source": "MIT Tech Review",
-      "sourceUrl": "https://www.technologyreview.com/2026/10/20/1145205/its-a-bird-its-a-plane-its-a-robo-puffin/",
-      "publishedAt": "2026-10-20T21:00:00.000Z"
-    },
-    {
-      "id": "o5ckmr",
-      "title": "Here’s the tea",
-      "summary": "When Tristan Brown, an associate professor of history at MIT, first examined a Chinese tea chest label displayed at Old South Meeting House, he had no reason to doubt its story. Descendants of the Boston blacksmith Thomas Wells had donated the label in 1987, saying it had been recovered after colonial protesters threw tea into…",
-      "imageUrl": "https://images.unsplash.com/photo-1655720828018-edd2daec9349?w=800&q=80",
-      "source": "MIT Tech Review",
-      "sourceUrl": "https://www.technologyreview.com/2026/10/20/1145274/heres-the-tea/",
-      "publishedAt": "2026-10-20T21:00:00.000Z"
-    },
-    {
       "id": "mnrh8v",
       "title": "SpaceX’s AI business is beating expectations",
       "summary": "SpaceX hit profitability in the third quarter, with net income of $4.4 billion. AI was the engine.",
@@ -415,15 +433,6 @@
       "source": "The Verge",
       "sourceUrl": "https://www.theverge.com/tech/1014627/meta-muse-ai-sharing-ai-chats",
       "publishedAt": "2026-10-20T18:07:34.000Z"
-    },
-    {
-      "id": "dhnq2",
-      "title": "French Government Calls Emergency Meetings With Platforms Over Protests",
-      "summary": "TikTok and other sites were told to curb protest footage and AI-altered images, while online retailers like Vinted and eBay reportedly signed an agreement stop looted goods from flooding resale sites.",
-      "imageUrl": "https://media.wired.com/photos/6ad772c1fca8f52b99e9eedc/master/pass/GettyImages-2300075055.jpg",
-      "source": "Wired",
-      "sourceUrl": "https://www.wired.com/story/french-government-calls-emergency-meetings-with-platforms-over-protests/",
-      "publishedAt": "2026-10-20T17:41:58.000Z"
     },
     {
       "id": "ictm15",
@@ -532,15 +541,6 @@
       "source": "Ars Technica",
       "sourceUrl": "https://arstechnica.com/security/2026/10/openai-agents-tried-to-hack-wikipedia-tools-and-flooded-it-with-traffic/",
       "publishedAt": "2026-10-06T12:21:53.000Z"
-    },
-    {
-      "id": "lmy08n",
-      "title": "Licensing costs driving 90 percent of VMware users to explore options: Survey",
-      "summary": "Users want to \"reduce risk and avoid unnecessary disruption\" while making changes.",
-      "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2026/04/GettyImages-1934095718-1152x648.jpg",
-      "source": "Ars Technica",
-      "sourceUrl": "https://arstechnica.com/information-technology/2026/10/operational-complexity-a-top-barrier-for-vmware-migrations-survey/",
-      "publishedAt": "2026-10-06T12:00:31.000Z"
     }
   ]
 }
