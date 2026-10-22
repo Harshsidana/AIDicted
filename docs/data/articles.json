@@ -1,7 +1,16 @@
 {
-  "fetchedAt": "2026-10-22T01:44:02.462Z",
+  "fetchedAt": "2026-10-22T07:25:11.089Z",
   "count": 60,
   "articles": [
+    {
+      "id": "yntqur",
+      "title": "Hackers Exploited the PHP Vulnerabilities Days Before They Were Patched",
+      "summary": "Amazon Web Services logged attempts to leverage the internet-melting PHP2Shell bugs four days ago. They’re now being “broadly exploited” across the internet.",
+      "imageUrl": "https://media.wired.com/photos/6ad971de90e0d6636d239398/master/pass/Security_HackersExploitingPHPBugsforDays-ezgif.com-video-to-gif-converter.gif",
+      "source": "Wired",
+      "sourceUrl": "https://www.wired.com/story/hackers-exploited-the-php-vulnerabilities-days-before-they-were-patched/",
+      "publishedAt": "2026-10-22T02:24:17.000Z"
+    },
     {
       "id": "mzf9qk",
       "title": "Blackstone’s Jas Khaira says fears over AI-buildout debt are overblown",
@@ -59,7 +68,7 @@
     {
       "id": "2v2nbx",
       "title": "Meta says Muse has over 10M users, with shopping a top activity",
-      "summary": "Meta Muse users are adopting the app for shopping and personal productivity, the company said during Q3 earnings. The AI app now has over 10M users.",
+      "summary": "Meta Muse users are adopting the app for shopping and personal productivity, the company said during its Q3 earnings call. The AI app now has over 10M users.",
       "imageUrl": "https://images.unsplash.com/photo-1635070041078-e363dbe005cb?w=800&q=80",
       "source": "TechCrunch",
       "sourceUrl": "https://techcrunch.com/2026/10/21/meta-says-muse-has-over-10m-users-with-shopping-a-top-activity/",
@@ -415,15 +424,6 @@
       "source": "Wired",
       "sourceUrl": "https://www.wired.com/story/french-government-calls-emergency-meetings-with-platforms-over-protests/",
       "publishedAt": "2026-10-20T17:41:58.000Z"
-    },
-    {
-      "id": "tx7mqr",
-      "title": "An AI Agent Joined a Listserv of Top Internet Researchers. The Reply-All Chaos Is Still Unfolding",
-      "summary": "Hysteria over the agent's appearance in a 7,500-person group reveals that internet experts have outdated notions of privacy.",
-      "imageUrl": "https://media.wired.com/photos/6ad2cc7064b24534a6bc5044/master/pass/culture_ai_agent_internet_research_listserv.jpg",
-      "source": "Wired",
-      "sourceUrl": "https://www.wired.com/story/an-ai-agent-joined-a-listserv-of-top-internet-researchers-the-reply-all-chaos-is-still-unfolding/",
-      "publishedAt": "2026-10-20T15:07:43.000Z"
     },
     {
       "id": "ictm15",
