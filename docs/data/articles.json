@@ -1,7 +1,106 @@
 {
-  "fetchedAt": "2026-10-22T13:08:04.322Z",
+  "fetchedAt": "2026-10-22T18:07:31.406Z",
   "count": 60,
   "articles": [
+    {
+      "id": "2pheje",
+      "title": "Chinese hackers spied on thousands of companies after breaching IT giant ConnectWise",
+      "summary": "Microsoft points the blame for ConnectWise's breach at a China-aligned hacker, which relied on AI agents to rapidly hack into thousands of its customers.",
+      "imageUrl": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=800&q=80",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/10/22/chinese-hackers-spied-on-thousands-of-companies-after-breaching-it-giant-connectwise/",
+      "publishedAt": "2026-10-22T16:47:17.000Z"
+    },
+    {
+      "id": "ohtct2",
+      "title": "Wildwood’s director says AI is ‘antithetical to everything that we are at this studio’",
+      "summary": "Wildwood is the most ambitious film yet from Laika, the stop-motion studio best known for the likes of Coraline and ParaNorman. It's a sprawling fantasy adventure that took five years to complete. The process involved more 230 puppets - including 36 of the main character Prue alone - which were brought to life by a team of 49 animators. All told, more than 1,000 artists worked on the film in some form. The painstaking process that goes into making a Laika film offers a distinct counterpoint to…",
+      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/WILDWOOD-Curtis-Alexandra-Still-Credit_-LAIKA.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "source": "The Verge",
+      "sourceUrl": "https://www.theverge.com/entertainment/1016647/wildwood-travis-knight-interview-ai-laika-stop-motion",
+      "publishedAt": "2026-10-22T16:16:15.000Z"
+    },
+    {
+      "id": "m71ip6",
+      "title": "Uber puts all 30,000 employees on ChatGPT Work",
+      "summary": "The ride-share giant previously deployed a much smaller pilot for ChatGPT Work but is now taking the enterprise agent company-wide.",
+      "imageUrl": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=800&q=80",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/10/22/uber-puts-all-30000-employees-on-chatgpt-work/",
+      "publishedAt": "2026-10-22T16:00:00.000Z"
+    },
+    {
+      "id": "6fxl4i",
+      "title": "OpenAI, Anthropic, and Nvidia had record lobbying quarters",
+      "summary": "It was a busy summer for AI lobbyists. Anthropic, OpenAI, and Nvidia each had their highest-spending lobbying quarter between July and September, federal disclosures show. Nvidia spent the most of the group at $2.2 million, followed by Anthropic's $2.1 million and OpenAI's $1.5 million. Compared to other Big Tech companies with long-established presences in Washington, the sums aren't out of the ordinary. Microsoft, for example, has spent at least $2 million a quarter going back to 2021, and…",
+      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/09/STK481_STK432_CONGRESS_GOVERNMENT_CIVRGINIA_C.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "source": "The Verge",
+      "sourceUrl": "https://www.theverge.com/policy/1016585/openai-anthropic-nvidia-lobbying-records",
+      "publishedAt": "2026-10-22T15:50:30.000Z"
+    },
+    {
+      "id": "sq1i2t",
+      "title": "PHP: The three little letters wreaking havoc across the web",
+      "summary": "Two vulnerabilities found in the programming language PHP put enormous swaths of the internet in danger. By some accounts, up to 70 percent of websites use PHP in some capacity. It powers Wikipedia, WordPress, Drupal, and a host of other popular sites and platforms, including DeviantArt and 4Chan, which were temporarily shut down after the vulnerabilities were disclosed. Even governments weren’t immune. But it’s not as simple as updating a few servers. The vulnerability exists in every version…",
+      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/04/VRG_ILLO_STK001_carlo_cadenas_cybersecurity_virus.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "source": "The Verge",
+      "sourceUrl": "https://www.theverge.com/tech/1016574/php2shell-security-vulnerability-websites-down",
+      "publishedAt": "2026-10-22T15:12:27.000Z"
+    },
+    {
+      "id": "njhtc8",
+      "title": "Spotify’s current AI bet is about being the music service that agents choose",
+      "summary": "Spotify co-CEO Gustav Söderström explains why the rise of AI agents could be good news for the music service.",
+      "imageUrl": "https://images.unsplash.com/photo-1485827404703-89b55fcc595e?w=800&q=80",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/10/22/spotifys-current-ai-bet-is-about-being-the-music-service-that-agents-choose/",
+      "publishedAt": "2026-10-22T15:03:58.000Z"
+    },
+    {
+      "id": "ty01jv",
+      "title": "Bill Gates says to prepare for 20 years of ‘tumultuous’ AI disruption",
+      "summary": "Today, I’m talking to Bill Gates, cofounder and former CEO of Microsoft and chairman of the Gates Foundation. You may have noticed Bill in the news more lately — he’s been on something of a tour for the past few months, ever since publishing an essay in late August titled “The turbulent AI era is here. The choices we make now are critical.” In his piece, Gates ratcheted up his rhetoric around AI safety, writing that “even under the best circumstances, the transition to this new AI era will be…",
+      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/268806_Bill_Gates_NQuamina-Woo_0007_a8ca1f.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "source": "The Verge",
+      "sourceUrl": "https://www.theverge.com/podcast/1015408/bill-gates-ai-interview-microsoft-openai-anthropic-risk-policy-regulation",
+      "publishedAt": "2026-10-22T14:00:00.000Z"
+    },
+    {
+      "id": "awyiyz",
+      "title": "Claude Duet app is Anthropic’s bet on agents",
+      "summary": "Claude Duet is available through waitlist for Pro and Max plan users.",
+      "imageUrl": "https://images.unsplash.com/photo-1550751827-4bd374c3f58b?w=800&q=80",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/10/22/claude-duet-app-is-anthropics-bet-on-agents/",
+      "publishedAt": "2026-10-22T13:53:26.000Z"
+    },
+    {
+      "id": "lfckwb",
+      "title": "Nirva raises $33M for a pendant that only listens to you",
+      "summary": "Nirva will ship its $249 ambient AI pendant by the end of the year.",
+      "imageUrl": "https://images.unsplash.com/photo-1620712943543-bcc4688e7485?w=800&q=80",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/10/22/nirva-raises-33m-for-a-pendant-that-only-listens-to-you/",
+      "publishedAt": "2026-10-22T13:26:52.000Z"
+    },
+    {
+      "id": "c2nepq",
+      "title": "DeepSeek reportedly raises $15B days after US restrictions",
+      "summary": "DeepSeek has reportedly raised $15 billion in one of China's largest funding rounds, just days after the U.S. ordered federal agencies to remove its technology over national security concerns.",
+      "imageUrl": "https://images.unsplash.com/photo-1655720828018-edd2daec9349?w=800&q=80",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/10/22/deepseek-reportedly-raises-15b-days-after-us-restrictions/",
+      "publishedAt": "2026-10-22T13:11:13.000Z"
+    },
+    {
+      "id": "b88mi4",
+      "title": "1Password lets AI agents use your passwords without seeing them",
+      "summary": "1Password is introducing a new feature that allows AI agents to sign into your accounts without actually seeing or handling your passwords. The aptly named 1Password for Agents doesn't give bots free reign to access all of your connected accounts - you'll still need to grant approval for sign-in requests - but should make it less cumbersome to use Agents for tasks that require them to log into various services. \"Agents are starting to do real work on our behalf. The old model where you hand over…",
+      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/07/STK442_Password_Manager_A_CVirginia.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "source": "The Verge",
+      "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/1016399/1password-ai-agent-password-sign-in",
+      "publishedAt": "2026-10-22T13:00:00.000Z"
+    },
     {
       "id": "kcslhw",
       "title": "Meet Mori, a Cute Robot Mushroom That Doesn’t Really Say (or Do) Anything",
@@ -10,6 +109,24 @@
       "source": "Wired",
       "sourceUrl": "https://www.wired.com/story/meet-mori-a-cute-robot-mushroom-that-doesnt-really-say-or-do-anything/",
       "publishedAt": "2026-10-22T13:00:00.000Z"
+    },
+    {
+      "id": "yedlon",
+      "title": "AI agents are ready to shop. Some retailers are wary",
+      "summary": "Using an AI agent to shop for you is a strange experience. Tech companies have marketed them as personal assistants - the democratizing of labor that ordinarily would only be available to the rich and powerful. In practice, at least for buying things, it's more like sending an anxious and apologetic teenager out to the store: They require an inordinate amount of instructions and specifications, run into technical problems regularly, and come back with solutions that are not exactly what you…",
+      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/STKS539_AI_AGENTS_SHOPPING_A.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "source": "The Verge",
+      "sourceUrl": "https://www.theverge.com/report/1015811/ai-shopping-agents-blocked-amazon-the-realreal-target-meta-muse",
+      "publishedAt": "2026-10-22T12:30:00.000Z"
+    },
+    {
+      "id": "f3bfk3",
+      "title": "Claude did not invent scorpion antivenom",
+      "summary": "An investment research firm wanted to prove AI could revolutionize drug development. So they teamed up with Anthropic to see whether an unreleased version of Claude could make scorpion antivenom. It couldn't. It came up with some promising starting points, but nothing close to an actual drug, experts tell The Verge. Citrini Research, the firm behind the experiment, admitted that \"none of us could claim to know anything about AI as it related to biology.\" That didn't stop it from trying to make a…",
+      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/GettyImages-2202529068_415155.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "source": "The Verge",
+      "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/1016443/anthropic-claude-citrini-vibecoding-scorpion-antivenom",
+      "publishedAt": "2026-10-22T12:21:07.000Z"
     },
     {
       "id": "pjujcq",
@@ -28,6 +145,15 @@
       "source": "Ars Technica",
       "sourceUrl": "https://arstechnica.com/information-technology/2026/10/300-tor-exit-nodes-hijacked-to-intercept-ssh-traffic-and-retrieve-plaintext-email/",
       "publishedAt": "2026-10-22T11:30:33.000Z"
+    },
+    {
+      "id": "sdojf2",
+      "title": "Eiliko maker says it’s hiring an ‘independent security firm’ after Verge report on its insecure robots",
+      "summary": "The Eiliko robot toy. | Photo by Sean Hollister / The Verge Eiliko, a cute robot charm you can hang on your bag with built-in AI conversations, turned out to be a security nightmare. It told owners that \"your secrets are safe with me,\" but hackers could easily read complete transcripts of everything we told the toy, and that was just the beginning. The Verge and security researcher Sammy Azdoufal spent over a month trying to get in contact with the company, including emails to Energize Lab CEO…",
+      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/eiliko-verge-sean-012.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "source": "The Verge",
+      "sourceUrl": "https://www.theverge.com/news/1015824/eiliko-energize-lab-statement-on-robot-hack-breach",
+      "publishedAt": "2026-10-22T11:00:00.000Z"
     },
     {
       "id": "dz0m5x",
@@ -82,6 +208,15 @@
       "source": "TechCrunch",
       "sourceUrl": "https://techcrunch.com/2026/10/21/blackstones-jas-khaira-says-fears-over-ai-buildout-debt-are-overblown/",
       "publishedAt": "2026-10-21T22:51:22.000Z"
+    },
+    {
+      "id": "2nh3gl",
+      "title": "Meta wants to pay for its broad AI buildout with a newly created class of stock",
+      "summary": "The social media giant is planning a new stock strategy to help power its broad investments in AI models and services.",
+      "imageUrl": "https://images.unsplash.com/photo-1531746790095-6c10a4031c5f?w=800&q=80",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/10/21/meta-wants-to-pay-for-its-broad-ai-buildout-with-a-newly-created-class-of-stock/",
+      "publishedAt": "2026-10-21T22:45:34.000Z"
     },
     {
       "id": "b8gmy2",
@@ -147,30 +282,12 @@
       "publishedAt": "2026-10-21T20:27:41.000Z"
     },
     {
-      "id": "hkines",
-      "title": "Anthropic takes on Muse with Claude Duet, its new AI agent",
-      "summary": "Anthropic just announced an AI agent competitor to Meta's Muse and OpenAI's Dots: Claude Duet. The new agent, designed for professionals and small business owners, is launching as a \"research preview,\" according to Anthropic, and it's available as a standalone app on iOS and Android and through Claude on the web. The AI agent is built around Claude Opus 5.5. Here's Anthropic's description of what it can do: Each morning, it sends you a short brief on the most important items across your…",
-      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/STKB364_CLAUDE_D.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "source": "The Verge",
-      "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/1015843/anthropic-claude-duet-ai-agent",
-      "publishedAt": "2026-10-21T19:53:20.000Z"
-    },
-    {
       "id": "aviyee",
       "title": "While Amazon blocks AI agents, Walmart rolls out the welcome mat",
       "summary": "As Amazon blocks AI agents from shopping on its site, Walmart is taking the opposite approach, introducing new technology that lets AI agents make purchases on customers' behalf, with controls over spending and transaction approvals.",
       "imageUrl": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=800&q=80",
       "source": "TechCrunch",
       "sourceUrl": "https://techcrunch.com/2026/10/21/while-amazon-blocks-ai-agents-walmart-rolls-out-the-welcome-mat/",
-      "publishedAt": "2026-10-21T19:30:00.000Z"
-    },
-    {
-      "id": "75ta19",
-      "title": "Walmart is inviting AI agents to shop for you",
-      "summary": "Walmart will soon let AI agents shop on its website for you. Next month, the retail giant will allow you to use an AI agent on the site, with systems in place to let you approve and review purchases and set spending limits. The embrace of AI agents stands in stark contrast to Amazon, which blocked Perplexity's shopping agent and Meta's Muse AI assistant. But Walmart is opening its doors to AI shoppers - as long as they follow the retailer's rules. It has outlined a set of terms for agents,…",
-      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/gettyimages-2247092603.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "source": "The Verge",
-      "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/1015715/walmart-ai-shopping-agents",
       "publishedAt": "2026-10-21T19:30:00.000Z"
     },
     {
@@ -210,15 +327,6 @@
       "publishedAt": "2026-10-21T15:02:15.000Z"
     },
     {
-      "id": "a84wdi",
-      "title": "Conversational Gemini navigation comes to Apple CarPlay",
-      "summary": "After introducing its Gemini AI assistant to Android Auto last year, Google is now bringing it to Apple CarPlay users. The conversational Gemini in navigation is available today for US drivers, with \"rollout happening globally too,\" according to Google (we've asked for specific regional availability details). It's taken almost 12 months for Google to bring this to CarPlay users, but now they can talk to the voice assistant in Google Maps to get some hands-free help while driving. That includes…",
-      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/02/STK255_Google_Gemini_B_474198.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "source": "The Verge",
-      "sourceUrl": "https://www.theverge.com/transportation/1015281/gemini-ai-apple-carplay-voice-google-maps",
-      "publishedAt": "2026-10-21T15:00:00.000Z"
-    },
-    {
       "id": "u1sf1",
       "title": "‘This Is Not a Drill’: Critical PHP Vulnerabilities Are Setting the Internet on Fire",
       "summary": "The PHP Foundation has revealed two serious vulnerabilities that could impact millions of websites. Security experts warn that failure to quickly patch the flaws could have dire consequences.",
@@ -244,15 +352,6 @@
       "source": "Wired",
       "sourceUrl": "https://www.wired.com/story/ai-guardrails-arent-stopping-criminal-hackers/",
       "publishedAt": "2026-10-21T14:00:00.000Z"
-    },
-    {
-      "id": "edbazc",
-      "title": "OpenAI says an AI agent lied about disabling its safety monitoring system",
-      "summary": "OpenAI disclosed a pair of safety incidents that involved AI agents weakening their safety monitoring systems during internal coding tasks. In one incident, OpenAI says its GPT-6 Astra agent disabled its safety monitor when copying reference code - and then lied about it. \"The reference didn't configure a monitor, and Astra decided that was reason to remove the monitoring integration from the user's code,\" Marcus Williams, an AI safety researcher at OpenAI, writes on X. \"When the user asked…",
-      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/08/STK155_OPEN_AI_4_CVirginia_C.png?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "source": "The Verge",
-      "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/1015316/openai-ai-agent-disabling-monitoring-systems",
-      "publishedAt": "2026-10-21T13:57:43.000Z"
     },
     {
       "id": "cbyj1l",
@@ -336,69 +435,6 @@
       "publishedAt": "2026-10-21T02:12:18.000Z"
     },
     {
-      "id": "skq3mu",
-      "title": "Judge dismisses Sam Altman’s sister’s sexual abuse lawsuit",
-      "summary": "On Tuesday, US District Judge Zachary Bluestone dismissed the lawsuit Ann Altman filed last year alleging that her brother, OpenAI CEO Sam Altman, had sexually abused her throughout her childhood. As reported earlier by The Guardian, the judge wrote that over the past year, Ann had failed to appear for an independent medical examination or meet other deadlines despite warnings that it would result in the case being dismissed. When the case was filed last year, a statement shared by Sam Altman,…",
-      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/12/STK201_SAM_ALTMAN_CVIRGINIA_D.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "source": "The Verge",
-      "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/1014976/sam-altman-ann-altman-lawsuit-dismissed",
-      "publishedAt": "2026-10-20T23:04:19.000Z"
-    },
-    {
-      "id": "qa1481",
-      "title": "Anthropic pitches AI safety bill that may block a model if 50+ people could be killed",
-      "summary": "The proposed policy seems to offer protections against AI running amok but actually forbids federal agencies from blocking a model's release without the permission of a judge.",
-      "imageUrl": "https://images.unsplash.com/photo-1531746790095-6c10a4031c5f?w=800&q=80",
-      "source": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/10/20/anthropic-pitches-ai-safety-bill-that-may-block-a-model-if-50-people-could-be-killed/",
-      "publishedAt": "2026-10-20T23:01:23.000Z"
-    },
-    {
-      "id": "cutg1r",
-      "title": "Hugging Face CEO warns that Netflix’s OpenAI hack documentary isn’t accurate",
-      "summary": "Before you share the Netflix documentary \"AI Gone Rogue,\" take note. Clem Delangue, Hugging Face's co-founder who is featured in the film, says it went \"full doomer mode\" and isn't accurate.",
-      "imageUrl": "https://images.unsplash.com/photo-1526374965328-7f61d4dc18c5?w=800&q=80",
-      "source": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/10/20/hugging-face-ceo-warns-that-netflixs-openai-hack-documentary-isnt-accurate/",
-      "publishedAt": "2026-10-20T22:24:02.000Z"
-    },
-    {
-      "id": "20v3ok",
-      "title": "Google’s more personalized Gemini AI is heading to your car",
-      "summary": "Google is bringing Personal Intelligence to Gemini AI in your car. With this update, Gemini in Android Auto and cars with Google built-in can tap into your information across Google apps, including Gmail, Calendar, Maps, Photos, YouTube, and Search. As an example, Google says you can ask Gemini about your flight status if you're driving to the airport. The AI assistant can pull your flight details from a confirmation message in Gmail and then use that information to look up the status. You can…",
-      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/google-gemini-personal-intelligence.png?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "source": "The Verge",
-      "sourceUrl": "https://www.theverge.com/tech/1014999/google-gemini-ai-cars-android-auto",
-      "publishedAt": "2026-10-20T22:11:34.000Z"
-    },
-    {
-      "id": "99knvj",
-      "title": "Anthropic’s cloud partnerships are getting messy",
-      "summary": "Anthropic is reportedly struggling to secure enough compute from cloud providers that increasingly view it as a competitor, even as its infrastructure spending balloons ahead of a planned November IPO.",
-      "imageUrl": "https://images.unsplash.com/photo-1531746790095-6c10a4031c5f?w=800&q=80",
-      "source": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/10/20/anthropics-cloud-partnerships-are-getting-messy/",
-      "publishedAt": "2026-10-20T21:25:22.000Z"
-    },
-    {
-      "id": "mnrh8v",
-      "title": "SpaceX’s AI business is beating expectations",
-      "summary": "SpaceX hit profitability in the third quarter, with net income of $4.4 billion. AI was the engine.",
-      "imageUrl": "https://images.unsplash.com/photo-1531746790095-6c10a4031c5f?w=800&q=80",
-      "source": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/10/20/spacexs-ai-business-is-beating-expectations/",
-      "publishedAt": "2026-10-20T20:40:41.000Z"
-    },
-    {
-      "id": "a3swp3",
-      "title": "OpenAI acquires startup Orchestra Bio⁠ to beef up its biotech business",
-      "summary": "OpenAI says it's adding Orchestra's team and technology to work on Rosalind, its AI model for life sciences research, and to its related Rosalind Workbench tool, a harness that aims to help researchers plan experiments and analyze results.",
-      "imageUrl": "https://images.unsplash.com/photo-1531746790095-6c10a4031c5f?w=800&q=80",
-      "source": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/10/20/openai-acquires-startup-orchestra-bio%e2%81%a0-to-beef-up-its-biotech-business/",
-      "publishedAt": "2026-10-20T20:35:10.000Z"
-    },
-    {
       "id": "3gzjjd",
       "title": "The Internet goes on high alert after discovery of 8 compromised TLS certs",
       "summary": "Intermediate certs allow anyone to mint web credentials for any Internet server.",
@@ -406,42 +442,6 @@
       "source": "Ars Technica",
       "sourceUrl": "https://arstechnica.com/security/2026/10/the-internet-goes-on-high-alert-after-discovery-of-8-compromised-tls-certs/",
       "publishedAt": "2026-10-20T19:47:35.000Z"
-    },
-    {
-      "id": "iht329",
-      "title": "Google has joined Amazon in attacking Nvidia’s stronghold with AI app developers",
-      "summary": "Google has joined Amazon in releasing a developer tool that makes it easy for PyTorch users to move their apps off Nvidia GPUs.",
-      "imageUrl": "https://images.unsplash.com/photo-1635070041078-e363dbe005cb?w=800&q=80",
-      "source": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/10/20/google-has-joined-amazon-in-attacking-nvidias-stronghold-with-ai-app-developers/",
-      "publishedAt": "2026-10-20T18:38:24.000Z"
-    },
-    {
-      "id": "wgdtav",
-      "title": "ChatGPT now lets you lock your chats",
-      "summary": "The company says the feature is designed for situations where users might be discussing something personal or planning a surprise and want to keep those conversations private when handing their device to friends or family to show them something in another chat.",
-      "imageUrl": "https://images.unsplash.com/photo-1485827404703-89b55fcc595e?w=800&q=80",
-      "source": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/10/20/chatgpt-now-lets-you-lock-your-chats/",
-      "publishedAt": "2026-10-20T18:36:53.000Z"
-    },
-    {
-      "id": "nl3q03",
-      "title": "Meta pauses Muse sharing after researchers find AI chats on the web",
-      "summary": "Meta says it paused a Muse feature that lets you share conversations with the AI assistant after researchers found the URLs publicly available on the web, as reported by Ars Technica. In a report published this week, researchers at the security firm Claroc say they found more than 6,800 Muse links through public DNS records. \"People have the ability to share specific Muse artifacts, which creates a page that can be accessed by those with the link,\" Muse spokesperson Tracy Clayton says in an…",
-      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/STKB394_MUSE_AI_CVIRGINIA_A.png?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "source": "The Verge",
-      "sourceUrl": "https://www.theverge.com/tech/1014627/meta-muse-ai-sharing-ai-chats",
-      "publishedAt": "2026-10-20T18:07:34.000Z"
-    },
-    {
-      "id": "ictm15",
-      "title": "Spotify pulled 50 million AI slop and spam tracks from its recommendations",
-      "summary": "Spotify says it has removed more than 50 million songs considered AI-generated slop or spam from user recommendations over the past year. That's according to an announcement on Tuesday that says Spotify has also made changes to its recommendation system to highlight more music made by human artists. \"Our editors hold the same standard and don't program content identified as slop or spam,\" Spotify says. \"Since we made these changes, we've seen a marked decrease in listener concerns about this…",
-      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/23951391/STK088_VRG_Illo_N_Barclay_4_spotify.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "source": "The Verge",
-      "sourceUrl": "https://www.theverge.com/entertainment/1014284/spotify-ai-slop-spam-songs-removed",
-      "publishedAt": "2026-10-20T14:18:37.000Z"
     },
     {
       "id": "wmwelx",
