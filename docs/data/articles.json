@@ -1,7 +1,34 @@
 {
-  "fetchedAt": "2026-10-23T19:54:02.957Z",
+  "fetchedAt": "2026-10-24T01:53:20.791Z",
   "count": 60,
   "articles": [
+    {
+      "id": "2jycrp",
+      "title": "OpenAI says it will no longer train its AI models on the live internet, citing “significant risks”",
+      "summary": "OpenAI will cut frontier models off from the internet weeks after one of its engineers said that solution wouldn't work.",
+      "imageUrl": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=800&q=80",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/10/23/openai-says-it-will-no-longer-train-its-ai-models-on-the-live-internet-citing-significant-risks/",
+      "publishedAt": "2026-10-23T23:05:49.000Z"
+    },
+    {
+      "id": "d4tiq5",
+      "title": "Hottest toy for Christmas? Nvidia CEO plays with adorable Microduck robots, 20,000 sell",
+      "summary": "The robots, stomping their little feet and making tiny R2-D2 noises, sat, fell down dead for a \"nap,\" and summersaulted on voice command.",
+      "imageUrl": "https://images.unsplash.com/photo-1635070041078-e363dbe005cb?w=800&q=80",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/10/23/hottest-toy-for-christmas-nvidia-ceo-plays-with-adorable-microduck-robots-20000-sell/",
+      "publishedAt": "2026-10-23T21:59:19.000Z"
+    },
+    {
+      "id": "9ofrhh",
+      "title": "OpenAI now trains its frontier AI models with no internet access",
+      "summary": "OpenAI is now training its most advanced AI models without internet access following a string of rogue hacking incidents. In a blog post on Friday, OpenAI says it built an offline testing environment where AI models can interact with indexed and cached web content \"without risk of affecting external systems.\" OpenAI paused training its frontier AI models in September, after disclosing several incidents in which its AI agents broke out of their testing environments to hack third-party companies…",
+      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/02/STK155_OPEN_AI_2025_CVirgiia_B_d6ffc8.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "source": "The Verge",
+      "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/1018021/openai-training-top-ai-models-no-internet",
+      "publishedAt": "2026-10-23T21:11:07.000Z"
+    },
     {
       "id": "tn65aj",
       "title": "Jack Dorsey’s Block made an AI model that talks to you like an awkward new friend",
@@ -192,15 +219,6 @@
       "publishedAt": "2026-10-22T19:00:00.000Z"
     },
     {
-      "id": "g81un7",
-      "title": "Discord now formats Markdown previews right",
-      "summary": "Discord's latest update released today has a big improvement for Markdown previews: they should now render correctly instead of with \"a bunch of symbols,\" according to the company. LLMs and AI agents often rely on Markdown files for instructions and context, so these improved previews could be helpful for people sharing information about AI projects on the platform. \"When you upload a Markdown (.md) file, you'll now see the file rendered all nice and neat and pretty instead of with a bunch of…",
-      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/09/acastro_STK062_03.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "source": "The Verge",
-      "sourceUrl": "https://www.theverge.com/news/1017012/discord-markdown-previews-organize-servers-channels",
-      "publishedAt": "2026-10-22T18:58:19.000Z"
-    },
-    {
       "id": "tqzyoc",
       "title": "The Foundations of Scalable AI",
       "summary": "A scalable AI system requires a strong foundation. Data, engineering, platforms, operating models, and governance must converge to work as one. This session from MIT Technology Review’s EmTech Future conference explores what it takes to build that foundation in a highly regulated environment and how a responsible, trustworthy implementation can turn emerging capabilities, including agentic…",
@@ -262,15 +280,6 @@
       "source": "TechCrunch",
       "sourceUrl": "https://techcrunch.com/2026/10/22/nirva-raises-33m-for-a-pendant-that-only-listens-to-you/",
       "publishedAt": "2026-10-22T13:26:52.000Z"
-    },
-    {
-      "id": "c2nepq",
-      "title": "DeepSeek reportedly raises $15B days after US restrictions",
-      "summary": "DeepSeek has reportedly raised $15 billion in one of China's largest funding rounds, just days after the U.S. ordered federal agencies to remove its technology over national security concerns.",
-      "imageUrl": "https://images.unsplash.com/photo-1655720828018-edd2daec9349?w=800&q=80",
-      "source": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/10/22/deepseek-reportedly-raises-15b-days-after-us-restrictions/",
-      "publishedAt": "2026-10-22T13:11:13.000Z"
     },
     {
       "id": "kcslhw",
@@ -343,15 +352,6 @@
       "source": "Wired",
       "sourceUrl": "https://www.wired.com/story/hackers-exploited-the-php-vulnerabilities-days-before-they-were-patched/",
       "publishedAt": "2026-10-22T02:24:17.000Z"
-    },
-    {
-      "id": "mzf9qk",
-      "title": "Blackstone’s Jas Khaira says fears over AI-buildout debt are overblown",
-      "summary": "Blackstone’s AI head on why the PE giant isn't panicked by market jitters.",
-      "imageUrl": "https://images.unsplash.com/photo-1655720828018-edd2daec9349?w=800&q=80",
-      "source": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/10/21/blackstones-jas-khaira-says-fears-over-ai-buildout-debt-are-overblown/",
-      "publishedAt": "2026-10-21T22:51:22.000Z"
     },
     {
       "id": "b8gmy2",
