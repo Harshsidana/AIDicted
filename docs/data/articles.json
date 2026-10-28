@@ -1,7 +1,43 @@
 {
-  "fetchedAt": "2026-10-27T20:53:15.448Z",
+  "fetchedAt": "2026-10-28T00:23:13.617Z",
   "count": 60,
   "articles": [
+    {
+      "id": "ssupx8",
+      "title": "Parents sue OpenAI, alleging GPT-4o coached their daughter off seizure medication",
+      "summary": "A family is suing OpenAI, saying ChatGPT coached their daughter to quietly taper off her seizure medication and keep it from her doctors before she died in February.",
+      "imageUrl": "https://images.unsplash.com/photo-1635070041078-e363dbe005cb?w=800&q=80",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/10/27/parents-sue-openai-alleging-gpt-4o-coached-their-daughter-off-seizure-medication/",
+      "publishedAt": "2026-10-27T23:34:27.000Z"
+    },
+    {
+      "id": "g9e8yj",
+      "title": "The data center boom has an upside: innovation for the US grid",
+      "summary": "As the AI boom stresses the existing power grid, all sorts of new opportunities for grid modernization are also emerging as a result, industry insiders say.",
+      "imageUrl": "https://images.unsplash.com/photo-1655720828018-edd2daec9349?w=800&q=80",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/10/27/the-data-center-boom-has-an-upside-innovation-for-the-us-grid/",
+      "publishedAt": "2026-10-27T22:55:41.000Z"
+    },
+    {
+      "id": "sv37cy",
+      "title": "Bank of America kindly asks that you don’t share your banking password with your AI assistant",
+      "summary": "The banking giant reminds customers that \"you're responsible for activity\" resulting from your AI agents' access.",
+      "imageUrl": "https://images.unsplash.com/photo-1526374965328-7f61d4dc18c5?w=800&q=80",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/10/27/bank-of-america-kindly-asks-that-you-dont-share-your-banking-password-with-your-ai-assistant/",
+      "publishedAt": "2026-10-27T21:44:34.000Z"
+    },
+    {
+      "id": "jxyk96",
+      "title": "Who’s really in charge at Anthropic after the IPO?",
+      "summary": "Here's a clear explanation of Anthropic's incredibly complex governance structure.",
+      "imageUrl": "https://images.unsplash.com/photo-1550751827-4bd374c3f58b?w=800&q=80",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/10/27/whos-really-in-charge-at-anthropic-after-the-ipo/",
+      "publishedAt": "2026-10-27T21:38:28.000Z"
+    },
     {
       "id": "h193sm",
       "title": "Researchers are getting tired of OpenAI gatekeeping its breakthroughs",
@@ -10,6 +46,15 @@
       "source": "The Verge",
       "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/1019921/openai-breakthrough-math-computer-science-physics",
       "publishedAt": "2026-10-27T20:48:58.000Z"
+    },
+    {
+      "id": "aotex1",
+      "title": "Code-execution flaw in UEFI firmware affects most servers on planet Earth",
+      "summary": "Critical flaw in EDK2 allows attackers to execute code early in the boot process.",
+      "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2024/04/malware.jpg",
+      "source": "Ars Technica",
+      "sourceUrl": "https://arstechnica.com/security/2026/10/code-execution-flaw-in-uefi-firmware-threatens-most-servers-on-planet-earth/",
+      "publishedAt": "2026-10-27T20:25:55.000Z"
     },
     {
       "id": "j118ul",
@@ -158,7 +203,7 @@
     {
       "id": "htlluv",
       "title": "Nvidia backs Indian startup helping companies run AI models with fewer GPUs",
-      "summary": "Simplismart says its annualized revenue run rate has grown 14-fold in six months, with the U.S. accounting for more than half its revenue.",
+      "summary": "Simplismart says its annualized revenue run rate has grown fourteenfold in six months, with the U.S. accounting for more than half its revenue.",
       "imageUrl": "https://images.unsplash.com/photo-1635070041078-e363dbe005cb?w=800&q=80",
       "source": "TechCrunch",
       "sourceUrl": "https://techcrunch.com/2026/10/27/nvidia-backs-indian-startup-helping-companies-run-ai-models-with-fewer-gpus/",
@@ -273,15 +318,6 @@
       "publishedAt": "2026-10-26T16:49:42.000Z"
     },
     {
-      "id": "fmf56t",
-      "title": "SpaceX locks in $40B GPU financing deal with Apollo",
-      "summary": "The financing gives SpaceX another way to fund its rapidly expanding AI ambitions without relying solely on traditional debt markets.",
-      "imageUrl": "https://images.unsplash.com/photo-1550751827-4bd374c3f58b?w=800&q=80",
-      "source": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/10/26/spacex-locks-in-40b-gpu-financing-deal-with-apollo/",
-      "publishedAt": "2026-10-26T16:46:36.000Z"
-    },
-    {
       "id": "ltmcvn",
       "title": "The Anthropic S-1 Filing Is Also an AI Doomsday Primer",
       "summary": "Anthropic thinks “closing the loop” is the best path to AI triumph—and a recipe for “existential” threats to humanity.",
@@ -298,15 +334,6 @@
       "source": "Wired",
       "sourceUrl": "https://www.wired.com/story/anthropic-ipo-filings-reveal-finances-risks-strategy/",
       "publishedAt": "2026-10-26T14:50:47.000Z"
-    },
-    {
-      "id": "77kulp",
-      "title": "Anthropic officially files for its public debut",
-      "summary": "Anthropic has officially filed for an IPO, revealing soaring revenue, mounting losses, major enterprise adoption, and an unusual governance structure designed to preserve founder control and its AI safety mission.",
-      "imageUrl": "https://images.unsplash.com/photo-1531746790095-6c10a4031c5f?w=800&q=80",
-      "source": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/10/26/anthropic-officially-files-for-its-public-debut/",
-      "publishedAt": "2026-10-26T14:35:22.000Z"
     },
     {
       "id": "2ddnya",
@@ -343,24 +370,6 @@
       "source": "Wired",
       "sourceUrl": "https://www.wired.com/story/this-ai-radio-hosts-speaks-spanish-and-backs-immigrants-its-winning-over-listeners/",
       "publishedAt": "2026-10-26T09:00:00.000Z"
-    },
-    {
-      "id": "r106wm",
-      "title": "Grok releases the first seven minutes of its AI-generated ‘Odyssey’",
-      "summary": "The footage looks okay, as long as you're not seeking artistry, inspiration, or human interest.",
-      "imageUrl": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=800&q=80",
-      "source": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/10/25/grok-releases-the-first-seven-minutes-of-its-ai-generated-odyssey/",
-      "publishedAt": "2026-10-25T21:31:16.000Z"
-    },
-    {
-      "id": "hm4m2x",
-      "title": "AI delivers ‘zero financial payoff’ to most companies, Apollo economist says",
-      "summary": "\"Despite massive investments and widespread hype around artificial intelligence, the technology has delivered zero financial payoff to corporate America outside of tech.\"",
-      "imageUrl": "https://images.unsplash.com/photo-1526374965328-7f61d4dc18c5?w=800&q=80",
-      "source": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/10/25/ai-delivers-zero-financial-payoff-to-most-companies-according-to-apollo-economist/",
-      "publishedAt": "2026-10-25T16:57:32.000Z"
     },
     {
       "id": "p23201",
@@ -532,15 +541,6 @@
       "source": "Ars Technica",
       "sourceUrl": "https://arstechnica.com/information-technology/2026/10/pc-shipments-fall-20-1-percent-in-sharpest-decline-since-q1-2023/",
       "publishedAt": "2026-10-09T18:54:52.000Z"
-    },
-    {
-      "id": "c71rtn",
-      "title": "Hackers obtain counterfeit TLS certificates for Google and other large services",
-      "summary": "Compromise of 3 domain registries allows hackers to walk off with unauthorized certs.",
-      "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/broken-https-tls-1152x648.jpg",
-      "source": "Ars Technica",
-      "sourceUrl": "https://arstechnica.com/security/2026/10/hackers-obtain-counterfeit-tls-certificates-for-google-and-other-large-services/",
-      "publishedAt": "2026-10-06T19:21:14.000Z"
     }
   ]
 }
