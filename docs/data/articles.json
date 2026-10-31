@@ -1,7 +1,25 @@
 {
-  "fetchedAt": "2026-10-31T05:25:23.741Z",
+  "fetchedAt": "2026-10-31T11:07:31.540Z",
   "count": 60,
   "articles": [
+    {
+      "id": "o7yo8m",
+      "title": "Meta’s Muse Could Upend All Kinds of Businesses. It Hasn’t Yet",
+      "summary": "Companies have spent the past several weeks trying to reassure investors that Muse and other AI agents pose more of an opportunity than a threat.",
+      "imageUrl": "https://media.wired.com/photos/6ae513e3393ae92e17e66a04/master/pass/Business_Everyone%E2%80%99s%20Questioning%20Meta%E2%80%99s%20Hype%20About%20Muse%20Meta%20Says%20Muse%20Is%20Already%20a%20Big%20Shopper_v1.jpg",
+      "source": "Wired",
+      "sourceUrl": "https://www.wired.com/story/metas-muse-could-upend-all-kinds-of-businesses-it-hasnt-yet/",
+      "publishedAt": "2026-10-31T10:30:00.000Z"
+    },
+    {
+      "id": "kezn1j",
+      "title": "An AI Agent Injected Drugs Into a Live Mouse’s Brain",
+      "summary": "A biotech startup let an agent choose a gene therapy and successfully inject the treatment, offering a startling glimpse of the future of research labs.",
+      "imageUrl": "https://media.wired.com/photos/6ae4d6bbd55a0e2bc0a8d990/master/pass/103026-AI%20Mouse%2002.jpg",
+      "source": "Wired",
+      "sourceUrl": "https://www.wired.com/story/an-ai-agent-did-brain-surgery-on-live-mouse/",
+      "publishedAt": "2026-10-31T10:00:00.000Z"
+    },
     {
       "id": "s8b5t9",
       "title": "Nvidia weighs playing the cosigner for Nscale’s AI data center in West Virginia",
@@ -381,15 +399,6 @@
       "publishedAt": "2026-10-28T08:30:00.000Z"
     },
     {
-      "id": "8v6m7o",
-      "title": "Should AI Decide Your Court Case? This Judge Says Yes",
-      "summary": "One of England’s top judges, Geoffrey Vos, believes that AI could adjudicate plenty of civil cases. The question, he says, is where the line should be drawn.",
-      "imageUrl": "https://media.wired.com/photos/6ae127707e979e34b6579966/master/pass/Business_Should%20AI%20Decide%20Your%20Court%20Case_%20ThisJudgeSaysYes.gif",
-      "source": "Wired",
-      "sourceUrl": "https://www.wired.com/story/geoffrey-vos-uk-judge-ai-legal-profession-challenges/",
-      "publishedAt": "2026-10-28T06:00:00.000Z"
-    },
-    {
       "id": "aotex1",
       "title": "Code-execution flaw in UEFI firmware affects most servers on planet Earth",
       "summary": "Critical flaw in EDK2 allows attackers to execute code early in the boot process.",
@@ -397,15 +406,6 @@
       "source": "Ars Technica",
       "sourceUrl": "https://arstechnica.com/security/2026/10/code-execution-flaw-in-uefi-firmware-threatens-most-servers-on-planet-earth/",
       "publishedAt": "2026-10-27T20:25:55.000Z"
-    },
-    {
-      "id": "j118ul",
-      "title": "Anthropic Says It Will Revolutionize Biology—Some Day",
-      "summary": "In breathless press releases and posts, the company has touted its models’ ability to deliver scientific breakthroughs. But its IPO filing taps the brakes on just how fast its AI will lead to big discoveries.",
-      "imageUrl": "https://media.wired.com/photos/6ae0b0627e979e34b657973e/master/pass/102726-Anthropic%20Bio.jpg",
-      "source": "Wired",
-      "sourceUrl": "https://www.wired.com/story/anthropic-says-it-will-revolutionize-biology-some-day/",
-      "publishedAt": "2026-10-27T19:39:04.000Z"
     },
     {
       "id": "3b2z",
