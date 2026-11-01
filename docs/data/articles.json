@@ -1,7 +1,16 @@
 {
-  "fetchedAt": "2026-11-01T05:43:02.647Z",
+  "fetchedAt": "2026-11-01T13:05:51.845Z",
   "count": 60,
   "articles": [
+    {
+      "id": "p51swj",
+      "title": "Chatbots Are Leading Hikers Astray, With Dangerous Consequences",
+      "summary": "Outsourcing planning to AI can lead people to surrender their own critical thinking, which can have potentially deadly results in places like the backcountry.",
+      "imageUrl": "https://media.wired.com/photos/6ae22d8856ee4dcb93f11713/master/pass/HCN406-scaled.jpg",
+      "source": "Wired",
+      "sourceUrl": "https://www.wired.com/story/chatbots-are-leading-hikers-astray-with-dangerous-consequences/",
+      "publishedAt": "2026-11-01T10:30:00.000Z"
+    },
     {
       "id": "ll5pqe",
       "title": "Apple CEO says the company doesn’t ‘want to ship AI for AI’s sake’",
@@ -388,15 +397,6 @@
       "source": "MIT Tech Review",
       "sourceUrl": "https://www.technologyreview.com/2026/10/28/1147637/pairing-industrial-ai-autonomy-and-human-control/",
       "publishedAt": "2026-10-28T12:00:00.000Z"
-    },
-    {
-      "id": "wvrqkq",
-      "title": "Macmillan Staff Say the Publisher Threw a Party for a Workplace AI Assistant That Was Later Killed",
-      "summary": "Workers tell WIRED that NOA—or “No Ordinary Assistant”—was unhelpful. Bestselling authors also say AI is ruining their relationships with Big Five publishers.",
-      "imageUrl": "https://media.wired.com/photos/6ad92ed7649bdf60df6fd555/master/pass/culture_macmillon_failed_ai_project.jpg",
-      "source": "Wired",
-      "sourceUrl": "https://www.wired.com/story/macmillan-staff-say-the-publisher-threw-a-party-for-a-workplace-ai-assistant-that-was-later-killed/",
-      "publishedAt": "2026-10-28T10:15:00.000Z"
     },
     {
       "id": "aotex1",
