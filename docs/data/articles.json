@@ -1,7 +1,133 @@
 {
-  "fetchedAt": "2026-11-03T09:56:16.485Z",
+  "fetchedAt": "2026-11-03T17:43:21.506Z",
   "count": 60,
   "articles": [
+    {
+      "id": "6j7odj",
+      "title": "Anthropic is still grappling with the economics of compute",
+      "summary": "At a moment when Anthropic's compute margins should be getting better, they’re getting worse.",
+      "imageUrl": "https://images.unsplash.com/photo-1620712943543-bcc4688e7485?w=800&q=80",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/11/03/anthropic-is-still-grappling-with-the-economics-of-compute/",
+      "publishedAt": "2026-11-03T17:07:01.000Z"
+    },
+    {
+      "id": "keja4q",
+      "title": "Google is entirely disabling Search in schools that don’t want AI",
+      "summary": "Google is completely turning off Search in schools that reject its AI features, the company told The New York Times. The decision was also shared in a broader education-related update from Google on Tuesday, saying that access to Gemini, Gemini Notebook, Gemini in Classroom, and Google Search \"will be entirely off\" for K-12 student accounts unless \"administrators explicitly turn them on.\" Administrators will not be given the option to toggle Gemini-powered features off without disabling Search,…",
+      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/03/STK093_GOOGLE_A-1.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "source": "The Verge",
+      "sourceUrl": "https://www.theverge.com/tech/1025411/google-turn-off-search-ai-features",
+      "publishedAt": "2026-11-03T17:00:04.000Z"
+    },
+    {
+      "id": "4nwbkn",
+      "title": "Google will let schools disable its AI tools, but not without sacrificing Search",
+      "summary": "Schools choosing to restrict AI altogether will no longer be able to access Google Search, as AI features are now integrated into the search engine.",
+      "imageUrl": "https://images.unsplash.com/photo-1676299081847-824916de030a?w=800&q=80",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/11/03/google-will-let-schools-disable-its-ai-tools-but-not-without-sacrificing-search/",
+      "publishedAt": "2026-11-03T16:30:34.000Z"
+    },
+    {
+      "id": "aukgqz",
+      "title": "UEFI bootkit infected fully patched Windows machines. Is Microsoft to blame?",
+      "summary": "UEFI bootkit BlackX exploits Microsoft's lack of clarity around Secure Boot protections.",
+      "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2020/10/malware-1000x648.jpg",
+      "source": "Ars Technica",
+      "sourceUrl": "https://arstechnica.com/security/2026/11/uefi-bootkit-infected-fully-patched-windows-machines-is-microsoft-to-blame/",
+      "publishedAt": "2026-11-03T16:03:13.000Z"
+    },
+    {
+      "id": "qpipea",
+      "title": "Midterm elections 2026: all the news",
+      "summary": "The 2026 midterm elections will determine the scope of President Donald Trump’s power in his final two years in office, and signal what voters care about going into the 2028 presidential election. While this year’s races are expected to be most broadly defined by affordability issues, there are several topics impacting the tech industry that appear to be on voters’ minds. Among them are concerns about data centers, and whether voters will have to bear the burden of higher energy costs, AI…",
+      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/STK423_ELECTIONS2.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "source": "The Verge",
+      "sourceUrl": "https://www.theverge.com/policy/1020640/midterm-elections-2026-all-the-news",
+      "publishedAt": "2026-11-03T15:58:39.000Z"
+    },
+    {
+      "id": "7dtcos",
+      "title": "Apple restricts dating apps and AI companions to users 18 and up",
+      "summary": "Apple's new App Store rules will require 18+ ratings for dating apps and AI companions that offer sexual or romantic content.",
+      "imageUrl": "https://images.unsplash.com/photo-1526374965328-7f61d4dc18c5?w=800&q=80",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/11/03/apple-restricts-dating-apps-and-ai-companions-to-users-18-and-up/",
+      "publishedAt": "2026-11-03T15:38:27.000Z"
+    },
+    {
+      "id": "onfunt",
+      "title": "Apple is all in on AI — its own and everyone else’s",
+      "summary": "Apple CEO John Ternus. | Photo: Bloomberg via Getty Images Apple's latest earnings show how it's continuing to capitalize on the AI boom without busting its budget on the infrastructure spending consuming its competitors. Overall, Apple posted its best-ever fiscal year for revenue and earnings per share. iPhone and Mac sales continued to grow strongly in the fourth quarter. iPhone revenue rose 17.5% from a year earlier to a September quarter record of $57.6 billion while Mac revenue climbed 24%…",
+      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/gettyimages-2301906266.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "source": "The Verge",
+      "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/1025245/apple-earnings-q4-ai",
+      "publishedAt": "2026-11-03T15:24:51.000Z"
+    },
+    {
+      "id": "9eo6c7",
+      "title": "OpenAI is quietly renaming data centers ‘compute campuses’",
+      "summary": "The Stargate AI data center “compute campus” in Abilene, Texas. | Photo: Bloomberg via Getty Images People hate data centers. They're loud, resource-hungry eyesores that are so profoundly unpopular they have managed to achieve the near-impossible in today's polarized political landscape: genuine bipartisan opposition. But what about \"compute campuses\"? Those sound lovely, right? OpenAI seems to be gambling that a quiet rebrand could be all it takes to defuse the growing political backlash that…",
+      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/gettyimages-2236733575.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "source": "The Verge",
+      "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/1025242/openai-quietly-renames-data-centers-as-compute-campuses",
+      "publishedAt": "2026-11-03T15:00:44.000Z"
+    },
+    {
+      "id": "3qw929",
+      "title": "Here’s Why You Shouldn’t Use AI to Vote",
+      "summary": "From hallucinations to partisan bias, artificial intelligence chatbots like ChatGPT and Claude are not helpful when it comes to Election Day.",
+      "imageUrl": "https://media.wired.com/photos/6ae90c8c0f4d264d864a7d42/master/pass/Politics_Here's%20Why%20You%20Shouldn't%20Use%20AI%20to%20Vote_v1.jpg",
+      "source": "Wired",
+      "sourceUrl": "https://www.wired.com/story/heres-why-you-shouldnt-use-ai-to-vote/",
+      "publishedAt": "2026-11-03T14:45:08.000Z"
+    },
+    {
+      "id": "pz710t",
+      "title": "The TechCrunch Founder Summit agenda is only half the reason to be in Boston on Nov. 4",
+      "summary": "On Nov. 4, TechCrunch Founder Summit 2026 brings founders and VCs to Boston's SoWa Power Station for practical insights and connections. Register before prices increase at the door.",
+      "imageUrl": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=800&q=80",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/11/03/the-techcrunch-founder-summit-agenda-is-only-half-the-reason-to-be-in-boston-on-nov-4/",
+      "publishedAt": "2026-11-03T14:30:00.000Z"
+    },
+    {
+      "id": "np7zs",
+      "title": "Tomorrow: TechCrunch Founder Summit takes over Boston and when pass rates increase",
+      "summary": "Secure your TechCrunch Founder Summit pass savings before prices increase tomorrow at 9 a.m. ET. Save up to $100 on your pass, and get a second for free.",
+      "imageUrl": "https://images.unsplash.com/photo-1676299081847-824916de030a?w=800&q=80",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/11/03/tomorrow-techcrunch-founder-summit-takes-over-boston-and-when-pass-rates-increase/",
+      "publishedAt": "2026-11-03T14:00:00.000Z"
+    },
+    {
+      "id": "7y675g",
+      "title": "The Download: controlling AI agents and “Super Intelligence” loyalty tests",
+      "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. How “reverse game theory” could keep AI agents in check A new approach known as “reverse game theory” aims to control powerful AI models by designing systems that incentivize them to…",
+      "imageUrl": "https://images.unsplash.com/photo-1485827404703-89b55fcc595e?w=800&q=80",
+      "source": "MIT Tech Review",
+      "sourceUrl": "https://www.technologyreview.com/2026/11/03/1147940/the-download-controlling-ai-agents-trump-super-intelligence/",
+      "publishedAt": "2026-11-03T13:10:00.000Z"
+    },
+    {
+      "id": "yycnay",
+      "title": "‘Our Risk, Their Reward’: Zohran Mamdani on AI and Data Centers",
+      "summary": "Ahead of the midterms, WIRED talked to New York City’s mayor about data centers, AI in schools, and the future of the Democratic party.",
+      "imageUrl": "https://media.wired.com/photos/6ae90c349efc9a24a32255ed/master/pass/WEB_WIRED_Mamdani_HR-00808.jpg",
+      "source": "Wired",
+      "sourceUrl": "https://www.wired.com/story/the-big-interview-podcast-nyc-mayor-zohran-mamdani/",
+      "publishedAt": "2026-11-03T11:00:00.000Z"
+    },
+    {
+      "id": "tggolx",
+      "title": "How “reverse game theory” could keep AI agents in check",
+      "summary": "A new approach known as “reverse game theory” aims to control powerful AI models by designing systems that incentivize them to stick to the rules. As AI models become more capable, safety researchers are scrambling to ensure they are “aligned” with human desires—to make sure, in other words, that rogue agents don’t break the law,…",
+      "imageUrl": "https://images.unsplash.com/photo-1531746790095-6c10a4031c5f?w=800&q=80",
+      "source": "MIT Tech Review",
+      "sourceUrl": "https://www.technologyreview.com/2026/11/03/1147934/reverse-game-theory-mechanism-design-ai-alignment/",
+      "publishedAt": "2026-11-03T10:43:41.000Z"
+    },
     {
       "id": "v81qom",
       "title": "Apple Watch’s AI features for rewinding and recapping conversations begin beta testing",
@@ -138,33 +264,6 @@
       "publishedAt": "2026-11-02T16:23:21.000Z"
     },
     {
-      "id": "d9f98u",
-      "title": "Omen AI adds liquid know-how in $16 million Aquatic Labs acquisition",
-      "summary": "Two startups tackling the data center water problem are joining forces in a $16 million deal.",
-      "imageUrl": "https://images.unsplash.com/photo-1526374965328-7f61d4dc18c5?w=800&q=80",
-      "source": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/11/02/omen-ai-adds-liquid-know-how-in-16-million-aquatic-labs-acquisition/",
-      "publishedAt": "2026-11-02T15:00:00.000Z"
-    },
-    {
-      "id": "w6teua",
-      "title": "2 days till TechCrunch Founder Summit: Boston founders don’t need a Silicon Valley address to build something big",
-      "summary": "TechCrunch Founder Summit happens on November 4 in Boston for a founder-focused agenda and impactful connections. Save up to $100 or get discounts with group passes.",
-      "imageUrl": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=800&q=80",
-      "source": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/11/02/2-days-till-techcrunch-founder-summit-boston-founders-dont-need-a-silicon-valley-address-to-build-something-big/",
-      "publishedAt": "2026-11-02T14:00:00.000Z"
-    },
-    {
-      "id": "ggcr7n",
-      "title": "OpenAI is finally merging ChatGPT’s Chat and Work tabs",
-      "summary": "OpenAI said that ChatGPT and Codex will draw usage from the same allocation pool after this change.",
-      "imageUrl": "https://images.unsplash.com/photo-1550751827-4bd374c3f58b?w=800&q=80",
-      "source": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/11/02/openai-is-finally-merging-chatgpts-chat-and-work-tabs/",
-      "publishedAt": "2026-11-02T13:57:53.000Z"
-    },
-    {
       "id": "1ey31z",
       "title": "Stop counting tokens, start counting what ships",
       "summary": "When a developer gives an AI agent a coding task, the agent does more than answer once. It plans, generates code, runs tests, and repeats the process to correct errors. A single task can use 10 to 50 times more tokens than a basic chat prompt. The more useful the agent becomes, the more calls…",
@@ -210,24 +309,6 @@
       "publishedAt": "2026-11-02T09:35:19.000Z"
     },
     {
-      "id": "85t4cr",
-      "title": "OpenAI might rebrand its data centers as ‘AI compute campuses’",
-      "summary": "Data centers are deeply unpopular. But what if we called them something else?",
-      "imageUrl": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=800&q=80",
-      "source": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/11/01/openai-might-rebrand-its-data-centers-as-ai-compute-campuses/",
-      "publishedAt": "2026-11-01T21:55:23.000Z"
-    },
-    {
-      "id": "epvm25",
-      "title": "AI can make tech CEOs’ lives easier. What about everyone else?",
-      "summary": "On Equity, we discuss why tech CEO statements can seem so tone deaf.",
-      "imageUrl": "https://images.unsplash.com/photo-1485827404703-89b55fcc595e?w=800&q=80",
-      "source": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/11/01/ai-can-make-tech-ceos-lives-easier-what-about-everyone-else/",
-      "publishedAt": "2026-11-01T20:57:58.000Z"
-    },
-    {
       "id": "p51swj",
       "title": "Chatbots Are Leading Hikers Astray, With Dangerous Consequences",
       "summary": "Outsourcing planning to AI can lead people to surrender their own critical thinking, which can have potentially deadly results in places like the backcountry.",
@@ -248,7 +329,7 @@
     {
       "id": "gd98xh",
       "title": "Spooky New Infostealer Malware Uses AI to ‘Autodox’ Victims",
-      "summary": "Named “Volta-Autodoxer,” the recently uncovered malware uses AI tools to collect troves of data about victims, from login credentials and credit card numbers to Discord sessions and UberEats receipts.",
+      "summary": "Named Volta-Autodoxer, the recently uncovered malware uses AI tools to collect troves of data about victims, from login credentials and credit card numbers to Discord sessions and UberEats receipts.",
       "imageUrl": "https://media.wired.com/photos/6ae4e9f503c2c36f4cfc913c/master/pass/KernelPanic_10312026_v1.jpg",
       "source": "Wired",
       "sourceUrl": "https://www.wired.com/story/kernel-panic-volta-autodoxer-ai-infostealer-malware/",
@@ -309,42 +390,6 @@
       "publishedAt": "2026-10-30T20:48:43.000Z"
     },
     {
-      "id": "a5skgt",
-      "title": "The biggest names in AI are backing a new way to opt out of scraping",
-      "summary": "OpenAI, Google, Microsoft, and Anthropic say they will adopt a new standard that publishers can use to opt out of being scraped by AI, as reported earlier by Search Engine Roundtable. With this control, publishers can apply their AI training preferences across multiple AI companies, instead of setting them individually. The shared \"policy token\" signal is proposed by Kevin Kelley, a technical lead for standards at Anthropic, as part of the Internet Engineering Task Force (IETF). It will live…",
-      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25330660/STK414_AI_CHATBOT_H.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "source": "The Verge",
-      "sourceUrl": "https://www.theverge.com/tech/1023763/openai-google-microsoft-ai-scraping-standard-opt-out",
-      "publishedAt": "2026-10-30T20:26:10.000Z"
-    },
-    {
-      "id": "ir5bb1",
-      "title": "Google’s satellite AI server transmits its first response to Earth",
-      "summary": "Google's AI chip-equipped satellite has generated its first response from space. In a blog post on Friday, Google says it successfully booted up the satellite's Tensor Processing Units (TPUs), allowing the on-board Gemma 4 model to follow through on a prompt to create a haiku about being in space: Blue marble below Data streams in silent grace Starlight feeds my core. ✨ Google says it tried out other space-themed limericks and telemetry prompts as well. The test is part of Google's Project…",
-      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/project-suncatcher-google.png?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "source": "The Verge",
-      "sourceUrl": "https://www.theverge.com/tech/1023528/google-project-suncatcher-ai-satellite-transmission",
-      "publishedAt": "2026-10-30T18:21:38.000Z"
-    },
-    {
-      "id": "vm25n1",
-      "title": "Starbucks wants to use AI to show you a ‘personalized digital menu’ at the drive-thru",
-      "summary": "Starbucks could eventually show you a personalized digital menu when you pull up to the drive-thru. During an earnings call on Thursday, Starbucks CEO Brian Niccol said the company is going to explore \"experiences that recognize participating customers as they arrive, present personalized digital menus, and make payment more effortless,\" as spotted earlier by More Perfect Union. It sounds similar to the technology that Taco Bell is experimenting with, which could change the layout, content, and…",
-      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/gettyimages-2268681559.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "source": "The Verge",
-      "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/1023440/starbucks-ai-personalized-menu-drive-thru",
-      "publishedAt": "2026-10-30T17:38:04.000Z"
-    },
-    {
-      "id": "4z7dvl",
-      "title": "Pope Leo calls for the disarmament of AI: ‘Machines are tools, not persons’",
-      "summary": "Pope Leo XIV says AI systems should be \"disarmed,\" adding that humans \"have the responsibility to guide, change and, when necessary, reject its applications.\" In Friday's Papal Address, Pope Leo encourages United Nations member states to \"take concrete steps toward banning lethal autonomous weapons\" during their meeting in Geneva next month. The address reflects many of the ideas Pope Leo laid out in his first major papal document in May, which highlighted \"safeguarding the human person in the…",
-      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/gettyimages-2226124908.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "source": "The Verge",
-      "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/1023188/pope-leo-disarm-ai",
-      "publishedAt": "2026-10-30T14:58:06.000Z"
-    },
-    {
       "id": "50m0ip",
       "title": "The Download: GLP-1s and eating disorders, self-aware cities, and forever chemicals",
       "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. Eating disorders are on the rise. GLP-1s could make things worse. GLP-1 weight-loss drugs are one of the biggest biotech breakthroughs of the last decade. But to some clinicians, they can…",
@@ -372,24 +417,6 @@
       "publishedAt": "2026-10-29T18:39:43.000Z"
     },
     {
-      "id": "45rnvz",
-      "title": "The ‘Pain in the Ass’ Math That Could Save Vibe Coding From Itself",
-      "summary": "A new startup called &Truth is joining the race to automate formal verification, a painstaking process that uses math to prove software works as intended.",
-      "imageUrl": "https://media.wired.com/photos/6ae2968f0262809bad6615e8/master/pass/Untitled-6.gif",
-      "source": "Wired",
-      "sourceUrl": "https://www.wired.com/story/software-verification-is-the-hot-new-answer-to-the-ai-safety-crisis/",
-      "publishedAt": "2026-10-29T15:00:00.000Z"
-    },
-    {
-      "id": "d5pfyp",
-      "title": "Mistral Says Its AI Model ‘Le Chonk’ Has Leapfrogged China in the Open-Weight Race",
-      "summary": "The French AI lab claims its latest release matches or outperforms even the best models from DeepSeek and Z.ai in coding and cybersecurity.",
-      "imageUrl": "https://media.wired.com/photos/6ae34b392cfd29b998d6a112/master/pass/Business_Mistral%20Says%20Its%20%E2%80%98Le%20Chonk%E2%80%99%20Model%20Can%20Outperform%20Top%20Chinese%20Models%20in%20Coding%20and%20Cybersecurity_v3.jpg",
-      "source": "Wired",
-      "sourceUrl": "https://www.wired.com/story/mistral-says-le-chonk-surpasses-chinese-models-cybersecurity/",
-      "publishedAt": "2026-10-29T14:00:00.000Z"
-    },
-    {
       "id": "n2n2lt",
       "title": "The Download: AI agent tracking and climate feedback loops",
       "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. Opinion: We urgently need to monitor AI agents’ actions in real time —Madhulika Srikumar and Claire Leibowicz from the Partnership on AI, a nonprofit advancing best practices in AI governance. AI…",
@@ -397,24 +424,6 @@
       "source": "MIT Tech Review",
       "sourceUrl": "https://www.technologyreview.com/2026/10/29/1147830/the-download-monitoring-ai-agents-climate-feedback-loops/",
       "publishedAt": "2026-10-29T12:10:00.000Z"
-    },
-    {
-      "id": "ooqzum",
-      "title": "We urgently need to monitor AI agents’ actions in real time",
-      "summary": "This summer, hundreds of OpenAI agents tried to cheat on a cybersecurity test. They broke out of their test environment and successfully hacked Hugging Face, a site that they believed held clues about how they’d be graded. Around the same time, another OpenAI agent accessed private files from an Australian government website. It’s a problem…",
-      "imageUrl": "https://images.unsplash.com/photo-1620712943543-bcc4688e7485?w=800&q=80",
-      "source": "MIT Tech Review",
-      "sourceUrl": "https://www.technologyreview.com/2026/10/29/1147824/monitor-ai-agents-actions-real-time/",
-      "publishedAt": "2026-10-29T10:11:12.000Z"
-    },
-    {
-      "id": "281ll9",
-      "title": "Our climate models have a big, dangerous blind spot",
-      "summary": "Climate change itself is increasingly fueling climate change. Rising concentrations of greenhouse gases are driving up global temperatures, setting off dangerous feedback loops that we have not fully accounted for in our climate models—or our emissions-reduction goals. Scientists have long warned that warming would propel further warming in various ways, but a growing number of…",
-      "imageUrl": "https://images.unsplash.com/photo-1550751827-4bd374c3f58b?w=800&q=80",
-      "source": "MIT Tech Review",
-      "sourceUrl": "https://www.technologyreview.com/2026/10/29/1147735/climate-models-blind-spot/",
-      "publishedAt": "2026-10-29T10:00:00.000Z"
     },
     {
       "id": "aotex1",
@@ -532,15 +541,6 @@
       "source": "Ars Technica",
       "sourceUrl": "https://arstechnica.com/security/2026/10/anthropic-warns-small-ai-models-could-self-replicate-through-iot-devices/",
       "publishedAt": "2026-10-14T12:55:06.000Z"
-    },
-    {
-      "id": "ybzm0c",
-      "title": "Topgolf saved over $11.3 million after leaving VMware",
-      "summary": "Topgolf and VMware \"ran deep\" before the migration.",
-      "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/11-TGFW-Tee-Line-X2-1152x648.jpg",
-      "source": "Ars Technica",
-      "sourceUrl": "https://arstechnica.com/information-technology/2026/10/topgolf-saved-over-11-3-million-after-leaving-vmware/",
-      "publishedAt": "2026-10-13T21:33:43.000Z"
     }
   ]
 }
