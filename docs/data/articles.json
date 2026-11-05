@@ -1,7 +1,133 @@
 {
-  "fetchedAt": "2026-11-05T07:15:36.475Z",
+  "fetchedAt": "2026-11-05T15:44:06.303Z",
   "count": 60,
   "articles": [
+    {
+      "id": "w1xb7c",
+      "title": "Dropbox acquires Tigris Data for $350M to bolster its AI infrastructure",
+      "summary": "The deal is expected to support the development of DBX Agent Cloud, a new storage platform aimed at developers building AI models and agents.",
+      "imageUrl": "https://images.unsplash.com/photo-1635070041078-e363dbe005cb?w=800&q=80",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/11/05/dropbox-acquires-tigris-data-for-350m-to-bolster-its-ai-iinfrastructure/",
+      "publishedAt": "2026-11-05T15:19:05.000Z"
+    },
+    {
+      "id": "79pys8",
+      "title": "The hidden supply chain costs of the AI boom",
+      "summary": "Today, I’m talking with Willy Shih, an economist, a professor of management practice at Harvard Business School, and the author of the upcoming book, Where Does My Stuff Come From? The Powerful Economics Behind Global Supply Chains. Willy is one of my all-time favorite Decoder guests — his way of looking at the world through our supply chains is just a fascinating way of making sense of the global economy. I first met Willy in 2019, while The Verge was covering Foxconn’s promise to build an LCD…",
+      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/24792604/The_Verge_Decoder_Tileart.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100",
+      "source": "The Verge",
+      "sourceUrl": "https://www.theverge.com/podcast/1024438/willy-shih-supply-chain-ai-chips-ram-where-does-my-stuff-come-from-book",
+      "publishedAt": "2026-11-05T15:00:00.000Z"
+    },
+    {
+      "id": "raljct",
+      "title": "You can post AI music straight to SoundCloud from ElevenLabs",
+      "summary": "BERLIN, GERMANY - JANUARY 16: In this photo illustration the logo of the music streaming service SoundCloud is displayed on a smartphone on January 16, 2019 in Berlin, Germany. (Photo by Thomas Trutschel/Photothek via Getty Images) | Photothek via Getty Images After partnering with Moises earlier this year, SoundCloud is now adding integration with another AI music platform, ElevenLabs. Now, rather than having to export and download your outputs from ElevenLabs and then upload them to…",
+      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/gettyimages-1083228772.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "source": "The Verge",
+      "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/1027427/ai-music-soundcloud-elevenlabs",
+      "publishedAt": "2026-11-05T15:00:00.000Z"
+    },
+    {
+      "id": "474y51",
+      "title": "Aina’s smart ring has a screen, a joystick and a mic so you can talk to AI agents",
+      "summary": "Aina's ring can also take calls and help you dictate notes on your Mac.",
+      "imageUrl": "https://images.unsplash.com/photo-1550751827-4bd374c3f58b?w=800&q=80",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/11/05/ainas-smart-ring-has-a-screen-a-joystick-and-a-mic-so-you-can-talk-to-ai-agents/",
+      "publishedAt": "2026-11-05T14:42:00.000Z"
+    },
+    {
+      "id": "5qdi43",
+      "title": "Box taps Nvidia’s Nemotron for new agent-first content retrieval system",
+      "summary": "The system can supposedly answer queries four times faster, with 20% fewer errors and 90% fewer tokens used.",
+      "imageUrl": "https://images.unsplash.com/photo-1531746790095-6c10a4031c5f?w=800&q=80",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/11/05/box-taps-nvidias-nemotron-for-new-agent-first-content-retrieval-system/",
+      "publishedAt": "2026-11-05T14:00:00.000Z"
+    },
+    {
+      "id": "dkp61e",
+      "title": "Exclusive: Aina’s Smart Ring Wants to Be a Remote Control for Your AI Agent",
+      "summary": "The startup Aina bets you won’t need to rely on your phone to control virtual assistants. It’s making a smart ring that lets you control the actions of your autonomous agents with one tap.",
+      "imageUrl": "https://media.wired.com/photos/6aea53001ffd9173e25bd6c5/master/pass/Aina%20Ring%20colors%20standing.jpeg",
+      "source": "Wired",
+      "sourceUrl": "https://www.wired.com/story/aina-smart-ring/",
+      "publishedAt": "2026-11-05T14:00:00.000Z"
+    },
+    {
+      "id": "og1qsb",
+      "title": "The Download: Texas’s fragile AI boom and energy policy shifts",
+      "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. Texas was the new epicenter of the AI data center buildout. That might be kaput. Texas is the fastest-growing data center market in the US and ground zero for Big Tech’s…",
+      "imageUrl": "https://images.unsplash.com/photo-1620712943543-bcc4688e7485?w=800&q=80",
+      "source": "MIT Tech Review",
+      "sourceUrl": "https://www.technologyreview.com/2026/11/05/1144908/the-download-texas-fragile-ai-boom-us-energy-policy/",
+      "publishedAt": "2026-11-05T13:10:00.000Z"
+    },
+    {
+      "id": "suns6k",
+      "title": "A YC startup is putting $1M behind five unsolved materials science problems for AI",
+      "summary": "Discovered Materials, a months-old YC startup that uses AI to find chip materials, is offering $200,000 for each solution to five open materials science problems.",
+      "imageUrl": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=800&q=80",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/11/05/a-yc-startup-is-putting-1m-behind-five-unsolved-materials-science-problems-for-ai/",
+      "publishedAt": "2026-11-05T13:00:00.000Z"
+    },
+    {
+      "id": "wgwh60",
+      "title": "Finding New Drugs Is Laborious. This AI Startup Is Skipping The Lab Work",
+      "summary": "Potential Sciences, a startup backed by the UK government, is betting that training AI models on computer-generated biochemical data can speed up the plodding process of developing new drugs.",
+      "imageUrl": "https://media.wired.com/photos/6aebade028f7263543de445a/master/pass/Business_Drug%20Discovery%20Is%20a%20Needle%20in%20a%20Haystack%20Problem.%20This%20AI%20Startup%20Thinks%20It%20Has%20The%20Answer_v1.jpg",
+      "source": "Wired",
+      "sourceUrl": "https://www.wired.com/story/finding-new-drugs-is-laborious-this-ai-startup-is-skipping-the-lab-work/",
+      "publishedAt": "2026-11-05T13:00:00.000Z"
+    },
+    {
+      "id": "tbnmgc",
+      "title": "Agility is the first pure humanoid robot company on the stock market. Are you buying?",
+      "summary": "Agility arrives on the Nasdaq today as the first publicly-traded pure-play humanoid robotics company.",
+      "imageUrl": "https://images.unsplash.com/photo-1676299081847-824916de030a?w=800&q=80",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/11/05/agility-is-the-first-pure-humanoid-robot-company-on-the-stock-market-are-you-buying/",
+      "publishedAt": "2026-11-05T12:00:00.000Z"
+    },
+    {
+      "id": "2ey5a8",
+      "title": "AI’s Next Trick? Speaking Dolphin",
+      "summary": "Denise Herzing, the founder and director of the Wild Dolphin Project, is using AI to help understand audio and video footage of the marine mammals.",
+      "imageUrl": "https://media.wired.com/photos/6aeb7139fd4267963caa45b7/master/pass/WWF-Denise-Herzig-1.jpeg",
+      "source": "Wired",
+      "sourceUrl": "https://www.wired.com/story/wired-world-fair-2026-denise-herzing-wild-dolphin/",
+      "publishedAt": "2026-11-05T12:00:00.000Z"
+    },
+    {
+      "id": "iuvqgf",
+      "title": "He Trolls AI Labs for a Living. Now They All Want to Work With Him",
+      "summary": "OpenAI, Anthropic, and SpaceXSI have all reached out to Husk, an influencer who regularly goes viral by exposing the shortcomings of chatbots.",
+      "imageUrl": "https://media.wired.com/photos/6aebb9af224c394d76eb9316/master/pass/WWF-Evan-Ratliff-Husk.jpg",
+      "source": "Wired",
+      "sourceUrl": "https://www.wired.com/story/wired-world-fair-2026-evan-ratliff-and-husk/",
+      "publishedAt": "2026-11-05T11:45:00.000Z"
+    },
+    {
+      "id": "nsvdbc",
+      "title": "Big Tech’s big AI buildout will not end until someone stops it",
+      "summary": "After four of the biggest competitors in the AI race held quarterly earnings calls late last month, two things are clear: Big Tech is not done spending record amounts on the AI data center buildout, and the AI data center buildout is not any closer to yielding its promised returns. A third thing is also starting to become clear - Big Tech will not be slowing down, at least not on its own. Amazon, Microsoft, Alphabet, and Meta told investors they're planning to spend at least $720 billion on…",
+      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/STKS528_DATA_CENTERS2_B.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "source": "The Verge",
+      "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/1027344/amazon-microsoft-alphabet-google-meta-data-centers-earnings-q3",
+      "publishedAt": "2026-11-05T10:45:00.000Z"
+    },
+    {
+      "id": "qn65z7",
+      "title": "A new bill could change how the US builds energy infrastructure",
+      "summary": "A sweeping bit of legislation designed to cut red tape could speed up the buildout of energy infrastructure in the US. With the dust barely settled on this week’s momentous midterms, the Senate is set to vote on the Bipartisan American Affordability and Jobs Act (BAAJA) on November 9. It’s a plan that could finally…",
+      "imageUrl": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=800&q=80",
+      "source": "MIT Tech Review",
+      "sourceUrl": "https://www.technologyreview.com/2026/11/05/1148062/permitting-reform/",
+      "publishedAt": "2026-11-05T10:00:00.000Z"
+    },
     {
       "id": "ai9er3",
       "title": "Apple is reportedly cutting budgets for its internal AI usage",
@@ -237,24 +363,6 @@
       "publishedAt": "2026-11-04T16:56:17.000Z"
     },
     {
-      "id": "6t3v9b",
-      "title": "I tried Apple’s Siri Recaps. They’re surprisingly useful — and a little unsettling",
-      "summary": "Apple's AI-powered Siri Recaps won me over in just one day, despite my privacy reservations. But there's still room for improvement.",
-      "imageUrl": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=800&q=80",
-      "source": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/11/04/i-tried-apples-siri-recaps-theyre-surprisingly-useful-and-a-little-unsettling/",
-      "publishedAt": "2026-11-04T16:51:35.000Z"
-    },
-    {
-      "id": "3crg4s",
-      "title": "Google faces backlash for plan that would turn off Search for schools that restrict AI",
-      "summary": "Politicians on the left, like NYC mayor Zohran Mamdani and former FTC chair Lina Khan, accused Google of acting as an unregulated monopoly.",
-      "imageUrl": "https://images.unsplash.com/photo-1531746790095-6c10a4031c5f?w=800&q=80",
-      "source": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/11/04/google-faces-backlash-for-plan-that-would-turn-off-search-for-schools-that-restrict-ai/",
-      "publishedAt": "2026-11-04T16:17:22.000Z"
-    },
-    {
       "id": "nabc3i",
       "title": "Binance says hackers who stole billions in crypto spent months planning heist",
       "summary": "Techniques included laptop infections, compromised internal tooling, and fake job interviews.",
@@ -271,24 +379,6 @@
       "source": "The Verge",
       "sourceUrl": "https://www.theverge.com/policy/1026365/data-centers-midterms-results",
       "publishedAt": "2026-11-04T16:05:39.000Z"
-    },
-    {
-      "id": "jh074k",
-      "title": "Uber only fulfilled 4 rides from AI agents last quarter",
-      "summary": "AI agents won't be stealing Uber's lunch any time soon. Only four rides were arranged by third-party AI agents during the third quarter of 2026, Uber executives disclosed during an earnings call this morning. The volume of Uber Eats orders fulfilled by AI agents was a little higher, with the company recording \"around 500\" during the week of Halloween, out of a total 320 million Uber rides and Uber Eats deliveries. This is the first time that Uber has disclosed the number of third-party AI agents…",
-      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/STKS539_AI_AGENTS_SHOPPING_C.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "source": "The Verge",
-      "sourceUrl": "https://www.theverge.com/transportation/1026306/uber-ai-agents-q3-earnings-disintermediation",
-      "publishedAt": "2026-11-04T15:58:45.000Z"
-    },
-    {
-      "id": "ht3wcp",
-      "title": "Sam Altman addresses RAM comments: People should ‘put as much as they want in their computers’",
-      "summary": "OpenAI CEO Sam Altman spent election night defending his position on PC RAM purchases. He changed his name on X to \"Ram Altman\" in response to another user's comment, saying, \"i actually do want the world to have tons of memory and people to put as much as they want in their computers, and it is fucking annoying that this was taken out of context. i have been arguing for the world to ramp up memory production for a long time.\" He replied to another comment, saying, \"i want you to have so much…",
-      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/gettyimages-2236544097.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "source": "The Verge",
-      "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/1026292/sam-altman-ram-shortage-pcs-comments",
-      "publishedAt": "2026-11-04T14:46:01.000Z"
     },
     {
       "id": "rlkemx",
@@ -309,15 +399,6 @@
       "publishedAt": "2026-11-04T13:10:00.000Z"
     },
     {
-      "id": "eysc49",
-      "title": "TechCrunch Founder Summit 2026: Doors open at 9 a.m. ET in Boston",
-      "summary": "Today is the day to join TechCrunch Founder Summit 2026 in Boston's SoWa Power Station. Register now to join this founder-focused conference today.",
-      "imageUrl": "https://images.unsplash.com/photo-1485827404703-89b55fcc595e?w=800&q=80",
-      "source": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/11/04/techcrunch-founder-summit-2026-todays-the-day/",
-      "publishedAt": "2026-11-04T13:00:00.000Z"
-    },
-    {
       "id": "lm5eno",
       "title": "Securing the agentic enterprise with data lineage",
       "summary": "A sales representative asks an AI agent for customer pricing, and the agent pulls data from multiple sources: restricted pricing systems, internal communications, and archived quotes. The output looks accurate to the agent, so a second agent uses the data to draft the proposal for the sales rep. No human checks either handoff. When it’s…",
@@ -325,33 +406,6 @@
       "source": "MIT Tech Review",
       "sourceUrl": "https://www.technologyreview.com/2026/11/04/1147596/securing-the-agentic-enterprise-with-data-lineage/",
       "publishedAt": "2026-11-04T13:00:00.000Z"
-    },
-    {
-      "id": "rixymj",
-      "title": "Google hasn’t figured out how to make AI pay like its search engine",
-      "summary": "Google Chief Business Officer Philipp Schindler. | Bloomberg via Getty Images Search queries are growing at their fastest rate in five years, Google parent Alphabet said in its earnings report last week. However, Google's Search revenue growth slowed to 12 percent year over year in the third quarter, down from roughly 17 percent in the previous quarter. Meanwhile, growth in paid clicks - clicks on ads that generate revenue for Google - slowed from 13 percent to 8 percent. That's still…",
-      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/gettyimages-106058340.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "source": "The Verge",
-      "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/1024862/google-search-ai-overviews-alphabet-earnings-q3",
-      "publishedAt": "2026-11-04T12:00:00.000Z"
-    },
-    {
-      "id": "bh1i8i",
-      "title": "Anthropic is working on a system to prove AI models’ identity",
-      "summary": "Called FlashProve, the system would let anyone check that an AI response really came from the model it claims to be from.",
-      "imageUrl": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=800&q=80",
-      "source": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/11/03/anthropic-is-working-on-a-system-to-prove-ai-models-identity/",
-      "publishedAt": "2026-11-03T22:41:03.000Z"
-    },
-    {
-      "id": "89ddng",
-      "title": "Data centers are turning to old jet engines as the wait for power grows",
-      "summary": "The years-long wait for access to the grid and new turbines is causing data center builders to turn to an unusual, less-efficient and less environmentally friendly solution: once-discarded jet engines.",
-      "imageUrl": "https://images.unsplash.com/photo-1485827404703-89b55fcc595e?w=800&q=80",
-      "source": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/11/03/data-centers-are-turning-to-old-jet-engines-as-the-wait-for-power-grows/",
-      "publishedAt": "2026-11-03T22:19:53.000Z"
     },
     {
       "id": "aukgqz",
@@ -363,15 +417,6 @@
       "publishedAt": "2026-11-03T16:03:13.000Z"
     },
     {
-      "id": "3qw929",
-      "title": "Here’s Why You Shouldn’t Use AI to Vote",
-      "summary": "From hallucinations to partisan bias, artificial intelligence chatbots like ChatGPT and Claude are not helpful when it comes to Election Day.",
-      "imageUrl": "https://media.wired.com/photos/6ae90c8c0f4d264d864a7d42/master/pass/Politics_Here's%20Why%20You%20Shouldn't%20Use%20AI%20to%20Vote_v1.jpg",
-      "source": "Wired",
-      "sourceUrl": "https://www.wired.com/story/heres-why-you-shouldnt-use-ai-to-vote/",
-      "publishedAt": "2026-11-03T14:45:08.000Z"
-    },
-    {
       "id": "7y675g",
       "title": "The Download: controlling AI agents and “Super Intelligence” loyalty tests",
       "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. How “reverse game theory” could keep AI agents in check A new approach known as “reverse game theory” aims to control powerful AI models by designing systems that incentivize them to…",
@@ -379,15 +424,6 @@
       "source": "MIT Tech Review",
       "sourceUrl": "https://www.technologyreview.com/2026/11/03/1147940/the-download-controlling-ai-agents-trump-super-intelligence/",
       "publishedAt": "2026-11-03T13:10:00.000Z"
-    },
-    {
-      "id": "yycnay",
-      "title": "‘Our Risk, Their Reward’: Zohran Mamdani on AI and Data Centers",
-      "summary": "Ahead of the midterms, WIRED talked to New York City’s mayor about data centers, AI in schools, and the future of the Democratic party.",
-      "imageUrl": "https://media.wired.com/photos/6ae90c349efc9a24a32255ed/master/pass/WEB_WIRED_Mamdani_HR-00808.jpg",
-      "source": "Wired",
-      "sourceUrl": "https://www.wired.com/story/the-big-interview-podcast-nyc-mayor-zohran-mamdani/",
-      "publishedAt": "2026-11-03T11:00:00.000Z"
     },
     {
       "id": "tggolx",
@@ -406,42 +442,6 @@
       "source": "MIT Tech Review",
       "sourceUrl": "https://www.technologyreview.com/2026/11/02/1147932/heres-who-is-falling-in-line-for-trumps-super-intelligence-loyalty-test/",
       "publishedAt": "2026-11-03T04:18:47.000Z"
-    },
-    {
-      "id": "r86xzh",
-      "title": "Raising the quality of insights in agentic analytics",
-      "summary": "In just a few years, generative AI has changed the face of enterprise analytics, notably by making analytics accessible to users across the organization. Agentic AI promises to do even more, by automating entire workflows and taking actions based on agent insights. But there is a problem: The quality of insights that agents currently generate…",
-      "imageUrl": "https://images.unsplash.com/photo-1620712943543-bcc4688e7485?w=800&q=80",
-      "source": "MIT Tech Review",
-      "sourceUrl": "https://www.technologyreview.com/2026/11/02/1147660/raising-the-quality-of-insights-in-agentic-analytics/",
-      "publishedAt": "2026-11-02T17:00:00.000Z"
-    },
-    {
-      "id": "1ey31z",
-      "title": "Stop counting tokens, start counting what ships",
-      "summary": "When a developer gives an AI agent a coding task, the agent does more than answer once. It plans, generates code, runs tests, and repeats the process to correct errors. A single task can use 10 to 50 times more tokens than a basic chat prompt. The more useful the agent becomes, the more calls…",
-      "imageUrl": "https://images.unsplash.com/photo-1620712943543-bcc4688e7485?w=800&q=80",
-      "source": "MIT Tech Review",
-      "sourceUrl": "https://www.technologyreview.com/2026/11/02/1147702/stop-counting-tokens-start-counting-what-ships/",
-      "publishedAt": "2026-11-02T13:10:32.000Z"
-    },
-    {
-      "id": "3mjg3v",
-      "title": "When You Should—and Shouldn’t—Use AI to Search the Web",
-      "summary": "Chatbots are often quite good at retrieving the information you want from the web. But sometimes you’ll get better results by typing your query into a good old search engine.",
-      "imageUrl": "https://media.wired.com/photos/6ae34e2b3b99c3ad51af9ec6/master/pass/102926-AI%20Web_.jpg",
-      "source": "Wired",
-      "sourceUrl": "https://www.wired.com/story/when-you-should-and-shouldnt-use-ai-to-search-the-web/",
-      "publishedAt": "2026-11-02T12:00:00.000Z"
-    },
-    {
-      "id": "siaqj0",
-      "title": "Hundreds of Mundane AI Apps Are Hiding Sexually Abusive Deepfake Features",
-      "summary": "WIRED uncovered some 400 apps and websites linked to Chinese-language developers that look like regular AI tools but had secret features that let users create violent AI-generated images and video.",
-      "imageUrl": "https://media.wired.com/photos/6adfc11328ba980ed3d0219a/master/pass/Security_ChinaAppsBehindDeepFakes_v1.jpg",
-      "source": "Wired",
-      "sourceUrl": "https://www.wired.com/story/hundreds-of-mundane-ai-apps-are-hiding-abusive-deepfake-features/",
-      "publishedAt": "2026-11-02T10:00:00.000Z"
     },
     {
       "id": "nmniy1",
