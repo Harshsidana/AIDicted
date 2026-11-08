@@ -1,7 +1,25 @@
 {
-  "fetchedAt": "2026-11-08T05:44:11.832Z",
+  "fetchedAt": "2026-11-08T13:09:47.115Z",
   "count": 60,
   "articles": [
+    {
+      "id": "6e3eyr",
+      "title": "I Used NYT Cooking’s New AI-Powered Recipe Modifier, and It’s Actually Pretty Good",
+      "summary": "The New York Times has added a beta feature to its Cooking app that helps readers swap ingredients or adjust recipes to suit their needs. It mostly hits the mark.",
+      "imageUrl": "https://media.wired.com/photos/6aee77f4ece1c19963602401/master/pass/gear-nyt-cooking-ai-assistant.jpg",
+      "source": "Wired",
+      "sourceUrl": "https://www.wired.com/story/nyt-cooking-new-ai-powered-recipe-modifier-is-pretty-good/",
+      "publishedAt": "2026-11-08T12:00:00.000Z"
+    },
+    {
+      "id": "98tf0o",
+      "title": "World Models Will Soon Be Inescapable. Here’s What You Need to Know",
+      "summary": "Moving AI from text to 3D space, world models simulate real-world physics to teach robots and autonomous cars how to navigate reality.",
+      "imageUrl": "https://media.wired.com/photos/6aee7497bf81da8802edc3e6/master/pass/gear-ai-world-models-3d.jpg",
+      "source": "Wired",
+      "sourceUrl": "https://www.wired.com/story/world-models-will-soon-be-inescapable-what-you-need-to-know/",
+      "publishedAt": "2026-11-08T10:00:00.000Z"
+    },
     {
       "id": "8icmw3",
       "title": "After the midterms, things are looking rocky for Elon Musk and data centers",
@@ -345,15 +363,6 @@
       "publishedAt": "2026-11-05T12:00:00.000Z"
     },
     {
-      "id": "iuvqgf",
-      "title": "He Trolls AI Labs for a Living. Now They All Want to Work With Him",
-      "summary": "OpenAI, Anthropic, and SpaceXSI have all reached out to Husk, an influencer who regularly goes viral by exposing the shortcomings of chatbots.",
-      "imageUrl": "https://media.wired.com/photos/6aebb9af224c394d76eb9316/master/pass/WWF-Evan-Ratliff-Husk.jpg",
-      "source": "Wired",
-      "sourceUrl": "https://www.wired.com/story/wired-world-fair-2026-evan-ratliff-and-husk/",
-      "publishedAt": "2026-11-05T11:45:00.000Z"
-    },
-    {
       "id": "qn65z7",
       "title": "A new bill could change how the US builds energy infrastructure",
       "summary": "A sweeping bit of legislation designed to cut red tape could speed up the buildout of energy infrastructure in the US. With the dust barely settled on this week’s momentous midterms, the Senate is set to vote on the Bipartisan American Affordability and Jobs Act (BAAJA) on November 9. It’s a plan that could finally…",
@@ -361,15 +370,6 @@
       "source": "MIT Tech Review",
       "sourceUrl": "https://www.technologyreview.com/2026/11/05/1148062/permitting-reform/",
       "publishedAt": "2026-11-05T10:00:00.000Z"
-    },
-    {
-      "id": "u1slw7",
-      "title": "The Blue Wave Has Tech Bros Scrambling for Data Centers in Space",
-      "summary": "After Democrats won big in Texas and other AI infrastructure hot spots on Tuesday, data center enthusiasts looked for comfort in low Earth orbit.",
-      "imageUrl": "https://media.wired.com/photos/6aeb63c850bcf3a7a3f979b5/master/pass/Business_TechBrosCrying.gif",
-      "source": "Wired",
-      "sourceUrl": "https://www.wired.com/story/the-blue-wave-has-tech-bros-scrambling-for-data-centers-in-space/",
-      "publishedAt": "2026-11-04T23:13:14.000Z"
     },
     {
       "id": "aenth2",
