@@ -1,7 +1,25 @@
 {
-  "fetchedAt": "2026-11-09T01:53:10.200Z",
+  "fetchedAt": "2026-11-09T09:34:31.508Z",
   "count": 60,
   "articles": [
+    {
+      "id": "6l2pir",
+      "title": "Bikers and Bug-Lovers Join Forces to Fight a New Google Data Center",
+      "summary": "As data center protests break out across Europe, a mismatched band of campaigners is trying to block Google from building a sprawling new facility east of London.",
+      "imageUrl": "https://media.wired.com/photos/6aecab4af3a6c68d60864f57/master/pass/Bugs%20and%20bikes%20revise.jpg",
+      "source": "Wired",
+      "sourceUrl": "https://www.wired.com/story/bug-activists-and-biker-gang-members-are-teaming-up-to-protest-data-centers/",
+      "publishedAt": "2026-11-09T08:00:00.000Z"
+    },
+    {
+      "id": "xh8wlz",
+      "title": "Is Jensen Huang’s job on the line? Yale’s Jeffrey Sonnenfeld estimates it’s “about a 50-50”",
+      "summary": "Nvidia’s board is investigating Jensen Huang over his relationship with a suspected Chinese spy, and Yale’s Jeffrey Sonnenfeld thinks it’s roughly a coin flip whether Huang stays on as CEO.",
+      "imageUrl": "https://images.unsplash.com/photo-1676299081847-824916de030a?w=800&q=80",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/11/08/is-jensen-huangs-job-on-the-line-yales-jeffrey-sonnenfeld-estimates-its-about-a-50-50/",
+      "publishedAt": "2026-11-09T05:26:29.000Z"
+    },
     {
       "id": "9dydk4",
       "title": "Here’s the full text of Jensen Huang’s memo to Nvidia",
@@ -300,15 +318,6 @@
       "publishedAt": "2026-11-05T23:09:36.000Z"
     },
     {
-      "id": "wim8n9",
-      "title": "Airbnb says it’s launching an AI travel agent in the first half of 2027",
-      "summary": "Airbnb says its upcoming AI agent will help travelers plan trips, compare options, manage bookings, and get assistance throughout their stay.",
-      "imageUrl": "https://images.unsplash.com/photo-1485827404703-89b55fcc595e?w=800&q=80",
-      "source": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/11/05/airbnb-says-its-launching-an-ai-travel-agent-in-the-first-half-of-2027/",
-      "publishedAt": "2026-11-05T22:40:55.000Z"
-    },
-    {
       "id": "wz7mjh",
       "title": "Ads in Chatbots Have Arrived. Here’s What’s Working—and What’s Not",
       "summary": "As Anthropic maintains its vow to keep ads out of Claude, the rest of the AI chatbot industry is racing to win over advertisers without antagonizing users.",
@@ -352,15 +361,6 @@
       "source": "Wired",
       "sourceUrl": "https://www.wired.com/story/finding-new-drugs-is-laborious-this-ai-startup-is-skipping-the-lab-work/",
       "publishedAt": "2026-11-05T13:00:00.000Z"
-    },
-    {
-      "id": "2ey5a8",
-      "title": "AI’s Next Trick? Speaking Dolphin",
-      "summary": "Denise Herzing, the founder and director of the Wild Dolphin Project, is using AI to help understand audio and video footage of the marine mammals.",
-      "imageUrl": "https://media.wired.com/photos/6aeb7139fd4267963caa45b7/master/pass/WWF-Denise-Herzig-1.jpeg",
-      "source": "Wired",
-      "sourceUrl": "https://www.wired.com/story/wired-world-fair-2026-denise-herzing-wild-dolphin/",
-      "publishedAt": "2026-11-05T12:00:00.000Z"
     },
     {
       "id": "qn65z7",
