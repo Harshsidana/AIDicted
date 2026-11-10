@@ -1,7 +1,88 @@
 {
-  "fetchedAt": "2026-11-09T20:37:13.039Z",
+  "fetchedAt": "2026-11-10T03:22:20.078Z",
   "count": 60,
   "articles": [
+    {
+      "id": "i1wp61",
+      "title": "Anthropic reportedly plans to move forward with IPO plans",
+      "summary": "The AI company is expected to set its valuation range this week, the Wall Street Journal reported.",
+      "imageUrl": "https://images.unsplash.com/photo-1620712943543-bcc4688e7485?w=800&q=80",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/11/09/anthropic-reportedly-plans-to-move-forward-with-ipo-plans/",
+      "publishedAt": "2026-11-10T01:27:12.000Z"
+    },
+    {
+      "id": "ggkewt",
+      "title": "David Ellison says AI could be the ‘biggest creative unlock in modern history’",
+      "summary": "During Paramount Skydance's latest earnings call, CEO David Ellison said \"it's hard to imagine\" AI won't have a bigger impact on the film industry than CGI. In response to a question about the company's outlook for AI, Ellison said: \"I think when you zoom out and look at production, AI really has the potential to be the biggest creative unlock in modern history. The last time we saw anything close to this was really the, you know, advent of CGI and digital composites in the early 90s. That…",
+      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/gettyimages-2274329497.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "source": "The Verge",
+      "sourceUrl": "https://www.theverge.com/entertainment/1030510/paramount-skydance-david-ellison-ai",
+      "publishedAt": "2026-11-10T00:28:49.000Z"
+    },
+    {
+      "id": "vx827z",
+      "title": "Jensen Huang’s Troubles Leave the AI Industry Reeling",
+      "summary": "With a big checkbook and sought-after chips, Nvidia’s CEO had his thumb on the world of AI. An extramarital affair with a suspected Chinese spy may put all of that at risk.",
+      "imageUrl": "https://media.wired.com/photos/6af20d5c5d3e4adc0dc34622/master/pass/What-Jensen-Huangs-Spy-Scandal-Means-For-AI-Industry-Business-2219673294.jpg",
+      "source": "Wired",
+      "sourceUrl": "https://www.wired.com/story/jensen-huangs-troubles-leaves-the-ai-industry-reeling/",
+      "publishedAt": "2026-11-10T00:18:19.000Z"
+    },
+    {
+      "id": "p5zxc7",
+      "title": "What could China get from Jensen Huang?",
+      "summary": "It's difficult to overstate Nvidia's power in today's AI landscape. The company's chips are the bedrock upon which advanced AI technology in the US is being built, and demand has consistently outpaced supply for years. Nvidia has also been an influential investor in a wide range of up-and-coming AI companies in recent years, with about $99 billion worth of equity investments in frontier AI labs, neoclouds, infrastructure companies, and more. Its chief executive has even become close with…",
+      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/STKP210_JENSEN_HUANG_A.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "source": "The Verge",
+      "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/1030328/what-could-china-get-from-jensen-huang",
+      "publishedAt": "2026-11-09T23:51:58.000Z"
+    },
+    {
+      "id": "lkls7n",
+      "title": "Here’s what Trump said he knew about Jensen Huang",
+      "summary": "Jensen Huang and President Trump. | Getty Images President Trump held a White House press briefing earlier today and responded to several questions about his knowledge of Nvidia CEO Jensen Huang's affair with an alleged Chinese spy. Huang said this weekend that he had been \"​​unfaithful\" to his wife, and the company has opened an investigation into Huang. Recent articles from The New York Times indicated that Trump had been aware of a relationship between Huang and Alice Huang, the suspected…",
+      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/gettyimages-2297774940.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "source": "The Verge",
+      "sourceUrl": "https://www.theverge.com/tech/1030446/trump-jensen-huang-press-conference",
+      "publishedAt": "2026-11-09T23:47:46.000Z"
+    },
+    {
+      "id": "kx6n9g",
+      "title": "Jensen Huang reportedly engaged a PR firm with a history of handling high-profile sex scandals a year ago",
+      "summary": "The PR firm was enlisted shortly after an October 2025 New York Times report described Alice Huang's business dealings with Jensen Huang, Wired reported.",
+      "imageUrl": "https://images.unsplash.com/photo-1485827404703-89b55fcc595e?w=800&q=80",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/11/09/jensen-huang-reportedly-engaged-a-pr-firm-with-a-history-of-handling-high-profile-sex-scandals-a-year-ago/",
+      "publishedAt": "2026-11-09T23:28:37.000Z"
+    },
+    {
+      "id": "i7x6fa",
+      "title": "Everything we know so far about the Nvidia spy scandal targeting CEO Jensen Huang",
+      "summary": "The leather-jacketed CEO of Nvidia, Jensen Huang, has acknowledged an affair with Megaspeed exec Alice Huang, spurring an investigation by his company and intense discussions worldwide. Recent reporting noted that since last year, US intelligence reports had identified Alice Huang (no relation) as not only the exec for an AI compute company renting access to Nvidia GPUs, but also a spy for China’s Ministry of State Security. In recent years, Nvidia has become a key part of the Trump…",
+      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/STKP210_JENSEN_HUANG_A.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "source": "The Verge",
+      "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/1030422/nvidia-jensen-huang-ai-china-alice-huang",
+      "publishedAt": "2026-11-09T23:07:59.000Z"
+    },
+    {
+      "id": "hjxuxo",
+      "title": "A short seller flagged Nvidia CEO’s ties to a suspected Chinese spy six months before the scandal",
+      "summary": "Six months before Nvidia's spy scandal erupted, Culper Research was already questioning Jensen Huang's unusually close relationship with a Chinese executive.",
+      "imageUrl": "https://images.unsplash.com/photo-1550751827-4bd374c3f58b?w=800&q=80",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/11/09/a-short-seller-flagged-nvidia-ceos-ties-to-a-suspected-chinese-spy-six-months-before-the-scandal/",
+      "publishedAt": "2026-11-09T22:46:09.000Z"
+    },
+    {
+      "id": "ibzy8n",
+      "title": "The race is on to sue Nvidia",
+      "summary": "Nvidia’s stock slid more than 4% after its board opened an investigation into Jensen Huang’s relationship with a suspected Chinese spy, and one securities law expert says the company’s earlier insistence that it was all “normal” could turn into a very expensive problem.",
+      "imageUrl": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=800&q=80",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/11/09/the-race-is-on-to-sue-nvidia/",
+      "publishedAt": "2026-11-09T22:23:42.000Z"
+    },
     {
       "id": "ktiu4i",
       "title": "Jensen Huang pulls out of ElevenLabs Summit amid Nvidia controversy",
@@ -10,6 +91,15 @@
       "source": "TechCrunch",
       "sourceUrl": "https://techcrunch.com/2026/11/09/jensen-huang-pulls-out-of-elevenlabs-summit-amid-nvidia-controversy/",
       "publishedAt": "2026-11-09T20:09:06.000Z"
+    },
+    {
+      "id": "tgkf63",
+      "title": "Vulnerability that lets hackers SSH into Linux devices is under active exploitation",
+      "summary": "\"*sshole\" poses a serious threat to Internet security.",
+      "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2023/07/exploit-vulnerability-security.jpg",
+      "source": "Ars Technica",
+      "sourceUrl": "https://arstechnica.com/security/2026/11/vulnerability-that-lets-hackers-ssh-into-linux-devices-is-under-active-exploitation/",
+      "publishedAt": "2026-11-09T19:41:34.000Z"
     },
     {
       "id": "ti9d6i",
@@ -129,15 +219,6 @@
       "publishedAt": "2026-11-09T15:38:56.000Z"
     },
     {
-      "id": "vr2zxw",
-      "title": "Hold up — I had a great time talking to the RIAA guy",
-      "summary": "Today, I’m talking with Mitch Glazier, who is CEO and chairman of the RIAA. This conversation was a real full-circle moment for me: I was in college when Napster hit, and the RIAA became everyone’s villain for suing kids for downloading music. That was when I decided to go be a copyright lawyer, which set the rest of my career in motion — and Mitch was in the background as a young lawyer at the RIAA working on those cases. So part of me was very deeply, very genuinely surprised to discover just…",
-      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/DCD_20261109_Glazier.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "source": "The Verge",
-      "sourceUrl": "https://www.theverge.com/podcast/1029684/riaa-mitch-glazier-napster-ai-labels-music",
-      "publishedAt": "2026-11-09T15:30:00.000Z"
-    },
-    {
       "id": "o7a5n2",
       "title": "Jensen Huang Hired a PR Firm Known for Handling Sex Scandals Last Year",
       "summary": "The Nvidia CEO began working with consultants from Heller as early as October 2025, around the same time he was first linked to a suspected Chinese spy.",
@@ -145,15 +226,6 @@
       "source": "Wired",
       "sourceUrl": "https://www.wired.com/story/nvidia-ceo-jensen-huang-hired-a-pr-firm-known-for-handling-sex-scandals-last-year/",
       "publishedAt": "2026-11-09T14:30:56.000Z"
-    },
-    {
-      "id": "wjkz25",
-      "title": "Jonathan Kanter is using AI to take on Big Tech",
-      "summary": "When Jonathan Kanter stepped down as head of the Justice Department's Antitrust Division in 2024, he set out to keep fighting to dismantle illegal monopolies. But this time, he's continuing the fight in the private sector, and with a perhaps unexpected tool: AI. Alongside former acting Antitrust Division chief Doha Mekki, Kanter recently launched a new tech startup, FluxCap. The team is stacked with former DOJ staffers and former Palantir engineers, and it's selling an AI-based legal research…",
-      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/03/STKS487_ANTITRUST_A.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "source": "The Verge",
-      "sourceUrl": "https://www.theverge.com/policy/1029652/kanter-doj-biden-legal-tech",
-      "publishedAt": "2026-11-09T14:30:00.000Z"
     },
     {
       "id": "lu9mis",
@@ -219,15 +291,6 @@
       "publishedAt": "2026-11-09T05:26:29.000Z"
     },
     {
-      "id": "9dydk4",
-      "title": "Here’s the full text of Jensen Huang’s memo to Nvidia",
-      "summary": "Jensen Huang, Nvidia’s CEO, at media briefing in July 2026. | Photo: Bloomberg via Getty Images On Sunday, Nvidia announced it was launching an investigation into CEO Jensen Huang's relationship with Alice Huang, an AI executive and agent of the Chinese government. In addition to the Board of Directors announcing the investigation, Huang sent a memo to Nvidia employees acknowledging the affair. You can read the full text below. To my colleagues at NVIDIA, I owe my family and all of you an…",
-      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/gettyimages-2285784039.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "source": "The Verge",
-      "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/1029595/full-text-jensen-huang-affair-memo-nvidia",
-      "publishedAt": "2026-11-08T22:54:50.000Z"
-    },
-    {
       "id": "rw4uuv",
       "title": "Nvidia will investigate CEO Jensen Huang’s relationship with possible Chinese spy",
       "summary": "In a memo to the company, Huang admitted that he had an affair.",
@@ -235,15 +298,6 @@
       "source": "TechCrunch",
       "sourceUrl": "https://techcrunch.com/2026/11/08/nvidia-says-its-investigating-ceo-jensen-huangs-relationship-with-possible-chinese-spy/",
       "publishedAt": "2026-11-08T21:00:11.000Z"
-    },
-    {
-      "id": "ray8lp",
-      "title": "Nvidia is investigating Jensen Huang’s relationship with an alleged Chinese spy",
-      "summary": "Nvidia has announced that it is opening an investigation into CEO Jensen Huang and his relationship with Megaspeed executive Alice Huang, who was reportedly recruited by China's Ministry of State Security to spy on the company. A statement posted by the board of directors reads: The NVIDIA Board is initiating an independent investigation in light of recent reporting that founder and CEO Jensen Huang has been the target of a foreign intelligence effort. A committee of independent directors,…",
-      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/STKP210_JENSEN_HUANG_A.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "source": "The Verge",
-      "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/1029562/nvidia-investigating-jensen-huang-relationship-chinese-spy",
-      "publishedAt": "2026-11-08T20:22:39.000Z"
     },
     {
       "id": "6e3eyr",
@@ -291,33 +345,6 @@
       "publishedAt": "2026-11-07T11:00:00.000Z"
     },
     {
-      "id": "4b86xg",
-      "title": "From the front row to the hot seat — what the midterms mean for Big Tech",
-      "summary": "After spending two years getting cozy with the White House, Big Tech is suddenly trying to make friends with Democrats, and the open question is whether that image makeover can hold up against what states, local communities, and the markets are about to do.",
-      "imageUrl": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=800&q=80",
-      "source": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/11/06/from-the-front-row-to-the-hot-seat-what-the-midterms-mean-for-big-tech/",
-      "publishedAt": "2026-11-07T04:16:43.000Z"
-    },
-    {
-      "id": "r1x46k",
-      "title": "Crusoe sells troubled Wyoming data center project to Google",
-      "summary": "The deal highlights the challenges of developing massive AI data centers.",
-      "imageUrl": "https://images.unsplash.com/photo-1531746790095-6c10a4031c5f?w=800&q=80",
-      "source": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/11/06/crusoe-sells-troubled-wyoming-data-center-project-to-google/",
-      "publishedAt": "2026-11-07T01:40:28.000Z"
-    },
-    {
-      "id": "ac8144",
-      "title": "OpenAI reportedly raises an additional $11 billion at a $1.25 trillion valuation",
-      "summary": "OpenAI has reportedly raised an additional $11 billion as part of a funding round that hasn't closed yet but is expected to in the coming weeks.",
-      "imageUrl": "https://images.unsplash.com/photo-1676299081847-824916de030a?w=800&q=80",
-      "source": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/11/06/openai-reportedly-raises-an-additional-11-billion-at-a-1-25-trillion-valuation/",
-      "publishedAt": "2026-11-06T22:53:46.000Z"
-    },
-    {
       "id": "yzirc1",
       "title": "Chainalysis says hackers stole credentials and tokens for all of its customers",
       "summary": "Company said a \"multifront cyberattack\" included AI agents and an on-path data snatch.",
@@ -325,15 +352,6 @@
       "source": "Ars Technica",
       "sourceUrl": "https://arstechnica.com/security/2026/11/chainalysis-says-hackers-stole-credentials-and-tokens-for-all-of-its-customers/",
       "publishedAt": "2026-11-06T20:56:41.000Z"
-    },
-    {
-      "id": "jfuu3t",
-      "title": "Hundreds of Artex AI hacking tools found publicly exposed to the web",
-      "summary": "Security researchers found hundreds of servers hosting the penetration testing tool Artex exposed to the internet, allowing anyone access to the hacking tool.",
-      "imageUrl": "https://images.unsplash.com/photo-1635070041078-e363dbe005cb?w=800&q=80",
-      "source": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/11/06/hundreds-of-artex-ai-hacking-tools-found-publicly-exposed-to-the-web/",
-      "publishedAt": "2026-11-06T18:44:38.000Z"
     },
     {
       "id": "fkyd69",
@@ -388,15 +406,6 @@
       "source": "Wired",
       "sourceUrl": "https://www.wired.com/story/ads-in-chatbots-have-arrived-heres-whats-working-and-whats-not/",
       "publishedAt": "2026-11-05T21:37:18.000Z"
-    },
-    {
-      "id": "nmuwfy",
-      "title": "Reddit Founder Says Building Social Media Apps Is ‘Not Cool Anymore’",
-      "summary": "Alexis Ohanian is trying to figure out what’s next for user-generated content now that so much of the internet is “compromised.”",
-      "imageUrl": "https://media.wired.com/photos/6aed1ceece26120992b0cc1a/master/pass/WWF-Alexis-Ohanian-10457.jpg",
-      "source": "Wired",
-      "sourceUrl": "https://www.wired.com/story/wired-world-fair-2026-alexis-ohanian/",
-      "publishedAt": "2026-11-05T16:26:57.000Z"
     },
     {
       "id": "og1qsb",
@@ -532,15 +541,6 @@
       "source": "Ars Technica",
       "sourceUrl": "https://arstechnica.com/security/2026/10/meta-muse-exposes-users-personal-and-business-secrets-when-they-share-conversations/",
       "publishedAt": "2026-10-20T12:33:13.000Z"
-    },
-    {
-      "id": "fmebif",
-      "title": "PSA: Patch your Plex media server before someone hacks it",
-      "summary": "A researcher says attacks chaining 4 vulnerabilities is hacking unpatched boxes.",
-      "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/plex-media-server-1152x648.webp",
-      "source": "Ars Technica",
-      "sourceUrl": "https://arstechnica.com/security/2026/10/recently-fixed-plex-media-vulnerabilities-are-being-exploited-to-install-malware/",
-      "publishedAt": "2026-10-19T19:39:19.000Z"
     }
   ]
 }
