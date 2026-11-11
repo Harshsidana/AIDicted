@@ -1,7 +1,43 @@
 {
-  "fetchedAt": "2026-11-10T19:35:38.791Z",
+  "fetchedAt": "2026-11-11T00:31:35.243Z",
   "count": 60,
   "articles": [
+    {
+      "id": "13tn1q",
+      "title": "Grok Build coding agent leaks oodles of confidential info, some belonging to SpaceXSI",
+      "summary": "Researcher finds 35,000 Grok Build apps wide open to anyone who looked for them.",
+      "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/grok-plugin-marketplace-1152x648.webp",
+      "source": "Ars Technica",
+      "sourceUrl": "https://arstechnica.com/security/2026/11/grok-build-coding-agent-leaks-oodles-of-confidential-info-some-belonging-to-spacexsi/",
+      "publishedAt": "2026-11-10T21:12:59.000Z"
+    },
+    {
+      "id": "3ju3h7",
+      "title": "OpenAI acquires Odessia, travel startup created by Sonder founder",
+      "summary": "OpenAI has not yet said what its plans are for the future of travel. But Sonder founder Francis Davidson is a well-known figure in the travel industry.",
+      "imageUrl": "https://images.unsplash.com/photo-1620712943543-bcc4688e7485?w=800&q=80",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/11/10/openai-acquires-odessia-travel-startup-created-by-sonder-founder/",
+      "publishedAt": "2026-11-10T21:08:52.000Z"
+    },
+    {
+      "id": "1chmi2",
+      "title": "OpenAI, Anthropic face new oversight as New York’s AI safety law takes effect",
+      "summary": "New York is preparing to enforce its sweeping AI safety law, requiring major developers like OpenAI and Anthropic to register, disclose safety practices, and report critical incidents or face fines.",
+      "imageUrl": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=800&q=80",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/11/10/openai-anthropic-face-new-oversight-as-new-yorks-ai-safety-law-takes-effect/",
+      "publishedAt": "2026-11-10T20:52:13.000Z"
+    },
+    {
+      "id": "cyfnse",
+      "title": "All 7 Anthropic founders will each cash out about $250M in IPO",
+      "summary": "Each of the seven co-founders plans to sell exactly the same number of shares in the IPO, which would bring each of them about $250 million in cash at the midpoint of the price range while leaving the group in control of the company.",
+      "imageUrl": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=800&q=80",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/11/10/all-7-anthropic-founders-will-each-cash-out-about-250m-in-ipo/",
+      "publishedAt": "2026-11-10T19:57:52.000Z"
+    },
     {
       "id": "hiuybp",
       "title": "Oura to acquire AI-native primary care startup Counsel Health for $625M",
@@ -219,15 +255,6 @@
       "publishedAt": "2026-11-10T13:10:00.000Z"
     },
     {
-      "id": "nn8nax",
-      "title": "Cyberattacks threaten to make open source AI a little less open, Hugging Face exec warns",
-      "summary": "Hugging Face executive Irene Solaiman warns that growing cyberattacks on open AI platforms could force tighter security restrictions, threatening the accessibility that makes open source communities valuable to developers worldwide.",
-      "imageUrl": "https://images.unsplash.com/photo-1655720828018-edd2daec9349?w=800&q=80",
-      "source": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/11/10/cyberattacks-threaten-to-make-open-source-ai-a-little-less-open-hugging-face-exec-warns/",
-      "publishedAt": "2026-11-10T13:00:00.000Z"
-    },
-    {
       "id": "cwz7gr",
       "title": "Evolving metal extraction processes",
       "summary": "The metals industry has experienced transformational moments before: the Bessemer process, flash smelting, electric arc furnaces, and modern continuous casting all changed what was possible. Yet, for more than a century, most extraction processes rely on techniques and pathways that would be familiar to metallurgists from generations ago. Processes have become larger and control systems…",
@@ -255,15 +282,6 @@
       "publishedAt": "2026-11-10T11:00:00.000Z"
     },
     {
-      "id": "y9ncyi",
-      "title": "Otter AI can now follow conversations across 30+ languages",
-      "summary": "Otter AI just added support for 27 languages and revealed an upcoming feature that can follow along if speakers switch between languages.",
-      "imageUrl": "https://images.unsplash.com/photo-1620712943543-bcc4688e7485?w=800&q=80",
-      "source": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/11/09/otter-ai-can-now-follow-conversations-across-30-languages/",
-      "publishedAt": "2026-11-10T07:00:00.000Z"
-    },
-    {
       "id": "fjuss7",
       "title": "Security Flaws Across UK Government Sites Exposed ‘God-Tier’ Information",
       "summary": "A researcher’s trawl through publicly available code found private information was at risk across multiple departments.",
@@ -280,15 +298,6 @@
       "source": "Wired",
       "sourceUrl": "https://www.wired.com/story/a-new-ai-tool-from-google-deepmind-formally-verified-the-signal-protocol/",
       "publishedAt": "2026-11-10T05:01:00.000Z"
-    },
-    {
-      "id": "i1wp61",
-      "title": "Anthropic reportedly plans to move forward with IPO plans",
-      "summary": "The AI company is expected to set its valuation range this week, the Wall Street Journal reported.",
-      "imageUrl": "https://images.unsplash.com/photo-1620712943543-bcc4688e7485?w=800&q=80",
-      "source": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/11/09/anthropic-reportedly-plans-to-move-forward-with-ipo-plans/",
-      "publishedAt": "2026-11-10T01:27:12.000Z"
     },
     {
       "id": "vx827z",
@@ -532,15 +541,6 @@
       "source": "Ars Technica",
       "sourceUrl": "https://arstechnica.com/security/2026/10/the-internet-goes-on-high-alert-after-discovery-of-8-compromised-tls-certs/",
       "publishedAt": "2026-10-20T19:47:35.000Z"
-    },
-    {
-      "id": "wmwelx",
-      "title": "Meta Muse exposes users' personal and business secrets when they share conversations",
-      "summary": "Meta is suspending the sharing feature while it investigates its privacy.",
-      "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/ai-robot-hand-caution-1152x648.jpg",
-      "source": "Ars Technica",
-      "sourceUrl": "https://arstechnica.com/security/2026/10/meta-muse-exposes-users-personal-and-business-secrets-when-they-share-conversations/",
-      "publishedAt": "2026-10-20T12:33:13.000Z"
     }
   ]
 }
