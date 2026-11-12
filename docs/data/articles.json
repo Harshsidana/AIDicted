@@ -1,11 +1,47 @@
 {
-  "fetchedAt": "2026-11-11T22:56:31.702Z",
+  "fetchedAt": "2026-11-12T03:44:12.326Z",
   "count": 60,
   "articles": [
     {
+      "id": "9z46nm",
+      "title": "Who could replace Jensen Huang? A highly unscientific list of possible successors",
+      "summary": "Nvidia has no succession plan and a CEO in hot water, so we’ve drafted a shortlist.",
+      "imageUrl": "https://images.unsplash.com/photo-1531746790095-6c10a4031c5f?w=800&q=80",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/11/11/who-could-replace-jensen-huang-a-highly-unscientific-list-of-possible-successors/",
+      "publishedAt": "2026-11-12T03:13:10.000Z"
+    },
+    {
+      "id": "hdpxd2",
+      "title": "The unfolding Jensen Huang scandal: a timeline",
+      "summary": "The affair could have ramifications for national security as the U.S. and China race to develop the most advanced AI infrastructure.",
+      "imageUrl": "https://images.unsplash.com/photo-1655720828018-edd2daec9349?w=800&q=80",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/11/11/nvidia-ceo-jensen-huangs-affair-with-alleged-chinese-spy-a-timeline/",
+      "publishedAt": "2026-11-11T23:50:00.000Z"
+    },
+    {
+      "id": "nvhz5k",
+      "title": "Nvidia’s stock drops as board reportedly preps to oust CEO Jensen Huang",
+      "summary": "As soon as Wednesday evening, Nvidia's board could decide to remove its founder and CEO of 33 years.",
+      "imageUrl": "https://images.unsplash.com/photo-1635070041078-e363dbe005cb?w=800&q=80",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/11/11/nvidias-stock-drops-as-board-reportedly-preps-to-oust-ceo-jensen-huang/",
+      "publishedAt": "2026-11-11T23:28:45.000Z"
+    },
+    {
+      "id": "r2ys36",
+      "title": "Jensen Huang accused of having another affair — with an Nvidia exec",
+      "summary": "Jensen Huang, who has come under fire for admitting to an affair with a woman accused of being a Chinese intelligence agent, has been accused of having a separate affair with an Nvidia subordinate.",
+      "imageUrl": "https://images.unsplash.com/photo-1531746790095-6c10a4031c5f?w=800&q=80",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/11/11/jensen-huang-accused-of-having-another-affair-with-a-nvidia-exec/",
+      "publishedAt": "2026-11-11T23:17:05.000Z"
+    },
+    {
       "id": "wvdn0b",
       "title": "Nvidia is reportedly preparing to fire Jensen Huang",
-      "summary": "Nvidia's board is preparing to dismiss CEO Jensen Huang following a report from the New York Times about a second alleged extramarital affair, just days after he admitted to a separate affair with a woman alleged to be a Chinese spy, The Wall Street Journal reports. The second alleged affair was with an executive who reports to him, Nvidia's vice president of health care, Kimberly Powell, according to the Times, saying the two may have been captured on video \"being affectionate\" during Nvidia's…",
+      "summary": "Nvidia's board is preparing to dismiss CEO Jensen Huang following a report from the New York Times about a second alleged extramarital affair, just days after he admitted to a separate affair with a woman alleged to be a Chinese spy, The Wall Street Journal reports. The second alleged affair was with an executive who reports to him, Nvidia's vice president of health care, Kimberly Powell, according to the Times. The Nvidia board will meet as soon as today to decide on Huang's future at the…",
       "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25824934/2192224191.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
       "source": "The Verge",
       "sourceUrl": "https://www.theverge.com/tech/1031652/jensen-huang-rumor",
@@ -59,7 +95,7 @@
     {
       "id": "j2otnq",
       "title": "CoreWeave turns to customer prepayments, shorter contracts to fund AI growth",
-      "summary": "CoreWeave is increasingly asking customers to pay upfront, borrowing against specific contracts, and even looking to short-term deals that could lead to higher prices, according to the company’s third-quarter earnings.",
+      "summary": "CoreWeave is increasingly asking customers to pay up front, borrowing against specific contracts, and even looking to short-term deals that could lead to higher prices, according to the company’s third-quarter earnings.",
       "imageUrl": "https://images.unsplash.com/photo-1620712943543-bcc4688e7485?w=800&q=80",
       "source": "TechCrunch",
       "sourceUrl": "https://techcrunch.com/2026/11/11/coreweave-turns-to-customer-prepayments-shorter-contracts-to-fund-ai-growth/",
@@ -217,42 +253,6 @@
       "source": "Ars Technica",
       "sourceUrl": "https://arstechnica.com/security/2026/11/grok-build-coding-agent-leaks-oodles-of-confidential-info-some-belonging-to-spacexsi/",
       "publishedAt": "2026-11-10T21:12:59.000Z"
-    },
-    {
-      "id": "3ju3h7",
-      "title": "OpenAI acquires Odessia, travel startup created by Sonder founder",
-      "summary": "OpenAI has not yet said what its plans are for the future of travel. But Sonder founder Francis Davidson is a well-known figure in the travel industry.",
-      "imageUrl": "https://images.unsplash.com/photo-1620712943543-bcc4688e7485?w=800&q=80",
-      "source": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/11/10/openai-acquires-odessia-travel-startup-created-by-sonder-founder/",
-      "publishedAt": "2026-11-10T21:08:52.000Z"
-    },
-    {
-      "id": "1chmi2",
-      "title": "OpenAI, Anthropic face new oversight as New York’s AI safety law takes effect",
-      "summary": "New York is preparing to enforce its sweeping AI safety law, requiring major developers like OpenAI and Anthropic to register, disclose safety practices, and report critical incidents or face fines.",
-      "imageUrl": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=800&q=80",
-      "source": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/11/10/openai-anthropic-face-new-oversight-as-new-yorks-ai-safety-law-takes-effect/",
-      "publishedAt": "2026-11-10T20:52:13.000Z"
-    },
-    {
-      "id": "cyfnse",
-      "title": "All 7 Anthropic founders will each cash out about $250M in IPO",
-      "summary": "Each of the seven co-founders plans to sell exactly the same number of shares in the IPO, which would bring each of them about $250 million in cash at the midpoint of the price range while leaving the group in control of the company.",
-      "imageUrl": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=800&q=80",
-      "source": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/11/10/all-7-anthropic-founders-will-each-cash-out-about-250m-in-ipo/",
-      "publishedAt": "2026-11-10T19:57:52.000Z"
-    },
-    {
-      "id": "hiuybp",
-      "title": "Oura to acquire AI-native primary care startup Counsel Health for $625M",
-      "summary": "The deal comes a few weeks after Oura postponed its up to $2.2 billion IPO indefinitely, citing “uncertainty in the IPO market.”",
-      "imageUrl": "https://images.unsplash.com/photo-1526374965328-7f61d4dc18c5?w=800&q=80",
-      "source": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/11/10/oura-to-acquire-ai-native-primary-care-startup-counsel-health-for-625m/",
-      "publishedAt": "2026-11-10T19:23:34.000Z"
     },
     {
       "id": "hctd9c",
