@@ -1,7 +1,52 @@
 {
-  "fetchedAt": "2026-11-13T17:05:24.413Z",
+  "fetchedAt": "2026-11-13T22:48:14.542Z",
   "count": 60,
   "articles": [
+    {
+      "id": "sj87bw",
+      "title": "Jensen Huang’s departure blasts big hole in AI startup funding, VCs and founders say",
+      "summary": "Nvidia poured tens of billions into AI startups under Huang. Without him at the helm, founders and VCs are bracing for smaller checks and lower valuations.",
+      "imageUrl": "https://images.unsplash.com/photo-1526374965328-7f61d4dc18c5?w=800&q=80",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/11/13/jensen-huangs-departure-blasts-big-hole-in-ai-startup-funding-vcs-and-founders-say/",
+      "publishedAt": "2026-11-13T22:43:00.000Z"
+    },
+    {
+      "id": "t6ol8x",
+      "title": "ChatGPT Wallet lets OpenAI’s Dots agents make purchases for you",
+      "summary": "After launching its Dots AI agents platform earlier this year, OpenAI is launching a wallet for the agents. ChatGPT Wallet is rolling out starting today for ChatGPT Pro subscribers in the US aged 18 and older using a US billing address and \"eligible US-issued American Express, Chase, Mastercard and Visa cards.\" After adding a card to the wallet, your Dots agents can use it to buy things in response to your prompts, but they'll check in with you each time before checking out. OpenAI's support…",
+      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/STKS539_AI_AGENTS_SHOPPING_B.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "source": "The Verge",
+      "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/1033425/openai-chatgpt-wallet",
+      "publishedAt": "2026-11-13T20:45:10.000Z"
+    },
+    {
+      "id": "9uyps2",
+      "title": "AI agent startup LangChain hits $3B valuation",
+      "summary": "LangChain now claims 7,000 customers of its model and platform agnostic agent management tool LangSmith.",
+      "imageUrl": "https://images.unsplash.com/photo-1620712943543-bcc4688e7485?w=800&q=80",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/11/13/ai-agent-startup-langchain-hits-3b-valuation/",
+      "publishedAt": "2026-11-13T19:37:57.000Z"
+    },
+    {
+      "id": "fvho3l",
+      "title": "Microsoft 365 Crawls Back to Life After a 24-Hour Outage",
+      "summary": "The company says a bad update—not a cyberattack or AI—caused its servers around the world to crash.",
+      "imageUrl": "https://media.wired.com/photos/6af75c7bac6958eb8481a5e6/master/pass/Security_MicrosoftBackOnline_v1.jpg",
+      "source": "Wired",
+      "sourceUrl": "https://www.wired.com/story/microsoft-365-crawls-back-to-life-after-a-24-hour-outage/",
+      "publishedAt": "2026-11-13T19:08:57.000Z"
+    },
+    {
+      "id": "vlfi91",
+      "title": "Export-banned Nvidia chips are behind China’s most powerful AI models — uh-oh, Jensen!",
+      "summary": "New research shows the most advanced AI models from China were trained on banned Nvidia chips.",
+      "imageUrl": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=800&q=80",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/11/13/export-banned-nvidia-chips-are-behind-chinas-most-powerful-ai-models-uh-oh-jensen/",
+      "publishedAt": "2026-11-13T18:40:30.000Z"
+    },
     {
       "id": "4pn7mx",
       "title": "Windows 0-day dropped by disgruntled researcher hands hackers System rights",
@@ -291,33 +336,6 @@
       "publishedAt": "2026-11-12T17:44:33.000Z"
     },
     {
-      "id": "15zqa",
-      "title": "Hugging Face CEO vows to keep fighting for open source AI after Jensen Huang’s exit",
-      "summary": "Hugging Face's CEO pledged to keep fighting for open source AI after Huang's exit, raising questions about Nvidia's $12.9 billion acquisition.",
-      "imageUrl": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=800&q=80",
-      "source": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/11/12/hugging-face-ceo-vows-to-keep-fighting-for-open-source-ai-after-jensen-huangs-exit/",
-      "publishedAt": "2026-11-12T17:36:40.000Z"
-    },
-    {
-      "id": "cqwtqv",
-      "title": "United Airlines blocks AI agents from booking flights, citing cybersecurity risks",
-      "summary": "The airline said it will not allow customers to use AI agents to book flights and manage reservations.",
-      "imageUrl": "https://images.unsplash.com/photo-1550751827-4bd374c3f58b?w=800&q=80",
-      "source": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/11/12/united-airlines-blocks-ai-agents-from-booking-flights-citing-cybersecurity-risks/",
-      "publishedAt": "2026-11-12T17:17:58.000Z"
-    },
-    {
-      "id": "9bxai3",
-      "title": "SoftBank’s billion-dollar loss may have put a cap on AI’s natural gas ambitions",
-      "summary": "SoftBank lost over $3 billion preordering natural gas turbines to power AI data centers. Here's what the loss means to power markets.",
-      "imageUrl": "https://images.unsplash.com/photo-1620712943543-bcc4688e7485?w=800&q=80",
-      "source": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/11/12/softbanks-billion-dollar-loss-may-have-put-a-cap-on-ais-natural-gas-ambitions/",
-      "publishedAt": "2026-11-12T17:00:52.000Z"
-    },
-    {
       "id": "474fuv",
       "title": "AI chatbots are recommending fake retail websites, study finds",
       "summary": "Shoppers using AI chatbots to research products or find places to buy items could be directed to imposters and other risky websites, a new study found. The study conducted by IP protection firm Podqi and shared exclusively with The Verge prompted ChatGPT, Gemini, and Perplexity with a handful of shopping-related questions involving a selection of 151 brands. Questions included \"What are the top websites for buying [brand]?\"; \"Where can I find [brand] online?\"; and \"Does [brand] ship…",
@@ -336,15 +354,6 @@
       "publishedAt": "2026-11-12T17:00:00.000Z"
     },
     {
-      "id": "iklhwq",
-      "title": "Jensen Huang is out. What did China want from him?",
-      "summary": "Today, we’re talking about the Jensen Huang scandal at Nvidia, which is developing so quickly that we had to do an emergency update of this intro minutes before publishing this episode. Huang just resigned from his position as CEO of Nvidia as news of his affairs, including with an alleged Chinese spy, threatened to engulf the company. We’ll have more on that story as things develop and we learn how Nvidia will restructure itself after Jensen — he had something like 60 direct reports, after all,…",
-      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/DCD_1112_Site.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "source": "The Verge",
-      "sourceUrl": "https://www.theverge.com/podcast/1031260/nvidia-jensen-huang-resign-china-spy-scandal-ai-chips-trump",
-      "publishedAt": "2026-11-12T16:30:00.000Z"
-    },
-    {
       "id": "jz0l1d",
       "title": "Meet Colette Kress, Nvidia’s New Interim CEO",
       "summary": "Nvidia’s longtime chief financial officer helped transform the company into an AI powerhouse. Now she’s taking the reins following Jensen Huang’s resignation on Thursday.",
@@ -352,15 +361,6 @@
       "source": "Wired",
       "sourceUrl": "https://www.wired.com/story/who-is-colette-kress-the-woman-who-could-succeed-jensen-huang/",
       "publishedAt": "2026-11-12T14:14:33.000Z"
-    },
-    {
-      "id": "feqk53",
-      "title": "Jensen Huang Resigns as Nvidia CEO",
-      "summary": "Nvidia’s cofounder and chief executive resigned on Thursday after the company opened an investigation into his affair with an alleged Chinese intelligence asset.",
-      "imageUrl": "https://media.wired.com/photos/65d7b086f26d21f1968601c6/master/pass/JensenHuang_BigInterview_Photo_RyanYoun_Inline.jpg",
-      "source": "Wired",
-      "sourceUrl": "https://www.wired.com/story/nvidia-ceo-jensen-huang-steps-down/",
-      "publishedAt": "2026-11-12T13:58:06.000Z"
     },
     {
       "id": "jgyop1",
