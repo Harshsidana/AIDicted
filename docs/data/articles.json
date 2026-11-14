@@ -1,7 +1,16 @@
 {
-  "fetchedAt": "2026-11-13T22:48:14.542Z",
+  "fetchedAt": "2026-11-14T03:00:05.571Z",
   "count": 60,
   "articles": [
+    {
+      "id": "bklp66",
+      "title": "Amazon has a plan to index the world’s online shopping data",
+      "summary": "Amazon has plans to build a vault of data on every product sold anywhere on the internet, even products Amazon doesn't sell, and make the information available through its own site, according to Reuters. The project, called the \"World Product Graph,\" is meant to make it less likely that shoppers leave Amazon to do their product research on Reddit or Google, and make it more likely shoppers end up at Amazon even if they're searching for a product sold elsewhere. The same goes for AI agents - if…",
+      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/09/acastro_STK103__03.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "source": "The Verge",
+      "sourceUrl": "https://www.theverge.com/tech/1033697/amazon-world-product-graph-ai-search",
+      "publishedAt": "2026-11-13T23:49:11.000Z"
+    },
     {
       "id": "sj87bw",
       "title": "Jensen Huang’s departure blasts big hole in AI startup funding, VCs and founders say",
@@ -342,15 +351,6 @@
       "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/STKS539_AI_AGENTS_SHOPPING_E.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
       "source": "The Verge",
       "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/1032020/gemini-chatgpt-perplexity-shopping-test-risky-fake-websites-citations",
-      "publishedAt": "2026-11-12T17:00:00.000Z"
-    },
-    {
-      "id": "d6l5n0",
-      "title": "More game developers are starting to use generative AI",
-      "summary": "A photo from the GDC Festival of Gaming 2026 event. More video game developers are using generative AI tools in their jobs compared to last year, according to the GDC Festival of Gaming's latest annual industry survey. Forty percent of developers surveyed say they use it \"as part of their job,\" an increase from 36 percent in 2025. Usage was higher with game developers that work on free-to-play games at 58 percent and mobile-only studio workers at 70 percent. The survey is being published as the…",
-      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/55145037587_ac59503045_k.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "source": "The Verge",
-      "sourceUrl": "https://www.theverge.com/games/1032085/gdc-festival-of-gaming-annual-survey-ai-layoffs",
       "publishedAt": "2026-11-12T17:00:00.000Z"
     },
     {
