@@ -1,7 +1,16 @@
 {
-  "fetchedAt": "2026-11-14T16:41:28.157Z",
+  "fetchedAt": "2026-11-14T21:16:32.200Z",
   "count": 60,
   "articles": [
+    {
+      "id": "hjxstt",
+      "title": "The AI graveyard: a running list of projects and startups that didn’t make it",
+      "summary": "From Apple's repeatedly delayed Siri AI to OpenAI's messy \"super app\" launch, here's a look at the AI projects that shut down or missed expectations.",
+      "imageUrl": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=800&q=80",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/11/14/the-ai-graveyard-a-running-list-of-projects-and-startups-that-didnt-make-it/",
+      "publishedAt": "2026-11-14T17:30:00.000Z"
+    },
     {
       "id": "umpmb8",
       "title": "Asian governments react to Nvidia CEO Jensen Huang’s exit",
@@ -24,7 +33,7 @@
       "id": "dg0vkl",
       "title": "Beware the New AI-Fueled Ransomware Boom",
       "summary": "Fully automated ransomware hasn’t arrived—yet. But seemingly unsophisticated attackers are using AI tools to wreak havoc.",
-      "imageUrl": "https://images.unsplash.com/photo-1620712943543-bcc4688e7485?w=800&q=80",
+      "imageUrl": "https://media.wired.com/photos/6af88e4339637940f3ecc20a/master/pass/image%20(76).png",
       "source": "Wired",
       "sourceUrl": "https://www.wired.com/story/beware-the-new-ai-fueled-ransomware-boom/",
       "publishedAt": "2026-11-14T13:00:00.000Z"
@@ -325,15 +334,6 @@
       "source": "TechCrunch",
       "sourceUrl": "https://techcrunch.com/2026/11/12/googles-latest-search-upgrade-promises-better-answers-to-your-most-complicated-questions/",
       "publishedAt": "2026-11-12T19:27:45.000Z"
-    },
-    {
-      "id": "iwzjwr",
-      "title": "Nectar launches an AI agent to automate creator discovery and outreach for brands",
-      "summary": "Nectar's new AI agent automates influencer marketing, helping brands discover creators, manage outreach and partnerships, and track campaign results.",
-      "imageUrl": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=800&q=80",
-      "source": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/11/12/nectar-launches-an-ai-agent-to-automate-creator-discovery-and-outreach-for-brands/",
-      "publishedAt": "2026-11-12T19:11:00.000Z"
     },
     {
       "id": "15dpvf",
