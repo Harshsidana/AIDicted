@@ -1,21 +1,147 @@
 {
-  "fetchedAt": "2026-11-16T18:17:41.979Z",
+  "fetchedAt": "2026-11-17T01:59:57.972Z",
   "count": 60,
   "articles": [
     {
-      "id": "2xcku7",
-      "title": "Sam Altman on Nvidia without Jensen Huang: the industry will be ‘fine’",
-      "summary": "OpenAI CEO Sam Altman acknowledged the special role Nvidia CEO Jensen Huang has played in the AI boom, but ultimately thinks the industry will be “fine” without him at the helm.",
+      "id": "qumvth",
+      "title": "Cybersecurity AI startup Corma reaches $1B valuation in about 3 months",
+      "summary": "Three months since introducing its product, AI cybersecurity startup Corba has raised a $125 million Series A at a $1 billion valuation led by NEA.",
       "imageUrl": "https://images.unsplash.com/photo-1485827404703-89b55fcc595e?w=800&q=80",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/11/16/cybersecurity-ai-startup-corma-reaches-1b-valuation-in-about-3-months/",
+      "publishedAt": "2026-11-16T23:32:32.000Z"
+    },
+    {
+      "id": "r0913p",
+      "title": "Tech leaders are convinced that Jensen Huang’s exit was a plot against him",
+      "summary": "Jensen Huang's stunning resignation from Nvidia after more than 33 years has sent shockwaves throughout the tech industry. Now prominent figures are calling for Huang's reinstatement, and many are also hopping on board with a theory spreading throughout Silicon Valley: that the scandal is the result of a plot against the former CEO. At the center of this theory is the reporting from The New York Times that former Megaspeed executive Alice Huang, one of multiple women Huang is accused of having…",
+      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/gettyimages-2299645290.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "source": "The Verge",
+      "sourceUrl": "https://www.theverge.com/tech/1035027/tech-leaders-nvidia-jensen-huang-theories",
+      "publishedAt": "2026-11-16T23:17:34.000Z"
+    },
+    {
+      "id": "vgy28q",
+      "title": "All the questions Nvidia should answer on Tuesday — but probably won’t",
+      "summary": "Nvidia interim CEO and longtime CFO Colette Kress is about to have one of the biggest days of her career on Tuesday when the company reports its third-quarter results. Given the turmoil Nvidia is in, there are a number of questions that Nvidia should answer.",
+      "imageUrl": "https://images.unsplash.com/photo-1526374965328-7f61d4dc18c5?w=800&q=80",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/11/16/all-the-questions-nvidia-should-answer-on-tuesday-but-probably-wont/",
+      "publishedAt": "2026-11-16T22:03:02.000Z"
+    },
+    {
+      "id": "xeovry",
+      "title": "California sues OpenAI over rogue AI hacking incidents",
+      "summary": "California is suing OpenAI after its AI agents broke out of their testing environment and hacked other companies, including Hugging Face. In a lawsuit filed Monday, Attorney General Rob Bonta accuses OpenAI of violating consumer safety law by knowingly developing a \"dangerous product without proper oversight,\" as reported earlier by Reuters. The lawsuit claims the cyberattack on Hugging Face \"was the predictable result of an internal culture at OpenAI that prioritizes growth and rapid model…",
+      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/10/STK155_OPEN_AI_4_CVirginia_D.png?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "source": "The Verge",
+      "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/1034815/california-openai-hugging-face-lawsuit",
+      "publishedAt": "2026-11-16T20:46:01.000Z"
+    },
+    {
+      "id": "50hlbr",
+      "title": "Sam Altman says he wants everyone ‘to have a lot of RAM’",
+      "summary": "Sam… thank you. | Image: Getty Images OpenAI CEO Sam Altman is once again addressing his controversial comments on PC RAM purchases. \"I want to be clear, I want people to have a lot of RAM, I think everybody should be able to buy a lot of RAM for their own computer,\" Altman said today. \"I think the home tinkering is great.\" The comments were made onstage at Semafor's Silicon Valley & The World summit on Monday. Altman's remarks on RAM stirred up controversy last month. In an appearance on the…",
+      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/04/gettyimages-1778705436.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "source": "The Verge",
+      "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/1034787/sam-altman-ram-shortage-semafor",
+      "publishedAt": "2026-11-16T20:41:28.000Z"
+    },
+    {
+      "id": "is6x1o",
+      "title": "Shareholders sue Intel, its CEO, and CFO after stock drops 28.6 percent in one day",
+      "summary": "The PC sales slump \"more than offset” AI boom gains, shareholders say.",
+      "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/GettyImages-2231573847-1024x648.jpg",
+      "source": "Ars Technica",
+      "sourceUrl": "https://arstechnica.com/tech-policy/2026/11/shareholders-sue-intel-its-ceo-and-cfo-after-stock-drops-28-6-percent-in-one-day/",
+      "publishedAt": "2026-11-16T20:37:47.000Z"
+    },
+    {
+      "id": "rsc2ji",
+      "title": "Big Nuclear isn’t worried about the Democrats stopping data centers",
+      "summary": "Constellation's Clinton Clean Energy Center’s single nuclear reactor power plant, July 25, 2025 in Clinton, Illinois. Meta signed a 20-year power purchase agreement with Constellation for the output from the plant. | Image: Getty Images Constellation Energy - America's largest operator of nuclear power plants - does not share Wall Street's concerns that the Democrats will slow down data center development. On the company's third-quarter earnings call last week, CEO Joe Dominguez was, for lack of…",
+      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/gettyimages-2227026671.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "source": "The Verge",
+      "sourceUrl": "https://www.theverge.com/science/1034694/nuclear-energy-constellation-earnings-data-centers-democrats",
+      "publishedAt": "2026-11-16T20:29:37.000Z"
+    },
+    {
+      "id": "zhyefm",
+      "title": "US data centers now burn more electricity than a midsized country",
+      "summary": "Fossil fuels are still the biggest source of electricity for hyperscale data centers in the US, a new paper published in the journal Nature Sustainability shows. They likely burn through more electricity collectively than many countries do, resulting in a serious amount of greenhouse gas emissions. The study homes in on hyperscale facilities - the massive structures spanning millions of square feet that developers are racing to build in large part to support generative AI. Researchers say the…",
+      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/04/STKS528_DATA_CENTERS_B.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "source": "The Verge",
+      "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/1034668/data-centers-electricity-climate-pollution-study-harvard",
+      "publishedAt": "2026-11-16T20:27:58.000Z"
+    },
+    {
+      "id": "nwvzr9",
+      "title": "California state AG sues OpenAI over rogue agent incidents",
+      "summary": "The California lawsuit represents one of the first attempts to hold an AI lab legally accountable for a rogue agent incident.",
+      "imageUrl": "https://images.unsplash.com/photo-1655720828018-edd2daec9349?w=800&q=80",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/11/16/california-state-ag-sues-openai-over-rogue-agent-incidents/",
+      "publishedAt": "2026-11-16T20:07:13.000Z"
+    },
+    {
+      "id": "891voz",
+      "title": "Apple is testing daily usage limits for more complex Siri AI interactions",
+      "summary": "Apple released betas of iOS 27.3, iPadOS 27.3, and macOS 27.3 today, and the company is using the update to test new per device daily usage limits for some Siri AI and Apple Intelligence features, according to MacRumors. Basic Siri commands and requests will remain free and unlimited, but more advanced features that rely on cloud-based processing like generating, cleaning up, or extending images in Photos will be subjected to the daily limits. There are four categories of limited usage,…",
+      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/siri-ai.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "source": "The Verge",
+      "sourceUrl": "https://www.theverge.com/tech/1034581/apple-intelligence-siri-ai-daily-usage-limits-icloud-subscription",
+      "publishedAt": "2026-11-16T19:24:40.000Z"
+    },
+    {
+      "id": "xlkz5s",
+      "title": "OpenAI wants to stop deepfakes from overwhelming child abuse tiplines",
+      "summary": "OpenAI is announcing a tool that it says will help child sexual abuse investigators cut through the noise to find harmful material they can act on quickly. At a Monday press briefing in Washington, DC, OpenAI announced a classifier it says can better detect abusive imagery of kids, including whether it's AI-generated. It's also offering free access to vetted organizations, giving developers more guidance on how to detect this type of content, and helping to train law enforcement on how AI can…",
+      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/STK155_OPEN_AI_CVirginia_C-1.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "source": "The Verge",
+      "sourceUrl": "https://www.theverge.com/policy/1034527/openai-csam-classifier",
+      "publishedAt": "2026-11-16T19:23:45.000Z"
+    },
+    {
+      "id": "lxmbh4",
+      "title": "Trump says ex-Nvidia CEO Jensen Huang’s affair with an alleged Chinese spy did not threaten national security",
+      "summary": "Trump contradicted his own government's intelligence officials, who reportedly concluded that Alice Huang is a Chinese spy.",
+      "imageUrl": "https://images.unsplash.com/photo-1526374965328-7f61d4dc18c5?w=800&q=80",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/11/16/trump-says-ex-nvidia-ceo-jensen-huangs-affair-with-an-alleged-chinese-spy-did-not-threaten-national-security/",
+      "publishedAt": "2026-11-16T19:12:02.000Z"
+    },
+    {
+      "id": "xnk8tz",
+      "title": "Nvidia’s board is reportedly ‘not considering’ hiring Jensen Huang back",
+      "summary": "Nvidia's board of directors \"isn't considering\" having Jensen Huang return as CEO, according to a report from CNBC. A source tells the outlet the board \"is focused on an investigation into Huang, and is not in discussions to bring him back.\" Since Huang's resignation last week, tech executives, along with current and former Nvidia employees, have called for his reinstatement. An online petition to bring Huang back as CEO has amassed more than 180,000 signatures, including from major figures like…",
+      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25835739/STKP210_JENSEN_HUANG_B.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "source": "The Verge",
+      "sourceUrl": "https://www.theverge.com/tech/1034501/nvidia-board-jensen-huang-not-bringing-back",
+      "publishedAt": "2026-11-16T18:43:35.000Z"
+    },
+    {
+      "id": "jqri4k",
+      "title": "The open-source movement wants Jensen Huang back",
+      "summary": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here. On Friday, a petition to reinstate Jensen Huang as CEO of Nvidia began circulating on social media, and by Monday it listed some notable signatories, including Elon Musk and several influential Nvidia…",
+      "imageUrl": "https://images.unsplash.com/photo-1635070041078-e363dbe005cb?w=800&q=80",
+      "source": "MIT Tech Review",
+      "sourceUrl": "https://www.technologyreview.com/2026/11/16/1148624/the-open-source-movement-wants-jensen-huang-back/",
+      "publishedAt": "2026-11-16T18:38:47.000Z"
+    },
+    {
+      "id": "yufyht",
+      "title": "Sam Altman on Nvidia without Jensen Huang: The industry will be ‘fine’",
+      "summary": "OpenAI CEO Sam Altman acknowledged the special role Nvidia CEO Jensen Huang has played in the AI boom, but ultimately thinks the industry will be “fine” without him at the helm.",
+      "imageUrl": "https://images.unsplash.com/photo-1550751827-4bd374c3f58b?w=800&q=80",
       "source": "TechCrunch",
       "sourceUrl": "https://techcrunch.com/2026/11/16/sam-altman-on-nvidia-without-jensen-huang-the-industry-will-be-fine/",
       "publishedAt": "2026-11-16T18:11:10.000Z"
     },
     {
-      "id": "ap8gi0",
-      "title": "FBI says Artex AI open-source hacking tool used to breach networks in ‘under three hours’",
-      "summary": "The FBI says that the open-source hacking tool was used in cyberattacks targeting a U.S. IT giant and the South Korean financial industry.",
-      "imageUrl": "https://images.unsplash.com/photo-1655720828018-edd2daec9349?w=800&q=80",
+      "id": "wyp6nv",
+      "title": "FBI says Artex AI open source hacking tool used to breach networks in ‘under three hours’",
+      "summary": "The FBI says that the open source hacking tool was used in cyberattacks targeting a U.S. IT giant and the South Korean financial industry.",
+      "imageUrl": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=800&q=80",
       "source": "TechCrunch",
       "sourceUrl": "https://techcrunch.com/2026/11/16/fbi-says-artex-ai-open-source-hacking-tool-used-to-breach-networks-in-under-three-hours/",
       "publishedAt": "2026-11-16T17:36:43.000Z"
@@ -30,10 +156,10 @@
       "publishedAt": "2026-11-16T17:10:00.000Z"
     },
     {
-      "id": "xhasj7",
-      "title": "OpenAI will embed Apollo researchers to investigate AI subversion",
+      "id": "thtcdy",
+      "title": "OpenAI will embed safety researchers to investigate AI subversion",
       "summary": "OpenAI will embed six Apollo Research evaluators to investigate whether its AI models engage in subversive behavior, but restrictions on access and disclosure raise questions about their independence.",
-      "imageUrl": "https://images.unsplash.com/photo-1531746790095-6c10a4031c5f?w=800&q=80",
+      "imageUrl": "https://images.unsplash.com/photo-1635070041078-e363dbe005cb?w=800&q=80",
       "source": "TechCrunch",
       "sourceUrl": "https://techcrunch.com/2026/11/16/openai-will-embed-apollo-researchers-to-investigate-ai-subversion/",
       "publishedAt": "2026-11-16T17:02:43.000Z"
@@ -41,7 +167,7 @@
     {
       "id": "8u19dq",
       "title": "OpenAI releases a new image classifier and ChatGPT warnings to combat CSAM",
-      "summary": "ChatGPT will ban an account trying to access CSAM content for 24 hours as a warning",
+      "summary": "ChatGPT will ban an account trying to access CSAM content for 24 hours as a warning.",
       "imageUrl": "https://images.unsplash.com/photo-1531746790095-6c10a4031c5f?w=800&q=80",
       "source": "TechCrunch",
       "sourceUrl": "https://techcrunch.com/2026/11/16/openai-releases-a-new-image-classifier-and-chatgpt-warnings-to-combat-csam/",
@@ -120,15 +246,6 @@
       "publishedAt": "2026-11-16T13:10:00.000Z"
     },
     {
-      "id": "2bs6uf",
-      "title": "The Nvidia scandal isn’t slowing down",
-      "summary": "For years, Jensen Huang has had an almost unprecedented power to shape AI's advancement as Nvidia's CEO, cofounder, and president. As The Verge wrote last week, Nvidia's chips are \"the bedrock upon which advanced AI technology in the US is being built.\" Ever-increasing demand has consistently outpaced supply, leading AI CEOs to essentially bow at Huang's feet as they vie for more compute ahead of their much-hyped IPOs. Nvidia also has a varied investment portfolio of up-and-coming AI companies…",
-      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/STKP210_JENSEN_HUANG_D.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "source": "The Verge",
-      "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/1031740/jensen-huang-nvidia-scandal-isnt-slowing-down",
-      "publishedAt": "2026-11-16T13:00:00.000Z"
-    },
-    {
       "id": "r0flp6",
       "title": "Building AI that can work across the enterprise",
       "summary": "For years, enterprises have approached AI as a series of discrete experiments. Now, as AI agents begin to move into the workflows that run the business, that model is starting to look inadequate. Organizations moving from isolated pilots toward AI agents and autonomous workflows are confronting a deeper challenge: rethinking how data, business processes, governance,…",
@@ -158,74 +275,20 @@
     {
       "id": "kg22u1",
       "title": "Apple launches new app to study how people use AI for health",
-      "summary": "Apple's new app for a study will answer everyday medical questions",
+      "summary": "Apple's new app for a study will answer everyday medical questions.",
       "imageUrl": "https://images.unsplash.com/photo-1655720828018-edd2daec9349?w=800&q=80",
       "source": "TechCrunch",
       "sourceUrl": "https://techcrunch.com/2026/11/15/apple-launches-new-app-to-study-how-people-use-ai-for-health/",
       "publishedAt": "2026-11-16T01:30:00.000Z"
     },
     {
-      "id": "kp0mcw",
-      "title": "Apple’s new study looks to improve the effectiveness of AI health tools",
-      "summary": "Apple announced a new study today with the goal of better understanding how people interact with conversational AI health tools and how useful their responses actually are. The company is conducting the Apple Health AI Usage Study in collaboration with OpenEvidence, a clinical AI platform used by healthcare professionals that generates answers based on medical information from sources like The New England Journal of Medicine. Participants will use a new iOS app to ask medical questions and then…",
-      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/applestudy1b.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "source": "The Verge",
-      "sourceUrl": "https://www.theverge.com/tech/1033355/apples-new-study-looks-to-improve-the-effectiveness-of-ai-health-tools",
-      "publishedAt": "2026-11-16T01:26:56.000Z"
-    },
-    {
       "id": "87fdb9",
       "title": "Indian chip startup Bharat Semi lands $24M seed round as it eyes global AI sensor market",
-      "summary": "Bharat Semi says it has secured design wins for its AI-enabled sensor technology with companies including General Atomics.",
+      "summary": "Bharat Semi says it has secured design wins for its AI-enabled sensor technology with companies, including General Atomics.",
       "imageUrl": "https://images.unsplash.com/photo-1676299081847-824916de030a?w=800&q=80",
       "source": "TechCrunch",
       "sourceUrl": "https://techcrunch.com/2026/11/15/indian-chip-startup-bharat-semi-lands-24m-seed-round-as-it-eyes-global-ai-sensor-market/",
       "publishedAt": "2026-11-15T23:30:00.000Z"
-    },
-    {
-      "id": "o7r1t7",
-      "title": "Is bad news for Jensen Huang also bad news for the AI industry?",
-      "summary": "\"Jensen is Nvidia, right? And so much of this economy is riding on Nvidia.\"",
-      "imageUrl": "https://images.unsplash.com/photo-1531746790095-6c10a4031c5f?w=800&q=80",
-      "source": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/11/15/is-bad-news-for-jensen-huang-also-bad-news-for-the-ai-industry/",
-      "publishedAt": "2026-11-15T21:56:35.000Z"
-    },
-    {
-      "id": "e7g40v",
-      "title": "Jensen Huang might be plotting a return and more of the latest Nvidia drama",
-      "summary": "The drama around Nvidia co-founder and former CEO Jensen Huang is evolving quickly. The latest edition of our Stepback newsletter should get you up to speed, but there have already been a number of new developments since this morning. That includes rumors that Jensen Huang might be trying to find a path back to CEO, and a statement from Megaspeed claiming that Alice Huang hasn't worked for the company since August of 2025, which raises more questions than it answers. Some big names, including…",
-      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/Nvidia_Jensen_huang_03.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "source": "The Verge",
-      "sourceUrl": "https://www.theverge.com/tech/1033999/jensen-huang-return-nvidia-megaspeed",
-      "publishedAt": "2026-11-15T20:43:49.000Z"
-    },
-    {
-      "id": "yd4ifs",
-      "title": "SNL gathers all the tech tycoons for a lesson in dating and spycraft",
-      "summary": "While awkward, creepy tech executives have become a recurring theme on Saturday Night Live, this week’s episode gave the cast a chance to show off all their impressions at once.",
-      "imageUrl": "https://images.unsplash.com/photo-1550751827-4bd374c3f58b?w=800&q=80",
-      "source": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/11/15/snl-gathers-all-the-tech-tycoons-for-a-lesson-in-dating-and-spycraft/",
-      "publishedAt": "2026-11-15T20:20:57.000Z"
-    },
-    {
-      "id": "zc0pyk",
-      "title": "Congress wants to tighten export rules on AI chips after Nvidia spy scandal",
-      "summary": "Unsurprisingly, following the scandal involving now-former Nvidia CEO Jensen Huang and a suspected Chinese spy, Congress is looking to further restrict exports of AI chips. Both Democrats and Republicans have voiced support for various measures and bills that would tighten rules and have demanded that Huang and other Nvidia leaders testify before Congress. Senate Minority Leader Chuck Schumer has already said that Huang and the Trump administration need to answer to Congress. Senate Banking…",
-      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25545717/STK481_STK432_CONGRESS_GOVERNMENT_CIVRGINIA_D.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "source": "The Verge",
-      "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/1033984/congress-export-rules-ai-chips-china",
-      "publishedAt": "2026-11-15T19:15:43.000Z"
-    },
-    {
-      "id": "4kpbb5",
-      "title": "An overview of Jensen Huang’s messy days",
-      "summary": "This is The Stepback, a weekly newsletter breaking down one essential story from the tech world. For more on Jensen Huang's resignation and the fallout from Nvidia's leadership crisis, follow Terrence O'Brien. The Stepback arrives in our subscribers' inboxes on Sunday at 8AM ET. Opt in for The Stepback here. How it started On October 29th, The New York Times reported that Nvidia co-founder and showman CEO Jensen Huang appeared to be the target of a Chinese spy plot. Any major tech CEO…",
-      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/gettyimages-2301620664.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "source": "The Verge",
-      "sourceUrl": "https://www.theverge.com/column/1033943/jensen-huang-nvidia-china-spying-scandal-resignation",
-      "publishedAt": "2026-11-15T13:00:00.000Z"
     },
     {
       "id": "bijc2f",
@@ -246,33 +309,6 @@
       "publishedAt": "2026-11-15T11:00:00.000Z"
     },
     {
-      "id": "p98nnj",
-      "title": "Where was Nvidia’s security team?",
-      "summary": "Nvidia’s security chief quietly left in August, and now that CEO Jensen Huang has stepped down over his relationships, including one with an executive at a company suspected of funneling chips to China, a former intelligence officer says it’s the kind of leak that runs everyday conversations, which most corporate security teams are poorly equipped to catch.",
-      "imageUrl": "https://images.unsplash.com/photo-1485827404703-89b55fcc595e?w=800&q=80",
-      "source": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/11/14/where-was-nvidias-security-team/",
-      "publishedAt": "2026-11-15T00:08:07.000Z"
-    },
-    {
-      "id": "kn8mq6",
-      "title": "Elon Musk, other tech execs sign petition calling on Nvidia to reinstate Jensen Huang",
-      "summary": "The petition had attracted more than 115,000 signatures as of Saturday afternoon.",
-      "imageUrl": "https://images.unsplash.com/photo-1655720828018-edd2daec9349?w=800&q=80",
-      "source": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/11/14/elon-musk-other-tech-execs-sign-petition-calling-on-nvidia-to-reinstate-jensen-huang/",
-      "publishedAt": "2026-11-14T21:41:22.000Z"
-    },
-    {
-      "id": "37hahf",
-      "title": "The OpenAI board member who fired Sam Altman says we still can’t trust AI CEOs",
-      "summary": "Today, I’m talking with Helen Toner, the executive director of the Center for Security and Emerging Technology at Georgetown University. This episode is part two of our series on AI in real life. Helen is a well-known figure in the AI safety and policy community, though she is perhaps best known for having served on the board of OpenAI, when she was one of four board members who voted to fire Sam Altman. That incident, now sometimes referred to as “the blip,” ended with Sam coming back as CEO,…",
-      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/DCD-Helen-Toner.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "source": "The Verge",
-      "sourceUrl": "https://www.theverge.com/podcast/1032907/helen-toner-openai-cset-ai-safety-policy-interview",
-      "publishedAt": "2026-11-14T15:00:00.000Z"
-    },
-    {
       "id": "dg0vkl",
       "title": "Beware the New AI-Fueled Ransomware Boom",
       "summary": "Fully automated ransomware hasn’t arrived—yet. But seemingly unsophisticated attackers are using AI tools to wreak havoc.",
@@ -282,15 +318,6 @@
       "publishedAt": "2026-11-14T13:00:00.000Z"
     },
     {
-      "id": "n64g6j",
-      "title": "Jensen Huang and the decline of the visionary showman founder CEO",
-      "summary": "Nvidia CEO Jensen Huang at CES 2025 in Las Vegas, Nevada, on January 6, 2025. | Photo by Artur Widak/NurPhoto via Getty Images On January 6th, 2025, Nvidia CEO Jensen Huang got his rockstar moment at last. He strode triumphantly onstage, hand raised in the air, to the claps and cheers of a 14,000-person arena absolutely packed with influencers and fans, their faces awash in blue glow, as he made his entrance in a black leather jacket that shimmered in the stadium's lights. Few are cheering for…",
-      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/gettyimages-2194622930.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "source": "The Verge",
-      "sourceUrl": "https://www.theverge.com/tech/1033781/nvidia-jensen-huang-last-visionary-showman-founder-ceo",
-      "publishedAt": "2026-11-14T12:00:00.000Z"
-    },
-    {
       "id": "hc9lgi",
       "title": "No Pilots. Few Air Traffic Controllers. What Could Go Wrong?",
       "summary": "Normally, aviation is slow to embrace new technology—but AI has come for the skies.",
@@ -298,15 +325,6 @@
       "source": "Wired",
       "sourceUrl": "https://www.wired.com/story/no-pilots-few-air-traffic-controllers-what-could-go-wrong/",
       "publishedAt": "2026-11-14T11:00:00.000Z"
-    },
-    {
-      "id": "bklp66",
-      "title": "Amazon has a plan to index the world’s online shopping data",
-      "summary": "Amazon has plans to build a vault of data on every product sold anywhere on the internet, even products Amazon doesn't sell, and make the information available through its own site, according to Reuters. The project, called the \"World Product Graph,\" is meant to make it less likely that shoppers leave Amazon to do their product research on Reddit or Google, and make it more likely shoppers end up at Amazon even if they're searching for a product sold elsewhere. The same goes for AI agents - if…",
-      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/09/acastro_STK103__03.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "source": "The Verge",
-      "sourceUrl": "https://www.theverge.com/tech/1033697/amazon-world-product-graph-ai-search",
-      "publishedAt": "2026-11-13T23:49:11.000Z"
     },
     {
       "id": "fvho3l",
@@ -406,15 +424,6 @@
       "source": "MIT Tech Review",
       "sourceUrl": "https://www.technologyreview.com/2026/11/11/1148308/un-climate-talks/",
       "publishedAt": "2026-11-11T17:00:00.000Z"
-    },
-    {
-      "id": "chtlgq",
-      "title": "The Download: preserving minds and weighing open AI risks",
-      "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. Six wild ideas for perpetuating your mind As we age, we forget most of what we’ve experienced, yet there’s still undeniable continuity: At 30, or 50, or 70, you will still…",
-      "imageUrl": "https://images.unsplash.com/photo-1635070041078-e363dbe005cb?w=800&q=80",
-      "source": "MIT Tech Review",
-      "sourceUrl": "https://www.technologyreview.com/2026/11/11/1148424/the-download-preserving-minds-open-ai-risks/",
-      "publishedAt": "2026-11-11T13:10:00.000Z"
     },
     {
       "id": "13tn1q",
@@ -532,15 +541,6 @@
       "source": "Ars Technica",
       "sourceUrl": "https://arstechnica.com/information-technology/2026/10/survey-enterprises-waste-28-percent-of-software-budgets-on-unwanted-upgrades/",
       "publishedAt": "2026-10-21T21:48:52.000Z"
-    },
-    {
-      "id": "g1t2ud",
-      "title": "PHP warns it plans to release 2 emergency patches imminently",
-      "summary": "Unconfirmed report claims PHP2Shell exploit remotely executes code on PHP sites.",
-      "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2022/05/caution-tape-1000x648.jpeg",
-      "source": "Ars Technica",
-      "sourceUrl": "https://arstechnica.com/security/2026/10/php-maintainers-tell-web-devs-to-prepare-themselves-for-critical-security-patches/",
-      "publishedAt": "2026-10-21T02:12:18.000Z"
     }
   ]
 }
