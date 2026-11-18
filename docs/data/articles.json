@@ -1,7 +1,52 @@
 {
-  "fetchedAt": "2026-11-17T19:43:29.588Z",
+  "fetchedAt": "2026-11-18T02:17:53.496Z",
   "count": 45,
   "articles": [
+    {
+      "id": "p8ae2v",
+      "title": "Satya Nadella says he’s AGI-pilled now",
+      "summary": "Microsoft CEO Satya Nadella onstage at Microsoft Ignite. | Image: Microsoft / YouTube Microsoft CEO Satya Nadella says he's AGI-pilled, at least when it comes to how AI might make startling changes to the structure of the economy and how politics might change because of it. \"I am AGI-pilled in the sense that at an economy level, what is the political economy's organization around AGI?\" he asked at a roundtable discussion following his Microsoft Ignite keynote at the Chase Center in San…",
+      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/Screenshot-2026-11-17-at-3.00.15-PM.png?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "source": "The Verge",
+      "sourceUrl": "https://www.theverge.com/tech/1036111/satya-nadella-says-hes-agi-pilled-now",
+      "publishedAt": "2026-11-17T23:41:18.000Z"
+    },
+    {
+      "id": "lrm4tc",
+      "title": "Hundreds of websites deliver potent malware cocktail to unsuspecting visitors",
+      "summary": "Malware cocktail delivers cryptocurrency theft payloads and iOS exploits, among other things.",
+      "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/malicious-website-1152x648.jpg",
+      "source": "Ars Technica",
+      "sourceUrl": "https://arstechnica.com/security/2026/11/malicious-code-delivered-through-optimizely-hits-visitors-to-hundreds-of-sites/",
+      "publishedAt": "2026-11-17T22:32:16.000Z"
+    },
+    {
+      "id": "gkbcu5",
+      "title": "Nvidia’s Board Has No Plans to Bring Back Jensen Huang",
+      "summary": "Despite pressure from President Trump, Elon Musk, and Silicon Valley executives, Nvidia’s board says it “does not intend” to reinstate the company’s ousted CEO.",
+      "imageUrl": "https://media.wired.com/photos/6afce5159891667de5f2b6bb/master/pass/Nvidia-Board-Has-No-Plans-to-Bring-Back-Jensen-Business-2299990450.jpg",
+      "source": "Wired",
+      "sourceUrl": "https://www.wired.com/story/nvidias-board-has-no-plans-to-reinstate-jensen-huang/",
+      "publishedAt": "2026-11-17T22:19:19.000Z"
+    },
+    {
+      "id": "csnxty",
+      "title": "Nvidia’s Q3 earnings hit the mark, without mentioning the whole Jensen Huang thing",
+      "summary": "Interim Nvidia CEO Colette Kress announced the company's Q3 earnings on Tuesday, without initially mentioning former CEO Jensen Huang or the details of his departure, or possible attempt at a return. On the earnings call accompanying the release, board chair Harvey Jones kicked things off by saying the board \"does not intend to reinstate Huang as CEO,\" and that \"we will not be addressing or taking questions on today's call regarding the circumstances of Jensen's resignation and the ongoing…",
+      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25835739/STKP210_JENSEN_HUANG_B.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "source": "The Verge",
+      "sourceUrl": "https://www.theverge.com/tech/1036032/nvidia-q3-2027-jensen-huang",
+      "publishedAt": "2026-11-17T21:40:59.000Z"
+    },
+    {
+      "id": "g59xz7",
+      "title": "Not even Sam Altman is safe from AI deepfakes on Instagram",
+      "summary": "Open AI CEO Sam Altman does a television interview | Getty Images Instagram is filled with people posting deepfaked content - including, as of late, from one of Meta's most prominent executives. Earlier in November, Alexandr Wang, Meta's chief AI officer, shared a short clip to promote Muse, the company's consumer AI agent. In the AI-generated clip, Wang, Meta CEO Mark Zuckerberg, OpenAI CEO Sam Altman, and Jolly, the anthropomorphic mascot of Muse, are on a four-way video call. When Altman…",
+      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/gettyimages-2297785644.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "source": "The Verge",
+      "sourceUrl": "https://www.theverge.com/news/1035957/meta-alexandr-wang-sam-altman-instagram-ai-deepfake",
+      "publishedAt": "2026-11-17T21:00:55.000Z"
+    },
     {
       "id": "jwczn9",
       "title": "Google’s Spark AI agent becomes ‘Tasks’ — and now it’s free",
@@ -147,33 +192,6 @@
       "publishedAt": "2026-11-16T20:29:37.000Z"
     },
     {
-      "id": "zhyefm",
-      "title": "US data centers now burn more electricity than a midsized country",
-      "summary": "Fossil fuels are still the biggest source of electricity for hyperscale data centers in the US, a new paper published in the journal Nature Sustainability shows. They likely burn through more electricity collectively than many countries do, resulting in a serious amount of greenhouse gas emissions. The study homes in on hyperscale facilities - the massive structures spanning millions of square feet that developers are racing to build in large part to support generative AI. Researchers say the…",
-      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/04/STKS528_DATA_CENTERS_B.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "source": "The Verge",
-      "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/1034668/data-centers-electricity-climate-pollution-study-harvard",
-      "publishedAt": "2026-11-16T20:27:58.000Z"
-    },
-    {
-      "id": "891voz",
-      "title": "Apple is testing daily usage limits for more complex Siri AI interactions",
-      "summary": "Apple released betas of iOS 27.3, iPadOS 27.3, and macOS 27.3 today, and the company is using the update to test new per device daily usage limits for some Siri AI and Apple Intelligence features, according to MacRumors. Basic Siri commands and requests will remain free and unlimited, but more advanced features that rely on cloud-based processing like generating, cleaning up, or extending images in Photos will be subjected to the daily limits. There are four categories of limited usage,…",
-      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/siri-ai.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "source": "The Verge",
-      "sourceUrl": "https://www.theverge.com/tech/1034581/apple-intelligence-siri-ai-daily-usage-limits-icloud-subscription",
-      "publishedAt": "2026-11-16T19:24:40.000Z"
-    },
-    {
-      "id": "xlkz5s",
-      "title": "OpenAI wants to stop deepfakes from overwhelming child abuse tiplines",
-      "summary": "OpenAI is announcing a tool that it says will help child sexual abuse investigators cut through the noise to find harmful material they can act on quickly. At a Monday press briefing in Washington, DC, OpenAI announced a classifier it says can better detect abusive imagery of kids, including whether it's AI-generated. It's also offering free access to vetted organizations, giving developers more guidance on how to detect this type of content, and helping to train law enforcement on how AI can…",
-      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/STK155_OPEN_AI_CVirginia_C-1.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "source": "The Verge",
-      "sourceUrl": "https://www.theverge.com/policy/1034527/openai-csam-classifier",
-      "publishedAt": "2026-11-16T19:23:45.000Z"
-    },
-    {
       "id": "jqri4k",
       "title": "The open-source movement wants Jensen Huang back",
       "summary": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here. On Friday, a petition to reinstate Jensen Huang as CEO of Nvidia began circulating on social media, and by Monday it listed some notable signatories, including Elon Musk and several influential Nvidia…",
@@ -262,15 +280,6 @@
       "source": "Wired",
       "sourceUrl": "https://www.wired.com/story/no-pilots-few-air-traffic-controllers-what-could-go-wrong/",
       "publishedAt": "2026-11-14T11:00:00.000Z"
-    },
-    {
-      "id": "fvho3l",
-      "title": "Microsoft 365 Crawls Back to Life After a 24-Hour Outage",
-      "summary": "The company says a bad update—not a cyberattack or AI—caused its servers around the world to crash.",
-      "imageUrl": "https://media.wired.com/photos/6af75c7bac6958eb8481a5e6/master/pass/Security_MicrosoftBackOnline_v1.jpg",
-      "source": "Wired",
-      "sourceUrl": "https://www.wired.com/story/microsoft-365-crawls-back-to-life-after-a-24-hour-outage/",
-      "publishedAt": "2026-11-13T19:08:57.000Z"
     },
     {
       "id": "4pn7mx",
@@ -397,15 +406,6 @@
       "source": "Ars Technica",
       "sourceUrl": "https://arstechnica.com/security/2026/10/disgraced-emudhra-drops-out-of-tls-business-following-certificate-debacle/",
       "publishedAt": "2026-10-22T20:17:52.000Z"
-    },
-    {
-      "id": "d5cmps",
-      "title": "333 Tor exit nodes hijacked to intercept SSH traffic and retrieve plaintext email",
-      "summary": "For 3 days this month, 333 exit nodes were hacked in hopes of stealing sensitive data.",
-      "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/GettyImages-1237260150-1152x648.jpg",
-      "source": "Ars Technica",
-      "sourceUrl": "https://arstechnica.com/information-technology/2026/10/300-tor-exit-nodes-hijacked-to-intercept-ssh-traffic-and-retrieve-plaintext-email/",
-      "publishedAt": "2026-10-22T11:30:33.000Z"
     }
   ]
 }
