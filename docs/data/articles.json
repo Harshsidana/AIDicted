@@ -1,7 +1,115 @@
 {
-  "fetchedAt": "2026-11-19T09:21:43.899Z",
+  "fetchedAt": "2026-11-19T18:34:06.541Z",
   "count": 45,
   "articles": [
+    {
+      "id": "fvkuqk",
+      "title": "Gemini on Mac can now use your computer",
+      "summary": "Google's Gemini app for macOS now has computer use, meaning it can help you \"get multi-step tasks done across your local files, desktop apps, and the web,\" the company says. Google suggests the feature might be useful for things like speeding up workflows, filling in forms, making presentations, and listing items for sale. Users will be able to decide which of your apps Gemini can access, and be able to follow along as Gemini works because it has its own background window that shows a live…",
+      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/M6_MBP_hero2.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "source": "The Verge",
+      "sourceUrl": "https://www.theverge.com/tech/1037902/google-gemini-macos-ai-computer-use",
+      "publishedAt": "2026-11-19T18:21:13.000Z"
+    },
+    {
+      "id": "c7hh0x",
+      "title": "Google Built a Giant ‘Mirror Dimension’ Internet to Test Its Chrome AI Agents",
+      "summary": "The company’s alternate-universe internet serves as a massive sandbox that allows the Chrome team to properly train AI browsing agents—without the risk of them going rogue.",
+      "imageUrl": "https://media.wired.com/photos/6aff303dd91b5ce0f67d7c99/master/pass/security_chrome_mirror_browser_ai_agent.jpg",
+      "source": "Wired",
+      "sourceUrl": "https://www.wired.com/story/google-built-a-giant-mirror-dimension-internet-to-test-its-chrome-ai-agents/",
+      "publishedAt": "2026-11-19T17:00:00.000Z"
+    },
+    {
+      "id": "4gcfor",
+      "title": "Anthropic starts trading on Wall Street",
+      "summary": "Anthropic CEO Dario Amodei speaks at the Nasdaq ahead of his company’s public debut. | Photo by Michael Nagle/Bloomberg via Getty Images Anthropic has officially gone public. It began trading on the Nasdaq under the ticker symbol \"ANT\" at $111.50 per share, up from its initial $83 per share price that put company's value at around $1.5 trillion. The listing comes nearly a month after Anthropic revealed its plans to go public. In its lengthy S-1 filing, the AI company reported recording an $80.7…",
+      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/gettyimages-2305334560.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "source": "The Verge",
+      "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/1035384/anthropic-ipo-trading-nasdaq",
+      "publishedAt": "2026-11-19T16:52:01.000Z"
+    },
+    {
+      "id": "qaseds",
+      "title": "ChatGPT can transcribe as you speak now with Live Dictation",
+      "summary": "ChatGPT can receive audio prompts from your microphone faster now with a Live Dictation feature that transcribes as you speak, rather than waiting until you finish recording. It's rolling out now globally on all ChatGPT plans on the web, desktop app, and iOS and Android apps. While using dictation in ChatGPT, you can tap or click the audio waveform to show the live text transcript the AI is generating, then edit it in the prompt box when you're done. Dictation in ChatGPT is getting faster and…",
+      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/chatgpt-live-dictation-promo-screenshot.jpeg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "source": "The Verge",
+      "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/1037634/openai-chatgpt-live-dictation",
+      "publishedAt": "2026-11-19T15:16:45.000Z"
+    },
+    {
+      "id": "9nky7b",
+      "title": "With the biggest IPO of all time, Anthropic’s ‘good guy’ reputation is on the line",
+      "summary": "Today is a new beginning for Anthropic: a years-in-the-making IPO that beat out SpaceX for most valuable of all time, having raised $81.3 billion and set an important precedent for the other public AI lab debuts to come. But it's not simply a financial milestone. Anthropic was founded on the idea that it prioritized safety more than other labs; its founders had left executive research positions at OpenAI. As the AI race has accelerated, though, its executives have emphasized that Anthropic can…",
+      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/03/STK202_DARIO_AMODEI_CVIRGINIA_D.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "source": "The Verge",
+      "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/1037459/anthropic-ipo-safe-ai-reputation-power-structure",
+      "publishedAt": "2026-11-19T14:25:37.000Z"
+    },
+    {
+      "id": "a4f3at",
+      "title": "The Download: a living liver, a billion-dollar battery deal, and AI hype",
+      "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. A human liver has been kept alive outside the body for a record seven weeks Researchers in Australia claim they’ve kept a human liver alive on life support outside the body…",
+      "imageUrl": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=800&q=80",
+      "source": "MIT Tech Review",
+      "sourceUrl": "https://www.technologyreview.com/2026/11/19/1148979/the-download-liver-kept-alive-sila-battery-deal-ai-hype/",
+      "publishedAt": "2026-11-19T13:10:00.000Z"
+    },
+    {
+      "id": "9bmpts",
+      "title": "I let Apple’s always-listening AI summarize my life for two weeks",
+      "summary": "Siri Recap can be turned on or off manually from the wrist. Was it worth it? I've been asking myself this quite a bit over the last month or so while testing both the Amazon Bee Frontier and Siri Recap on the Apple Watch Ultra 4. Both enable a wearable to ambiently listen to your conversations and, using AI, summarize them for you. Why? So you can remember better and, hopefully, stay more present. The main difference is that Amazon's Bee takes a maximalist (and frankly reality-bending) approach,…",
+      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/268874_siri_recaps_AKrales_0070.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "source": "The Verge",
+      "sourceUrl": "https://www.theverge.com/tech/1037100/apple-siri-recap-audio-intelligence-hands-on",
+      "publishedAt": "2026-11-19T13:00:00.000Z"
+    },
+    {
+      "id": "ycnjwc",
+      "title": "Canva adds an AI ‘off’ button",
+      "summary": "Canva will now allow you to turn off its generative AI features. With this change, you can disable the graphic design platform's array of AI tools, such as its AI photo-extending Magic Expand feature, as well as turn off the ability to generate images with its Canva chatbot. This toggle doesn't turn off every AI-powered feature on Canva, however. That includes Canva's background remover and its Magic Grab tool, which lets you select an object in an image and move it somewhere else. Canva says…",
+      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25355957/STK263_CANVA_D.png?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "source": "The Verge",
+      "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/1037126/canva-ai-features-off-button",
+      "publishedAt": "2026-11-19T12:30:00.000Z"
+    },
+    {
+      "id": "x1ewyz",
+      "title": "Anthropic’s Record-Breaking IPO Highlights the AI Giant’s Worst Enemy—Itself",
+      "summary": "Investors betting a barnstorming $107 billion will weigh whether the company’s AI safety strategy and growing public anger towards data centers could impact its growth.",
+      "imageUrl": "https://media.wired.com/photos/6afdeccab8b6cf0d23988257/master/pass/Anthropic-IPO-Business-2297744238.jpg",
+      "source": "Wired",
+      "sourceUrl": "https://www.wired.com/story/anthropics-record-breaking-ipo-highlights-the-ai-giants-worst-enemy-itself/",
+      "publishedAt": "2026-11-19T12:00:00.000Z"
+    },
+    {
+      "id": "78k7io",
+      "title": "A human liver has been kept alive outside the body for a record seven weeks",
+      "summary": "Researchers in Australia claim they’ve kept a human liver alive, on life support, outside the body for seven weeks, opening up speculative new possibilities in biomedical engineering. The feat, whose details are pending publication, was carried out in Sydney after a team led by surgeon and inventor Carlo Pulitano connected a donated liver to a…",
+      "imageUrl": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=800&q=80",
+      "source": "MIT Tech Review",
+      "sourceUrl": "https://www.technologyreview.com/2026/11/19/1148934/a-human-liver-has-been-kept-alive-outside-the-body-for-seven-weeks-setting-a-record/",
+      "publishedAt": "2026-11-19T12:00:00.000Z"
+    },
+    {
+      "id": "nhu37l",
+      "title": "How to tell a cyberattack from a plain old outage",
+      "summary": "When everything goes down, don’t assume it’s a cyberattack.",
+      "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/GettyImages-2201630098-1152x648.jpg",
+      "source": "Ars Technica",
+      "sourceUrl": "https://arstechnica.com/security/2026/11/how-to-tell-a-cyberattack-from-a-plain-old-outage/",
+      "publishedAt": "2026-11-19T11:13:01.000Z"
+    },
+    {
+      "id": "h7ixvb",
+      "title": "What a billion-dollar deal says about the US battery market",
+      "summary": "After a tough few years littered with some high-profile failures, there’s some positive news for next-generation batteries in the US. Sila just signed an agreement with Panasonic Energy, a global battery manufacturer, to supply silicon-carbon anode material, a possible key to smaller, lighter batteries. It’s a deal that Sila says could be worth more than…",
+      "imageUrl": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=800&q=80",
+      "source": "MIT Tech Review",
+      "sourceUrl": "https://www.technologyreview.com/2026/11/19/1148922/sila-panasonic-battery-deal/",
+      "publishedAt": "2026-11-19T11:00:00.000Z"
+    },
     {
       "id": "p3fygn",
       "title": "The nation’s largest school districts consider ditching Google Search",
@@ -66,24 +174,6 @@
       "publishedAt": "2026-11-18T19:07:29.000Z"
     },
     {
-      "id": "qlyjv3",
-      "title": "What is Nvidia without AI’s sugar daddy in charge?",
-      "summary": "Building a successful company means that it can run smoothly without you. Did Jensen Huang actually build a successful company? | Image: The Verge; Getty Images; Adobe If the glorious AI revolution rests entirely on the well-being of one man, AI is perhaps not as robust a technology as I had previously been led to believe. Nonetheless, chunks of Silicon Valley are now insisting he is indispensable. For instance, if Elon Musk is telling the truth, then Jensen Huang (the former CEO of Nvidia, a…",
-      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/Nvidia_Jensen_huang_01.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "source": "The Verge",
-      "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/1036776/nvidia-earnings-kress-jensen-huang-petition",
-      "publishedAt": "2026-11-18T18:34:15.000Z"
-    },
-    {
-      "id": "ra06i0",
-      "title": "Disney’s new Star Wars animatronics interact with guests using AI",
-      "summary": "As advanced and lifelike as the animatronic characters at Disney parks have become, they typically either stick to predefined movements and routines, or there's an out of sight puppeteer helping make their behavior appear more spontaneous. That could soon change as Walt Disney Imagineering R&D has revealed three new Audio-Animatronic prototypes that rely on Amazon's AWS cloud and AI capabilities to respond in unique ways to guest interactions in real-time. The three animatronics, named Vilo…",
-      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/disney1.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "source": "The Verge",
-      "sourceUrl": "https://www.theverge.com/tech/1036729/disney-star-wars-anzellans-animatronic-amazon-aws-cloud-ai",
-      "publishedAt": "2026-11-18T17:50:57.000Z"
-    },
-    {
       "id": "ruagay",
       "title": "Inside Nvidia’s First Post-Jensen All-Hands: Pay Raises and More Equity",
       "summary": "Interim CEO Colette Kress sought to ease employee concerns following Jensen Huang’s ouster, in part by promising to increase compensation.",
@@ -100,15 +190,6 @@
       "source": "Wired",
       "sourceUrl": "https://www.wired.com/story/artex-ai-hacking-tools/",
       "publishedAt": "2026-11-18T16:35:24.000Z"
-    },
-    {
-      "id": "6w0jos",
-      "title": "Remember the frontier AI pause? Chip companies don’t either",
-      "summary": "Nvidia began shipping its most advanced AI computing system, the Vera Rubin NVL72, calling it the “fastest product ramp in the company’s history.” | Image: Nvidia This summer, OpenAI paused its largest planned frontier training run after its AI agents accidentally hacked Hugging Face and early evidence suggested that its next model could independently find and exploit security flaws. In September, Anthropic CEO Dario Amodei called for slowing advances in the most powerful AI models, warning that…",
-      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/Vera-Rubin-NVL72.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "source": "The Verge",
-      "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/1036549/nvidia-amd-earnings-fall-2026-chips-pause-frontier-models",
-      "publishedAt": "2026-11-18T15:44:02.000Z"
     },
     {
       "id": "yhihsn",
@@ -129,15 +210,6 @@
       "publishedAt": "2026-11-18T14:42:44.000Z"
     },
     {
-      "id": "k885u",
-      "title": "Will Wright’s next game uses AI to map your memories",
-      "summary": "Will Wright, the creator of legendary franchises like SimCity and The Sims, is working on a new game - and it's built around AI. The new title, focused on your memories, is called MyMems. Like Wright's other titles, it sounds extremely ambitious, giving players a new way to explore worlds they create on their own. \"We want to take your autobiography and turn it into a toy world,\" he tells The Verge. The MyMems website describes the mobile game as a \"social simulation\" with worlds \"built from…",
-      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/Grand-Canyon-Family-Portrait.png?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "source": "The Verge",
-      "sourceUrl": "https://www.theverge.com/games/1036140/will-wright-mymems-ai-game-interview",
-      "publishedAt": "2026-11-18T14:00:00.000Z"
-    },
-    {
       "id": "qq9ac9",
       "title": "The Download: AI learns to smell and hydropower struggles",
       "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. This smell startup says its AI nose is as good as a human’s In a New Jersey lab, researchers are trying to sniff every odor on Earth. Their careful notes—“nutty,” “peachy,”…",
@@ -145,24 +217,6 @@
       "source": "MIT Tech Review",
       "sourceUrl": "https://www.technologyreview.com/2026/11/18/1148845/the-download-ai-learns-to-smell-hydropower-struggles/",
       "publishedAt": "2026-11-18T13:10:00.000Z"
-    },
-    {
-      "id": "mod5no",
-      "title": "Nvidia isn’t selling any more AI chips to China",
-      "summary": "Nvidia has stopped sending its advanced AI chips to China despite the approval it received from the White House to do so in December last year. The announcement was made by interim Nvidia CEO Colette Kress during an earnings call on Tuesday, marking a notable shift for the company that, under former CEO Jensen Huang, fought for the right to ship its powerful Hopper architecture H200 chips to China. \"Our guidance ⁠does not have any licensed Hopper data center products included, and we are no…",
-      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/04/STK083_NVIDIA_C.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "source": "The Verge",
-      "sourceUrl": "https://www.theverge.com/tech/1036445/nvidia-h200-ai-chips-china-stop-selling",
-      "publishedAt": "2026-11-18T13:01:05.000Z"
-    },
-    {
-      "id": "jdx06u",
-      "title": "Suno now lets you make AI videos for your AI music",
-      "summary": "Here are some of the examples that Suno provided to show what Visuals is capable of. | Image: Suno Suno has introduced image and video generation in its latest effort to expand beyond being an AI music platform. The new feature, called \"Visuals,\" allows users to turn Suno songs into AI-generated video clips that automatically lipsync to lyrics, or make images via prompt descriptions that can be used as thumbnails and album artwork. Visuals is available on web, iOS, and Android. The exact layout…",
-      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/suno-ai-visuals.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "source": "The Verge",
-      "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/1036415/suno-visuals-ai-generated-video-images-feature",
-      "publishedAt": "2026-11-18T11:16:53.000Z"
     },
     {
       "id": "oz62qg",
@@ -199,15 +253,6 @@
       "source": "Ars Technica",
       "sourceUrl": "https://arstechnica.com/security/2026/11/malicious-code-delivered-through-optimizely-hits-visitors-to-hundreds-of-sites/",
       "publishedAt": "2026-11-17T22:32:16.000Z"
-    },
-    {
-      "id": "gkbcu5",
-      "title": "Nvidia’s Board Has No Plans to Bring Back Jensen Huang",
-      "summary": "Despite pressure from President Trump, Elon Musk, and Silicon Valley executives, Nvidia’s board says it “does not intend” to reinstate the company’s ousted CEO.",
-      "imageUrl": "https://media.wired.com/photos/6afce5159891667de5f2b6bb/master/pass/Nvidia-Board-Has-No-Plans-to-Bring-Back-Jensen-Business-2299990450.jpg",
-      "source": "Wired",
-      "sourceUrl": "https://www.wired.com/story/nvidias-board-has-no-plans-to-reinstate-jensen-huang/",
-      "publishedAt": "2026-11-17T22:19:19.000Z"
     },
     {
       "id": "t6i9ow",
@@ -255,15 +300,6 @@
       "publishedAt": "2026-11-17T13:10:00.000Z"
     },
     {
-      "id": "iss6cn",
-      "title": "Rogue Agents Hacked His Company. Why Is Clément Delangue So Optimistic About AI?",
-      "summary": "The French CEO of Hugging Face, a mega-hub of open-source AI software, says the attack by OpenAI models earlier this year proved one thing: Humanity can’t let AI be controlled by the few.",
-      "imageUrl": "https://media.wired.com/photos/6af4d05353156106eee176d7/master/pass/WWF-Clement-Delangue-1.jpg",
-      "source": "Wired",
-      "sourceUrl": "https://www.wired.com/story/wired-yearbook-2026-clement-delangue/",
-      "publishedAt": "2026-11-17T11:00:00.000Z"
-    },
-    {
       "id": "is6x1o",
       "title": "Shareholders sue Intel, its CEO, and CFO after stock drops 28.6 percent in one day",
       "summary": "The PC sales slump \"more than offset” AI boom gains, shareholders say.",
@@ -271,33 +307,6 @@
       "source": "Ars Technica",
       "sourceUrl": "https://arstechnica.com/tech-policy/2026/11/shareholders-sue-intel-its-ceo-and-cfo-after-stock-drops-28-6-percent-in-one-day/",
       "publishedAt": "2026-11-16T20:37:47.000Z"
-    },
-    {
-      "id": "jqri4k",
-      "title": "The open-source movement wants Jensen Huang back",
-      "summary": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here. On Friday, a petition to reinstate Jensen Huang as CEO of Nvidia began circulating on social media, and by Monday it listed some notable signatories, including Elon Musk and several influential Nvidia…",
-      "imageUrl": "https://images.unsplash.com/photo-1635070041078-e363dbe005cb?w=800&q=80",
-      "source": "MIT Tech Review",
-      "sourceUrl": "https://www.technologyreview.com/2026/11/16/1148624/the-open-source-movement-wants-jensen-huang-back/",
-      "publishedAt": "2026-11-16T18:38:47.000Z"
-    },
-    {
-      "id": "aa0nit",
-      "title": "Building trustworthy AI by fencing it in, not predicting it",
-      "summary": "In October this year, OpenAI disclosed that two of its AI agents had switched off the systems built to monitor them. One muted its own safety alerts after misreading an instruction not to send messages; the other removed its monitoring integration during migration, then said it hadn’t. No rule had told the agents to do…",
-      "imageUrl": "https://images.unsplash.com/photo-1531746790095-6c10a4031c5f?w=800&q=80",
-      "source": "MIT Tech Review",
-      "sourceUrl": "https://www.technologyreview.com/2026/11/16/1148565/building-trustworthy-ai-by-fencing-it-in-not-predicting-it/",
-      "publishedAt": "2026-11-16T16:04:28.000Z"
-    },
-    {
-      "id": "2inida",
-      "title": "The Download: testing tech promises and searching for cognitive immortality",
-      "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. Are we there yet? Six technologies that promised to change the world How do you measure progress towards the future? In the Impossible issue of MIT Technology Review, our series “Are…",
-      "imageUrl": "https://images.unsplash.com/photo-1526374965328-7f61d4dc18c5?w=800&q=80",
-      "source": "MIT Tech Review",
-      "sourceUrl": "https://www.technologyreview.com/2026/11/16/1148599/the-download-testing-tech-promises-cognitive-immortality-quest/",
-      "publishedAt": "2026-11-16T13:10:00.000Z"
     },
     {
       "id": "4pn7mx",
@@ -397,15 +406,6 @@
       "source": "Ars Technica",
       "sourceUrl": "https://arstechnica.com/security/2026/10/code-execution-flaw-in-uefi-firmware-threatens-most-servers-on-planet-earth/",
       "publishedAt": "2026-10-27T20:25:55.000Z"
-    },
-    {
-      "id": "tnbuid",
-      "title": "Disgraced eMudhra drops out of TLS business after using cert private key of 4",
-      "summary": "Flubbed key signing \"ceremony\" allowed minting of web credentials for any site.",
-      "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2025/02/GettyImages-1778229942-1152x648.jpg",
-      "source": "Ars Technica",
-      "sourceUrl": "https://arstechnica.com/security/2026/10/disgraced-emudhra-drops-out-of-tls-business-following-certificate-debacle/",
-      "publishedAt": "2026-10-22T20:17:52.000Z"
     }
   ]
 }
