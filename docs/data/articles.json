@@ -1,7 +1,16 @@
 {
-  "fetchedAt": "2026-11-20T01:09:11.618Z",
+  "fetchedAt": "2026-11-20T09:04:14.589Z",
   "count": 45,
   "articles": [
+    {
+      "id": "e5r2dd",
+      "title": "This 16-Year-Old Founded an AI Missile Startup. He’s Targeting ‘Cost per Kill’",
+      "summary": "Henrijs Dandzbergs dropped out of high school to join startup accelerator Y Combinator. With a new breed of missile, he wants to make killing as efficient as possible for the US and its military allies.",
+      "imageUrl": "https://media.wired.com/photos/6aff9b51715a3d6f512c8dee/master/pass/The-Boy-Who-Builds-Missiles-Business.jpg",
+      "source": "Wired",
+      "sourceUrl": "https://www.wired.com/story/henrijs-dandzbergs-polemos-missiles-ai-warfare/",
+      "publishedAt": "2026-11-20T07:00:00.000Z"
+    },
     {
       "id": "a5oypy",
       "title": "Apple is hiring engineers to build its own AI agent",
@@ -217,15 +226,6 @@
       "source": "Wired",
       "sourceUrl": "https://www.wired.com/story/artex-ai-hacking-tools/",
       "publishedAt": "2026-11-18T16:35:24.000Z"
-    },
-    {
-      "id": "yhihsn",
-      "title": "‘Just Ridiculous’: A Famed Philosopher Takes on AI Consciousness",
-      "summary": "Thomas Nagel has done landmark work on consciousness in nonhumans; this week, he won the million-dollar Berggruen Prize for his contributions to the field. And he has a lot of thoughts on AI.",
-      "imageUrl": "https://media.wired.com/photos/6afcfb207b0def85d03dac43/master/pass/Thomas-Nagel-QandA-Business.jpg",
-      "source": "Wired",
-      "sourceUrl": "https://www.wired.com/story/just-ridiculous-a-famed-philosopher-takes-on-ai-consciousness/",
-      "publishedAt": "2026-11-18T15:02:40.000Z"
     },
     {
       "id": "rpokwx",
