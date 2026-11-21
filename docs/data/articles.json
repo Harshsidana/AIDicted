@@ -1,7 +1,34 @@
 {
-  "fetchedAt": "2026-11-21T06:53:22.442Z",
+  "fetchedAt": "2026-11-21T15:14:23.454Z",
   "count": 45,
   "articles": [
+    {
+      "id": "vmwca1",
+      "title": "Can Anthropic afford to put safety first?",
+      "summary": "Today, I’m talking with Hayden Field, The Verge’s senior AI reporter, about the Anthropic IPO for the third and final episode in our series about AI in real life. The AI lab behind Claude went public on the Nasdaq last Thursday. The numbers are gigantic, but not really that important for this conversation, except to say that Anthropic has become one of the most valuable companies on the planet. The real story is what happens now — and whether Anthropic can continue to thread the needle of caring…",
+      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/VRG_DCD_1121_Site.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "source": "The Verge",
+      "sourceUrl": "https://www.theverge.com/podcast/1038701/anthropic-ipo-ai-safety-openai-nvidia-structure",
+      "publishedAt": "2026-11-21T15:00:00.000Z"
+    },
+    {
+      "id": "r2i77g",
+      "title": "Chess.com’s next move is a new hub for classic games, from mahjong to sudoku",
+      "summary": "Chess.com is ready to go a lot bigger than chess. After launching Gambit, a gambling-free poker site, earlier this year, the company is now adding 10 more games: backgammon, checkers, go, hearts, mahjong, shogi, sudoku, solitaire, xiangqi, and a Scrabble alternative called word. They're all part of Chess's new Classic Games platform, which is launching its public beta on Saturday on the web and through a new app for iOS and Android. \"Our cofounders have had many people come up to them and say,…",
+      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/classic-games-home-page-trimmed.jpeg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "source": "The Verge",
+      "sourceUrl": "https://www.theverge.com/games/1038099/chess-classic-games-expansion-ai",
+      "publishedAt": "2026-11-21T14:00:00.000Z"
+    },
+    {
+      "id": "gh83p9",
+      "title": "The Outages Are Just Getting Started",
+      "summary": "AI is forcing companies to patch their systems faster as attackers race to exploit newly discovered vulnerabilities. Welcome to internet outage hell.",
+      "imageUrl": "https://media.wired.com/photos/6b00ba06fb286bb31d23be2b/master/pass/Kernel-Panic-Brace-for-More-Outages-Security.jpg",
+      "source": "Wired",
+      "sourceUrl": "https://www.wired.com/story/brace-yourself-for-years-of-outage-chaos/",
+      "publishedAt": "2026-11-21T13:00:00.000Z"
+    },
     {
       "id": "m5qahf",
       "title": "Cops Are Pushing Extremely Corny ‘Grand Theft Auto 6’ Slop",
@@ -174,15 +201,6 @@
       "publishedAt": "2026-11-19T20:05:06.000Z"
     },
     {
-      "id": "fvkuqk",
-      "title": "Gemini on Mac can now use your computer",
-      "summary": "Google's Gemini app for macOS now has computer use, meaning it can help you \"get multi-step tasks done across your local files, desktop apps, and the web,\" the company says. Google suggests the feature might be useful for things like speeding up workflows, filling in forms, making presentations, and listing items for sale. Users will be able to decide which of your apps Gemini can access, and be able to follow along as Gemini works because it has its own background window that shows a live…",
-      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/M6_MBP_hero2.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "source": "The Verge",
-      "sourceUrl": "https://www.theverge.com/tech/1037902/google-gemini-macos-ai-computer-use",
-      "publishedAt": "2026-11-19T18:21:13.000Z"
-    },
-    {
       "id": "c7hh0x",
       "title": "Google Built a Giant ‘Mirror Dimension’ Internet to Test Its Chrome AI Agents",
       "summary": "The company’s alternate-universe internet serves as a massive sandbox that allows the Chrome team to properly train AI browsing agents—without the risk of them going rogue.",
@@ -190,15 +208,6 @@
       "source": "Wired",
       "sourceUrl": "https://www.wired.com/story/google-built-a-giant-mirror-dimension-internet-to-test-its-chrome-ai-agents/",
       "publishedAt": "2026-11-19T17:00:00.000Z"
-    },
-    {
-      "id": "4gcfor",
-      "title": "Anthropic starts trading on Wall Street",
-      "summary": "Anthropic CEO Dario Amodei speaks at the Nasdaq ahead of his company’s public debut. | Photo: Michael Nagle / Bloomberg via Getty Images Anthropic has officially gone public. It began trading on the Nasdaq under the ticker symbol \"ANT\" at $111.50 per share, up from its initial $83 per share price that put company's value at around $1.5 trillion. The listing comes nearly a month after Anthropic revealed its plans to go public. In its lengthy S-1 filing, the AI company reported recording an $80.7…",
-      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/gettyimages-2305334560.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "source": "The Verge",
-      "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/1035384/anthropic-ipo-trading-nasdaq",
-      "publishedAt": "2026-11-19T16:52:01.000Z"
     },
     {
       "id": "a4f3at",
@@ -244,15 +253,6 @@
       "source": "MIT Tech Review",
       "sourceUrl": "https://www.technologyreview.com/2026/11/19/1148922/sila-panasonic-battery-deal/",
       "publishedAt": "2026-11-19T11:00:00.000Z"
-    },
-    {
-      "id": "xc4092",
-      "title": "Does Nvidia Got This? Interim CEO Colette Kress Says It’s Got This",
-      "summary": "WIRED is tallying up how many times Nvidia’s interim CEO has assured everyone that the company has everything under control.",
-      "imageUrl": "https://media.wired.com/photos/6afe216b809613f3f77a2770/master/pass/Does-NVIDIA-Got-This-Business.jpg",
-      "source": "Wired",
-      "sourceUrl": "https://www.wired.com/story/guys-really-we-got-this/",
-      "publishedAt": "2026-11-18T22:16:23.000Z"
     },
     {
       "id": "rpokwx",
