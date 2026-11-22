@@ -1,7 +1,25 @@
 {
-  "fetchedAt": "2026-11-22T09:37:32.154Z",
+  "fetchedAt": "2026-11-22T17:43:32.229Z",
   "count": 45,
   "articles": [
+    {
+      "id": "jg49co",
+      "title": "The vibe-coding revolution is coming to all the gadgets",
+      "summary": "This is The Stepback, a weekly newsletter breaking down one essential story from the tech world. For more on the vibe-hacking of everything, follow David Pierce. The Stepback arrives in our subscribers' inboxes on Sunday at 8AM ET. Opt in for The Stepback here. How it started Like so many things with AI, it's not that large language models opened up some wholly new capability. For as long as there have been gadgets, a few users have been hacking, modding, jailbreaking, and tweaking them to their…",
+      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/AI_vibe_coding_hacker_hardware.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "source": "The Verge",
+      "sourceUrl": "https://www.theverge.com/column/1039139/vibe-coding-gadgets-tv-camera",
+      "publishedAt": "2026-11-22T13:00:00.000Z"
+    },
+    {
+      "id": "4hqbo9",
+      "title": "Banks Have Had It Up to Here With Your AI Agent",
+      "summary": "Major US financial institutions are banning third-party bots from logging into your accounts—and warning that any costly bot mistakes are strictly your problem.",
+      "imageUrl": "https://media.wired.com/photos/6b0080a25f35c47a5c116087/master/pass/GettyImages-2285133719.jpg",
+      "source": "Wired",
+      "sourceUrl": "https://www.wired.com/story/banks-are-cracking-down-on-ai-agents/",
+      "publishedAt": "2026-11-22T11:00:00.000Z"
+    },
     {
       "id": "a328b3",
       "title": "The UN fails to agree on rules regulating ‘killer robots’",
@@ -192,15 +210,6 @@
       "publishedAt": "2026-11-19T20:29:46.000Z"
     },
     {
-      "id": "bolrs7",
-      "title": "Meta’s Muse Charm might cost $300",
-      "summary": "Meta is planning to price the Muse Charm, a little gadget with a screen that lets you chat with your Muse AI agent, at $300, according to The Information. CEO Mark Zuckerberg revealed the gadget earlier this year and said the company expected to ship the Charm \"in time for the holidays in December,\" but he didn't provide a price at the time. When he announced the Muse Charm, Zuckerberg said that the company had \"packed the whole Muse experience,\" including real-time voice and avatar technology,…",
-      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/lcimg-3879511d-dd3d-430c-8072-616e2dfb3484.jpeg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "source": "The Verge",
-      "sourceUrl": "https://www.theverge.com/tech/1038087/meta-muse-charm-ai-price",
-      "publishedAt": "2026-11-19T20:22:17.000Z"
-    },
-    {
       "id": "c7hh0x",
       "title": "Google Built a Giant ‘Mirror Dimension’ Internet to Test Its Chrome AI Agents",
       "summary": "The company’s alternate-universe internet serves as a massive sandbox that allows the Chrome team to properly train AI browsing agents—without the risk of them going rogue.",
@@ -217,15 +226,6 @@
       "source": "MIT Tech Review",
       "sourceUrl": "https://www.technologyreview.com/2026/11/19/1148979/the-download-liver-kept-alive-sila-battery-deal-ai-hype/",
       "publishedAt": "2026-11-19T13:10:00.000Z"
-    },
-    {
-      "id": "x1ewyz",
-      "title": "Anthropic’s Record-Breaking IPO Highlights the AI Giant’s Worst Enemy—Itself",
-      "summary": "Investors betting a barnstorming $107 billion will weigh whether the company’s AI safety strategy and growing public anger toward data centers could impact its growth.",
-      "imageUrl": "https://media.wired.com/photos/6afdeccab8b6cf0d23988257/master/pass/Anthropic-IPO-Business-2297744238.jpg",
-      "source": "Wired",
-      "sourceUrl": "https://www.wired.com/story/anthropics-record-breaking-ipo-highlights-the-ai-giants-worst-enemy-itself/",
-      "publishedAt": "2026-11-19T12:00:00.000Z"
     },
     {
       "id": "78k7io",
