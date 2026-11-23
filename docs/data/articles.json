@@ -1,7 +1,25 @@
 {
-  "fetchedAt": "2026-11-22T17:43:32.229Z",
+  "fetchedAt": "2026-11-23T03:57:39.297Z",
   "count": 45,
   "articles": [
+    {
+      "id": "dvwhky",
+      "title": "We haven’t seen the last of the major tech outages",
+      "summary": "Over the last week or so, we have seen a nationwide FAA ground stop, a multi-day Outlook outage that brought entire companies to a standstill, and a banking outage at JPMorgan Chase. But the consensus is that there are more to come. Director of National Intelligence Jay Clayton told CNN: \"The American people should be prepared for a great deal of investment in upgrading our systems; they should be prepared for investment in cybersecurity, and they should be prepared that any time there is a step…",
+      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/23318433/akrales_220309_4977_0182.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "source": "The Verge",
+      "sourceUrl": "https://www.theverge.com/tech/1039851/major-tech-outages",
+      "publishedAt": "2026-11-22T22:48:02.000Z"
+    },
+    {
+      "id": "4qzblk",
+      "title": "Binding of Isaac developer removes AI music from Repentance Plus",
+      "summary": "The Binding of Isaac: Repentance Plus has spent the last few days getting review-bombed on Steam after it was discovered that a particular segment of the game used AI music. Reddit user ShweetsStuff discovered the songs used during a Grand Theft Auto-themed section. They found several audio files with Suno metadata that pointed back to the tracks on Suno's site. Creator Edmund McMillen took to X to apologize and claimed he \"had no idea\" the in-game GTA parody used generative AI music. Adding to…",
+      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/j7yPmbNCP4I-HD.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "source": "The Verge",
+      "sourceUrl": "https://www.theverge.com/games/1039770/binding-of-isaac-ai-music",
+      "publishedAt": "2026-11-22T17:25:20.000Z"
+    },
     {
       "id": "jg49co",
       "title": "The vibe-coding revolution is coming to all the gadgets",
@@ -163,24 +181,6 @@
       "source": "Wired",
       "sourceUrl": "https://www.wired.com/story/henrijs-dandzbergs-polemos-missiles-ai-warfare/",
       "publishedAt": "2026-11-20T07:00:00.000Z"
-    },
-    {
-      "id": "a5oypy",
-      "title": "Apple is hiring engineers to build its own AI agent",
-      "summary": "Apple is working on its own AI agent that can perform a range of tasks for you, including browsing the web, working across apps, writing code, and calling services. That's according to a now-removed job listing spotted by Bloomberg, which said Apple is looking for an engineer to lead the creation of an agentic AI assistant. An AI agent from Apple would put the iPhone maker in the running to compete with the likes of Meta's Muse, OpenAI's Dots, Anthropic's Duet, and Google's Tasks. Muse, ChatGPT,…",
-      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/DSC04239.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "source": "The Verge",
-      "sourceUrl": "https://www.theverge.com/tech/1038227/apple-ai-agent-engineer-job-listing",
-      "publishedAt": "2026-11-19T22:31:41.000Z"
-    },
-    {
-      "id": "kuog2u",
-      "title": "A brief history of Nvidia’s recent stock fluctuations",
-      "summary": "Traders work on the floor of the New York Stock Exchange during morning trading on November 18, 2026 in New York City. | Image: Getty Images \"We've got this,\" Colette Kress, interim CEO of Nvidia, said Tuesday night as she closed out the embattled chip company's third quarter earnings call. By Thursday, the company's stock price was hovering at around $150 per share, a nearly 40 percent drop from its all-time high on October 6th, and wiping out a brief post-earnings pop on Tuesday night.…",
-      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/gettyimages-2305716823.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "source": "The Verge",
-      "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/1038063/nvidia-stock-market-price-earnings",
-      "publishedAt": "2026-11-19T21:59:35.000Z"
     },
     {
       "id": "2tecz2",
