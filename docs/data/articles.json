@@ -1,7 +1,70 @@
 {
-  "fetchedAt": "2026-11-23T03:57:39.297Z",
+  "fetchedAt": "2026-11-23T14:23:48.850Z",
   "count": 45,
   "articles": [
+    {
+      "id": "10ywo7",
+      "title": "Nvidia Is Powering Brain-Computer Interfaces Now",
+      "summary": "Brain-computer interface company Paradromics is using Nvidia’s computing hardware and software to process brain data.",
+      "imageUrl": "https://media.wired.com/photos/6b00bf3096143f394c42fff6/master/pass/Nvidia-Powering%20Brain-Computer-Interfaces-mary-connexus-control-unit-Science.jpg",
+      "source": "Wired",
+      "sourceUrl": "https://www.wired.com/story/nvidia-is-powering-brain-computer-interfaces-now/",
+      "publishedAt": "2026-11-23T13:11:48.000Z"
+    },
+    {
+      "id": "jdzf3p",
+      "title": "The Download: AI’s judgment problem and carbon removal’s crop threat",
+      "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. The most misunderstood graph in AI just got a major update A new report from the AI evaluation nonprofit METR finds that some capabilities are improving exponentially—but models aren’t as good…",
+      "imageUrl": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=800&q=80",
+      "source": "MIT Tech Review",
+      "sourceUrl": "https://www.technologyreview.com/2026/11/23/1149548/the-download-ai-judgment-problem-carbon-removal-crop-threat/",
+      "publishedAt": "2026-11-23T13:10:00.000Z"
+    },
+    {
+      "id": "jwkj8h",
+      "title": "Submit Your Questions: Will Anyone Keep You Safe From AI?",
+      "summary": "Experts agree that AI, in one way or another, poses real danger. Will the industry do anything about it? Join our livestream on December 2 to hear your questions answered.",
+      "imageUrl": "https://media.wired.com/photos/6b00ca934909d8ae8eb24f03/master/pass/livestream_ama_ai_safety.jpg",
+      "source": "Wired",
+      "sourceUrl": "https://www.wired.com/story/livestream-will-anyone-keep-us-safe-from-ai/",
+      "publishedAt": "2026-11-23T12:00:00.000Z"
+    },
+    {
+      "id": "cre27t",
+      "title": "Meta Muse can now do your Black Friday shopping at Walmart",
+      "summary": "Muse can find Walmart’s Black Friday deals so that you don’t have to. | Image: Walmart Walmart will now let Meta's Muse shop on its website on your behalf, allowing the AI agent to find and purchase Black Friday deals. The retail giant is rolling out a live implementation of the Agent Gateway it announced last month, which helps AI agents find relevant products for you without sharing your purchase history, according to Walmart. Muse can make purchases through Walmart's \"Agent Profiles,\" which…",
+      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/Walmart-Meta-Muse-Agent-Gateway.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "source": "The Verge",
+      "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/1039874/walmart-agent-gateway-meta-muse-black-friday",
+      "publishedAt": "2026-11-23T11:00:00.000Z"
+    },
+    {
+      "id": "8eq9up",
+      "title": "States Sue SpaceX Over Grok Deepfakes",
+      "summary": "The attorneys general of Oregon and Virginia are suing several of Elon Musk’s companies, alleging they implemented weak safeguards against sexualized imagery of real people, including children.",
+      "imageUrl": "https://media.wired.com/photos/6b00c213fb286bb31d23bec0/master/pass/Security_Virginia%20and%20Oregon%20Sue%20Grok%20Over%20Nonconsensual%20Intimate%20Imagery_v1.jpg",
+      "source": "Wired",
+      "sourceUrl": "https://www.wired.com/story/states-sue-spacex-over-grok-deepfakes/",
+      "publishedAt": "2026-11-23T11:00:00.000Z"
+    },
+    {
+      "id": "etwsfl",
+      "title": "Why using rocks for carbon removal could eventually reduce crop growth",
+      "summary": "Tech companies are investing a lot of hope and money in rocks. Google, Microsoft, and others have committed hundreds of millions of dollars to get startups to spread crushed basalt, olivine, or other alkaline materials across farms, in an effort to capture carbon from the air and lock it away. A number of influential models…",
+      "imageUrl": "https://images.unsplash.com/photo-1550751827-4bd374c3f58b?w=800&q=80",
+      "source": "MIT Tech Review",
+      "sourceUrl": "https://www.technologyreview.com/2026/11/23/1149392/why-using-rocks-for-carbon-removal-could-eventually-reduce-crop-growth/",
+      "publishedAt": "2026-11-23T11:00:00.000Z"
+    },
+    {
+      "id": "yxfzbp",
+      "title": "Goodbye, World: The End of Programmers",
+      "summary": "The last thing you should ever read—and the last thing I may ever write—about the craft of coding.",
+      "imageUrl": "https://media.wired.com/photos/6afb501c3f280c58f990fcf3/master/pass/WIRED-MREnglish-AaronFernandez-01.png",
+      "source": "Wired",
+      "sourceUrl": "https://www.wired.com/story/goodbye-world-the-end-of-programmers/",
+      "publishedAt": "2026-11-23T10:00:00.000Z"
+    },
     {
       "id": "dvwhky",
       "title": "We haven’t seen the last of the major tech outages",
@@ -147,15 +210,6 @@
       "publishedAt": "2026-11-20T13:10:00.000Z"
     },
     {
-      "id": "541vtc",
-      "title": "Signal is blocking Gemini and Siri AI from reading your screen",
-      "summary": "Signal users on iOS will see this option to toggle blocking screenshots and preventing Siri AI from scanning on-screen content. | Image: Signal Signal is restricting the ability to take screenshots on Android and iOS devices in an effort to prevent AI agents from reading users' messages and other data. The agentic AI capabilities built into operating systems that analyze on-screen information to learn more about the user are \"undermining Signal's ability to independently guarantee privacy,\"…",
-      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/protecting-your-privacy-1.png?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "source": "The Verge",
-      "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/1038390/signal-blocking-ai-agent-screenshots-mobile-app",
-      "publishedAt": "2026-11-20T12:30:47.000Z"
-    },
-    {
       "id": "rdelqs",
       "title": "Muse Is Unleashing a World of Pettiness on Instagram",
       "summary": "Meta’s AI assistant can track and unfollow Instagram users who don’t follow you back—and some people are taking full advantage.",
@@ -174,33 +228,6 @@
       "publishedAt": "2026-11-20T11:00:00.000Z"
     },
     {
-      "id": "e5r2dd",
-      "title": "This 16-Year-Old Founded an AI Missile Startup. He’s Targeting ‘Cost per Kill’",
-      "summary": "Henrijs Dandzbergs dropped out of high school to join startup accelerator Y Combinator. With a new breed of missile, he wants to make killing as efficient as possible for the US and its military allies.",
-      "imageUrl": "https://media.wired.com/photos/6aff9b51715a3d6f512c8dee/master/pass/The-Boy-Who-Builds-Missiles-Business.jpg",
-      "source": "Wired",
-      "sourceUrl": "https://www.wired.com/story/henrijs-dandzbergs-polemos-missiles-ai-warfare/",
-      "publishedAt": "2026-11-20T07:00:00.000Z"
-    },
-    {
-      "id": "2tecz2",
-      "title": "What’s With All These Outages?",
-      "summary": "This week on “Uncanny Valley,” we discuss the outages that have swept digital life over the past week, where new money from Anthropic’s IPO is going, and the AI chip world post-Jensen Huang.",
-      "imageUrl": "https://media.wired.com/photos/6afe24032a6a9296f65dbfa1/master/pass/Uncanny-Valley-FAA-Outage-Business.jpg",
-      "source": "Wired",
-      "sourceUrl": "https://www.wired.com/story/uncanny-valley-podcast-whats-with-all-these-outages/",
-      "publishedAt": "2026-11-19T21:57:01.000Z"
-    },
-    {
-      "id": "62xoyg",
-      "title": "The Jensen Huang Blast Radius Has Hit His Favorite Restaurants",
-      "summary": "In Taiwan, some food vendors are distancing themselves from Nvidia’s former CEO. Others stand by him. “It’s not as if he killed someone or set something on fire,” says one shop owner.",
-      "imageUrl": "https://media.wired.com/photos/6afe3efb681d658b6618bff6/master/pass/Model-Behavior-Jensen-Taiwanes-Restaurants-Business.jpg",
-      "source": "Wired",
-      "sourceUrl": "https://www.wired.com/story/jensen-huangs-favorite-restaurants-are-caught-up-in-his-scandals-too/",
-      "publishedAt": "2026-11-19T20:34:17.000Z"
-    },
-    {
       "id": "3r9yf2",
       "title": "Man hired by Russia spied on Silicon Valley tech and defense company, feds say",
       "summary": "25-year-old accused of stalking employees at coffee shop and in an \"aggressive\" car pursuit.",
@@ -208,15 +235,6 @@
       "source": "Ars Technica",
       "sourceUrl": "https://arstechnica.com/security/2026/11/man-charged-with-spying-on-silicon-valley-tech-and-defense-company-for-russia/",
       "publishedAt": "2026-11-19T20:29:46.000Z"
-    },
-    {
-      "id": "c7hh0x",
-      "title": "Google Built a Giant ‘Mirror Dimension’ Internet to Test Its Chrome AI Agents",
-      "summary": "The company’s alternate-universe internet serves as a massive sandbox that allows the Chrome team to properly train AI browsing agents—without the risk of them going rogue.",
-      "imageUrl": "https://media.wired.com/photos/6aff303dd91b5ce0f67d7c99/master/pass/security_chrome_mirror_browser_ai_agent.jpg",
-      "source": "Wired",
-      "sourceUrl": "https://www.wired.com/story/google-built-a-giant-mirror-dimension-internet-to-test-its-chrome-ai-agents/",
-      "publishedAt": "2026-11-19T17:00:00.000Z"
     },
     {
       "id": "a4f3at",
@@ -289,24 +307,6 @@
       "source": "Ars Technica",
       "sourceUrl": "https://arstechnica.com/security/2026/11/malicious-code-delivered-through-optimizely-hits-visitors-to-hundreds-of-sites/",
       "publishedAt": "2026-11-17T22:32:16.000Z"
-    },
-    {
-      "id": "t6i9ow",
-      "title": "Roundtables: Inside the Quest for Cognitive Immortality",
-      "summary": "Listen to the session or watch below In an effort to reach an elusive continuity of the self, some far-thinking technologists are working on ways to keep your brain going—even beyond death. Science editor Mary Beth Griggs and senior editor for biomedicine Antonio Regalado explore possible paths to keep your mind going, including gradual brain…",
-      "imageUrl": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=800&q=80",
-      "source": "MIT Tech Review",
-      "sourceUrl": "https://www.technologyreview.com/2026/11/17/1148049/roundtables-inside-the-quest-for-cognitive-immortality/",
-      "publishedAt": "2026-11-17T18:46:47.000Z"
-    },
-    {
-      "id": "ri3csh",
-      "title": "Hydropower hit record lows in the US Southwest this summer",
-      "summary": "The US Southwest generated 28% less electricity via hydropower between April and August than the 10-year average, according to new data from the US Energy Information Administration. Most hydropower plants in the US rely on dams to hold back water, creating reservoirs. The water can be released through turbines, generating electricity on demand. But an…",
-      "imageUrl": "https://images.unsplash.com/photo-1550751827-4bd374c3f58b?w=800&q=80",
-      "source": "MIT Tech Review",
-      "sourceUrl": "https://www.technologyreview.com/2026/11/17/1148742/hydropower-drought-colorado-river/",
-      "publishedAt": "2026-11-17T17:52:10.000Z"
     },
     {
       "id": "k17lbm",
