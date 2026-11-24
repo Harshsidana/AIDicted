@@ -1,7 +1,97 @@
 {
-  "fetchedAt": "2026-11-24T12:18:48.882Z",
+  "fetchedAt": "2026-11-24T22:42:18.556Z",
   "count": 45,
   "articles": [
+    {
+      "id": "tdphxq",
+      "title": "Jensen Huang reportedly tells Nvidia staff it’s ‘not true’ Trump got him rehired",
+      "summary": "Nvidia CEO Jensen Huang apologized to staff during his first all-hands since returning to the company, while attempting to distance himself from the narrative that the White House and tech leaders helped him get his job back, according to reports from Bloomberg, The New York Times, and The Handbasket's Marisa Kabas. During the meeting, Huang reportedly called claims that President Donald Trump was directly involved in his reinstatement - an idea publicly promoted by Trump himself - \"completely…",
+      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/gettyimages-2300373989.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "source": "The Verge",
+      "sourceUrl": "https://www.theverge.com/tech/1041571/jensen-huang-all-hands-nvidia-apology",
+      "publishedAt": "2026-11-24T20:02:03.000Z"
+    },
+    {
+      "id": "542b43",
+      "title": "David Fincher is being dragged for suspected use of AI in his latest film",
+      "summary": "Though David Fincher's fans had been eagerly anticipating The Further Mis-Adventures of Cliff Booth, early screenings of the Once Upon a Time in Hollywood sequel starring Brad Pitt have raised questions about whether generative AI was used in the film. People have claimed that the movie is chock-full of uncanny, inconsistent visuals that make it feel more like slop than the sort of polished film you'd expect from the director of sleek productions like Fight Club and The Social Network. Following…",
+      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/UFP25_R4_Rec709_2p4gamma_6188x3240_20260828.0363314_R2.jpg?quality=90&#038;strip=all&#038;crop=20.001873779297,0,79.998126220703,100",
+      "source": "The Verge",
+      "sourceUrl": "https://www.theverge.com/entertainment/1041417/david-fincher-netflix-cliff-booth-ai-interpositive",
+      "publishedAt": "2026-11-24T18:15:00.000Z"
+    },
+    {
+      "id": "eoktg5",
+      "title": "Jensen Huang Apologizes to Nvidia Employees in First All-Hands Since His Return",
+      "summary": "The Nvidia CEO opened up about his personal life, defended his reinstatement, and acknowledged that his intense management style had hurt his staff.",
+      "imageUrl": "https://media.wired.com/photos/6b05ac8615bd092ec9b638cd/master/pass/GettyImages-2279157190.jpg",
+      "source": "Wired",
+      "sourceUrl": "https://www.wired.com/story/jensen-huang-apologizes-to-nvidia-employees-in-first-all-hands-since-his-return/",
+      "publishedAt": "2026-11-24T17:44:53.000Z"
+    },
+    {
+      "id": "lnz8ot",
+      "title": "Tidal will start banning AI-generated music next month",
+      "summary": "Tidal is officially banning AI-generated music on December 9th. As a result of this change, Tidal will delete around 29 million AI-generated songs and reject an estimated 80,000 to 85,000 tracks per day, according to Tidal music lead Robert Andersen. The move comes just months after Tidal began labeling and demonetizing tracks identified as 100 percent AI-generated. In a post on X, Andersen says Tidal needed to take a more \"drastic\" measure, as AI music made up 43 percent of the tracks…",
+      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25319678/STK301_Tidal_01.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "source": "The Verge",
+      "sourceUrl": "https://www.theverge.com/entertainment/1041362/tidal-ai-music-ban",
+      "publishedAt": "2026-11-24T17:17:09.000Z"
+    },
+    {
+      "id": "7bywtr",
+      "title": "Jensen Huang deepfakes are the hot new AI slop",
+      "summary": "Jensen Huang is partying it up in Ibiza. In a video with nearly 6 million views on Instagram, the former CEO of Nvidia is dancing in a crowded club, champagne glass in hand, still wearing his signature black leather jacket. Suddenly, from behind him, Alice Huang - the Chinese technology executive and suspected spy he had an affair with, sparking congressional investigations and his resignation from the chipmaking company he cofounded - appears. She puts her hand on his shoulder and he wraps his…",
+      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/Jensen_huang_AI_deepfakes.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "source": "The Verge",
+      "sourceUrl": "https://www.theverge.com/tech/1041222/jensen-huang-nvidia-scandal-deepfakes",
+      "publishedAt": "2026-11-24T16:30:00.000Z"
+    },
+    {
+      "id": "hvr6v8",
+      "title": "The New York Times warns photographers not to update Photoshop over AI features",
+      "summary": "The New York Times is asking freelance photographers not to use the newest version of Adobe Photoshop because features in the 2027 update use AI \"in ways that may not be apparent to users.\" In an email seen by The Verge and posted on Threads, two of the Times' photography leaders, Meaghan Looram and Josh Haner, write that the use of these features \"can result in metadata identifying photographs as AI-generated.\" Adobe has spent the past few years filling Photoshop and other apps in its creative…",
+      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/gettyimages-2289911637.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "source": "The Verge",
+      "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/1041227/the-new-york-times-warns-photographers-not-to-update-photoshop-over-ai-features",
+      "publishedAt": "2026-11-24T16:09:23.000Z"
+    },
+    {
+      "id": "hpsgz2",
+      "title": "Anthropic Created a Honeypot to Lure AI Agents Into Misbehaving",
+      "summary": "A new test assumes AI agents can go rogue—and asks whether they can resist temptation.",
+      "imageUrl": "https://media.wired.com/photos/6b04bcaa13580ca4e2bfb763/master/pass/Business_Anthropic%20Created%20a%20Honeypot%20to%20Lure%20AI%20Agents%20Into%20Misbehaving_v1.jpg",
+      "source": "Wired",
+      "sourceUrl": "https://www.wired.com/story/ai-agents-can-get-honeypotted-too-aw/",
+      "publishedAt": "2026-11-24T16:00:00.000Z"
+    },
+    {
+      "id": "hvr4aj",
+      "title": "Raising the stakes for enterprise networks with AI modernization",
+      "summary": "Enterprise networks are under severe strain. As companies rush to deploy artificial intelligence, the technology is quickly becoming the biggest source of demand on the network. Now, agentic AI is adding to the load. Tasks conducted by AI agents generate an estimated 450% more network traffic than the same tasks done by human workers. As…",
+      "imageUrl": "https://images.unsplash.com/photo-1531746790095-6c10a4031c5f?w=800&q=80",
+      "source": "MIT Tech Review",
+      "sourceUrl": "https://www.technologyreview.com/2026/11/24/1148091/raising-the-stakes-for-enterprise-networks-with-ai-modernization/",
+      "publishedAt": "2026-11-24T15:15:16.000Z"
+    },
+    {
+      "id": "9d24dx",
+      "title": "The Download: AI’s gas power boom and a consciousness reality check",
+      "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. Data centers are getting their own natural gas power plants One of the biggest obstacles to building a data center is getting approval to connect to the grid, a wait that…",
+      "imageUrl": "https://images.unsplash.com/photo-1620712943543-bcc4688e7485?w=800&q=80",
+      "source": "MIT Tech Review",
+      "sourceUrl": "https://www.technologyreview.com/2026/11/24/1149669/the-download-data-centers-gas-ai-consciousness/",
+      "publishedAt": "2026-11-24T13:10:00.000Z"
+    },
+    {
+      "id": "eymbqp",
+      "title": "Amazon says hackers' AI agents found and exploited 0-day with little human input",
+      "summary": "The Cairn AI framework is proving to be a boon for defenders and attackers.",
+      "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/cairn-banner.jpg",
+      "source": "Ars Technica",
+      "sourceUrl": "https://arstechnica.com/security/2026/11/amazon-says-hackers-ai-agents-found-and-exploited-0-day-with-little-human-input/",
+      "publishedAt": "2026-11-24T12:30:05.000Z"
+    },
     {
       "id": "kcw3lg",
       "title": "Data centers are getting their own natural gas power plants",
@@ -75,33 +165,6 @@
       "publishedAt": "2026-11-23T20:00:00.000Z"
     },
     {
-      "id": "e12kui",
-      "title": "How Jensen Huang ended up as Nvidia CEO again",
-      "summary": "The Jensen Huang era of Nvidia nearly came to an end this month. Huang, who three decades ago cofounded what's come to be considered one of the most important companies in AI, resigned from his role on November 12th over mounting scrutiny around his alleged affairs. Huang admitted he had been \"unfaithful\" to his wife and that he \"created problems for the board.\" Huang's resignation came after weeks of escalating problems, both personal and professional. First, reporting from The New York Times…",
-      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/Nvidia_Jensen_huang_04.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "source": "The Verge",
-      "sourceUrl": "https://www.theverge.com/tech/1040428/nvidia-jensen-huang-ceo-return",
-      "publishedAt": "2026-11-23T19:57:18.000Z"
-    },
-    {
-      "id": "p8oac1",
-      "title": "Nothing’s upcoming Ear Note is a pair of earbuds with AI transcription",
-      "summary": "Nothing's new AI device is the Ear Note, a set of earbuds and their microphone-equipped charging case that can record and transcribe conversations, with a connected app to manage the recordings, transcriptions and AI-generated summaries, similar to Apple's new Watch feature and devices like Amazon's Bee wearable. Nothing CEO Carl Pei demonstrated the new device to Bloomberg, but said the company hasn't yet settled on a price ahead of a planned launch on December 8th. The report also says…",
-      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/nothing.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "source": "The Verge",
-      "sourceUrl": "https://www.theverge.com/gadgets/1040357/nothing-ear-note-earbuds-ai-recording",
-      "publishedAt": "2026-11-23T19:04:52.000Z"
-    },
-    {
-      "id": "gu4xri",
-      "title": "Oregon and Virginia sue SpaceX over Grok’s porn deepfakes",
-      "summary": "In separate but similar lawsuits filed on Monday, Oregon Attorney General Dan Rayfield and Virginia Attorney General Jay Jones accused SpaceX of violating state consumer protection laws by ignoring industry-standard safeguards and falsely promoting the safety of its X social media platform and Grok AI features. The complaint filed in Virginia accuses Musk of willfully ignoring growing concerns around AI-generated sexualized deepfakes, and \"instead saw a market opportunity for more profits,\"…",
-      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/06/STK419_DEEPFAKE_CVIRGINIA_F.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "source": "The Verge",
-      "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/1040255/x-grok-ai-deepfakes-oregon-virginia-lawsuit",
-      "publishedAt": "2026-11-23T18:26:47.000Z"
-    },
-    {
       "id": "a2epf8",
       "title": "Jensen Huang Is Back, and So Is Nvidia’s Stock",
       "summary": "Jensen Huang comes back, numbers go up. Maybe the reason behind the CEO’s return is just that simple?",
@@ -118,24 +181,6 @@
       "source": "MIT Tech Review",
       "sourceUrl": "https://www.technologyreview.com/2026/11/23/1149569/a-legendary-philosopher-isnt-buying-anthropics-consciousness-argument/",
       "publishedAt": "2026-11-23T17:36:08.000Z"
-    },
-    {
-      "id": "pbikjc",
-      "title": "White House brags that Trump was ‘totally involved’ in getting Jensen reinstated",
-      "summary": "It sure looked like President Donald Trump played a role in Jensen Huang's reinstatement as Nvidia CEO - and now the White House is making sure everyone knows he was. \"President Trump was totally involved and this is a great decision by the NVIDIA board,\" White House communications director Steven Cheung said in a statement, which was first reported by Semafor. \"We have to protect our geniuses.\" Trump later went on CNBC with a similar statement. \"We have to protect our geniuses,\" he said on the…",
-      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/gettyimages-2250207971.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "source": "The Verge",
-      "sourceUrl": "https://www.theverge.com/policy/1040096/trump-nvidia-jensen-huang-reinstated",
-      "publishedAt": "2026-11-23T16:30:11.000Z"
-    },
-    {
-      "id": "i90af8",
-      "title": "Tech leaders are celebrating Jensen Huang’s return",
-      "summary": "Let's say you're Jensen Huang. You (allegedly) cheated on your wife with an alleged Chinese spy, allegedly had an affair with not one, but two subordinates, and (allegedly!) \"terrorized\" your employees, a series of indiscretions that led to your ouster from what was once the world's most valuable company. (The stock price has recently taken a tumble, for obvious reasons.) And now you're back, baby - and all your friends are so eager to congratulate you. Elon Musk, for one, is thrilled. It is…",
-      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/Nvidia_Jensen_huang_01.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "source": "The Verge",
-      "sourceUrl": "https://www.theverge.com/tech/1040069/jensen-huang-return-elon-musk-sam-altman-yay",
-      "publishedAt": "2026-11-23T16:14:04.000Z"
     },
     {
       "id": "rxlyqu",
@@ -201,24 +246,6 @@
       "publishedAt": "2026-11-23T10:00:00.000Z"
     },
     {
-      "id": "4hqbo9",
-      "title": "Banks Have Had It Up to Here With Your AI Agent",
-      "summary": "Major US financial institutions are banning third-party bots from logging into your accounts—and warning that any costly bot mistakes are strictly your problem.",
-      "imageUrl": "https://media.wired.com/photos/6b0080a25f35c47a5c116087/master/pass/GettyImages-2285133719.jpg",
-      "source": "Wired",
-      "sourceUrl": "https://www.wired.com/story/banks-are-cracking-down-on-ai-agents/",
-      "publishedAt": "2026-11-22T11:00:00.000Z"
-    },
-    {
-      "id": "gh83p9",
-      "title": "The Outages Are Just Getting Started",
-      "summary": "AI is forcing companies to patch their systems faster as attackers race to exploit newly discovered vulnerabilities. Welcome to internet outage hell.",
-      "imageUrl": "https://media.wired.com/photos/6b00ba06fb286bb31d23be2b/master/pass/Kernel-Panic-Brace-for-More-Outages-Security.jpg",
-      "source": "Wired",
-      "sourceUrl": "https://www.wired.com/story/brace-yourself-for-years-of-outage-chaos/",
-      "publishedAt": "2026-11-21T13:00:00.000Z"
-    },
-    {
       "id": "i4466q",
       "title": "Researcher plants 2m canaries into the AI supply chain. A privacy disaster surfaced.",
       "summary": "Test using prompts with unique, trackable secrets proves that data doesn't stay private.",
@@ -280,24 +307,6 @@
       "source": "Ars Technica",
       "sourceUrl": "https://arstechnica.com/security/2026/11/how-to-tell-a-cyberattack-from-a-plain-old-outage/",
       "publishedAt": "2026-11-19T11:13:01.000Z"
-    },
-    {
-      "id": "h7ixvb",
-      "title": "What a billion-dollar deal says about the US battery market",
-      "summary": "After a tough few years littered with some high-profile failures, there’s some positive news for next-generation batteries in the US. Sila just signed an agreement with Panasonic Energy, a global battery manufacturer, to supply silicon-carbon anode material, a possible key to smaller, lighter batteries. It’s a deal that Sila says could be worth more than…",
-      "imageUrl": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=800&q=80",
-      "source": "MIT Tech Review",
-      "sourceUrl": "https://www.technologyreview.com/2026/11/19/1148922/sila-panasonic-battery-deal/",
-      "publishedAt": "2026-11-19T11:00:00.000Z"
-    },
-    {
-      "id": "rpokwx",
-      "title": "The AI Hype Index: AI is everywhere",
-      "summary": "Like a nasty rash, AI seems to spread everywhere. Google crams AI Overviews down your throat even though it costs the company billions of dollars in lost ad revenue. Leave your apartment, and you might pass two people heaving an AI-powered humanoid robot up the stairs to clean someone’s rooms. Go to the supermarket, and…",
-      "imageUrl": "https://images.unsplash.com/photo-1531746790095-6c10a4031c5f?w=800&q=80",
-      "source": "MIT Tech Review",
-      "sourceUrl": "https://www.technologyreview.com/2026/11/18/1148650/ai-hype-index-ai-is-everywhere/",
-      "publishedAt": "2026-11-18T14:42:44.000Z"
     },
     {
       "id": "lrm4tc",
@@ -397,15 +406,6 @@
       "source": "Ars Technica",
       "sourceUrl": "https://arstechnica.com/information-technology/2026/11/binance-says-hackers-who-stole-billions-in-crypto-spent-months-planning-heist/",
       "publishedAt": "2026-11-04T16:06:03.000Z"
-    },
-    {
-      "id": "aukgqz",
-      "title": "UEFI bootkit infected fully patched Windows machines. Is Microsoft to blame?",
-      "summary": "UEFI bootkit BlackX exploits Microsoft's lack of clarity around Secure Boot protections.",
-      "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2020/10/malware-1000x648.jpg",
-      "source": "Ars Technica",
-      "sourceUrl": "https://arstechnica.com/security/2026/11/uefi-bootkit-infected-fully-patched-windows-machines-is-microsoft-to-blame/",
-      "publishedAt": "2026-11-03T16:03:13.000Z"
     }
   ]
 }
