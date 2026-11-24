@@ -1,7 +1,34 @@
 {
-  "fetchedAt": "2026-11-24T01:50:18.188Z",
+  "fetchedAt": "2026-11-24T12:18:48.882Z",
   "count": 45,
   "articles": [
+    {
+      "id": "kcw3lg",
+      "title": "Data centers are getting their own natural gas power plants",
+      "summary": "One of the biggest roadblocks to starting up a data center is getting approval to connect to the electric grid—a wait that could last as long as a decade. Some developers aren’t willing to wait and are instead opting to build their own off-grid, or behind-the-meter, gas power plants to fuel the AI boom. xAI’s…",
+      "imageUrl": "https://images.unsplash.com/photo-1485827404703-89b55fcc595e?w=800&q=80",
+      "source": "MIT Tech Review",
+      "sourceUrl": "https://www.technologyreview.com/2026/11/24/1149622/data-centers-natural-gas/",
+      "publishedAt": "2026-11-24T11:00:00.000Z"
+    },
+    {
+      "id": "eo8w75",
+      "title": "Don’t Bring Up AI if You Want to Enjoy Your Thanksgiving",
+      "summary": "Young people anxious about their futures say they’re increasingly frustrated with their pro-AI parents. They’re worried it’s going to make holiday gatherings very tense.",
+      "imageUrl": "https://media.wired.com/photos/6b04ca840ad1d7b44d47c2ed/master/pass/Dont-Bring-Up-AI-if-You-Want-to-Enjoy-Thanksgiving-Business.jpg",
+      "source": "Wired",
+      "sourceUrl": "https://www.wired.com/story/dont-bring-up-ai-if-you-want-to-enjoy-your-thanksgiving/",
+      "publishedAt": "2026-11-24T10:45:00.000Z"
+    },
+    {
+      "id": "gslw56",
+      "title": "AI Solved Math’s Most Famous Problem. Now Humans Are Struggling to Understand It",
+      "summary": "It will take mathematicians months to understand the “alien” 17-million-line solution an Anthropic researcher produced for the Riemann hypothesis.",
+      "imageUrl": "https://media.wired.com/photos/6b04a99395eb5d98cc1eb23a/master/pass/112326-Riemann-hypothesis-ai.jpg",
+      "source": "Wired",
+      "sourceUrl": "https://www.wired.com/story/ai-solved-maths-most-famous-problem/",
+      "publishedAt": "2026-11-24T10:15:00.000Z"
+    },
     {
       "id": "eh9z28",
       "title": "Trump engineered a risky comeback for Jensen Huang",
@@ -192,15 +219,6 @@
       "publishedAt": "2026-11-21T13:00:00.000Z"
     },
     {
-      "id": "m5qahf",
-      "title": "Cops Are Pushing Extremely Corny ‘Grand Theft Auto 6’ Slop",
-      "summary": "The blockbuster game makes no secret of its contempt for law enforcement. Real police departments using it to recruit new members and scold the public apparently didn’t get the memo.",
-      "imageUrl": "https://media.wired.com/photos/6b008734209518b1b255d3f5/master/pass/Law-Enforcement-GTA-Recruitment-Culture-Lucia_Caminos_05.jpg",
-      "source": "Wired",
-      "sourceUrl": "https://www.wired.com/story/cops-are-being-extremely-corny-about-gta-vi/",
-      "publishedAt": "2026-11-20T23:24:02.000Z"
-    },
-    {
       "id": "i4466q",
       "title": "Researcher plants 2m canaries into the AI supply chain. A privacy disaster surfaced.",
       "summary": "Test using prompts with unique, trackable secrets proves that data doesn't stay private.",
@@ -208,15 +226,6 @@
       "source": "Ars Technica",
       "sourceUrl": "https://arstechnica.com/security/2026/11/a-leaky-ai-supply-chain-is-exposing-secret-user-data-at-an-alarming-rate/",
       "publishedAt": "2026-11-20T20:59:08.000Z"
-    },
-    {
-      "id": "c8f6ur",
-      "title": "Jensen Huang’s ‘Lying’ Alarmed Nvidia Board Ahead of His Resignation",
-      "summary": "Amid allegations of multiple affairs, including with a direct report and an alleged Chinese intelligence asset, sources tell WIRED the Nvidia board’s main issue was the former CEO’s “lack of candor.”",
-      "imageUrl": "https://media.wired.com/photos/6b007b4f6873ef9746910ee1/master/pass/GettyImages-2298479100.jpg",
-      "source": "Wired",
-      "sourceUrl": "https://www.wired.com/story/jensen-huangs-lying-alarmed-nvidia-board-ahead-of-his-resignation/",
-      "publishedAt": "2026-11-20T19:52:21.000Z"
     },
     {
       "id": "squm9t",
@@ -289,15 +298,6 @@
       "source": "MIT Tech Review",
       "sourceUrl": "https://www.technologyreview.com/2026/11/18/1148650/ai-hype-index-ai-is-everywhere/",
       "publishedAt": "2026-11-18T14:42:44.000Z"
-    },
-    {
-      "id": "qq9ac9",
-      "title": "The Download: AI learns to smell and hydropower struggles",
-      "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. This smell startup says its AI nose is as good as a human’s In a New Jersey lab, researchers are trying to sniff every odor on Earth. Their careful notes—“nutty,” “peachy,”…",
-      "imageUrl": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=800&q=80",
-      "source": "MIT Tech Review",
-      "sourceUrl": "https://www.technologyreview.com/2026/11/18/1148845/the-download-ai-learns-to-smell-hydropower-struggles/",
-      "publishedAt": "2026-11-18T13:10:00.000Z"
     },
     {
       "id": "lrm4tc",
