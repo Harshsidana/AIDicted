@@ -1,7 +1,52 @@
 {
-  "fetchedAt": "2026-11-25T15:57:54.356Z",
+  "fetchedAt": "2026-11-26T00:10:49.631Z",
   "count": 45,
   "articles": [
+    {
+      "id": "no3b8e",
+      "title": "Google’s patent for custom AI video feeds paints a bleak picture of entertainment’s future",
+      "summary": "Last year, Google filed a patent for a system called My Channel that's designed to create feeds filled with personalized, AI-generated videos and advertisements based on information the company knows about its users. The patent has been rejected, but unfortunately, Google might appeal or resubmit an amended version, and we could see this monstrosity come to market. First spotted by Patentlyze, the patent - which was filed last May and published last week - describes how My Channel would use a…",
+      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/Screenshot-2026-11-25-at-11.34.07-AM.png?quality=90&#038;strip=all&#038;crop=2.859375,3.7218027238494,93.788122558594,91.658221639303",
+      "source": "The Verge",
+      "sourceUrl": "https://www.theverge.com/entertainment/1042221/google-my-channel-ai-video-patent",
+      "publishedAt": "2026-11-25T21:51:26.000Z"
+    },
+    {
+      "id": "w4u8zg",
+      "title": "Backblaze explains why it's sharing customer information with advertisers",
+      "summary": "Backblaze tells Ars it won't share users' backup, storage files with advertisers.",
+      "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/GettyImages-1219679299-1152x648.jpg",
+      "source": "Ars Technica",
+      "sourceUrl": "https://arstechnica.com/information-technology/2026/11/backblaze-explains-why-its-sharing-customer-information-with-advertisers/",
+      "publishedAt": "2026-11-25T18:38:29.000Z"
+    },
+    {
+      "id": "pqfd51",
+      "title": "FCC signs off on SpaceX’s plan to put up to 1 million data center satellites into space",
+      "summary": "In an announcement on Wednesday, the FCC says it authorized SpaceX to deploy up to 1 million AI chip-equipped satellites as part of the Elon Musk-owned company's \"Starmind\" initiative. With several others also pursuing the idea of putting AI data centers in space, including Google and Blue Origin, this is the first approval the agency has granted for a full \"constellation\" of AI satellites. The FCC's approval requires SpaceX to deploy at least one satellite by 2033, and meet the 1 million…",
+      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/05/gettyimages-2269580650.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "source": "The Verge",
+      "sourceUrl": "https://www.theverge.com/science/1042278/spacex-fcc-starmind-ai-space-data-centers",
+      "publishedAt": "2026-11-25T17:44:51.000Z"
+    },
+    {
+      "id": "g7qfl6",
+      "title": "How data centers are driving a US natural-gas boom",
+      "summary": "In May 2025, my colleague David Rotman wrote a feature story describing how AI could keep us dependent on natural gas. Just 18 months later, I’ve lost count of how many times he’s already been proved right. Sure, it’s technically possible to meet the world’s rising electricity demand with other power sources, including renewables like…",
+      "imageUrl": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=800&q=80",
+      "source": "MIT Tech Review",
+      "sourceUrl": "https://www.technologyreview.com/2026/11/25/1149836/data-centers-gas-power-plants/",
+      "publishedAt": "2026-11-25T17:00:00.000Z"
+    },
+    {
+      "id": "pdjb2y",
+      "title": "Nothing offers a full look at its AI earbuds and charging case",
+      "summary": "Nothing is showing off a much more detailed look at its upcoming AI earbuds ahead of their December 8th release. The Ear Note buds can record your calls, while their charging case can record, transcribe, and summarize your conversations. Like the Ear 3, the Ear Note's microphone-equipped case comes with a \"Talk\" button that you can use to record your own voice. There's also a new \"Record\" button that can record and transcribe your conversations. In a post on X, Nothing CEO Carl Pei says the…",
+      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/ear-note-nothing.jpeg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "source": "The Verge",
+      "sourceUrl": "https://www.theverge.com/gadgets/1042162/nothing-ear-note-ai-earbuds-reveal",
+      "publishedAt": "2026-11-25T16:00:59.000Z"
+    },
     {
       "id": "6rdwxd",
       "title": "Amazon is reportedly in talks to end Muse AI shopping block",
@@ -165,33 +210,6 @@
       "publishedAt": "2026-11-24T10:15:00.000Z"
     },
     {
-      "id": "eh9z28",
-      "title": "Trump engineered a risky comeback for Jensen Huang",
-      "summary": "After Nvidia's board accepted Jensen Huang's resignation as CEO, following reports that Huang had an affair with an alleged Chinese spy, President Donald Trump, too, appeared to submit to the new reality. Appearing on Stephen A. Smith's radio show shortly after the news came out, Trump said that Huang would \"end up on his feet.\" \"You know the expression, anybody can be replaced,\" Trump said, floating Apple's ex-CEO Tim Cook as a potential CEO candidate. It didn't take long for Trump to begin…",
-      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/gettyimages-2297774940.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "source": "The Verge",
-      "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/1040652/jensen-huang-nvidia-trump-reinstated",
-      "publishedAt": "2026-11-23T22:25:12.000Z"
-    },
-    {
-      "id": "c237vs",
-      "title": "Nvidia CEO Jensen Huang is back. What happens next?",
-      "summary": "After the leather-jacketed CEO, president, and co-founder of Nvidia, Jensen Huang, acknowledged an affair with Megaspeed exec Alice Huang, his company initially announced an investigation. However, after The New York Times reported there was evidence of another affair, this time with an Nvidia executive who reported directly to him, a board meeting that night ended with Huang’s resignation, and Nvidia CFO Colette Kress was installed as the new interim CEO. And then… Huang was back. In recent…",
-      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/STKP210_JENSEN_HUANG_A.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "source": "The Verge",
-      "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/1030422/nvidia-jensen-huang-ai-china-alice-huang",
-      "publishedAt": "2026-11-23T22:10:32.000Z"
-    },
-    {
-      "id": "v3gyx3",
-      "title": "Welcome to elite impunity, Jensen Huang",
-      "summary": "Too big to fail, the sequel. | Image: The Verge; Getty Images I suppose I must issue a hearty congratulations to Jensen Huang. Huang is CEO of Nvidia again, to the surprise of basically everyone except President Donald Trump and Vice President JD Vance, who made sure it happened. Now, those of us who had some kind of basic education on what a \"free market\" is might find it objectionable to have the American president strong-arming a major American company. But our billionaire tech overlords care…",
-      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/Nvidia_Jensen_huang_06.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "source": "The Verge",
-      "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/1040819/welcome-to-elite-impunity-jensen-huang",
-      "publishedAt": "2026-11-23T22:09:26.000Z"
-    },
-    {
       "id": "a2epf8",
       "title": "Jensen Huang Is Back, and So Is Nvidia’s Stock",
       "summary": "Jensen Huang comes back, numbers go up. Maybe the reason behind the CEO’s return is just that simple?",
@@ -291,15 +309,6 @@
       "publishedAt": "2026-11-19T20:29:46.000Z"
     },
     {
-      "id": "a4f3at",
-      "title": "The Download: a living liver, a billion-dollar battery deal, and AI hype",
-      "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. A human liver has been kept alive outside the body for a record seven weeks Researchers in Australia claim they’ve kept a human liver alive on life support outside the body…",
-      "imageUrl": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=800&q=80",
-      "source": "MIT Tech Review",
-      "sourceUrl": "https://www.technologyreview.com/2026/11/19/1148979/the-download-liver-kept-alive-sila-battery-deal-ai-hype/",
-      "publishedAt": "2026-11-19T13:10:00.000Z"
-    },
-    {
       "id": "nhu37l",
       "title": "How to tell a cyberattack from a plain old outage",
       "summary": "When everything goes down, don’t assume it’s a cyberattack.",
@@ -397,15 +406,6 @@
       "source": "Ars Technica",
       "sourceUrl": "https://arstechnica.com/information-technology/2026/11/vmware-releases-vsphere-express-for-virtualization-on-up-to-128-cores/",
       "publishedAt": "2026-11-04T21:38:49.000Z"
-    },
-    {
-      "id": "nabc3i",
-      "title": "Binance says hackers who stole billions in crypto spent months planning heist",
-      "summary": "Techniques included laptop infections, compromised internal tooling, and fake job interviews.",
-      "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/binance-1024x648.jpg",
-      "source": "Ars Technica",
-      "sourceUrl": "https://arstechnica.com/information-technology/2026/11/binance-says-hackers-who-stole-billions-in-crypto-spent-months-planning-heist/",
-      "publishedAt": "2026-11-04T16:06:03.000Z"
     }
   ]
 }
