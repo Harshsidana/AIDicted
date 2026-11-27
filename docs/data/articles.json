@@ -1,7 +1,25 @@
 {
-  "fetchedAt": "2026-11-27T11:18:24.856Z",
+  "fetchedAt": "2026-11-27T20:13:00.287Z",
   "count": 45,
   "articles": [
+    {
+      "id": "4krjbg",
+      "title": "Android’s DIY widgets are a bit of vibe-coding fun",
+      "summary": "Widgets, your way. | Photo: Allison Johnson / The Verge Aside from dealing with my calendar, there's one thing I want AI to do: tell me if I'm about to miss the bus. What I need is a widget. It needs to tell me real-time arrivals for the bus stop near my house. Tapping around on my phone screen to open the right app and select my stop will slow me down enough to miss a bus. I need glanceable information, and I hoped that Android's vibe-coded widget feature could help me out here. It hasn't, to…",
+      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/DSC04405_processed.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "source": "The Verge",
+      "sourceUrl": "https://www.theverge.com/tech/1041801/android-intelligence-create-my-widget-gemini",
+      "publishedAt": "2026-11-27T14:00:00.000Z"
+    },
+    {
+      "id": "risbd8",
+      "title": "The Download: Innovators Under 35 nominations are open, and a bionic window into the mind",
+      "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. Our 2027 Innovators Under 35 competition is now open Every year, MIT Technology Review honors 35 of the world’s brightest young scientists, entrepreneurs, and inventors in our Innovators Under 35 list.…",
+      "imageUrl": "https://images.unsplash.com/photo-1526374965328-7f61d4dc18c5?w=800&q=80",
+      "source": "MIT Tech Review",
+      "sourceUrl": "https://www.technologyreview.com/2026/11/27/1149960/the-download-the-download-innovators-under-35-nominations-bionic-hand/",
+      "publishedAt": "2026-11-27T13:00:00.000Z"
+    },
     {
       "id": "veir7",
       "title": "Our 2027 Innovators Under 35 competition is now open",
@@ -12,10 +30,10 @@
       "publishedAt": "2026-11-27T10:48:47.000Z"
     },
     {
-      "id": "hiu1zi",
-      "title": "Cutting-edge prosthetics allow researchers to probe the human mind",
+      "id": "kh1ne4",
+      "title": "How cutting-edge prosthetics can help probe the human mind",
       "summary": "Over the last few weeks, I’ve been talking to Alexander (Avi) Davidson. There are a lot of remarkable things about Avi. He sustained a horrific injury as a teenager, which left him paralyzed and without a left hand. Today, he uses his own experience to guide his practice as a trauma therapist. He’s also taking…",
-      "imageUrl": "https://images.unsplash.com/photo-1531746790095-6c10a4031c5f?w=800&q=80",
+      "imageUrl": "https://images.unsplash.com/photo-1550751827-4bd374c3f58b?w=800&q=80",
       "source": "MIT Tech Review",
       "sourceUrl": "https://www.technologyreview.com/2026/11/27/1149946/cutting-edge-prosthetics-allow-researchers-to-probe-the-human-mind/",
       "publishedAt": "2026-11-27T10:00:00.000Z"
@@ -201,15 +219,6 @@
       "publishedAt": "2026-11-24T17:17:09.000Z"
     },
     {
-      "id": "7bywtr",
-      "title": "Jensen Huang deepfakes are the hot new AI slop",
-      "summary": "Jensen Huang is partying it up in Ibiza. In a video with nearly 6 million views on Instagram, the former CEO of Nvidia is dancing in a crowded club, champagne glass in hand, still wearing his signature black leather jacket. Suddenly, from behind him, Alice Huang - the Chinese technology executive and suspected spy he had an affair with, sparking congressional investigations and his resignation from the chipmaking company he cofounded - appears. She puts her hand on his shoulder and he wraps his…",
-      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/Jensen_huang_AI_deepfakes.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "source": "The Verge",
-      "sourceUrl": "https://www.theverge.com/tech/1041222/jensen-huang-nvidia-scandal-deepfakes",
-      "publishedAt": "2026-11-24T16:30:00.000Z"
-    },
-    {
       "id": "hpsgz2",
       "title": "Anthropic Created a Honeypot to Lure AI Agents Into Misbehaving",
       "summary": "A new test assumes AI agents can go rogue—and asks whether they can resist temptation.",
@@ -271,15 +280,6 @@
       "source": "Wired",
       "sourceUrl": "https://www.wired.com/story/jensens-back-stocks-up-what-the-hell-sure/",
       "publishedAt": "2026-11-23T17:52:56.000Z"
-    },
-    {
-      "id": "lqsg6i",
-      "title": "A legendary philosopher isn’t buying Anthropic’s consciousness argument",
-      "summary": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here. Before going public last week, Anthropic named the possibility that AI could be conscious or sentient as a risk factor for anyone investing. Given “the way we approach model sentience and moral…",
-      "imageUrl": "https://images.unsplash.com/photo-1676299081847-824916de030a?w=800&q=80",
-      "source": "MIT Tech Review",
-      "sourceUrl": "https://www.technologyreview.com/2026/11/23/1149569/a-legendary-philosopher-isnt-buying-anthropics-consciousness-argument/",
-      "publishedAt": "2026-11-23T17:36:08.000Z"
     },
     {
       "id": "rxlyqu",
