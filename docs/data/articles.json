@@ -1,7 +1,34 @@
 {
-  "fetchedAt": "2026-11-27T02:06:33.979Z",
+  "fetchedAt": "2026-11-27T11:18:24.856Z",
   "count": 45,
   "articles": [
+    {
+      "id": "veir7",
+      "title": "Our 2027 Innovators Under 35 competition is now open",
+      "summary": "Every year, the editors at MIT Technology Review select 35 of the world’s top young scientists, entrepreneurs, and inventors to honor as our newest class of Innovators Under 35. And starting today, our 2027 competition is officially open for nominations. We’re on the hunt for researchers and founders who are engineering solutions to some of…",
+      "imageUrl": "https://images.unsplash.com/photo-1655720828018-edd2daec9349?w=800&q=80",
+      "source": "MIT Tech Review",
+      "sourceUrl": "https://www.technologyreview.com/2026/11/27/1149857/2027-innovators-under-35-competition-nominate/",
+      "publishedAt": "2026-11-27T10:48:47.000Z"
+    },
+    {
+      "id": "hiu1zi",
+      "title": "Cutting-edge prosthetics allow researchers to probe the human mind",
+      "summary": "Over the last few weeks, I’ve been talking to Alexander (Avi) Davidson. There are a lot of remarkable things about Avi. He sustained a horrific injury as a teenager, which left him paralyzed and without a left hand. Today, he uses his own experience to guide his practice as a trauma therapist. He’s also taking…",
+      "imageUrl": "https://images.unsplash.com/photo-1531746790095-6c10a4031c5f?w=800&q=80",
+      "source": "MIT Tech Review",
+      "sourceUrl": "https://www.technologyreview.com/2026/11/27/1149946/cutting-edge-prosthetics-allow-researchers-to-probe-the-human-mind/",
+      "publishedAt": "2026-11-27T10:00:00.000Z"
+    },
+    {
+      "id": "ozbjmv",
+      "title": "A New Breed of Chip Runs AI Models Using Waves of Light",
+      "summary": "German company Q.ANT is trying to cut the amount of energy required to run AI models by using light to perform the toughest calculations.",
+      "imageUrl": "https://media.wired.com/photos/6b073e1d34813a006d725bef/master/pass/QANT-CEO-QandA-Business.jpg",
+      "source": "Wired",
+      "sourceUrl": "https://www.wired.com/story/a-new-breed-of-chip-runs-ai-models-using-waves-of-light/",
+      "publishedAt": "2026-11-27T07:00:00.000Z"
+    },
     {
       "id": "w8hove",
       "title": "The Download: Better bionic hands and AI’s natural-gas boom",
@@ -262,33 +289,6 @@
       "source": "Wired",
       "sourceUrl": "https://www.wired.com/story/jensen-huang-is-back-as-nvidia-ceo/",
       "publishedAt": "2026-11-23T14:27:35.000Z"
-    },
-    {
-      "id": "10ywo7",
-      "title": "Nvidia Is Powering Brain-Computer Interfaces Now",
-      "summary": "Brain-computer interface company Paradromics is using Nvidia’s computing hardware and software to process brain data.",
-      "imageUrl": "https://media.wired.com/photos/6b00bf3096143f394c42fff6/master/pass/Nvidia-Powering%20Brain-Computer-Interfaces-mary-connexus-control-unit-Science.jpg",
-      "source": "Wired",
-      "sourceUrl": "https://www.wired.com/story/nvidia-is-powering-brain-computer-interfaces-now/",
-      "publishedAt": "2026-11-23T13:11:00.000Z"
-    },
-    {
-      "id": "jdzf3p",
-      "title": "The Download: AI’s judgment problem and carbon removal’s crop threat",
-      "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. The most misunderstood graph in AI just got a major update A new report from the AI evaluation nonprofit METR finds that some capabilities are improving exponentially—but models aren’t as good…",
-      "imageUrl": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=800&q=80",
-      "source": "MIT Tech Review",
-      "sourceUrl": "https://www.technologyreview.com/2026/11/23/1149548/the-download-ai-judgment-problem-carbon-removal-crop-threat/",
-      "publishedAt": "2026-11-23T13:10:00.000Z"
-    },
-    {
-      "id": "etwsfl",
-      "title": "Why using rocks for carbon removal could eventually reduce crop growth",
-      "summary": "Tech companies are investing a lot of hope and money in rocks. Google, Microsoft, and others have committed hundreds of millions of dollars to get startups to spread crushed basalt, olivine, or other alkaline materials across farms, in an effort to capture carbon from the air and lock it away. A number of influential models…",
-      "imageUrl": "https://images.unsplash.com/photo-1550751827-4bd374c3f58b?w=800&q=80",
-      "source": "MIT Tech Review",
-      "sourceUrl": "https://www.technologyreview.com/2026/11/23/1149392/why-using-rocks-for-carbon-removal-could-eventually-reduce-crop-growth/",
-      "publishedAt": "2026-11-23T11:00:00.000Z"
     },
     {
       "id": "i4466q",
